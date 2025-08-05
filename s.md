@@ -1939,7 +1939,6 @@
 1. 【[㷹火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_hu.md#㷹火)】`sho5 hu` <sup>[如皋]</sup> 放㷹火：元宵节俗，晚点燃田间、沟岸宿草，看火色测水、旱年，可烧死躲在草中越冬的害虫。也叫“浇麻串”。  
 1. 【[哨竿脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun_jiah_zz.md#哨竿脚子)】`sho5 gun1 jiah7 zz` <sup>[如皋]</sup> 立哨竿的石块，中有竖孔，可插入竹竿。  
 1. 【[哨竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun.md#哨竿)】`sho5 gun3` <sup>[如皋]</sup> 打丝线时立在离架子约20米的一根竹竿，传筢时把丝从上面绕过去，再回到架子下  
-1. 【[哨马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ma_zz.md#哨马子)】`sho5 ma3 zz` <sup>[如皋]</sup> 旧时用的一种装铜钞、小钱儿的钱袋，骑在肩上，前后有袋。  
 1. 【[哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#哨子)】`sho5 zz` <sup>[如东]</sup> 圆柱形，一般金属制，有口，放在嘴里吹，能发出响声，有提醒人注意或统一动作的作用。也叫哨鞭。风筝上安装的响器。竹筒制成，壁薄，有口。两只哨子联在一起，称一联。有一联、二联、三联、五联等多种。缚在风箏上，经大风吹，能发出响声。  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` <small>/sɔ5/<sup>如皋</sup></small> 短，和“长”相对<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这根竹竿嫌～。<sup>\[如东\]</sup>  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5-2` <sup>[东台]</sup> 短的意思：这绳子不到一米，跳绳嫌～。  
@@ -1964,6 +1963,8 @@
 1. 【[少年小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nin_xio_hu.md#少年小伙)】`sho5 nin2 xio3 hu3` <sup>[兴化]</sup> 年轻男子：一路上，第一个遇到的是个种田的～，二十多岁……（兴文《三个女婿对对子》）  
 1. 【[少亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_van.md#少亡)】`sho5 van2` <small>/sɔ5 ʋã2/<sup>如皋</sup>, /sɔ5 uɑŋ2/<sup>泰兴</sup></small> ① 未过三十三岁“本寿”而死亡。<sup>\[如皋\]</sup> ② 詈语。咒某年轻人早死。常作名词<sup>\[如皋\]</sup>：你这个～，要上哪许去呀！<sup>\[如皋\]</sup> ③ 夭亡。乡人对少儿或晚辈调皮者责少亡，有亲近义。<sup>\[泰兴\]</sup>  
 1. 【[少壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhuan.md#少壮)】`sho5 zhuan5` <small>/sɔ5 t͡suaŋ5/<sup>兴化</sup>, /sɔ5 t͡ɕyɑŋ5/<sup>泰县</sup></small> ① 三十至四十岁年龄段的人。<sup>\[如东\]</sup>：～派。形容老年人身体结实，不显得苍老。<sup>\[如东\]</sup>｜看他这吖～，其实年纪已经不小啊。<sup>\[如东\]</sup> ② 指人的容颜比实际年龄显得年轻<sup>\[兴化\]</sup>：“（刘将军）虽四旬开外年纪，生得一……”（扬二《甘露寺相婿》）<sup>\[兴化\]</sup> ③ 不显老的老年人。<sup>\[泰县\]</sup> ④ 人的容颜比人的实际岁数年轻<sup>\[泰州\]</sup>：他人长得多～吖。<sup>\[泰州\]</sup>  
+1. 【[捎马袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ma_tae_zz.md#捎马袋子)】`sho5 ma3 tae6 zz` <small>/sɔ5 mɑ3 tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 可搭于肩头的长形厚布袋，中间开口，两端装东西。<sup>\[泰兴\]</sup>  
+1. 【[捎马子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ma_zz.md#捎马子)】`sho5 ma3 zz` <sup>[如皋]</sup> 旧时用的一种装铜钞、小钱儿的钱袋，骑在肩上，前后有袋。  
 1. 【[潲雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#潲雨)】`sho5 y3` <sup>[如东]</sup> 雨斜着落下来。  
 1. 【[筲箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ji.md#筲箕)】`sho5 ji1` <small>/sɔ5 t͡ɕʝ1/<sup>如皋</sup></small> ① 原指淘箩，本地作地名，何庄乡小溪河南有～村。据传是战国时南楚移民所开辟。<sup>\[如皋\]</sup> ② 容器。竹篾编成，缝口密切，圆柿形，有盖，有环。体积较小。盛物用。<sup>\[如东\]</sup>  
 1. 【[肖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#肖)】`sho5` <sup>[东台]</sup> 所有生肖轮流一周为12年：相差12岁就是相差一～。  

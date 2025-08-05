@@ -1587,6 +1587,7 @@
 1. 【[捞蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hae.md#捞蟹)】`lo2 hae3` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把蟹兜进网袋。  
 1. 【[捞话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_hua.md#捞话)】`lo2 hua6` <sup>[如东]</sup> 随便插话：你不要～。  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo2 ieu2 shuei3` ① （贬）捞取份外好处。<sup>\[东台\]</sup> ② 以不正当手段获取公家或者集体钱物<sup>\[泰州\]</sup>：这个家伙分管基建的时候，捞啊公家不少有水。<sup>\[泰州\]</sup>  
+1. 【[捞腰𢶍裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_io_saeh_kv.md#捞腰𢶍裤)】`lo2 io saeh7 kv5` <small>/lɔ2 iɔ ɕiæʔ7 kʰu5/<sup>泰兴</sup></small> 装束齐整，充分准备（干某件事）。<sup>\[泰兴\]</sup>  
 1. 【[捞疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lien_zz.md#捞疄子)】`lo2 lien2 zz` <sup>[如皋]</sup> 在田间挖槽堆垅，供栽植芋头、番芋等块茎作物。  
 1. 【[捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lo.md#捞捞)】`lo2 lo2` <sup>[如东]</sup> ① 企图获取分外的东西：他想出去～。 ② 做做：现在没事做，我想出去～。  
 1. 【[捞摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_mah.md#捞摸)】`lo2 mah8` <small>/lɔ2 mɑʔ8/<sup>泰兴</sup></small> ① 好处，外快。<sup>\[如东\]</sup>：你在那许可能有点儿～。<sup>\[如东\]</sup> ② ［喻］有东西可捞可摸，有内容有滋味<sup>\[东台\]</sup>：光喝粥，没～。<sup>\[东台\]</sup> ③ 向水中探物。亦指寻取<sup>\[泰兴\]</sup>：多里～、没得～<sup>\[泰兴\]</sup>  
@@ -1597,6 +1598,7 @@
 1. 【[捞手板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_sheu_baen_zz.md#捞手板子)】`lo2 sheu3 baen3 zz` <sup>[泰县]</sup> 双手不停地乱拿东西的人。  
 1. 【[捞瘙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_so.md#捞瘙)】`lo2 so` <sup>[泰县]</sup> 身上作痒。  
 1. 【[捞汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tan.md#捞汤)】`lo2 tan1` <sup>[如东]</sup> 不属于自己管理的事情而插嘴或插手：她就喜欢～。  
+1. 【[捞外块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_vae_kuae.md#捞外块)】`lo2 vae6 kuae5` <small>/lɔ2 ʋɛ1 kʰuɛ5/<sup>泰兴</sup></small> 捞取不正当的收入。<sup>\[泰兴\]</sup>  
 1. 【[捞外快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_vae_kuae.md#捞外快)】`lo2 vae6 kuae5` <sup>[东台]</sup> 捞取正常收入以外的钱。  
 1. 【[捞网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_van.md#捞网)】`lo2 van3` <sup>[如东]</sup> ① 一种捕鱼网具。扇形，前宽后狭，网口宽2.4米，网尾宽1.2米。网的后边有一个网兜。网线细，网眼密。网的两边缚在两根呈人字形的竹竿上。 ② 一种捕捞方式。渔民将网放在水中很快地向前推动，捕捉蟹、虾及鱼，叫做捞网。  
 1. 【[捞虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_xia.md#捞虾)】`lo2 xia1` <sup>[如东]</sup> 一种捕捞方式。涨潮时，渔民迎着潮头，用捞网在港汊中迅速地向前推动，从而把虾兜进网袋。  

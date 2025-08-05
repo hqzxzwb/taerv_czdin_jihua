@@ -2302,17 +2302,21 @@
 1. 【[痪掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tio.md#痪掉)】`hun5 tio` <sup>[东台]</sup> 指某种植物因被其它东西遮蔽，影响通风透光而生长不良，像瘫痪了似的：这里杂草太多，再不薅掉，就要把菜～。  
 1. 【[捍海堰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_hae_in.md#捍海堰)】`hun6 hae3 in5` <sup>[如东]</sup> 唐代宗李豫大历年间（公元806年－820年）淮南节度判官黜步使李承（宋史载为李承实）主持修筑捍海堰，又名常丰堰。自盐城至海安，全长71公里。  
 1. 【[换茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cha.md#换茬)】`hun6 cha2` <sup>[如东]</sup> 改种：明年～。  
+1. 【[换茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cha.md#换茬)】`hun6 cha2` <small>/xʊ̃1 t͡sʰɑ2/<sup>泰兴</sup></small> 一种作物收获后，次年或下一茬换种另一种作物。<sup>\[泰兴\]</sup>  
 1. 【[换茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cha.md#换茶)】`hun6 cha2` <sup>[如皋]</sup> 第二次受茶，指寡嫂与小叔子结婚。  
 1. 【[换饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_faen.md#换饭)】`hun6 faen6` <small>/xũ6 fɛ̃6/<sup>兴化</sup></small> 丧礼：死者已嫁之女于“六七”（有的地方“五七”）设馔，祭奠亡魂。<sup>\[兴化\]</sup>\[泰州：如无女儿可由媳妇娘家代办\]：今朝是亲家公的六七，新妇回娘家～去啊。<sup>\[泰州\]</sup>  
 1. 【[换粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_fen.md#换粪)】`hun6 fen5` <sup>[兴化]</sup> 旧时，农民到城镇收购民户的粪肥，沿途高喊～（收购草灰及垃圾者称“换灰”）。《西湖二集》十九卷，嘲粗使梅香诗中，有“除灰～常拖拽”句。  
+1. 【[换季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji.md#换季)】`hun6 ji5` <small>/xʊ̃1 t͡ɕʝ5/<sup>泰兴</sup></small> 更换衣服。多用于季节变化时更换、增减衣服。<sup>\[泰兴\]</sup>  
+1. 【[换肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_jin.md#换肩)】`hun6 jin1` <small>/xʊ̃1 t͡ɕĩ1/<sup>泰兴</sup></small> 挑或扛东西时从一个肩上换到另一个肩上。<sup>\[泰兴\]</sup>  
 1. 【[换凉月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lian_iuh_zz.md#换凉月子)】`hun6 lian2 iuh8 zz` <sup>[如皋]</sup> 月食。  
 1. 【[换门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_men_qien.md#换门亲)】`hun6 men2 qien1` <sup>[如皋]</sup> 双方女子互换与双方男子结婚。  
-1. 【[换亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qien.md#换亲)】`hun6 qien1` 双方女子互嫁。<sup>\[如东\]</sup>\[泰州：一种婚姻陋习，以自己的女儿换娶对方的女儿做儿媳。\]  
+1. 【[换亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qien.md#换亲)】`hun6 qien1` <small>/xʊ̃1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 双方女子互嫁。<sup>\[如东\]</sup>\[泰州：一种婚姻陋习，以自己的女儿换娶对方的女儿做儿媳。\]\[泰兴：又叫“交门亲”\]  
 1. 【[换身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen.md#换身)】`hun6 shen1` <sup>[泰州]</sup> 更换身上的衣服，将穿脏的衣服换下来洗：这趟差至少要10天，你要带套小褂裤～。  
 1. 【[换身衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_i_shan.md#换身衣裳)】`hun6 shen1 i1 shan` <sup>[兴化]</sup> 指替换洗涤的衣裳：他当年穷得连～都没得。｜“准备啥呀？快开房门，让我进去帮你收拾，拿套把～就是了。”（马春阳：《月朗和她的娘舅们》）  
 1. 【[换寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sheu.md#换寿)】`hun6 sheu6` 为老人过生日办寿宴。  
 1. 【[换太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tae_ian.md#换太阳)】`hun6 tae5 ian2` <sup>[如皋]</sup> 日食。  
 1. 【[换汤不换药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan_beh_hun.md#换汤不换药)】`hun6 tan1 beh7 hun6 iah8` <sup>[东台]</sup> （俗语）意思是说只改变形式，不改变实质内容。  
+1. 【[换汤不换药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan_beh_hun.md#换汤不换药)】`hun6 tan1 beh7 hun6 iah8` <small>/xʊ̃1 tʰɑŋ1 pəʔ7 xʊ̃1 iɑʔ8/<sup>泰兴</sup></small> 比喻仍是老一套，换了样子而实质没有变。<sup>\[泰兴\]</sup>  
 1. 【[换塘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan_teu.md#换塘头)】`hun6 tan2 teu` <sup>[如东]</sup> 调换地点：他喜欢～。  
 1. 【[换糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tan.md#换糖)】`hun6 tan2` <small>/xũ6 tʰaŋ2/<sup>兴化</sup></small> 小商贩用斫糖（糖稀熬成的糖块）或其他廉价糖果换取民户的废品。<sup>\[兴化\]</sup>\[泰州：收废品的小贩挑一糖担，前担箩上置一放斫糖的糖盘，后担的箩用来盛装废旧物资，居民将家中诸如牙膏皮、头发之类废品，从小贩那里换取儿童喜爱吃的斫糖。\]  
 1. 【[换头发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_teu_faeh.md#换头发)】`hun6 teu2 faeh` <sup>[如皋]</sup> 秋天，头发更新。  

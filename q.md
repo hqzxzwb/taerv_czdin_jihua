@@ -1366,6 +1366,7 @@
 1. 【[牵倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_do.md#牵倒)】`qin1 do` <sup>[如东]</sup> 吆喝牛向右转弯。  
 1. 【[牵槅拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_geh_la_r.md#牵槅拉<sub>儿</sub>)】`qin1 geh7 la1 r` <sup>[如东]</sup> 挂在右犁笮上的葫芦。  
 1. 【[牵沟杈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_geu_cha_r.md#牵沟杈<sub>儿</sub>)】`qin1 geu1 cha1 r` <sup>[如东]</sup> 牛犁部件，木质弓形，底部有孔，套在犁楗上，上端有一眼，贯穿牛绳。  
+1. 【[牵瓜藤揽瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gua_ten_laen.md#牵瓜藤揽瓠子)】`qin1 gua1 ten2 laen3 v6 zz` <small>/t͡ɕʰĩ1 kuɑ1 tʰəŋ2 lɛ̃3 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 办事东扯西拉，条理不清。犹“麻田里扯到菜田里”。<sup>\[泰兴\]</sup>  
 1. 【[牵老古言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_lo_gv_in.md#牵老古言)】`qin1 lo3 gv3 in2` <sup>[东台]</sup> 谈很早以前的往事：几个老人碰到一起就喜欢～。  
 1. 【[牵马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ma.md#牵马)】`qin1 ma3` <sup>[兴化]</sup> （借）撮合男女通奸：这个洗头房的老板娘专干～带索的勾当。  
 1. 【[牵磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mu.md#牵磨)】`qin1 mu6` <small>/t͡ɕʰiɪ̃1 mo6/<sup>兴化</sup>, /t͡ɕʰĩ1 mʊ1/<sup>如皋</sup></small> ① 人力拉动的中等石磨。<sup>\[如皋\]</sup> ② 二至三人合作拉动石磨磨粮。<sup>\[如皋\]</sup> ③ 抓着磨拐的后端，一推一拉使磨旋转做功。儿歌<sup>\[兴化\]</sup>：～郎，拗磨郎，送我家宝宝上书房……<sup>\[兴化\]</sup>  
@@ -1502,7 +1503,6 @@
 1. 【[芡实茎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_sheh_jien.md#芡实茎)】`qin5 sheh8 jien1` <sup>[如东]</sup> 唾莲科植物芡实花茎。  
 1. 【[茜草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_co.md#茜草)】`qin5 co3` <sup>[如东]</sup> 茜草科植物茜草，多年生攀援草本。  
 1. 【[件头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_teu.md#件头)】`qin6 teu` <sup>[兴化]</sup> 机械工具上的零部件：这种机器上的～配不到，没法修理。  
-1. 【[牵瓜藤揽瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gua_ten_laen.md#牵瓜藤揽瓠子)】`qin6 gua1 ten2 laen3 v6 zz` <small>/t͡ɕʰĩ1 kuɑ1 tʰəŋ2 lɛ̃3 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 办事东扯西拉，条理不清。犹“麻田里扯到菜田里”。<sup>\[泰兴\]</sup>  
 1. 【[贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#贱)】`qin6` <sup>[如皋]</sup> 詈语，指人格低下。  
 1. 【[贱货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_hu.md#贱货)】`qin6 hu5` <small>/t͡ɕʰiɪ̃6 xo5/<sup>兴化</sup>, /t͡ɕʰĩ1 xʊ5/<sup>如皋</sup></small> ① 詈语，多指女人。<sup>\[如皋\]</sup> ② 詈语，一般指不正派的女人。<sup>\[东台\]</sup><sup>\[泰州\]</sup> ③ 不值钱的东西。<sup>\[兴化\]</sup> ④ （借）骂人下贱不自重<sup>\[兴化\]</sup>：这个婆娘好日子不过，丢下伢儿跟人私奔，真是个～。<sup>\[兴化\]</sup>  
 1. 【[贱买](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mae.md#贱买)】`qin6 mae3` <sup>[兴化]</sup> 用低价购进商品：这件上衣五十多块钱，真是～啊。  
@@ -1554,6 +1554,7 @@
 1. 【[憔悴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_xy.md#憔悴)】`qio2 xy` <sup>[东台]</sup> 忧虑，担心：到新疆虽然远，但你不要～，现在交通方便。  
 1. 【[桥根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gen.md#桥根)】`qio2 gen1` 桥两头靠近岸的地方的  
 1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <sup>[兴化]</sup> （喻）互不相干的人或事：你做你的生意，我种我的田，我俫～。  
+1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <small>/t͡ɕʰiɔ2 kuəɪ1 t͡ɕʰiɔ2 lu1 kuəɪ1 lu1/<sup>泰兴</sup></small> 条理分明，互不牵扯。相互不搭界的事。<sup>\[泰兴\]</sup>  
 1. 【[桥桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#桥桥<sub>儿</sub>)】`qio2 qio2-3 r` <sup>[泰县]</sup> 一种可吃的麦田地里的草。  
 1. 【[桥踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_taeh_zz.md#桥踏子)】`qio2 taeh8 zz` <sup>[如东]</sup> 河埠口上供人站着洗东西的引桥。  
 1. 【[桥头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#桥头)】`qio2 teu2` <sup>[如东]</sup> 按桥的南北方向，南方为桥头。上桥的地方，称桥头。  

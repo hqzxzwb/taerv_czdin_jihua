@@ -440,13 +440,14 @@
 1. 【[𧧭邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lien_sha_ga.md#𧧭邻舍家)】`gan5 lien2 sha5 ga` <sup>[如皋]</sup>   
 1. 【[䞘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#䞘)】`geh7` <sup>[东台]</sup> 单脚连续跳，（《玉篇》解行貌方音读若“隔”）：刘翔在2012年奥运会上一只腿捱𢴬倒，还坚持用另一只腿～到终点，了不起！  
 1. 【[䞘疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jian.md#䞘疆)】`geh7 jian1` <sup>[东台]</sup> 旧时小孩玩的一种游戏，在地上画格子，游戏者䞘着踢。也叫“跳房子”。  
-1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1, geh7 dien0` <small>/kəʔ7 tiəŋ1/<sup>如皋</sup>, /kəʔ7 tiŋ1/<sup>泰兴</sup></small> ① 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。<sup>\[如皋\]</sup> ② 一种比较粗的面条，以手工擀成。如“荞麦屑～”等。<sup>\[泰兴\]</sup>  
+1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1, geh7 dien0` <small>/kəʔ7 tiəŋ1/<sup>如皋</sup>, /kəʔ7 tiŋ1/<sup>泰兴</sup></small> ① 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。<sup>\[如皋\]</sup> ② 一种比较粗的面条，以手工擀成。<sup>\[泰兴\]</sup>：荞麦屑～<sup>\[泰兴\]</sup>  
 1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#哿)】`geh7` <small>/kəʔ7/<sup>兴化</sup>, /kəʔ7/<sup>泰县</sup></small> ① 兴化东南乡音，是否，见gu3<sup>\[兴化\]</sup>：你～是溱潼人？<sup>\[兴化\]</sup>｜这车子～是你的？<sup>\[兴化\]</sup> ② 是否，见gu3<sup>\[泰县\]</sup>：这张白纸～有用㗁？<sup>\[泰县\]</sup>｜～是这本书啊？<sup>\[泰县\]</sup>｜你～曾谈谎？<sup>\[泰县\]</sup> ③ 用在动词前，表示征询，同gu3。<sup>\[泰州\]</sup>  
 1. 【[嗝啧病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zeh_pien.md#嗝啧病)】`geh7 zeh7 pien6` <sup>[泰县]</sup> 食道癌。  
 1. 【[圪垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_tu.md#圪垛)】`geh7 tu6` <sup>[兴化]</sup> 见“垛圪”。  
 1. 【[圪枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#圪枕)】`geh7 zhen3` <sup>[东台]</sup> 木质化的瓜果蒂的俗称。  
 1. 【[塥岸/隔岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_un.md#塥岸/隔岸)】`geh7 un6` <sup>[泰州]</sup> 泰州城北部港口地区如棋格般排列与水中的小块陆地，每个大小高低不一，形状各异，有如小岛四面皆水，相互之间隔水相望，由纵横交错河道链接，四通八达，农民划船于此种植蔬菜。  
 1. 【[格曝亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bo_lian_qien.md#格曝亮净)】`geh7 bo5 lian6 qien` <sup>[东台]</sup> 形容整洁靓丽。  
+1. 【[格崩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bon.md#格崩)】`geh7 bon` <small>/kəʔ7 pɔŋ/<sup>泰兴</sup></small> 象声词<sup>\[泰兴\]</sup>：～～的<sup>\[泰兴\]</sup>  
 1. 【[格迸亮净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bon_lian_qien.md#格迸亮净)】`geh7 bon1 lian6 qien` <sup>[泰县]</sup> 干净明亮：小李把玻璃擦咖～的。  
 1. 【[格端](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dun.md#格端)】`geh7 dun` <sup>[如皋]</sup> 见“苦鹱鸟儿”。（原文作“格锻”）  
 1. 【[格端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dun_zz.md#格端子)】`geh7 dun1 zz` <sup>[兴化]</sup> ① 红冠秧鸡，一种小型候鸟，春天活动于秧池中，因鸣声“格端”而得名。（原文作“咯端”，音不合） ② 一种以～为衬词的栽秧号子。  
@@ -456,20 +457,22 @@
 1. 【[格格正正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_geh_zhen_zhen.md#格格正正)】`geh7 geh7 zhen5 zhen5` <sup>[泰县]</sup> 讲究：他穿得～的。  
 1. 【[格柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_kuei.md#格柜)】`geh7 kuei6` <small>/kəʔ7 kʰuei1/<sup>如皋</sup></small> ① 柜的一种，长方形，一般三格，储藏粮食。也称米柜。<sup>\[如东\]</sup> ② 见“米柜”。<sup>\[如皋\]</sup>  
 1. 【[格喇格喇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_laeh_geh_laeh.md#格喇格喇的)】`geh7 laeh geh7 laeh dii` <sup>[如皋]</sup> 状力量、程度厉害：～雷声；当面说得～，叫人脸上不得下。  
-1. 【[格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_qioh.md#格局)】`geh7 qioh` <small>/kəʔ7 t͡ɕʰyɔʔ/<sup>兴化</sup>, /kəʔ7 t͡ɕʰiɔʔ/<sup>泰县</sup></small> ① 样子<sup>\[兴化\]</sup>：你这个～叫人害怕。<sup>\[兴化\]</sup>｜像这个～再有十天也不得完工吖！<sup>\[兴化\]</sup> ② 过分讲究<sup>\[泰县\]</sup>：不要～，快点儿走吧。<sup>\[泰县\]</sup>  
+1. 【[格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_qioh.md#格局)】`geh7 qioh` <small>/kəʔ7 t͡ɕʰyɔʔ/<sup>兴化</sup>, /kəʔ7 t͡ɕʰiɔʔ/<sup>泰兴</sup>, /kəʔ7 t͡ɕʰiɔʔ/<sup>泰县</sup></small> ① 样子<sup>\[兴化\]</sup>：你这个～叫人害怕。<sup>\[兴化\]</sup>｜像这个～再有十天也不得完工吖！<sup>\[兴化\]</sup> ② 过分讲究<sup>\[泰县\]</sup>：不要～，快点儿走吧。<sup>\[泰县\]</sup> ③ 款式；格式。<sup>\[泰兴\]</sup>  
 1. 【[格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_qioh.md#格局)】`geh7 qioh8` ① 指故作姿态，卖关子<sup>\[东台\]</sup>：你不要～，有话直说。<sup>\[东台\]</sup> ② 过分讲究，好摆场子<sup>\[东台\]</sup>：不要～，条件差的旅馆不要紧！<sup>\[东台\]</sup> ③ 样子，情形<sup>\[泰州\]</sup>：你不要睬他，像他那～弄法肯定不行。<sup>\[泰州\]</sup>｜他俫两个人这～吵下去，哪块是过日子啊，我估计早晚要分手。<sup>\[泰州\]</sup> ④ 因讲究而挑剔<sup>\[泰州\]</sup>：他这个人～得很，衣裳不烫吖子不肯穿的。<sup>\[泰州\]</sup>｜你不要～吧，去小饭店吃顿饭有甚的要紧，吃不杀的。<sup>\[泰州\]</sup>  
 1. 【[格式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_sheh.md#格式)】`geh7 sheh7` <small>/kəʔ7 səʔ7/<sup>兴化</sup></small> ① 在东台话里与“格局”相近。<sup>\[东台\]</sup> ② 样子<sup>\[兴化\]</sup>：“像这个～，不到天亮就得到啊啦……”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ③ 指一定的规则法度<sup>\[泰州\]</sup>：你起草的这个文件，不符合公文的格式。<sup>\[泰州\]</sup> ④ 泛指样子<sup>\[泰州\]</sup>：像你这～弄法，再有一个星期也弄不好啊。<sup>\[泰州\]</sup> ⑤ 指只重形式而不重内容的做法，贬义<sup>\[泰州\]</sup>：你就不要～吧，老同学聚会，随便穿甚的衣裳都行，哪块来的这些讲究。<sup>\[泰州\]</sup>  
 1. 【[格头府子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu_fv_zz.md#格头府子)】`geh7 teu fv3 zz` <sup>[东台]</sup> 主房与附房垂直相连，屋基呈L形的一种民房。  
 1. 【[格炸炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha_zha.md#格炸炸)】`geh7 zha5 zha5` <sup>[东台]</sup> 形容声音很响亮：她精力充沛，70多岁啊说话还～的。  
 1. 【[格正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格正)】`geh7 zhen` <sup>[兴化]</sup> 穿着整齐，打扮入时而不花哨：刘老师穿着素净、大方，跑出来蛮～的。也作“格铮”“格挣”“格铮”“格格铮铮”。  
-1. 【[格真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格真)】`geh7 zhen1` <sup>[泰县]</sup> 讲究：他穿得～。  
+1. 【[格正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格正)】`geh7 zhen` <small>/kəʔ7 t͡səŋ/<sup>泰兴</sup></small> 讲究；考究。漂亮，美好。<sup>\[泰兴\]</sup>  
 1. 【[格铮铮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen_zhen.md#格铮铮)】`geh7 zhen1 zhen1` <sup>[如东]</sup> 结实，挺括：这套衣服穿呀身上～的。  
+1. 【[格正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格正)】`geh7 zhen5` <sup>[泰县]</sup> 讲究：他穿得～。  
 1. 【[格正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格正)】`geh7 zhen5` <small>/kəʔ7 t͡səŋ5/<sup>如皋</sup></small> ① 装扮清雅得体。<sup>\[如皋\]</sup> ② 指穿着打扮得体、时髦，妥帖。也作“格格正正”。<sup>\[东台\]</sup>  
 1. 【[格占](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin.md#格占)】`geh7 zhin5` <small>/kəʔ7 t͡siɪ̃5/<sup>兴化</sup>, /kəʔ7 t͡sĩ/<sup>如皋</sup>, /kəʔ7 t͡ɕiɪ̃5/<sup>泰县</sup></small> ① 格，范围。格占，超范围占有。<sup>\[如皋\]</sup>：秤平斗满，两不～。<sup>\[如皋\]</sup> ② 欺负<sup>\[如皋\]</sup>：他说话～人，我不服气。<sup>\[如皋\]</sup> ③ 强占<sup>\[兴化\]</sup>：他～人家地皮搭厨房。<sup>\[兴化\]</sup> ④ 多占<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：我从来不～旁人的。<sup>\[兴化\]</sup>｜我从来不～你。<sup>\[泰县\]</sup> ⑤ 超过本分，侵犯他人利益<sup>\[东台\]</sup>：他是个厚道之人，从不～旁人。<sup>\[东台\]</sup> ⑥ 占据他人利益<sup>\[泰州\]</sup>：他这个人厚道，从来不会～人的。<sup>\[泰州\]</sup>｜他当他的处长，又不曾～你，你有甚的必要反对。<sup>\[泰州\]</sup>  
 1. 【[格占人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhin_ren.md#格占人)】`geh7 zhin5 ren2` <small>/kəʔ7 t͡sĩ5 ɻəŋ2/<sup>如皋</sup>, /kəʔ7 t͡ɕĩ5 ɻəŋ2/<sup>泰兴</sup></small> ① 见“占强”。<sup>\[如皋\]</sup> ② 占据其他人的利益或者便宜<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你搭的棚子朝东边去去，不好～的。<sup>\[泰州\]</sup>｜他说他不欢喜～，该找你的两块钱他不肯要，教你拿啊走。<sup>\[泰州\]</sup>  
 1. 【[格子床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_chuan.md#格子床)】`geh7 zz chuan2` <sup>[如东]</sup> 床的一种，床架为格子结构。  
 1. 【[格子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_men.md#格子门)】`geh7 zz men2` <sup>[如东]</sup> 门的一种。上半部为格子，下半部为门板。  
-1. 【[槅扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇)】`geh7 shin5` <small>/kəʔ7 sĩ5/<sup>如皋</sup></small> ① 堂屋大门两侧腰墙上面安装的木槅子门，叫槅扇<sup>\[如东\]</sup> ② 古式房屋用的装有很多小木格的杉木门窗。<sup>\[如皋\]</sup>  
+1. 【[格子门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz_men.md#格子门)】`geh7 zz men2` <small>/kəʔ7 t͡sɿ məŋ2/<sup>泰兴</sup></small> 门扇有格子图案的门。<sup>\[泰兴\]</sup>  
+1. 【[槅扇/格扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shin.md#槅扇/格扇)】`geh7 shin5` <small>/kəʔ7 sĩ5/<sup>如皋</sup>, /kəʔ7 ɕĩ5/<sup>泰兴</sup></small> ① 堂屋大门两侧腰墙上面安装的木槅子门<sup>\[如东\]</sup> ② 古式房屋用的装有很多小木格的杉木门窗。<sup>\[如皋\]</sup> ③ 带空栏格子的门扇或窗扇。<sup>\[泰兴\]</sup>  
 1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu` <small>/kəʔ7 tʰei/<sup>如皋</sup>, /kəʔ7 tʰəɪ/<sup>泰兴</sup></small> ① 驾于牛肩上的人字木。<sup>\[如皋\]</sup> ② 木制人字形工具，用于驾驭牛或其它牲畜工作。<sup>\[泰兴\]</sup>  
 1. 【[槅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu.md#槅头)】`geh7 teu2` <sup>[如东]</sup> 水牛驾车时套在脖子上的木条，形如弯钩。  
 1. 【[槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zz.md#槅子)】`geh7 zz` <small>/kəʔ7 t͡sɿ/<sup>兴化</sup>, /kəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 见“槅扇”。<sup>\[如皋\]</sup> ② 旧式建筑中的长窗，上部由细木条拼成格眼，内糊白纸或嵌明角。下部为木板<sup>\[兴化\]</sup>：这大厅的前面一排六扇～。<sup>\[兴化\]</sup> ③ 上半部安有格眼的落地长窗、门扇、屏风。<sup>\[泰州\]</sup>  
@@ -485,14 +488,22 @@
 1. 【[疙里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩的)】`geh7 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状有小凸起，不平：桌面子不曾打磨，手摸上去～。 ② 喻有小矛盾：两个人现在有点儿～。  
 1. 【[箇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#箇)】`geh7` <small>/kəʔ7/<sup>泰兴</sup></small> ① 这，此。一些地区习惯说“箇”，另一些地区更习惯说“这(zha5)”。 ② 这么，如此，为“箇们”之省。<sup>\[泰兴\]</sup>：～大/这么大<sup>\[泰兴\]</sup>  
 1. 【[箇阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_chen_r.md#箇阵<sub>儿</sub>)】`geh7 chen6 r` 现在，这时候  
+1. 【[箇点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_din.md#箇点)】`geh7 din9` <small>/kəʔ7 tĩ9/<sup>泰兴</sup></small> 一点点。表示少。<sup>\[泰兴\]</sup>  
 1. 【[箇朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do.md#箇朝)】`geh7 do` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[箇朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do_zz.md#箇朝子)】`geh7 do zz` <sup>[如皋]</sup> 见“这朝”。  
+1. 【[箇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_gu.md#箇个)】`geh7 gu9` <small>/kəʔ7 kɤɯ9/<sup>泰兴</sup></small> 这个<sup>\[泰兴\]</sup>  
 1. 【[箇许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_hae.md#箇许)】`geh7 hae` ① 这里 ② 这个地方。<sup>\[如东\]</sup>：把东西放吖～。<sup>\[如东\]</sup>  
 1. 【[箇一刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_ieh_keh.md#箇一刻)】`geh7 ieh7 keh` 现在  
 1. 【[箇境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jien.md#箇境)】`geh7 jien` 这边，这面，这里  
 1. 【[箇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_keh_r.md#箇刻<sub>儿</sub>)】`geh7 keh9 r` 现在  
 1. 【[箇们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_men.md#箇们)】`geh7 men` <small>/kəʔ7 məŋ/<sup>如皋</sup>, /kəʔ7 məŋ/<sup>泰兴</sup></small> ① 这么，如此<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 连词。反诘用语，有强调义，表“这么、这么说的话……、那么”<sup>\[如皋\]</sup>：你说没得钱哎，～你哪许来钱买皮大衣嗲？你不该打他！～他先打我的呗！<sup>\[如皋\]</sup>  
+1. 【[箇世里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shr_lii.md#箇世里)】`geh7 shr9 lii` <small>/kəʔ7 sɿ9 ləɪ/<sup>泰兴</sup></small> 这一辈子。<sup>\[泰兴\]</sup>  
+1. 【[箇些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xia.md#箇些)】`geh7 xia1, geh7 xia3` <small>/kəʔ7 ɕiɑ1/<sup>泰兴</sup></small> 这么多。表示多。<sup>\[泰兴\]</sup>：～唻啊！/这么多啊！<sup>\[泰兴\]</sup>  
+1. 【[箇些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xia.md#箇些)】`geh7 xia1` <small>/kəʔ7 ɕiɑ1/<sup>泰兴</sup></small> 这些<sup>\[泰兴\]</sup>  
 1. 【[箇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih.md#箇歇)】`geh7 xih7` 现在：～几点钟？/现在几点钟？  
+1. 【[箇歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih_gu.md#箇歇个)】`geh7 xih9 gu` <small>/kəʔ7 ɕiʔ9 kɤɯ/<sup>泰兴</sup></small> 这时候，现在。<sup>\[泰兴\]</sup>  
+1. 【[箇□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha.md#箇□)】`geh7 zha1` <small>/kəʔ7 t͡sɑ1/<sup>泰兴</sup></small> 然后，接下来<sup>\[泰兴\]</sup>  
+1. 【[箇种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhon.md#箇种)】`geh7 zhon3, geh7 zhon9` <small>/kəʔ7 t͡sɔŋ3/<sup>泰兴</sup></small> 这种<sup>\[泰兴\]</sup>  
 1. 【[箇早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zo_vaen.md#箇早晚)】`geh7 zo3 vaen` 现在<sup>\[如东\]</sup>  
 1. 【[胳膊扭不过大腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bah_nieu_beh.md#胳膊扭不过大腿)】`geh7 bah7 nieu3 beh7 gu5 da6 ty3` <sup>[东台]</sup> 弱小的敌不过强大的。  
 1. 【[胳膊肘朝外拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bah_zheu_cho.md#胳膊肘朝外拐)】`geh7 bah7 zheu3 cho2 vae6 guae3` <sup>[东台]</sup> ［喻］不顾惜家族或小团体的利益而向着外人。  

@@ -2260,7 +2260,7 @@
 1. 【[蚕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun.md#蚕)】`cun2` <sup>[如东]</sup> 蚕蛾科昆虫家蚕、野蚕的总称，通常指家蚕。  
 1. 【[蚕蛹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ion.md#蚕蛹)】`cun2 ion3` <sup>[如东]</sup> 蚕蛾科昆虫家蚕蛾的蛹。  
 1. 【[蚕蛹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ion_zz.md#蚕蛹子)】`cun2 ion3 zz` <small>/t͡sʰʊ̃2 iɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 蚕蛹。蚕吐丝结茧以后变成的蛹。<sup>\[泰兴\]</sup>  
-1. 【[蚕茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_jin_zz.md#蚕茧子)】`cun2 jin1 zz` <small>/t͡sʰʊ̃2 t͡ɕĩ1 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[泰兴\]</sup>  
+1. 【[蚕茧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_jin_zz.md#蚕茧子)】`cun2 jin3 zz` <small>/t͡sʰʊ̃2 t͡ɕĩ3 t͡sɿ/<sup>泰兴</sup></small> 蚕茧。<sup>\[泰兴\]</sup>  
 1. 【[蚕老麦黄一复时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_lo_moh_van.md#蚕老麦黄一复时)】`cun2 lo3 moh8 van2 ieh7 foh7 shr2` <small>/t͡sʰʊ̃2 lɔ3 mɔʔ8 uɑŋ2 iʔ7 fɔʔ7 sɿ2/<sup>泰兴</sup></small> 麦黄成熟的时候，蚕子到老上山作茧只要一天一夜的时间。<sup>\[泰兴\]</sup>  
 1. 【[蚕蛾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ngu.md#蚕蛾)】`cun2 ngu2` <sup>[如东]</sup> 蚕科昆虫家蚕蛾。  
 1. 【[蚕蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cun_ngu_zz.md#蚕蛾子)】`cun2 ngu2 zz3` <sup>[如东]</sup> 蚕科昆虫家蚕蛾的卵。  

@@ -264,6 +264,7 @@
 1. 【[忤逆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_hu.md#忤逆货)】`v3 nieh8 hu5` <sup>[如皋]</sup> 指不孝的人。  
 1. 【[忤逆𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆𪨊)】`v3 nieh8 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
 1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <sup>[如东]</sup> 遮盖或封闭起来：把口子～住。  
+1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <small>/ʋ3/<sup>泰兴</sup></small> 以手遮掩；遮住或封住。<sup>\[泰兴\]</sup>  
 1. 【[武把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ba_zz.md#武把子)】`v3 ba3 zz` <sup>[兴化]</sup> 戏曲表演中的武打和与之有关的舞蹈动作。  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha` <small>/ʋu3 t͡sʰa/<sup>如皋</sup>, /u3 t͡sʰa/<sup>泰县</sup></small> ① 形容小孩调皮，很野，不文雅 ② 言行粗野的样子<sup>\[如皋\]</sup>：这家伙说打就毛，多～呀！<sup>\[如皋\]</sup> ③ 动作粗鲁。<sup>\[泰县\]</sup>  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha1` <sup>[东台]</sup> 泼辣、粗野、武断，多含贬义：有的干部对群众很～，但是自身不正，难服众。  
@@ -318,8 +319,9 @@
 1. 【[戊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#戊)】`v6` <sup>[东台]</sup> 天干第五位。  
 1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6 kaen3` <sup>[如皋]</sup> 即“门槛”。  
 1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <sup>[如皋]</sup> ① 保护：～食、～雏。 ② 袒护、包庇：～短。  
+1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <small>/ʋ1/<sup>泰兴</sup></small> ① 遮掩（使人看不见）<sup>\[泰兴\]</sup>：不要～lo，我已经望见吖lo<sup>\[泰兴\]</sup> ② 护短<sup>\[泰兴\]</sup>：他家太～，伢儿脾家惚得不像样子<sup>\[泰兴\]</sup>｜～伢儿是害他，要培养他懂事、讲理<sup>\[泰兴\]</sup>  
 1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> ① 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。 ② 见“爬肚子”。  
-1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` ① 包庇缺点。<sup>\[如东\]</sup>：自己的伢儿犯吖毛病大人不要～。<sup>\[如东\]</sup> ② 对孩子过分娇惯，有缺点也不肯批评教育。<sup>\[东台\]</sup>  
+1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` <small>/ʋ1 tʊ̃3/<sup>泰兴</sup></small> ① 包庇缺点。<sup>\[如东\]</sup>：自己的伢儿犯吖毛病大人不要～。<sup>\[如东\]</sup> ② 对孩子过分娇惯，有缺点也不肯批评教育。<sup>\[东台\]</sup> ③ 遮掩短处。<sup>\[泰兴\]</sup>  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_sheh.md#护食)】`v6 sheh8` <small>/ʋu1 səʔ8/<sup>如皋</sup></small> ① 不让碰到自己已有的食物<sup>\[如皋\]</sup>：伢儿～、狗子～。<sup>\[如皋\]</sup> ② 企图把所有食物占为己有，不许别人食用。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
 1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ten.md#护疼)】`v6 ten2` <small>/ʋ1 tʰəŋ2/<sup>泰兴</sup></small> 保护疼痛处，怕疼。<sup>\[泰兴\]</sup>  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zan.md#护脏)】`v6 zan1` <sup>[如皋]</sup> ① 挡住脏：定被单头～。 ② 掩盖污斑：白衣裳不～。  
@@ -595,7 +597,7 @@
 1. 【[挽钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_dien.md#挽钉)】`vaen3 dien1` <small>/ʋẽ3 tiəŋ1/<sup>如皋</sup></small> ① 葬俗之一。入棺大验时，儿女或合法继承人将少量头发置钉孔内，再钉棺盖，挽钉者有祭祀义务和财产继承权，今行火化，此俗已成形式（实际上已废止）。<sup>\[如皋\]</sup> ② 一种民俗。父母死了，孝子剪自己的一绺头发挽在棺材盖的销钉上，表示孝敬。父亲死了，挽在左边，母亲死了，挽在右边。<sup>\[如东\]</sup> ③ 父母亡故，取孝（嗣）子头发用红纸缠绕钉在棺柩盖左上角。<sup>\[东台\]</sup>  
 1. 【[挽篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_go.md#挽篙)】`vaen3 go1` <small>/ʋɛ̃3 kɔ1/<sup>泰县</sup></small> ① 一种带钩的船篙。<sup>\[如东\]</sup> ② 带钩的船篙子。<sup>\[泰县\]</sup>  
 1. 【[捾水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shuei_zz.md#捾水子)】`vaen3 shuei3 zz` <sup>[兴化]</sup> 一种有柄的水舀。捾，《集韵·潸韵》邬版切：取也。  
-1. 【[捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#捾子)】`vaen3 zz` <small>/uɛ̃3 t͡sɿ/<sup>兴化</sup>, /ʋẽ3 t͡sɿ/<sup>如皋</sup>, /ʋɛ̃3 t͡sɿ/<sup>泰兴</sup>, /ʋɛ̃3 t͡se/<sup>泰县</sup></small> ① 有短竖柄的大号舀器，柄端朝内<sup>\[如皋\]</sup>：水～。<sup>\[如皋\]</sup> ② 一种小型笆斗。<sup>\[如东\]</sup> ③ 旧时农村舀水的木质器具，比面盆略小，有手柄。<sup>\[东台\]</sup> ④ 柳斗。兴化词典作“䩩”，《广韵·阮韵》於阮切：～量物之一也。\[兴化：二斗～\] ⑤ 木制水舀。<sup>\[泰县\]</sup> ⑥ 水舀子<sup>\[泰兴\]</sup>  
+1. 【[捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#捾子)】`vaen3 zz` <small>/uɛ̃3 t͡sɿ/<sup>兴化</sup>, /ʋẽ3 t͡sɿ/<sup>如皋</sup>, /ʋɛ̃3 t͡sɿ/<sup>泰兴</sup>, /ʋɛ̃3 t͡se/<sup>泰县</sup></small> ① 有短竖柄的大号舀器，柄端朝内<sup>\[如皋\]</sup>：水～。<sup>\[如皋\]</sup> ② 一种小型笆斗。<sup>\[如东\]</sup> ③ 旧时农村舀水的木质器具，比面盆略小，有手柄。<sup>\[东台\]</sup> ④ 柳斗。兴化词典作“䩩”，《广韵·阮韵》於阮切：～量物之一也。\[兴化：二斗～\] ⑤ 木制水舀。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[晚辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bei.md#晚辈)】`vaen3 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于下一辈分的人，称晚辈。  
 1. 【[晚半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_shan.md#晚半上)】`vaen3 bun5 shan` <sup>[如皋]</sup> 黄昏时分。  
 1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <sup>[兴化]</sup> 临近黄昏的一段时间：你～来，他一定在家里。｜“相公来得不巧，我们太爷出门去了，要到～回来。”（《续小五义》四八）  

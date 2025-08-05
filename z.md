@@ -1471,7 +1471,7 @@
 1. 【[㧻屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_pi_gu.md#㧻屁股)】`zhuah7 pi5 gu` <sup>[如皋]</sup> 人体落下时，屁股先触及物体而被反弹力打击。  
 1. 【[㧻钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_qin.md#㧻钱)】`zhuah7 qin2` <sup>[如皋]</sup> 清点钱数。  
 1. 【[㧻瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_va.md#㧻瓦)】`zhuah7 va3` <small>/t͡suaʔ7 ʋa3/<sup>如皋</sup></small> 整理屋面瓦。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
-1. 【[㧻账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#㧻账)】`zhuah7 zhan5` <small>/t͡suaʔ7 t͡sã5/<sup>如皋</sup>, /t͡ɕyɑʔ7 t͡sɑŋ5/<sup>泰县</sup></small> 整理、核算账务<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>：这几天她在下～。<sup>\[如东\]</sup>｜今吖晚上～，早点儿关门。<sup>\[泰县\]</sup>  
+1. 【[㧻账/捉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#㧻账/捉账)】`zhuah7 zhan5` <small>/t͡suaʔ7 t͡sã5/<sup>如皋</sup>, /t͡suɑʔ7 t͡sɑŋ5/<sup>泰兴</sup>, /t͡ɕyɑʔ7 t͡sɑŋ5/<sup>泰县</sup></small> 整理、核算账务<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：这几天她在下～。<sup>\[如东\]</sup>｜今吖晚上～，早点儿关门。<sup>\[泰县\]</sup>  
 1. 【[㧻㧻齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#㧻㧻齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[卓肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin.md#卓肩)】`zhuah7 jin1` 耸着肩膀<sup>\[泰州\]</sup>：这姑娘长得不丑，就是有点儿～。<sup>\[泰州\]</sup>  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
@@ -1481,6 +1481,7 @@
 1. 【[捉贼捉赃，捉奸捉双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ceh_zhuah_zan.md#捉贼捉赃，捉奸捉双)】`zhuah7 ceh8 zhuah7 zan1 zhuah7 jiaen1 zhuah7 shuan1` <sup>[东台]</sup> 要以事实为依据。  
 1. 【[捉蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_cun_r.md#捉蚕<sub>儿</sub>)】`zhuah7 cun2 r` <sup>[如皋]</sup> 将大眠后的蚕提出上山。  
 1. 【[捉大花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_da_hua_y.md#捉大花鱼)】`zhuah7 da6 hua1 y2` <sup>[如皋]</sup> 跌跤、摔跟头的戏称。  
+1. 【[捉对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_duei.md#捉对)】`zhuah7 duei5` <small>/t͡suɑʔ7 təɪ5/<sup>泰兴</sup></small> 成双成对<sup>\[泰兴\]</sup>  
 1. 【[捉对<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_dy_r.md#捉对<sub>儿</sub>)】`zhuah7 dy5 r` <sup>[如皋]</sup> 两个两个地：我俫～比，比一回去一半，最后的一对儿比输赢。  
 1. 【[捉咖个大花鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ga_gu_da.md#捉咖个大花鱼)】`zhuah7 ga gu da6 hua1 y2` <sup>[如皋]</sup> 见“跌咖个大元宝”。  
 1. 【[捉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_hua.md#捉花)】`zhuah7 hua1` <sup>[如东]</sup> 摘棉花。  
@@ -1500,7 +1501,6 @@
 1. 【[捉肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_tv.md#捉肚)】`zhuah7 tv6` <sup>[兴化]</sup> 婴儿正常排泄大便，一般在出生两三个月左右：小儿～啊啦。  
 1. 【[捉王二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_van_er.md#捉王二)】`zhuah7 van2 er6` <sup>[如皋]</sup> 王二，俗谓老实可欺之人：只值五块钱的杲子卖你五十块，你捱他～啦！  
 1. 【[捉𦚢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ya.md#捉𦚢)】`zhuah7 ya1` <small>/t͡suaʔ7 ya1/<sup>如皋</sup></small> ① 利用无知或懦弱而欺负：他拿你～。<sup>\[如皋\]</sup> ② 致歉用语。<sup>\[如皋\]</sup> ③ 抓住别人的弱点进行嘲笑。<sup>\[如东\]</sup>：你不要拿他～。<sup>\[如东\]</sup>  
-1. 【[捉账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhan.md#捉账)】`zhuah7 zhan5` 整理账目，检查实际收支，清点记载是否与实际相符。<sup>\[泰州\]</sup>  
 1. 【[捉捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah.md#捉捉)】`zhuah7 zhuah7` <sup>[如东]</sup> ① 清点数目：你～，还有多少？ ② 收拾，整理：你把东西～，我俫明朝动身。  
 1. 【[桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#桌)】`zhuah7` <sup>[如皋]</sup> 套：一～笼共有八格（层）。  
 1. 【[桌帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ban.md#桌帮)】`zhuah7 ban1` <sup>[如东]</sup> 桌子的边框。  
