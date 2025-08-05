@@ -2809,7 +2809,7 @@
 1. 【[书包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_bo.md#书包)】`shv1 bo1` <sup>[东台]</sup> 学生上学时装书籍簿本、文具的包或袋子。  
 1. 【[书橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_chv.md#书橱)】`shv1 chv2` <small>/su1 t͡sʰu2/<sup>泰兴</sup></small> 装书的橱柜。<sup>\[泰兴\]</sup>  
 1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <sup>[泰州]</sup> 死读书而缺乏实际知识的人。  
-1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz, shv5 dae1 zz` <small>/su1 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 指只知读书，脱离实际、看问题幼稚、单纯的人；言谈不切实际、不知变通的读书人。<sup>\[泰兴\]</sup>  
+1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <small>/su1 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 指只知读书，脱离实际、看问题幼稚、单纯的人；言谈不切实际、不知变通的读书人。<sup>\[泰兴\]</sup>  
 1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` <small>/su1 faŋ2/<sup>兴化</sup>, /su1 fɑŋ/<sup>泰兴</sup></small> ① 学校 ② 大户人家看书写字的地方。<sup>\[如东\]</sup>：老爷在～里。<sup>\[如东\]</sup> ③ 私塾。<sup>\[如东\]</sup>：上～。<sup>\[如东\]</sup> ④ 藏书、读书、写字的房间。<sup>\[东台\]</sup> ⑤ 旧指私塾，今指学校<sup>\[东台\]</sup>：你家小孙子到啊上～的年龄吖啦？<sup>\[东台\]</sup> ⑥ 旧称私塾<sup>\[兴化\]</sup>：“象今日那个少年……正是上～读书的时候……”（《广陵潮》三九）<sup>\[兴化\]</sup> ⑦ 私塾，学校。<sup>\[泰兴\]</sup>  
 1. 【[书公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gon_zz.md#书公子)】`shv1 gon1 zz3` <sup>[如皋]</sup> 对读书人的呢、鄙称。  
 1. 【[书瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ran_zz.md#书瓤子)】`shv1 ran2 zz` <sup>[兴化]</sup> 装在信封里写好的信：哪晓得周瑜只看书面子，不看～……（《火烧赤壁》四）。也称“信瓤子”。  
@@ -3225,6 +3225,7 @@
 1. 【[素茶馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_cha_gun.md#素茶馆)】`sv5 cha2 gun3` <sup>[如皋]</sup> 卖素食的饭店：功德林～。  
 1. 【[素常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_chan.md#素常)】`sv5 chan2` <sup>[如皋]</sup> 平常、平时。  
 1. 【[素大肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_da_chan.md#素大肠)】`sv5 da6 chan2` <sup>[泰县]</sup> 民间的一种素食。  
+1. 【[素呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_dae_zz.md#素呆子)】`sv5 dae zz` <small>/su5 tɛ t͡sɿ/<sup>泰兴</sup></small> 谓不懂事理、不识字的无用之人。多作谦语。<sup>\[泰兴\]</sup>  
 1. 【[素粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_fen.md#素粉)】`sv5 fen3` <sup>[兴化]</sup> 制成后泡在水中的粉条。水粉。  
 1. 【[素和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_hv.md#素和)】`sv5 hv` <sup>[如东]</sup> 在耷子和（长牌）游戏中，全部由耷子构成的和称素和。  
 1. 【[素油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ieu.md#素油)】`sv5 ieu2` <small>/su5 iɤɯ2/<sup>泰兴</sup></small> 供食用的植物油。例如花生油、黄豆油、菜籽油。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  

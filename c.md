@@ -1407,7 +1407,7 @@
 1. 【[池水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shuei.md#池水)】`chr2 shuei3` <sup>[如皋]</sup> 旧时本地水质较好的池塘水，常挑运回家烹茶，有别于天水、井水。  
 1. 【[池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_vae.md#池𧒘)】`chr2 vae1` <sup>[如皋]</sup> 一种腹大善鸣的蛙。一作“山～”：肚子吃咖像～。  
 1. 【[漦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#漦)】`chr2` <sup>[如皋]</sup> 流涂：血～啊褥单上吖。  
-1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <small>/t͡sʰɿ2 tʝ3/<sup>如皋</sup></small> ① 锅里食物加热过程中沉淀在锅底，烧糊了。<sup>\[东台\]</sup> ② 粘锅<sup>\[如皋\]</sup>：煮䜺儿粥要耖几次，不要～。<sup>\[如皋\]</sup> ③ 煮粥或者煮面条、米粉之类食物时，烧糊沉淀并且黏在锅的底部<sup>\[泰州\]</sup>：锅子里头漦啊底。<sup>\[泰州\]</sup>  
+1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <small>/t͡sʰɿ2 tʝ3/<sup>如皋</sup></small> ① 锅里食物加热过程中沉淀在锅底，烧糊了。<sup>\[东台\]</sup> ② 粘锅<sup>\[如皋\]</sup>：煮䜺儿粥要耕几次，不要～。<sup>\[如皋\]</sup> ③ 煮粥或者煮面条、米粉之类食物时，烧糊沉淀并且黏在锅的底部<sup>\[泰州\]</sup>：锅子里头漦啊底。<sup>\[泰州\]</sup>  
 1. 【[漦喖龙冬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_lon_don.md#漦喖龙冬的)】`chr2 kv lon2 don1 dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[漦喖搨喖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_taeh_kv.md#漦喖搨喖的)】`chr2 kv taeh7 kv dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[漦𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_mu.md#漦𣳠)】`chr2 mu3` <small>/t͡sʰɿ2 mʊ3/<sup>如皋</sup></small> ① 从口中吐出沫花。口吐白沫。<sup>\[如东\]</sup>：螃蟹在路边上～。<sup>\[如东\]</sup> ② 口泛白沫。<sup>\[如皋\]</sup>  

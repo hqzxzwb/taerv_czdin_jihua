@@ -1656,9 +1656,9 @@
 1. 【[内兄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuei_xion.md#内兄)】`nuei6 xion1` <sup>[如东]</sup> 妻子的哥哥。  
 1. 【[内庄抄发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuei_zhuan_cho_faeh.md#内庄抄发)】`nuei6 zhuan1 cho1 faeh7` <sup>[如皋]</sup> 内庄，内设批发部。抄，照本抄号，不赚钱。  
 1. 【[挪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh.md#挪)】`nuh8` <sup>[如皋]</sup> ① 小移动：屁股～下子。 ② 移用。  
-1. 【[挪掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_duh.md#挪掇)】`nuh8 duh7` <small>/nʊʔ8 tʊʔ7/<sup>泰兴</sup></small> 行动迟钝，不爽利、不方便的样子。<sup>\[泰兴\]</sup>  
 1. 【[挪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_ton.md#挪动)】`nuh8 ton` <small>/nʊʔ8 tʰɔŋ/<sup>泰兴</sup></small> 移动。<sup>\[泰兴\]</sup>  
 1. 【[纳福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_foh.md#纳福)】`nuh8 foh7` <sup>[如皋]</sup> 享福。  
+1. 【[衲掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_duh.md#衲掇)】`nuh8 duh7` <small>/nʊʔ8 tʊʔ7/<sup>泰兴</sup></small> 本谓着衣太多，显得臃肿。比喻行动迟钝，不爽利、不方便的样子。<sup>\[泰兴\]</sup>  
 1. 【[衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nuh_zz.md#衲子)】`nuh8 zz` <small>/luʔ8 t͡sɿ/<sup>兴化</sup>, /nʊʔ8 t͡sɿ/<sup>如皋</sup>, /nʊʔ8 t͡se/<sup>泰县</sup></small> 尿布<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：特指双层或铺了棉絮的垫子\]：尿布～。<sup>\[兴化\]</sup>  
 1. 【[南](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun.md#南)】`nun2` 南（方位）  
 1. 【[南坝桥牛角瓜，北关桥牛说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_ba_qio_ngeu.md#南坝桥牛角瓜，北关桥牛说话)】`nun2 ba qio2 ngeu2 gah7 gua1 boh7 guaen qio2 ngeu2 shuh7 hua6` <small>/nʊ̃2 pɑ t͡ɕʰiɔ2 ŋəɪ2 kɑʔ7 kuɑ1 pɔʔ7 kuɛ̃ t͡ɕʰiɔ2 ŋəɪ2 sʊʔ7 xuɑ1/<sup>泰兴</sup></small> 南坝桥、北关桥为黄桥的两座桥，相距二里左右。喻传言容易走样变味，不可轻信。<sup>\[泰兴\]</sup>  
