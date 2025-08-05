@@ -3225,7 +3225,7 @@
 1. 【[素茶馆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_cha_gun.md#素茶馆)】`sv5 cha2 gun3` <sup>[如皋]</sup> 卖素食的饭店：功德林～。  
 1. 【[素常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_chan.md#素常)】`sv5 chan2` <sup>[如皋]</sup> 平常、平时。  
 1. 【[素大肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_da_chan.md#素大肠)】`sv5 da6 chan2` <sup>[泰县]</sup> 民间的一种素食。  
-1. 【[素呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_dae_zz.md#素呆子)】`sv5 dae zz` <small>/su5 tɛ t͡sɿ/<sup>泰兴</sup></small> 谓不懂事理、不识字的无用之人。多作谦语。<sup>\[泰兴\]</sup>  
+1. 【[素呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_dae_zz.md#素呆子)】`sv5 dae zz` <small>/su5 tɛ t͡sɿ/<sup>泰兴</sup></small> 指不知灵活变通的人，近似“书呆子”<sup>\[泰兴\]</sup>  
 1. 【[素粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_fen.md#素粉)】`sv5 fen3` <sup>[兴化]</sup> 制成后泡在水中的粉条。水粉。  
 1. 【[素和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_hv.md#素和)】`sv5 hv` <sup>[如东]</sup> 在耷子和（长牌）游戏中，全部由耷子构成的和称素和。  
 1. 【[素油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_ieu.md#素油)】`sv5 ieu2` <small>/su5 iɤɯ2/<sup>泰兴</sup></small> 供食用的植物油。例如花生油、黄豆油、菜籽油。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
