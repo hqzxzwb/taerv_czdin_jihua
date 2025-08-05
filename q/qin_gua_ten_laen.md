@@ -1,4 +1,4 @@
 # 牵瓜藤揽瓠子
-qin6 gua1 ten2 laen3 v6 zz
+qin1 gua1 ten2 laen3 v6 zz
 + 办事东扯西拉，条理不清。犹“麻田里扯到菜田里”。
   * 泰兴方言辞典
