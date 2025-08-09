@@ -135,6 +135,7 @@
 1. 【[把兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_xion_ti.md#把兄弟)】`ba3 xion1 ti` 干兄弟  
 1. 【[把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_zz.md#把子)】`ba3 zz` <small>/pɑ3 t͡sɿ/<sup>泰兴</sup>, /pa3 t͡se/<sup>泰县</sup></small> ① 草把。<sup>\[泰县\]</sup> ② 捆扎成束的东西。<sup>\[泰兴\]</sup>：麦～<sup>\[泰兴\]</sup>  
 1. 【[坝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba.md#坝)】`ba5` <small>/pa5/<sup>如皋</sup></small> ① 河道中拦水的泥墙。<sup>\[如东\]</sup>：在河里打～。<sup>\[如东\]</sup> ② 堵塞<sup>\[如皋\]</sup>：～口子/堵流水口<sup>\[如皋\]</sup>  
+1. 【[坝场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_chan.md#坝场)】`ba5 chan, ba5 tan` <small>/pɑ5 t͡sʰɑŋ/<sup>泰兴</sup></small> 河中土坝，上为平面，可作道路供通行过河。下有暗洞过水。<sup>\[泰兴\]</sup>  
 1. 【[坝瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_gua.md#坝瓜)】`ba5 gua1` <sup>[泰州]</sup> 泰州城东鲍家坝出产的一种香瓜。  
 1. 【[坝口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_keu.md#坝口)】`ba5 keu3` <sup>[如皋]</sup> 坝上的出入口。  
 1. 【[坝落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ba_lah.md#坝落)】`ba5 lah8` <sup>[如东]</sup> 捕鱼的一种方式。渔民站在落潮水流中，用网拦截鱼虾。  
