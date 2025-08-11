@@ -434,17 +434,17 @@
 1. 【[两头讨好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_to_ho.md#两头讨好)】`laen3 teu2 to3 ho3` <sup>[东台]</sup> 不得罪对立的双方，并能从双方得到好处。  
 1. 【[两𢱉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_vae.md#两𢱉)】`laen3 vae3` <sup>[兴化]</sup> 见“两碰”。  
 1. 【[懒𪎉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_haen_r.md#懒𪎉<sub>儿</sub>)】`laen3 haen6 r` <sup>[如皋]</sup> 磨而不筛，不分粗细混在一起的𪎉子  
-1. 【[懒黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan.md#懒黄)】`laen3 huan2` 好吃懒做的人<sup>\[泰州\]</sup>：他这个～就是油瓶儿倒啊都不扶。<sup>\[泰州\]</sup>  
-1. 【[懒黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan_pien.md#懒黄病)】`laen3 huan2 pien6` <small>/lɛ̃3 xuaŋ2 pʰiɪ̃6/<sup>兴化</sup>, /nɛ̃3 xuɑŋ2 pʰiŋ1/<sup>泰县</sup></small> ① 黄疸肝炎的俗称：他得咖个～，吃得做不得。<sup>\[兴化\]</sup> ② 钩虫病。<sup>\[泰县\]</sup>  
+1. 【[懒癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan.md#懒癀)】`laen3 huan2` 好吃懒做的人<sup>\[泰州\]</sup>：他这个～就是油瓶儿倒啊都不扶。<sup>\[泰州\]</sup>  
+1. 【[懒癀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huan_pien.md#懒癀病)】`laen3 huan2 pien6` <small>/lɛ̃3 xuaŋ2 pʰiɪ̃6/<sup>兴化</sup>, /nɛ̃3 xuɑŋ2 pʰiŋ1/<sup>泰县</sup></small> ① 黄疸肝炎的俗称<sup>\[兴化\]</sup>：他得咖个～，吃得做不得。<sup>\[兴化\]</sup> ② 钩虫病。<sup>\[泰县\]</sup>  
 1. 【[懒爷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ia_r.md#懒爷<sub>儿</sub>)】`laen3 ia2 r` <sup>[如东]</sup> 非常懒惰、非常肮脏、非常贫困的人。  
-1. 【[懒吖烧啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_nga_sho_a.md#懒吖烧啊吃)】`laen3 nga sho1 a qieh7` <sup>[如皋]</sup> 见“懒王精”。  
+1. 【[懒吖烧啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_nga_sho_a.md#懒吖烧啊吃)】`laen3 nga sho1 a qieh7` <sup>[如皋]</sup> 见“懒癀精”。  
 1. 【[懒牛上场，尿屎直漺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ngeu_shan_chan.md#懒牛上场，尿屎直漺)】`laen3 ngeu2 shan6 chan2 xy1 shr3 cheh8 shuan2` <sup>[东台]</sup> （俗语）讽刺人见到要干活就以“方便”为名躲开。  
 1. 【[懒婆娘裹脚——又臭又长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pu_nian_gu.md#懒婆娘裹脚——又臭又长)】`laen3 pu2 nian gu3 jiah7 ieu6 cheu5 ieu6 chan2` <sup>[东台]</sup>   
 1. 【[懒婆娘花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pu_nian_hua.md#懒婆娘花)】`laen3 pu2 nian2 hua1` <sup>[如皋]</sup> 紫茉莉。  
 1. 【[懒惰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tu.md#懒惰)】`laen3 tu6` <sup>[如东]</sup> 不爱劳动或工作：这个伢儿～。  
-1. 【[懒黄病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_pien.md#懒黄病)】`laen3 van pien6` <sup>[如皋]</sup> 黄病（黄疸肝炎、钩虫病等），肤黄无力。  
-1. 【[懒王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒王)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒<sup>\[兴化\]</sup>：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人。也说“～精”。<sup>\[兴化\]</sup>：他是有名的大～。<sup>\[兴化\]</sup>  
-1. 【[懒王精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_jien.md#懒王精)】`laen3 van2 jien1` <small>/lɛ̃3 uaŋ2 t͡ɕin1/<sup>兴化</sup>, /lẽ3 ʋã2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 极懒，懒惰成性的人。<sup>\[如皋\]</sup> ② 极端懒惰的人。<sup>\[东台\]</sup> ③ 偷懒的人。<sup>\[兴化\]</sup>  
+1. 【[懒癀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_pien.md#懒癀病)】`laen3 van pien6` <sup>[如皋]</sup> 黄病（黄疸肝炎、钩虫病等），肤黄无力。  
+1. 【[懒癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒癀)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒<sup>\[兴化\]</sup>：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人。也说“～精”。<sup>\[兴化\]</sup>：他是有名的大～。<sup>\[兴化\]</sup>  
+1. 【[懒癀精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_jien.md#懒癀精)】`laen3 van2 jien1` <small>/lɛ̃3 uaŋ2 t͡ɕin1/<sup>兴化</sup>, /lẽ3 ʋã2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 极懒，懒惰成性的人。<sup>\[如皋\]</sup> ② 极端懒惰的人。<sup>\[东台\]</sup> ③ 偷懒的人。<sup>\[兴化\]</sup>  
 1. 【[揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#揽)】`laen3` <sup>[东台]</sup> 把持，往自己身上拉：～活｜独～大权｜好吃的～媒做。  
 1. 【[揽载](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#揽载)】`laen3 cae6` <sup>[如皋]</sup> 增加负载量：破船多～。  
 1. 【[揽生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shen_i.md#揽生意)】`laen3 shen1 i` <sup>[如皋]</sup> 招揽生意。  
