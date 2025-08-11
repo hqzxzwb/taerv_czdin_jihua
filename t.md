@@ -1541,10 +1541,9 @@
 1. 【[掉价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jia.md#掉价)】`tio6 jia5` <sup>[东台]</sup> 有失体面：大家要把节目演好，千万不能～。  
 1. 【[掉里肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_li_roh.md#掉里肉)】`tio6 li3 roh8` <sup>[如皋]</sup> ① 损耗了积蓄。 ② 损失了老本儿。  
 1. 【[掉戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_qian.md#掉戗)】`tio6 qian5` <small>/tʰiɔ6 t͡ɕʰiaŋ5/<sup>兴化</sup></small> ① 帆船在航行中一会向左、一会向右，不断改变航向，叫做掉樯。如东词典作“掉弶”。<sup>\[如东\]</sup> ② 随风向掉转帆樯，使船改变航向<sup>\[兴化\]</sup>：风向转吖，大船随即～。<sup>\[兴化\]</sup> ③ （喻）改变立场、态度<sup>\[兴化\]</sup>：这支地主武装先捱国民党军收编，后又～投降日本人。<sup>\[兴化\]</sup> ④ 也作“掉向”。<sup>\[兴化\]</sup>  
-1. 【[掉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_teu.md#掉头)】`tio6 teu2` <sup>[如皋]</sup> 改变方向。或写“调头”。  
+1. 【[掉头/调头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_teu.md#掉头/调头)】`tio6 teu2` <small>/tʰiɔ1 tʰei2/<sup>如皋</sup></small> ① 改变方向。\[如皋：又音tio3 teu2\] ② 转回头，向相反的方向走。<sup>\[东台\]</sup>  
 1. 【[掉头不转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_teu_beh_zhun.md#掉头不转)】`tio6 teu2 beh7 zhun5` <sup>[兴化]</sup> 手头周转不灵：（这位王大少爷）谅非安心漂账的人，一时～，也是有的。（《官场现形记》三四）  
 1. 【[掉头转向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_teu_zhun_xian.md#掉头转向)】`tio6 teu2 zhun3 xian5` <sup>[兴化]</sup> ① 回头、转身：排啊在队伍里头不要～。 ② 调转方向：他原准备上东台，～到丁溪上吖大丰。  
-1. 【[调头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_teu.md#调头)】`tio6 teu2` <small>/tʰiɔ1 tʰei2/<sup>如皋</sup></small> ① 改变方向。<sup>\[如皋\]</sup> ② 转回头，向相反的方向走。<sup>\[东台\]</sup>  
 1. 【[调向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_xian.md#调向)】`tio6 xian5` <sup>[东台]</sup> ［喻］转变态度，改变方向。  
 1. 【[铞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#铞<sub>儿</sub>)】`tio6 r` <sup>[泰县]</sup> 水壶。  
 1. 【[铫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#铫)】`tio6` <sup>[东台]</sup> 烧水或煎药用的器具：茶～｜药～｜水～。  
