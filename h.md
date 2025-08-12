@@ -1687,7 +1687,7 @@
 1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <small>/xuɑʔ8 ɕĩ3/<sup>泰兴</sup>, /xuɑʔ8 ɕiɪ̃3/<sup>泰县</sup></small> 打闪，发生闪电<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：落雨天～。<sup>\[泰县\]</sup>  
 1. 【[慌慌快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_kuae.md#慌慌快)】`huan1 huan1 kuae5` <sup>[东台]</sup> 办事着急慌忙，速度快，但比较毛糙，质量不高。  
 1. 【[慌里慌张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lii_huan_zhan.md#慌里慌张)】`huan1 lii huan1 zhan1` <sup>[东台]</sup> 忙乱，不除一般沉着。  
-1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan` <sup>[如皋]</sup> 无主坟场。乱坟场。  
+1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan, huan1 tan` <sup>[如皋]</sup> 无主坟场。乱坟场。  
 1. 【[荒场𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_saeh.md#荒场𣜂/楔)】`huan1 chan saeh7` <sup>[如皋]</sup> 詈语。毒骂某人死无葬身之地，只能朝荒场中硬插。  
 1. 【[荒草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_co.md#荒草)】`huan1 co3` <small>/xuã1 t͡sʰɔ3/<sup>如皋</sup></small> ① 生长在荒野的草，主要有乌蓝、仙棵、芒棵、茅草、狼尾草等。<sup>\[如东\]</sup> ② 相对于“行草”“沟岸草”和“熟草”而言，指田禾秸杆的大部（黄豆子、小麦秆子除外）。作饲料、燃料用。<sup>\[如皋\]</sup>  
 1. 【[荒垡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_faeh.md#荒垡)】`huan1 faeh` <small>/xuaŋ1 fæʔ/<sup>兴化</sup>, /xuɑŋ1 fɛ̃5/<sup>泰县</sup></small> 从荒地里挖出的大土块<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：风调雨顺的年头做圩子，都是从荡边、湖滩上挖～。（马春阳《风里雨里》）<sup>\[兴化\]</sup>  
@@ -2115,6 +2115,7 @@
 1. 【[喝老牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_lo_ngeu.md#喝老牛)】`huh7 lo3 ngeu2` <sup>[东台]</sup> ［喻］大声地吆喝别人：你这～的格局哪个服你？  
 1. 【[喝莽酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_man_jieu.md#喝莽酒)】`huh7 man3 jieu3` <sup>[如皋]</sup> 喝酒快而多。  
 1. 【[喝牛骂狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ngeu_ma_geu.md#喝牛骂狗)】`huh7 ngeu2 ma6 geu3` <sup>[东台]</sup> ［喻］口声粗野，出口伤人：态度要和蔼，不能～的。  
+1. 【[喝声喝气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shen_huh_qi.md#喝声喝气)】`huh7 shen1 huh7 qi5` <small>/xʊʔ7 səŋ1 xʊʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 吆五喝六，语气凶横粗鲁<sup>\[泰兴\]</sup>：～冲上人<sup>\[泰兴\]</sup>  
 1. 【[喝汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_tan.md#喝汤)】`huh7 tan1` <sup>[兴化]</sup> （喻）被洪水淹没：那年发大水，联圩一倒，几个庄子全部～。  
 1. 【[喝五摵六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_v_seh_loh.md#喝五摵六)】`huh7 v3 seh7 loh8` <sup>[泰县]</sup> 说话不实：你不要～的。  
 1. 【[喝西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_xi_boh_fon.md#喝西北风)】`huh7 xi1 boh7 fon1` <small>/xʊʔ7 ɕʝ1 pɔʔ7 fɔŋ1/<sup>如皋</sup></small> ① 没有食物，只能吃风。比喻生活困苦。<sup>\[如东\]</sup> ② 希望落空。<sup>\[如皋\]</sup> ③ ［喻］指没有东西吃<sup>\[东台\]</sup>：耽误啊农时，你让合家老小～？<sup>\[东台\]</sup>  
