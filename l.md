@@ -710,6 +710,7 @@
 1. 【[浪/𧻴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#浪/𧻴)】`lan6` <sup>[如皋]</sup> ① 荒疏：他把学业～掉啊。 ② 浪荡：他成天的在外头～，不归家。 ③ 拖：～工。 ④ 拖延、等待：吃咖夜饭～～尿再睏。  
 1. 【[浪工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gon.md#浪工)】`lan6 gon1` ① 浪费人工，因为返工或者材料、工具不能及时到位儿造成的停工<sup>\[泰州\]</sup>：你家板子到现在还不弄过来，到时候～不好怪人家木匠。<sup>\[泰州\]</sup> ② 因为人多活少造成的劳动效率不高<sup>\[泰州\]</sup>：总共就这点儿活技，你俫要5个人做，太～吖唻。<sup>\[泰州\]</sup>  
 1. 【[浪用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ion.md#浪用)】`lan6 ion6` 没有节制地乱花钱<sup>\[泰州\]</sup>：你就是钱再多，也不能这格局～。<sup>\[泰州\]</sup>  
+1. 【[浪浪头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lan_teu_r.md#浪浪头<sub>儿</sub>)】`lan6 lan6 teu2 r` 地肤草<sup>\[如东\]</sup>  
 1. 【[浪流浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lieu_lan.md#浪流浪)】`lan6 lieu2 lan6` <sup>[如皋]</sup> 言行举止漂浮，不可信任。  
 1. 【[浪吃浪用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_qieh_lan_ion.md#浪吃浪用)】`lan6 qieh7 lan6 ion6` <sup>[泰州]</sup> 没有节制地吃喝、花钱：就这两个工资，哪掌得住他这格局浪吃浪用！  
 1. 【[浪荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan.md#浪荡)】`lan6 tan6` <sup>[如东]</sup> 不务正业，到处游荡。  
