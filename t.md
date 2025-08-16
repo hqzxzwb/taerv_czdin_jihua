@@ -1708,7 +1708,6 @@
 1. 【[秃寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheu.md#秃寿)】`toh7 sheu6` <small>/tʰɔʔ7 sɤ6/<sup>兴化</sup></small> ① ［引］做某种损德的事情要减少寿命。也称“秃阳寿”。<sup>\[东台\]</sup> ② 减寿<sup>\[兴化\]</sup>：做这种损德的事～啊！也说“秃阳寿”。<sup>\[兴化\]</sup> ③ 减寿，减去个人所能活的岁数<sup>\[泰州\]</sup>：你做这些缺德事，就不怕秃阳寿。<sup>\[泰州\]</sup>｜这狗肏的，坏事做得太多，怎吖得不～。<sup>\[泰州\]</sup>  
 1. 【[秃寿小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_sheu_xio.md#秃寿小)】`toh7 sheu6 xio3` <sup>[泰县]</sup> （禁忌语）小死鬼。  
 1. 【[秃熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shoh.md#秃熟)】`toh7 shoh8` <sup>[如东]</sup> ① 非常熟悉：这条路他～。 ② 非常精通：这种线路他～。  
-1. 【[秃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#秃树)】`toh7-8 shv6` <sup>[东台]</sup> 锯掉树的上部一些树枝。  
 1. 【[秃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#秃树)】`toh7 shv6` <small>/tʰɔʔ7 su6/<sup>兴化</sup>, /tʰɔʔ7 su1/<sup>泰县</sup></small> ① 修剪树枝。<sup>\[如东\]</sup>：～枝。<sup>\[如东\]</sup> ② 砍去树上多余的枝杈。<sup>\[兴化\]</sup> ③ 修剪树枝。<sup>\[泰县\]</sup> ④ 用斧、锯等工具去掉树上多余枝杈。<sup>\[泰州\]</sup>  
 1. 【[秃头秃脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_teu_toh_no.md#秃头秃脑)】`toh7 teu2 toh7 no3` <sup>[兴化]</sup> 说话、写文章没有头尾，使人不明所以：你的信～的，我也不晓得甚的意思。  
 1. 【[秃头秃脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_teu_toh_no.md#秃头秃脑的)】`toh7 teu2 toh7 no3 dii` <sup>[如皋]</sup> ① 状写作文、说话直截了当，无上下文连贯。 ② 讲不清楚头尾：他跑到这许，一头喘，一头～说咖几句话就昏过去啊。  
@@ -1754,7 +1753,7 @@
 1. 【[独种<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_zhon_r.md#独种<sub>儿</sub>)】`toh8 zhon3 r` <sup>[如皋]</sup> ① 唯一的。 ② 独生子。  
 1. 【[讟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#讟)】`toh8` <sup>[泰州]</sup> 怨恨：他把人家工作弄掉啊，这回子～结咖深吖唻。｜这两家不晓得为的甚的事，这个～就大得加思唻。  
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  
-1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <small>/tʰɔʔ8 su1/<sup>如皋</sup></small> ① 修剪树枝。<sup>\[如皋\]</sup> ② 修整树枝。𠠔，徒木切。形声字。<sup>\[如皋\]</sup>  
+1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <small>/tʰɔʔ8 su1/<sup>如皋</sup></small> ① 修整树枝。𠠔，徒木切。形声字。<sup>\[如皋\]</sup> ② 锯掉树的上部一些树枝。<sup>\[东台\]</sup>  
 1. 【[通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#通)】`ton1` <sup>[泰兴]</sup> 遍及（某地区），（某地区内）到处，整个（某地区）：他喉咙大，～庄上总听见吖｜～乡里寻不到他人  
 1. 【[通板手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen_sheu.md#通板手)】`ton1 baen sheu3` <sup>[泰州]</sup> 手掌掌纹中所谓生命线为一直线的手，民间以为通板手有劲。  
 1. 【[通板手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen_sheu.md#通板手)】`ton1 baen3 sheu3` <sup>[泰县]</sup> 打人很厉害的手。  
