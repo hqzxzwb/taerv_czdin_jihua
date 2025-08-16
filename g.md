@@ -358,6 +358,7 @@
 1. 【[缸炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_taen.md#缸炭)】`gan1 taen5` <sup>[如皋]</sup> 窑制木炭。常以缸或油纸篓儿装运，故名。  
 1. 【[缸瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_va.md#缸瓦)】`gan1 va3` <sup>[东台]</sup> 用砂子、陶土等混合而烧成的瓦，也指陶器的碎片：大炼钢铁时有人用～炼钢，荒唐！  
 1. 【[缸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#缸子)】`gan1 zz` <small>/kɑŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 喝水或盛东西用的器皿。<sup>\[东台\]</sup> ② 大茶杯，茶缸。<sup>\[泰兴\]</sup>  
+1. 【[豇豆角子下面，清汤清水的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu_gah_zz.md#豇豆角子下面，清汤清水的)】`gan1 teu gah7 zz xia6 min6 qien1 tan1 qien1 shuei3 dii` <small>/kɑŋ1 tʰəɪ kɑʔ7 t͡sɿ ɕiɑ1 mĩ1 t͡ɕʰiŋ1 tʰɑŋ1 t͡ɕʰiŋ1 suəɪ3 təɪ/<sup>泰兴</sup></small> 歇后语。喻处理事情条理清楚，脉络分明，不拖泥带水。<sup>\[泰兴\]</sup>  
 1. 【[豇豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu.md#豇豆)】`gan1 teu6` 豇豆。常见蔬菜。  
 1. 【[豇豆角<sub>儿</sub>下面——清汤清水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_teu_gah_r.md#豇豆角<sub>儿</sub>下面——清汤清水)】`gan1 teu6 gah7 r xia6 min6 qien1 tan1 qien1 shuei3` <sup>[东台]</sup>   
 1. 【[钢尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cheh.md#钢尺)】`gan1 cheh7` <sup>[如东]</sup> 度量工具。金属制成，有直尺、角尺、圈尺、卡尺等多种。  
@@ -459,7 +460,7 @@
 1. 【[格喇格喇的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_laeh_geh_laeh.md#格喇格喇的)】`geh7 laeh geh7 laeh dii` <sup>[如皋]</sup> 状力量、程度厉害：～雷声；当面说得～，叫人脸上不得下。  
 1. 【[格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_qioh.md#格局)】`geh7 qioh` <small>/kəʔ7 t͡ɕʰyɔʔ/<sup>兴化</sup>, /kəʔ7 t͡ɕʰiɔʔ/<sup>泰兴</sup>, /kəʔ7 t͡ɕʰiɔʔ/<sup>泰县</sup></small> ① 样子<sup>\[兴化\]</sup>：你这个～叫人害怕。<sup>\[兴化\]</sup>｜像这个～再有十天也不得完工吖！<sup>\[兴化\]</sup> ② 过分讲究<sup>\[泰县\]</sup>：不要～，快点儿走吧。<sup>\[泰县\]</sup> ③ 款式；格式。<sup>\[泰兴\]</sup>  
 1. 【[格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_qioh.md#格局)】`geh7 qioh8` ① 指故作姿态，卖关子<sup>\[东台\]</sup>：你不要～，有话直说。<sup>\[东台\]</sup> ② 过分讲究，好摆场子<sup>\[东台\]</sup>：不要～，条件差的旅馆不要紧！<sup>\[东台\]</sup> ③ 样子，情形<sup>\[泰州\]</sup>：你不要睬他，像他那～弄法肯定不行。<sup>\[泰州\]</sup>｜他俫两个人这～吵下去，哪块是过日子啊，我估计早晚要分手。<sup>\[泰州\]</sup> ④ 因讲究而挑剔<sup>\[泰州\]</sup>：他这个人～得很，衣裳不烫吖子不肯穿的。<sup>\[泰州\]</sup>｜你不要～吧，去小饭店吃顿饭有甚的要紧，吃不杀的。<sup>\[泰州\]</sup>  
-1. 【[格式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_sheh.md#格式)】`geh7 sheh7` <small>/kəʔ7 səʔ7/<sup>兴化</sup></small> ① 在东台话里与“格局”相近。<sup>\[东台\]</sup> ② 样子<sup>\[兴化\]</sup>：“像这个～，不到天亮就得到啊啦……”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ③ 指一定的规则法度<sup>\[泰州\]</sup>：你起草的这个文件，不符合公文的格式。<sup>\[泰州\]</sup> ④ 泛指样子<sup>\[泰州\]</sup>：像你这～弄法，再有一个星期也弄不好啊。<sup>\[泰州\]</sup> ⑤ 指只重形式而不重内容的做法，贬义<sup>\[泰州\]</sup>：你就不要～吧，老同学聚会，随便穿甚的衣裳都行，哪块来的这些讲究。<sup>\[泰州\]</sup>  
+1. 【[格式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_sheh.md#格式)】`geh7 sheh7` <small>/kəʔ7 səʔ7/<sup>兴化</sup>, /kəʔ7 səʔ7/<sup>泰兴</sup></small> ① 在东台话里与“格局”相近。<sup>\[东台\]</sup> ② 样子<sup>\[兴化\]</sup>：“像这个～，不到天亮就得到啊啦……”（兴文《得胜湖的定名及传说》）<sup>\[兴化\]</sup> ③ 指一定的规则法度<sup>\[泰州\]</sup>：你起草的这个文件，不符合公文的格式。<sup>\[泰州\]</sup> ④ 泛指样子<sup>\[泰州\]</sup>：像你这～弄法，再有一个星期也弄不好啊。<sup>\[泰州\]</sup> ⑤ 指只重形式而不重内容的做法，贬义<sup>\[泰州\]</sup>：你就不要～吧，老同学聚会，随便穿甚的衣裳都行，哪块来的这些讲究。<sup>\[泰州\]</sup> ⑥ 犹言式样，表面的形象。乡人云“不要做格式”，就是不要装模作样。<sup>\[泰兴\]</sup>  
 1. 【[格头府子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_teu_fv_zz.md#格头府子)】`geh7 teu fv3 zz` <sup>[东台]</sup> 主房与附房垂直相连，屋基呈L形的一种民房。  
 1. 【[格炸炸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha_zha.md#格炸炸)】`geh7 zha5 zha5` <sup>[东台]</sup> 形容声音很响亮：她精力充沛，70多岁啊说话还～的。  
 1. 【[格正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhen.md#格正)】`geh7 zhen` <sup>[兴化]</sup> 穿着整齐，打扮入时而不花哨：刘老师穿着素净、大方，跑出来蛮～的。也作“格铮”“格挣”“格铮”“格格铮铮”。  
@@ -503,6 +504,7 @@
 1. 【[箇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih.md#箇歇)】`geh7 xih7` 现在：～几点钟？/现在几点钟？  
 1. 【[箇歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih_gu.md#箇歇个)】`geh7 xih9 gu` <small>/kəʔ7 ɕiʔ9 kɤɯ/<sup>泰兴</sup></small> 这时候，现在。<sup>\[泰兴\]</sup>  
 1. 【[箇□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha.md#箇□)】`geh7 zha1` <small>/kəʔ7 t͡sɑ1/<sup>泰兴</sup></small> 然后，接下来<sup>\[泰兴\]</sup>  
+1. 【[箇□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha_beh.md#箇□□)】`geh7 zha1 beh` <small>/kəʔ7 t͡sɑ1 pəʔ/<sup>泰兴</sup></small> 这下子怎么办呢？疑问句。<sup>\[泰兴\]</sup>  
 1. 【[箇种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhon.md#箇种)】`geh7 zhon3, geh7 zhon9` <small>/kəʔ7 t͡sɔŋ3/<sup>泰兴</sup></small> 这种<sup>\[泰兴\]</sup>  
 1. 【[箇早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zo_vaen.md#箇早晚)】`geh7 zo3 vaen` 现在<sup>\[如东\]</sup>  
 1. 【[胳膊扭不过大腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_bah_nieu_beh.md#胳膊扭不过大腿)】`geh7 bah7 nieu3 beh7 gu5 da6 ty3` <sup>[东台]</sup> 弱小的敌不过强大的。  
@@ -573,8 +575,9 @@
 1. 【[更更鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gen_ji_r.md#更更鸡<sub>儿</sub>)】`gen1 gen1 ji1 r` <sup>[如皋]</sup> 每更皆啼的公鸡。  
 1. 【[更鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gv.md#更鼓)】`gen1 gv3` <sup>[东台]</sup> 旧时报更用的鼓，古时一夜分为五更。  
 1. 【[根本家乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ben_jia_xian.md#根本家乡)】`gen1 ben3 jia1 xian1` <small>/kən1 pən3 t͡ɕia1 ɕiaŋ1/<sup>兴化</sup>, /kəŋ1 pəŋ3 t͡ɕia1 ɕiã1/<sup>如皋</sup>, /kəŋ1 pəŋ3 t͡ɕia1 ɕiɑŋ1/<sup>泰县</sup></small> ① 家世家底。<sup>\[如东\]</sup>：你的～我都晓得。<sup>\[如东\]</sup> ② 有关某人的全部情况，包括隐私。<sup>\[如皋\]</sup> ③ 事物的底细<sup>\[兴化\]</sup>：他的～我俫一清二楚，没问题。<sup>\[兴化\]</sup> ④ 家世、家底<sup>\[泰县\]</sup>：你的～我都晓得。<sup>\[泰县\]</sup> ⑤ 某人在家乡的底细<sup>\[泰州\]</sup>：老刘晓得这个人的～，老家在哪块，父母做甚的的，怎吖到泰州来的。<sup>\[泰州\]</sup>  
+1. 【[根本江山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ben_jian_shaen.md#根本江山)】`gen1 ben3 jian1 shaen1` <small>/kəŋ1 pəŋ3 t͡ɕiɑŋ1 ɕiɛ̃1/<sup>泰兴</sup></small> 谓人的详细履历或事物的来龙去脉。（存疑，参见“根本家乡”）<sup>\[泰兴\]</sup>：他的～我是晓得的<sup>\[泰兴\]</sup>  
 1. 【[根崩山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_bon_shaen.md#根崩山)】`gen1 bon1 shaen1` <sup>[如东]</sup> ① 像高山崩溃一样的倒下来了。 ② 像山崩一样的巨响：那棵大杨树捱大风一吹，～，倒啊！  
-1. 【[根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_di.md#根底)】`gen1 di3` <small>/kəŋ1 tʝ3/<sup>如皋</sup></small> ① 根源。<sup>\[如东\]</sup>：要把～搞清楚。<sup>\[如东\]</sup> ② 有关某人的全部情况。<sup>\[如皋\]</sup>  
+1. 【[根底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_di.md#根底)】`gen1 di3` <small>/kəŋ1 tʝ3/<sup>如皋</sup>, /kəŋ1 t͡ɕʝ3/<sup>泰兴</sup></small> ① 根源。<sup>\[如东\]</sup>：要把～搞清楚。<sup>\[如东\]</sup> ② 有关某人的全部情况。<sup>\[如皋\]</sup> ③ 基础，根茎；来源，源头。<sup>\[泰兴\]</sup>：墙上芦苇，头重脚轻～浅<sup>\[泰兴\]</sup>  
 1. 【[根源](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_iun.md#根源)】`gen1 iun2` <sup>[如东]</sup> ① 起源。 ② 事物发生发展的根本原因：～是甚的，要搞清楚。  
 1. 【[根基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ji.md#根基)】`gen1 ji1` <sup>[如东]</sup> ① 基础：～强。 ② 比喻家底：李明的～好。  
 1. 【[根脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#根脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 禾苗的生长密度、状况等。<sup>\[如东\]</sup>：这块田里的棉花～不错。<sup>\[如东\]</sup> ② 住址、底细<sup>\[兴化\]</sup>：雇保姆先把～弄清爽楚。<sup>\[兴化\]</sup>｜倪太守连忙转身……教他访那女子～……（此处“根”作“跟”）（《古今小说》十）<sup>\[兴化\]</sup> ③ 建筑物的基础<sup>\[泰州\]</sup>：他家这几间房子的～打得牢。<sup>\[泰州\]</sup>  
@@ -613,7 +616,7 @@
 1. 【[跟吖后头转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_heu_teu.md#跟吖后头转)】`gen1 nga heu6 teu zhun5` <sup>[如皋]</sup> 见“随弯儿就弯儿”。  
 1. 【[跟吖人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_ren.md#跟吖人)】`gen1 nga ren2` <sup>[如皋]</sup> 指女性非婚随男性生活。  
 1. 【[跟屁虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_pi_chon.md#跟屁虫)】`gen1 pi5 chon2` <sup>[东台]</sup> ① 老跟在别人后面的人。 ② 没有主见，人云亦云者。  
-1. 【[跟前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin.md#跟前)】`gen1 qin2` ① 面前 ② 身边。<sup>\[东台\]</sup>  
+1. 【[跟前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin.md#跟前)】`gen1 qin2` <small>/kəŋ1 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 面前 ② 身边。<sup>\[东台\]</sup> ③ 身边；附近。<sup>\[泰兴\]</sup>  
 1. 【[跟前跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin_gen_heu.md#跟前跟后)】`gen1 qin2 gen1 heu6` <sup>[东台]</sup> 跟来跟去，多指小孩子。  
 1. 【[跟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ren.md#跟人)】`gen1 ren2` ① 女方有了婆家。<sup>\[如东\]</sup>：兰兰已经跟吖人。<sup>\[如东\]</sup> ② 特指旧时女子未经三媒六证迎娶程序，与人同居成夫妻，有贬义。<sup>\[东台\]</sup> ③ 女子未履行法定手续而与人同居<sup>\[泰州\]</sup>：她在外头也是没得办法才～的。<sup>\[泰州\]</sup>  
 1. 【[跟手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_sheu.md#跟手)】`gen1 sheu3` <sup>[兴化]</sup> ① 随手：他一进家，～把门关起来。 ② 随后：你先去，我把家里安排下子～就到。也作“跟后”。  
@@ -2010,12 +2013,14 @@
 1. 【[赶得上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_deh_shan.md#赶得上)】`gun3 deh7 shan6` <sup>[东台]</sup> ① 时间来得及：快点跑，才能～上课。 ② 追得上。  
 1. 【[赶寒气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hun_qi.md#赶寒气)】`gun3 hun2 qi5` <sup>[如皋]</sup> 驱寒。  
 1. 【[赶急赶忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jieh_gun_man.md#赶急赶忙)】`gun3 jieh7 gun3 man2` <sup>[泰州]</sup> 着急匆忙的样子：时间还早，你不要这吖～的。  
+1. 【[赶急着忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jieh_zhah_man.md#赶急着忙)】`gun3 jieh7 zhah7 man2` <small>/kʊ̃3 t͡ɕiʔ7 t͡sɑʔ7 mɑŋ2/<sup>泰兴</sup></small> 赶忙。谓抓紧（做事）。<sup>\[泰兴\]</sup>  
 1. 【[赶伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#赶伴)】`gun3 pun6` <sup>[东台]</sup> 赶趟儿，成为同一批：刚才山芋已经下锅煮啊一刻儿，你再加生的就不～吖。  
 1. 【[赶前伺后的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qin_cz_heu.md#赶前伺后的)】`gun3 qin2 cz5 heu6 dii` <sup>[如皋]</sup> 有求于人，须谦恭地跟随、等待。  
 1. 【[赶巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qio.md#赶巧)】`gun3 qio3` <sup>[东台]</sup> 碰巧、恰巧的意思：你如～，就帮我带点儿东西，不～就罢。  
 1. 【[赶市口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shr_keu.md#赶市口)】`gun3 shr6 keu3` <sup>[如皋]</sup> 向市情好的地方赶。  
 1. 【[赶水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shuei.md#赶水)】`gun3 shuei3` <sup>[如皋]</sup> 用畜力驱动水车提水灌田。见“吆水”。  
 1. 【[赶𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_so.md#赶𢜶)】`gun3 so5` <small>/kũ3 sɔ5/<sup>兴化</sup></small> ① 赶快<sup>\[兴化\]</sup>：你老婆上医院生养，你～去！<sup>\[兴化\]</sup> ② 抓紧时间或者加快速度<sup>\[泰州\]</sup>：你家妈妈跌咖来啊，上吖人民医院，你～去。<sup>\[泰州\]</sup>｜人家就等吖要，你俫～弄。<sup>\[泰州\]</sup>  
+1. 【[赶趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tan.md#赶趟)】`gun3 tan5` <small>/kʊ̃3 tʰɑŋ5/<sup>泰兴</sup></small> 赶上；跟趟。<sup>\[泰兴\]</sup>  
 1. 【[赶头刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_teu_do.md#赶头刀)】`gun3 teu2 do1` <small>/kũ3 tʰɤ2 tɔ1/<sup>兴化</sup>, /kõ3 tʰɤɯ2 tɔ1/<sup>泰县</sup></small> ① 骂人走路太匆忙<sup>\[兴化\]</sup>：你忙的甚的事？像去～！<sup>\[兴化\]</sup> ② （禁忌语）急着去办某件事<sup>\[泰县\]</sup>：你哪许去～的，车子都撞到人身上。<sup>\[泰县\]</sup>  
 1. 【[赶下家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xia_jia.md#赶下家)】`gun3 xia6 jia1` <sup>[兴化]</sup> 见“走下家”。  
 1. 【[赶香期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xian_qi.md#赶香期)】`gun3 xian1 qi` <sup>[如皋]</sup> 赶集市，参加贸易。  

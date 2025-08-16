@@ -1348,15 +1348,17 @@
 1. 【[莲房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_fan.md#莲房)】`lin2 fan2` <sup>[如东]</sup> 睡莲科植物莲的成熟花托。  
 1. 【[莲梗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gen.md#莲梗)】`lin2 gen3` <sup>[如东]</sup> 睡莲科植物莲的叶柄或花柄，也叫荷梗。  
 1. 【[莲花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_hua.md#莲花)】`lin2 hua1` <sup>[如东]</sup> 睡莲科植物莲的花蕾，也称荷花。  
+1. 【[莲花落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_hua_lah.md#莲花落)】`lin2 hua1 lah8` <small>/lĩ2 xuɑ1 lɑʔ8/<sup>泰兴</sup></small> 曲艺的一种。旧时本为乞丐所演唱，故乡人有云：“穷快活，富洒落，叫花子打个～。”<sup>\[泰兴\]</sup>  
 1. 【[莲衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_i.md#莲衣)】`lin2 i1` <sup>[如东]</sup> 睡莲科植物莲的种皮。  
 1. 【[莲叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ih.md#莲叶)】`lin2 ih8` <sup>[如东]</sup> 睡莲科植物莲的叶，也称荷叶。  
 1. 【[莲叶蒂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ih_di.md#莲叶蒂)】`lin2 ih8 di5` <sup>[如东]</sup> 睡莲科植物莲的叶基部，也称荷叶蒂。  
 1. 【[莲蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon.md#莲蓬)】`lin2 pon2` ① 莲房。<sup>\[如东\]</sup> ② 荷花开过以后的花托，内有莲子<sup>\[东台\]</sup>：“最喜小儿无赖，溪头卧剥～”（宋·辛弃疾《清平乐·村居》）。<sup>\[东台\]</sup>  
-1. 【[莲蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_teu.md#莲蓬头)】`lin2 pon2 teu2` <small>/liɪ̃2 pʰoŋ2 tʰɤ2/<sup>兴化</sup></small> ① 淋浴设备及喷壶等出水口上的一种装置。<sup>\[兴化\]</sup> ② 浴室淋浴的喷头。<sup>\[泰州\]</sup>  
+1. 【[莲蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_teu.md#莲蓬头)】`lin2 pon2 teu2` <small>/liɪ̃2 pʰoŋ2 tʰɤ2/<sup>兴化</sup>, /lĩ2 pʰɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> ① 淋浴设备及喷壶等出水口上的一种装置。<sup>\[兴化\]</sup> ② 浴室淋浴的喷头。<sup>\[泰州\]</sup> ③ 形似莲蓬的水龙头。<sup>\[泰兴\]</sup>  
 1. 【[莲蓬心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_xien.md#莲蓬心)】`lin2 pon2 xien1` <sup>[如皋]</sup> 无主见，拿不定主意。或指人。  
 1. 【[莲须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_xy.md#莲须)】`lin2 xy1` <sup>[如东]</sup> 睡莲科植物莲的雄芯。  
 1. 【[莲子花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_hua_shen.md#莲子花生)】`lin2 zz hua1 shen1` <sup>[如皋]</sup> 花生品种，花生米儿是红的。  
 1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <sup>[如东]</sup> 睡莲科植物莲的果实或种子。  
+1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <small>/lĩ2 t͡sɿ3/<sup>泰兴</sup></small> 荷莲的子实。<sup>\[泰兴\]</sup>  
 1. 【[莲子心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_xien.md#莲子心)】`lin2 zz3 xien1` <sup>[如东]</sup> 睡莲科植物莲昀成熟种子中的绿色胚芽。  
 1. 【[连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#连)】`lin2` <small>/liɪ̃2/<sup>兴化</sup>, /lĩ2/<sup>如皋</sup></small> ① 一种缝纫方法。用针线把两块布料缝合起来，称连。也称缝。<sup>\[如东\]</sup> ② 人民解放军建制单位，约180人。<sup>\[如东\]</sup> ③ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ④ 缝合针法：淌针子～。<sup>\[如皋\]</sup> ⑤ 泛指缝衣：烧烧煮煮，～～补补。<sup>\[如皋\]</sup> ⑥ 缝补衣服<sup>\[兴化\]</sup>：裤脚撕破啊，妈妈拿针线～起来。<sup>\[兴化\]</sup> ⑦ 将裁剪成片的布料连缀起来。《吴下方言考》“～，合也。吴人以缝衣为～。”<sup>\[兴化\]</sup> ⑧ 连同<sup>\[泰州\]</sup>：～我在内总共来啊10个人。<sup>\[泰州\]</sup> ⑨ 介词，表示强调<sup>\[泰州\]</sup>：他～厂长都不怕，怎吖会买你的账？<sup>\[泰州\]</sup>  
 1. 【[连本掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_kuaen.md#连本掼)】`lin2 ben3 kuaen6` <sup>[兴化]</sup> 见“连本烂”。  

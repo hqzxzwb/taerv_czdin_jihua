@@ -790,6 +790,7 @@
 1. 【[珍珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv.md#珍珠)】`zhen1 zhv1` <sup>[如东]</sup> 蚌科动物背角无齿蚌珍珠囊中形成的无核珍珠。  
 1. 【[珍珠母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv_mu.md#珍珠母)】`zhen1 zhv1 mu3` <sup>[如东]</sup> 蚌科动物背角无齿蚌贝壳珍珠层。  
 1. 【[真本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ben.md#真本)】`zhen1 ben3` <sup>[兴化]</sup> 成本，一般指原铺材料的购进价：这套家具～四千多，把人工、税金一加，六千也不能卖！  
+1. 【[真本事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ben_shr.md#真本事)】`zhen1 ben3 shr` <small>/t͡səŋ1 pəŋ3 sɿ/<sup>泰兴</sup></small> 实实在在的本领。<sup>\[泰兴\]</sup>  
 1. 【[真当的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_dan_dii.md#真当的)】`zhen1 dan5 dii` <sup>[如东]</sup> 确实的：～是这样。  
 1. 【[真刀真枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_do_zhen_qian.md#真刀真枪)】`zhen1 do1 zhen1 qian1` <sup>[如东]</sup> 真家伙。比喻真干。  
 1. 【[真峰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_fon.md#真峰)】`zhen1 fon1` <sup>[泰县]</sup> 动真的：上吖～他就不敢吖。  
@@ -804,8 +805,10 @@
 1. 【[真实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_sheh.md#真实)】`zhen1 sheh8` <sup>[兴化]</sup> 实在：对不起，我今朝～没空，改天再陪你吧！  
 1. 【[真心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien_hua.md#真心话)】`zhen1 xien1 hua6` <sup>[如东]</sup> 自己心里的真实思想。  
 1. 【[真心话的本心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien_hua_dii.md#真心话的本心话)】`zhen1 xien1 hua6 dii ben3 xien hua6` <sup>[如东]</sup> 说句实在话。  
+1. 【[真扎家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_ga_hu.md#真扎家伙)】`zhen1 zhaeh ga1 hu` <small>/t͡səŋ1 t͡ɕiæʔ kɑ1 xɤɯ/<sup>泰兴</sup></small> 真正、实在的东西。<sup>\[泰兴\]</sup>  
+1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <sup>[如东]</sup> 质量很好的货物：这些都是～。  
 1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <small>/t͡sən1 t͡sæʔ7 xo5/<sup>兴化</sup>, /t͡səŋ1 t͡sæʔ7 xo5/<sup>泰县</sup></small> ① 地道的、优质的产品<sup>\[兴化\]</sup>：我俫卖的刬是大厂生产的～！<sup>\[兴化\]</sup> ② 质量好的货。<sup>\[泰县\]</sup> ③ 相对于“冒牌货”，多指从原产地或大型商店买的地道名牌商品。<sup>\[泰州\]</sup>  
-1. 【[真札货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真札货)】`zhen1 zhaeh7 hu5` <sup>[如东]</sup> 质量很好的货物：这些都是～。  
+1. 【[真真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen.md#真真)】`zhen1 zhen` <small>/t͡səŋ1 t͡səŋ/<sup>泰兴</sup></small> 的的确确，实实在在。<sup>\[泰兴\]</sup>  
 1. 【[真真的个真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen_dii_gu.md#真真的个真)】`zhen1 zhen1 dii gu zhen1` <sup>[东台]</sup> 意为已经给足了最大的情面，天大的交情。  
 1. 【[睁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen.md#睁眼)】`zhen1 ngaen3` <sup>[如皋]</sup> 指初生禽兽的发育生长阶段。  
 1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_ngaen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 ngaen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
@@ -2008,6 +2011,7 @@
 1. 【[做佛事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_feh_shr.md#做佛事)】`zu5 feh8 shr6` <small>/t͡so5 fəʔ8 sɿ6/<sup>兴化</sup>, /t͡so5 fəʔ8 sɿ1/<sup>泰县</sup></small> ① 请和尚、道士、尼姑念经祭祖。<sup>\[如东\]</sup> ② 请僧人诵经、拜忏、放焰口等统称～。《儒林外史》第四回有“范举人因母亲～”句。<sup>\[兴化\]</sup> ③ （借）暗中使坏<sup>\[兴化\]</sup>：毕飞宇《慌乱的指头》中有“你竟把佛事做到你娘头上来”句。<sup>\[兴化\]</sup> ④ 做手脚、干坏事：你不～。<sup>\[泰县\]</sup>  
 1. 【[做坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_fen.md#做坟)】`zu5 fen2` <sup>[如皋]</sup> 修葺坟头，整修坟地（自做或请人代做）。  
 1. 【[做格局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_geh_qioh.md#做格局)】`zu5 geh7 qioh8` <sup>[东台]</sup> 同“做作”。  
+1. 【[做格式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_geh_sheh.md#做格式)】`zu5 geh7 sheh` <small>/t͡sɤɯ5 kəʔ7 səʔ/<sup>泰兴</sup></small> 装模作样<sup>\[泰兴\]</sup>  
 1. 【[做勾墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_geu_qian.md#做勾墙)】`zu5 geu1 qian2` <sup>[如皋]</sup> 给木盆桶装底，要先在“墙子（桶内壁）”下口处做出“肩角”，以便装底。  
 1. 【[做狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_geu.md#做狗)】`zu5 geu3` <sup>[兴化]</sup> 讳饰语，谓幼儿患病。  
 1. 【[做狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_geu_r.md#做狗<sub>儿</sub>)】`zu5 geu3 r` <sup>[如东]</sup> 小儿睡觉。  

@@ -326,7 +326,7 @@
 1. 【[散血草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xiuh_co.md#散血草)】`saen5 xiuh7 co3` <sup>[如皋]</sup> 筋骨草。  
 1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz` 昆虫、鱼产籽曰散子<sup>\[泰州\]</sup>：你家鱼缸里的金鱼～唻。<sup>\[泰州\]</sup>  
 1. 【[散子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#散子)】`saen5 zz3` <small>/sɛ̃5 t͡sɿ3/<sup>兴化</sup>, /sẽ5 t͡sɿ3/<sup>如皋</sup></small> 虫、鱼、蛙、贝类等产卵。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>  
-1. 【[索粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_fen.md#索粉)】`sah7 fen3` <small>/saʔ7 fən3/<sup>兴化</sup>, /saʔ7 fəŋ3/<sup>如皋</sup></small> ① 含水粉丝。<sup>\[如皋\]</sup> ② 制作粉丝。<sup>\[如皋\]</sup> ③ 戏称流鼻涕。<sup>\[如皋\]</sup> ④ 拉冬粉。<sup>\[如东\]</sup> ⑤ 制成后浸在水中的粉条。<sup>\[兴化\]</sup>  
+1. 【[索粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_fen.md#索粉)】`sah7 fen3` <small>/saʔ7 fən3/<sup>兴化</sup>, /saʔ7 fəŋ3/<sup>如皋</sup>, /sɑʔ7 fəŋ3/<sup>泰兴</sup></small> ① 含水粉丝。<sup>\[如皋\]</sup> ② 制作粉丝。<sup>\[如皋\]</sup> ③ 戏称流鼻涕。<sup>\[如皋\]</sup> ④ 拉冬粉。<sup>\[如东\]</sup> ⑤ 制成后浸在水中的粉条。<sup>\[兴化\]</sup> ⑥ 粉丝。<sup>\[泰兴\]</sup>  
 1. 【[索介](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_ga.md#索介)】`sah7 ga` <sup>[东台]</sup> 索性；干脆：剩下这一口粥，你～全吃掉。  
 1. 【[索圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_qiun_r.md#索圈<sub>儿</sub>)】`sah7 qiun1 r` <sup>[如皋]</sup> 用红笔在文句旁边面成串的圈，表示赞赏。  
 1. 【[索索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_sah.md#索索)】`sah7 sah7` 索性，干脆<sup>\[泰州\]</sup>：今朝反正是得罪啊他，～就得罪到底。<sup>\[泰州\]</sup>  
@@ -334,6 +334,7 @@
 1. 【[索腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_tuei.md#索腿)】`sah7 tuei3` <sup>[兴化]</sup> 因丝虫病引起的粗腿：他左腿是～。  
 1. 【[索线粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_xin_fen.md#索线粉)】`sah7 xin5 fen3` <sup>[泰县]</sup> 做粉丝。  
 1. 【[索子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_zz.md#索子)】`sah7 zz` <sup>[兴化]</sup> 绳索或链子：麻～｜铁～｜金～。  
+1. 【[索子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_zz.md#索子)】`sah7 zz` <small>/sɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 绳索；绳子。<sup>\[泰兴\]</sup>  
 1. 【[丧表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bio.md#丧表)】`san1 bio3` <sup>[如皋]</sup> 挂在大门外的为新死者戴孝的，按辈份关系称谓，排列的名单。白纸黑字，从右到左竖写。  
 1. 【[丧报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bo.md#丧报)】`san1 bo` <sup>[东台]</sup> 讣告。  
 1. 【[丧筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_in.md#丧筵)】`san1 in2` <sup>[如东]</sup> 因丧事而举办的筵席。丧筵的菜肴数量为7碗8碟（单数）。  

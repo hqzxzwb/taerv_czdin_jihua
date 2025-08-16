@@ -1383,7 +1383,7 @@
 1. 【[保不定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_beh_tien.md#保不定)】`bo3 beh7 tien6` <sup>[如东]</sup> 不一定：这些苹果～不坏。  
 1. 【[保底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_di.md#保底)】`bo3 di3` <sup>[东台]</sup> 保证收入的最低标准。  
 1. 【[保坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_fan.md#保坊)】`bo3 fan` <sup>[东台]</sup> 即乡约、里正。清末民国初年东台城何垛场分为金水、启平、太平、拱辰四坊。各坊内主事人员俗称～。  
-1. 【[保福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#保福)】`bo3 foh7` <sup>[如皋]</sup> 福佑：老祖宗～孙子健康。  
+1. 【[保福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_foh.md#保福)】`bo3 foh7` <small>/pɔ3 fɔʔ7/<sup>如皋</sup>, /pɔ3 fɔʔ7/<sup>泰兴</sup></small> 福佑<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：老祖宗～孙子健康。<sup>\[如皋\]</sup>  
 1. 【[保佑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ieu.md#保佑)】`bo3 ieu6` <sup>[如东]</sup> 祈求神灵保护与帮助：请菩萨～。  
 1. 【[保苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mio.md#保苗)】`bo3 mio2` <sup>[如东]</sup> ① 保护禾苗。 ② 保证田里有足够数量的禾苗。  
 1. 【[保姆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mu.md#保姆)】`bo3 mu3` <sup>[如东]</sup> ① 受顾为人照管小孩或从事家务劳动的妇女。 ② 比喻自愿帮助别人的人：我可以做你的～。  

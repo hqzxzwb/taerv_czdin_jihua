@@ -1185,12 +1185,13 @@
 1. 【[禾帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ban.md#禾帮)】`hu2 ban1` <sup>[如皋]</sup> 禾字旁儿（禾）：和秋种。  
 1. 【[禾旁程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_pan_chen.md#禾旁程)】`hu2 pan2 chen2` <small>/xɤɯ2 pʰɑŋ2 t͡sʰəŋ2/<sup>泰兴</sup></small> 程字的俗称。<sup>\[泰兴\]</sup>  
 1. 【[荷包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo.md#荷包)】`hu2 bo1` <small>/xo2 pɔ1/<sup>泰县</sup></small> ① 装饰品。用布缝制小袋，内装香草，系在身上能散发出幽幽的香味。<sup>\[如东\]</sup> ② 倾听。<sup>\[泰县\]</sup>  
-1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen6` <small>/xʊ2 pɔ1 tʰẽ1/<sup>如皋</sup></small> ① 鸡蛋放在水中煮沸，蛋黄尚未硬结时，即捞起来，加糖，称荷包蛋。<sup>\[如东\]</sup> ② 去壳入油煎的整蛋。（去壳入水煮的整蛋叫蛋瘪子）<sup>\[如皋\]</sup>  
+1. 【[荷包蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_taen.md#荷包蛋)】`hu2 bo1 taen6` <small>/xʊ2 pɔ1 tʰẽ1/<sup>如皋</sup>, /xɤɯ2 pɔ1 tʰɛ̃1/<sup>泰兴</sup></small> ① 鸡蛋放在水中煮沸，蛋黄尚未硬结时，即捞起来，加糖，称荷包蛋。<sup>\[如东\]</sup> ② 去壳入油煎的整蛋。（去壳入水煮的整蛋叫蛋瘪子）<sup>\[如皋\]</sup> ③ 以鸡蛋为主加佐料烙成的形似荷包的食品。<sup>\[泰兴\]</sup>  
 1. 【[荷包蛵蛉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_lien.md#荷包蛵蛉<sub>儿</sub>)】`hu2 bo1 xien1 lien2 r` <sup>[如皋]</sup> 绿蜻蜓。体大而美。  
 1. 【[荷包杏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_xien_zz.md#荷包杏子)】`hu2 bo1 xien6 zz` <sup>[如皋]</sup> 一种个体较大的杏子品种。  
 1. 【[荷包鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bo_y.md#荷包鱼)】`hu2 bo1 y2` <sup>[东台]</sup> 在大鲫鱼体内填入肉馅，经烹煮加工而成的一道菜。  
 1. 【[荷花池里放火——藕燃（偶然）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hua_chr_lii.md#荷花池里放火——藕燃（偶然）)】`hu2 hua1 chr2 lii fan5 hu3 ngeu3 rin2` <sup>[东台]</sup>   
 1. 【[荷花勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hua_shah_zz.md#荷花勺子)】`hu2 hua1 shah8 zz` <sup>[兴化]</sup> 一种长柄的半球形汤勺。  
+1. 【[荷花托子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hua_tah_zz.md#荷花托子)】`hu2 hua1 tah7 zz` <small>/xɤɯ2 xuɑ1 tʰɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 本指观世音所坐的莲花宝座。比喻所居环境优雅或日子过得十分舒畅、幸福。<sup>\[泰兴\]</sup>  
 1. 【[荷叶边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ih_bin_zz.md#荷叶边子)】`hu2 ih8 bin1 zz` <sup>[兴化]</sup> 向外翻翘成的荷叶状花边：帐沿的下口是～。  
 1. 【[荷叶包菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ih_bo_lien.md#荷叶包菱)】`hu2 ih8 bo1 lien2` <sup>[兴化]</sup> 聚餐时，各人支付自己的份金，相当于今之“AA制”。歇后语：～——各（角）出。  
 1. 【[荷叶包铁钉——个个都出头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ih_bo_tih.md#荷叶包铁钉——个个都出头)】`hu2 ih8 bo1 tih7 dien1 gu5 gu5 du1 chueh7 teu2` <sup>[东台]</sup>   

@@ -409,6 +409,10 @@
 1. 【[热和/热火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu.md#热和/热火)】`rih8 hu` 对人态度亲热<sup>\[泰州\]</sup>：老李他望见人不晓得多～唻。<sup>\[泰州\]</sup>  
 1. 【[热火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu.md#热火)】`rih8 hu` <sup>[东台]</sup> 形容某人阳气足热气高：他冬天也不穿棉袄，真～。  
 1. 【[热火天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu_tin.md#热火天)】`rih8 hu tin1` <sup>[如皋]</sup> 夏季。  
+1. 【[热和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu.md#热和)】`rih8 hu2` <small>/iʔ8 xɤɯ2/<sup>泰兴</sup></small> 暖和<sup>\[泰兴\]</sup>  
+1. 【[热和气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu_qi.md#热和气)】`rih8 hu2 qi5` <small>/iʔ8 xɤɯ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> 热气；暖气。<sup>\[泰兴\]</sup>  
+1. 【[热和热汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu_rih_tan.md#热和热汤)】`rih8 hu2 rih8 tan1` <small>/iʔ8 xɤɯ2 iʔ8 tʰɑŋ1/<sup>泰兴</sup></small> 温暖。<sup>\[泰兴\]</sup>  
+1. 【[热和汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hu_tan_tan.md#热和汤汤)】`rih8 hu2 tan1 tan1` <small>/iʔ8 xɤɯ2 tʰɑŋ1 tʰɑŋ1/<sup>泰兴</sup></small> 暖和，不冷。<sup>\[泰兴\]</sup>  
 1. 【[热乎巴剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hv_ba_laeh.md#热乎巴剌的)】`rih8 hv ba1 laeh8 dii` <sup>[如皋]</sup> 状热得难受：这种天～。中昼里歇歇，下下儿昼再做。  
 1. 【[热乎乎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hv_hv_dii.md#热乎乎的)】`rih8 hv hv dii` <sup>[如皋]</sup> 待人热情的样子。  
 1. 【[热乎天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_hv_tin.md#热乎天)】`rih8 hv tin1` <sup>[如皋]</sup> 见“热天”。  
@@ -429,11 +433,13 @@
 1. 【[热身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shen_zz.md#热身子)】`rih8 shen1 zz` <sup>[兴化]</sup> 指夜晚或寒天从室内走出者：“怪道人说～不可被风吹，这一冷果然利害。”（《红楼梦》五一）  
 1. 【[热闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shin.md#热闪)】`rih8 shin3` <small>/liɪʔ8 siɪ̃3/<sup>兴化</sup>, /ɻiʔ8 sĩ3/<sup>如皋</sup></small> ① 见“干闪”。<sup>\[如皋\]</sup> ② 夏夜，远天闪光不断，但不闻雷声。<sup>\[如皋\]</sup> ③ 夏夜常见的远处闪光，而不闻雷鸣，谓之～。<sup>\[兴化\]</sup>  
 1. 【[热尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shr.md#热尸)】`rih8 shr` <sup>[东台]</sup> （詈语）意思是怎么热得连衣服都穿不住。  
+1. 【[热水瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuei_pien.md#热水瓶)】`rih8 shuei pien2` <small>/iʔ8 suəɪ pʰiŋ2/<sup>泰兴</sup></small> 装开水的暖瓶。<sup>\[泰兴\]</sup>  
+1. 【[热水袋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuei_tae_zz.md#热水袋子)】`rih8 shuei tae6 zz` <small>/iʔ8 suəɪ tʰɛ1 t͡sɿ/<sup>泰兴</sup></small> 装热水的橡胶袋，用于热敷或取暖。<sup>\[泰兴\]</sup>  
 1. 【[热水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuei.md#热水)】`rih8 shuei3` <sup>[如东]</sup> 温度高的水。  
 1. 【[热水瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuei_pien.md#热水瓶)】`rih8 shuei3 pien2` <sup>[如皋]</sup> 保温瓶。  
 1. 【[热说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shuh.md#热说)】`rih8 shuh7` <small>/liɪʔ8 suʔ7/<sup>兴化</sup>, /iɪʔ8 sʊʔ7/<sup>泰县</sup></small> ① （詈语）像头脑发热一样瞎说<sup>\[东台\]</sup>：亩产万斤的说法是～。<sup>\[东台\]</sup> ② 因发高烧，神智昏迷而胡说。<sup>\[兴化\]</sup> ③ （借）骂人吹牛撒谎太离谱<sup>\[兴化\]</sup>：他～一亩水塘能产五千斤鱼，哪个信？<sup>\[兴化\]</sup>｜……他居然说他家烧火打杂的都知阵法，真是～！（扬一《大被八门阵》）<sup>\[兴化\]</sup> ④ 没有根据地乱说。<sup>\[泰县\]</sup> ⑤ 人在生病发烧是说的话，指荒谬糊涂的话<sup>\[泰州\]</sup>：你不要听他～，根本就没得这回事。<sup>\[泰州\]</sup>  
 1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan tan1` <sup>[兴化]</sup> 热乎乎：～的包子不吃，你想吃甚的？｜那厨房却在外面，那～的燕窝、海参，一碗碗在跟前捧过去……（《儒林外史》十四）也作“热烫烫”。  
-1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan1 tan1` <small>/iɪʔ8 tʰɑŋ1 tʰɑŋ1/<sup>泰县</sup></small> ① 很熟。<sup>\[泰县\]</sup> ② 热乎平：这碗面～的，你快点儿吃。<sup>\[泰县\]</sup> ③ 刚起锅的时候热气腾腾的样子<sup>\[泰州\]</sup>：才走锅上下笼的肉包子，～的，你哿弄两个尝啊子。<sup>\[泰州\]</sup>  
+1. 【[热汤汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热汤汤)】`rih8 tan1 tan1` <small>/iʔ8 tʰɑŋ1 tʰɑŋ1/<sup>泰兴</sup>, /iɪʔ8 tʰɑŋ1 tʰɑŋ1/<sup>泰县</sup></small> ① 热乎乎<sup>\[泰县\]</sup>：这碗面～的，你快点儿吃。<sup>\[泰县\]</sup> ② 刚起锅的时候热气腾腾的样子<sup>\[泰州\]</sup>：才走锅上下笼的肉包子，～的，你哿弄两个尝啊子。<sup>\[泰州\]</sup> ③ 形容很热。<sup>\[泰兴\]</sup>  
 1. 【[热汤汤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan_dii.md#热汤汤的)】`rih8 tan1 tan1 dii` <sup>[如皋]</sup> 物之温暖，情之温暖：他一回到家，就能捧到～饭碗。  
 1. 【[热堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热堂堂)】`rih8 tan2-1 tan2-1` <sup>[东台]</sup> 热乎乎的。  
 1. 【[热烫烫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tan_tan.md#热烫烫)】`rih8 tan5 tan5` <sup>[如东]</sup> 温度比较高：这碗粉丝～的，快点儿吃吧。  

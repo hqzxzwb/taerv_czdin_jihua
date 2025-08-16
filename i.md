@@ -1811,6 +1811,7 @@
 1. 【[沿小<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio_r.md#沿小<sub>儿</sub>)】`in2 xio3 r` <small>/ĩ2 ɕiɔ˞3/<sup>如皋</sup>, /ĩ2 ɕiɔ˞3/<sup>泰兴</sup></small> ① 童年。<sup>\[如皋\]</sup> ② 从小，从童年起<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他～没娘，苦哇！<sup>\[如皋\]</sup>｜他～就勤力。<sup>\[东台\]</sup>｜沿小儿一看，到老一半<sup>\[泰兴\]</sup>  
 1. 【[炎症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zhen.md#炎症)】`in2 zhen5` <sup>[如东]</sup> 肌体受到强烈剌激后的反映现象，有红、热、肿痛、机能障碍等症状。  
 1. 【[盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#盐)】`in2` <sup>[如东]</sup> 食盐的通称，包括海盐井盐、池盐、岩盐等。如东生产的是海盐。  
+1. 【[盐巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ba.md#盐巴)】`in2 ba1` <small>/ĩ2 pɑ1/<sup>泰兴</sup></small> 成块的盐。<sup>\[泰兴\]</sup>  
 1. 【[盐包场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_bo_chan.md#盐包场)】`in2 bo1 chan2` <sup>[东台]</sup> 旧时官办的食盐批发转运场所，专门贮存各盐场运来的盐，由此转运全国各地。当时东台何垛场海河边设有“东包场”“西包场”。  
 1. 【[盐仓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_can.md#盐仓)】`in2 can1` <sup>[东台]</sup> 盐区积贮盐的仓库。  
 1. 【[盐场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_chan.md#盐场)】`in2 chan2` ① 晒盐灰的场地，建在堤外海滩上，大汛期，漫海水，小汛期，露出陆地，可以晒盐灰。<sup>\[如东\]</sup> ② 晒盐的场地，建在堤内，海水放入盐坑，经过曝晒，蒸发水分，结晶成盐。<sup>\[如东\]</sup> ③ 始设于汉代，至明清时代更趋健全的管理盐业生产、销售的专门机构。<sup>\[东台\]</sup>  
@@ -1841,9 +1842,10 @@
 1. 【[盐钱草钱，到手才是钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qin_co_qin.md#盐钱草钱，到手才是钱)】`in2 qin2 co3 qin2 do5 sheu3 cae2 shr6 qin2` <sup>[东台]</sup> 喻指希望还不等于现实。  
 1. 【[盐商](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shan.md#盐商)】`in2 shan1` <sup>[东台]</sup> 经营食盐的商人。  
 1. 【[盐生果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shen_gu_r.md#盐生果<sub>儿</sub>)】`in2 shen1 gu3 r` <sup>[如皋]</sup> 用盐水烫过，晾干炒熟的花生米儿。  
-1. 【[盐霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shuan.md#盐霜)】`in2 shuan1` ① 含盐分的东西干燥后表面呈现出白色细盐粒，像霜一样。<sup>\[东台\]</sup> ② 含盐的液体干燥之后在表面凝结成的一层薄薄的白色细盐粒。<sup>\[泰州\]</sup>  
+1. 【[盐霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shuan.md#盐霜)】`in2 shuan1` <small>/ĩ2 suɑŋ1/<sup>泰兴</sup></small> ① 含盐分的东西干燥后表面呈现出白色细盐粒，像霜一样。<sup>\[东台\]</sup> ② 含盐的液体干燥之后在表面凝结成的一层薄薄的白色细盐粒。<sup>\[泰州\]</sup> ③ 物体表面的似箱盐渍。<sup>\[泰兴\]</sup>  
 1. 【[盐水肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shuei_roh.md#盐水肉)】`in2 shuei3 roh8` <sup>[如皋]</sup> 略腌后水煮的大块猪肉。  
 1. 【[盐豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#盐豆)】`in2 teu6` <small>/iɪ̃2 tʰɤ6/<sup>兴化</sup></small> ① 炒黄豆洒盐水制成的食品<sup>\[兴化\]</sup>：桌上纵纵横横乱摆着几个瓜子碟子，几个～碟子……（《广陵潮》十五）<sup>\[兴化\]</sup> ② 在锅中炒熟之后加盐和少许水煮干的黄豆或蚕豆，多用作佐酒小菜。<sup>\[泰州\]</sup>  
+1. 【[盐豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu_zz.md#盐豆子)】`in2 teu6 zz` <small>/ĩ2 tʰəɪ1 t͡sɿ/<sup>泰兴</sup></small> 作咸小菜的加盐的炒豆。比喻很小。<sup>\[泰兴\]</sup>：总没得～大<sup>\[泰兴\]</sup>  
 1. 【[盐文化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ven_hua.md#盐文化)】`in2 ven2 hua5` <sup>[东台]</sup> 先民煎盐生产活动中逐渐形成的独具特色的意识形态。  
 1. 【[盐灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zo.md#盐灶)】`in2 zo5` ① 烧盐的灶。用泥土砌成，长条形，一般安放5至7口整锅。<sup>\[如东\]</sup> ② 烧盐的地方。<sup>\[如东\]</sup>：住啊在～里。<sup>\[如东\]</sup> ③ 煮海水煎盐所用的灶。后来灶名逐步变为地名。<sup>\[东台\]</sup>  
 1. 【[筵请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qien.md#筵请)】`in2 qien3` <sup>[如东]</sup> 请人喝酒：今朝他家～。  

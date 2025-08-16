@@ -531,7 +531,7 @@
 1. 【[莽火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_hu.md#莽火)】`man3 hu3` <sup>[如皋]</sup> ① 火力大：炒韭菜用～。与“文火”相对。 ② 火力不持久：麦秆草有～，没底火。  
 1. 【[莽一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ieh_chon.md#莽一冲)】`man3 ieh7 chon1` <sup>[如东]</sup> 突然地：～进来啊。  
 1. 【[莽劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jien.md#莽劲)】`man3 jien5` <sup>[如皋]</sup> 爆发力。  
-1. 【[莽酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jieu.md#莽酒)】`man3 jieu3` <small>/maŋ3 t͡ɕiɤ3/<sup>兴化</sup></small> ① 大口快速喝酒。<sup>\[东台\]</sup> ② 酒喝得又多又急<sup>\[兴化\]</sup>：他喜欢喝～，一口就是一大杯。<sup>\[兴化\]</sup> ③ 一口喝下过多的酒<sup>\[泰州\]</sup>：杯子太大，你要分几口喝，不能喝～。<sup>\[泰州\]</sup>  
+1. 【[莽酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jieu.md#莽酒)】`man3 jieu3` <small>/maŋ3 t͡ɕiɤ3/<sup>兴化</sup>, /mɑŋ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 大口快速喝酒。<sup>\[东台\]</sup> ② 酒喝得又多又急<sup>\[兴化\]</sup>：他喜欢喝～，一口就是一大杯。<sup>\[兴化\]</sup> ③ 一口喝下过多的酒<sup>\[泰州\]</sup>：杯子太大，你要分几口喝，不能喝～。<sup>\[泰州\]</sup> ④ 快酒。<sup>\[泰兴\]</sup>  
 1. 【[莽力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_lieh.md#莽力)】`man3 lieh8` <sup>[如皋]</sup> 爆发力。  
 1. 【[莽张飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhan_fei.md#莽张飞)】`man3 zhan1 fei1` <sup>[东台]</sup> ［喻］指葬撞的人。  
 1. 【[蟒蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_sha.md#蟒蛇)】`man3 sha2` <sup>[如东]</sup> 无毒的大蛇，体长可达6米，头部长，口大，舌的尖端有分叉，背部黑褐色，有暗色斑点。腹部白色。多生活在近水的树林里，捕食小禽兽。  

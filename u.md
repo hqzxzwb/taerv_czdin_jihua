@@ -48,6 +48,7 @@
 1. 【[窝吱搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhr_daeh_maen.md#窝吱搭蛮)】`u1 zhr1 daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[窝主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhv.md#窝主)】`u1 zhv3` <sup>[如东]</sup> 隐藏赃物的人：黄三儿是这些贼的～。  
 1. 【[窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#窝子)】`u1 zz` <small>/o1 t͡sɿ/<sup>兴化</sup>, /o1 t͡se/<sup>泰县</sup></small> ① 小型窝棚，如鸡窝子。比喻居住的地方。<sup>\[如东\]</sup>：我终于有了个～。<sup>\[如东\]</sup> ② 位子，工作岗位<sup>\[东台\]</sup>：大家要爱岗敬业，不要老想动～。<sup>\[东台\]</sup> ③ 固定的地点<sup>\[兴化\]</sup>：这许是他设摊的～，别人不好占。<sup>\[兴化\]</sup> ④ 位置<sup>\[泰县\]</sup>：他把你的～挤掉啊。<sup>\[泰县\]</sup> ⑤ 地盘，人或者物占的地方<sup>\[泰州\]</sup>：他天天早上就在这个～卖菜。<sup>\[泰州\]</sup>｜你把冰箱的～向南边来点儿，冰柜就好放唻。<sup>\[泰州\]</sup> ⑥ 位置，职位<sup>\[泰州\]</sup>：马上他俫老处长要退啊二线，要腾出要几个正科的～。<sup>\[泰州\]</sup>  
+1. 【[莴苣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_jy.md#莴苣)】`u1 jy` <small>/ɤɯ1 t͡ɕy/<sup>泰兴</sup></small> 莴苣<sup>\[泰兴\]</sup>  
 1. 【[莴笋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_sen.md#莴笋)】`u1 sen` 莴苣。<sup>\[泰州\]</sup>  
 1. 【[蜗螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu_r.md#蜗螺<sub>儿</sub>)】`u1 lu1 r` <sup>[如皋]</sup> 螺蛳。  
 1. 【[蜗螺<sub>儿</sub>不吃粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu_r_beh.md#蜗螺<sub>儿</sub>不吃粥)】`u1 lu1 r beh7 qieh7 zhoh7` <sup>[如皋]</sup> 短翅树莺。本地以鸣声状名。往往闻其声不见其身形。  
