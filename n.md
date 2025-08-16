@@ -777,7 +777,7 @@
 1. 【[雁翅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_zhr.md#雁翅)】`ngaen6 zhr5` <sup>[如东]</sup> 海潮退后，滩涂上出现一棱一棱的沙棱，渔民称这种沙棱为雁翅。  
 1. 【[恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah.md#恶)】`ngah7` <small>/ŋaʔ7/<sup>如皋</sup>, /ŋɑʔ7/<sup>泰兴</sup></small> ① 能干，有魄力 ② 能干、厉害而得体<sup>\[如皋\]</sup>：他家新妇～，家里外头块块在行<sup>\[如皋\]</sup>｜这个丫头～，说话不得罪人，又叫你听得服气。<sup>\[如皋\]</sup> ③ 凶狠。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～毒。<sup>\[如东\]</sup>｜箇个人～gae<sup>\[泰兴\]</sup> ④ 有本领有能力。<sup>\[如东\]</sup>：他交关～。<sup>\[如东\]</sup>  
 1. 【[恶扮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_baen.md#恶扮)】`ngah7 baen5` <sup>[兴化]</sup> 形容女性浓妆艳抹，堆砌新衣：王家大丫头又黑又粗，偏喜欢～。  
-1. 【[恶凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_cah.md#恶凿)】`ngah7 cah` <small>/ɑʔ7 t͡sʰɑʔ/<sup>泰县</sup></small> ① 令人作呕。<sup>\[泰县\]</sup> ② （疑为龌龊丢失合口）<sup>\[泰州\]</sup> ③ 所采取的手段令人难堪<sup>\[泰州\]</sup>：这些家伙把屎搨咖人家门上，也太～咖唻。<sup>\[泰州\]</sup>  
+1. 【[恶凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_cah.md#恶凿)】`ngah7 cah` <small>/ŋɑʔ7 t͡sʰɑʔ/<sup>泰兴</sup>, /ɑʔ7 t͡sʰɑʔ/<sup>泰县</sup></small> ① 令人作呕。<sup>\[泰县\]</sup> ② 所采取的手段令人难堪（疑为龌龊丢失合口）<sup>\[泰州\]</sup>：这些家伙把屎搨咖人家门上，也太～咖唻。<sup>\[泰州\]</sup> ③ 污秽；肮脏；坏。<sup>\[泰兴\]</sup>  
 1. 【[恶叉叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_cha_cha.md#恶叉叉)】`ngah7 cha1 cha1` <sup>[兴化]</sup> 凶狠泼辣的样子：二姑娘～的去骂公骂婆啊。  
 1. 【[恶叉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_cha_zz.md#恶叉子)】`ngah7 cha1 zz` <sup>[兴化]</sup> 凶狠泼辣的女性：他是个～，惹上她吃不了兜啊走。  
 1. 【[恶绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_chah.md#恶绰)】`ngah7 chah7` <sup>[东台]</sup> 过分：化一点淡妆就好了，过分涂脂抹粉，就显得～。  
