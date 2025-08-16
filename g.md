@@ -2017,6 +2017,7 @@
 1. 【[赶伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#赶伴)】`gun3 pun6` <sup>[东台]</sup> 赶趟儿，成为同一批：刚才山芋已经下锅煮啊一刻儿，你再加生的就不～吖。  
 1. 【[赶前伺后的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qin_cz_heu.md#赶前伺后的)】`gun3 qin2 cz5 heu6 dii` <sup>[如皋]</sup> 有求于人，须谦恭地跟随、等待。  
 1. 【[赶巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qio.md#赶巧)】`gun3 qio3` <sup>[东台]</sup> 碰巧、恰巧的意思：你如～，就帮我带点儿东西，不～就罢。  
+1. 【[赶热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_rih_co.md#赶热嘈)】`gun3 rih8 co2` <small>/kʊ̃3 iʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> 到热闹的场合去凑趣消闲。<sup>\[泰兴\]</sup>  
 1. 【[赶市口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shr_keu.md#赶市口)】`gun3 shr6 keu3` <sup>[如皋]</sup> 向市情好的地方赶。  
 1. 【[赶水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shuei.md#赶水)】`gun3 shuei3` <sup>[如皋]</sup> 用畜力驱动水车提水灌田。见“吆水”。  
 1. 【[赶𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_so.md#赶𢜶)】`gun3 so5` <small>/kũ3 sɔ5/<sup>兴化</sup></small> ① 赶快<sup>\[兴化\]</sup>：你老婆上医院生养，你～去！<sup>\[兴化\]</sup> ② 抓紧时间或者加快速度<sup>\[泰州\]</sup>：你家妈妈跌咖来啊，上吖人民医院，你～去。<sup>\[泰州\]</sup>｜人家就等吖要，你俫～弄。<sup>\[泰州\]</sup>  
@@ -2125,12 +2126,15 @@
 1. 【[固属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_shoh.md#固属)】`gv5 shoh` <small>/ku5 sɔʔ/<sup>兴化</sup>, /ku5 sɔʔ/<sup>泰兴</sup></small> ① 连词，固然<sup>\[兴化\]</sup>：自己开店～好，哪许有这吖多本钱吖？<sup>\[兴化\]</sup>｜小张～不对，但也不能揪住不放。<sup>\[兴化\]</sup> ② 固然是，用于表示承认某个事实，也不否认另外一个事实<sup>\[泰州\]</sup>：他动手打你～他不对，当时你也不派骂他，都要注意点儿。<sup>\[泰州\]</sup> ③ 固然<sup>\[泰兴\]</sup>  
 1. 【[故典<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_din_r.md#故典<sub>儿</sub>)】`gv5 din3 r` <sup>[兴化]</sup> 故事：他肚里～不少。  
 1. 【[故套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_to.md#故套)】`gv5 to5` <small>/ku5 tʰɔ5/<sup>泰兴</sup></small> 陈规；俗套。<sup>\[泰兴\]</sup>  
+1. 【[顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#顾)】`gv5` <small>/ku5/<sup>泰兴</sup></small> 照顾；照应。<sup>\[泰兴\]</sup>：我自家总吃不消也顾不了别人<sup>\[泰兴\]</sup>  
 1. 【[顾大卖田，顾二不理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_da_mae_tin.md#顾大卖田，顾二不理)】`gv5 da mae6 tin2， gv5 er6 beh7 li3` <sup>[东台]</sup> ［喻］传说从前有顾氏兄弟失和，老大穷得卖田了，老二也不过问。现常用“顾二”的谐音“顾而”喻指顾而不理、置若罔闻。  
 1. 【[顾二麻子——熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_er_ma_zz.md#顾二麻子——熟人)】`gv5 er6 ma2 zz shoh8 ren2` <sup>[如皋]</sup> 顾二麻子是清代如皋被人暗害，并煮熟分尸命案中人，故有此说。今转指熟识之人  
 1. 【[顾家气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ga_qi.md#顾家气)】`gv5 ga1 qi` <sup>[东台]</sup> 说话办事都从自家利益上考虑，维护家庭、家族或家乡的利益。  
 1. 【[顾计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ji.md#顾计)】`gv5 ji5` <sup>[泰州]</sup> 想到并且关心别人：他只想到他自己，甚的时候～过旁的人吖。  
 1. 【[顾忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_qi.md#顾忌)】`gv5 qi6` <sup>[东台]</sup> 说话做事有所瞻顾畏忌。  
 1. 【[顾头不顾屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_teu_beh_gv.md#顾头不顾屁股)】`gv5 teu2 beh7 gv5 pi5 gu` <sup>[兴化]</sup> 指顾了这头，忽视了另一头：孙老头下棋～，只晓得朝前拱，不晓得人家要将军抽车。  
+1. 【[顾头不顾尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_teu_beh_gv.md#顾头不顾尾)】`gv5 teu2 beh7 gv5 vei3` <small>/ku5 tʰəɪ2 pəʔ7 ku5 ʋəɪ3/<sup>泰兴</sup></small> 比喻只顾眼前，不顾今后，缺乏通盘打算。也说“顾前不顾后”。<sup>\[泰兴\]</sup>  
 1. 【[顾照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zho.md#顾照)】`gv5 zho` <sup>[兴化]</sup> “照顾”的逆序词：生意太忙，一个人～不过来。好好～老人。  
 1. 【[顾嘴不顾身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zuei_beh_gv.md#顾嘴不顾身)】`gv5 zuei3 beh7 gv5 shen1` <sup>[兴化]</sup> 只要吃喝得好，不问衣装是否单薄、破旧：联大的学生都有点像是阴沟里的鹅一一～。（汪曾祺《日规》）  
+1. 【[顾嘴不顾身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zuei_beh_gv.md#顾嘴不顾身)】`gv5 zuei3 beh7 gv5 shen1` <small>/ku5 t͡suəɪ3 pəʔ7 ku5 səŋ1/<sup>泰兴</sup></small> 贬义。指不积累财富。亦谓只图吃饱了饭，而不管衣着好差。<sup>\[泰兴\]</sup>  
 **[▲](#音序检索)**  
