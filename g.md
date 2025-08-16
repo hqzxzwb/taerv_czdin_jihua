@@ -2126,7 +2126,7 @@
 1. 【[固属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_shoh.md#固属)】`gv5 shoh` <small>/ku5 sɔʔ/<sup>兴化</sup>, /ku5 sɔʔ/<sup>泰兴</sup></small> ① 连词，固然<sup>\[兴化\]</sup>：自己开店～好，哪许有这吖多本钱吖？<sup>\[兴化\]</sup>｜小张～不对，但也不能揪住不放。<sup>\[兴化\]</sup> ② 固然是，用于表示承认某个事实，也不否认另外一个事实<sup>\[泰州\]</sup>：他动手打你～他不对，当时你也不派骂他，都要注意点儿。<sup>\[泰州\]</sup> ③ 固然<sup>\[泰兴\]</sup>  
 1. 【[故典<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_din_r.md#故典<sub>儿</sub>)】`gv5 din3 r` <sup>[兴化]</sup> 故事：他肚里～不少。  
 1. 【[故套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_to.md#故套)】`gv5 to5` <small>/ku5 tʰɔ5/<sup>泰兴</sup></small> 陈规；俗套。<sup>\[泰兴\]</sup>  
-1. 【[顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#顾)】`gv5` <small>/ku5/<sup>泰兴</sup></small> 照顾；照应。<sup>\[泰兴\]</sup>：我自家总吃不消也顾不了别人<sup>\[泰兴\]</sup>  
+1. 【[顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#顾)】`gv5` <small>/ku5/<sup>泰兴</sup></small> 照顾；照应。<sup>\[泰兴\]</sup>：我自家总吃不消也～不了别人<sup>\[泰兴\]</sup>  
 1. 【[顾大卖田，顾二不理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_da_mae_tin.md#顾大卖田，顾二不理)】`gv5 da mae6 tin2， gv5 er6 beh7 li3` <sup>[东台]</sup> ［喻］传说从前有顾氏兄弟失和，老大穷得卖田了，老二也不过问。现常用“顾二”的谐音“顾而”喻指顾而不理、置若罔闻。  
 1. 【[顾二麻子——熟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_er_ma_zz.md#顾二麻子——熟人)】`gv5 er6 ma2 zz shoh8 ren2` <sup>[如皋]</sup> 顾二麻子是清代如皋被人暗害，并煮熟分尸命案中人，故有此说。今转指熟识之人  
 1. 【[顾家气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ga_qi.md#顾家气)】`gv5 ga1 qi` <sup>[东台]</sup> 说话办事都从自家利益上考虑，维护家庭、家族或家乡的利益。  

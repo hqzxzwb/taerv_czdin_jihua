@@ -816,7 +816,7 @@
 1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_ngaen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 ngaen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
 1. 【[睁眼瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_haeh_zz.md#睁眼瞎子)】`zhen1 ngaen3 haeh7 zz` <sup>[如东]</sup> 比喻对事物的本来面目看不清楚。  
 1. 【[睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zheh_ngaen_bi.md#睁只眼闭只眼)】`zhen1 zheh7 ngaen3 bi5 zheh7 ngaen3` <sup>[东台]</sup> 原意是看见装看不见。喻意故意敷衍了事，不负责任。  
-1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` 切菜板<sup>\[泰州\]</sup>\[如东：也叫切板。\]  
+1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` <small>/t͡səŋ1 pɛ̃3/<sup>泰兴</sup></small> 切菜板<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：也叫切板。\]  
 1. 【[蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#蒸)】`zhen1` <sup>[如东]</sup> 一种烹调方法。利用水蒸气的热量使食物变热、变熟。  
 1. 【[蒸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_faen.md#蒸饭)】`zhen1 faen6` <small>/t͡sən1 fɛ̃6/<sup>兴化</sup></small> ① 做饭的一种方法。把米放在甑子里蒸熟。<sup>\[如东\]</sup> ② 饭的一种。用甑子蒸熟的饭，叫蒸饭。<sup>\[如东\]</sup>：这是～。<sup>\[如东\]</sup> ③ 把冷饭放在蒸笼或甑子中加温。<sup>\[如东\]</sup> ④ 一种食品，蒸熟的糯米饭包砂糖、油条等，用布勒成团后进食。‖也作“糍饭”。<sup>\[兴化\]</sup>  
 1. 【[蒸笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_lon.md#蒸笼)】`zhen1 lon2` <sup>[如东]</sup> 蒸馒头的工具。木制、竹制或金属制，方形或圆形，一层层地垒起来把馒头放在里面加温蒸熟。  
