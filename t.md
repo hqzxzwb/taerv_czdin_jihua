@@ -126,6 +126,9 @@
 1. 【[态度软和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tv_run_hu.md#态度软和)】`tae5 tv6 run3 hu2` <sup>[如皋]</sup> 态度和缓，不倔强。  
 1. 【[泰山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shaen.md#泰山)】`tae5 shaen1` <small>/tʰɛ5 sẽ1/<sup>如皋</sup></small> ① 如皋北门城内（原吊桥）东，人工堆积的土山。<sup>\[如皋\]</sup> ② 山名，位于山东境内。对岳父的尊称。<sup>\[如东\]</sup>  
 1. 【[泰山风景区](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shaen_fon_jien.md#泰山风景区)】`tae5 shaen1 fon1 jien3 qy1` <sup>[如皋]</sup> 存在于明朝和建国初，当时东有水绘园、西有霁峰园、南有露香园，北是城河。附近还有庙宇群。  
+1. 【[泰兴花鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xien_hua_gv.md#泰兴花鼓)】`tae5 xien hua1 gv3` <small>/tʰɛ5 ɕiŋ xuɑ1 ku3/<sup>泰兴</sup></small> 泰兴民间的一种娱乐表演形式，非物质文化遗产。一般由六人表演，也有二人、四人、八人表演的，曲调热烈欢快，表演活泼生动，感染力强，为广大百姓喜闻乐见。<sup>\[泰兴\]</sup>  
+1. 【[泰兴小唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xien_xio_chan.md#泰兴小唱)】`tae5 xien xio3 chan5` <small>/tʰɛ5 ɕiŋ ɕiɔ3 t͡sʰɑŋ5/<sup>泰兴</sup></small> 乡间娱乐形式之一，不拘形式，有说有唱，生动活泼。<sup>\[泰兴\]</sup>  
+1. 【[泰州的灯笼，没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_dii_den.md#泰州的灯笼，没得影子)】`tae5 zheu1 dii den1 lon meh8 deh ien3 zz` <small>/tʰɛ5 t͡ɕiɤɯ1 təɪ təŋ1 lɔŋ məʔ8 təʔ iŋ3 t͡sɿ/<sup>泰兴</sup></small> 歇后语。谓泰州的灯笼质量高，点亮后周边没有阴影。比喻没有修养的人。<sup>\[泰兴\]</sup>  
 1. 【[泰州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_qien.md#泰州青)】`tae5 zheu1 qien1` <sup>[如皋]</sup> 青菜品种之一。见“碗儿青”。  
 1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <sup>[如皋]</sup> 替，以现金代物：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。  
 1. 【[垈/岱/埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#垈/岱/埭)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup>, /tʰe1/<sup>泰县</sup></small> 地名通名，旧作埭，今泰兴多作岱或垈：姚家～  
@@ -1653,10 +1656,11 @@
 1. 【[套鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hae.md#套鞋)】`to5 hae2` <small>/tʰɔ5 xɛ2/<sup>兴化</sup></small> ① 雨鞋 ② 防水胶鞋，雨靴。<sup>\[兴化\]</sup> ③ 雨靴，一种用于湿地或者雨天穿的防水橡胶鞋，分为矮帮、高帮两种<sup>\[泰州\]</sup>：这双～你穿不得。<sup>\[泰州\]</sup>  
 1. 【[套话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hua.md#套话)】`to5 hua6` <sup>[如皋]</sup> 用场面话或假话套取真话、真情。  
 1. 【[套脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jiah_r.md#套脚<sub>儿</sub>)】`to5 jiah7 r` <sup>[泰县]</sup> 木制雨鞋。  
+1. 【[套脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jiah_zz.md#套脚子)】`to5 jiah7 zz` <small>/tʰɔ5 t͡ɕiɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 套在鞋上的可以防水的木鞋。<sup>\[泰兴\]</sup>  
 1. 【[套嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jy.md#套嘴)】`to5 jy3` <sup>[如东]</sup> 接吻。  
 1. 【[套口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_keu_qi.md#套口气)】`to5 keu3 qi` <sup>[兴化]</sup> 绕着弯儿将对方真情实话引出来：你跟他～，问他到底想做甚的？  
 1. 【[套窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ku.md#套窠)】`to5 ku1` <small>/tʰɔ5 kʰɤɯ1/<sup>泰兴</sup></small> ① 猪交配。也称爬窠。<sup>\[如东\]</sup> ② 牲畜配种。<sup>\[泰兴\]</sup>  
-1. 【[套裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_kv.md#套裤)】`to5 kv5` ① 裤的一种。只有两只裤脚管，没有裤裆和裤腰，套在腿上，给腿保温。有棉套裤和夹套裤两种。<sup>\[如东\]</sup> ② 旧时一种没有前后裆，只有两个裤筒的裤子，上用裤带扎在腰间，下用纽扣扣紧。<sup>\[东台\]</sup> ③ 罩在裤腿外面以御寒的无腰无裆只有裤腿的裤子，裤腿多为双层或者衬棉。<sup>\[泰州\]</sup>  
+1. 【[套裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_kv.md#套裤)】`to5 kv5` <small>/tʰɔ5 kʰu5/<sup>泰兴</sup></small> ① 裤的一种。只有两只裤脚管，没有裤裆和裤腰，套在腿上，给腿保温。有棉套裤和夹套裤两种。<sup>\[如东\]</sup> ② 旧时一种没有前后裆，只有两个裤筒的裤子，上用裤带扎在腰间，下用纽扣扣紧。<sup>\[东台\]</sup> ③ 罩在裤腿外面以御寒的无腰无裆只有裤腿的裤子，裤腿多为双层或者衬棉。<sup>\[泰州\]</sup> ④ 套在衬裤外的只有裤腿的裤子。<sup>\[泰兴\]</sup>  
 1. 【[套笼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lon_teu.md#套笼头)】`to5 lon2 teu2` <sup>[兴化]</sup> （喻）小孩上学或闲散惯的人突然要做事：你整整玩吖一个暑假，明吖起要～啦！｜“被他缠住不算事，现在又把笼头套起来。”（《广陵潮》八二）  
 1. 【[套袍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_po.md#套袍)】`to5 po2` <sup>[兴化]</sup> 加在棉袍外的罩衣。  
 1. 【[套<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_r.md#套<sub>儿</sub>)】`to5 r` <sup>[如皋]</sup> 见“套子”。  

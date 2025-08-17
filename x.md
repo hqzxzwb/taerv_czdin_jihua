@@ -474,12 +474,14 @@
 1. 【[下庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhuan.md#下庄)】`xia6 zhuan1` 从庄家位置上下来，不再担任庄家<sup>\[泰州\]</sup>：他今朝手气好，连成吖五牌都不曾～。<sup>\[泰州\]</sup>  
 1. 【[下注](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhv.md#下注)】`xia6 zhv5` <small>/ɕia6 t͡su5/<sup>兴化</sup></small> ① 下赌注；主动出击<sup>\[东台\]</sup>：对不诚信的人我会当面～。<sup>\[东台\]</sup> ② 投放赌注。（喻）花本钱去做某件事<sup>\[兴化\]</sup>：舍不得～就得不到回报。<sup>\[兴化\]</sup>  
 1. 【[下遭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zo.md#下遭)】`xia6 zo1` <sup>[东台]</sup> 下次：～请各位早点来。  
-1. 【[夏布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_bv.md#夏布)】`xia6 bv5` <small>/ɕia1 pu5/<sup>如皋</sup></small> ① 本地用传统方式纺织的苎麻布。亦有人称ha6 bv5。<sup>\[如皋\]</sup> ② 用传统方式织出的苎麻布，眼大透凉。<sup>\[如东\]</sup> ③ 用苎麻纤维织成的布，产于江西、湖南、广东、四川等地，透气离身，适于制作夏装。<sup>\[泰州\]</sup>  
+1. 【[夏布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_bv.md#夏布)】`xia6 bv5` <small>/ɕia1 pu5/<sup>如皋</sup>, /ɕiɑ1 pu5/<sup>泰兴</sup></small> ① 本地用传统方式纺织的苎麻布。亦有人称ha6 bv5。<sup>\[如皋\]</sup> ② 用传统方式织出的苎麻布，眼大透凉。<sup>\[如东\]</sup> ③ 用苎麻纤维织成的布，产于江西、湖南、广东、四川等地，透气离身，适于制作夏装。<sup>\[泰州\]</sup> ④ 用苎麻纤维织成的布，凉爽而透气，宜于制夏装，故名。<sup>\[泰兴\]</sup>  
+1. 【[夏布帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_bv_zhan_zz.md#夏布帐子)】`xia6 bv5 zhan5 zz` <small>/ɕiɑ1 pu5 t͡sɑŋ5 t͡sɿ/<sup>泰兴</sup></small> 用夏布制成的蚊帐。防蚊又透气。<sup>\[泰兴\]</sup>  
 1. 【[夏菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cae.md#夏菜)】`xia6 cae5` <sup>[如皋]</sup> 夏季上市食用的蔬菜。  
 1. 【[夏蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_cun_r.md#夏蚕<sub>儿</sub>)】`xia6 cun2 r` <sup>[如皋]</sup> 夏季饲养的蚕，周期28天。  
 1. 【[夏当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan_r.md#夏当<sub>儿</sub>)】`xia6 dan r` <sup>[如东]</sup> 夏季：到～再说。  
 1. 【[夏当<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_dan_r_lii.md#夏当<sub>儿</sub>里)】`xia6 dan1 r lii` <sup>[如皋]</sup> 夏季。  
 1. 【[夏巫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_fv.md#夏巫)】`xia6 fv` <sup>[如皋]</sup> 大傩文化的传人。  
+1. 【[夏褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_gua_zz.md#夏褂子)】`xia6 gua5 zz` <small>/ɕiɑ1 kuɑ5 t͡sɿ/<sup>泰兴</sup></small> 夏天穿的褂子。<sup>\[泰兴\]</sup>  
 1. 【[夏侯惇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_heu_den.md#夏侯惇)】`xia6 heu2 den1` <sup>[东台]</sup> ［引］本是三国时的名将，因谐音“下后蹲”，故借指为精气神不足的人。  
 1. 【[夏季](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_ji.md#夏季)】`xia6 ji5` <sup>[如东]</sup> 阴历4月至6月为夏季。  
 1. 【[夏枯草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_kv_co.md#夏枯草)】`xia6 kv1 co3` <sup>[如东]</sup> 唇形科植物夏枯草，又名灯笼头，多年生草本。茎方形，基部匍匐。高约30厘米。叶对生，椭圆状披针形，全缘。轮伞花序顶生，呈穗状。花紫色或白色。小坚果褐色，长椭圆形。生长在荒地、路边。  

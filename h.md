@@ -2294,7 +2294,7 @@
 1. 【[涵筒桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton_qio.md#涵筒桥)】`hun2 ton3 qio2` <sup>[如皋]</sup> 桥式的高架涵筒。  
 1. 【[涵洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ton.md#涵洞)】`hun2 ton6` <sup>[如东]</sup> 公路与沟渠相接的通道，使水从公路下边流过去。一般孔径较小。作用与桥相似。  
 1. 【[涵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_zz.md#涵子)】`hun2 zz` <small>/xõ2 t͡se/<sup>泰县</sup></small> 涵洞，道路与沟渠相交的设施，使水从路下流过的通道。<sup>\[东台\]</sup><sup>\[泰县\]</sup>  
-1. 【[唤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#唤)】`hun5` <small>/xũ5/<sup>兴化</sup></small> 发出声音招引禽畜<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～鸡引狗。<sup>\[兴化\]</sup>｜把狗子～过来龁骨头。<sup>\[泰州\]</sup>  
+1. 【[唤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun.md#唤)】`hun5` <small>/xũ5/<sup>兴化</sup>, /xʊ̃5/<sup>泰兴</sup></small> 发出声音招引禽畜<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～鸡引狗。<sup>\[兴化\]</sup>｜把狗子～过来龁骨头。<sup>\[泰州\]</sup>｜～猪子、～鸡子<sup>\[泰兴\]</sup>  
 1. 【[唤狗吃屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_geu_qieh_shr.md#唤狗吃屎)】`hun5 geu3 qieh7 shr3` <sup>[兴化]</sup> 嘲骂人过于驯顺、听话：你听他一喊就走，就像是～，真没意思。  
 1. 【[唤声骂狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_ma_geu.md#唤声骂狗)】`hun5 shen1 ma6 geu3` <sup>[兴化]</sup> 形容大声斥骂：他家两口子动不动对伢儿～的。  
 1. 【[汉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_qi.md#汉气)】`hun5 qi5` <sup>[如皋]</sup> 男子汉的气概。  

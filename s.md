@@ -1920,7 +1920,7 @@
 1. 【[绍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#绍)】`sho2` <sup>[兴化]</sup> ① 偷偷藏起：他把东西～起来啊。｜这钱，一日只～得四十五钱……（《警世通言》三七） ② 顺着放置：把篙子～到屋里去。  
 1. 【[绍兴调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_dio_r.md#绍兴调<sub>儿</sub>)】`sho2 xien1 dio5 r` <sup>[如皋]</sup> 越剧唱腔。  
 1. 【[绍兴戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xi.md#绍兴戏)】`sho2 xien1 xi5` <sup>[如皋]</sup> 越剧。  
-1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y3` <small>/sɔ2 y3/<sup>兴化</sup>, /sɔ2 y3/<sup>如皋</sup></small> ① 哑语、肢体语言，表情语言。<sup>\[如皋\]</sup> ② 暗语。<sup>\[如东\]</sup>：他在下打～。<sup>\[如东\]</sup> ③ 暗语<sup>\[兴化\]</sup>：“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
+1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y3` <small>/sɔ2 y3/<sup>兴化</sup>, /sɔ2 y3/<sup>如皋</sup></small> ① 哑语、肢体语言，表情语言。<sup>\[如皋\]</sup> ② 暗语。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：他在下打～。<sup>\[如东\]</sup>｜“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do` <sup>[如东]</sup> 说话语无伦次：这个人有些～。  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` <small>/sɔ2 tɔ1/<sup>兴化</sup>, /sɔ2 tɔ1/<sup>如皋</sup>, /sɔ2 tɔ1/<sup>泰县</sup></small> ① 杂事、麻烦事。<sup>\[如皋\]</sup> ② 麻烦<sup>\[兴化\]</sup>：他又在下惹～。<sup>\[兴化\]</sup> ③ 啰唆<sup>\[兴化\]</sup>：（陈木南）因怕董老太～，便说道：“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup> ④ 啰唆。<sup>\[泰县\]</sup>  
 1. 【[韶里不叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_beh_do.md#韶里不叨)】`sho2 lii beh7 do1` <sup>[泰县]</sup> 啰唆。  
@@ -1939,7 +1939,8 @@
 1. 【[㷹火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_hu.md#㷹火)】`sho5 hu` <sup>[如皋]</sup> 放㷹火：元宵节俗，晚点燃田间、沟岸宿草，看火色测水、旱年，可烧死躲在草中越冬的害虫。也叫“浇麻串”。  
 1. 【[哨竿脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun_jiah_zz.md#哨竿脚子)】`sho5 gun1 jiah7 zz` <sup>[如皋]</sup> 立哨竿的石块，中有竖孔，可插入竹竿。  
 1. 【[哨竿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gun.md#哨竿)】`sho5 gun3` <sup>[如皋]</sup> 打丝线时立在离架子约20米的一根竹竿，传筢时把丝从上面绕过去，再回到架子下  
-1. 【[哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#哨子)】`sho5 zz` <sup>[如东]</sup> 圆柱形，一般金属制，有口，放在嘴里吹，能发出响声，有提醒人注意或统一动作的作用。也叫哨鞭。风筝上安装的响器。竹筒制成，壁薄，有口。两只哨子联在一起，称一联。有一联、二联、三联、五联等多种。缚在风箏上，经大风吹，能发出响声。  
+1. 【[哨火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_hu.md#哨火)】`sho5 hu` <small>/sɔ5 xɤɯ/<sup>泰兴</sup></small> 民俗。在野处、空处以干草点燃的火。《管子•轻重甲》载：管子贺齐桓公说，齐人在北泽烧荒，火光之下，荒地开辟，农夫有百倍之利。放火烧荒，地播种，以草灰肥田，是古人刀耕火种的原始方式。后“哨火”用于战争中传递信息，在烽火台上燃起报告敌情。今为农村元宵期间的民俗传统活动之一。现已不多见。<sup>\[泰兴\]</sup>  
+1. 【[哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#哨子)】`sho5 zz` <sup>[如东]</sup> ① 圆柱形，一般金属制，有口，放在嘴里吹，能发出响声，有提醒人注意或统一动作的作用。也叫哨鞭。 ② 风筝上安装的响器。竹筒制成，壁薄，有口。两只哨子联在一起，称一联。有一联、二联、三联、五联等多种。缚在风筝上，经大风吹，能发出响声。  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5` <small>/sɔ5/<sup>如皋</sup></small> 短，和“长”相对<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这根竹竿嫌～。<sup>\[如东\]</sup>  
 1. 【[少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#少)】`sho5-2` <sup>[东台]</sup> 短的意思：这绳子不到一米，跳绳嫌～。  
 1. 【[少雌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_cz.md#少雌)】`sho5 cz1` <sup>[泰县]</sup> 小母鸭。  
