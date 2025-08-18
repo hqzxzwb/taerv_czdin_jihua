@@ -144,19 +144,16 @@
 1. 【[起皵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qiah_teu.md#起皵头)】`qi3 qiah7 teu` ① 故意找岔子制造矛盾挑起纷争<sup>\[东台\]</sup>：这家伙是个惹是生非的大王，又窜到这块来～啊。<sup>\[东台\]</sup> ② 故意寻衅<sup>\[泰州\]</sup>：他在这块同你发火，肯定是为上个月奖金的事～。<sup>\[泰州\]</sup>  
 1. 【[起墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起墙)】`qi3 qian2` <small>/t͡ɕʰi3 t͡ɕʰiaŋ2/<sup>兴化</sup></small> ① 砌墙，建墙<sup>\[东台\]</sup>\[泰州：用砖头或石块用砂浆、烂泥之类材料逐层涂抹，垒起凿墙。\] ② （喻）打麻将<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：饭碗一丢，几个人就去～吖。<sup>\[东台\]</sup>｜今吖下午没事，～去。<sup>\[兴化\]</sup>｜他一吃过中饭就上老张家～去啊。<sup>\[泰州\]</sup>  
 1. 【[起戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qian.md#起戗)】`qi3 qian5` <sup>[如皋]</sup> 柔软物变得挺刮：浆水一上，绸缎就～。  
-1. 【[起钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qin.md#起钱)】`qi3 qin2` <sup>[兴化]</sup> 向大家敛钱：～修桥补路。  
-1. 【[起钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qin.md#起钱)】`qi3 qin2` <small>/t͡ɕʰʝ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> 借钱。<sup>\[泰兴\]</sup>  
+1. 【[起钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qin.md#起钱)】`qi3 qin2` <small>/t͡ɕʰi3 t͡ɕʰiɪ̃2/<sup>兴化</sup>, /t͡ɕʰʝ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 向大家敛钱<sup>\[兴化\]</sup>：～修桥补路。<sup>\[兴化\]</sup> ② 借钱。<sup>\[泰兴\]</sup>  
 1. 【[起俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#起俏)】`qi3 qio5` <small>/t͡ɕʰi3 t͡ɕʰiɔ5/<sup>兴化</sup>, /t͡sʰɿ3 t͡ɕʰiɔ5/<sup>泰县</sup></small> ① 容易干燥<sup>\[兴化\]</sup>：天一好，晒的衣裳～。<sup>\[兴化\]</sup> ② 某种商品在定时间内畅销<sup>\[兴化\]</sup>：中秋节前，各式中档月饼～。<sup>\[兴化\]</sup> ③ 干脆利索：他做事蛮～的。<sup>\[泰县\]</sup>  
 1. 【[起沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_sha.md#起沙)】`qi3 sha1` <small>/t͡ɕʰʝ3 sɑ1/<sup>泰兴</sup></small> 用蚕豆、红小豆等豆类煮得透熟，去皮去水后剩下的细沙般的豆肉。多用以包馒头、汤圆等。<sup>\[泰兴\]</sup>  
 1. 【[起身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#起身)】`qi3 shen1` <small>/t͡ɕʰi3 sən1/<sup>兴化</sup>, /t͡ɕʰʝ3 səŋ1/<sup>如皋</sup></small> ① 起床。<sup>\[如皋\]</sup> ② 夜间起床解手。<sup>\[如皋\]</sup> ③ 坐改立。<sup>\[如皋\]</sup> ④ 让出，走出。<sup>\[如皋\]</sup> ⑤ 起床。<sup>\[如东\]</sup>：明天5点～。<sup>\[如东\]</sup> ⑥ 麦子等越冬作物开春后返青生长<sup>\[兴化\]</sup>：麦子还没有～的时候，是不怕踩的，越踩越旺。（汪曾祺《县花、鹤和鬼火》）<sup>\[兴化\]</sup> ⑦ 改嫁的隐语<sup>\[兴化\]</sup>：“……（此）乃是亲眷人家寡妇房氏之物，他～再醮，权寄在此，岂是盗赃”（《二刻》十三）<sup>\[兴化\]</sup>  
-1. 【[起手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_sheu.md#起手)】`qi3 sheu3` <sup>[兴化]</sup> ① 开初：眼是情媒，心为欲种。～时，牵肠挂肚；过后去，丧魄消魂。（《古今小说》一） ② 斗牌时最初摸的牌：～听（成）～成（和）。  
-1. 【[起手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_sheu.md#起手)】`qi3 sheu3` <small>/t͡ɕʰʝ3 ɕiɤɯ3/<sup>泰兴</sup></small> 开始；起头。<sup>\[泰兴\]</sup>  
+1. 【[起手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_sheu.md#起手)】`qi3 sheu3` <small>/t͡ɕʰi3 sɤ3/<sup>兴化</sup>, /t͡ɕʰʝ3 ɕiɤɯ3/<sup>泰兴</sup></small> ① 开初<sup>\[兴化\]</sup>：眼是情媒，心为欲种。～时，牵肠挂肚；过后去，丧魄消魂。（《古今小说》一）<sup>\[兴化\]</sup> ② 斗牌时最初摸的牌<sup>\[兴化\]</sup>：～听（成）～成（和）。<sup>\[兴化\]</sup> ③ 开始；起头。<sup>\[泰兴\]</sup>  
 1. 【[起势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shr.md#起势)】`qi3 shr5` <sup>[如皋]</sup> ① 开始动作：练功讲～。 ② 势力渐盛：这伙人一旦～，破坏力非常大。  
 1. 【[起水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei.md#起水)】`qi3 shuei3` <small>/t͡ɕʰi3 suəi3/<sup>兴化</sup>, /t͡ɕʰʝ3 suei3/<sup>如皋</sup>, /t͡ɕʰʝ3 suəɪ3/<sup>泰兴</sup></small> ① 从水中浮起。<sup>\[如皋\]</sup> ② 发大水。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：夜里突然～啦。<sup>\[如东\]</sup> ③ 刚从水中捞起的<sup>\[兴化\]</sup>：……还有新～的虾儿，带跳带纵……（《广陵湖》三九）<sup>\[兴化\]</sup>  
 1. 【[起水栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_chaen.md#起水栈)】`qi3 shuei3 chaen6` <sup>[如东]</sup> 帆船梭子板上边的条板，叫起水栈。  
 1. 【[起水日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_rih_zz.md#起水日子)】`qi3 shuei3 rih8 zz` <sup>[如东]</sup> 阴历每月初十日、二十五日，海潮水位开始升高，称起水日子。也叫起水潮。大汛开始。  
-1. 【[起水鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_xin.md#起水鲜)】`qi3 shuei3 xin1` <sup>[兴化]</sup> 见“出水鲜”。  
-1. 【[起水鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_xin.md#起水鲜)】`qi3 shuei3 xin1` <small>/t͡ɕʰʝ3 suəɪ3 ɕĩ1/<sup>泰兴</sup></small> 最新鲜的。<sup>\[泰兴\]</sup>  
+1. 【[起水鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shuei_xin.md#起水鲜)】`qi3 shuei3 xin1` <small>/t͡ɕʰi3 suəi3 ɕiɪ̃1/<sup>兴化</sup>, /t͡ɕʰʝ3 suəɪ3 ɕĩ1/<sup>泰兴</sup></small> ① 见“出水鲜”。<sup>\[兴化\]</sup> ② 最新鲜的。<sup>\[泰兴\]</sup>  
 1. 【[起头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_teu.md#起头)】`qi3 teu2` <sup>[如东]</sup> 开始：才～。  
 1. 【[起莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tien_r.md#起莛<sub>儿</sub>)】`qi3 tien2 r` <small>/t͡ɕʰʝ3 tʰiə˞2/<sup>如皋</sup></small> 抽薹。参见“起蕻子”。<sup>\[如皋\]</sup>  
 1. 【[起天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_tin_seh.md#起天色)】`qi3 tin1 seh` <sup>[兴化]</sup> 天空阴云四合，预示风雨将至：东边～咖，快点儿把场上稻子苫起来。  
@@ -171,18 +168,15 @@
 1. 【[起先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xin.md#起先)】`qi3 xin1` <sup>[如皋]</sup> 开始之时。  
 1. 【[起线刨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xin_po.md#起线刨)】`qi3 xin5 po6` <sup>[如东]</sup> 工具。刨身长，刨㐁窄，在木料表面刨出一条线槽。  
 1. 【[起小秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xio_ian.md#起小秧)】`qi3 xio3 ian1` <small>/t͡ɕʰʝ3 ɕiɔ3 iɑŋ1/<sup>泰兴</sup></small> 将秧苗从秧池起出待栽。<sup>\[泰兴\]</sup>  
-1. 【[起鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#起鱼)】`qi3 y2` <sup>[如皋]</sup> 将养殖的鱼集中捕捉  
-1. 【[起鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#起鱼)】`qi3 y2` <small>/t͡ɕʰʝ3 y2/<sup>泰兴</sup></small> 起网捕捉鱼类。<sup>\[泰兴\]</sup>  
-1. 【[起葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zan.md#起葬)】`qi3 zan5` <sup>[如东]</sup> 将棺材从坟坑中挖出来。起葬礼仪：首先给祖宗焚红包，跪拜叩首祷告，说明起葬原因，接着鸣炮三响，最后把棺材挖起来，重新安葬。  
-1. 【[起葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zan.md#起葬)】`qi3 zan5` <small>/t͡ɕʰʝ3 t͡sɑŋ5/<sup>泰兴</sup></small> 重新埋葬。<sup>\[泰兴\]</sup>  
+1. 【[起鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#起鱼)】`qi3 y2` <small>/t͡ɕʰʝ3 y2/<sup>如皋</sup>, /t͡ɕʰʝ3 y2/<sup>泰兴</sup></small> ① 将养殖的鱼集中捕捉<sup>\[如皋\]</sup> ② 起网捕捉鱼类。<sup>\[泰兴\]</sup>  
+1. 【[起葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zan.md#起葬)】`qi3 zan5` <small>/t͡ɕʰʝ3 t͡sɑŋ5/<sup>泰兴</sup></small> ① 将棺材从坟坑中挖出来。起葬礼仪：首先给祖宗焚红包，跪拜叩首祷告，说明起葬原因，接着鸣炮三响，最后把棺材挖起来，重新安葬。<sup>\[如东\]</sup> ② 重新埋葬。<sup>\[泰兴\]</sup>  
 1. 【[起翅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhr.md#起翅)】`qi3 zhr5` <sup>[如皋]</sup> 鸟始飞。  
 1. 【[起早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo.md#起早)】`qi3 zo3` <small>/t͡ɕʰʝ3 t͡sɔ3/<sup>泰兴</sup></small> 很早就起身。亦说“起大早”。<sup>\[泰兴\]</sup>  
 1. 【[起早带晏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_dae_ngaen.md#起早带晏)】`qi3 zo3 dae5 ngaen5` <small>/t͡ɕʰʝ3 t͡sɔ3 tɛ5 ŋɛ̃5/<sup>泰兴</sup></small> 犹起早摸黑。<sup>\[泰兴\]</sup>  
 1. 【[起早带晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_dae_vaen.md#起早带晚)】`qi3 zo3 dae5 vaen3` <sup>[兴化]</sup> 见“起早投晚”。  
 1. 【[起早摸黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_mah_heh.md#起早摸黑)】`qi3 zo3 mah8 heh7` <small>/t͡ɕʰʝ3 t͡sɔ3 mɑʔ8 xəʔ7/<sup>泰兴</sup></small> 早起晚睡。谓辛苦劳碌。<sup>\[泰兴\]</sup>  
 1. 【[起早投晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zo_teu_vaen.md#起早投晚)】`qi3 zo3 teu2 vaen3` <sup>[兴化]</sup> 利用早上和晚上的时间多做一点事：我～的养弄花草，也说“起早带晚”。  
-1. 【[起子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#起子)】`qi3 zz` <sup>[兴化]</sup> 改锥。  
-1. 【[起子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#起子)】`qi3 zz` <small>/t͡ɕʰʝ3 t͡sɿ/<sup>泰兴</sup></small> 起卸螺丝钉、开瓶盖等用的工具。<sup>\[泰兴\]</sup>  
+1. 【[起子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#起子)】`qi3 zz` <small>/t͡ɕʰi3 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰʝ3 t͡sɿ/<sup>泰兴</sup></small> ① 改锥。<sup>\[兴化\]</sup> ② 起卸螺丝钉、开瓶盖等用的工具。<sup>\[泰兴\]</sup>  
 1. 【[夡㷆（存疑）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv.md#夡㷆（存疑）)】`qi5 fv5` ① 长时间的大火蒸煮，将锅中食物煮透蒸透，食物全部熟透：这个冷馒头不曾吙得～，里头还不曾热。｜锅里的山芋要多少个盹儿，等它煮啊～啊再起锅。 ② 泛指达到充分程度：这块田里的菜还要得两担水浇啊子才得～。｜这种题目他老是出错，你要同他讲～啊。  
 1. 【[气不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ton.md#气不动)】`qi5 beh ton6` <sup>[泰县]</sup> 生气到极点：这件事让人～。  
 1. 【[气不忿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_fen.md#气不忿)】`qi5 beh7 fen6` <small>/t͡ɕʰi5 pəʔ7 fən6/<sup>兴化</sup>, /t͡ɕʰʝ5 pəʔ7 fəŋ1/<sup>泰兴</sup></small> ① 遇到不平的事，心中不服气<sup>\[兴化\]</sup>：“……没的赵姨奶奶听了，又～，反说太便宜了我……”（《红楼梦》六一）。……也有那～的在内生事，闹在一处，挤断了街。（《梼杌闲评》三四）也作“气不愤”。<sup>\[兴化\]</sup> ② 不服气，很不服气。<sup>\[泰兴\]</sup>  
@@ -1567,8 +1561,7 @@
 1. 【[憔□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_xy.md#憔□)】`qio2 xy` 没有根据地担心他人做事不妥<sup>\[泰州\]</sup>：你就不要～唻，人家早就把请客的事弄吖一当吖。<sup>\[泰州\]</sup>  
 1. 【[憔悴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_xy.md#憔悴)】`qio2 xy` <sup>[东台]</sup> 忧虑，担心：到新疆虽然远，但你不要～，现在交通方便。  
 1. 【[桥根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gen.md#桥根)】`qio2 gen1` 桥两头靠近岸的地方的  
-1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <sup>[兴化]</sup> （喻）互不相干的人或事：你做你的生意，我种我的田，我俫～。  
-1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <small>/t͡ɕʰiɔ2 kuəɪ1 t͡ɕʰiɔ2 lu1 kuəɪ1 lu1/<sup>泰兴</sup></small> 条理分明，互不牵扯。相互不搭界的事。<sup>\[泰兴\]</sup>  
+1. 【[桥归桥，路归路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_guei_qio_lv.md#桥归桥，路归路)】`qio2 guei1 qio2 lv6 guei1 lv6` <small>/t͡ɕʰiɔ2 kuəi1 t͡ɕʰiɔ2 lu6 kuəi1 lu6/<sup>兴化</sup>, /t͡ɕʰiɔ2 kuəɪ1 t͡ɕʰiɔ2 lu1 kuəɪ1 lu1/<sup>泰兴</sup></small> ① （喻）互不相干的人或事<sup>\[兴化\]</sup>：你做你的生意，我种我的田，我俫～。<sup>\[兴化\]</sup> ② 条理分明，互不牵扯。相互不搭界的事。<sup>\[泰兴\]</sup>  
 1. 【[桥桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_qio_r.md#桥桥<sub>儿</sub>)】`qio2 qio2-3 r` <sup>[泰县]</sup> 一种可吃的麦田地里的草。  
 1. 【[桥踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_taeh_zz.md#桥踏子)】`qio2 taeh8 zz` <sup>[如东]</sup> 河埠口上供人站着洗东西的引桥。  
 1. 【[桥头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_teu.md#桥头)】`qio2 teu2` <sup>[如东]</sup> 按桥的南北方向，南方为桥头。上桥的地方，称桥头。  

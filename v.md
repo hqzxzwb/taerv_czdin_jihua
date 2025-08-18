@@ -263,8 +263,7 @@
 1. 【[忤逆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh.md#忤逆)】`v3 nieh8` <sup>[如东]</sup> 对长辈不孝敬。  
 1. 【[忤逆货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_hu.md#忤逆货)】`v3 nieh8 hu5` <sup>[如皋]</sup> 指不孝的人。  
 1. 【[忤逆𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_nieh_son.md#忤逆𪨊)】`v3 nieh8 son2` <sup>[东台]</sup> （詈语）不孝顺父母的人。  
-1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <sup>[如东]</sup> 遮盖或封闭起来：把口子～住。  
-1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <small>/ʋ3/<sup>泰兴</sup></small> 以手遮掩；遮住或封住。<sup>\[泰兴\]</sup>  
+1. 【[捂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#捂)】`v3` <small>/ʋ3/<sup>泰兴</sup></small> ① 遮盖或封闭起来。<sup>\[如东\]</sup>：把口子～住。<sup>\[如东\]</sup> ② 以手遮掩；遮住或封住。<sup>\[泰兴\]</sup>  
 1. 【[武把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ba_zz.md#武把子)】`v3 ba3 zz` <sup>[兴化]</sup> 戏曲表演中的武打和与之有关的舞蹈动作。  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha` <small>/ʋu3 t͡sʰa/<sup>如皋</sup>, /u3 t͡sʰa/<sup>泰县</sup></small> ① 形容小孩调皮，很野，不文雅 ② 言行粗野的样子<sup>\[如皋\]</sup>：这家伙说打就毛，多～呀！<sup>\[如皋\]</sup> ③ 动作粗鲁。<sup>\[泰县\]</sup>  
 1. 【[武叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_cha.md#武叉)】`v3 cha1` <sup>[东台]</sup> 泼辣、粗野、武断，多含贬义：有的干部对群众很～，但是自身不正，难服众。  
@@ -318,8 +317,7 @@
 1. 【[务本堂水龙会所](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ben_tan_shuei.md#务本堂水龙会所)】`v6 ben3 tan2 shuei3 lon2 huei6 su3` <sup>[东台]</sup> 位于东台时堰镇，始建于清末，由清末水利学家冯道立倡办的清代消防设施。  
 1. 【[戊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#戊)】`v6` <sup>[东台]</sup> 天干第五位。  
 1. 【[户槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kaen.md#户槛)】`v6 kaen3` <sup>[如皋]</sup> 即“门槛”。  
-1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <sup>[如皋]</sup> ① 保护：～食、～雏。 ② 袒护、包庇：～短。  
-1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <small>/ʋ1/<sup>泰兴</sup></small> ① 遮掩（使人看不见）<sup>\[泰兴\]</sup>：不要～lo，我已经望见吖lo<sup>\[泰兴\]</sup> ② 护短<sup>\[泰兴\]</sup>：他家太～，伢儿脾家惚得不像样子<sup>\[泰兴\]</sup>｜～伢儿是害他，要培养他懂事、讲理<sup>\[泰兴\]</sup>  
+1. 【[护](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#护)】`v6` <small>/ʋu1/<sup>如皋</sup>, /ʋ1/<sup>泰兴</sup></small> ① 保护<sup>\[如皋\]</sup>：～食、～雏。<sup>\[如皋\]</sup> ② 袒护、包庇<sup>\[如皋\]</sup>：～短。<sup>\[如皋\]</sup> ③ 遮掩（使人看不见）<sup>\[泰兴\]</sup>：不要～lo，我已经望见吖lo<sup>\[泰兴\]</sup> ④ 护短<sup>\[泰兴\]</sup>：他家太～，伢儿脾家惚得不像样子<sup>\[泰兴\]</sup>｜～伢儿是害他，要培养他懂事、讲理<sup>\[泰兴\]</sup>  
 1. 【[护啊家里爬肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_a_ga_lii.md#护啊家里爬肚子)】`v6 a ga1 lii pa2 dv3 zz` <sup>[如皋]</sup> ① 詈语。意为过于溺爱，甚至纵容儿子非礼妈妈。 ② 见“爬肚子”。  
 1. 【[护短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_dun.md#护短)】`v6 dun3` <small>/ʋ1 tʊ̃3/<sup>泰兴</sup></small> ① 包庇缺点。<sup>\[如东\]</sup>：自己的伢儿犯吖毛病大人不要～。<sup>\[如东\]</sup> ② 对孩子过分娇惯，有缺点也不肯批评教育。<sup>\[东台\]</sup> ③ 遮掩短处。<sup>\[泰兴\]</sup>  
 1. 【[护食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_sheh.md#护食)】`v6 sheh8` <small>/ʋu1 səʔ8/<sup>如皋</sup></small> ① 不让碰到自己已有的食物<sup>\[如皋\]</sup>：伢儿～、狗子～。<sup>\[如皋\]</sup> ② 企图把所有食物占为己有，不许别人食用。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  

@@ -1310,8 +1310,7 @@
 1. 【[档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan.md#档)】`dan5` <sup>[如皋]</sup> ① 量词。间距：5～椽子。 ② 梯级：一层楼梯有18～。 ③ 码序：码断～（某些码数无货）。  
 1. 【[档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_teu.md#档头)】`dan5 teu` <small>/tã5 tʰei/<sup>如皋</sup>, /tɑŋ5 tʰəɪ/<sup>泰兴</sup></small> 端部<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：床～靠墙。<sup>\[如皋\]</sup>｜纪念馆在米巷～<sup>\[泰兴\]</sup>  
 1. 【[档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_teu.md#档头)】`dan5 teu2` <sup>[兴化]</sup> 木器框架两端的构件。也作“码头”。  
-1. 【[档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_zz.md#档子)】`dan5 zz` <sup>[兴化]</sup> ① 两物之间的空隙、距离：空～｜队伍前后～拉得太大。 ② （引）等级：职员的工资分几个～。  
-1. 【[档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_zz.md#档子)】`dan5 zz` <small>/tɑŋ5 t͡sɿ/<sup>泰兴</sup></small> 指群体中物与物的间隔处。空档。<sup>\[泰兴\]</sup>  
+1. 【[档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_zz.md#档子)】`dan5 zz` <small>/taŋ5 t͡sɿ/<sup>兴化</sup>, /tɑŋ5 t͡sɿ/<sup>泰兴</sup></small> ① 两物之间的空隙、距离<sup>\[兴化\]</sup>：空～<sup>\[兴化\]</sup>｜队伍前后～拉得太大。<sup>\[兴化\]</sup> ② （引）等级<sup>\[兴化\]</sup>：职员的工资分几个～。<sup>\[兴化\]</sup> ③ 指群体中物与物的间隔处。空档。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/ddo.md#□)】`ddo` “掉啊（tio a）”在如东口语中的音变形式，用在以元音和鼻音结尾的动词后面。在入声动词后面说“去啊”：死～=死掉啊（死掉了）；跑～=跑掉啊（走掉了）；忘～=忘掉啊（忘掉了）。  
 1. 【[得彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_cae.md#得彩)】`deh7 cae3` <sup>[兴化]</sup> 中奖：他买体育彩票～，中吖两千多块。  
 1. 【[得罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_cuei.md#得罪)】`deh7 cuei6` <small>/təʔ7 t͡sʰuəi6/<sup>兴化</sup></small> ① 冒犯。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他说话不注意，～人。<sup>\[兴化\]</sup>｜他是领导，你～啊他，当心他报复你。<sup>\[泰州\]</sup> ② 表示歉意。<sup>\[如东\]</sup>：多有～。<sup>\[如东\]</sup> ③ 表示告辞的客套话<sup>\[兴化\]</sup>：（陈小手）道一声～，出门上马。（汪曾祺《故里三陈》）<sup>\[兴化\]</sup>｜“社长，我要～你啦！”（马春阳《四十块钱》）<sup>\[兴化\]</sup> ④ 客套语，相当于“对不起”<sup>\[泰州\]</sup>：～，～，让我拉的车子过下子。<sup>\[泰州\]</sup>  

@@ -1344,8 +1344,7 @@
 1. 【[仰吖脚来骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nga_jiah_lae.md#仰吖脚来骚)】`nian3 nga jiah7 lae so1` <sup>[东台]</sup> ［喻］野蛮撒泼，不讲道理。  
 1. 【[仰墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_shan.md#仰墒)】`nian3 shan1` <sup>[如东]</sup> 耕牛躺在墒沟里不起来。比喻人躺着睡，起不来：甚的时候啊，还在下～？  
 1. 【[仰瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_va.md#仰瓦)】`nian3 va3` <sup>[如东]</sup> 阴瓦。  
-1. 【[仰癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰癀)】`nian3 van2` <sup>[兴化]</sup> 睡觉的贬义说法：晚上七点不到就～吖，到这晚还挺吖床上。  
-1. 【[仰癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰癀)】`nian3 van2` <small>/niã3 ʋã2/<sup>如皋</sup></small> ① 詈语，指睡觉。<sup>\[如皋\]</sup> ② 比喻人在躺着睡觉，很长时间不起来。<sup>\[如东\]</sup>：他还在下～。<sup>\[如东\]</sup>  
+1. 【[仰癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_van.md#仰癀)】`nian3 van2` <small>/liaŋ3 uaŋ2/<sup>兴化</sup>, /niã3 ʋã2/<sup>如皋</sup></small> ① 睡觉的贬义说法<sup>\[兴化\]</sup>：晚上七点不到就～吖，到这晚还挺吖床上。<sup>\[兴化\]</sup> ② 詈语，指睡觉。<sup>\[如皋\]</sup> ③ 比喻人在躺着睡觉，很长时间不起来。<sup>\[如东\]</sup>：他还在下～。<sup>\[如东\]</sup>  
 1. 【[仰相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_xian.md#仰相)】`nian3 xian5, ian3 xian5` <sup>[如皋]</sup> 贬指仰躺着休息而不问事。  
 1. 【[酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#酿)】`nian5` <sup>[如皋]</sup> 纵容：他把伢儿～得不上规矩！  
 1. 【[酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian.md#酿)】`nian6` <sup>[兴化]</sup> ① 因过分娇宠而养成：“……素日皆是你们这些人把他～坏了，到这步田地，还来劝解……”（《红楼梦》三三） ② 渐渐形成：（客巴巴）心中郁闷，～成一病。（《梼杌闲评》二二）  

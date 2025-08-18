@@ -333,8 +333,7 @@
 1. 【[索锁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_su_r.md#索锁<sub>儿</sub>)】`sah7 su3 r` <sup>[如皋]</sup> 小儿用金或银质颈饰，有索有锁，取义锁住，不致早夭。  
 1. 【[索腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_tuei.md#索腿)】`sah7 tuei3` <sup>[兴化]</sup> 因丝虫病引起的粗腿：他左腿是～。  
 1. 【[索线粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_xin_fen.md#索线粉)】`sah7 xin5 fen3` <sup>[泰县]</sup> 做粉丝。  
-1. 【[索子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_zz.md#索子)】`sah7 zz` <sup>[兴化]</sup> 绳索或链子：麻～｜铁～｜金～。  
-1. 【[索子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_zz.md#索子)】`sah7 zz` <small>/sɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 绳索；绳子。<sup>\[泰兴\]</sup>  
+1. 【[索子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sah_zz.md#索子)】`sah7 zz` <small>/saʔ7 t͡sɿ/<sup>兴化</sup>, /sɑʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 绳索或链子<sup>\[兴化\]</sup>：麻～<sup>\[兴化\]</sup>｜铁～<sup>\[兴化\]</sup>｜金～。<sup>\[兴化\]</sup> ② 绳索；绳子。<sup>\[泰兴\]</sup>  
 1. 【[丧表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bio.md#丧表)】`san1 bio3` <sup>[如皋]</sup> 挂在大门外的为新死者戴孝的，按辈份关系称谓，排列的名单。白纸黑字，从右到左竖写。  
 1. 【[丧报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_bo.md#丧报)】`san1 bo` <sup>[东台]</sup> 讣告。  
 1. 【[丧筵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_in.md#丧筵)】`san1 in2` <sup>[如东]</sup> 因丧事而举办的筵席。丧筵的菜肴数量为7碗8碟（单数）。  
@@ -2811,8 +2810,7 @@
 1. 【[说嘴卖瓢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_zuei_mae_pio.md#说嘴卖瓢)】`shuh7 zuei3 mae6 pio2` <small>/sʊʔ7 t͡suəɪ3 mɛ1 pʰiɔ2/<sup>泰兴</sup></small> 耍嘴皮子；吹牛皮。<sup>\[泰兴\]</sup>  
 1. 【[书包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_bo.md#书包)】`shv1 bo1` <sup>[东台]</sup> 学生上学时装书籍簿本、文具的包或袋子。  
 1. 【[书橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_chv.md#书橱)】`shv1 chv2` <small>/su1 t͡sʰu2/<sup>泰兴</sup></small> 装书的橱柜。<sup>\[泰兴\]</sup>  
-1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <sup>[泰州]</sup> 死读书而缺乏实际知识的人。  
-1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <small>/su1 tɛ1 t͡sɿ/<sup>泰兴</sup></small> 指只知读书，脱离实际、看问题幼稚、单纯的人；言谈不切实际、不知变通的读书人。<sup>\[泰兴\]</sup>  
+1. 【[书呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dae_zz.md#书呆子)】`shv1 dae1 zz` <small>/su1 tɛ1 t͡sɿ/<sup>泰兴</sup></small> ① 死读书而缺乏实际知识的人。<sup>\[泰州\]</sup> ② 指只知读书，脱离实际、看问题幼稚、单纯的人；言谈不切实际、不知变通的读书人。<sup>\[泰兴\]</sup>  
 1. 【[书房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_fan.md#书房)】`shv1 fan2` <small>/su1 faŋ2/<sup>兴化</sup>, /su1 fɑŋ/<sup>泰兴</sup></small> ① 学校 ② 大户人家看书写字的地方。<sup>\[如东\]</sup>：老爷在～里。<sup>\[如东\]</sup> ③ 私塾。<sup>\[如东\]</sup>：上～。<sup>\[如东\]</sup> ④ 藏书、读书、写字的房间。<sup>\[东台\]</sup> ⑤ 旧指私塾，今指学校<sup>\[东台\]</sup>：你家小孙子到啊上～的年龄吖啦？<sup>\[东台\]</sup> ⑥ 旧称私塾<sup>\[兴化\]</sup>：“象今日那个少年……正是上～读书的时候……”（《广陵潮》三九）<sup>\[兴化\]</sup> ⑦ 私塾，学校。<sup>\[泰兴\]</sup>  
 1. 【[书公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gon_zz.md#书公子)】`shv1 gon1 zz3` <sup>[如皋]</sup> 对读书人的呢、鄙称。  
 1. 【[书瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_ran_zz.md#书瓤子)】`shv1 ran2 zz` <sup>[兴化]</sup> 装在信封里写好的信：哪晓得周瑜只看书面子，不看～……（《火烧赤壁》四）。也称“信瓤子”。  

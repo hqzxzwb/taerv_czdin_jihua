@@ -176,8 +176,7 @@
 1. 【[人干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_gun_zz.md#人干子)】`ren2 gun1 zz` <sup>[兴化]</sup> 形容人极度消瘦：他病吖几个月，瘦得像个～。  
 1. 【[人魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_huen.md#人魂)】`ren2 huen2` <sup>[如东]</sup> 人的灵魂。比喻人：不晓得～在哪许。  
 1. 【[人户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_hv.md#人户)】`ren2 hv6` <sup>[兴化]</sup> 人家、老百姓：这个居民小组～不多，只有三十多家。｜“休说这话，老汉只是大王治下管的～。”（《水浒传》五）  
-1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i` <sup>[如皋]</sup> 家族相沿的代数：我家住啊三官殿桥西有啊五代～。  
-1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i6` <sup>[如东]</sup> 家族相沿代数：许家住啊南坎已经有五代～啊。  
+1. 【[人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#人裔)】`ren2 i` <small>/ɻəŋ2 ʝ/<sup>如皋</sup></small> 家族相沿的代数<sup>\[如皋\]</sup><sup>\[如东\]</sup>：我家住啊三官殿桥西有啊五代～。<sup>\[如皋\]</sup>｜许家住啊南坎已经有五代～啊。<sup>\[如东\]</sup>  
 1. 【[人样<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ian_r.md#人样<sub>儿</sub>)】`ren2 ian6 r` <sup>[如东]</sup> 身材标准漂亮的人：他长得像个～。  
 1. 【[人一走，茶就凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieh_zeu_cha.md#人一走，茶就凉)】`ren2 ieh7 zeu3 cha2 qieu6 lian2` <small>/ɻəŋ2 iʔ7 t͡sɤɯ3 t͡sʰɑ2 t͡ɕʰiɤɯ1 liɑŋ2/<sup>泰兴</sup></small> 指两人的关系脆弱，一分手就冷淡了。乡人尚有“人在人情在，人去两分开”之说。<sup>\[泰兴\]</sup>  
 1. 【[人影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ien_r.md#人影<sub>儿</sub>)】`ren2 ien3 r` <small>/ɻəŋ2 iə˞3/<sup>如皋</sup></small> ① 某人闪现过。<sup>\[如皋\]</sup> ② 身影。<sup>\[如皋\]</sup>  

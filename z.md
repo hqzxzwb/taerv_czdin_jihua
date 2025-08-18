@@ -808,8 +808,7 @@
 1. 【[真心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien_hua.md#真心话)】`zhen1 xien1 hua6` <sup>[如东]</sup> 自己心里的真实思想。  
 1. 【[真心话的本心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien_hua_dii.md#真心话的本心话)】`zhen1 xien1 hua6 dii ben3 xien hua6` <sup>[如东]</sup> 说句实在话。  
 1. 【[真扎家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_ga_hu.md#真扎家伙)】`zhen1 zhaeh ga1 hu` <small>/t͡səŋ1 t͡ɕiæʔ kɑ1 xɤɯ/<sup>泰兴</sup></small> 真正、实在的东西。<sup>\[泰兴\]</sup>  
-1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <sup>[如东]</sup> 质量很好的货物：这些都是～。  
-1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <small>/t͡sən1 t͡sæʔ7 xo5/<sup>兴化</sup>, /t͡səŋ1 t͡sæʔ7 xo5/<sup>泰县</sup></small> ① 地道的、优质的产品<sup>\[兴化\]</sup>：我俫卖的刬是大厂生产的～！<sup>\[兴化\]</sup> ② 质量好的货。<sup>\[泰县\]</sup> ③ 相对于“冒牌货”，多指从原产地或大型商店买的地道名牌商品。<sup>\[泰州\]</sup>  
+1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <small>/t͡sən1 t͡sæʔ7 xo5/<sup>兴化</sup>, /t͡səŋ1 t͡sæʔ7 xo5/<sup>泰县</sup></small> ① 质量很好的货物。<sup>\[如东\]</sup>：这些都是～。<sup>\[如东\]</sup> ② 地道的、优质的产品<sup>\[兴化\]</sup>：我俫卖的刬是大厂生产的～！<sup>\[兴化\]</sup> ③ 质量好的货。<sup>\[泰县\]</sup> ④ 相对于“冒牌货”，多指从原产地或大型商店买的地道名牌商品。<sup>\[泰州\]</sup>  
 1. 【[真真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen.md#真真)】`zhen1 zhen` <small>/t͡səŋ1 t͡səŋ/<sup>泰兴</sup></small> 的的确确，实实在在。<sup>\[泰兴\]</sup>  
 1. 【[真真的个真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen_dii_gu.md#真真的个真)】`zhen1 zhen1 dii gu zhen1` <sup>[东台]</sup> 意为已经给足了最大的情面，天大的交情。  
 1. 【[睁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen.md#睁眼)】`zhen1 ngaen3` <sup>[如皋]</sup> 指初生禽兽的发育生长阶段。  

@@ -1357,8 +1357,7 @@
 1. 【[莲蓬心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pon_xien.md#莲蓬心)】`lin2 pon2 xien1` <sup>[如皋]</sup> 无主见，拿不定主意。或指人。  
 1. 【[莲须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_xy.md#莲须)】`lin2 xy1` <sup>[如东]</sup> 睡莲科植物莲的雄芯。  
 1. 【[莲子花生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_hua_shen.md#莲子花生)】`lin2 zz hua1 shen1` <sup>[如皋]</sup> 花生品种，花生米儿是红的。  
-1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <sup>[如东]</sup> 睡莲科植物莲的果实或种子。  
-1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <small>/lĩ2 t͡sɿ3/<sup>泰兴</sup></small> 荷莲的子实。<sup>\[泰兴\]</sup>  
+1. 【[莲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#莲子)】`lin2 zz3` <small>/lĩ2 t͡sɿ3/<sup>泰兴</sup></small> 莲的子实。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[莲子心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_xien.md#莲子心)】`lin2 zz3 xien1` <sup>[如东]</sup> 睡莲科植物莲昀成熟种子中的绿色胚芽。  
 1. 【[连](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#连)】`lin2` <small>/liɪ̃2/<sup>兴化</sup>, /lĩ2/<sup>如皋</sup></small> ① 一种缝纫方法。用针线把两块布料缝合起来，称连。也称缝。<sup>\[如东\]</sup> ② 人民解放军建制单位，约180人。<sup>\[如东\]</sup> ③ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ④ 缝合针法：淌针子～。<sup>\[如皋\]</sup> ⑤ 泛指缝衣：烧烧煮煮，～～补补。<sup>\[如皋\]</sup> ⑥ 缝补衣服<sup>\[兴化\]</sup>：裤脚撕破啊，妈妈拿针线～起来。<sup>\[兴化\]</sup> ⑦ 将裁剪成片的布料连缀起来。《吴下方言考》“～，合也。吴人以缝衣为～。”<sup>\[兴化\]</sup> ⑧ 连同<sup>\[泰州\]</sup>：～我在内总共来啊10个人。<sup>\[泰州\]</sup> ⑨ 介词，表示强调<sup>\[泰州\]</sup>：他～厂长都不怕，怎吖会买你的账？<sup>\[泰州\]</sup>  
 1. 【[连本掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ben_kuaen.md#连本掼)】`lin2 ben3 kuaen6` <sup>[兴化]</sup> 见“连本烂”。  

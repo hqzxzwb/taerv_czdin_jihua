@@ -938,8 +938,7 @@
 1. 【[紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#紧)】`jien3` <small>/t͡ɕin3/<sup>兴化</sup>, /t͡ɕiəŋ3/<sup>如皋</sup></small> ① 不宽裕<sup>\[如皋\]</sup>：房子～、钱～<sup>\[如皋\]</sup> ② 偏小<sup>\[如皋\]</sup>：鞋子～，不好穿<sup>\[如皋\]</sup> ③ 叮嘱<sup>\[兴化\]</sup>：再～他下子，免得到时忘掉。<sup>\[兴化\]</sup>  
 1. 【[紧巴巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ba_ba_dii.md#紧巴巴的)】`jien3 ba1 ba1 dii` <sup>[东台]</sup> 指经济上不宽裕。  
 1. 【[紧剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bah_bah.md#紧剥剥)】`jien3 bah7 bah7` <sup>[如东]</sup> 箍得很紧：这件衣服穿吖身上～的。  
-1. 【[紧绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_bon.md#紧绷绷)】`jien3 bon1 bon1` <sup>[如东]</sup> ① 拉得很紧：绳子拉啊～的。 ② 捆扎得很紧：裤腰带～的。 ③ 心情紧张。  
-1. 【[紧绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_bon.md#紧绷绷)】`jien3 bon1 bon1` <small>/t͡ɕiŋ3 pɔŋ1 pɔŋ1/<sup>泰兴</sup></small> 扎得很紧。紧得很，相当紧。<sup>\[泰兴\]</sup>  
+1. 【[紧绷绷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_bon_bon.md#紧绷绷)】`jien3 bon1 bon1` <small>/t͡ɕiŋ3 pɔŋ1 pɔŋ1/<sup>泰兴</sup></small> ① 拉得很紧。<sup>\[如东\]</sup>：绳子拉啊～的。<sup>\[如东\]</sup> ② 捆扎得很紧。<sup>\[如东\]</sup>：裤腰带～的。<sup>\[如东\]</sup> ③ 心情紧张。<sup>\[如东\]</sup> ④ 扎得很紧。紧得很，相当紧。<sup>\[泰兴\]</sup>  
 1. 【[紧裎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chen_r.md#紧裎<sub>儿</sub>)】`jien3 chen3 r` <sup>[东台]</sup> ［同音］棉袄。也叫布宝儿、棉𧘸子。  
 1. 【[紧阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chen_zz.md#紧阵子)】`jien3 chen6 zz` <small>/t͡ɕin3 t͡sʰən6 t͡sɿ/<sup>兴化</sup>, /t͡ɕiəŋ3 t͡sʰəŋ1 t͡sɿ/<sup>如皋</sup>, /t͡ɕiŋ3 t͡sʰəŋ1 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiŋ3 t͡sʰəŋ1 t͡se/<sup>泰县</sup></small> ① 妇女临产前的阵痛。<sup>\[如东\]</sup> ② 比喻事情非常紧迫。<sup>\[如东\]</sup>：已经到啊～，大家都要出力。<sup>\[如东\]</sup> ③ 临产时剧烈阵痛。喻工作最紧张的时段。<sup>\[如皋\]</sup> ④ 胎儿降生前，产妇阵痛加剧<sup>\[兴化\]</sup>：足月要临盆的时候，几个～一起，（孩子）就生下来啦。（扬说《方卿羞姑》）<sup>\[兴化\]</sup> ⑤ （借）指工作越抓越紧，不许拖拉。<sup>\[兴化\]</sup> ⑥ 产妇临产前阵痛。<sup>\[泰县\]</sup> ⑦ 关键时刻。<sup>\[泰县\]</sup> ⑧ 胎儿即将离开母腹，产妇子宫收缩加快，阵痛加剧这段时间。<sup>\[泰州\]</sup> ⑨ 比喻工作秩序加严、工作时间加紧、工作节奏加快这段时间<sup>\[泰州\]</sup>：厂里最近上吖～，天天加班。<sup>\[泰州\]</sup> ⑩ 最紧张的时候。<sup>\[泰兴\]</sup>  
 1. 【[紧冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_don.md#紧冻)】`jien3 don5` <sup>[兴化]</sup> 冬天连刮西北风，气温骤降，风停后河面封冻：风一停就～。  
@@ -960,8 +959,7 @@
 1. 【[紧身<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_r.md#紧身<sub>儿</sub>)】`jien3 shen1 r` <small>/t͡ɕiŋ3 səŋ1 ɚ/<sup>泰县</sup></small> ① 贴身的内衣。<sup>\[如东\]</sup> ② 贴身的内衣。<sup>\[泰县\]</sup>  
 1. 【[紧闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuaen.md#紧闩)】`jien3 shuaen1` <sup>[如东]</sup> 封闭：围墙上留这们大的门，不～。  
 1. 【[紧腾腾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten_dii.md#紧腾腾的)】`jien3 ten ten1 dii` <sup>[如皋]</sup> ① 状关闭很紧：城门关得～。 ② 包裹、填塞得满满的：天气冷，伢儿身上包得～。  
-1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten1 ten1` <sup>[兴化]</sup> 形容严实：“说说也苦恼，房门关得～，赛过牢门……”（《四杰传》七七）  
-1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten1 ten1` <small>/t͡ɕiŋ3 tʰəŋ1 tʰəŋ1/<sup>泰兴</sup></small> 形容非常紧。<sup>\[泰兴\]</sup>  
+1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten1 ten1` <small>/t͡ɕin3 tʰən1 tʰən1/<sup>兴化</sup>, /t͡ɕiŋ3 tʰəŋ1 tʰəŋ1/<sup>泰兴</sup></small> ① 形容严实<sup>\[兴化\]</sup>：“说说也苦恼，房门关得～，赛过牢门……”（《四杰传》七七）<sup>\[兴化\]</sup> ② 形容非常紧。<sup>\[泰兴\]</sup>  
 1. 【[紧旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#紧旺)】`jien3 van5` <sup>[东台]</sup> 指某件事正处于紧张、兴旺阶段：六月初～收麦｜腊月底各家～忙年事，少去打扰吧。  
 1. 【[紧扎扎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhaeh_zhaeh_dii.md#紧扎扎的)】`jien3 zhaeh7 zhaeh7 dii` <sup>[如皋]</sup> 状充满而稍挤：新鞋子上脚～，不能走远路。  
 1. 【[警车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cha.md#警车)】`jien3 cha1` <sup>[如东]</sup> 担负警察任务的车辆。  
