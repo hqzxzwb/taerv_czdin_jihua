@@ -11,6 +11,6 @@ hon2 tan2 tan
   - 伢儿的脸～的。
 
 # 红堂堂
-hon2 tan2 tan2
+hon2 tan2 tan
 + 红彤彤。形容很红。
   * 泰兴方言辞典
