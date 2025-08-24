@@ -1031,7 +1031,7 @@
 1. 【[红事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#红事)】`hon2 shr6` <sup>[如东]</sup> 喜事。如结婚、贺寿等。  
 1. 【[红丝疔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz_dien.md#红丝疔)】`hon2 sz1 dien1` <sup>[如皋]</sup> 疔疮的一种，疮毒呈红丝状向心脏方向发展，很险恶。  
 1. 【[红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_taen.md#红蛋)】`hon2 taen6` <small>/xɔŋ2 tʰɛ̃1/<sup>泰兴</sup></small> ① 妇女生小孩后，将鸡蛋煮熟染成红色赠送给亲友，表示报喜，这种蛋叫做红蛋。也叫喜蛋。<sup>\[如东\]</sup> ② 染红的鸡蛋。生孩子的人家送给亲友，表示喜庆。<sup>\[泰兴\]</sup>  
-1. 【[红堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红堂堂)】`hon2 tan2 tan2` <small>/xɔŋ2 tʰɑŋ2 tʰɑŋ2/<sup>泰兴</sup></small> 红彤彤。形容很红。<sup>\[泰兴\]</sup>  
+1. 【[红堂堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_tan.md#红堂堂)】`hon2 tan2 tan` <small>/xɔŋ2 tʰɑŋ2 tʰɑŋ/<sup>泰兴</sup></small> 红彤彤。形容很红。<sup>\[泰兴\]</sup>  
 1. 【[红糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan.md#红糖)】`hon2 tan2` <sup>[如东]</sup> 糖的一种。甘蔗糖浆熬成，含有砂糖和糖蜜，黄褐色、赤红色或黑色。也称砂糖。  
 1. 【[红糖茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_cha.md#红糖茶)】`hon2 tan2 cha2` <sup>[如皋]</sup> 红糖冲泡的茶。  
 1. 【[红糖京枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_tan_jien_zo.md#红糖京枣)】`hon2 tan2 jien1 zo3` <sup>[如皋]</sup> 一种像红枣的甜脆茶食。  
@@ -1830,7 +1830,7 @@
 1. 【[谎张三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zhan_saen.md#谎张三)】`huan3 zhan1 saen1` <sup>[如东]</sup> 经常说假话的人：不要相信，他是个～。  
 1. 【[谎账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_zhan.md#谎账)】`huan3 zhan5` <sup>[如皋]</sup> 假账。  
 1. 【[晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan.md#晃)】`huan5` <small>/xuã5/<sup>如皋</sup></small> ① 摇摆。<sup>\[如东\]</sup>：篮子挂啊树枝儿上乱～。<sup>\[如东\]</sup> ② 抛出去。<sup>\[如东\]</sup>：没用的东西，我都～出去啊。<sup>\[如东\]</sup> ③ 口头语。意为打赌、挑衅、走着瞧<sup>\[如皋\]</sup>：是不是～下来看、敢不敢～下子。<sup>\[如皋\]</sup> ④ 随意闲逛<sup>\[泰州\]</sup>：不晓得他人又～吖哪块去啊唻。<sup>\[泰州\]</sup>  
-1. 【[晃膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ban_zz.md#晃膀子)】`huan5 ban3 zz` <small>/xuaŋ5 paŋ3 t͡sɿ/<sup>兴化</sup></small> ① 无事闲逛<sup>\[兴化\]</sup>：他成天不做事，吃饱啊就去～。<sup>\[兴化\]</sup> ② 带着两只胳膊闲逛，比喻不务正业<sup>\[泰州\]</sup>：你这样子成天在街上～不行，还是要想办法找点儿事情做做。<sup>\[泰州\]</sup>  
+1. 【[晃膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ban_zz.md#晃膀子)】`huan5 ban3 zz` <small>/xuaŋ5 paŋ3 t͡sɿ/<sup>兴化</sup>, /xuɑŋ5 pɑŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 无事闲逛<sup>\[兴化\]</sup>：他成天不做事，吃饱啊就去～。<sup>\[兴化\]</sup> ② 带着两只胳膊闲逛，比喻不务正业<sup>\[泰州\]</sup>：你这样子成天在街上～不行，还是要想办法找点儿事情做做。<sup>\[泰州\]</sup> ③ 谓游荡玩耍，不务正业。<sup>\[泰兴\]</sup>  
 1. 【[晃长子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_zz.md#晃长子)】`huan5 chan2 zz` <sup>[兴化]</sup> 瘦高个儿：老毛是个～，走路腰总𨉣啊在下。  
 1. 【[晃大晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_da_huan.md#晃大晃)】`huan5 da6 huan5` <sup>[如东]</sup> 欺骗：他玩的是～。  
 1. 【[晃晃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan.md#晃晃)】`huan5 huan5` ① 耍耍。<sup>\[如东\]</sup>：出去～。<sup>\[如东\]</sup> ② 通“逛逛”<sup>\[东台\]</sup>：东～，西～，半天就过去了。<sup>\[东台\]</sup>  

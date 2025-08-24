@@ -1253,7 +1253,7 @@
 1. 【[显能耐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_nen_nae.md#显能耐)】`xin3 nen2 nae6` <sup>[如皋]</sup> 卖弄。  
 1. 【[显眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ngaen.md#显眼)】`xin3 ngaen3` <small>/ɕĩ3 ŋẽ3/<sup>如皋</sup></small> ① 过分醒目。<sup>\[如皋\]</sup> ② 明显。<sup>\[如东\]</sup>：这个东西摆啊这许，非常～。<sup>\[如东\]</sup> ③ 突出。<sup>\[如东\]</sup>：他这吖做，～。<sup>\[如东\]</sup> ④ 明显，容易被人看到。<sup>\[东台\]</sup>  
 1. 【[显山露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shaen_lv_shuei.md#显山露水)】`xin3 shaen1 lv6 shuei3` <sup>[兴化]</sup> （喻）显示自己：老王虽然是作家，但是从不～。  
-1. 【[蚬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#蚬子)】`xin3 zz` ① 软体动物，生长于内河，介壳圆形或心脏形，指头般大小，表面有轮状纹<sup>\[东台\]</sup>：韭菜炒～，是东台家常菜。<sup>\[东台\]</sup> ② 小蛤，一种淡水软体动物，介壳呈圆形或者心脏形，烧汤带淡蓝色，纤维独特，蚬子豆腐汤、蚬肉炒韭菜是百姓家庭佳肴之一。<sup>\[泰州\]</sup>  
+1. 【[蚬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_zz.md#蚬子)】`xin3 zz` <small>/ɕĩ3 t͡sɿ/<sup>泰兴</sup></small> ① 软体动物，生长于内河，介壳圆形或心脏形，指头般大小，表面有轮状纹<sup>\[东台\]</sup>：韭菜炒～，是东台家常菜。<sup>\[东台\]</sup> ② 小蛤，一种淡水软体动物，介壳呈圆形或者心脏形，烧汤带淡蓝色，纤维独特，蚬子豆腐汤、蚬肉炒韭菜是百姓家庭佳肴之一。<sup>\[泰州\]</sup> ③ 蚬的俗称。带壳软体动物，肉可食，味鲜美。<sup>\[泰兴\]</sup>：稻秀螺螺麦秀～<sup>\[泰兴\]</sup>  
 1. 【[险搳险的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin_dii.md#险搳险的)】`xin3 huaeh7 xin3 dii` <sup>[如皋]</sup> 见“险险儿”。  
 1. 【[险攉险的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huah_xin_dii.md#险攉险的)】`xin3 huah7 xin3 dii` <sup>[如皋]</sup> 极其危险，只差一点儿。  
 1. 【[险霍险](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huah_xin.md#险霍险)】`xin3 huah7 xin3` <sup>[如东]</sup> 差一点儿就发生危险：碰吖汽车上吖，真是～。  
@@ -1721,13 +1721,13 @@
 1. 【[小子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zz.md#小子)】`xio3 zz` <sup>[如东]</sup> ① 男孩：生吖一个～。 ② 形容做事轻率、莽闯的年轻人：这个～。  
 1. 【[晓不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_beh_deh.md#晓不得)】`xio3 beh deh7` <sup>[兴化]</sup> （北部乡镇语）即不晓得：这件事我～，覅来问我。  
 1. 【[晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh.md#晓得)】`xio3 deh` <sup>[泰县]</sup> 知道。  
-1. 【[晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh.md#晓得)】`xio3 deh7` ① 知道 ② 知道。<sup>\[如东\]</sup>：我～咖。<sup>\[如东\]</sup> ③ 知道。也作“省得xien3 deh7”。<sup>\[东台\]</sup> ④ 明白，知道<sup>\[泰州\]</sup>：他到现在都不肯成家，哪个～他想的是甚的心思。<sup>\[泰州\]</sup>  
+1. 【[晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh.md#晓得)】`xio3 deh7` <small>/ɕiɔ3 təʔ7/<sup>泰兴</sup></small> ① 知道 ② 知道<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：也说“省得xien3 deh7”。\]：我～咖。<sup>\[如东\]</sup>｜他到现在都不肯成家，哪个～他想的是甚的心思。<sup>\[泰州\]</sup>  
 1. 【[晓得杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh_go_zz.md#晓得杲子)】`xio3 deh7 go3 zz` <sup>[如皋]</sup> 懂事。  
 1. 【[晓得要漓尿，夜里不睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh_io_la.md#晓得要漓尿，夜里不睏觉)】`xio3 deh7 io5 la2 xy1 ia6 lii beh7 kuen5 go5` <sup>[如皋]</sup> 估计要出问题，就注意避免。  
 1. 【[晓得来尿就爬坐起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_deh_lae_xy.md#晓得来尿就爬坐起来)】`xio3 deh7 lae2 xy1 qieu6 pa2 cu6 qi3 lae2` <sup>[东台]</sup> 后悔做错了事，同时又有点自我解嘲自我原谅的意味。  
 1. 【[晓杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_go_zeh.md#晓杲昃)】`xio3 go3 zeh` <sup>[东台]</sup> 懂事，会办事、处世。  
 1. 【[晓杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_go_zz.md#晓杲子)】`xio3 go3 zz` 懂事  
-1. 【[晓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#晓星)】`xio3 xien1` <small>/ɕiɔ3 ɕiəŋ1/<sup>如皋</sup></small> ① 金星黎明时在东天边、黄昏时在西天边，最亮。<sup>\[如皋\]</sup> ② 拂晓时出现在东方的一颗亮星——金星，绕太阳公转周期是224.7天，自转周期是243天，自东向西逆转。金星是太阳系各大行星中离地球最近的一颗。中国古代把金星叫做太白星，早晨出现在东方时叫启明星，晚上出现在西方时叫长庚星。<sup>\[如东\]</sup>  
+1. 【[晓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xien.md#晓星)】`xio3 xien1` <small>/ɕiɔ3 ɕiəŋ1/<sup>如皋</sup>, /ɕiɔ3 ɕiŋ1/<sup>泰兴</sup></small> ① 金星黎明时在东天边、黄昏时在西天边，最亮。<sup>\[如皋\]</sup> ② 拂晓时出现在东方的一颗亮星——金星，绕太阳公转周期是224.7天，自转周期是243天，自东向西逆转。金星是太阳系各大行星中离地球最近的一颗。中国古代把金星叫做太白星，早晨出现在东方时叫启明星，晚上出现在西方时叫长庚星。<sup>\[如东\]</sup> ③ 启明星。乡谣：“东方发白哓星上，晓星后头跟太阳。”<sup>\[泰兴\]</sup>  
 1. 【[晓喻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#晓喻)】`xio3 y` <sup>[如皋]</sup> 善意警告：我把个～你，你今朝惹啊祸，家去煞个放吖乖啊点儿。  
 1. 【[晓谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_y.md#晓谕)】`xio3 y` ① 预先警告。<sup>\[如东\]</sup>：把个～给你，请你当心点儿。<sup>\[如东\]</sup> ② 事先的告诫、警告<sup>\[东台\]</sup>：我把个～你，你再不诚实，我就同你算总账吖！<sup>\[东台\]</sup> ③ 使他人警觉的告诫，用于警示无谓言之无预也<sup>\[泰州\]</sup>：你把个～把你，你再同我在外头瞎说，不要怪我同你不客气。<sup>\[泰州\]</sup>｜你把个～把他，像他这格局甚的钱都敢拿，早晚要出大事情。<sup>\[泰州\]</sup>  
 1. 【[咲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#咲)】`xio5` <sup>[泰县]</sup> 割裂：手～开来啊。  

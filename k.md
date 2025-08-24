@@ -516,7 +516,7 @@
 1. 【[㩭七㩭八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh.md#㩭七㩭八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
 1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 因痛苦悲哀或感情激动而流泪，有时还发出声音。  
 1. 【[哭宝精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_jien.md#哭宝精)】`koh7 bo3 jien1` <sup>[泰州]</sup> 戏称特别爱哭的小孩。  
-1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <small>/kʰɔʔ7 pɔ˞3/<sup>如皋</sup></small> ① 爱哭的小孩。 ② 爱哭伢儿的谑称。<sup>\[如皋\]</sup> ③ 爱哭的小孩。<sup>\[东台\]</sup> ④ 亦作“哭宝子”“哭包”，戏称爱哭的小孩，或泛指爱哭的人<sup>\[泰州\]</sup>：这个～一碰就哭，真没得意思。<sup>\[泰州\]</sup>｜她这吖大岁数的人，还像个～，又不为个甚的事，一哭就哭半天，把大家都弄吖怕啊她。<sup>\[泰州\]</sup>  
+1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <small>/kʰɔʔ7 pɔ˞3/<sup>如皋</sup>, /kʰɔʔ7 pɔ˞3/<sup>泰兴</sup></small> ① 爱哭的小孩。 ② 爱哭伢儿的谑称。<sup>\[如皋\]</sup> ③ 爱哭的小孩。<sup>\[东台\]</sup> ④ 亦作“哭宝子”“哭包”，戏称爱哭的小孩，或泛指爱哭的人<sup>\[泰州\]</sup>：这个～一碰就哭，真没得意思。<sup>\[泰州\]</sup>｜她这吖大岁数的人，还像个～，又不为个甚的事，一哭就哭半天，把大家都弄吖怕啊她。<sup>\[泰州\]</sup> ⑤ 戏称爱哭的宝宝。<sup>\[泰兴\]</sup>  
 1. 【[哭宝<sub>儿</sub>秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r_chen.md#哭宝<sub>儿</sub>秤)】`koh7 bo3 r chen5` <small>/kʰɔʔ7 pɔ˞3 t͡sʰəŋ5/<sup>如皋</sup></small> ① 秤袒。<sup>\[如皋\]</sup> ② 见“袒”。<sup>\[如皋\]</sup> ③ 秤量不足，如哭宝儿的眼毛耷拉着。<sup>\[如皋\]</sup>  
 1. 【[哭宝<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r_faen.md#哭宝<sub>儿</sub>饭)】`koh7 bo3 r faen6` <sup>[如皋]</sup> 谑指，水放多了煮成的烂饭。  
 1. 【[哭宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_zz.md#哭宝子)】`koh7 bo3 zz` <sup>[兴化]</sup> 爱哭的孩子：他是个～，张嘴就哭。  
@@ -525,8 +525,9 @@
 1. 【[哭六秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_loh_toh.md#哭六秃)】`koh7 loh toh` <sup>[如皋]</sup> 象声词。  
 1. 【[哭娘老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_nian_lo_zz.md#哭娘老子)】`koh7 nian2 lo3 zz` <sup>[如东]</sup> 哀哭自己的亲生父母。  
 1. 【[哭亲娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_qien_nian.md#哭亲娘)】`koh7 qien1 nian2` <sup>[如东]</sup> 哀哭自己的亲生母亲，诉说心中的委屈和痛苦。  
-1. 【[哭穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_qion.md#哭穷)】`koh7 qion2` ① 口头上向外人诉说贫穷。<sup>\[如东\]</sup> ② 夸大自己的经济困难。<sup>\[东台\]</sup> ③ 装穷，装出艰难、困苦的样子<sup>\[泰州\]</sup>：没得人跟你借钱，你就不要～唻。<sup>\[泰州\]</sup>  
+1. 【[哭穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_qion.md#哭穷)】`koh7 qion2` <small>/kʰɔʔ7 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> ① 口头上向外人诉说贫穷。<sup>\[如东\]</sup> ② 夸大自己的经济困难。<sup>\[东台\]</sup> ③ 装穷，装出艰难、困苦的样子<sup>\[泰州\]</sup>：没得人跟你借钱，你就不要～唻。<sup>\[泰州\]</sup> ④ 口头上向人装穷。<sup>\[泰兴\]</sup>  
 1. 【[哭丧棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_san_pan.md#哭丧棒)】`koh7 san pan6` <sup>[泰州]</sup> ① 旧时父母治丧、发丧出殡之时，孝子腰插或者手持一根缠满白色纸穗的短木棒，称为“哭丧棒”。 ② 骂人所持棍棒，詈词：你把个倒头～拿啊走，横吖门口哿挡住人走路啊？  
+1. 【[哭丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_san.md#哭丧)】`koh7 san1` <small>/kʰɔʔ7 sɑŋ1/<sup>泰兴</sup></small> 为死者号哭。<sup>\[泰兴\]</sup>  
 1. 【[哭丧脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_san_lin.md#哭丧脸)】`koh7 san1 lin3` <sup>[如东]</sup> 愁眉苦脸的样子。  
 1. 【[哭丧棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_san_pan.md#哭丧棒)】`koh7 san1 pan6` <small>/kʰɔʔ7 sã1 pʰã1/<sup>如皋</sup></small> ① 父母死了，孝子要拿着哭丧棒，表示哀悼。正孝子拿的哭丧棒，用白纸剪成须边，裹在毛竹竿上；其他孝子拿的哭丧棒，只用白纸裹在毛竹竿上，不剪须边。死者埋葬后，哭丧棒插在坟前，孝子的腰绳圈在哭丧棒上。<sup>\[如东\]</sup> ② 比喻使人讨厌的东西。<sup>\[如东\]</sup>：国民党兵拿啊～到处吓老百姓。<sup>\[如东\]</sup> ③ 丧葬仪式中，孝子孝孙所持的短竹棒儿，棒上裹有白纸，手持或腰插，葬毕插坟前。<sup>\[如皋\]</sup> ④ 置语，指常用之棒。<sup>\[如皋\]</sup> ⑤ 旧时送葬的小木棒，上面用白纸糊的纸繻，插在孝子身上，送葬后插在墓前。<sup>\[东台\]</sup>  
 1. 【[哭声嚎啕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_shen_ho_to.md#哭声嚎啕)】`koh7 shen ho2 to2` <sup>[兴化]</sup> 见“哭声乌拉”。  

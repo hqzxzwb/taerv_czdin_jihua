@@ -1032,7 +1032,7 @@
 1. 【[浑木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_moh.md#浑木)】`ven2 moh8` <sup>[兴化]</sup> 知觉：冻得不知～。｜“……跌伤后半月中，上半截痛不可言，下半部就不知～了……”（《梼杌闲评》十九）  
 1. 【[纹银](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ien.md#纹银)】`ven2 ien2` <sup>[东台]</sup> 旧时称成色最好的银子。  
 1. 【[纹丝旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_sz_pan.md#纹丝旁)】`ven2 sz1 pan2` <sup>[兴化]</sup> 汉字偏旁，形状是“纟”“糹”。  
-1. 【[蚊烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_in.md#蚊烟)】`ven2 in1` <small>/ʋəŋ2 ĩ1/<sup>如皋</sup></small> 蚊香。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
+1. 【[蚊烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_in.md#蚊烟)】`ven2 in1` <small>/ʋəŋ2 ĩ1/<sup>如皋</sup>, /ʋəŋ2 ĩ1/<sup>泰兴</sup></small> ① 蚊香。<sup>\[如皋\]</sup><sup>\[泰州\]</sup> ② 以杂草麦壳等燃起的只冒烟不着火以其驱蚊的烟。犹蚊香。<sup>\[泰兴\]</sup>  
 1. 【[蚊帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zhan.md#蚊帐)】`ven2 zhan5` <sup>[如东]</sup> 布眼较粗的方形或锥形织物，挂在床顶上或吊在天花板上，防止蚊虫钻进来叮人。  
 1. 【[蚊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zz.md#蚊子)】`ven2 zz` <sup>[如东]</sup> 昆虫。成虫身体细长，胸部有一对翅膀和三对细长的脚。幼虫（孑孓）和蛹都生长在水中。雄蚊吸植物的汁液。雌蚊吸人畜的血液，能传播疟疾、丝虫病流行性乙型脑炎等病。最常见的有按蚊库蚊和伊蚊三类。  
 1. 【[蚊子打哈欠——小气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zz_da_ha.md#蚊子打哈欠——小气)】`ven2 zz da3 ha1 qin xio3 qi5` <sup>[东台]</sup>   

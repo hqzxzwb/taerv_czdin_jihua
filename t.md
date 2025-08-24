@@ -1007,7 +1007,7 @@
 1. 【[剔咖剩下来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_ga_chen_ha.md#剔咖剩下来的)】`tieh7 ga chen5 ha lae2 dii` <sup>[如皋]</sup> 选剩的、挑剩的：这些都是～的脚货。  
 1. 【[剔骨大洗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_gueh_da_xi.md#剔骨大洗)】`tieh7 gueh7 da6 xi3` <sup>[兴化]</sup> 骂人洗澡时间过长：你这把澡洗啊三个钟头，是～呀！  
 1. 【[剔骨算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_gueh_sun.md#剔骨算)】`tieh7 gueh7 sun5` <sup>[如皋]</sup> 贬指算账精细苛刻，丝毫不溜。就连在骨头上的肉也要剔下来算。见“算筋算骨”。  
-1. 【[剔骨算命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_gueh_sun_mien.md#剔骨算命)】`tieh7 gueh7 sun5 mien6` <small>/tʰiɪʔ7 kuəʔ7 sũ5 miɪ̃6/<sup>兴化</sup>, /tʰiɪʔ7 kuəʔ7 sõ5 miŋ1/<sup>泰县</sup></small> ① （喻）兜底清算<sup>\[兴化\]</sup>：这次跟你～，看你还能得几个钱！<sup>\[兴化\]</sup> ② 彻底算一算：这回要跟你～。<sup>\[泰县\]</sup>  
+1. 【[剔骨算命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_gueh_sun_mien.md#剔骨算命)】`tieh7 gueh7 sun5 mien6` <small>/tʰiɪʔ7 kuəʔ7 sũ5 miɪ̃6/<sup>兴化</sup>, /tʰiʔ7 kuəʔ7 sʊ̃5 miŋ1/<sup>泰兴</sup>, /tʰiɪʔ7 kuəʔ7 sõ5 miŋ1/<sup>泰县</sup></small> ① （喻）兜底清算<sup>\[兴化\]</sup>：这次跟你～，看你还能得几个钱！<sup>\[兴化\]</sup> ② 彻底算一算<sup>\[泰县\]</sup>：这回要跟你～。<sup>\[泰县\]</sup> ③ 彻底地逐一仔细清算。<sup>\[泰兴\]</sup>  
 1. 【[剔骨头算命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_gueh_teu_sun.md#剔骨头算命)】`tieh7 gueh7 teu2 sun5 mien6` <sup>[东台]</sup> ［喻］指工于心计，谋算事情十分精细。  
 1. 【[剔牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_nga_chr.md#剔牙齿)】`tieh7 nga2 chr3` <sup>[如东]</sup> 用竹签把牙缝中的残存物清除：他习惯～。  
 1. 【[剔破](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_pu.md#剔破)】`tieh7 pu5` 告知事实的真相以及可能产生的后果<sup>\[泰州\]</sup>：这件事没得瞒头，同他～啊，对他反而好。<sup>\[泰州\]</sup>  
@@ -1683,6 +1683,7 @@
 1. 【[稻谷芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_goh_man.md#稻谷芒)】`to6 goh7 man2` <sup>[如东]</sup> 禾本科植物稻果实上的细芒刺。  
 1. 【[稻穗穗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qy_qy_r.md#稻穗穗<sub>儿</sub>)】`to6 qy6 qy6 r` <sup>[如皋]</sup> 稻穗。  
 1. 【[稻香村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xian_cuen.md#稻香村)】`to6 xian1 cuen1` <sup>[东台]</sup> 旧东台城著名的淮扬茶食店，在旧彩衣街南轿巷对面。  
+1. 【[稻秀螺螺麦秀蚬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xieu_lu_lu.md#稻秀螺螺麦秀蚬)】`to6 xieu5 lu1 lu1 moh8 xieu5 xin3` <small>/tʰɔ1 ɕiɤɯ5 lɤɯ1 lɤɯ1 mɔʔ8 ɕiɤɯ5 ɕĩ3/<sup>泰兴</sup></small> 时令谚语<sup>\[泰兴\]</sup>  
 1. 【[稻秀抐拳土，麦秀砖头地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xieu_neh_qiun.md#稻秀抐拳土，麦秀砖头地)】`to6 xieu5 neh8 qiun2 tv3 moh8 xieu5 zhun1 teu ti6` <sup>[如皋]</sup> 稻秀与麦秀的环境不一样。  
 1. 【[稻籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zz_r.md#稻籽<sub>儿</sub>)】`to6 zz3 r` <sup>[如皋]</sup> 稻粒。  
 1. 【[道场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chan.md#道场)】`to6 chan2` <sup>[东台]</sup> 释、道做法事的场所，也指法事本身。  

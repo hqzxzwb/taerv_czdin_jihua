@@ -1462,7 +1462,7 @@
 1. 【[爆乳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_rv_r.md#爆乳<sub>儿</sub>)】`bo5 rv3 r` <sup>[泰县]</sup> 花蕊。  
 1. 【[豹脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_jiah.md#豹脚)】`bo5 jiah7` <sup>[东台]</sup> ① 使死者遗体双脚并拢的垫脚物。 ② 棺材的小头下搁（大头下搁为虎足）。现常作为詈语：看你那双～，才买的鞋子又穿破啊。  
 1. 【[豹猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_mo_r.md#豹猫<sub>儿</sub>)】`bo5 mo2 r` <sup>[如皋]</sup> 狸。哺乳纲，食肉目。  
-1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <small>/pɔ5/<sup>兴化</sup>, /pɔ5/<sup>如皋</sup></small> ① 跳起、跃起：黄豆儿炒啊～起来啊。<sup>\[如皋\]</sup> ② 胀裂：车胆子打气打啊～掉啊。<sup>\[如皋\]</sup> ③ 弹起；跃起<sup>\[东台\]</sup>：篮球的气打得太足，一～老高。<sup>\[东台\]</sup> ④ 弹<sup>\[兴化\]</sup>：皮球掉下地，一～多高。<sup>\[兴化\]</sup> ⑤ 跳<sup>\[兴化\]</sup>：小河小沟他一～就过去啊。<sup>\[兴化\]</sup> ⑥ 溅<sup>\[兴化\]</sup>：～啊一身的水。<sup>\[兴化\]</sup>  
+1. 【[趵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#趵)】`bo5` <small>/pɔ5/<sup>兴化</sup>, /pɔ5/<sup>如皋</sup>, /pɔ5/<sup>泰兴</sup></small> ① 跳起、跃起<sup>\[如皋\]</sup>：黄豆儿炒啊～起来啊。<sup>\[如皋\]</sup> ② 胀裂<sup>\[如皋\]</sup>：车胆子打气打啊～掉啊。<sup>\[如皋\]</sup> ③ 弹起；跃起<sup>\[东台\]</sup>：篮球的气打得太足，一～老高。<sup>\[东台\]</sup> ④ 弹<sup>\[兴化\]</sup>：皮球掉下地，一～多高。<sup>\[兴化\]</sup> ⑤ 跳<sup>\[兴化\]</sup>：小河小沟他一～就过去啊。<sup>\[兴化\]</sup> ⑥ 溅<sup>\[兴化\]</sup>：～啊一身的水。<sup>\[兴化\]</sup> ⑦ 向上弹起<sup>\[泰兴\]</sup>：皮球～得高<sup>\[泰兴\]</sup>  
 1. 【[䌟辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_pin_zz.md#䌟辫子)】`boh7 pin6 zz` <small>/pɔʔ7 pʰĩ1 t͡sɿ/<sup>如皋</sup></small> 打辫子。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[伯伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_boh.md#伯伯)】`boh7 boh7` <sup>[如东]</sup> 伯父。父亲的哥哥。  
 1. 【[伯母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_mu.md#伯母)】`boh7 mu3` <sup>[泰州]</sup> 尊称同学、朋友之母，包括比自己母亲年纪小的。  
@@ -1555,6 +1555,7 @@
 1. 【[䙀定吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tien_nga.md#䙀定吖)】`bon3 tien6 nga` <sup>[如皋]</sup> 见“䙀的”。  
 1. 【[䙀定吖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_tien_nga_zu.md#䙀定吖做)】`bon3 tien6 nga zu5` <sup>[如皋]</sup> 见“䙀住咖做”。  
 1. 【[䙀胀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_zhan.md#䙀胀)】`bon3 zhan5` <sup>[如皋]</sup> 一定发胀。  
+1. 【[塴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#塴)】`bon5` <small>/pɔŋ5/<sup>泰兴</sup></small> 旁边；旁侧<sup>\[泰兴\]</sup>：东～个、西～个、门～下<sup>\[泰兴\]</sup>  
 1. 【[蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#蹦)】`bon5` <sup>[如东]</sup> 两脚并拢，向前跳：这条河不宽，我俫～过去。  
 1. 【[蹦瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gua.md#蹦瓜)】`bon5 gua1` <sup>[兴化]</sup> 香瓜。  
 1. 【[蹦白果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_poh_gu.md#蹦白果)】`bon5 poh8 gu3` <sup>[泰州]</sup> 一种男性儿童游戏，双方以一截麦秆为统一标尺（麦秆具体长度根据双方事先约定，一般15厘米左右），双方通过划拳（石头、剪刀、布或者枪、老虎、人）来决定谁先蹦；先手甲方先将一只白果置于地上，乙方也将一只白果置于地上，两只白果间的距离由双方约定，甲方两脚内侧夹住白果，蹦向乙方白果，双方白果距离小于、等于麦秆长度为胜，对方白果就归己方；对方再置白果于地，甲方再蹦，直至双方白果距离大于麦秆长度之时，改由乙方两脚内侧夹住白果，蹦向甲方白果，规则同前。例如：你家小五子这几天在家门口蹦白果，已经输啊有几十个白果啊唻。  

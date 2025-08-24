@@ -2231,7 +2231,7 @@
 1. 【[圆成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_chen.md#圆成)】`iun2 chen` <sup>[兴化]</sup> 别人争执不下的时候前去调解、说和：做～。  
 1. 【[圆墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_den.md#圆墩)】`iun2 den1` <sup>[如东]</sup> ① 凑足规定数目：这笔账圆吖墩。 ② 恢复原来的模样：这吖才～。 ③ 问题解决了：这个问题圆吖墩。  
 1. 【[圆泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_faen.md#圆泛)】`iun2 faen` <small>/yũ2 fɛ̃/<sup>兴化</sup>, /yʊ̃2 fẽ/<sup>如皋</sup></small> ① 无棱角：花瓶的肩部～的。<sup>\[如皋\]</sup> ② 处事细致而周到，各方满意，不得罪人。<sup>\[如皋\]</sup> ③ 形容物体很圆。<sup>\[如东\]</sup>：这只木盆～。<sup>\[如东\]</sup> ④ 办事圆通。<sup>\[如东\]</sup>：他办事～。<sup>\[如东\]</sup> ⑤ 指叙事说理完整周密，没有破绽。<sup>\[东台\]</sup> ⑥ 面面俱到：他这个人说话、做事倒蛮～的。<sup>\[兴化\]</sup> ⑦ 使圆满：他旁的本事没得，一些没得影子的事能越说得～。也作“圆范”。<sup>\[兴化\]</sup>  
-1. 【[圆房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#圆房)】`iun2 fan2` ① 男女青年结婚。<sup>\[如东\]</sup> ② 特指童养媳与未婚夫开始过夫妻生活。<sup>\[东台\]</sup> ③ 新婚男女还是同房过夫妻生活。<sup>\[泰州\]</sup>  
+1. 【[圆房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#圆房)】`iun2 fan2` <small>/yʊ̃2 fɑŋ2/<sup>泰兴</sup></small> ① 男女青年结婚。<sup>\[如东\]</sup> ② 特指童养媳与未婚夫开始过夫妻生活。<sup>\[东台\]</sup> ③ 新婚男女还是同房过夫妻生活。<sup>\[泰州\]</sup> ④ 旧指养媳妇结婚为圆房。今通称结婚为圆房。<sup>\[泰兴\]</sup>  
 1. 【[圆坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fen.md#圆坟)】`iun2 fen2` <sup>[兴化]</sup> 人死后初葬的坟为长方体，第三年“春社”（立春后第五个戊日）前改成半圆体。  
 1. 【[圆粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fen.md#圆粉)】`iun2 fen3` <sup>[东台]</sup> 做圆子的糯米粉。也称“月粉”。  
 1. 【[圆滚滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_guen_guen.md#圆滚滚)】`iun2 guen3 guen3` <sup>[如东]</sup> ① 形容很圆很圆：这根木条～的。 ② 鼓鼓的样子：这头猪子吃得～的。  
@@ -2256,6 +2256,7 @@
 1. 【[圆盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_pun_zz.md#圆盘子)】`iun2 pun2 zz` <sup>[如皋]</sup> 交易双方互谅互让，达成交易。  
 1. 【[圆起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qi_lae.md#圆起来)】`iun2 qi3 lae2` <sup>[东台]</sup> 化解矛盾，重新和好。  
 1. 【[圆气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qi.md#圆气)】`iun2 qi5` <small>/yũ2 t͡ɕʰi5/<sup>兴化</sup>, /yʊ̃2 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 煮沸后锅盖四周冒气，表示已煮透。<sup>\[如皋\]</sup> ② 蒸煮食物时，锅盖或笼屉四周冒出蒸气，标志火候到：烧饭锅的时候，看见锅～饭就熟咖。｜“大凡蒸东西……圆了气，就好了……”（《西游记》七七）<sup>\[兴化\]</sup> ③ 蒸煮食品时，食品内外熟透以后，锅内蒸气沿着锅盖、笼屉与锅、笼之间的缝隙冲出锅外，形成一圈上冲的白色水汽，叫作圆气<sup>\[泰州\]</sup>：蒸的馒头还不曾～，要在蒸个盹儿。<sup>\[泰州\]</sup>  
+1. 【[圆圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qiun_r.md#圆圈<sub>儿</sub>)】`iun2 qiun1 r` <small>/yʊ̃2 t͡ɕʰyʊ˞1/<sup>泰兴</sup></small> 圆形的圈。<sup>\[泰兴\]</sup>  
 1. 【[圆生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shen_i.md#圆生意)】`iun2 shen1 i` <sup>[如皋]</sup> 见“圆盘子”。  
 1. 【[圆神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shen.md#圆神)】`iun2 shen2` <sup>[如皋]</sup> 恢复精神体力：他出咖大血的，没得个十天半月的不得～。  
 1. 【[圆藤拍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ten_poh_zz.md#圆藤拍子)】`iun2 ten2 poh7 zz` <sup>[如皋]</sup> 用圆藤编成的头部像“弗”字的供拍打絮棉等用的工具。  
@@ -2268,9 +2269,10 @@
 1. 【[圆味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vei.md#圆味)】`iun2 vei6` <small>/yʊ̃2 ʋei1/<sup>如皋</sup></small> ① 口味达到最佳水平<sup>\[如皋\]</sup>：少掉个生姜米儿就不得～。<sup>\[如皋\]</sup> ② 味道最佳。<sup>\[如东\]</sup>：陈大烧的菜真～<sup>\[如东\]</sup>  
 1. 【[圆账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zhan.md#圆账)】`iun2 zhan5` <sup>[如东]</sup> ① 收支平衡或相符。 ② 使账目平衡。  
 1. 【[圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zhuah.md#圆桌)】`iun2 zhuah7` <sup>[如东]</sup> 桌面呈圆形的桌子。  
+1. 【[圆桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zhuah.md#圆桌)】`iun2 zhuah7` <small>/yʊ̃2 t͡suɑʔ7/<sup>泰兴</sup></small> 圆形台面的桌子。亦称“圆台子”、“大圆桌”。<sup>\[泰兴\]</sup>  
 1. 【[圆桌角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zhuah_gah.md#圆桌角)】`iun2 zhuah7 gah7` <sup>[如东]</sup> 坐酒席时规定8人一桌，假如缺少一个人，就不能圆桌，好像桌子缺少一只角。此时加一个人，凑满一桌人，称此人为圆桌角：我今朝去是～的。  
 1. 【[圆转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zhun.md#圆转)】`iun2 zhun3` <sup>[兴化]</sup> 形容语言周密，没有漏洞或破绽：不管甚的话，经他一说就～吖。  
-1. 【[圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zz.md#圆子)】`iun2 zz` <small>/yũ2 t͡sɿ/<sup>兴化</sup>, /yʊ̃2 t͡sɿ/<sup>如皋</sup></small> ① 用糯米粉烫酵后搓成的球形食品，大小可若乒乓球，可若豌豆。有馅无馅都行，水煮（汤圆儿）、油炸（炒圆子、炸圆子）两可。<sup>\[如皋\]</sup> ② 普通食品。米粉搓成圆形，包含有馅、无馅两种，放在汤中煮熟。也称汤圆。<sup>\[如东\]</sup> ③ 即汤圆，由糯米粉（圆子粉）做成的食品。<sup>\[兴化\]</sup> ④ 食品名称，用糯米粉做成，球形。分包馅和实心两种。<sup>\[泰州\]</sup>  
+1. 【[圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zz.md#圆子)】`iun2 zz` <small>/yũ2 t͡sɿ/<sup>兴化</sup>, /yʊ̃2 t͡sɿ/<sup>如皋</sup>, /yʊ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 用糯米粉烫酵后搓成的球形食品，大小可若乒乓球，可若豌豆。有馅无馅都行，水煮（汤圆儿）、油炸（炒圆子、炸圆子）两可。<sup>\[如皋\]</sup> ② 普通食品。米粉搓成圆形，包含有馅、无馅两种，放在汤中煮熟。也称汤圆。<sup>\[如东\]</sup> ③ 即汤圆，由糯米粉（圆子粉）做成的食品。<sup>\[兴化\]</sup> ④ 食品名称，用糯米粉做成，球形。分包馅和实心两种。<sup>\[泰州\]</sup> ⑤ 汤圆。<sup>\[泰兴\]</sup>  
 1. 【[圆子担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zz_daen_zz.md#圆子担子)】`iun2 zz daen5 zz` <sup>[如皋]</sup> 沿途叫卖汤圆的担子。  
 1. 【[圆子糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zz_xih.md#圆子糏)】`iun2 zz xih7` <small>/yʊ̃2 t͡sɿ ɕiʔ7/<sup>如皋</sup></small> ① 见“糯米糏”。<sup>\[如皋\]</sup> ② 糯米粉。<sup>\[如皋\]</sup> ③ 趣指雪。<sup>\[如皋\]</sup>  
 1. 【[援盘绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_pun_shen.md#援盘绳)】`iun2 pun2 shen2` <sup>[如东]</sup> 牛车部件。一根粗绳，一头粗，一头细。牛车由高处向低处走动时，用它拴住车轮减缓速度保证安全。  

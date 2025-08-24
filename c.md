@@ -194,11 +194,12 @@
 1. 【[贼骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_gueh_teu.md#贼骨头)】`ceh8 gueh7 teu` <small>/t͡sʰəʔ8 kuəʔ7 tʰei/<sup>如皋</sup></small> ① 贼性不改之人 ② 詈语，指贼性难改。<sup>\[如皋\]</sup>  
 1. 【[贼佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_lo.md#贼佬)】`ceh8 lo3` <sup>[如皋]</sup> 贬指窃贼。  
 1. 【[贼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_ngaen.md#贼眼)】`ceh8 ngaen3` <sup>[如皋]</sup> 不轨而到处乱看的眼睛。  
+1. 【[贼坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_pei.md#贼坯)】`ceh8 pei1` <small>/t͡sʰəʔ8 pʰəɪ1/<sup>泰兴</sup></small> 骂人语。做贼的坯料。<sup>\[泰兴\]</sup>  
 1. 【[贼坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_pi.md#贼坯)】`ceh8 pi1` <sup>[如皋]</sup> 见“贼骨头”。  
 1. 【[贼头贼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_teu_ceh_no.md#贼头贼脑)】`ceh8 teu2 ceh8 no3` <sup>[东台]</sup> 形容一举一动，鬼鬼祟祟。  
 1. 【[贼相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_xian.md#贼相)】`ceh8 xian5` <small>/t͡sʰəʔ8 ɕiaŋ5/<sup>兴化</sup></small> ① 神情鬼祟的样子<sup>\[兴化\]</sup>：他见室内无人，露啊～……<sup>\[兴化\]</sup> ② 詈词，邪恶的样子<sup>\[泰州\]</sup>：这家伙一脸的～，一望就不像个好人。<sup>\[泰州\]</sup>  
 1. 【[贼心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_xien.md#贼心)】`ceh8 xien1` <sup>[如东]</sup> 心术不正。  
-1. 【[贼形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_xien.md#贼形)】`ceh8 xien2` <small>/t͡sʰəʔ8 ɕin2/<sup>兴化</sup></small> ① 神情鬼祟的样子。<sup>\[兴化\]</sup> ② 詈词，邪恶容貌<sup>\[泰州\]</sup>：你望你这个～样子噢。<sup>\[泰州\]</sup>  
+1. 【[贼形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_xien.md#贼形)】`ceh8 xien2` <small>/t͡sʰəʔ8 ɕin2/<sup>兴化</sup>, /t͡sʰəʔ8 ɕiŋ2/<sup>泰兴</sup></small> ① 神情鬼祟的样子。<sup>\[兴化\]</sup> ② 詈词，邪恶容貌<sup>\[泰州\]</sup>：你望你这个～样子噢。<sup>\[泰州\]</sup> ③ 骂人语。犹贼相；贼的样子。<sup>\[泰兴\]</sup>  
 1. 【[贼形样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_xien_ian_zz.md#贼形样子)】`ceh8 xien2 ian6 zz` <sup>[东台]</sup> 形象差，或者品行不端。  
 1. 【[贼智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_zhr.md#贼智)】`ceh8 zhr5` <small>/t͡sʰəʔ8 t͡sɿ5/<sup>兴化</sup>, /t͡sʰəʔ8 t͡sɿ5/<sup>如皋</sup></small> ① 贼子的智慧。<sup>\[如皋\]</sup> ② 盗贼偷窃的本领和应付追捕、审讯的伎俩<sup>\[兴化\]</sup>：王立这厮且不是久惯做贼的，但是动了一点贼心，自然生出～。（《西湖二集》十三）<sup>\[兴化\]</sup>  
 1. 【[贼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ceh_zz.md#贼子)】`ceh8 zz` 小偷。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：～夜里进吖他家，偷啊不少东西走啊。<sup>\[泰州\]</sup>  

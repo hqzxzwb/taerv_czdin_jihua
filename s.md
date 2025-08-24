@@ -573,6 +573,7 @@
 1. 【[柴湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_vaen.md#柴湾)】`shae2 vaen1` <sup>[如皋]</sup> 镇名，在如皋城北13华里。原为通扬运河上的一个湾予，旧时经营芦柴，湾中多草排，故名。  
 1. 【[柴珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zhv_r.md#柴珠<sub>儿</sub>)】`shae2 zhv1 r` <sup>[如东]</sup> 刚刚出土的芦苇嫩芽。  
 1. 【[晒布架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_bv_ga_zz.md#晒布架子)】`shae5 bv5 ga5 zz` <sup>[如皋]</sup> 染坊晒布的高架子。  
+1. 【[晒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_chan.md#晒场)】`shae5 chan` <small>/ɕiɛ5 t͡sʰɑŋ/<sup>泰兴</sup></small> 晒谷物的场地。<sup>\[泰兴\]</sup>  
 1. 【[晒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_chan.md#晒场)】`shae5 chan2` <sup>[如东]</sup> 晾晒和堆放谷物的场地。  
 1. 【[晒伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_foh.md#晒伏)】`shae5 foh8` 在伏天太阳最烈的时候，将衣服、书籍、粮食等在阳光下暴晒。<sup>\[泰州\]</sup>  
 1. 【[晒虹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_gan.md#晒虹)】`shae5 gan5` <sup>[如皋]</sup> 出彩虹。  
@@ -588,6 +589,7 @@
 1. 【[晒粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_lian.md#晒粮)】`shae5 lian2` <sup>[如东]</sup> 将谷物放在太阳下曝晒，称晒粮。  
 1. 【[晒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ren.md#晒人)】`shae5 ren` <small>/sɛ5 ɻəŋ/<sup>如皋</sup></small> ① 见“太阳暴”。<sup>\[如皋\]</sup> ② 太阳光大，烤人。<sup>\[如东\]</sup>：天上没有云，～吖。<sup>\[如东\]</sup>  
 1. 【[晒人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ren_zz.md#晒人子)】`shae5 ren zz` <sup>[如皋]</sup> 人被阳光晒得难受。  
+1. 【[晒尸㫰骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_shr_lan_gueh.md#晒尸㫰骨)】`shae5 shr1 lan6 gueh7` <small>/ɕiɛ5 sɿ1 lɑŋ1 kuəʔ7/<sup>泰兴</sup></small> 骂人语。谓不着衣，暴露肉体。<sup>\[泰兴\]</sup>  
 1. 【[晒太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tae_ian.md#晒太阳)】`shae5 tae5 ian` <sup>[如东]</sup> 接受阳光曝晒。比喻互相把隐藏的丑话搬出来曝光。  
 1. 【[晒簟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_tin.md#晒簟)】`shae5 tin6` <sup>[如皋]</sup> 作晒具的巨型篾席，似凉席而大，长可数丈。旧时如皋西南乡多见。  
 1. 【[𩴇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#𩴇)】`shae5` <sup>[如皋]</sup> 人的灵魂。  
