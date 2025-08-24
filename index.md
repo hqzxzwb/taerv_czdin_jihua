@@ -611,6 +611,7 @@
 1. 【[䝹𧶲户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_den_hv_r.md#䝹𧶲户<sub>儿</sub>)】`u1 den hv6 r` <sup>[东台]</sup> un3 dun3 hv6 r的转音。平时不张扬，低调，但很殷实的人家：覅看这个企业小，其实是个～。  
 1. 【[倭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#倭子)】`u1 zz` <sup>[如皋]</sup> 旧称日本国为倭国。其海盗为～：西场镇有～坟。  
 1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <small>/ʊ1/<sup>如皋</sup></small> ① 说话缠夹不清<sup>\[如皋\]</sup>：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。<sup>\[如皋\]</sup> ② 舌头僵在口中，说话吐字不清的样子<sup>\[泰州\]</sup>：只听他嘴里～啊～的，不晓得他说的是甚的意思。<sup>\[泰州\]</sup>｜这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。<sup>\[泰州\]</sup>  
+1. 【[唩子搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz_daeh_maen.md#唩子搭蛮)】`u1 zz daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <small>/o1/<sup>兴化</sup></small> 排泄（大小便）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～屎；～尿。<sup>\[兴化\]</sup>  
 1. 【[屙啊一裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_ieh_kv.md#屙啊一裤子)】`u1 a ieh7 kv5 zz` <sup>[如皋]</sup> 状情况糟透了。  
 1. 【[屙㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba.md#屙㞎)】`u1 ba3` <sup>[东台]</sup> 解大便。多用于小孩。  
@@ -636,7 +637,6 @@
 1. 【[窝啊嘴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_jy_lii.md#窝啊嘴里)】`u1 a jy3 lii` <sup>[东台]</sup> 形容某人说话支支吾吾，含混不清。  
 1. 【[窝啊尾子靠啊墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_vei_zz.md#窝啊尾子靠啊墙)】`u1 a vei3 zz ko5 a qian2` <sup>[东台]</sup> 像一条温顺的狗一样躲到墙角。喻指夹着尾巴做人，不要张扬，免得自找麻烦。  
 1. 【[窝边秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_bin_xieu.md#窝边秀)】`u1 bin1 xieu5` <sup>[兴化]</sup> 腼腆，不善交际：“公关小姐难做。我是乡下人，～，很怕……”（马春阳《月朗和她的娘舅们》）也称“锅边秀”。  
-1. 【[窝巢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_cho.md#窝巢)】`u1 cho2` <sup>[兴化]</sup> ① 鸟兽楼息的地方：这是狗的～。 ② 坏人聚集隐匿或藏污纳垢的地方：大盗有几处～，镖局也是知道的。（《老残游记》七）｜他在城郊租间房子做～，和个坐台小姐同居。  
 [更多...](./u.md)
 ## V
 1. 【[捂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jy.md#捂嘴)】`v jy3` <sup>[如东]</sup> 用手把嘴遮住。  

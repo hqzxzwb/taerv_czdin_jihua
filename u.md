@@ -5,6 +5,7 @@
 1. 【[䝹𧶲户<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_den_hv_r.md#䝹𧶲户<sub>儿</sub>)】`u1 den hv6 r` <sup>[东台]</sup> un3 dun3 hv6 r的转音。平时不张扬，低调，但很殷实的人家：覅看这个企业小，其实是个～。  
 1. 【[倭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#倭子)】`u1 zz` <sup>[如皋]</sup> 旧称日本国为倭国。其海盗为～：西场镇有～坟。  
 1. 【[唩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#唩)】`u1` <small>/ʊ1/<sup>如皋</sup></small> ① 说话缠夹不清<sup>\[如皋\]</sup>：舌头打～、说话～七～八的、～里～咑的、～咑～咑的。<sup>\[如皋\]</sup> ② 舌头僵在口中，说话吐字不清的样子<sup>\[泰州\]</sup>：只听他嘴里～啊～的，不晓得他说的是甚的意思。<sup>\[泰州\]</sup>｜这小伙说话像舌头～啊嘴里，怕的是小时候惯吖狠吖。<sup>\[泰州\]</sup>  
+1. 【[唩子搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz_daeh_maen.md#唩子搭蛮)】`u1 zz daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[屙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#屙)】`u1` <small>/o1/<sup>兴化</sup></small> 排泄（大小便）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～屎；～尿。<sup>\[兴化\]</sup>  
 1. 【[屙啊一裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_a_ieh_kv.md#屙啊一裤子)】`u1 a ieh7 kv5 zz` <sup>[如皋]</sup> 状情况糟透了。  
 1. 【[屙㞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ba.md#屙㞎)】`u1 ba3` <sup>[东台]</sup> 解大便。多用于小孩。  
@@ -45,7 +46,6 @@
 1. 【[窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_r.md#窝<sub>儿</sub>)】`u1 r` 同“窝子”。<sup>\[泰州\]</sup>  
 1. 【[窝戏一台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_xi_ieh_tae.md#窝戏一台)】`u1 xi5 ieh7 tae2` <sup>[东台]</sup> ［喻］形容事情窝囊，不可收拾：他俫不曾签协议就强行拆迁，弄到临了是～。  
 1. 【[窝䇽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhih.md#窝䇽)】`u1 zhih7` <small>/o1 t͡siɪʔ7/<sup>兴化</sup>, /o1 t͡ɕiɪʔ7/<sup>泰县</sup></small> ① 用苇片编织的长条形的粗席，用于圈囤粮食等农产品。<sup>\[东台\]</sup> ② 狭长的芦席，不用时窝成一盘，使用时旋成圆筒形，用来堆放粮食。<sup>\[兴化\]</sup> ③ 囤粮用的䇽子。<sup>\[泰县\]</sup>  
-1. 【[窝吱搭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhr_daeh_maen.md#窝吱搭蛮)】`u1 zhr1 daeh7 maen2` <sup>[东台]</sup> 讲话不清楚，别人无法理解：他～的说咖好早晚，旁人还是一头雾水。  
 1. 【[窝主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zhv.md#窝主)】`u1 zhv3` <sup>[如东]</sup> 隐藏赃物的人：黄三儿是这些贼的～。  
 1. 【[窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#窝子)】`u1 zz` <small>/o1 t͡sɿ/<sup>兴化</sup>, /o1 t͡se/<sup>泰县</sup></small> ① 小型窝棚，如鸡窝子。比喻居住的地方。<sup>\[如东\]</sup>：我终于有了个～。<sup>\[如东\]</sup> ② 位子，工作岗位<sup>\[东台\]</sup>：大家要爱岗敬业，不要老想动～。<sup>\[东台\]</sup> ③ 固定的地点<sup>\[兴化\]</sup>：这许是他设摊的～，别人不好占。<sup>\[兴化\]</sup> ④ 位置<sup>\[泰县\]</sup>：他把你的～挤掉啊。<sup>\[泰县\]</sup> ⑤ 地盘，人或者物占的地方<sup>\[泰州\]</sup>：他天天早上就在这个～卖菜。<sup>\[泰州\]</sup>｜你把冰箱的～向南边来点儿，冰柜就好放唻。<sup>\[泰州\]</sup> ⑥ 位置，职位<sup>\[泰州\]</sup>：马上他俫老处长要退啊二线，要腾出要几个正科的～。<sup>\[泰州\]</sup>  
 1. 【[莴苣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_jy.md#莴苣)】`u1 jy` <small>/ɤɯ1 t͡ɕy/<sup>泰兴</sup></small> 莴苣<sup>\[泰兴\]</sup>  
@@ -59,6 +59,9 @@
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi tu2 feh8` <small>/ʊ1 mʝ tʰʊ2 fəʔ8/<sup>如皋</sup></small> ① 幸灾乐祸。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～，这种坏人，公家早就该把他捉起来！<sup>\[泰州\]</sup> ② 表示庆幸<sup>\[泰州\]</sup>：～，三小终于考上泰中唻，他家老子也有啊命唻！<sup>\[泰州\]</sup> ③ 谓人善良、与世无争<sup>\[泰州\]</sup>：你说的话我不相信，她是个～的人，怎吖可能做这些事！<sup>\[泰州\]</sup>  
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi2 tu2 feh8` <sup>[如东]</sup> ① 大乘佛教的教名。是“西方极乐世界”的教主，为净士宗主要信仰对象。也译作无量寿佛或无量光佛。后世所谓念佛，多指念阿弥陀佛名号。信佛的人口头诵念佛号，表示祈祷或感谢神灵的意思。 ② 比喻善良忠厚的人。泛指老好人：他是一个～。 ③ 表示兴灾乐祸：～！到底出咖事。  
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#□)】`u5` <small>/ɤɯ5/<sup>泰兴</sup></small> 说缠杂不清的话，难以沟通<sup>\[泰兴\]</sup>  
+1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#□子)】`u5 zz` <small>/ɤɯ5 t͡sɿ/<sup>泰兴</sup></small> 说话缠杂不清的人<sup>\[泰兴\]</sup>  
+1. 【[□子班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz_baen.md#□子班)】`u5 zz baen1` <small>/ɤɯ5 t͡sɿ pɛ̃1/<sup>泰兴</sup></small> 戏称幼儿园<sup>\[泰兴\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <small>/o5/<sup>兴化</sup></small> ① 污渍<sup>\[兴化\]</sup>：衣裳上有两片～斑，洗来洗去也洗不干净。<sup>\[兴化\]</sup> ② 被污损的东西<sup>\[兴化\]</sup>：～卷。<sup>\[兴化\]</sup> ③ 洇渗<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：墨水～开来啊。<sup>\[兴化\]</sup>｜毛笔上墨汁太多，把宣纸都弄吖～啊来。<sup>\[泰州\]</sup>｜他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。<sup>\[泰州\]</sup>  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
