@@ -1120,11 +1120,13 @@
 1. 【[笔杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun_zz.md#笔杆子)】`bieh7 gun3 zz` ① 笔的手握的部分。<sup>\[如东\]</sup> ② 比喻会写文章的人。<sup>\[如东\]</sup>：他是一根～。<sup>\[如东\]</sup> ③ 指笔。<sup>\[东台\]</sup> ④ 造舆论的工具。<sup>\[东台\]</sup> ⑤ 指善于写作的人。<sup>\[东台\]</sup>  
 1. 【[笔管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun_r.md#笔管<sub>儿</sub>)】`bieh7 gun3 r` <sup>[泰县]</sup> 谷子。  
 1. 【[笔脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_jiah.md#笔脚)】`bieh7 jiah7` <sup>[兴化]</sup> 字迹：这是老周的～，我看得出来。  
+1. 【[笔脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_jiah.md#笔脚)】`bieh7 jiah7` <small>/piʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 字迹；笔迹。<sup>\[泰兴\]</sup>  
 1. 【[笔尖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_jin_dii.md#笔尖的)】`bieh7 jin1 dii` <sup>[如皋]</sup> 很尖：铅笔削得～。  
 1. 【[笔据](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_jy.md#笔据)】`bieh7 jy5` <sup>[兴化]</sup> 书面凭证，如合同、收据、借据等：（时筱仁）便亦起身告辞，同到黄胖姑店里，把借银子的～写好。（《宫场现形记》二八）  
 1. 【[笔齐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qi_dii.md#笔齐的)】`bieh7 qi2 dii` <small>/piəʔ7 t͡ɕʰʝ2 tei/<sup>如皋</sup></small> ① 形容特别整齐。<sup>\[如皋\]</sup> ② 十分整齐，一斩齐。<sup>\[如皋\]</sup>  
 1. 【[笔袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_tae_r.md#笔袋<sub>儿</sub>)】`bieh7 tae6 r` <sup>[如皋]</sup> 装笔墨文具的布袋。  
 1. 【[笔头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_teu_r.md#笔头<sub>儿</sub>)】`bieh7 teu2 r` <sup>[东台]</sup> 同“笔杆子”“笔头子”。  
+1. 【[笔头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_teu_zz.md#笔头子)】`bieh7 teu2 zz` <small>/piʔ7 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 谓文化功底、写作能力等<sup>\[泰兴\]</sup>：他的～扎实gae<sup>\[泰兴\]</sup>  
 1. 【[笔头子来得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_teu_zz_lae.md#笔头子来得)】`bieh7 teu2 zz lae2 deh7` <sup>[东台]</sup> 很会写文章，而且写得勤快。  
 1. 【[笔挺的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_tien_dii.md#笔挺的)】`bieh7 tien3 dii` <sup>[东台]</sup> 形容服装平整，挺括：他身上的西装～。  
 1. 【[笔下超生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_xia_cho_shen.md#笔下超生)】`bieh7 xia6 cho1 shen1` <sup>[东台]</sup> 在书写判决书或给某人写结论文书时，尽可能地给予宽容或开脱。  

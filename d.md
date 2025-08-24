@@ -2101,6 +2101,7 @@
 1. 【[倒酱架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_jian_jia_zz.md#倒酱架子)】`do3 jian5 jia5 zz` <sup>[兴化]</sup> （借）指内部互相揭短：谚曰：宁倒酱缸，不～。  
 1. 【[倒篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_laen.md#倒篮)】`do3 laen2` <sup>[泰州]</sup> 将小贩盛货的篮子口向下底朝上，即买下篮子中的全部货物：你价钱再稍微便宜点儿，我就～全部买下来。  
 1. 【[倒霉瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mei_kuh_chon.md#倒霉瞌𥅻)】`do3 mei2 kuh7 chon5` <small>/tɔ3 məi2 kʰuʔ7 t͡sʰoŋ5/<sup>兴化</sup></small> ① 因运气、遭遇不好而垂头丧气，没精打采。<sup>\[东台\]</sup> ② 形容大不吉<sup>\[兴化\]</sup>：他～的出门遇到醉鬼，捱缠吖老半天。<sup>\[兴化\]</sup>  
+1. 【[倒霉失时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mei_sheh_shr.md#倒霉失时)】`do3 mei2 sheh7 shr2` <small>/tɔ3 məɪ2 səʔ7 sɿ2/<sup>泰兴</sup></small> 谓倒运后精神萎靡不振的样子。<sup>\[泰兴\]</sup>  
 1. 【[倒楣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mi.md#倒楣)】`do3 mi2` <sup>[如皋]</sup> 运气不好。  
 1. 【[倒楣瞌𥅻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mi_kuh_chon.md#倒楣瞌𥅻的)】`do3 mi2 kuh7 chon5 dii` <sup>[如皋]</sup> 非常倒楣的时期或样子。  
 1. 【[倒霉瞌𥅻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mi_kuh_chon.md#倒霉瞌𥅻)】`do3 mi2 kuh7 chon5` <sup>[泰州]</sup> 形容时运不济者没精打采的样子：他这些时～的，做甚的事情都不顺心。  
@@ -2159,6 +2160,7 @@
 1. 【[倒扳桨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_baen_jian.md#倒扳桨)】`do5 baen1 jian3` <sup>[兴化]</sup> ① 桨叶向前扳，使船转向或后退：……老渔人一个～，船离开江是，到了夹江的中流。（《火烧赤壁》八） ② （借）说反话。兴化民谣～中即是“某月某日刮大风，碌碡刮得团团转，纸糊灯笼刮不动”之类的反话。  
 1. 【[倒剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bah.md#倒剥)】`do5 bah7` <sup>[兴化]</sup> 耕田者骂牛的话，意为该宰杀、开剥：脚！～下来的！  
 1. 【[倒笔横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bieh_hon.md#倒笔横)】`do5 bieh7 hon2` <sup>[泰州]</sup> 即“倒笔顺”，写字时笔顺错误：这小伙写字～，说煞咖都没得用。  
+1. 【[倒笔老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bieh_lo_r.md#倒笔老<sub>儿</sub>)】`do5 bieh7 lo3 r` <small>/tɔ5 piʔ7 lɔ˞3/<sup>泰兴</sup></small> 谓不按规定的笔顺要求写字，颠倒笔画者。<sup>\[泰兴\]</sup>  
 1. 【[倒叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_cha.md#倒叉)】`do5 cha1` <sup>[如东]</sup> 采掘蛼螯的工具。一般四齿，齿长八寸，扁而宽，有柄。作业时，将倒叉掘沙，即可采到蛼螯、蛤子、蛤蜊等贝类。  
 1. 【[倒插门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_chaeh_men.md#倒插门)】`do5 chaeh7 men2` <sup>[兴化]</sup> 上门女婿。  
 1. 【[倒臭裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_cheu_kv_zz.md#倒臭裤子)】`do5 cheu5 kv5 zz` <sup>[东台]</sup> ［借］叙说自己对别人的功劳，埋怨对方没有知恩报恩。  
@@ -2186,7 +2188,9 @@
 1. 【[倒马桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ma_ton.md#倒马桶)】`do5 ma3 ton3` <sup>[泰州]</sup> 将马桶里粪便倒入厕所或者粪车。  
 1. 【[倒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_mo.md#倒毛)】`do5 mo2` <sup>[兴化]</sup> 禽类换毛羽：鸡子～，不好吃。  
 1. 【[倒眼毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ngaen_mo.md#倒眼毛)】`do5 ngaen3 mo2` <sup>[泰县]</sup> 后悔。  
+1. 【[倒眼毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_ngaen_mo.md#倒眼毛)】`do5 ngaen3 mo2` <small>/tɔ5 ŋɛ̃3 mɔ2/<sup>泰兴</sup></small> 倒运<sup>\[泰兴\]</sup>：他～的日子在后头唻<sup>\[泰兴\]</sup>  
 1. 【[倒拔蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_paeh_sha.md#倒拔蛇)】`do5 paeh8 sha2` <small>/tɔ5 pʰæʔ8 sa2/<sup>兴化</sup>, /tɔ5 pʰeʔ8 sa2/<sup>如皋</sup>, /tɔ5 pʰæʔ8 sa2/<sup>泰县</sup></small> ① 蛇钻进洞里，抓住尾巴往外拉，要花费很大的力气。比喻办事很吃劲，很难。<sup>\[如东\]</sup>：这吖做，是个～！<sup>\[如东\]</sup> ② 把进洞的蛇拖出来。比喻费力、艰难、一般办不到<sup>\[如皋\]</sup>：这个钱你已经付啊，想～要家来，恐怕办不到。<sup>\[如皋\]</sup> ③ ［喻］钱物已经在别人手中很难索回，就像蛇钻进洞里很难拖出来一样。<sup>\[东台\]</sup> ④ （喻）进去（给予）容易，出来（收回）难<sup>\[兴化\]</sup>：钱到他手想～不容易！<sup>\[兴化\]</sup> ⑤ 很为难，不容易<sup>\[泰县\]</sup>：这个事有点儿～。<sup>\[泰县\]</sup> ⑥ 蛇头蛇身钻入洞中，抓住蛇尾想拉回头。比喻自己的东西到了别人手中，要想索回很难<sup>\[泰州\]</sup>：当初你借把他容易得很，现在跟他～，难吖唻。<sup>\[泰州\]</sup>  
+1. 【[倒肉刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_roh_cz.md#倒肉刺)】`do5 roh cz5` <small>/tɔ5 ɻɔʔ t͡sʰɿ5/<sup>泰兴</sup></small> 皮肤上生的一种很小的肉刺。<sup>\[泰兴\]</sup>  
 1. 【[倒肉刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_roh_cz.md#倒肉刺)】`do5 roh8 cz5` <sup>[如皋]</sup> 指甲跟部翘起的表皮，碰之极疼。  
 1. 【[倒纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_sha.md#倒纱)】`do5 sha1` <sup>[如皋]</sup> 将绽子上的纱先行绕出再回绕过来。  
 1. 【[倒上市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_shan_shr.md#倒上市)】`do5 shan6 shr6` <sup>[如皋]</sup> ① 下市，罢市：春天还吃羊肉——～。 ② 晚熟作物上市、错过季节上市。  
@@ -2201,7 +2205,7 @@
 1. 【[倒踏门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_taeh_men.md#倒踏门)】`do5 taeh men2` <sup>[兴化]</sup> 赘婿的俗称。‖也称“倒插门”。  
 1. 【[倒踏门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_taeh_men.md#倒踏门)】`do5 taeh8 men2` <sup>[泰州]</sup> 反过来走进女方家庭，即“招女婿”：他家老三～做啊人家上门女婿。  
 1. 【[倒趟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_tan_zz.md#倒趟子)】`do5 tan5 zz` <sup>[如东]</sup> 庄稼生长后，在田间松土。  
-1. 【[倒贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_tih.md#倒贴)】`do5 tih7` <small>/tɔ5 tʰiɪʔ7/<sup>兴化</sup></small> ① 亏本，赔本。<sup>\[如东\]</sup>：这趟生意他是～的。<sup>\[如东\]</sup> ② 不仅没有收入反而要拿出钱财来应付支出。<sup>\[东台\]</sup> ③ 该得到的一方反而向该付出者提供财物<sup>\[兴化\]</sup>：有的姑娘、媳妇相与了一个男人，自然也跟他们要钱买花戴，但是有的不但不要他们的钱，反而把钱给他花，叫做～。（汪曾祺《大掉记事》）<sup>\[兴化\]</sup>｜谚曰：二姑娘～。<sup>\[兴化\]</sup> ④ 本应得到钱、物的人反过来拿出钱、物给别人<sup>\[泰州\]</sup>：这件衣裳卖把你，不曾赚到一分钱，我还要～几个税钱。<sup>\[泰州\]</sup>｜同他忙吖两天，不曾吃他一口水，～掉两包香烟。<sup>\[泰州\]</sup>  
+1. 【[倒贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_tih.md#倒贴)】`do5 tih7` <small>/tɔ5 tʰiɪʔ7/<sup>兴化</sup>, /tɔ5 tʰiʔ7/<sup>泰兴</sup></small> ① 亏本，赔本。<sup>\[如东\]</sup>：这趟生意他是～的。<sup>\[如东\]</sup> ② 不仅没有收入反而要拿出钱财来应付支出。<sup>\[东台\]</sup> ③ 该得到的一方反而向该付出者提供财物<sup>\[兴化\]</sup>：有的姑娘、媳妇相与了一个男人，自然也跟他们要钱买花戴，但是有的不但不要他们的钱，反而把钱给他花，叫做～。（汪曾祺《大掉记事》）<sup>\[兴化\]</sup>｜谚曰：二姑娘～。<sup>\[兴化\]</sup> ④ 本应得到钱、物的人反过来拿出钱、物给别人<sup>\[泰州\]</sup>：这件衣裳卖把你，不曾赚到一分钱，我还要～几个税钱。<sup>\[泰州\]</sup>｜同他忙吖两天，不曾吃他一口水，～掉两包香烟。<sup>\[泰州\]</sup> ⑤ 泛指该收的一方反向该付的一方提供财物或费用等。<sup>\[泰兴\]</sup>  
 1. 【[倒籰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vah_zz.md#倒籰子)】`do5 vah7 zz` <sup>[如皋]</sup> 将籰子上的丝先行绕出，再回绕过来。  
 1. 【[倒胃口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_vei_keu.md#倒胃口)】`do5 vei5 keu3` <sup>[泰州]</sup> ① 某种东西吃得太多而无食欲：他这些时天天吃鱼，望见鱼就～。 ② 对某事物失去兴趣：这种式样的衣裳，实在让人～，哪个欢喜哪个去穿。  
 1. 【[倒箱<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_xian_r_go.md#倒箱<sub>儿</sub>糕)】`do5 xian1 r go1` <sup>[如皋]</sup> 一种方形的小块米粉糕。蒸时，将米粉拌水揉成小颗粒，用罗筛筛进糕箱格子内，鞔上笼布，加上底板，倒过来，取开面板和格子，上笼蒸。因此得名。  

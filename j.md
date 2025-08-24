@@ -332,10 +332,12 @@
 1. 【[借火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu.md#借火)】`jia5 hu3` <sup>[如东]</sup> 向别人借火点燃东西：～点烟。  
 1. 【[借话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua.md#借话)】`jia5 hua6` <sup>[泰州]</sup> 借助别人说的话来表述本人意见：你就不要～说吤，有甚的想法你直接讲。  
 1. 【[借话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_shuh.md#借话说)】`jia5 hua6 shuh7` <sup>[兴化]</sup> 拿别的话说事儿：“我难道～不成……”（钱国怀《行路难》）  
+1. 【[借话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_shuh.md#借话说)】`jia5 hua6 shuh7` <small>/t͡ɕiɑ5 xuɑ1 sʊʔ7/<sup>泰兴</sup></small> 谓借用其它的话来搪塞，而不用真实的话。<sup>\[泰兴\]</sup>  
 1. 【[借黄豆种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_huan_teu_zhon.md#借黄豆种)】`jia5 huan2 teu6 zhon3` <sup>[泰州]</sup> 向人借黄豆种，比喻做讨人嫌的事情。坊间约定俗成，可以向人借黄豆，但是不能借黄豆种，不借给你，伤了和气，借给你，就有可能还不起或者不及时还，自己就会有不能即时播种的风险：这马马儿望见人就脸一沉，就像你是跟她～的。｜你没得必要同我这样子，我又不到你家～。  
 1. 【[借因头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ien_teu.md#借因头)】`jia5 ien1 teu2` <sup>[如东]</sup> 找借口：他～找麻烦。  
 1. 【[借引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ien.md#借引)】`jia5 ien3` <small>/t͡ɕia5 in3/<sup>兴化</sup>, /t͡ɕia5 iəŋ3/<sup>如皋</sup></small> ① 由此引发某种意外事件<sup>\[如皋\]</sup>：他这次风中是吃喜酒～的的。<sup>\[如皋\]</sup> ② 由某种疾病而引起死亡的结果<sup>\[兴化\]</sup>：去年冬天，钮老由痰上～，一病不起啊。<sup>\[兴化\]</sup>  
 1. 【[借借掇掇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia_duh_duh.md#借借掇掇)】`jia5 jia5 duh7 duh7` <sup>[兴化]</sup> 见“借掇”。  
+1. 【[借借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia_shr.md#借借势)】`jia5 jia5 shr5` <small>/t͡ɕiɑ5 t͡ɕiɑ5 sɿ5/<sup>泰兴</sup></small> 借助别人的优势。客套语。<sup>\[泰兴\]</sup>  
 1. 【[借钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qin.md#借钱)】`jia5 qin2` <sup>[如东]</sup> 借取不要支付利息的资金。  
 1. 【[借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#借势)】`jia5 shr` <sup>[泰州]</sup> ① （泰州词典作架势） ② 借助他人、他物支撑自己声势：请你局长过来吃酒是假的，教你过来～是真的。 ③ 泛指在人急需帮助时给予帮助：天落雨，好在小红的车子～，把我俫送家来的。  
 1. 【[借屎遁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr_den.md#借屎遁)】`jia5 shr3 den5` <small>/t͡ɕia5 sɿ3 tən5/<sup>兴化</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>如皋</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>泰县</sup></small> ① 借口去大便而逃避<sup>\[如皋\]</sup>：他～溜掉啊。<sup>\[如皋\]</sup> ② 以如厕为由头离开现场。此说法源于《封神演义》中土行孙“借土遁”的神话，日常谓“借x遁”是一种诙谐的说法。(原文作“驾”，《封神演义》实际作“借”)<sup>\[兴化\]</sup> ③ 以上厕所为名开小差<sup>\[泰县\]</sup>：他又～，逃避劳动。<sup>\[泰县\]</sup> ④ 以上厕所为借口逃离现场<sup>\[泰州\]</sup>：他是个尖屁股，每次一开会，他就～溜掉啊唻。<sup>\[泰州\]</sup>  
