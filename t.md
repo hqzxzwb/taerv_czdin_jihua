@@ -601,9 +601,8 @@
 1. 【[特客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_keh.md#特客)】`teh8 keh7` <sup>[如皋]</sup> ① 特别客人。 ② 讽刺话。  
 1. 【[特别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_pih.md#特别)】`teh8 pih8` <sup>[如东]</sup> 与众不同：这种式样非常～。  
 1. 【[特地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ti.md#特地)】`teh8 ti6` ① 专门。<sup>\[如东\]</sup>：他是～来寻你的。<sup>\[如东\]</sup> ② 特意，表示某动作行为专为某人某事而做<sup>\[泰州\]</sup>：他明朝就回美国，今朝～唻同你辞行。<sup>\[泰州\]</sup>  
-1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei` <small>/tʰəʔ8 ʋəɪ/<sup>泰兴</sup></small> 专门为了<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇是～你做的菜。<sup>\[泰兴\]</sup>  
 1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei2` <sup>[如东]</sup> 特地：他～来的。  
-1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei6` 专为，专门为了某人而做某事<sup>\[泰州\]</sup>：今朝子烧的脚鱼是～你的。<sup>\[泰州\]</sup>  
+1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei6` <small>/tʰəʔ8 ʋəɪ1/<sup>泰兴</sup></small> 专门为了，特地、特意<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：箇是～你做的菜。<sup>\[泰兴\]</sup>｜今朝子烧的脚鱼是～你的。<sup>\[泰州\]</sup>  
 1. 【[突乎其然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_hv_qi_rin.md#突乎其然)】`teh8 hv1 qi2 rin` <sup>[泰州]</sup> 突然：他说得行行的就～的召起来啊。  
 1. 【[吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#吞)】`ten1` ① 不加细嚼而咽下。<sup>\[如东\]</sup> ② 不嚼就咽下去<sup>\[东台\]</sup>：吃咖慢点儿，别狼～虎咽的。<sup>\[东台\]</sup>  
 1. 【[吞吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_qieh.md#吞吃)】`ten1 qieh7` <sup>[兴化]</sup> 把公共的或代管的财物据为已有：他把一笔账外资金～下去。  
@@ -1146,7 +1145,7 @@
 1. 【[铁钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ba.md#铁钯)】`tih7 ba1` <sup>[如皋]</sup> ① 从两边相夹以锔碗的铁皮钯。 ② 加固墙体的铁锔。 ③ 补缸用的铁锔。  
 1. 【[铁板上钉钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_baen_shan_dien.md#铁板上钉钉)】`tih7 baen3 shan6 dien5 dien1` <small>/tʰiʔ7 pẽ3 sã1 tiəŋ5 tiəŋ1/<sup>如皋</sup></small> ① 稳固、持久、不变。<sup>\[如皋\]</sup> ② ［喻］证据确凿，不容置疑。<sup>\[东台\]</sup>  
 1. 【[铁扁担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_bin_daen.md#铁扁担)】`tih7 bin3 daen5` <sup>[如东]</sup> 鸢尾科植物鸢尾，多年生草本。根茎匍匐多节，节间短，浅黄色。叶互生，2列，剑形。花青紫色，1-2朵排列成总状花序。蒴果长椭圆形。种子多数，圆形，黑色。生长在溪边湿地。  
-1. 【[铁叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_cha.md#铁叉)】`tih7 cha1` <small>/tʰiʔ7 t͡sʰa1/<sup>如皋</sup></small> ① 有两根铁齿呈象牙状，装长柄，叉草用。<sup>\[如皋\]</sup> ② 工具。铁制，一般两个齿，有柄，用来整理和叉举谷秸、毛草。<sup>\[如东\]</sup>  
+1. 【[铁叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_cha.md#铁叉)】`tih7 cha1` <small>/tʰiʔ7 t͡sʰa1/<sup>如皋</sup>, /tʰiʔ7 t͡sʰɑ/<sup>泰兴</sup></small> ① 有两根铁齿呈象牙状，装长柄，叉草用。<sup>\[如皋\]</sup> ② 工具。铁制，一般两个齿，有柄，用来整理和叉举谷秸、毛草。<sup>\[如东\]</sup> ③ 铁制的叉子。用于叉麦、叉草或叉晒衣物等。<sup>\[泰兴\]</sup>  
 1. 【[铁锤敲铜锣——响当当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_chuei_ko_ton.md#铁锤敲铜锣——响当当)】`tih7 chuei2 ko1 ton2 lu2 xian3 dan1 dan1` <sup>[东台]</sup>   
 1. 【[铁草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_co.md#铁草)】`tih7 co3` <sup>[如皋]</sup> 地名，属常青镇。  
 1. 【[铁刺稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_cz_gae.md#铁刺稭)】`tih7 cz5 gae1` <sup>[如皋]</sup> 大蓟。  
@@ -1162,6 +1161,7 @@
 1. 【[铁记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji_cae.md#铁记才)】`tih7 ji5 cae` <sup>[东台]</sup> 好记性：他是～，几十年前的事都记得清清楚楚。  
 1. 【[铁记才抵不上勤笔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji_cae_di.md#铁记才抵不上勤笔头)】`tih7 ji5 cae2 di3 beh7 shan6 qien2 bieh7 teu2` <sup>[东台]</sup> 不能过分倚赖记忆力，勤动笔更可靠。  
 1. 【[铁将军把门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jian_jyen_ba.md#铁将军把门)】`tih7 jian1 jyen1 ba3 men2` <sup>[东台]</sup> 指大门用铁锁紧锁着。  
+1. 【[铁将军把门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jian_jyen_ba.md#铁将军把门)】`tih7 jian1 jyen1 ba3 men2` <small>/tʰiʔ7 t͡ɕiɑŋ1 t͡ɕyəŋ1 pɑ3 məŋ2/<sup>泰兴</sup></small> 俗语。谓门外加锁，锁门。<sup>\[泰兴\]</sup>  
 1. 【[铁锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jioh.md#铁锔)】`tih7 jioh7` <sup>[如皋]</sup> 见“铁钯”。  
 1. 【[铁嘴铜舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jy_ton_shih.md#铁嘴铜舌)】`tih7 jy3 ton2 shih8` <sup>[泰州]</sup> 铁铸的嘴铜浇的舌，喻指人之能言善辩：他是出咖名的～，你俫说不过他。  
 1. 【[铁壳黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kah_huan.md#铁壳黄)】`tih7 kah7 huan2` <sup>[泰县]</sup> ① 肥壮的螃蟹。 ② 殷实富户。  
@@ -1192,6 +1192,7 @@
 1. 【[铁胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_v_fon.md#铁胡蜂)】`tih7 v2 fon1` <sup>[如皋]</sup> 蜾蠃。  
 1. 【[铁心朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xien_pon_ieu.md#铁心朋友)】`tih7 xien1 pon2 ieu3` <sup>[如皋]</sup> 倾心相交的朋友。  
 1. 【[铁锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xin.md#铁锨)】`tih7 xin1` <sup>[如东]</sup> 工具。铁制，长方形，偏平，有柄。用于挖泥土、铲物资。  
+1. 【[铁嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_zuei.md#铁嘴)】`tih7 zuei3` <small>/tʰiʔ7 t͡suəɪ3/<sup>泰兴</sup></small> 比喻能言善辩的人。<sup>\[泰兴\]</sup>  
 1. 【[胅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih.md#胅)】`tih8` <sup>[如皋]</sup> 挺出：肚子～咖前头、挺胸～肚。  
 1. 【[胅胅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih.md#胅胅)】`tih8 tih8` <sup>[泰县]</sup> 突出：她的肚子～的，恐怕要生小伢儿啦。  
 1. 【[胅胅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_tih_dii.md#胅胅的)】`tih8 tih8 dii` <sup>[泰州]</sup> 凸起的样子：他家三姑娘肚子～，怕的要养唻。｜你望你吃得肚子～，就不能少吃一碗吖。  

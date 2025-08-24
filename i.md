@@ -332,7 +332,7 @@
 1. 【[钥匙挂在胸口——开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_chr_gua_cae.md#钥匙挂在胸口——开心)】`iah8 chr gua5 cae6 xion1 keu3 kae1 xien1` <sup>[东台]</sup>   
 1. 【[央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#央)】`ian1` <small>/iɑŋ1/<sup>泰兴</sup></small> 请求，恳求。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：农忙季节～几个人家来帮忙。<sup>\[东台\]</sup>｜～个人来帮忙。<sup>\[泰兴\]</sup>  
 1. 【[秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#秧)】`ian1` <small>/iɑŋ1/<sup>泰兴</sup>, /iɑŋ1/<sup>泰县</sup></small> 庄稼幼苗，也指部分养殖动物的幼体<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[泰州：有时特指用于移栽的水稻苗\]：稻～。<sup>\[如东\]</sup>｜稻～<sup>\[东台\]</sup>｜鱼～。<sup>\[东台\]</sup>｜菜～儿。<sup>\[泰县\]</sup>｜下田莳～。<sup>\[泰州\]</sup>  
-1. 【[秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#秧)】`ian1` <small>/iaŋ1/<sup>兴化</sup>, /yɑŋ1/<sup>泰兴</sup>, /iɑŋ1/<sup>泰县</sup></small> 种植，栽种<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～树；～菜<sup>\[如东\]</sup>｜～芋头<sup>\[如东\]</sup>｜～吖几棵树<sup>\[东台\]</sup>｜他在下～菜。<sup>\[东台\]</sup>｜～瓜；～菜；～树。<sup>\[兴化\]</sup>｜～电线杆子；～柱子。<sup>\[兴化\]</sup>｜他今吖在家～菜。<sup>\[泰县\]</sup>  
+1. 【[秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#秧)】`ian1` <small>/iaŋ1/<sup>兴化</sup>, /yɑŋ1/<sup>泰兴</sup>, /iɑŋ1/<sup>泰县</sup></small> 种植，栽种<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～树；～菜<sup>\[如东\]</sup>｜～芋头<sup>\[如东\]</sup>｜～吖几棵树<sup>\[东台\]</sup>｜他在下～菜。<sup>\[东台\]</sup>｜～瓜；～菜；～树。<sup>\[兴化\]</sup>｜～电线杆子；～柱子。<sup>\[兴化\]</sup>｜他今吖在家～菜。<sup>\[泰县\]</sup>｜～树、～菜<sup>\[泰兴\]</sup>  
 1. 【[秧草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_co.md#秧草)】`ian1 co3` <sup>[如皋]</sup> ① 苜蓿。 ② 稗。 ③ 杂草。  
 1. 【[秧鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ji.md#秧鸡)】`ian1 ji1` ① 秧鸡科动物秧鸡，体长约30厘米。头小；嘴比较长，基部赤色，先端淡黑。颈长。上体羽毛暗灰褐色，带黑色斑纹。两翼表面大半灰色。下体褐色；肛周和尾下覆羽黑白相间，羽端白色。脚带赤褐色，前趾颇长，无趾蹼。栖息在沼泽、水草丛或秧田里。步行快速，不善髙飞。食蚯蚓、昆虫及植物幼叶。<sup>\[如东\]</sup> ② 鸟名，大小若鸡，颊部白色，长嘴短尾，生活在水田和沼泽，夏至以后整夜鸣叫，秋后即止，常见于水稻田，故名。<sup>\[泰州\]</sup>  
 1. 【[秧米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_mi.md#秧米)】`ian1 mi3` <sup>[如皋]</sup> 推广新稻种之前，指如皋东乡的大米，口感好。  
@@ -342,6 +342,7 @@
 1. 【[秧田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tin.md#秧田)】`ian1 tin2` <sup>[如东]</sup> 种植水稻的田，称秧田。  
 1. 【[秧驼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_tu_zz.md#秧驼子)】`ian1 tu2 zz` <sup>[如东]</sup> 挑秧苗的人。  
 1. 【[秧鵽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhuaeh.md#秧鵽)】`ian1 zhuaeh7` <sup>[兴化]</sup> 一种候鸟，形似小鸽，通常在育秧时节出现。  
+1. 【[秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz.md#秧子)】`ian1 zz` <small>/yɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 可移栽的植物幼苗。某些可以饲养的小动物。<sup>\[泰兴\]</sup>：菜～、鱼～<sup>\[泰兴\]</sup>  
 1. 【[佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#佯)】`ian2` <sup>[如东]</sup> 人在要死亡而尚未死亡时的迷糊状态，叫做佯：王二～吖在家里。  
 1. 【[佯咳嗽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_keh_seu.md#佯咳嗽)】`ian2 keh7 seu5` <sup>[如皋]</sup> 假装咳嗽，以示告知、警告、提醒：老爹醒睡，夜的里他家门口经过，停吖刻儿，他就～。  
 1. 【[佯心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xien.md#佯心)】`ian2 xien1` <sup>[东台]</sup> 装模作样给人看，自以为别人不懂。  
@@ -2235,10 +2236,12 @@
 1. 【[圆坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fen.md#圆坟)】`iun2 fen2` <sup>[兴化]</sup> 人死后初葬的坟为长方体，第三年“春社”（立春后第五个戊日）前改成半圆体。  
 1. 【[圆粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fen.md#圆粉)】`iun2 fen3` <sup>[东台]</sup> 做圆子的糯米粉。也称“月粉”。  
 1. 【[圆滚滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_guen_guen.md#圆滚滚)】`iun2 guen3 guen3` <sup>[如东]</sup> ① 形容很圆很圆：这根木条～的。 ② 鼓鼓的样子：这头猪子吃得～的。  
+1. 【[圆滚滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_guen_guen.md#圆滚滚)】`iun2 guen3 guen3` <small>/yʊ̃2 kuəŋ3 kuəŋ3/<sup>泰兴</sup></small> 滚圆的，很圆。<sup>\[泰兴\]</sup>  
 1. 【[圆滚滚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_guen_guen_dii.md#圆滚滚的)】`iun2 guen3 guen3 dii` <sup>[东台]</sup> 也作圆溜溜的。形容很圆很饱满：～肚子｜～西瓜。  
 1. 【[圆下子神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ha_zz_shen.md#圆下子神)】`iun2 ha zz shen2` <sup>[如皋]</sup> 恢复一下精力。  
 1. 【[圆滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_huaeh.md#圆滑)】`iun2 huaeh8` ① 周到和气。<sup>\[如东\]</sup>：这个问题处理得～。<sup>\[如东\]</sup> ② 狡猾。<sup>\[如东\]</sup>：他人～。<sup>\[如东\]</sup> ③ 不讲原则，敷衍讨好。<sup>\[东台\]</sup>  
 1. 【[圆谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_huan.md#圆谎)】`iun2 huan3` <sup>[东台]</sup> 帮助说谎者弥补谎话中的漏洞，使之更能哄骗人。  
+1. 【[圆谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_huan.md#圆谎)】`iun2 huan3` <small>/yʊ̃2 xuɑŋ3/<sup>泰兴</sup></small> 掩盖、弥补谎话中的漏洞。<sup>\[泰兴\]</sup>  
 1. 【[圆锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_jy.md#圆锯)】`iun2 jy5` <sup>[如东]</sup> 工具。锯条很窄、锯齿很细的锯子，用以加工圆形木料。  
 1. 【[圆口栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_keu_chaen.md#圆口栈)】`iun2 keu3 chaen6` <sup>[如东]</sup> 在帆船大栏下边的条板。  
 1. 【[圆笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_lah_r.md#圆笿<sub>儿</sub>)】`iun2 lah8 r` <sup>[如皋]</sup> 圆底圆口的小篮。  
@@ -2263,7 +2266,7 @@
 1. 【[圆体](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ti.md#圆体)】`iun2 ti3` <sup>[如皋]</sup> 身体复原。  
 1. 【[圆套圆/原套原](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_to_iun.md#圆套圆/原套原)】`iun2 to5 iun2` <small>/yũ2 tʰɔ5 yũ2/<sup>兴化</sup>, /yʊ̃2 tʰɔ5 yʊ̃2/<sup>泰兴</sup>, /yõ2 tʰɔ5 yõ2/<sup>泰县</sup></small> ① 还是老样子。<sup>\[东台\]</sup> ② 原样<sup>\[兴化\]</sup>：这件事忙吖几年还是～。<sup>\[兴化\]</sup>｜他老婆生吖个～（女孩）。<sup>\[兴化\]</sup> ③ 陈旧，没有进展。<sup>\[泰县\]</sup> ④ 老式样，没有变化。<sup>\[如东\]</sup>：还是～。<sup>\[如东\]</sup> ⑤ 恢复到原来状态，即没有发生变化<sup>\[泰州\]</sup>：李总来啊以后，不曾带一个人来，办公室、技术科都是原班人马，一切还是～。<sup>\[泰州\]</sup> ⑥ 还是原来的样子，一点也没有变。<sup>\[泰兴\]</sup>  
 1. 【[圆铜脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ton_lin_r.md#圆铜脸<sub>儿</sub>)】`iun2 ton2 lin3 r` <sup>[如皋]</sup> 圆或长圆脸铜，古铜镜，圆或卵圆形。  
-1. 【[圆弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vaen.md#圆弯)】`iun2 vaen1` <small>/yʊ̃2 ʋẽ1/<sup>如皋</sup></small> ① 调解劝说，求得谅解、使双方避免激烈冲突。<sup>\[如皋\]</sup> ② 规劝调解。<sup>\[如东\]</sup>：他俫骂架，是我去～的。<sup>\[如东\]</sup> ③ 灵活处置使之妥协退让，特指双方争执不下时，由第三方出面调解、劝和<sup>\[泰州\]</sup>：不是你出面～，两家到现在都不会往来。<sup>\[泰州\]</sup>  
+1. 【[圆弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vaen.md#圆弯)】`iun2 vaen1` <small>/yʊ̃2 ʋẽ1/<sup>如皋</sup>, /yʊ̃2 ʋɛ̃1/<sup>泰兴</sup></small> ① 调解劝说，求得谅解、使双方避免激烈冲突。<sup>\[如皋\]</sup> ② 规劝调解。<sup>\[如东\]</sup>：他俫骂架，是我去～的。<sup>\[如东\]</sup> ③ 灵活处置使之妥协退让，特指双方争执不下时，由第三方出面调解、劝和<sup>\[泰州\]</sup>：不是你出面～，两家到现在都不会往来。<sup>\[泰州\]</sup> ④ 调和，劝解。<sup>\[泰兴\]</sup>  
 1. 【[圆弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vaen_zz.md#圆弯子)】`iun2 vaen1 zz` <small>/yũ2 uɛ̃1 t͡sɿ/<sup>兴化</sup></small> ① 调解，劝和。<sup>\[兴化\]</sup> ② 调解、劝和：他俫为工钱争吵，老王忙～。也作“拉弯子”。<sup>\[兴化\]</sup>  
 1. 【[圆挽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vaen.md#圆挽)】`iun2 vaen3` <sup>[泰县]</sup> 调解，规劝。  
 1. 【[圆味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_vei.md#圆味)】`iun2 vei6` <small>/yʊ̃2 ʋei1/<sup>如皋</sup></small> ① 口味达到最佳水平<sup>\[如皋\]</sup>：少掉个生姜米儿就不得～。<sup>\[如皋\]</sup> ② 味道最佳。<sup>\[如东\]</sup>：陈大烧的菜真～<sup>\[如东\]</sup>  

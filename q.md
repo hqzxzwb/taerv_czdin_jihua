@@ -1463,11 +1463,11 @@
 1. 【[钱板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_baen.md#钱板)】`qin2 baen3` <sup>[兴化]</sup> ① 旧时码放铜元的木板。 ② 今指码放金属辅币的塑料板。  
 1. 【[钱板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_baen_r.md#钱板<sub>儿</sub>)】`qin2 baen3 r` <sup>[如皋]</sup> 放硬币的工具板。  
 1. 【[钱钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cho.md#钱钞)】`qin2 cho5` <sup>[兴化]</sup> （引）钱财：只讲友情，不谈～。  
-1. 【[钱串子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_chun_zz.md#钱串子)】`qin2 chun5 zz` <small>/t͡ɕʰiɪ̃2 t͡sʰũ5 t͡sɿ/<sup>兴化</sup></small> ① 与“钱锥子”近义。<sup>\[东台\]</sup> ② 一种细草绳<sup>\[兴化\]</sup>：蓑衣草两股，绞成细绳，过去是穿制钱用的，所以叫做～。（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup> ③ 细草绳名，一种用蓑衣草搓成的直径约2毫米的两股细草绳，比稻草绳更精致结实，多用来穿成串的铜钱。<sup>\[泰州\]</sup> ④ 比喻想方设法捞钱的人<sup>\[泰州\]</sup>：你家这位处长是个～，甚的钱都敢收。<sup>\[泰州\]</sup>  
+1. 【[钱串子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_chun_zz.md#钱串子)】`qin2 chun5 zz` <small>/t͡ɕʰiɪ̃2 t͡sʰũ5 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰĩ2 t͡sʰʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 与“钱锥子”近义。<sup>\[东台\]</sup> ② 一种细草绳<sup>\[兴化\]</sup>：蓑衣草两股，绞成细绳，过去是穿制钱用的，所以叫做～。（汪曾祺《岁寒三友》）<sup>\[兴化\]</sup> ③ 细草绳名，一种用蓑衣草搓成的直径约2毫米的两股细草绳，比稻草绳更精致结实，多用来穿成串的铜钱。<sup>\[泰州\]</sup> ④ 比喻想方设法捞钱的人<sup>\[泰州\]</sup>：你家这位处长是个～，甚的钱都敢收。<sup>\[泰州\]</sup> ⑤ 指蛇<sup>\[泰兴\]</sup>  
 1. 【[钱（箝）耳头打巴掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_er_teu_da.md#钱（箝）耳头打巴掌)】`qin2 er3 teu da3 ba1 zhan` <sup>[如皋]</sup> 对要钱者否定性的回语。  
 1. 【[钱疯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_fon_zz.md#钱疯子)】`qin2 fon1 zz` <small>/t͡ɕʰiɪ̃2 foŋ1 t͡sɿ/<sup>兴化</sup></small> ① ［喻］寻钱欲望太强，并以疯狂手段贪财好利的人。<sup>\[东台\]</sup> ② 因想发财而产生心理变态<sup>\[兴化\]</sup>：她是个～，成天想中大奖。<sup>\[兴化\]</sup>  
 1. 【[钱鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_guei_zz.md#钱鬼子)】`qin2 guei3 zz` <sup>[如皋]</sup> 贬指开钱庄的人。  
-1. 【[钱柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei.md#钱柜)】`qin2 kuei6` <small>/t͡ɕʰiɪ̃2 kʰuəi6/<sup>兴化</sup></small> ① 旧时一种四脚的矮柜，可作坐凳，兼放银元、铜板。<sup>\[兴化\]</sup> ② 旧时一种用于存放钱币的长方形矮柜，柜面上有小口，用来投入钱币，平时可做凳坐。<sup>\[泰州\]</sup>  
+1. 【[钱柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei.md#钱柜)】`qin2 kuei6` <small>/t͡ɕʰiɪ̃2 kʰuəi6/<sup>兴化</sup>, /t͡ɕʰĩ2 kʰuəɪ/<sup>泰兴</sup></small> ① 旧时一种四脚的矮柜，可作坐凳，兼放银元、铜板。<sup>\[兴化\]</sup> ② 旧时一种用于存放钱币的长方形矮柜，柜面上有小口，用来投入钱币，平时可做凳坐。<sup>\[泰州\]</sup> ③ 昔时家具之一，多置于房间橱柜前，用于装较贵重的物品。<sup>\[泰兴\]</sup>  
 1. 【[钱柜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_kuei_r.md#钱柜<sub>儿</sub>)】`qin2 kuei6 r` <sup>[如皋]</sup> 店家放钱兼坐的门向上的木柜。  
 1. 【[钱人<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_ren_r.md#钱人<sub>儿</sub>)】`qin2 ren2 r` <sup>[如东]</sup> 浑身都是钱。比喻钱很多：我又不是～，你老是问我要钱做甚的？  
 1. 【[钱是钱，货是货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_shr_qin_hu.md#钱是钱，货是货)】`qin2 shr6 qin2 hu5 shr6 hu5` <sup>[如皋]</sup> 价钱贵，货也好。  
@@ -1476,6 +1476,7 @@
 1. 【[钱蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xi_xi_r.md#钱蟢蟢<sub>儿</sub>)】`qin2 xi3 xi3 r` <sup>[东台]</sup> 戏称想赚钱会赚钱的人。  
 1. 【[钱吸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xieh_zz.md#钱吸子)】`qin2 xieh7 zz` <sup>[兴化]</sup> 形容人不择手段弄钱：他是有名的～，刮钱的手段一等。  
 1. 【[钱心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xien_chon.md#钱心重)】`qin2 xien1 chon6` <sup>[如皋]</sup> 什么都想得到钱。  
+1. 【[钱作跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zah_tio.md#钱作跳)】`qin2 zah7 tio5` <small>/t͡ɕʰĩ2 t͡sɑʔ7 tʰiɔ5/<sup>泰兴</sup></small> 指花钱。多用于不需要花钱而硬要耗费。<sup>\[泰兴\]</sup>  
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <small>/t͡ɕʰiɪ̃2 t͡suəi1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰĩ2 t͡suei1 t͡sɿ/<sup>如皋</sup></small> ① ［喻］指特别精明、会赚钱的人，或指工资收入高的人。<sup>\[东台\]</sup> ② 想方设法挣钱的人。<sup>\[如皋\]</sup> ③ 比喻非常善于钻营赚钱的人。<sup>\[如东\]</sup> ④ （喻）不顾一切拼命弄钱的人<sup>\[兴化\]</sup>：他是个～，钱眼大一点儿一定能拱进去。<sup>\[兴化\]</sup>  
 1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[泰州]</sup> 设法钻营弄钱的人：老李是个～，哪行来钱就弄哪行。  
 1. 【[钳工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gon.md#钳工)】`qin2 gon1` <sup>[如东]</sup> 工种的一种。以从事钳工为职业的工人。  

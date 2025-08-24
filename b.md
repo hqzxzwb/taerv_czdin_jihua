@@ -1592,7 +1592,7 @@
 1. 【[百页卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_ih_jiun_r.md#百页卷<sub>儿</sub>)】`buh7 ih jiun3 r` <small>/pʊʔ7 iʔ t͡ɕyʊ˞3/<sup>如皋</sup></small> ① 百页打成的结作衬菜<sup>\[如皋\]</sup>：～烧肉。<sup>\[如皋\]</sup> ② 以百页为原料制作的卷。<sup>\[泰州\]</sup>  
 1. 【[百日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_rih_zz.md#百日子)】`buh7 rih zz` <sup>[如皋]</sup> 疟疾。  
 1. 【[钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_r.md#钵<sub>儿</sub>)】`buh7 r` <sup>[如东]</sup> 容器。陶制，比较精致。圆柱形，似桶，敞口，无盖。用以盛水、菜、物等。  
-1. 【[钵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_zz.md#钵子)】`buh7 zz` <small>/puʔ7 t͡sɿ/<sup>兴化</sup></small> ① 陶瓷容器，用来盛饭菜，煎药，蒸饭等。<sup>\[东台\]</sup> ② 陶瓷或搪瓷器皿，形状像盆而较小<sup>\[兴化\]</sup>：饭～；洋瓷～；侉～（一种质地粗糙的钵子）。<sup>\[兴化\]</sup>  
+1. 【[钵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_zz.md#钵子)】`buh7 zz` <small>/puʔ7 t͡sɿ/<sup>兴化</sup>, /pʊʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 陶瓷容器，用来盛饭菜，煎药，蒸饭等。<sup>\[东台\]</sup> ② 陶瓷或搪瓷器皿，形状像盆而较小<sup>\[兴化\]</sup>：饭～；洋瓷～；侉～（一种质地粗糙的钵子）。<sup>\[兴化\]</sup> ③ 钵头。盛器<sup>\[泰兴\]</sup>：火～<sup>\[泰兴\]</sup>｜二号～<sup>\[泰兴\]</sup>  
 1. 【[搬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun.md#搬)】`bun1` <sup>[兴化]</sup> （借）节日前互赠礼品：今年过年我俫不～，免得大家费事。  
 1. 【[搬不上台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_beh_shan_tae.md#搬不上台面)】`bun1 beh7 shan6 tae2 min6` <sup>[如皋]</sup> 见“不上台盘”。  
 1. 【[搬不上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_beh_shan_tae.md#搬不上台盘)】`bun1 beh7 shan6 tae2 pun2` <sup>[如皋]</sup> 见“不上台面”。  

@@ -2194,10 +2194,12 @@
 1. 【[钻牛角梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ngeu_gah_sho.md#钻牛角梢)】`zun1 ngeu2 gah7 sho1` <sup>[泰州]</sup> 钻进牛角末端，喻指人之思维方法偏执、违背客观规律：这小伙竟然～去研究甚的永动机。  
 1. 【[钻腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_sae.md#钻腮)】`zun1 sae1` <small>/t͡sũ1 sɛ1/<sup>兴化</sup>, /t͡sʊ̃1 sɛ1/<sup>如皋</sup></small> ① 状食物租，有杂质，吃时易钻入腮帮中。<sup>\[如皋\]</sup> ② 状食物异味，刺激腮部。<sup>\[如皋\]</sup> ③ 食物粗糙，有杂质，吞食时，腮帮受刺激。<sup>\[如东\]</sup> ④ 食物粗糙多杂质，咀嚼时易钻入牙缝和腮帮中：鲤鱼子～。<sup>\[兴化\]</sup>  
 1. 【[钻山打洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_shaen_da_ton.md#钻山打洞)】`zun1 shaen1 da3 ton6` <small>/t͡sʊ̃1 sẽ1 ta3 tʰɔŋ1/<sup>如皋</sup></small> 想尽办法（打探消息、寻找出路等等）<sup>\[如皋\]</sup>\[东台：也作“钻心挖窟”。\]  
+1. 【[钻洞打眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_ton_da_ngaen.md#钻洞打眼)】`zun1 ton6 da3 ngaen3` <small>/t͡sʊ̃1 tʰɔŋ1 tɑ3 ŋɛ̃3/<sup>泰兴</sup></small> 比喻千方百计地投机钻营。<sup>\[泰兴\]</sup>  
 1. 【[钻心虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_xien_chon.md#钻心虫)】`zun1 xien1 chon2` <sup>[如皋]</sup> 甘蔗螟、玉米螟幼虫的统称，也叫蛀心虫。  
 1. 【[钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun.md#钻)】`zun5` <sup>[如东]</sup> 工具。分钻头、钻身两部分。钻头铁制，尖锐。钻身可以旋转，有的以人工为动力，有的以机械为动力。主要用以打眼。  
 1. 【[钻床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_chuan.md#钻床)】`zun5 chuan2` <sup>[如东]</sup> 在金属或其他材料的零件上加工圆孔的机床。工件不动，刀具一面旋转，一面推进。常用的有立式钻床旋臂钻床等。  
 1. 【[钻工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_gon.md#钻工)】`zun5 gon1` <sup>[如东]</sup> 工种的一种。以操纵钻床为职业的工人。  
+1. 【[钻头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zun_teu_zz.md#钻头子)】`zun5 teu2 zz` <small>/t͡sʊ̃5 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 比喻寻事生非的人。<sup>\[泰兴\]</sup>  
 1. 【[租得来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_deh_lae_dii.md#租得来的)】`zv1 deh lae2 dii` <sup>[东台]</sup> 嘲笑别人老穿同一件衣服，天气热了也不脱，就像交了租金，不穿白不穿似的。  
 1. 【[租金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_jien.md#租金)】`zv1 jien1` <sup>[如东]</sup> 出租物品的价钱。  
 1. 【[祖传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zv_chun.md#祖传)】`zv3 chun2` <small>/t͡su3 t͡sʰʊ̃2/<sup>泰兴</sup></small> 祖宗所传留的东西。有时指人的秉性。<sup>\[泰兴\]</sup>  

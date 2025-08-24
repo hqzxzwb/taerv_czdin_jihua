@@ -1231,6 +1231,7 @@
 1. 【[邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sha_ga.md#邻舍家)】`lien2 sha5 ga` <sup>[泰县]</sup> 邻居。  
 1. 【[邻舍好，赛金宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sha_ho_sae.md#邻舍好，赛金宝)】`lien2 sha5 ho3 sae5 jien1 bo3` <sup>[如皋]</sup> 邻居相处好能互相照顾，互相帮助。这是金宝比不了的。  
 1. 【[铃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_r.md#铃<sub>儿</sub>)】`lien2 r` 铃铛，铃  
+1. 【[铃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#铃子)】`lien2 zz` <small>/liŋ2 t͡sɿ/<sup>泰兴</sup></small> 铃铛。<sup>\[泰兴\]</sup>  
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_suei_ko.md#零打碎敲)】`lien2 da3 suei5 ko1` <sup>[如东]</sup> 一点儿一点儿的：这批货不要～的卖。  
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien2 da3 xy5 ko1` <sup>[东台]</sup> ［喻］指以零零碎碎、断断续续的方式进行或处理。  
 1. 【[零答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_daeh.md#零答)】`lien2 daeh7` <sup>[如东]</sup> 说话啰唆：这个人的嘴～咖交关。  

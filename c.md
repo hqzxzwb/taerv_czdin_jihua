@@ -920,7 +920,9 @@
 1. 【[秤刀口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_do_keu.md#秤刀口)】`chen5 do1 keu3` <sup>[如东]</sup> 杆秤的支点。  
 1. 【[秤二毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_er_ho.md#秤二毫)】`chen5 er6 ho2` <sup>[如东]</sup> 杆秤上第二根提纽。通常看怀花。  
 1. 【[秤钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#秤钩子)】`chen5 geu1 zz` <sup>[如东]</sup> 连在秤刀上用以钩住物体秤重量的钩子。  
+1. 【[秤钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#秤钩子)】`chen5 geu1 zz` <small>/t͡sʰəŋ5 kəɪ1 t͡sɿ/<sup>泰兴</sup></small> 秤的一端所安装的金属弯钩，用以钩挂所称的物体。<sup>\[泰兴\]</sup>  
 1. 【[秤杆梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_lian.md#秤杆梁)】`chen5 gun3 lian2` <sup>[如东]</sup> 房屋上的一架梁。一根木头连接前后边檐，这架梁称秤杆梁。  
+1. 【[秤杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_zz.md#秤杆子)】`chen5 gun3 zz` <small>/t͡sʰəŋ5 kʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 杆秤的木杆，上面镶有金属的计量秤星。<sup>\[泰兴\]</sup>  
 1. 【[秤杆子插到鸡窠里——尽捣蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gun_zz_chaeh.md#秤杆子插到鸡窠里——尽捣蛋)】`chen5 gun3 zz chaeh7 do5 ji1 ku1 lii jien3 do3 taen6` <sup>[东台]</sup>   
 1. 【[秤毫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ho_r.md#秤毫<sub>儿</sub>)】`chen5 ho2 r` <sup>[如皋]</sup> 秤毫。  
 1. 【[秤毫提](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ho_ti.md#秤毫提)】`chen5 ho2 ti2` <sup>[如东]</sup> 杆秤的提纽。  
@@ -931,6 +933,7 @@
 1. 【[秤面花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_min_hua.md#秤面花)】`chen5 min6 hua1` <sup>[如东]</sup> 杆秤向上一面的星。  
 1. 【[秤纽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_nieu.md#秤纽)】`chen5 nieu3` <sup>[如东]</sup> 秤杆上的纽绳。也称提纽、毫提。有头纽和二纽。头纽看面花，二纽看怀花。  
 1. 【[秤平斗满](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pien_deu_mun.md#秤平斗满)】`chen5 pien2 deu3 mun3` <sup>[如皋]</sup> 状公平准确。  
+1. 【[秤盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_pun_zz.md#秤盘子)】`chen5 pun2 zz` <small>/t͡sʰəŋ5 pʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> 也称戥盘。系绳的金属盆，用以装所称之物。<sup>\[泰兴\]</sup>  
 1. 【[秤起花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qi_hua.md#秤起花)】`chen5 qi3 hua1` <sup>[如东]</sup> 杆秤起点的星。重量为0。也称定盘星。  
 1. 【[秤轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qien.md#秤轻)】`chen5 qien1` <sup>[如皋]</sup> 某杆秤的称量用标准秤校核则略少。  
 1. 【[秤受捥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu_veh.md#秤受捥)】`chen5 sheu6 veh7` <sup>[如皋]</sup> 某杆秤的灵敏度极低。随便变动平度而无反应，已失去作用。  
