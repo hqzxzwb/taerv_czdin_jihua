@@ -515,6 +515,7 @@
 1. 【[㩭蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_maen.md#㩭蛮)】`ko6 maen2` <small>/kʰɔ1 mẽ2/<sup>如皋</sup></small> ① 商借者的自谦用语<sup>\[如皋\]</sup>：同你～，借个梯子。<sup>\[如皋\]</sup> ② 蛮不讲理地纠缠<sup>\[东台\]</sup>：要耐心接待，不要轻易说上访群众～。<sup>\[东台\]</sup>  
 1. 【[㩭七㩭八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_qieh_ko_baeh.md#㩭七㩭八的)】`ko6 qieh7 ko6 baeh7 dii` <sup>[如皋]</sup> 纠缠在一起乱七八糟的样子。  
 1. 【[哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh.md#哭)】`koh7` <sup>[如东]</sup> 因痛苦悲哀或感情激动而流泪，有时还发出声音。  
+1. 【[哭宝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_zz.md#哭宝子)】`koh7 bo zz` <small>/kʰɔʔ7 pɔ t͡sɿ/<sup>泰兴</sup></small> 爱哭的孩子<sup>\[泰兴\]</sup>  
 1. 【[哭宝精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_jien.md#哭宝精)】`koh7 bo3 jien1` <sup>[泰州]</sup> 戏称特别爱哭的小孩。  
 1. 【[哭宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r.md#哭宝<sub>儿</sub>)】`koh7 bo3 r` <small>/kʰɔʔ7 pɔ˞3/<sup>如皋</sup>, /kʰɔʔ7 pɔ˞3/<sup>泰兴</sup></small> ① 爱哭的小孩。 ② 爱哭伢儿的谑称。<sup>\[如皋\]</sup> ③ 爱哭的小孩。<sup>\[东台\]</sup> ④ 亦作“哭宝子”“哭包”，戏称爱哭的小孩，或泛指爱哭的人<sup>\[泰州\]</sup>：这个～一碰就哭，真没得意思。<sup>\[泰州\]</sup>｜她这吖大岁数的人，还像个～，又不为个甚的事，一哭就哭半天，把大家都弄吖怕啊她。<sup>\[泰州\]</sup> ⑤ 戏称爱哭的宝宝。<sup>\[泰兴\]</sup>  
 1. 【[哭宝<sub>儿</sub>秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/koh_bo_r_chen.md#哭宝<sub>儿</sub>秤)】`koh7 bo3 r chen5` <small>/kʰɔʔ7 pɔ˞3 t͡sʰəŋ5/<sup>如皋</sup></small> ① 秤袒。<sup>\[如皋\]</sup> ② 见“袒”。<sup>\[如皋\]</sup> ③ 秤量不足，如哭宝儿的眼毛耷拉着。<sup>\[如皋\]</sup>  
