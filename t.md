@@ -601,8 +601,7 @@
 1. 【[特客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_keh.md#特客)】`teh8 keh7` <sup>[如皋]</sup> ① 特别客人。 ② 讽刺话。  
 1. 【[特别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_pih.md#特别)】`teh8 pih8` <sup>[如东]</sup> 与众不同：这种式样非常～。  
 1. 【[特地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ti.md#特地)】`teh8 ti6` ① 专门。<sup>\[如东\]</sup>：他是～来寻你的。<sup>\[如东\]</sup> ② 特意，表示某动作行为专为某人某事而做<sup>\[泰州\]</sup>：他明朝就回美国，今朝～唻同你辞行。<sup>\[泰州\]</sup>  
-1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei2` <sup>[如东]</sup> 特地：他～来的。  
-1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei6` <small>/tʰəʔ8 ʋəɪ1/<sup>泰兴</sup></small> 专门为了，特地、特意<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：箇是～你做的菜。<sup>\[泰兴\]</sup>｜今朝子烧的脚鱼是～你的。<sup>\[泰州\]</sup>  
+1. 【[特为](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_vei.md#特为)】`teh8 vei6` <small>/tʰəʔ8 ʋəɪ1/<sup>泰兴</sup></small> 专门为了，特地、特意<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>\[如东：（如东方言词典注音tēwéi）\]：箇是～你做的菜。<sup>\[泰兴\]</sup>｜今朝子烧的脚鱼是～你的。<sup>\[泰州\]</sup>｜他～来的。<sup>\[如东\]</sup>  
 1. 【[突乎其然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_hv_qi_rin.md#突乎其然)】`teh8 hv1 qi2 rin` <sup>[泰州]</sup> 突然：他说得行行的就～的召起来啊。  
 1. 【[吞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten.md#吞)】`ten1` ① 不加细嚼而咽下。<sup>\[如东\]</sup> ② 不嚼就咽下去<sup>\[东台\]</sup>：吃咖慢点儿，别狼～虎咽的。<sup>\[东台\]</sup>  
 1. 【[吞吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_qieh.md#吞吃)】`ten1 qieh7` <sup>[兴化]</sup> 把公共的或代管的财物据为已有：他把一笔账外资金～下去。  
