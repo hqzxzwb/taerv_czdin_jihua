@@ -1301,6 +1301,7 @@
 1. 【[火烛小心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhoh_xio_xien.md#火烛小心)】`hu3 zhoh7 xio3 xien1` <sup>[如皋]</sup> 一首民歌，提醒注意防火。  
 1. 【[火种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhon.md#火种)】`hu3 zhon3` <sup>[如皋]</sup> 旧时取火难，民间常以耐燃物阴燃，留作火源，谓之～。如豆稭火中放一枚核桃，用灰盖紧，可阴燃12小时，保证随时取火。  
 1. 【[火纸筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_zhr_ton_zz.md#火纸筒子)】`hu3 zhr3 ton3 zz` <sup>[兴化]</sup> 用涂过硝的火纸（表芯纸）搓成的细卷（硭子），供引火或点水烟用：又一个是卖～的。这人姓王……（《儒林外史》五五）  
+1. 【[□窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ku.md#□窠)】`hu5 ku1` <small>/xɤɯ5 kʰɤɯ1/<sup>泰兴</sup></small> （圈养的牲畜）炸窝<sup>\[泰兴\]</sup>  
 1. 【[货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#货)】`hu5` <small>/xɤɯ5/<sup>泰兴</sup></small> ① 低价卖给别人 ② 货物；商品<sup>\[泰兴\]</sup>：进～<sup>\[泰兴\]</sup>｜出～<sup>\[泰兴\]</sup>  
 1. 【[货船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_chun.md#货船)】`hu5 chun2` <sup>[如东]</sup> 装载货物的运输船。  
 1. 【[货到地头死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_do_ti_teu.md#货到地头死)】`hu5 do5 ti6 teu2 sz3` <sup>[兴化]</sup> 商品的集散地左右价格水平：这个价码他不卖，运到上海，还是这个价，～呀！  
