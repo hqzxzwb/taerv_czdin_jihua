@@ -2,9 +2,11 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  
+1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/nɑ2/<sup>泰兴</sup></small> 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
 1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[泰州]</sup> ① 自感礼物过于轻微，不好意思拿出送人：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。 ② 泛指造诣、水平远不及人而不好意思显示于人：我写的这些文章是弄吖玩的，实在拿不出手！  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
 1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh7 chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
@@ -17,7 +19,7 @@
 1. 【[拿住咖丫头割卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_nga.md#拿住咖丫头割卵子)】`na2 chuh7 ga nga1 teu guh7 lun3 zz` <sup>[如皋]</sup> 比喻逼人去做不可能做到的事。  
 1. 【[拿住咖做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chuh_ga_zu.md#拿住咖做)】`na2 chuh7 ga zu5` <sup>[如皋]</sup> 要挟着做。  
 1. 【[拿住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_chv.md#拿住)】`na2 chv` <sup>[如东]</sup> ① 捉住：你要把他俫两个～。 ② 抓住：上楼你要～扶手。 ③ 比喻抓住问题：这个问题要～。  
-1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <small>/la2 ta6/<sup>兴化</sup>, /na2 ta1/<sup>如皋</sup></small> 摆资格、摆架子<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……他家的二小姐，着实爽快会待人的，倒不～……”（《红楼梦》六）<sup>\[兴化\]</sup>｜他虽然是局长，从来不～，老同学请到他都是随叫随到。<sup>\[泰州\]</sup>  
+1. 【[拿大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_da.md#拿大)】`na2 da6` <small>/la2 ta6/<sup>兴化</sup>, /na2 ta1/<sup>如皋</sup>, /nɑ2 tɑ1/<sup>泰兴</sup></small> 摆资格、摆架子<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“……他家的二小姐，着实爽快会待人的，倒不～……”（《红楼梦》六）<sup>\[兴化\]</sup>｜他虽然是局长，从来不～，老同学请到他都是随叫随到。<sup>\[泰州\]</sup>  
 1. 【[拿掸子摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_daen_zz_seh.md#拿掸子摵)】`na2 daen3 zz seh7` <sup>[东台]</sup> （贬）形容太多太滥。  
 1. 【[拿得稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_ven.md#拿得稳)】`na2 deh ven3` <sup>[兴化]</sup> 看得准，有把握：只要你开口，～老板会同意。｜王洪～武松要把脸掉过去看看孔雀呀。（《武松》六）  
 1. 【[拿得出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_chueh_sheu.md#拿得出手)】`na2 deh7 chueh7 sheu3` <sup>[如皋]</sup> 质量或数量够标准，能拿出来见人、给人、公布。  
@@ -79,6 +81,7 @@
 1. 【[拿腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tuei.md#拿腿)】`na2 tuei3` <sup>[兴化]</sup> 死亡的隐语：“对的，妖怪是个鱼精，被老猪一钉钯……拿了腿，打死了……”（扬一《通天河》）  
 1. 【[拿弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_vaen_qy_cheh.md#拿弯取直)】`na2 vaen1 qy3 cheh8` <sup>[兴化]</sup> ① 将弯曲的道路，河流理成直线，以缩短里程，便利通行。 ② 将木料上弯曲部分削去，使之平直。  
 1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <sup>[如皋]</sup> 判定：门响吖，我～是儿子家来的，原来是风。  
+1. 【[拿现的，博赊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_xin_dii_bah.md#拿现的，博赊的)】`na2 xin6 dii bah7 sha1 dii` <small>/nɑ2 ɕĩ1 təɪ pɑʔ7 sɑ1 təɪ/<sup>泰兴</sup></small> 谓拿现成的东西换成欠的东西。<sup>\[泰兴\]</sup>  
 1. 【[拿准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zhuen.md#拿准)】`na2 zhuen3` <sup>[如东]</sup> 把问题弄准确：这件事你要～。  
 1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <sup>[兴化]</sup> 抓总、全面负责：镇长外出学习，镇里的工作由副镇长～。也说“抓总”。  
 1. 【[拿捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zuen.md#拿捘)】`na2 zuen5` <sup>[如东]</sup> 绳索上捘之后，拉力就大了。比喻得力：他就是这一手～。  
@@ -260,6 +263,7 @@
 1. 【[宁同讲理的打场官司，不同不讲理的谈句家常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_ton_jian_li.md#宁同讲理的打场官司，不同不讲理的谈句家常)】`nen6 ton2 jian3 li3 dii da3 chan2 gun1 sz1 beh7 ton2 beh7 jian3 li3 dii taen2 jy5 ga1 chan2` <sup>[东台]</sup> 交往要选准对象。  
 1. 【[宁断不弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_tun_beh_vaen.md#宁断不弯)】`nen6 tun6 beh7 vaen1` <sup>[如皋]</sup> 状十分倔强。  
 1. 【[宁为鸡头，不为牛后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_vei_ji_teu.md#宁为鸡头，不为牛后)】`nen6 vei2 ji1 teu2 beh7 vei2 ngeu2 heu6` <sup>[东台]</sup> 在小单位有自主权比在大单位听人使唤强。  
+1. 【[恁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_nga.md#恁吖)】`nen6 nga` <small>/nəŋ1 ŋa/<sup>泰兴</sup></small> 这样，这么，如此<sup>\[泰兴\]</sup>  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng` <sup>[如东]</sup> 回答问题的词语，表示赞成或同意。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng1` <sup>[东台]</sup> （叹词）表示应答。  
 1. 【[嗯啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_a.md#嗯啊)】`ng1 a` <sup>[泰县]</sup> 好的：“你快点儿去吧！”“～，我就去。”  
@@ -1417,7 +1421,7 @@
 1. 【[你俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_lae.md#你俫)】`nii3 lae` <small>/ləi3 lɛ/<sup>兴化</sup>, /nei3 lɛ/<sup>如皋</sup></small> ① 你们，第二人称复数 ② 你们。<sup>\[如皋\]</sup> ③ 你们。<sup>\[如东\]</sup> ④ 你们，第二人称，复数。<sup>\[东台\]</sup> ⑤ 你们。<sup>\[兴化\]</sup>  
 1. 【[你请我吃冬酒，我请你吃年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_qien_ngu_qieh.md#你请我吃冬酒，我请你吃年酒)】`nii3 qien3 ngu3 qieh7 don1 jieu3 ngu3 qien3 nii3 qieh7 nin2 jieu3` <small>/nei3 t͡ɕʰiəŋ3 ŋʊ3 t͡ɕʰiəʔ7 tɔŋ1 t͡ɕyʊ3 ŋʊ3 t͡ɕʰiəŋ3 nei3 t͡ɕʰiəʔ7 nĩ2 t͡ɕyʊ3/<sup>如皋</sup>, /nəŋ3 t͡ɕʰiŋ3 ŋɤɯ3 t͡ɕʰiəʔ7 tɔŋ1 t͡ɕiɤɯ3 ŋɤɯ3 t͡ɕʰiŋ3 nəŋ3 t͡ɕʰiəʔ7 nĩ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 礼尚往来；一报还一报。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[你生姜，我皂壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_jian_ngu.md#你生姜，我皂壳)】`nii3 shen1 jian ngu3 co6 kah7` <sup>[兴化]</sup> （喻）针锋相对，各不相让：两房新妇，针头对麦芒，成天闹啊要分家。  
-1. 【[你生姜，他皂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_jian_ta.md#你生姜，他皂角)】`nii3 shen1 jian ta1 co6 gah` <small>/nəŋ3 səŋ1 t͡ɕiɑŋ tʰɑ1 t͡sʰɔ1 kɑʔ/<sup>泰兴</sup></small> 你要这样，他要那样，吵闹不休。<sup>\[泰兴\]</sup>  
+1. 【[你生姜，他皂角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_jian_ta.md#你生姜，他皂角)】`nii3 shen1 jian ta1 co6 gah` <small>/nəŋ3 səŋ1 t͡ɕiɑŋ tʰɑ1 t͡sʰɔ1 kɑʔ/<sup>泰兴</sup></small> 你要这样，他要那样，意见很不统一。<sup>\[泰兴\]</sup>  
 1. 【[你生我强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我强)】`nii3 shen1 ngu3 qian2` <sup>[兴化]</sup> 各执已见，有意闹别扭：每逢开会总是～的，意见统一不起来。｜谁知外面这些科道，～的，可可的撞入他网中来。（《梼杌闲评》三二）也作“你生我犟”。  
 1. 【[你生我犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shen_ngu_qian.md#你生我犟)】`nii3 shen1 ngu3 qian6` <sup>[兴化]</sup> 见“你生我强”。  
 1. 【[你说唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nii_shuh_sa.md#你说唦)】`nii3 shuh7 sa-seh` <sup>[东台]</sup> 在叙述某事后发出的慨叹，相对于“你看，不是吗？”：这伢儿神气，6岁就上央视，～！｜年纪大啊，记才差，上午的事下午就忘掉啊，～！  

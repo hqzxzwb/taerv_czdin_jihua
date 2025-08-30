@@ -1889,7 +1889,6 @@
 1. 【[瘸仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_xin.md#瘸仙)】`qya2 xin1` <sup>[如皋]</sup> 缘八仙之一的铁拐李跛足，因以趣指跛者。  
 1. 【[瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_zz.md#瘸子)】`qya2 zz` ① 腿瘸的人 ② 一只脚残废，走路时身体不平衡的人，叫瘸子。<sup>\[如东\]</sup> ③ 足有残疾者。<sup>\[东台\]</sup>  
 1. 【[瘸子上医院——治脚（自觉）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_zz_shan_i.md#瘸子上医院——治脚（自觉）)】`qya2 zz shan6 i1 iun6 chr6 jiah7 （cz6 jiah7）` <sup>[东台]</sup>   
-1. 【[俶倘/倜傥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_tan.md#俶倘/倜傥)】`qyeh7 tan` 举止大方，无羞怯畏缩状<sup>\[泰州\]</sup>：二十多岁的人唻，望见人说话还脸红，一点儿都不～。<sup>\[泰州\]</sup>｜这个姑娘到底是书香门第的人，多～吖，说话大大方方的。<sup>\[泰州\]</sup>  
 1. 【[屈屈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_qyeh_r.md#屈屈<sub>儿</sub>)】`qyeh7 qyeh7 r` <sup>[泰县]</sup> 小：这豆～，太小啊。  
 1. 【[屈死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_sz_guei.md#屈死鬼)】`qyeh7 sz3 guei3` <sup>[如东]</sup> 冤枉死亡的人：王二是个～。  
 1. 【[屈指](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_zhr.md#屈指)】`qyeh7 zhr3` <sup>[东台]</sup> 弯着指头计算。  

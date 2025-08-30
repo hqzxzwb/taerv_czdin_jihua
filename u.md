@@ -59,14 +59,16 @@
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi tu2 feh8` <small>/ʊ1 mʝ tʰʊ2 fəʔ8/<sup>如皋</sup></small> ① 幸灾乐祸。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：～，这种坏人，公家早就该把他捉起来！<sup>\[泰州\]</sup> ② 表示庆幸<sup>\[泰州\]</sup>：～，三小终于考上泰中唻，他家老子也有啊命唻！<sup>\[泰州\]</sup> ③ 谓人善良、与世无争<sup>\[泰州\]</sup>：你说的话我不相信，她是个～的人，怎吖可能做这些事！<sup>\[泰州\]</sup>  
 1. 【[阿弥陀佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_mi_tu_feh.md#阿弥陀佛)】`u1 mi2 tu2 feh8` <sup>[如东]</sup> ① 大乘佛教的教名。是“西方极乐世界”的教主，为净士宗主要信仰对象。也译作无量寿佛或无量光佛。后世所谓念佛，多指念阿弥陀佛名号。信佛的人口头诵念佛号，表示祈祷或感谢神灵的意思。 ② 比喻善良忠厚的人。泛指老好人：他是一个～。 ③ 表示兴灾乐祸：～！到底出咖事。  
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u2 lu2` <sup>[如皋]</sup> 唤犬声。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#□)】`u5` <small>/ɤɯ5/<sup>泰兴</sup></small> 说缠杂不清的话，难以沟通<sup>\[泰兴\]</sup>  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#□)】`u5` <small>/ɤɯ5/<sup>泰兴</sup></small> 说话蛮缠蛮扯不讲道理<sup>\[泰兴\]</sup>  
+1. 【[□𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_son.md#□𪨊)】`u5 son2` <small>/ɤɯ5 sɔŋ2/<sup>泰兴</sup></small> 骂人语。谓蛮不讲理，缠扯不清的人。<sup>\[泰兴\]</sup>  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz.md#□子)】`u5 zz` <small>/ɤɯ5 t͡sɿ/<sup>泰兴</sup></small> 说话缠杂不清的人<sup>\[泰兴\]</sup>  
 1. 【[□子班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz_baen.md#□子班)】`u5 zz baen1` <small>/ɤɯ5 t͡sɿ pɛ̃1/<sup>泰兴</sup></small> 戏称幼儿园<sup>\[泰兴\]</sup>  
+1. 【[□子耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_zz_dah_zz.md#□子耷子)】`u5 zz dah7 zz` <small>/ɤɯ5 t͡sɿ tɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 谓人说不清道理、不明白表达意图<sup>\[泰兴\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u.md#涴)】`u5` <small>/o5/<sup>兴化</sup></small> ① 污渍<sup>\[兴化\]</sup>：衣裳上有两片～斑，洗来洗去也洗不干净。<sup>\[兴化\]</sup> ② 被污损的东西<sup>\[兴化\]</sup>：～卷。<sup>\[兴化\]</sup> ③ 洇渗<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：墨水～开来啊。<sup>\[兴化\]</sup>｜毛笔上墨汁太多，把宣纸都弄吖～啊来。<sup>\[泰州\]</sup>｜他肩膀上的皮捱磨掉啊，白衬衫上都～啊血。<sup>\[泰州\]</sup>  
 1. 【[涴不清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_beh_qien.md#涴不清)】`u5 beh qien1` <sup>[泰县]</sup> 搞不清楚不清：他～，你把事情的经过由头至尾说一下。  
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
 1. 【[涴蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_maen.md#涴蛮)】`u5 maen2` <small>/o5 mɛ̃2/<sup>泰县</sup></small> ① 胡闹<sup>\[泰县\]</sup>：你不要～，你家穷不穷我俫心里有数。<sup>\[泰县\]</sup> ② 小儿说的话使人听不清或者听不懂<sup>\[泰州\]</sup>：这细小伙嘴里～，不晓得说的甚的。<sup>\[泰州\]</sup> ③ 泛指语言表达能力差的人不能简要准确表达<sup>\[泰州\]</sup>：他老先生在这块～涴啊半天，大家都不曾弄得清他说的意思，他自己还作躁啊不得命。<sup>\[泰州\]</sup>  
-1. 【[祸害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hae.md#祸害)】`u6 hae6` <small>/ʊ1 xɛ1/<sup>如皋</sup></small> ① 无用、无能、累及别人。<sup>\[如皋\]</sup> ② 指对社会和家庭无助的窝囊废<sup>\[东台\]</sup>：好人没长寿，～一千年，是对老天不公的一种叹息。<sup>\[东台\]</sup>  
+1. 【[祸害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hae.md#祸害)】`u6 hae6` <small>/ʊ1 xɛ1/<sup>如皋</sup>, /ɤɯ1 xɛ1/<sup>泰兴</sup></small> ① 无用、无能、累及别人。<sup>\[如皋\]</sup> ② 指对社会和家庭无助的窝囊废<sup>\[东台\]</sup>：好人没长寿，～一千年，是对老天不公的一种叹息。<sup>\[东台\]</sup> ③ 恶人，坏人。<sup>\[泰兴\]</sup>  
 1. 【[㷈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#㷈)】`uh7` <sup>[兴化]</sup> 火头被覆盖，燃烧不旺：火头～住啊。《集韵·合韵》遏合切“～，藏火也”。  
 1. 【[㷈火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_hu.md#㷈火)】`uh7 hu3` <sup>[如东]</sup> 用灰把火种掩盖起来，进行保存，叫做㷈火。  
 1. 【[㷈烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_in.md#㷈烟)】`uh7 in1` <sup>[如东]</sup> 用灰烬把火苗压住，烟雾微微冒出的状态。  

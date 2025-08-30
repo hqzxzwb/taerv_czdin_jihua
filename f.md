@@ -969,7 +969,7 @@
 1. 【[胕肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhon.md#胕肿)】`fv2 zhon3` <sup>[如皋]</sup> 见“胕”。  
 1. 【[芙蓉鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_nio_r.md#芙蓉鸟<sub>儿</sub>)】`fv2 ion2 nio3 r` <sup>[如皋]</sup> ① 即“黄鸟儿”。 ② 金丝雀。  
 1. 【[芙蓉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ion_y.md#芙蓉鱼)】`fv2 ion2 y2` <sup>[如皋]</sup> 用青鱼肉打腐，汆成的扁团状物，加作料衬菜做成的菜名。  
-1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` <small>/fu3 t͡ɕʰyʊ/<sup>如皋</sup>, /fu3 t͡ɕʰiɤɯ/<sup>泰县</sup></small> ① 将就，迁就。<sup>\[如东\]</sup>：只好～一点。<sup>\[如东\]</sup> ② 马虎一点，将就一下（同“架挂”）<sup>\[东台\]</sup>：这事要办得十分严谨，不能～。<sup>\[东台\]</sup> ③ 迁就<sup>\[如皋\]</sup>：伢儿不好过（生病），你～他点儿，不要惹他哭。<sup>\[如皋\]</sup> ④ 勉强<sup>\[如皋\]</sup>：这件旧衣裳～好穿。<sup>\[如皋\]</sup> ⑤ 敷衍<sup>\[如皋\]</sup>：你就～修下子算了。<sup>\[如皋\]</sup> ⑥ 马乎、将就<sup>\[泰县\]</sup>：你～点儿，不要收他的钱。<sup>\[泰县\]</sup>  
+1. 【[俯就](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu.md#俯就)】`fv3 qieu6` <small>/fu3 t͡ɕʰyʊ/<sup>如皋</sup>, /fʋ3 t͡ɕʰiɤɯ/<sup>泰兴</sup>, /fu3 t͡ɕʰiɤɯ/<sup>泰县</sup></small> ① 将就，迁就。<sup>\[如东\]</sup>：只好～一点。<sup>\[如东\]</sup> ② 马虎一点，将就一下（同“架挂”）<sup>\[东台\]</sup>：这事要办得十分严谨，不能～。<sup>\[东台\]</sup> ③ 迁就<sup>\[如皋\]</sup>：伢儿不好过（生病），你～他点儿，不要惹他哭。<sup>\[如皋\]</sup> ④ 勉强<sup>\[如皋\]</sup>：这件旧衣裳～好穿。<sup>\[如皋\]</sup> ⑤ 敷衍<sup>\[如皋\]</sup>：你就～修下子算了。<sup>\[如皋\]</sup> ⑥ 马乎、将就<sup>\[泰县\]</sup>：你～点儿，不要收他的钱。<sup>\[泰县\]</sup> ⑦ 降格相就，将就<sup>\[泰兴\]</sup>  
 1. 【[俯就<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qieu_r.md#俯就<sub>儿</sub>)】`fv3 qieu6 r` 稍微，稍稍  
 1. 【[俯瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_va.md#俯瓦)】`fv3 va3` <sup>[如东]</sup> 瓦面朝上的瓦，叫俯瓦。  
 1. 【[府上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shan.md#府上)】`fv3 shan` <small>/fʋ3 sɑŋ/<sup>泰兴</sup></small> ① 敬辞，称对方的家庭。<sup>\[东台\]</sup> ② 对别人的家或老家的尊称。<sup>\[泰兴\]</sup>  
@@ -977,11 +977,8 @@
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① 木头等材料受潮变质腐烂。<sup>\[如东\]</sup> ② 思想行为变坏。<sup>\[如东\]</sup>：你这个人～啊。<sup>\[如东\]</sup> ③ 不正当的男女关系。<sup>\[如东\]</sup> ④ 指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。<sup>\[东台\]</sup>  
 1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` <small>/fu3 lẽ1/<sup>如皋</sup>, /fu3 nɛ̃1/<sup>泰县</sup></small> ① 熟透，很烂<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：肉煮得～。<sup>\[如皋\]</sup>｜萝卜煨得～的。<sup>\[泰州\]</sup> ② 腐败如泥。<sup>\[如皋\]</sup> ③ 很烂<sup>\[泰县\]</sup>：这东西～的。<sup>\[泰县\]</sup>  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` 锅盖  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun-gu5, fv3 gu0` <sup>[如皋]</sup> 即“锅盖”。又作镬㔶。  
+1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <small>/fu3 kʊ/<sup>如皋</sup>, /fʋ1 kʊ̃/<sup>泰兴</sup>, /fu3 ko1/<sup>泰县</sup></small> 锅盖<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>：又“镬㔶”<sup>\[如皋\]</sup>  
 1. 【[釜㔶鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun_y.md#釜㔶鱼)】`fv3 gun y2` <sup>[如皋]</sup> 鮟鱇。  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun1` <sup>[东台]</sup> 锅盖。  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun1-gu1` <sup>[泰县]</sup> 锅盖。  
 1. 【[付款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kun.md#付款)】`fv5 kun3` <sup>[如东]</sup> 支出资金：要按规定～。  
 1. 【[副](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#副)】`fv5` <sup>[东台]</sup> 次要的、附带的、起辅助作用：～产品；～业；～手。  
 1. 【[副业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ih.md#副业)】`fv5 ih8` <sup>[如东]</sup> 主要生产任务以外，附带经营的事业，例如农民在农闲时节下海捕鱼捞蟹等。  

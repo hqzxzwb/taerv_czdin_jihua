@@ -761,7 +761,7 @@
 1. 【[媳妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_fv.md#媳妇)】`xieh7 fv` <sup>[东台]</sup> 儿子的妻，又称“新妇”。（北方所说的“媳妇儿”指老婆）。  
 1. 【[息肉/瘜肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_roh.md#息肉/瘜肉)】`xieh7 roh8` 鼻腔或肠道内黏膜发育异常而形成的像肉质突起部分<sup>\[泰州\]</sup>：鼻子里头长吖块～。<sup>\[泰州\]</sup>  
 1. 【[息事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_shr.md#息事)】`xieh7 shr6` <sup>[兴化]</sup> 平息事态：她男人酒后肇事，她还不～，反而跟吖起哄。｜“……兄弟的脾气，宁可～，花两钱算什么……”（《官场现形记》十七）  
-1. 【[息胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tae.md#息胎)】`xieh7 tae1` <small>/ɕiəʔ7 tʰɛ1/<sup>兴化</sup>, /ɕiɪʔ7 tʰe1/<sup>泰县</sup></small> ① （詈语）胎儿在腹中死亡。<sup>\[东台\]</sup> ② 死胎。<sup>\[兴化\]</sup> ③ 死脸。<sup>\[泰县\]</sup>  
+1. 【[息胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_tae.md#息胎)】`xieh7 tae1` <small>/ɕiəʔ7 tʰɛ1/<sup>兴化</sup>, /ɕiʔ7 tʰɛ1/<sup>泰兴</sup>, /ɕiɪʔ7 tʰe1/<sup>泰县</sup></small> 死胎。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>\[泰兴：骂人语。\]\[东台：（詈语）胎儿在腹中死亡。\]  
 1. 【[惜衣有衣穿，惜饭有饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_i_ieu_i.md#惜衣有衣穿，惜饭有饭吃)】`xieh7 i1 ieu3 i1 chun1 xieh7 faen6 ieu3 faen6 qieh7` <sup>[东台]</sup> 节约可以积累财富，防止饥寒交迫。  
 1. 【[掀盖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_gae_zz.md#掀盖子)】`xieh7 gae5 zz` <sup>[东台]</sup> 掀开盖子，常喻指揭露隐藏的矛盾或问题。（許訖切，音迄。）  
 1. 【[析产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieh_chaen.md#析产)】`xieh7 chaen3` <sup>[东台]</sup> 分割财产，分家。  

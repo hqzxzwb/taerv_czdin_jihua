@@ -334,6 +334,8 @@
 1. 【[认这把秤定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zha_ba_chen.md#认这把秤定)】`ren6 zha5 ba3 chen5 tien6` <sup>[如皋]</sup> 就照这样办。见“一心归命”。  
 1. 【[认账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhan.md#认账)】`ren6 zhan5` <small>/ɻəŋ1 t͡sɑŋ5/<sup>泰兴</sup></small> ① 承认事实。<sup>\[如东\]</sup>：这件事，我～。<sup>\[如东\]</sup> ② 承认说过的话或者有过的事<sup>\[泰州\]</sup>：是我做的事我～，不是我做的事打煞也不～。<sup>\[泰州\]</sup>｜你这个人没得意思，昨朝说过的话，今朝子就不～唻。<sup>\[泰州\]</sup> ③ 承认某笔账目，或比喻承认对某件事应负的责任。<sup>\[泰兴\]</sup>：这件事他已经认吖账<sup>\[泰兴\]</sup>  
 1. 【[认真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen.md#认真)】`ren6 zhen1` 当真<sup>\[泰州\]</sup>：同他说咖玩的，他就～的把钱拿出来啊。<sup>\[泰州\]</sup>  
+1. 【[赁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#赁)】`ren6` <small>/ɻəŋ1/<sup>泰兴</sup></small> 租赁，租借。惯用音ren6。<sup>\[泰兴\]</sup>：～房子<sup>\[泰兴\]</sup>  
+1. 【[赁约](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_iah.md#赁约)】`ren6 iah7` <small>/ɻəŋ1 iɑʔ7/<sup>泰兴</sup></small> 租赁的契约。<sup>\[泰兴\]</sup>  
 1. 【[韧而不坚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_er_beh_jin.md#韧而不坚)】`ren6 er beh7 jin1` <sup>[东台]</sup> 形容说话不干脆：答复问题要干脆明白，不能～的。  
 1. 【[韧悠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieu.md#韧悠)】`ren6 ieu1` <sup>[东台]</sup> 指人的脾气柔和，不暴躁：他的性格～，善于协调矛盾。  
 1. 【[韧悠悠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieu_ieu.md#韧悠悠)】`ren6 ieu1 ieu1` <sup>[东台]</sup> 指某种物体柔和、有韧性，不脆：熟白果～的，好吃。  
