@@ -138,7 +138,7 @@
 1. 【[肏走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zeu.md#肏走)】`reh8 zeu3` ① （詈语）拉倒，不要再磨蹭<sup>\[东台\]</sup>：他再不听，干脆来点硬的～。<sup>\[东台\]</sup> ② 听凭事情发展<sup>\[泰州\]</sup>：你说咖他又不听，他捱人家打啊伤吖也～。<sup>\[泰州\]</sup>  
 1. 【[肏这个娘（妈妈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zha_gu_nian.md#肏这个娘（妈妈）)】`reh8 zha5 gu nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
 1. 【[肏周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zheu.md#肏周)】`reh8 zheu1` <sup>[兴化]</sup> 拉倒、算了：你肯就背，不肯就～！  
-1. 【[人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#人)】`ren2` <small>/ɻəŋ2/<sup>如皋</sup></small> ① 人 ② 成才：你要重用他，他确实是个～；他这几年学好，像个～吖。<sup>\[如皋\]</sup>  
+1. 【[人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#人)】`ren2` <small>/ɻəŋ2/<sup>如皋</sup></small> ① 人 ② 可用之才<sup>\[如皋\]</sup>：你要重用他，他确实是个～<sup>\[如皋\]</sup>｜他这几年学好，像个～吖<sup>\[如皋\]</sup>  
 1. 【[人不到礼到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_do_li.md#人不到礼到)】`ren2 beh7 do5 li3 do5` <sup>[泰兴]</sup> 亲友有红白喜事，人如果因故不可能到场，但人情要到。  
 1. 【[人不混账，账不混人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_huen_zhan.md#人不混账，账不混人)】`ren2 beh7 huen5 zhan5 zhan5 beh7 huen5 ren2` <sup>[东台]</sup> 人正派是最根本的。  
 1. 【[人不可貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_ku_mo.md#人不可貌相)】`ren2 beh7 ku3 mo6 xian5` <sup>[泰兴]</sup> 谓不可从外表上判定一个人的品格才华。  
@@ -305,7 +305,7 @@
 1. 【[忍受](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sheu.md#忍受)】`ren3 sheu6` <sup>[如东]</sup> 把痛苦、困难、不幸的遭遇等承受下来。  
 1. 【[忍死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sz.md#忍死)】`ren3 sz3` <sup>[如皋]</sup> 见“捱死”。  
 1. 【[忍心害理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_hae_li.md#忍心害理)】`ren3 xien1 hae6 li3` <small>/lən3 ɕin1 xɛ6 ləi3/<sup>兴化</sup></small> ① 昧着良心<sup>\[兴化\]</sup>：上边拨下的救济粮，他～的掺水、掺砂往下发。<sup>\[兴化\]</sup>｜“虽然莫郎嫌贫弃贱，～，奴家各尽其道，岂肯改嫁……”（《古今小说》二七）<sup>\[兴化\]</sup> ② 昧着良心违背天理、伦理、常理<sup>\[泰州\]</sup>：你不能～望吖他往绝路走不救啊！<sup>\[泰州\]</sup>  
-1. 【[䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#䵑)】`ren6` ① 食物受潮发软，不再脆。 ② 食物受潮而不脆绷了。<sup>\[如东\]</sup>：饼干～吖，不脆崩吖。<sup>\[如东\]</sup>  
+1. 【[䵑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#䵑)】`ren6` <small>/ɻəŋ1/<sup>泰兴</sup></small> （食物）受潮发软，不再脆。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：饼干～吖，不脆崩吖。<sup>\[如东\]</sup>  
 1. 【[任磨舂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_mu_shon.md#任磨舂)】`ren6 mu shon` <sup>[如皋]</sup> 消极、反对：做他个～！  
 1. 【[任性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#任性)】`ren6 xien5` <sup>[如东]</sup> 脾气固执：这个伢儿非常～，说咖半天都不行。  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh deh7` <sup>[兴化]</sup> 即不认识：你要找的人我～。｜“你既～我，怎么差人来勾我？”（《西游记》三）  
