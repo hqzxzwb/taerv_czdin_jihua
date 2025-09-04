@@ -172,7 +172,7 @@
 1. 【[海估邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gv_laeh_taeh.md#海估邋遢)】`hae3 gv laeh8 taeh` <sup>[兴化]</sup> 共计、所有的：我～就是这吖几个钱，你要全把你。  
 1. 【[海估咙咚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gv_lon_don.md#海估咙咚)】`hae3 gv lon2 don1` <sup>[如皋]</sup> 所有的、统统。见“总共”。  
 1. 【[海估邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gv_laeh_taeh.md#海估邋遢)】`hae3 gv3 laeh8 taeh` <sup>[泰县]</sup> 共计、合计：我～就这些钱。  
-1. 【[海海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_hae.md#海海)】`hae3 hae3` <sup>[兴化]</sup> 全部：全庄的大人伢儿～来啊。我身上的钱～在这许。  
+1. 【[海海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_hae.md#海海)】`hae3 hae3` <small>/xɛ3 xɛ3/<sup>兴化</sup></small> 全部<sup>\[兴化\]</sup>：全庄的大人伢儿～来啊。<sup>\[兴化\]</sup>｜我身上的钱～在这许。<sup>\[兴化\]</sup>  
 1. 【[海海老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_hae_lo_r.md#海海老<sub>儿</sub>)】`hae3 hae3 lo3 r` <sup>[兴化]</sup> 见“海估邋遢”。  
 1. 【[海涵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_haen.md#海涵)】`hae3 haen2` <sup>[如东]</sup> 大度包容：还请你～。  
 1. 【[海货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_hu.md#海货)】`hae3 hu5` <sup>[如皋]</sup> 海产食品  
