@@ -1159,8 +1159,7 @@
 1. 【[铁黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_heh.md#铁黑)】`tih7 heh7` <sup>[如东]</sup> 很黑。  
 1. 【[铁记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji_cae.md#铁记才)】`tih7 ji5 cae` <sup>[东台]</sup> 好记性：他是～，几十年前的事都记得清清楚楚。  
 1. 【[铁记才抵不上勤笔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_ji_cae_di.md#铁记才抵不上勤笔头)】`tih7 ji5 cae2 di3 beh7 shan6 qien2 bieh7 teu2` <sup>[东台]</sup> 不能过分倚赖记忆力，勤动笔更可靠。  
-1. 【[铁将军把门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jian_jyen_ba.md#铁将军把门)】`tih7 jian1 jyen1 ba3 men2` <sup>[东台]</sup> 指大门用铁锁紧锁着。  
-1. 【[铁将军把门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jian_jyen_ba.md#铁将军把门)】`tih7 jian1 jyen1 ba3 men2` <small>/tʰiʔ7 t͡ɕiɑŋ1 t͡ɕyəŋ1 pɑ3 məŋ2/<sup>泰兴</sup></small> 俗语。谓门外加锁，锁门。<sup>\[泰兴\]</sup>  
+1. 【[铁将军把门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jian_jyen_ba.md#铁将军把门)】`tih7 jian1 jyen1 ba3 men2` <small>/tʰiʔ7 t͡ɕiɑŋ1 t͡ɕyəŋ1 pɑ3 məŋ2/<sup>泰兴</sup></small> ① 指大门用铁锁紧锁着。<sup>\[东台\]</sup> ② 俗语。谓门外加锁，锁门。<sup>\[泰兴\]</sup>  
 1. 【[铁锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jioh.md#铁锔)】`tih7 jioh7` <sup>[如皋]</sup> 见“铁钯”。  
 1. 【[铁嘴铜舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_jy_ton_shih.md#铁嘴铜舌)】`tih7 jy3 ton2 shih8` <sup>[泰州]</sup> 铁铸的嘴铜浇的舌，喻指人之能言善辩：他是出咖名的～，你俫说不过他。  
 1. 【[铁壳黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_kah_huan.md#铁壳黄)】`tih7 kah7 huan2` <sup>[泰县]</sup> ① 肥壮的螃蟹。 ② 殷实富户。  

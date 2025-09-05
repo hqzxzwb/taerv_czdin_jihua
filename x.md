@@ -2006,8 +2006,7 @@
 1. 【[榫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_teu.md#榫头)】`xyen3 teu2` ① 某些工件利用凹凸方式相连接的地方的凸出部分，称榫头。<sup>\[如东\]</sup>：立柱～打啊在头上。<sup>\[如东\]</sup> ② 竹、木等构件利用凹凸方式相接，凸出的部分为～。<sup>\[东台\]</sup>  
 1. 【[笋瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_gua.md#笋瓜)】`xyen3 gua1` <small>/ɕyəŋ3 kuɑ1/<sup>泰兴</sup></small> ① 葫芦科植物笋瓜，一年生蔓生藤本。茎长约5米，全体被刚毛。茎呈五角棱，中空。单叶互生，圆形或心脏形，浅裂作五角形。卷须腋生。花淡黄色。瓠果，长圆形，黄白色。种子扁平，淡黄白色。田间种植。是普通蔬菜。<sup>\[如东\]</sup> ② 一年生蔓性草本蔬菜，与南瓜、冬瓜基本同时播种、移栽，果实黄白色长圆形，通常用于夏秋季炒菜、烧汤。<sup>\[东台\]</sup> ③ 一年生的蔓生植物，藤、叶、花均类似番瓜，瓜为白色或者淡黄，类菠萝形，表面光滑，20世纪60年代以前，是泰州夏天主要蔬菜品种之一，切成丝状炒食，以其颜色似笋，故名。<sup>\[泰州\]</sup> ④ 一种作蔬菜的瓜。<sup>\[泰兴\]</sup>  
 1. 【[笋衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_i.md#笋衣)】`xyen3 i1` <sup>[如皋]</sup> 竹笋的包，其内层嫩者可食。  
-1. 【[笋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji.md#笋鸡)】`xyen3 ji1` <sup>[东台]</sup> 一二斤重，还未啼叫的小公鸡。因其肉嫩鲜美，故名。  
-1. 【[笋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji.md#笋鸡)】`xyen3 ji1` <small>/ɕyəŋ3 t͡ɕʝ1/<sup>泰兴</sup></small> 未啼的小公鸡。<sup>\[泰兴\]</sup>  
+1. 【[笋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji.md#笋鸡)】`xyen3 ji1` <small>/ɕyəŋ3 t͡ɕʝ1/<sup>泰兴</sup></small> ① 一二斤重，还未啼叫的小公鸡。因其肉嫩鲜美，故名。<sup>\[东台\]</sup> ② 未啼的小公鸡。<sup>\[泰兴\]</sup>  
 1. 【[笋鸡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji_r.md#笋鸡<sub>儿</sub>)】`xyen3 ji1 r` <sup>[如皋]</sup> 童子鸡、小公鸡。  
 1. 【[笋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_zz.md#笋子)】`xyen3 zz` <small>/ɕyəŋ3 t͡sɿ/<sup>泰兴</sup></small> 竹筍。<sup>\[泰兴\]</sup>  
 1. 【[训](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen.md#训)】`xyen5` <small>/ɕyəŋ5/<sup>泰兴</sup></small> 教诲，教训，教导；训斥，批评。<sup>\[泰兴\]</sup>  

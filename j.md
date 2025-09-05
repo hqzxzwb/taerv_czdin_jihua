@@ -331,8 +331,7 @@
 1. 【[借光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_guan.md#借光)】`jia5 guan1` <sup>[如东]</sup> 请求帮助：～，点个火。  
 1. 【[借火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu.md#借火)】`jia5 hu3` <sup>[如东]</sup> 向别人借火点燃东西：～点烟。  
 1. 【[借话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua.md#借话)】`jia5 hua6` <sup>[泰州]</sup> 借助别人说的话来表述本人意见：你就不要～说吤，有甚的想法你直接讲。  
-1. 【[借话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_shuh.md#借话说)】`jia5 hua6 shuh7` <sup>[兴化]</sup> 拿别的话说事儿：“我难道～不成……”（钱国怀《行路难》）  
-1. 【[借话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_shuh.md#借话说)】`jia5 hua6 shuh7` <small>/t͡ɕiɑ5 xuɑ1 sʊʔ7/<sup>泰兴</sup></small> 谓借用其它的话来搪塞，而不用真实的话。<sup>\[泰兴\]</sup>  
+1. 【[借话说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hua_shuh.md#借话说)】`jia5 hua6 shuh7` <small>/t͡ɕia5 xua6 suʔ7/<sup>兴化</sup>, /t͡ɕiɑ5 xuɑ1 sʊʔ7/<sup>泰兴</sup></small> ① 拿别的话说事儿<sup>\[兴化\]</sup>：“我难道～不成……”（钱国怀《行路难》）<sup>\[兴化\]</sup> ② 谓借用其它的话来搪塞，而不用真实的话。<sup>\[泰兴\]</sup>  
 1. 【[借黄豆种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_huan_teu_zhon.md#借黄豆种)】`jia5 huan2 teu6 zhon3` <sup>[泰州]</sup> 向人借黄豆种，比喻做讨人嫌的事情。坊间约定俗成，可以向人借黄豆，但是不能借黄豆种，不借给你，伤了和气，借给你，就有可能还不起或者不及时还，自己就会有不能即时播种的风险：这马马儿望见人就脸一沉，就像你是跟她～的。｜你没得必要同我这样子，我又不到你家～。  
 1. 【[借因头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ien_teu.md#借因头)】`jia5 ien1 teu2` <sup>[如东]</sup> 找借口：他～找麻烦。  
 1. 【[借引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ien.md#借引)】`jia5 ien3` <small>/t͡ɕia5 in3/<sup>兴化</sup>, /t͡ɕia5 iəŋ3/<sup>如皋</sup></small> ① 由此引发某种意外事件<sup>\[如皋\]</sup>：他这次风中是吃喜酒～的的。<sup>\[如皋\]</sup> ② 由某种疾病而引起死亡的结果<sup>\[兴化\]</sup>：去年冬天，钮老由痰上～，一病不起啊。<sup>\[兴化\]</sup>  

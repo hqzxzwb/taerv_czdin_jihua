@@ -390,13 +390,11 @@
 1. 【[麻鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_hae.md#麻鞋)】`ma2 hae2` <small>/ma2 xɛ2/<sup>如皋</sup></small> ① 以麻为原料编制的鞋，形似草鞋。<sup>\[如东\]</sup> ② 用火麻皮编结的矮帮鞋。<sup>\[如皋\]</sup>  
 [更多...](./m.md)
 ## N
-1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  
-1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/nɑ2/<sup>泰兴</sup></small> 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
+1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/la2/<sup>兴化</sup>, /nɑ2/<sup>泰兴</sup></small> ① 装出<sup>\[兴化\]</sup>：～三做四。<sup>\[兴化\]</sup> ② 批发<sup>\[兴化\]</sup>：到招商城～货。<sup>\[兴化\]</sup>｜这件上衣我～九十，卖把你一百，寻十块钱。<sup>\[兴化\]</sup> ③ 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[泰州]</sup> ① 自感礼物过于轻微，不好意思拿出送人：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。 ② 泛指造诣、水平远不及人而不好意思显示于人：我写的这些文章是弄吖玩的，实在拿不出手！  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh7 chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ② 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ③ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
 1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <small>/la2 pəʔ7 uən3/<sup>兴化</sup></small> 吃不准、没有把握<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他心里怎吖想，我到现在～。<sup>\[兴化\]</sup>｜这件事要是～，怎吖敢同你说大话。<sup>\[泰州\]</sup>  
@@ -416,6 +414,9 @@
 1. 【[拿得起放得下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_qi_fan.md#拿得起放得下)】`na2 deh7 qi3 fan5 deh7 ha6` <sup>[东台]</sup> 敢于担当，措施有效，而且管理方式超脱。  
 1. 【[拿得稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_ven.md#拿得稳)】`na2 deh7 ven3` <sup>[泰州]</sup> 有足够把握。  
 1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ga_zz.md#拿架子)】`na2 ga5 zz` <sup>[如东]</sup> ① 摆架子。 ② 提出苛刻条件：不要～。  
+1. 【[拿棍子唤狗——越叫越远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_guen_zz_hun.md#拿棍子唤狗——越叫越远)】`na2 guen5 zz hun5 geu3 iuh8 jio5 iuh8 iun3` <sup>[东台]</sup>   
+1. 【[拿和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hu.md#拿和)】`na2 hu2` <sup>[兴化]</sup> 劝和：“……你我弟兄多年……当真的弄这么个过节儿，最好～吧。”（扬一《风雏理事》）  
+1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup>  
 [更多...](./n.md)
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  

@@ -222,8 +222,7 @@
 1. 【[晕场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_chan.md#晕场)】`yen6 chan2` <small>/yəŋ1 t͡sʰã2/<sup>如皋</sup></small> ① 临场心理紧张而致误，甚至昏厥：他平时成绩好，就是考试～。<sup>\[如皋\]</sup> ② 本指考试时因过分紧张而发挥失常，泛指不清醒。<sup>\[东台\]</sup>  
 1. 【[晕船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_chun.md#晕船)】`yen6 chun2` <sup>[东台]</sup> 坐船时头昏或呕吐。  
 1. 【[晕汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕汤)】`yen6 tan1` <sup>[如皋]</sup> 公共浴室洗澡时发生的玄晕、昏迷等病态。  
-1. 【[晕堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕堂)】`yen6 tan2` <sup>[东台]</sup> 在浴室中洗澡因闷的时间过长缺氧而晕倒。也作“晕堂子”“晕汤”“晕池”。  
-1. 【[晕堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕堂)】`yen6 tan2` <small>/yəŋ1 tʰɑŋ2/<sup>泰兴</sup></small> 在澡堂洗浴时昏晕。<sup>\[泰兴\]</sup>  
+1. 【[晕堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_tan.md#晕堂)】`yen6 tan2` <small>/yəŋ1 tʰɑŋ2/<sup>泰兴</sup></small> ① 在浴室中洗澡因闷的时间过长缺氧而晕倒。也作“晕堂子”“晕汤”“晕池”。<sup>\[东台\]</sup> ② 在澡堂洗浴时昏晕。<sup>\[泰兴\]</sup>  
 1. 【[晕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_teu.md#晕头)】`yen6 teu` <sup>[如东]</sup> 由于细菌感染在皮肤表面出现一种圆形的淡红色的肿块。  
 1. 【[晕枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_zo_r.md#晕枣<sub>儿</sub>)】`yen6 zo3 r` <small>/yn6 t͡sɔ3 ɚ/<sup>兴化</sup>, /yəŋ1 t͡sɔ˞3/<sup>如皋</sup></small> ① 指糊涂人。<sup>\[如皋\]</sup> ② （讽）指糊涂人<sup>\[兴化\]</sup>：他老婆怀孕三个月都不晓得，真是个～。也说“梦枣儿”。<sup>\[兴化\]</sup>  
 1. 【[晕澡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yen_zo.md#晕澡)】`yen6 zo3` <sup>[如皋]</sup> 见“晕汤”。  

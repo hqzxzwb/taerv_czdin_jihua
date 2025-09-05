@@ -1,13 +1,11 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## N
-1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <sup>[兴化]</sup> ① 装出：～三做四。 ② 批发：到招商城～货。｜这件上衣我～九十，卖把你一百，寻十块钱。  
-1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/nɑ2/<sup>泰兴</sup></small> 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
+1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/la2/<sup>兴化</sup>, /nɑ2/<sup>泰兴</sup></small> ① 装出<sup>\[兴化\]</sup>：～三做四。<sup>\[兴化\]</sup> ② 批发<sup>\[兴化\]</sup>：到招商城～货。<sup>\[兴化\]</sup>｜这件上衣我～九十，卖把你一百，寻十块钱。<sup>\[兴化\]</sup> ③ 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[泰州]</sup> ① 自感礼物过于轻微，不好意思拿出送人：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。 ② 泛指造诣、水平远不及人而不好意思显示于人：我写的这些文章是弄吖玩的，实在拿不出手！  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh7 chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ② 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ③ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
 1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <small>/la2 pəʔ7 uən3/<sup>兴化</sup></small> 吃不准、没有把握<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他心里怎吖想，我到现在～。<sup>\[兴化\]</sup>｜这件事要是～，怎吖敢同你说大话。<sup>\[泰州\]</sup>  
@@ -574,8 +572,7 @@
 1. 【[鸭溜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_lieu_zz.md#鸭溜子)】`ngaeh7 lieu6 zz` <sup>[兴化]</sup> 放鸭用的小船：巧云踏在一只～上，把篙子一点，撑向对岸。  
 1. 【[鸭屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_pi_gu.md#鸭屁股)】`ngaeh7 pi5 gu` <small>/æʔ7 pʰi5 ko/<sup>兴化</sup>, /ŋeʔ7 pʰʝ5 kʊ/<sup>如皋</sup></small> ① 民国初年，男人剪辫子，有些人仍在脑后留一块几寸长的头髮，其余剃光，称～。<sup>\[如皋\]</sup> ② 对一些女青年发型（齐脖子短发）的形象说法。<sup>\[东台\]</sup> ③ 一种头发齐颈部的发式<sup>\[兴化\]</sup>：来的小伙男不男女不女的，后头留个～。<sup>\[兴化\]</sup> ④ 臀部肥大，走路左右晃动的人。<sup>\[泰州\]</sup>  
 1. 【[鸭涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_saen.md#鸭涎)】`ngaeh7 saen2` <sup>[如东]</sup> 鸭科动物家鸭唾液。  
-1. 【[鸭舌帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_shih_mo.md#鸭舌帽)】`ngaeh7 shih8 mo6` <sup>[东台]</sup> 帽顶的前部和帽檐口紧夹在一起的帽子。  
-1. 【[鸭舌帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_shih_mo.md#鸭舌帽)】`ngaeh7 shih8 mo6` <small>/ŋæʔ7 ɕiʔ8 mɔ1/<sup>泰兴</sup></small> 帽子的一种。帽顶前部有突出的月牙形帽檐，状如舌，故称。<sup>\[泰兴\]</sup>  
+1. 【[鸭舌帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_shih_mo.md#鸭舌帽)】`ngaeh7 shih8 mo6` <small>/ŋæʔ7 ɕiʔ8 mɔ1/<sup>泰兴</sup></small> ① 帽顶的前部和帽檐口紧夹在一起的帽子。<sup>\[东台\]</sup> ② 帽子的一种。帽顶前部有突出的月牙形帽檐，状如舌，故称。<sup>\[泰兴\]</sup>  
 1. 【[鸭屎臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_shr_cheu.md#鸭屎臭)】`ngaeh7 shr3 cheu5` <small>/æʔ7 sɿ3 t͡sʰɤ5/<sup>兴化</sup></small> ① 指吃多了鸭蛋，从胃中泛出的异味。<sup>\[兴化\]</sup> ② 丢脸、不光彩<sup>\[兴化\]</sup>：这人赖账不还，真有点～。<sup>\[兴化\]</sup> ③ 因不光彩的行为而丢人<sup>\[泰州\]</sup>：他在单位上弄得～，现在想调走还不曾找到下家唻。<sup>\[泰州\]</sup>  
 1. 【[鸭蛋粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_fen.md#鸭蛋粉)】`ngaeh7 taen fen3` <small>/ŋæʔ7 tʰɛ̃ fəŋ3/<sup>泰兴</sup></small> 化妆品。块形白香粉，其状若鸭蛋，故名。<sup>\[泰兴\]</sup>  
 1. 【[鸭蛋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_qien.md#鸭蛋青)】`ngaeh7 taen qien1` <small>/ŋæʔ7 tʰɛ̃ t͡ɕʰiŋ1/<sup>泰兴</sup></small> 淡青色。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
@@ -815,7 +812,7 @@
 1. 【[肮肮螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ngan_lu.md#肮肮螺)】`ngan1 ngan1 lu2-3` <sup>[东台]</sup> 蜗牛的俗称。  
 1. 【[肮掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_tio.md#肮掉)】`ngan1 tio` <sup>[东台]</sup> 同“痪掉”。  
 1. 【[肮脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_zan.md#肮脏)】`ngan1 zan1` <sup>[如东]</sup> 不干净。  
-1. 【[昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#昂)】`ngan2` <small>/ŋã2/<sup>如皋</sup>, /ŋɑŋ2/<sup>泰兴</sup></small> ① 升、高<sup>\[如皋\]</sup>：秤尾子太～；这刻儿卖独市，他会～价。<sup>\[如皋\]</sup> ② 抬起，仰起。<sup>\[泰兴\]</sup>：他一天到夜头～吖～的<sup>\[泰兴\]</sup>  
+1. 【[昂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#昂)】`ngan2` <small>/ŋã2/<sup>如皋</sup>, /ŋɑŋ2/<sup>泰兴</sup></small> ① 升、高<sup>\[如皋\]</sup>：秤尾子太～<sup>\[如皋\]</sup>｜这刻儿卖独市，他会～价。<sup>\[如皋\]</sup> ② 抬起，仰起。<sup>\[泰兴\]</sup>：他一天到夜头～吖～的<sup>\[泰兴\]</sup>  
 1. 【[昂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_fon.md#昂风)】`ngan2 fon1` <sup>[兴化]</sup> 形容体大质量轻的物品顶风难行：原来灯草～，老二费的力气大，把脸都挣红吖。（兴文《石头星与灯草星》）  
 1. 【[昂乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_hv.md#昂乎)】`ngan2 hv` <sup>[东台]</sup> 说话口气大，有些盛气凌人的样子：那小伙好像蛮有来头的，你听他说话多～！  
 1. 【[昂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_vei.md#昂味)】`ngan2 vei6` <sup>[如皋]</sup> 过浓而有刺激性的味：蟹渣有～。  
