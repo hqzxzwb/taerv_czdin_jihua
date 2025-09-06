@@ -1988,6 +1988,7 @@
 1. 【[摇头掼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_kuaen_no.md#摇头掼脑)】`io2 teu2 kuaen6 no3` <sup>[如东]</sup> ① 表示不耐烦的样子：他～的，不愿再听。 ② 表示不赞成：他听吖，～的跑掉啊。 ③ 不稳重：他站吖那许，～的。  
 1. 【[摇头<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_r_ven.md#摇头<sub>儿</sub>瘟)】`io2 teu2 r ven1` <sup>[如皋]</sup> 头部不住摇动的病。借为詈语。  
 1. 【[摇头瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_ven.md#摇头瘟)】`io2 teu2 ven1` <small>/iɔ2 tʰɤ2 uən1/<sup>兴化</sup></small> ① 鸭的一种传染病，在雏鸭生大毛时高发。发作时头摇动，口流涎，死亡率很高。<sup>\[兴化\]</sup> ② （借）嘲弄惯于提反对意见的人<sup>\[兴化\]</sup>：他像得咖～。<sup>\[兴化\]</sup> ③ 詈词，骂人不停摇头的样子<sup>\[泰州\]</sup>：你问他到底是怎吖回事，这小伙就像得咖～，头直摇唻，甚的话都不肯说。<sup>\[泰州\]</sup>  
+1. 【[摇动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ton.md#摇动)】`io2 ton` <small>/iɔ2 tʰɔŋ/<sup>泰兴</sup></small> 不紧固、可活动<sup>\[泰兴\]</sup>：花生晒啊三个太阳，总～ngo<sup>\[泰兴\]</sup>  
 1. 【[摇桶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ton_r.md#摇桶<sub>儿</sub>)】`io2 ton3 r` <sup>[如皋]</sup> 木桶式摇篮。  
 1. 【[摇网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_van.md#摇网)】`io2 van3` <sup>[如东]</sup> 一种捕鱼网具。片形，长6米，宽2米。麻线或尼龙线结成。作业时，通常把10片网或更多的网片连接起来，放在海洋里捕鱼。  
 1. 【[窑钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_buh_r.md#窑钵<sub>儿</sub>)】`io2 buh7 r` <sup>[如皋]</sup> 一种粗制陶碗。  

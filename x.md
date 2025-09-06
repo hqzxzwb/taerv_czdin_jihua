@@ -525,7 +525,7 @@
 1. 【[削骨烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_gueh_sho.md#削骨烧)】`xiah7 gueh7 sho1` <sup>[东台]</sup> （詈语）骂人没有好死法。  
 1. 【[削价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_jia.md#削价)】`xiah7 jia5` ① 减价。<sup>\[如东\]</sup>：这种木板已经～。<sup>\[如东\]</sup> ② 指商品降低价格。<sup>\[东台\]</sup>  
 1. 【[削筷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_kuae_zz.md#削筷子)】`xiah7 kuae5 zz` <sup>[东台]</sup> ［喻］边做边丢：要跟踪服务，不能像～，一做一撂。  
-1. 【[削水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shuei.md#削水)】`xiah7 shuei3` <small>/ɕiaʔ7 suei3/<sup>如皋</sup></small> ① 屋面坡度。<sup>\[如皋\]</sup> ② 屋面流过雨水的能力、速度。<sup>\[如皋\]</sup> ③ 倒掉一些水。<sup>\[如东\]</sup>：把碗口仄过来～。<sup>\[如东\]</sup> ④ 屋面坡度，表示排水能力。<sup>\[如东\]</sup>：～快。<sup>\[如东\]</sup>  
+1. 【[削水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_shuei.md#削水)】`xiah7 shuei3` <small>/ɕiaʔ7 suei3/<sup>如皋</sup>, /ɕiɑʔ7 suəɪ3/<sup>泰兴</sup></small> ① 屋面坡度。<sup>\[如皋\]</sup> ② 屋面流过雨水的能力、速度。<sup>\[如皋\]</sup> ③ 倒掉一些水。<sup>\[如东\]</sup>：把碗口仄过来～。<sup>\[如东\]</sup> ④ 屋面坡度，表示排水能力。<sup>\[如东\]</sup>：～快。<sup>\[如东\]</sup> ⑤ 排水<sup>\[泰兴\]</sup>：佤的田在坎子上，～快<sup>\[泰兴\]</sup>  
 1. 【[削子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_zz.md#削子)】`xiah7 zz` <sup>[兴化]</sup> （讽）专找借口沾光或吃白食的人：他是～，哪块有事他就跳啊去吃白大。  
 1. 【[学费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_fei.md#学费)】`xiah8 fei5` <small>/ɕiɑʔ8 fəɪ5/<sup>泰兴</sup></small> ① 个人求学的费用。<sup>\[如东\]</sup> ② 学生上学应缴的贵用。<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[学狗爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_geu_pa.md#学狗爬)】`xiah8 geu3 pa2` <sup>[泰州]</sup> 比喻不惜一切代价：不管多难，哪怕你～，三个月也要学会。  

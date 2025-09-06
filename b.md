@@ -1677,6 +1677,7 @@
 1. 【[半情半意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_qien_bun_i.md#半情半意)】`bun5 qien2 bun5 i5` <sup>[兴化]</sup> 为他人出力，只取部分报酬：老赵替他修电脑，～的只收啊五十块钱。  
 1. 【[半<sub>儿</sub>擸𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_r_laeh_saeh.md#半<sub>儿</sub>擸𢶍的)】`bun5 r laeh8 saeh dii` <sup>[如皋]</sup> ① 知而不精。 ② 事情进展到一半的样子。  
 1. 【[半日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_rih_zz.md#半日子)】`bun5 rih8 zz` <sup>[如东]</sup> 虐疾病。  
+1. 【[半𧺕坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shah_kun_zz.md#半𧺕坎子)】`bun5 shah kun3 zz` <small>/pʊ̃5 sɑʔ kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 坡度不太大的河沟岸坡<sup>\[泰兴\]</sup>  
 1. 【[半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shan.md#半上)】`bun5 shan` <sup>[如皋]</sup> 旁边、一旁：你到～去，让我来！把它放吖～，你先来吃饭！  
 1. 【[半晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shan.md#半晌)】`bun5 shan3` <sup>[兴化]</sup> 半天：前～；后～｜刘官人打门……敲了～，方才知觉……（《京本通俗小说·错斩崔宁》）  
 1. 【[半生不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shen_beh_shoh.md#半生不熟)】`bun5 shen1 beh7 shoh8` <small>/pʊ̃5 səŋ1 pəʔ7 sɔʔ8/<sup>泰兴</sup></small> ① 原意食物没有熟透，喻义与人不熟识。<sup>\[东台\]</sup> ② 食物没有达到熟透的程度<sup>\[泰州\]</sup>：这个老菱还～的，在煮个盹儿。<sup>\[泰州\]</sup> ③ 没有完全成熟或食物烹煮将至可食用的程度。<sup>\[泰兴\]</sup>：箇个西瓜～的<sup>\[泰兴\]</sup>  
