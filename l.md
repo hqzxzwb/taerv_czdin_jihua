@@ -668,6 +668,7 @@
 1. 【[狼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#狼)】`lan2` <sup>[如皋]</sup> 贪：他的心～。  
 1. 【[狼狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_geu.md#狼狗)】`lan2 geu3` <sup>[如东]</sup> 狗的一种。形状像狼，性凶猛，嗅觉敏锐，能够帮助看家。  
 1. 【[狼毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ho.md#狼毫)】`lan2 ho2` <sup>[如东]</sup> 毛笔的一种。笔头用黄鼠狼的毛做成，比较硬。  
+1. 【[狼山的菩萨，照远不照近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_shaen_dii_pv.md#狼山的菩萨，照远不照近)】`lan2 shaen1 dii pv2 saeh zho5 iun3 beh7 zho5 qien6` <small>/lɑŋ2 ɕiɛ̃1 təɪ pʰu2 ɕiæʔ t͡sɔ5 yʊ̃3 pəʔ7 t͡sɔ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 歇后语。喻能知道远方的事，而身边的事却不知道。<sup>\[泰兴\]</sup>  
 1. 【[狼山鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_shaen_ji.md#狼山鸡)】`lan2 shaen1 ji1` <sup>[如东]</sup> 世界名鸡，产在如东马塘、岔河以及掘港、丰利、双甸等乡镇。体型大，羽毛丰腴，肉嫩，抗病力强，属优良品种。清同治十一年（1872年），英国人在南通狼山买得此种鸡，故称狼山鸡。先后育成奥品顿、澳洲黑等国际知名鸡种。狼山鸡被列为世界八大名鸡之首，成为国际标准鸡种，世界家禽宝贵基因，入选世界优良鸡种标准图谱。  
 1. 【[狼头<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_teu_r_y.md#狼头<sub>儿</sub>鱼)】`lan2 teu2 r y2` <sup>[如皋]</sup> 小黄鱼。鱼纲，石首鱼科。  
 1. 【[狼尾草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_vei_co.md#狼尾草)】`lan2 vei3 co3` <sup>[如东]</sup> 禾本科植物狼尾草，多年生草本。  
@@ -1298,15 +1299,18 @@
 1. 【[留才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_cae.md#留才)】`lieu2 cae2` <sup>[东台]</sup> 先天性的智力。这孩子～好，又勤奋，将来有出息！  
 1. 【[留茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_cha.md#留茶)】`lieu2 cha2` <sup>[如皋]</sup> 出殡道中，亲友路祭。  
 1. 【[留发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_faeh.md#留发)】`lieu2 faeh7` 民俗，旧时父母去世，入殓封棺之前，要从孝子头上剪下少许头发放在钉孔之中，并将孝子丧服上的麻线绕在子孙钉上，称为挽钉。<sup>\[泰州\]</sup>  
-1. 【[留后路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_heu_lv.md#留后路)】`lieu2 heu6 lv6` <small>/lyʊ2 xei1 lu1/<sup>如皋</sup></small> ① 办事时，防备万一不成而预留退路。<sup>\[如东\]</sup> ② 见“存后手”。<sup>\[如皋\]</sup>  
+1. 【[留后路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_heu_lv.md#留后路)】`lieu2 heu6 lv6` <small>/lyʊ2 xei1 lu1/<sup>如皋</sup>, /ləɪ2 xəɪ1 lu1/<sup>泰兴</sup></small> ① 办事时，防备万一不成而预留退路。<sup>\[如东\]</sup> ② 见“存后手”。<sup>\[如皋\]</sup> ③ 预留退身之路。<sup>\[泰兴\]</sup>  
 1. 【[留后手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_heu_sheu.md#留后手)】`lieu2 heu6 sheu3` <small>/lyʊ2 xei1 sei3/<sup>如皋</sup></small> ① 为避免将来发生困难而采取留有余地的措施。<sup>\[如东\]</sup> ② 见“存后手”。<sup>\[如皋\]</sup> ③ 为避免将来发生困难而采取的留有余地的一些措施。<sup>\[东台\]</sup>  
+1. 【[留后着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_heu_zhah.md#留后着)】`lieu2 heu6 zhah` <small>/ləɪ2 xəɪ1 t͡sɑʔ/<sup>泰兴</sup></small> 谓采取留有余地的办法。<sup>\[泰兴\]</sup>  
 1. 【[留意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_i.md#留意)】`lieu2 i5` <sup>[如东]</sup> 注意。  
 1. 【[留忆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ieh_teu.md#留忆头)】`lieu2 ieh7 teu` <sup>[如皋]</sup> 给亲友留下记忆。  
 1. 【[留忆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ieh_teu.md#留忆头)】`lieu2 ieh7 teu2` <sup>[如皋]</sup> 人将去，留下值回忆、纪念的东西、话语、事件。  
 1. 【[留益头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_ieh_teu_r.md#留益头<sub>儿</sub>)】`lieu2 ieh7 teu2 r` <sup>[东台]</sup> 本指人临终留点好处给别人，现常作为詈语。  
+1. 【[留门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_men.md#留门)】`lieu2 men2` <small>/ləɪ2 məŋ2/<sup>泰兴</sup></small> 将门虚掩着，为后来的人方便进门。<sup>\[泰兴\]</sup>  
 1. 【[留难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_naen.md#留难)】`lieu2 naen2` 故意刁难<sup>\[泰州\]</sup>：他没得这个本事弄，你就不要～他唻。<sup>\[泰州\]</sup>  
 1. 【[留神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shen.md#留神)】`lieu2 shen2` <sup>[如东]</sup> 关注。  
 1. 【[留水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_shuei.md#留水)】`lieu2 shuei3` <sup>[如皋]</sup> 水车槽桄上的丁字形止推键，提水时能使沷虾儿不倒滑。  
+1. 【[留宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_soh.md#留宿)】`lieu2 soh7` <small>/ləɪ2 sɔʔ7/<sup>泰兴</sup></small> 留下来住宿。<sup>\[泰兴\]</sup>  
 1. 【[留胎毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_tae_mo.md#留胎毛)】`lieu2 tae1 mo2` <sup>[如东]</sup> ① 初生婴儿剃头后留下的胎发团，用红线扎好挂在蚊帐上，十岁后埋掉。 ② 男婴剃头留下一块桃形头发，长长后打成辫子，十岁后剃掉。  
 1. 【[留胎毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_tae_mo_r.md#留胎毛<sub>儿</sub>)】`lieu2 tae1 mo2 r` <sup>[如皋]</sup> ① 民俗。初生儿剃头后留下的胎髮团，用红线扎好挂于蚊帐上，十岁后埋掉。 ② 男婴剃头留下一块桃形头髮，长长后打辫子，十岁后剃去。  
 1. 【[留桃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieu_to_r.md#留桃<sub>儿</sub>)】`lieu2 to2 r` <sup>[如皋]</sup> 男婴剃头留下一块桃形头髮，长长后打辫子，十岁后剃去。  

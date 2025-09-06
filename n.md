@@ -3,6 +3,7 @@
 ## N
 1. 【[拿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na.md#拿)】`na2` <small>/la2/<sup>兴化</sup>, /nɑ2/<sup>泰兴</sup></small> ① 装出<sup>\[兴化\]</sup>：～三做四。<sup>\[兴化\]</sup> ② 批发<sup>\[兴化\]</sup>：到招商城～货。<sup>\[兴化\]</sup>｜这件上衣我～九十，卖把你一百，寻十块钱。<sup>\[兴化\]</sup> ③ 把，将。<sup>\[泰兴\]</sup>：你去～个脸洗下子。<sup>\[泰兴\]</sup>  
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
+1. 【[拿班做腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_qian.md#拿班做腔)】`na2 baen1 zu5 qian1` <small>/nɑ2 pɛ̃1 t͡sɤɯ5 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 装腔作势，摆架子<sup>\[泰兴\]</sup>  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
 1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
 1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ② 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ③ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
@@ -24,42 +25,45 @@
 1. 【[拿得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_chv.md#拿得住)】`na2 deh7 chv6` <sup>[东台]</sup> ［引］有能力控制局面。  
 1. 【[拿得起放得下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_qi_fan.md#拿得起放得下)】`na2 deh7 qi3 fan5 deh7 ha6` <sup>[东台]</sup> 敢于担当，措施有效，而且管理方式超脱。  
 1. 【[拿得稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_deh_ven.md#拿得稳)】`na2 deh7 ven3` <sup>[泰州]</sup> 有足够把握。  
+1. 【[拿家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ga_hu.md#拿家伙)】`na2 ga1 hu` <small>/nɑ2 kɑ1 xɤɯ/<sup>泰兴</sup></small> 搬取东西、物品。多用于婚庆之日男方派人到女方搬运嫁妆。<sup>\[泰兴\]</sup>  
 1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ga_zz.md#拿架子)】`na2 ga5 zz` <sup>[如东]</sup> ① 摆架子。 ② 提出苛刻条件：不要～。  
 1. 【[拿棍子唤狗——越叫越远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_guen_zz_hun.md#拿棍子唤狗——越叫越远)】`na2 guen5 zz hun5 geu3 iuh8 jio5 iuh8 iun3` <sup>[东台]</sup>   
 1. 【[拿和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hu.md#拿和)】`na2 hu2` <sup>[兴化]</sup> 劝和：“……你我弟兄多年……当真的弄这么个过节儿，最好～吧。”（扬一《风雏理事》）  
-1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup>  
+1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /nɑ2 xuəŋ2/<sup>泰兴</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup> ⑧ 起主要作用<sup>\[泰兴\]</sup>：我佼小组就靠他～<sup>\[泰兴\]</sup>  
 1. 【[拿汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hun.md#拿汗)】`na2 hun6` <sup>[如东]</sup> 由于使用力气大，身上会出汗。比喻非常吃劲：做这种活技，～。  
 1. 【[拿油啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ieu_a.md#拿油啊)】`na2 ieu2 a` <sup>[如东]</sup> ① 办滑了：捱你～，所以不好解决。 ② 办僵了：几次捱你～，现在难办吖。  
 1. 【[拿鸡蛋碰石头——找亏吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ji_taen_pon.md#拿鸡蛋碰石头——找亏吃)】`na2 ji1 taen6 pon5 sheh8 teu zho3 kuei1 qieh7` <sup>[东台]</sup>   
 1. 【[拿价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jia.md#拿价)】`na2 jia5` <sup>[如东]</sup> 提高价钱：春节到啊，连青菜都～。  
-1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jia_zz.md#拿架子)】`na2 jia5 zz` <small>/na2 t͡ɕia5 t͡sɿ/<sup>如皋</sup></small> ① 见“拿大”。<sup>\[如皋\]</sup> ② 就是摆架子。<sup>\[东台\]</sup> ③ 装腔作势，摆出自以为了不起的派头<sup>\[泰州\]</sup>：他这个人从来不～。<sup>\[泰州\]</sup>  
+1. 【[拿架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jia_zz.md#拿架子)】`na2 jia5 zz` <small>/na2 t͡ɕia5 t͡sɿ/<sup>如皋</sup>, /nɑ2 t͡ɕiɑ5 t͡sɿ/<sup>泰兴</sup></small> ① 见“拿大”。<sup>\[如皋\]</sup> ② 装腔作势，摆出自以为了不起的派头<sup>\[泰州\]</sup>：他这个人从来不～。<sup>\[泰州\]</sup> ③ 摆架子。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>  
 1. 【[拿奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jiaen.md#拿奸)】`na2 jiaen1` <sup>[兴化]</sup> 捉拿正在通奸的人，捉奸：“……‘～拿双’，拿不住双，反咬一口，就受不得了……”（《老残游记》十九）  
 1. 【[拿脚就跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jiah_qieu_po.md#拿脚就跑)】`na2 jiah7 qieu6 po2` <sup>[东台]</sup> 立即离开：他～。  
 1. 【[拿急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jieh.md#拿急)】`na2 jieh7` <sup>[如皋]</sup> 见你急需而乘机要挟。  
 1. 【[拿筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jien.md#拿筋)】`na2 jien1` <small>/la2 t͡ɕin1/<sup>兴化</sup>, /na2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 推拿、按摩法之一。<sup>\[如皋\]</sup> ② 掐捏人体关节处的神经，使酸麻而有快感。<sup>\[兴化\]</sup>  
 1. 【[拿交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_jio_i.md#拿交易)】`na2 jio1 i` <sup>[如东]</sup> ① 找生意。 ② 比喻找事情做。  
-1. 【[拿漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_leu.md#拿漏)】`na2 leu6` <small>/la2 lɤ6/<sup>兴化</sup></small> ① 泥瓦匠在屋上检拾漏雨的地方。也说“拾屋”。<sup>\[兴化\]</sup> ② 瓦工修补屋面上漏雨部分。<sup>\[兴化\]</sup>  
+1. 【[拿漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_leu.md#拿漏)】`na2 leu6` <small>/la2 lɤ6/<sup>兴化</sup>, /nɑ2 ləɪ1/<sup>泰兴</sup></small> ① 泥瓦匠在屋上检拾漏雨的地方。也说“拾屋”。<sup>\[兴化\]</sup> ② 瓦工修补屋面上漏雨部分。<sup>\[兴化\]</sup> ③ 修补屋顶损坏之处。<sup>\[泰兴\]</sup>  
 1. 【[拿漏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_leu_zz.md#拿漏子)】`na2 leu6 zz` <small>/na2 lei1 t͡sɿ/<sup>如皋</sup></small> ① 整修建筑物上的漏雨处。<sup>\[如皋\]</sup> ② 见“拾漏子”。<sup>\[如皋\]</sup>  
 1. 【[拿老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lo.md#拿老)】`na2 lo3` <small>/la2 lɔ3/<sup>兴化</sup></small> ① 摆老资格，老相。<sup>\[东台\]</sup> ② 有所恃而态度强硬<sup>\[兴化\]</sup>：“沈姑娘，你也太～了……都像你这一毛不拔，我们喝西北风！”（《儒林外史》四一）<sup>\[兴化\]</sup>  
 1. 【[拿老保](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lo_bo.md#拿老保)】`na2 lo3 bo3` <sup>[兴化]</sup> 轻率地许诺：这件事难成功，你覅忙～。  
 1. 【[拿龙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_teu.md#拿龙头)】`na2 lon2 teu2` <sup>[泰县]</sup> 领头。  
 1. 【[拿龙捉虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_zhuah_hv.md#拿龙捉虎)】`na2 lon2 zhuah7 hv3` <sup>[东台]</sup> ［喻］生龙活虎，能力很强：这几条汉子，个个都能～。  
+1. 【[拿龙捉虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_zhuah_hv.md#拿龙捉虎)】`na2 lon2 zhuah7 hv3` <small>/nɑ2 lɔŋ2 t͡suɑʔ7 fʋ3/<sup>泰兴</sup></small> 谓身强力壮，能适应艰苦的体力劳动。办事有朝气。<sup>\[泰兴\]</sup>  
 1. 【[拿麻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ma_jien.md#拿麻筋)】`na2 ma2 jien1` <sup>[如皋]</sup> ① 推拿一法，抓捏筋肉。 ② 抓住了关节点。  
 1. 【[拿门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_men.md#拿门)】`na2 men2` <sup>[如东]</sup> 绝招：这项手艺是他的～。  
 1. 【[拿摩瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mo_ven.md#拿摩瘟)】`na2 mo ven1` <sup>[如东]</sup> 比喻温顺、无用的老头：他是一个～，一天到晚不说话。  
 1. 【[拿磨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_r.md#拿磨<sub>儿</sub>)】`na2 mu6 r` <sup>[兴化]</sup> 一种游戏，用瓦片打成棋子大小（或用小布袋装泥砂），在平地上用手拈：（金如松）晓得桂香、梅香都愿跟他玩｜～、躲蒙儿、办家家儿。（马春阳《姐妹姻缘船迷传》）  
 1. 【[拿牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_chr.md#拿牙齿)】`na2 nga2 chr` <sup>[泰县]</sup> 拔牙。  
 1. 【[拿牙齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_chr.md#拿牙齿)】`na2 nga2 chr3` <sup>[兴化]</sup> 拔牙。  
-1. 【[拿牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_zz.md#拿牙子)】`na2 nga2 zz` <sup>[如皋]</sup> 拔牙。  
+1. 【[拿牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nga_zz.md#拿牙子)】`na2 nga2 zz` <small>/na2 ŋa2 t͡sɿ/<sup>如皋</sup>, /nɑ2 ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> 拔牙<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[拿熬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ngo_zz.md#拿熬子)】`na2 ngo2 zz` <sup>[东台]</sup> 与“拿乔”近义，自以为有一套，让别人苦苦求自己。  
 1. 【[拿捏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_nih.md#拿捏)】`na2 nih8` <sup>[兴化]</sup> 乘机刁难、要挟：“……他一定把环妹妹藏到乡下去，再讲盘子，那就受他的～了……”。（《老残游记》十四）  
 1. 【[拿别人穿蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_pih_ren_chun.md#拿别人穿蜡烛)】`na2 pih8 ren2 chun1 laeh8 zhoh7` <sup>[东台]</sup> 为了照亮自己而牺牲他人，一种极端个人主义。  
 1. 【[拿袢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_pun_zz.md#拿袢子)】`na2 pun5 zz` <sup>[如东]</sup> 卖关子，不肯帮忙：他在下～。  
 1. 【[拿钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qin.md#拿钱)】`na2 qin2` <sup>[如东]</sup> ① 取钱。 ② 有偿劳动：我帮他做活技是～的。  
-1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <small>/na2 t͡ɕʰiɔ2/<sup>如皋</sup>, /na2 t͡ɕʰiɔ2/<sup>泰县</sup></small> ① 坚持高要价<sup>\[如皋\]</sup>：谈判中，一方越是急需，另一方越是～。<sup>\[如皋\]</sup> ② 以某种借口，故意不肯为人做事。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ③ 留一手，摆架子<sup>\[东台\]</sup>：能帮忙而不帮忙，是故意～。<sup>\[东台\]</sup> ④ 能干不肯干：你不要～。<sup>\[泰县\]</sup> ⑤ 故意摆出作难样子或者找出借口拒绝别人的求助<sup>\[泰州\]</sup>：人家也是没得办法才来找你的，你要是能办的话就同他俫办啊子，不要再～唻。<sup>\[泰州\]</sup>  
+1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <small>/na2 t͡ɕʰiɔ2/<sup>如皋</sup>, /nɑ2 t͡ɕʰiɔ2/<sup>泰兴</sup>, /na2 t͡ɕʰiɔ2/<sup>泰县</sup></small> 摆架子刁难，能干而不干，抬高身价、要求更多利益<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：谈判中，一方越是急需，另一方越是～。<sup>\[如皋\]</sup>｜你不要～。<sup>\[如东\]</sup>｜能帮忙而不帮忙，是故意～。<sup>\[东台\]</sup>｜你不要～。<sup>\[泰县\]</sup>｜人家也是没得办法才来找你的，你要是能办的话就同他俫办啊子，不要再～唻。<sup>\[泰州\]</sup>  
 1. 【[拿人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren.md#拿人)】`na2 ren2` <small>/la2 lən2/<sup>兴化</sup>, /na2 ɻəŋ2/<sup>如皋</sup>, /na2 ɻəŋ2/<sup>泰县</sup></small> ① 使……过度……<sup>\[如皋\]</sup>：这场病真～，看吖瘦下去啊；服侍老爹真～，没日没夜的不歇劲。<sup>\[如皋\]</sup> ② 有吸引力，引人注意<sup>\[兴化\]</sup>：王少堂的“武十回”～。也说“拿得住人”。<sup>\[兴化\]</sup> ③ 不容易，难做到：这事有点儿～。<sup>\[泰县\]</sup>  
 1. 【[拿人开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren_kae_xien.md#拿人开心)】`na2 ren2 kae1 xien1` <sup>[泰州]</sup> 戏弄、取笑别人以使自己快乐：钱捱你俫赢吖走啊，就不要再拿人开心唻！  
 1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <sup>[兴化]</sup> 指用各种借口推托：谁请他一点事情，他有得～唻！  
+1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <small>/nɑ2 ɕiɛ̃1 t͡sɤɯ5 sɿ5/<sup>泰兴</sup></small> 借口推托；拿架子。<sup>\[泰兴\]</sup>  
 1. 【[拿三阻四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zv_sz.md#拿三阻四)】`na2 saen1 zv3 sz5` <sup>[东台]</sup> 再三再四找借口不答应。  
 1. 【[拿痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_sha.md#拿痧)】`na2 sha1` <sup>[如皋]</sup> 用按摩治理痧症：他用劲抐住咖算盘珠两旁边的奘筋，拿啊软吖，痧就退掉啊。  
 1. 【[拿食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_sheh.md#拿食)】`na2 sheh8` <sup>[如皋]</sup> 食欲旺：这一把小猪儿～吭，顿顿总把食槽儿里吃得精大光。  
@@ -75,15 +79,17 @@
 1. 【[拿头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_teu.md#拿头)】`na2 teu2` <small>/la2 tʰɤ2/<sup>兴化</sup>, /na2 tʰei2/<sup>如皋</sup></small> ① 镇压、控制为首者。<sup>\[如皋\]</sup> ② 杀头。<sup>\[如皋\]</sup> ③ 领头<sup>\[兴化\]</sup>：“我已出嫁，娘家的事应由我哥～。”（马春阳《昏迷再婚谜》）<sup>\[兴化\]</sup>  
 1. 【[拿头趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_teu_tan.md#拿头趟)】`na2 teu2 tan5` <sup>[兴化]</sup> 干农活走在前头：下田干农活，香莲也是一把好手，插秧割稻，她总是～……。（钱国怀《献上一枝白玫瑰》）  
 1. 【[拿掉吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tio_ba.md#拿掉吧)】`na2 tio ba` <sup>[如皋]</sup> 詈语。咒骂其让阴司捉去，即早死。  
-1. 【[拿舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tu.md#拿舵)】`na2 tu6` <small>/la2 tʰo6/<sup>兴化</sup>, /na2 tʰo1/<sup>泰县</sup></small> ① 行船时掌舵<sup>\[兴化\]</sup>：后面火舱里是一个十八九岁的妇人在里边～……（《儒林外史》五一）<sup>\[兴化\]</sup> ② （借）掌握方向<sup>\[兴化\]</sup>：“……二姑娘是我的老姑娘，不能随随便便，要让我来～”。（马春阳《访亲》）<sup>\[兴化\]</sup> ③ 掌舵。<sup>\[泰县\]</sup> ④ 掌握大局<sup>\[泰州\]</sup>：你一把手是～的人，这件事要慎重。<sup>\[泰州\]</sup>  
+1. 【[拿舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tu.md#拿舵)】`na2 tu6` <small>/la2 tʰo6/<sup>兴化</sup>, /nɑ2 tʰɤɯ1/<sup>泰兴</sup>, /na2 tʰo1/<sup>泰县</sup></small> ① 行船时掌舵<sup>\[兴化\]</sup>：后面火舱里是一个十八九岁的妇人在里边～……（《儒林外史》五一）<sup>\[兴化\]</sup> ② （借）掌握方向<sup>\[兴化\]</sup>：“……二姑娘是我的老姑娘，不能随随便便，要让我来～”。（马春阳《访亲》）<sup>\[兴化\]</sup> ③ 掌舵。<sup>\[泰县\]</sup> ④ 掌握大局<sup>\[泰州\]</sup>：你一把手是～的人，这件事要慎重。<sup>\[泰州\]</sup> ⑤ 比喻把握大势、控制前进方向<sup>\[泰兴\]</sup>  
 1. 【[拿腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tuei.md#拿腿)】`na2 tuei3` <sup>[兴化]</sup> 死亡的隐语：“对的，妖怪是个鱼精，被老猪一钉钯……拿了腿，打死了……”（扬一《通天河》）  
 1. 【[拿弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_vaen_qy_cheh.md#拿弯取直)】`na2 vaen1 qy3 cheh8` <sup>[兴化]</sup> ① 将弯曲的道路，河流理成直线，以缩短里程，便利通行。 ② 将木料上弯曲部分削去，使之平直。  
 1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <sup>[如皋]</sup> 判定：门响吖，我～是儿子家来的，原来是风。  
+1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <small>/nɑ2 ʋəŋ3/<sup>泰兴</sup></small> 有把握；成功的可能性大。<sup>\[泰兴\]</sup>：我～吖他要走箇许过<sup>\[泰兴\]</sup>  
 1. 【[拿现的，博赊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_xin_dii_bah.md#拿现的，博赊的)】`na2 xin6 dii bah7 sha1 dii` <small>/nɑ2 ɕĩ1 təɪ pɑʔ7 sɑ1 təɪ/<sup>泰兴</sup></small> 谓拿现成的东西换成欠的东西。<sup>\[泰兴\]</sup>  
 1. 【[拿准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zhuen.md#拿准)】`na2 zhuen3` <sup>[如东]</sup> 把问题弄准确：这件事你要～。  
 1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <sup>[兴化]</sup> 抓总、全面负责：镇长外出学习，镇里的工作由副镇长～。也说“抓总”。  
 1. 【[拿捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zuen.md#拿捘)】`na2 zuen5` <sup>[如东]</sup> 绳索上捘之后，拉力就大了。比喻得力：他就是这一手～。  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <small>/la2 t͡sɿ/<sup>兴化</sup>, /na2 t͡sɿ/<sup>如皋</sup></small> ① 夹具。<sup>\[如皋\]</sup> ② 刁难别人、制服别人的借口或手段<sup>\[东台\]</sup>：这个老板～真大！<sup>\[东台\]</sup> ③ 架子<sup>\[兴化\]</sup>：玩～（摆架子）；～不小。<sup>\[兴化\]</sup>  
+1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na3 zon3` <small>/nɑ3 t͡sɔŋ3/<sup>泰兴</sup></small> 负责全面工作<sup>\[泰兴\]</sup>  
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  
@@ -1212,8 +1218,10 @@
 1. 【[饿犼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_heu.md#饿犼)】`ngu6 heu3` <small>/o6 xɤ3/<sup>兴化</sup>, /o1 xɤɯ3/<sup>泰县</sup></small> ① 相传狃为一种哺乳动物，似犬，食人。比喻饿得非常厉害。<sup>\[如东\]</sup>：他像～样的，一连吃咖三碗饭。<sup>\[如东\]</sup> ② 像吃人野兽那样贪婪<sup>\[兴化\]</sup>：有的贪官像～，一到任就忙吖刮地皮。<sup>\[兴化\]</sup>｜他吃起来像～，恨不得连碗吞下去。<sup>\[兴化\]</sup> ③ 饿得很厉害。<sup>\[泰县\]</sup> ④ 看到食物而迫不及待的好吃的人<sup>\[泰州\]</sup>：这小伙～是的像八世年不曾吃过。<sup>\[泰州\]</sup>  
 1. 【[饿空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_kon.md#饿空)】`ngu6 kon1` <sup>[泰县]</sup> 欠债、赤字：这个月～大，不曾余到钱。  
 1. 【[饿空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_kon.md#饿空)】`ngu6 kon5` <sup>[兴化]</sup> 指负债过多：他是个～，窟窿太大，一时难填吖！  
+1. 【[饿痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lo.md#饿痨)】`ngu6 lo2` <small>/ŋɤɯ1 lɔ2/<sup>泰兴</sup></small> 讥饭量大、吃饭速度过快的人。<sup>\[泰兴\]</sup>  
 1. 【[饿痨病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lo_pien.md#饿痨病)】`ngu6 lo2 pien6` <sup>[如皋]</sup> 指肺结核病。  
 1. 【[饿病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_pien.md#饿病)】`ngu6 pien6` <sup>[如东]</sup> 糖尿病。  
+1. 【[饿煞鬼变的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei_bin.md#饿煞鬼变的)】`ngu6 shaeh guei3 bin5 dii` <small>/ŋɤɯ1 ɕiæʔ kuəɪ3 pĩ5 təɪ/<sup>泰兴</sup></small> 喻饭量大的人。<sup>\[泰兴\]</sup>  
 1. 【[饿杀鬼投的胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei_teu.md#饿杀鬼投的胎)】`ngu6 shaeh7 guei3 teu2 dii tae1` <sup>[如皋]</sup> 吃相粗鄙。  
 1. 【[饿煞鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei.md#饿煞鬼)】`ngu6 shaeh7 guei3` <sup>[东台]</sup> ［喻］指食量大的人。又称“饿死鬼”：你是～投的胎呀，一顿等不到一顿。  
 1. 【[饿煞鬼投的胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_shaeh_guei_teu.md#饿煞鬼投的胎)】`ngu6 shaeh7 guei3 teu2 dii tae1` <sup>[如皋]</sup> 贬指容易饿、食量大的人。  
@@ -1541,7 +1549,9 @@
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio3` <sup>[如东]</sup> 戏弄。纠缠。  
 1. 【[嬲刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_dio.md#嬲刁)】`nio3 dio1` <sup>[如东]</sup> 挑剔，纠缠：这个伢儿～。  
 1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <sup>[如东]</sup> 摇摆着向前推进：脚指向前～。  
+1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <small>/niɔ3/<sup>泰兴</sup></small> 缠绕。微动不停。<sup>\[泰兴\]</sup>  
 1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <sup>[如东]</sup> 形容走路摇摇摆摆的样子：她走起路来～。  
+1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <small>/niɔ3 tʰɔŋ/<sup>泰兴</sup></small> 颤动，抖动，摆动。<sup>\[泰兴\]</sup>：蛇头在～<sup>\[泰兴\]</sup>  
 1. 【[鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#鸟)】`nio3` <small>/niɔ3/<sup>如皋</sup></small> ① 爱挑剔、精明过分。<sup>\[如皋\]</sup> ② 脊椎动物的一纲，体温恒定，卵生，嘴内无齿，全身有羽毛，胸部有龙骨突起，前肢变成翼，后肢能行走。一般的鸟都会飞翔，也有的两翼退化，不能飞行。麻雀、鹰、鸭、驼鸟等都属于鸟类。<sup>\[如东\]</sup>  
 1. 【[鸟船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chun.md#鸟船)】`nio3 chun2` <sup>[如东]</sup> 帆船的一种。船底尖，船头狭，两侧有突出的眼睛，似鸟眼。适宜于在浙江沿海等深水海区航行与停泊。  
 1. 【[鸟话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_hua.md#鸟话)】`nio3 hua6` <sup>[如皋]</sup> 挑剔性、抱怨性的话。  
@@ -1576,15 +1586,16 @@
 1. 【[恼人心，恶人肠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren_xien_ngah.md#恼人心，恶人肠的)】`no3 ren2 xien1 ngah7 ren2 chan2 dii` <sup>[如皋]</sup> 使人伤心，使人恶嫌，使人恼怒。  
 1. 【[恼人心惹人肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren_xien_ra.md#恼人心惹人肠)】`no3 ren2 xien1 ra3 ren2 chan2` <sup>[东台]</sup> 得罪人，使别人伤心难受。也作“恼人肠子恶人心”。  
 1. 【[恼人虽在腹，相交又何妨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ren_xy_cae.md#恼人虽在腹，相交又何妨)】`no3 ren2 xy1 cae6 foh7 xian1 jio1 ieu6 hu2 fan2` <sup>[如皋]</sup> 劝慰语。  
+1. 【[脑充血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chon_xiuh.md#脑充血)】`no3 chon1 xiuh7` <small>/nɔ3 t͡sʰɔŋ1 ɕyʊʔ7/<sup>泰兴</sup></small> 脑溢血。<sup>\[泰兴\]</sup>  
 1. 【[脑冲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chon_zz.md#脑冲子)】`no3 chon5 zz` <sup>[泰州]</sup> 人的头顶：他真的来啊火，逮住这家伙的～，上去就一下子。  
 1. 【[脑后风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_heu_fon.md#脑后风)】`no3 heu6 fon1` <small>/lɔ3 xɤ6 foŋ1/<sup>兴化</sup>, /nɔ3 xei1 fɔŋ1/<sup>如皋</sup></small> ① 某种环境中有一股不断从脑后吹来的不易觉察的冷风，易致头、颈、肩部疾患。<sup>\[如皋\]</sup> ② 不当一回事：不要把法律当成～。<sup>\[如皋\]</sup> ③ 从身后吹来的风<sup>\[兴化\]</sup>：这一刻滴水成冰，神仙还怕～哩。（《武松》九）<sup>\[兴化\]</sup>  
-1. 【[脑油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ieu.md#脑油)】`no3 ieu2` <small>/lɔ3 iɤ2/<sup>兴化</sup>, /nɔ3 yʊ2/<sup>如皋</sup></small> ① 人的头部皮肤油脂分泌过多，有气味，易污染衣物、被子等称为“有～”、“～重”。<sup>\[如皋\]</sup> ② 指沾染在衣物上的人头颈部的分泌物<sup>\[兴化\]</sup>：他的～太重。<sup>\[兴化\]</sup> ③ 人的头部分泌出的脂肪性污垢<sup>\[泰州\]</sup>：他戴过的帽子，里头全是～。<sup>\[泰州\]</sup>  
+1. 【[脑油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_ieu.md#脑油)】`no3 ieu2` <small>/lɔ3 iɤ2/<sup>兴化</sup>, /nɔ3 yʊ2/<sup>如皋</sup>, /nɔ3 iɤɯ2/<sup>泰兴</sup></small> ① 人的头部皮肤油脂分泌过多，有气味，易污染衣物、被子等称为“有～”、“～重”。<sup>\[如皋\]</sup> ② 指沾染在衣物上的人头颈部的分泌物<sup>\[兴化\]</sup>：他的～太重。<sup>\[兴化\]</sup> ③ 人的头部分泌出的脂肪性污垢<sup>\[泰州\]</sup>：他戴过的帽子，里头全是～。<sup>\[泰州\]</sup> ④ 头上分泌出的油脂。<sup>\[泰兴\]</sup>  
 1. 【[脑浆珠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_jian_zhv_zz.md#脑浆珠子)】`no3 jian1 zhv1 zz` <sup>[兴化]</sup> 头部破裂时流出的脑髓。  
 1. 【[脑筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_jien.md#脑筋)】`no3 jien` <sup>[如东]</sup> ① 比喻思维：动～。 ② 比喻思想：换～。  
 1. 【[脑漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_leu.md#脑漏)】`no3 leu6` <sup>[如皋]</sup> 鼻窦脓疡波及脑部，可以致命。  
 1. 【[脑门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_men.md#脑门)】`no3 men2` <sup>[泰县]</sup> 额头。  
 1. 【[脑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_r.md#脑<sub>儿</sub>)】`no3 r` <sup>[如皋]</sup> ① 茎部肉质：莴苣～、芥菜～。 ② 小团块：砖头～。  
-1. 【[脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_shah_zz.md#脑勺子)】`no3 shah8 zz` <small>/lɔ3 saʔ8 t͡sɿ/<sup>兴化</sup></small> 头的后部<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“小玉这丫头要是回嘴，你替我刮他两～！”（马春阳《战友加亲邻》）<sup>\[兴化\]</sup>｜“哎也！是我走的慌了，脚后跟只打着脑杓子。”（《水浒传》三二）<sup>\[兴化\]</sup>｜大人说的话你都撂啊～后头去啊唻。<sup>\[泰州\]</sup>  
+1. 【[脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_shah_zz.md#脑勺子)】`no3 shah8 zz` <small>/lɔ3 saʔ8 t͡sɿ/<sup>兴化</sup>, /nɔ3 sɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 头的后部<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“小玉这丫头要是回嘴，你替我刮他两～！”（马春阳《战友加亲邻》）<sup>\[兴化\]</sup>｜“哎也！是我走的慌了，脚后跟只打着脑杓子。”（《水浒传》三二）<sup>\[兴化\]</sup>｜大人说的话你都撂啊～后头去啊唻。<sup>\[泰州\]</sup>  
 1. 【[脑袋瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_tae_gua_r.md#脑袋瓜<sub>儿</sub>)】`no3 tae6 gua1 r` <sup>[如皋]</sup> ① 脑袋头。 ② 脑力（智慧）：他的～灵光。  
 1. 【[脑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_teu.md#脑头)】`no3 teu` <sup>[兴化]</sup> 头绪、来龙去脉：你先把～过节弄清爽再发表议论。  
 1. 【[闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#闹)】`no6` 踩踏  

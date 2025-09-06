@@ -2208,10 +2208,14 @@
 1. 【[随嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_zuei_shuh.md#随嘴说)】`cuei2 zuei3 shuh7` <sup>[兴化]</sup> 不加思考，不负责任地信口而谈：批评人要讲事实，不能～。  
 1. 【[翠绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_loh.md#翠绿)】`cuei5 loh8` <sup>[东台]</sup> 像翡翠一样的绿色。  
 1. 【[脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei.md#脆)】`cuei5` <sup>[兴化]</sup> ① 幽默：老先生说话多～啊。 ② 声音清脆：嗓子真～。  
+1. 【[脆崩崩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_bon_bon.md#脆崩崩)】`cuei5 bon bon` <small>/t͡sʰuəɪ5 pɔŋ pɔŋ/<sup>泰兴</sup></small> 很脆；干。<sup>\[泰兴\]</sup>  
 1. 【[脆蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_bon.md#脆蹦)】`cuei5 bon` <sup>[兴化]</sup> 形容食品酥脆、可口：膨化的蚕豆蛮～的。  
+1. 【[脆骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_gueh.md#脆骨)】`cuei5 gueh7` <small>/t͡sʰuəɪ5 kuəʔ7/<sup>泰兴</sup></small> 作为食品的动物软骨。<sup>\[泰兴\]</sup>  
 1. 【[脆话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_hua.md#脆话)】`cuei5 hua6` <sup>[兴化]</sup> ① 幽默、风趣的话：他几句～把大家说得笑起来。 ② 自谦的话：你覅说～，你的作品这次肯定获奖。  
 1. 【[脆滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_huaeh.md#脆滑)】`cuei5 huaeh8` <sup>[兴化]</sup> ① 形容食物酥脆可口：瓜子腌得蛮～的。 ② 干燥、挺括的样子：衣装洗得～。生动形式“脆滑滑”。  
+1. 【[脆滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_huaeh.md#脆滑)】`cuei5 huaeh8` <small>/t͡sʰuəɪ5 xuæʔ8/<sup>泰兴</sup></small> 干脆爽利；脆。<sup>\[泰兴\]</sup>  
 1. 【[脆滑滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_huaeh_huaeh.md#脆滑滑)】`cuei5 huaeh8 huaeh8` <sup>[兴化]</sup> “脆滑”的生动形式。  
+1. 【[脆烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_sho_bien.md#脆烧饼)】`cuei5 sho bien` <small>/t͡sʰuəɪ5 sɔ piŋ/<sup>泰兴</sup></small> 脆饼<sup>\[泰兴\]</sup>  
 1. 【[罪过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_gu.md#罪过)】`cuei6 gu5` <sup>[如东]</sup> ① 过失：这是我犯的～。 ② 表示对不起。 ③ 谦辞，表示不敢当。  
 1. 【[罪魁祸首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_kuei_hu_sheu.md#罪魁祸首)】`cuei6 kuei2 hu6 sheu3` <sup>[如东]</sup> 罪恶行为的首要分子。  
 1. 【[罪恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuei_ngah.md#罪恶)】`cuei6 ngah7` <sup>[如东]</sup> 严重损害人民利益的行为。  

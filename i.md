@@ -2009,7 +2009,7 @@
 1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` ① 用勺儿将流汁取出来。<sup>\[如东\]</sup>：～汤。<sup>\[如东\]</sup> ② 用勺、瓢等取液体<sup>\[泰州\]</sup>：～两勺儿油。<sup>\[泰州\]</sup>｜到缸里～水。<sup>\[泰州\]</sup>  
 1. 【[舀粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fen.md#舀粪)】`io3 fen5` <sup>[如皋]</sup> 用料勺舀取粪池中的粪肥料。  
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  
-1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` ① 舀东西的工具 ② 水舀子的简称。<sup>\[如东\]</sup> ③ 海滩上像勺子一样圆形的水洼，渔民称为舀子。<sup>\[如东\]</sup>：我俫在北～里捞虾儿。<sup>\[如东\]</sup>  
+1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` ① 舀东西的工具 ② 海滩上像勺子一样圆形的水洼，渔民称为舀子。<sup>\[如东\]</sup>：我俫在北～里捞虾儿。<sup>\[如东\]</sup>  
 1. 【[䌁扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#䌁扣)】`io5 keu1` <small>/iɔ5 kʰei1/<sup>如皋</sup>, /iɔ5 kʰəɪ1/<sup>泰兴</sup></small> ① 见“䌁子”。<sup>\[如皋\]</sup> ② 用于捆麦秆、稻草等临时拧成的绳状秸秆。<sup>\[泰兴\]</sup>  
 1. 【[䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_r.md#䌁<sub>儿</sub>)】`io5 r` <sup>[如皋]</sup> 扭绞状的物体：麻花～、丝～、屎～。  
 1. 【[䌁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#䌁子)】`io5 zz` <small>/iɔ5 t͡sɿ/<sup>兴化</sup>, /iɔ5 t͡sɿ/<sup>如皋</sup>, /iɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 有捻度的单股绳或绳状物：绞～、草～。<sup>\[如皋\]</sup> ② 用草绞成的绳，较粗，供固定茅屋屋草用。<sup>\[如东\]</sup> ③ 用稻草、茅草等搅成的粗绳<sup>\[东台\]</sup>：用草～子捆秸秆。<sup>\[东台\]</sup> ④ 捆扎庄稼或蔬菜的单股草绳。兴化词典作“要子”，《广韵·笑韵》於笑切，“要，约也。”《说文》“约，缠束也。”<sup>\[兴化\]</sup> ⑤ 用麦秆、稻草临时拧成的绳状物。<sup>\[泰兴\]</sup>  

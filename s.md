@@ -2883,9 +2883,9 @@
 1. 【[树段子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tun_zz.md#树段子)】`shv6 tun6 zz` <small>/su6 tʰũ6 t͡sɿ/<sup>兴化</sup>, /su1 tʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> ① 树的主体，从地面向上，至分叉的部分。<sup>\[兴化\]</sup> ② 成段的树干。<sup>\[泰兴\]</sup>  
 1. 【[竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv.md#竖)】`shv6` <sup>[兴化]</sup> 汉字笔划，形状是“｜”。  
 1. 【[竖𣑁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_chon_r.md#竖𣑁<sub>儿</sub>)】`shv6 chon5 r` <sup>[如皋]</sup> 旧式家俱上的竖料。  
-1. 【[竖滴蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dieh_xien.md#竖滴蛵)】`shv6 dieh7 xien1` <sup>[泰州]</sup> 竖蜻蜓。头朝下、脚朝上倒立，双手支撑全身。  
 1. 【[竖顶心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dien_xien.md#竖顶心)】`shv6 dien3 xien1` <sup>[东台]</sup> 旧时孩童运动技艺之一，双手着地，头朝下，脚朝上笔直作倒立状。也作“竖笛心”。  
 1. 【[竖叠蜻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dih_qien.md#竖叠蜻)】`shv6 dih7 qien1` <sup>[兴化]</sup> 倒立：翻跟头，～。  
+1. 【[竖叠蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_dih_xien.md#竖叠蛵)】`shv6 dih7 xien1` <sup>[泰州]</sup> 竖蜻蜓。头朝下、脚朝上倒立，双手支撑全身。  
 1. 【[竖街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gae.md#竖街)】`shv6 gae1` <small>/su1 kɛ1/<sup>如皋</sup></small> ① 南北街，与横街相对。<sup>\[如皋\]</sup> ② 南北向的街道。<sup>\[如东\]</sup>  
 1. 【[竖脊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jieh_zz.md#竖脊子)】`shv6 jieh7 zz` <small>/su1 t͡ɕiəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 椅背竖料。<sup>\[如皋\]</sup> ② 见“抗旱”。<sup>\[如皋\]</sup> ③ 脚踏式水车的配件“眠牛儿”上的立柱，供搁“扶手儿”用。<sup>\[如皋\]</sup>  
 1. 【[竖路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lv.md#竖路)】`shv6 lv6` <sup>[如东]</sup> 南北向的道路。  
@@ -2900,7 +2900,7 @@
 1. 【[竖头肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_teu_roh.md#竖头肉)】`shv6 teu2 roh8` <sup>[如东]</sup> 鸡眼。  
 1. 【[竖蜓蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tien_xien.md#竖蜓蛵)】`shv6 tien2 xien` <sup>[如皋]</sup> 竖蜻蜒。倒立的动作。  
 1. 【[竖蜓星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tien_xien.md#竖蜓星)】`shv6 tien2 xien1` <sup>[如东]</sup> 竖蜻蜓。两手向下撑地，双脚向上。也称倒立。  
-1. 【[竖叠蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tih_xien.md#竖叠蛵)】`shv6 tih8 xien1` <small>/su1 tʰiʔ8 ɕiŋ1/<sup>泰兴</sup></small> 双手着地倒立的姿态。也作“竖蜻蜓”。<sup>\[泰兴\]</sup>  
+1. 【[竖叠蛵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tih_xien.md#竖叠蛵)】`shv6 tih8 xien1` <small>/su1 tʰiʔ8 ɕiŋ1/<sup>泰兴</sup></small> 双手着地倒立的姿态。叠又音dih7。也说“竖蜻蜓”。<sup>\[泰兴\]</sup>  
 1. 【[竖心帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_ban.md#竖心帮)】`shv6 xien1 ban1` <sup>[如皋]</sup> 竖心旁。  
 1. 【[竖心旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien_pan.md#竖心旁)】`shv6 xien1 pan2` <small>/su6 ɕin1 pʰaŋ2/<sup>兴化</sup>, /su1 ɕiŋ1 pʰɑŋ2/<sup>泰兴</sup></small> 汉字偏旁，“忄”。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[竖在](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zae.md#竖在)】`shv6 zae` <sup>[泰县]</sup> 无论如何，反正：～我要去。  

@@ -177,8 +177,9 @@
 1. 【[𦚢膀<sub>儿</sub>打妈妈——甩开手做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_ban_r_da.md#𦚢膀<sub>儿</sub>打妈妈——甩开手做)】`ya1 ban3 r da3 ma1 ma1 shuae3 kae1 sheu3 zu5` <sup>[东台]</sup>   
 1. 【[𦚢𩨭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_qya.md#𦚢𩨭)】`ya1 qya1` 手足弯曲。见“𦚢”。  
 1. 【[𦚢手别脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_bih_jiah.md#𦚢手别脚)】`ya1 sheu3 bih7 jiah7` <sup>[兴化]</sup> ① 手脚不灵活。 ② 举手投足姿势不正确：～的。  
-1. 【[𦚢手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_r.md#𦚢手<sub>儿</sub>)】`ya1 sheu3 r` <small>/ya1 sei˞3/<sup>如皋</sup></small> ① 手臂畸型，或指人。<sup>\[如皋\]</sup> ② 趣指不会或不肯做事的人。<sup>\[如皋\]</sup> ③ 手指或手臂残疾。<sup>\[如东\]</sup> ④ 手指或手臂有残疾的人。也叫涎（𣹺）子。<sup>\[如东\]</sup>  
-1. 【[𦚢手𦚢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_ya_jiah.md#𦚢手𦚢脚)】`ya1 sheu3 ya1 jiah7` ① 做事不利落。<sup>\[如东\]</sup>：～的，怎吖得快？<sup>\[如东\]</sup> ② 做事动作不灵敏（𦚢，《广韵》“於靴切手足曲病。”）<sup>\[东台\]</sup>：天又不曾太冷，你怎吖～，做事不刷脱？<sup>\[东台\]</sup>  
+1. 【[𦚢手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_r.md#𦚢手<sub>儿</sub>)】`ya1 sheu3 r` <small>/ya1 sei˞3/<sup>如皋</sup>, /yɑ1 ɕiɤɯ˞3/<sup>泰兴</sup></small> ① 手臂畸型，或指人。<sup>\[如皋\]</sup> ② 趣指不会或不肯做事的人。<sup>\[如皋\]</sup> ③ 手指或手臂残疾，或指人<sup>\[如东\]</sup> ④ 𦚢子<sup>\[泰兴\]</sup>：他是个～<sup>\[泰兴\]</sup>  
+1. 【[𦚢手𦚢脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_sheu_ya_jiah.md#𦚢手𦚢脚)】`ya1 sheu3 ya1 jiah7` <small>/yɑ1 ɕiɤɯ3 yɑ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 做事不利落。<sup>\[如东\]</sup>：～的，怎吖得快？<sup>\[如东\]</sup> ② 做事动作不灵敏<sup>\[东台\]</sup>：天又不曾太冷，你怎吖～，做事不刷脱？<sup>\[东台\]</sup> ③ 手脚不灵便，粗笨拖沓。<sup>\[泰兴\]</sup>  
+1. 【[𦚢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_zz.md#𦚢子)】`ya1 zz` <small>/yɑ1 t͡sɿ/<sup>泰兴</sup></small> 因手疾致残的人；手不灵便。<sup>\[泰兴\]</sup>  
 1. 【[挼将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_jian.md#挼将)】`ya2 jian` <sup>[东台]</sup> 势头衰减、体质弱的趋向：他年纪增大，精气神也不如以前吖，渐渐～啊！｜你以前能喝半斤酒，今吖只喝这一点点，怎吖～吖啦？  
 1. 【[曰口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/ya_keu.md#曰口)】`ya5 keu` <sup>[如皋]</sup> 言下之意，言外之音：听他的～是想买二胡。  
 1. 【[□责](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/yae_zeh.md#□责)】`yae2 zeh7` <sup>[泰县]</sup> 得罪人。  

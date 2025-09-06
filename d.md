@@ -2628,6 +2628,7 @@
 1. 【[赌咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu.md#赌咒)】`dv3 zheu5` 发誓。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[赌咒发誓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu_faeh_shr.md#赌咒发誓)】`dv3 zheu5 faeh7 shr` <sup>[东台]</sup> 用赌咒证明自己的清白：他常说谎，谁也不信他的～。  
 1. 【[赌嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zuei.md#赌嘴)】`dv3 zuei3` <sup>[兴化]</sup> （贬）比说的功夫，不干实事：“洒家同你打仗，不同你～！”（扬二《收关胜》）  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv.md#□)】`dv5` <small>/tu5/<sup>泰兴</sup></small> 速行、逃逸<sup>\[泰兴\]</sup>：那只兔子～掉lo<sup>\[泰兴\]</sup>  
 1. 【[嘟䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_lieu_r.md#嘟䗜<sub>儿</sub>)】`dv5 lieu r` <sup>[如皋]</sup> 体小色绿秋鸣的蝉，鸣声每节近似“机——遇丝”。  
 1. 【[妒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv.md#妒)】`dv5` <sup>[如皋]</sup> ① 嫉妒。 ② 生气的表情：脸～啊下。  
 1. 【[妒恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_hen.md#妒恨)】`dv5 hen6` <sup>[如东]</sup> 讨厌：王二打牌，他婆娘在背后瞎指挥，大家～得交关。  

@@ -1336,6 +1336,7 @@
 1. 【[知心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_xien_hua.md#知心话)】`zhr1 xien1 hua6` <sup>[如东]</sup> 内心话：我说的都是～。  
 1. 【[知足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_zoh.md#知足)】`zhr1 zoh7` <sup>[如东]</sup> ① 获得适当的利益而感到满足。 ② 不追求不合适的利益。  
 1. 【[脂垢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_geu.md#脂垢)】`zhr1 geu` <sup>[兴化]</sup> 人身上的污垢：身上～擸𢶍的。  
+1. 【[脂油渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu_zha_zz.md#脂油渣子)】`zhr1 ieu zha1 zz` <small>/t͡sɿ1 iɤɯ t͡sɑ1 t͡sɿ/<sup>泰兴</sup></small> 熬过油的猪肥肉渣。<sup>\[泰兴\]</sup>  
 1. 【[脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu.md#脂油)】`zhr1 ieu2` <small>/t͡sɿ1 iɤ2/<sup>兴化</sup>, /t͡sɿ1 yʊ2/<sup>如皋</sup>, /t͡sɿ1 iɤɯ2/<sup>泰县</sup></small> 动物油脂，通常指猪油，或专指猪板油。或称荤油。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：（俗语）一盆～顿吖心口上，让人舒服。<sup>\[东台\]</sup>  
 1. 【[脂油疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu_ba_r.md#脂油疤<sub>儿</sub>)】`zhr1 ieu2 ba1 r` <sup>[如皋]</sup> 猪油熬出油脂剩下的痂状物，香脆可食。  
 1. 【[脂油丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ieu_dien_zz.md#脂油丁子)】`zhr1 ieu2 dien1 zz` <sup>[兴化]</sup> 脂油切成的小块，用糖或盐、葱末等拌和后作包子、圆子等食品的馅心。也作“荤油丁子”。  
