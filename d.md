@@ -2608,8 +2608,8 @@
 1. 【[赌本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ben.md#赌本)】`dv3 ben3` <sup>[如东]</sup> 赌博的资本。  
 1. 【[赌场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_chan.md#赌场)】`dv3 chan2` <sup>[如东]</sup> 进行赌博的场所，称赌场。也称赌钱场。  
 1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don` <sup>[兴化]</sup> 用请客来打赌：我俫赌个东东，输的人请客。  
-1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don1` <small>/tu3 toŋ1 toŋ1/<sup>泰县</sup></small> ① 打赌的意思<sup>\[东台\]</sup>：你说今吖有雨，我说没得，不信我俫～。<sup>\[东台\]</sup> ② 打赌<sup>\[泰县\]</sup>：你不信，我俫来～。<sup>\[泰县\]</sup>  
-1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to` <small>/tu3 tɔŋ1 tʰɔ/<sup>如皋</sup></small> ① 比、争。输方作东。<sup>\[如皋\]</sup> ② 以“东道”为赌注比输赢，即双方打赌，输者请客<sup>\[泰州\]</sup>：他是肯定不得来，你要是不相信，我同你～，要是他来啊，明吖请你俫大家上富春吃早茶。<sup>\[泰州\]</sup>  
+1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don1` <small>/tu3 toŋ1 toŋ1/<sup>泰县</sup></small> 打赌<sup>\[东台\]</sup><sup>\[泰县\]</sup>：你说今吖有雨，我说没得，不信我俫～。<sup>\[东台\]</sup>｜你不信，我俫来～。<sup>\[泰县\]</sup>  
+1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to` <small>/tu3 tɔŋ1 tʰɔ/<sup>如皋</sup></small> 双方比、争、打赌，输方作东。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他是肯定不得来，你要是不相信，我同你～，要是他来啊，明吖请你俫大家上富春吃早茶。<sup>\[泰州\]</sup>  
 1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to6` <sup>[如东]</sup> 打赌：你哿敢跟我～？  
 1. 【[赌稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ji.md#赌稽)】`dv3 ji1` <sup>[如皋]</sup> ① 见“稽品”。 ② 输了又要赖账，说过了又要否认。 ③ 不承认，赖账。  
 1. 【[赌酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_jieu.md#赌酒)】`dv3 jieu3` <sup>[如东]</sup> 以酒作赌注。  
