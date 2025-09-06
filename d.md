@@ -207,6 +207,7 @@
 1. 【[打印子钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ien_zz_qin.md#打印子钱)】`da3 ien5 zz qin2` <sup>[兴化]</sup> （喻）购质次的东西，初时花钱少，尔后零碎花钱多：买这种杂牌子自行车一碰要修，等于～。  
 1. 【[打油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ieu.md#打油)】`da3 ieu2` <small>/ta3 iɤ2/<sup>兴化</sup>, /ta3 yʊ2/<sup>如皋</sup></small> ① 榨油。<sup>\[如东\]</sup>：今朝送菜籽去～。<sup>\[如东\]</sup> ② 买油。<sup>\[如东\]</sup>：我上街去～。<sup>\[如东\]</sup> ③ 不按既定目标实行。<sup>\[如东\]</sup> ④ 用木榨榨油。<sup>\[如皋\]</sup> ⑤ 零买植物油。如打酱油、打麻油、打头油。<sup>\[如皋\]</sup> ⑥ 榨油。<sup>\[兴化\]</sup> ⑦ 一种游戏<sup>\[兴化\]</sup>：四个人抬起一个人，将他的头部撞向另一个人的臀部。<sup>\[兴化\]</sup>  
 1. 【[打噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ih.md#打噎)】`da3 ih7` <small>/ta3 iʔ7/<sup>如皋</sup></small> ① 因食道障碍而使吞咽发生困难。<sup>\[如东\]</sup> ② 食物阻住食管引起的抽搐和不适。<sup>\[如皋\]</sup>  
+1. 【[打噎果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ih_gu.md#打噎果)】`da3 ih7 gu3` <small>/tɑ3 iʔ7 kɤɯ3/<sup>泰兴</sup></small> 呃逆\[泰兴：（《泰兴方言辞典》作“打热嗝”）\]  
 1. 【[打胭脂墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_zhr_den.md#打胭脂墩<sub>儿</sub>)】`da3 in1 zhr1 den1 r` <sup>[如皋]</sup> 用“挑针屁股”蘸胭脂在眉心、鼻尖等处打上红点。  
 1. 【[打幺扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_keu.md#打幺扣)】`da3 io1 keu1` <sup>[如东]</sup> 两把草头互结，或者一把草头捻捘捆紧另一把草，称打幺扣。  
 1. 【[打幺扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_io_keu.md#打幺扣)】`da3 io1 keu5` <sup>[如皋]</sup> 将两把草的穗部互结，或将一把草加点捻度，供捆扎用。  
