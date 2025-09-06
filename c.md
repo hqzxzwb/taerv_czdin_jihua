@@ -113,6 +113,7 @@
 1. 【[在心在意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xien_cae_i.md#在心在意)】`cae6 xien1 cae6 i5` <small>/t͡sʰɛ1 ɕiəŋ1 t͡sʰɛ1 ʝ5/<sup>如皋</sup></small> ① 当心当意，一丝不苟。<sup>\[如皋\]</sup> ② 认认真真，时刻不忘。<sup>\[如皋\]</sup>  
 1. 【[在先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xin.md#在先)】`cae6 xin1` <sup>[如皋]</sup> 时空在前。  
 1. 【[载船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_chun.md#载船)】`cae6 chun2` <sup>[如东]</sup> 大型木质帆船，载重量在百吨以上。通称货船。  
+1. 【[擦板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_baen.md#擦板)】`caeh7 baen3` <small>/t͡ɕʰiæʔ7 pɛ̃3/<sup>泰兴</sup></small> 搓衣板<sup>\[泰兴\]</sup>  
 1. 【[擦背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_bei.md#擦背)】`caeh7 bei5` <small>/t͡sʰæʔ7 pəi5/<sup>兴化</sup>, /t͡sʰeʔ7 pei5/<sup>如皋</sup></small> ① 助浴。<sup>\[如皋\]</sup> ② 搓澡<sup>\[兴化\]</sup>：在操堂里～真舒服。<sup>\[兴化\]</sup> ③ 浴室服务项目之一，帮客人擦去全身污垢。<sup>\[泰州\]</sup>  
 1. 【[擦壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_bieh.md#擦壁)】`caeh7 bieh7` <sup>[泰县]</sup> 刚才。  
 1. 【[擦黑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caeh_heh_r.md#擦黑<sub>儿</sub>)】`caeh7 heh7 r` <sup>[兴化]</sup> 天将黑的时候：今吖清早上车，～才到杭州。  
