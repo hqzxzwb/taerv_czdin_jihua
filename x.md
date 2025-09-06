@@ -1921,7 +1921,6 @@
 1. 【[尿尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy.md#尿尿)】`xy1 xy1` <sup>[东台]</sup> 撒尿。  
 1. 【[尿尿变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy_bin.md#尿尿变)】`xy1 xy1 bin5` <sup>[东台]</sup> （贬）随随便便的谐音戏称，也说尿一泡尿就变了。  
 1. 【[尿渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_zha_r.md#尿渣<sub>儿</sub>)】`xy1 zha1 r` <sup>[如东]</sup> 肚肠里的大便残渣：～都拉出来啊。  
-1. 【[繻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_zz.md#繻子)】`xy1 zz` <sup>[东台]</sup> 用丝线、布条或纸条等扎成的的装饰品。（《说文解字段注》繻，相俞切，读若“须”。）  
 1. 【[虚饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_bo.md#虚饱)】`xy1 bo3` <small>/ɕy1 pɔ3/<sup>如皋</sup></small> ① 吃的食物不耐饥，暂时饱了，一会儿就饿。与“实饱”相对。<sup>\[如皋\]</sup> ② 见“哄肚子”。<sup>\[如皋\]</sup>  
 1. 【[虚辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz.md#虚辞)】`xy1 cz2` <sup>[如皋]</sup> ① 客套话：打～。 ② 作动词，用客套话对待：我不是～你，就在我家吃个便饭。  
 1. 【[虚乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_hv.md#虚乎)】`xy1 hv` <sup>[如皋]</sup> 疏松。  
@@ -1943,6 +1942,7 @@
 1. 【[虽则](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_zeh.md#虽则)】`xy1 zeh7` <sup>[东台]</sup> 虽然；虽说。  
 1. 【[须须<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy_r.md#须须<sub>儿</sub>)】`xy1 xy1 r` <sup>[如东]</sup> ① 附在物体上的细条状物，通常比较柔软。 ② 毛发：嘴上有啊～。  
 1. 【[须须<sub>儿</sub>根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_xy_r_gen.md#须须<sub>儿</sub>根)】`xy1 xy1 r gen1` <sup>[如皋]</sup> ① 根须。 ② 须根。  
+1. 【[须子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_zz.md#须子)】`xy1 zz` <small>/suəɪ1 t͡sɿ/<sup>泰兴</sup></small> 流苏<sup>\[泰兴\]</sup>\[东台：用丝线、布条或纸条等扎成的的装饰品。（《东台方言词典》作“繻子”）\]  
 1. 【[水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy.md#水)】`xy3` “水shuei3”的口语音。  
 1. 【[许刀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_do_teu.md#许刀头)】`xy3 do1 teu` <sup>[东台]</sup> 刀头本指敬菩萨的肉块，喻指承诺给对方某些好处：他原来对我～，这回要兑现。  
 1. 【[许刀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_do_teu.md#许刀头)】`xy3 do1 teu2` <sup>[泰县]</sup> 许愿：你又～。  
