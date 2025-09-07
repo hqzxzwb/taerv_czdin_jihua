@@ -523,6 +523,7 @@
 1. 【[蛇葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_pv_to.md#蛇葡萄)】`sha2 pv2 to2` <sup>[如皋]</sup> 蛇莓。  
 1. 【[蛇蜃百脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shen_boh_jiah.md#蛇蜃百脚的)】`sha2 shen2 boh7 jiah7 dii` <sup>[如皋]</sup> 指毒虫之类。蜃，龙。  
 1. 【[蛇闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shin.md#蛇闪)】`sha2 shin3` <sup>[如皋]</sup> 闪电中心的闪光，形似游蛇。  
+1. 【[蛇死有人挑，人死有人窖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sz_ieu_ren.md#蛇死有人挑，人死有人窖)】`sha2 sz3 ieu3 ren2 tio1 ren2 sz3 ieu3 ren2 go5` <small>/sɑ2 sɿ3 iɤɯ3 ɻəŋ2 tʰiɔ1 ɻəŋ2 sɿ3 iɤɯ3 ɻəŋ2 kɔ5/<sup>泰兴</sup></small> 死了自然有人收尸（本人并不需要操心）<sup>\[泰兴\]</sup>  
 1. 【[蛇头王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_teu_van.md#蛇头王)】`sha2 teu2 van2` <sup>[如皋]</sup> 一枝黄花。  
 1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <small>/sa2 tʰiɪ̃5 t͡sɿ/<sup>兴化</sup>, /sa2 tʰĩ5 t͡sɿ/<sup>如皋</sup>, /sa2 tʰiɪ̃5 t͡se/<sup>泰县</sup></small> ① 蛇舌。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如东：也称蛇信子。\] ② 比喻眼睛灵敏、眼光闪烁。<sup>\[如东\]</sup>：这个人的眼睛像～一样的。<sup>\[如东\]</sup> ③ 蛇舌的前分岔。<sup>\[兴化\]</sup> ④ 很毒的人\[泰县：这个女的是个～。\] ⑤ 快速\[泰县：他的眼睛像～。\]  
 1. 【[蛇芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_teu.md#蛇芋头)】`sha2 y6 teu2` <sup>[如皋]</sup> 天南星。  
