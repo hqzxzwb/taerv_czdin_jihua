@@ -815,7 +815,6 @@
 1. 【[望吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nga.md#望吖)】`van6 nga` <sup>[东台]</sup> 认为，看法：这人你～怎吖说？｜你俫说今吖冷，我～不冷。  
 1. 【[望吖空处去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nga_kon_chv.md#望吖空处去啊)】`van6 nga kon5 chv5 qy5 a` <sup>[如皋]</sup> 希望落空了。  
 1. 【[望屋梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_oh_lian.md#望屋梁)】`van6 oh7 lian2` <sup>[兴化]</sup> 死后不能及时收殓的隐语：人死下来没钱打当，躺吖那块～。  
-1. 【[望箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#望箔)】`van6 pah8` <sup>[兴化]</sup> 铺在椽子上的芦帘或竹席，上面铺油毡盖瓦。  
 1. 【[望起爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qi_pa.md#望起爬)】`van6 qi pa2` <sup>[如皋]</sup> 由卧、伏、坐、跪等开始爬起来。  
 1. 【[望前抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qin_cho.md#望前抄)】`van6 qin2 cho1` <sup>[如皋]</sup> 向前翘起：他的下齿包上齿，下巴～。  
 1. 【[望上抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shan_cho.md#望上抄)】`van6 shan6 cho1` <sup>[如皋]</sup> 向上翘起：他的帽叶子～。  
@@ -828,6 +827,7 @@
 1. 【[望朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zho.md#望朝)】`van6 zho1` <sup>[兴化]</sup> 农村婚俗：在蜜月中，女方亲属择吉日去男家看望新娘。  
 1. 【[望子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#望子)】`van6 zz` <sup>[东台]</sup> 幌子，店铺门口悬挂的标志，在远处就能看见：酒～；豆腐～。  
 1. 【[𥭚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#𥭚板)】`van6 baen3` <sup>[东台]</sup> 铺在椽子上的木板。  
+1. 【[𥭚箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#𥭚箔)】`van6 pah8` <sup>[兴化]</sup> 铺在椽子上的芦帘或竹席，上面铺油毡盖瓦。  
 1. 【[𥭚箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#𥭚箔)】`van6 pah8` 建筑草屋用的材料之一，一种用芦苇秆和草绳编成的加宽帘子，建草房时覆盖在椽子上以承受麦草。<sup>\[泰州\]</sup>  
 1. 【[𥭚障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zhan.md#𥭚障)】`van6 zhan5` <small>/ʋã1 t͡sã5/<sup>如皋</sup></small> ① 用芦柴茎编成的板状物，作建材。<sup>\[如皋\]</sup> ② 芦柴、岸草等编成的板状物，可用于造草屋顶、墙，作卧具等。<sup>\[如皋\]</sup> ③ 铺在椽子上的障笆。多用芦柴编成。<sup>\[东台\]</sup>  
 1. 【[𥭚障泥灰墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zhan_ni_huei.md#𥭚障泥灰墙)】`van6 zhan5 ni2 huei1 qian2` <sup>[如皋]</sup> 长江边上常用的，一种以𥭚障为骨抹泥而成的墙壁  
