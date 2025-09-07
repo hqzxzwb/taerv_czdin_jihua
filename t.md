@@ -25,7 +25,7 @@
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
 1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
-1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松重<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup> ④ 松垂的样子。<sup>\[如皋\]</sup> ⑤ 下垂。<sup>\[如东\]</sup>：绳索从树上～下来。<sup>\[如东\]</sup> ⑥ 向下垂。<sup>\[泰兴\]</sup>  
+1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup> ④ 松垂的样子。<sup>\[如皋\]</sup> ⑤ 下垂。<sup>\[如东\]</sup>：绳索从树上～下来。<sup>\[如东\]</sup> ⑥ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
 1. 【[𢪯黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_huan_lon.md#𢪯黄龙)】`tae1 huan2 lon` <sup>[如东]</sup> 脓性鼻涕从鼻孔里流出来。  
@@ -148,7 +148,7 @@
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
 1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> 漂洗。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：洗后漂清\]\[东台：洗过的衣被，再放到清水里漂洗。\]：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜到河边～衣裳<sup>\[泰州\]</sup>｜青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
-1. 【[绐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#绐)】`tae6` <sup>[兴化]</sup> 松驰下垂：绳子～下来啊。《说文·系部》“～，丝劳即～。”徒亥切。  
+1. 【[绐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#绐)】`tae6` <sup>[兴化]</sup> 松驰下垂。《说文·糸部》“～，丝劳即～。”徒亥切：绳子～下来啊。  
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  

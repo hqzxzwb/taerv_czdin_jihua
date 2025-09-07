@@ -892,11 +892,16 @@
 1. 【[缝纫工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ren_gon.md#缝纫工)】`fon2 ren6 gon1` <sup>[如东]</sup> 从事服装制作的工人。  
 1. 【[逢场做戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_chan_zu_xi.md#逢场做戏)】`fon2 chan2 zu5 xi5` <sup>[如东]</sup> 碰上机会而说说笑话。  
 1. 【[逢高兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_go_xien.md#逢高兴)】`fon2 go1 xien5` <sup>[兴化]</sup> 赶上高兴的时候：他大多时间玩电脑、上网，看书学习是～。  
+1. 【[逢高兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_go_xien.md#逢高兴)】`fon2 go1 xien5` <small>/fɔŋ2 kɔ1 ɕiŋ5/<sup>泰兴</sup></small> 随自己的情绪、意愿而办理某事。<sup>\[泰兴\]</sup>  
 1. 【[逢犒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ko.md#逢犒)】`fon2 ko5` <sup>[泰县]</sup> 定期犒赏。  
+1. 【[逢犒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ko.md#逢犒)】`fon2 ko5` <small>/fɔŋ2 kʰɔ5/<sup>泰兴</sup></small> 旧时犒劳部队将士，今亦指得到犒劳、酬劳或指打牙祭。<sup>\[泰兴\]</sup>  
 1. 【[逢年过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nin_gu_jih.md#逢年过节)】`fon2 nin2 gu5 jih7` <sup>[兴化]</sup> 过年、过节的时候：她病了……除了～起来几天，其余的时间都在床上躺着，整天地躺着。（汪曾祺《晚饭花·珠子灯》）  
+1. 【[逢年过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_nin_gu_jih.md#逢年过节)】`fon2 nin2 gu5 jih7` <small>/fɔŋ2 nĩ2 kɤɯ5 t͡ɕiʔ7/<sup>泰兴</sup></small> 遇到时节、节日。<sup>\[泰兴\]</sup>  
 1. 【[逢人搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ren_daeh.md#逢人搭)】`fon2 ren2 daeh7` <sup>[东台]</sup> 指女人轻贱，不分对象随随便便跟男人交往，以至发生不正当关系。又叫“逢人配”。  
 1. 【[逢人配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ren_pei.md#逢人配)】`fon2 ren2 pei5` <sup>[兴化]</sup> ① 扑克中可替代任何点子的牌：大小王～。 ② （喻）指生活作风糜烂的人。又称“百搭”。  
+1. 【[逢人配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ren_pei.md#逢人配)】`fon2 ren2 pei5` <small>/fɔŋ2 ɻəŋ2 pʰəɪ5/<sup>泰兴</sup></small> 贬生活作风不正的女人语；牌戏中可以百搭的牌。<sup>\[泰兴\]</sup>  
 1. 【[逢人配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_ren_pi.md#逢人配)】`fon2 ren2 pi5` <sup>[泰州]</sup> 任意遇到某一个人就可以结合，用作麻将术语，指可替代所有牌的牌：老李下午打牌的手局好，有一圈牌二筒～，四张二筒都捱他个人抓啊去啊，你说他怎吖得不赢钱。  
+1. 【[逢时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shr.md#逢时)】`fon2 shr2` <small>/fɔŋ2 sɿ2/<sup>泰兴</sup></small> 谓遇上好时运。<sup>\[泰兴\]</sup>  
 1. 【[俸外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_vae.md#俸外)】`fon6 vae6` <small>/foŋ6 uɛ6/<sup>兴化</sup>, /fɔŋ1 ʋɛ1/<sup>如皋</sup>, /fɔŋ1 ʋɛ1/<sup>泰兴</sup></small> ① 份外，此外，外加<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：你去寄信，～，买一包烟。<sup>\[如皋\]</sup>｜一千五是你的生活费，～还有零花钱。<sup>\[东台\]</sup>｜货款归货款，佣金～把。<sup>\[兴化\]</sup>｜我每月寄三百块钱给你生活，添衣裳、看病的钱～寄。<sup>\[兴化\]</sup>｜～再把100块钱<sup>\[泰兴\]</sup> ② 附加的待遇或者支出<sup>\[泰州\]</sup>：每个月工资2000块，～免费供应一顿中饭。<sup>\[泰州\]</sup>｜你这一会子结婚光是酒水就要15万，烟、酒、喜糖还在～，不曾算吖里头。<sup>\[泰州\]</sup>  
 1. 【[凤尾鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_vei_y.md#凤尾鱼)】`fon6 vei3 y2` <sup>[如东]</sup> 缝科动物刀鲚，俗称风鲚。长约12厘米。身体侧扁，鳞细，无侧线。头小而尖，尾尖而细。生活在海洋中，春季或初夏到江河中产卵。  
 1. 【[凤仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xin.md#凤仙)】`fon6 xin1` <sup>[如东]</sup> 凤仙花科植物凤仙，一年生直立草本。  

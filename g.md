@@ -801,6 +801,7 @@
 1. 【[高潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_cho.md#高潮)】`go1 cho2` <sup>[如东]</sup> ① 在海潮的一个涨落周期内，水面上升的最高潮位。 ② 比喻事物高度发展的阶段。  
 1. 【[高橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chv.md#高橱)】`go1 chv2` <small>/kɔ1 t͡sʰu2/<sup>如皋</sup></small> ① 橱的一种。体积大，脚较高，两扇门，以放置被服为主。<sup>\[如东\]</sup> ② 旧式两门橱，有四只高脚。<sup>\[如皋\]</sup>  
 1. 【[高墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den_r.md#高墩<sub>儿</sub>)】`go1 den1 r` <small>/kɔ1 tə˞1/<sup>如皋</sup></small> ① 比平地凸出的部分。<sup>\[如东\]</sup> ② 高堆子，主要指高的泥堆子。<sup>\[如皋\]</sup> ③ 比喻条件优越的地方、人家、岗位：三花墩儿、两花墩儿——拣～扒（ba1）。<sup>\[如皋\]</sup>  
+1. 【[高灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den.md#高灯)】`go1 den1` <small>/kɔ1 təŋ1/<sup>泰兴</sup></small> 民俗。谓元宵灯节张灯。<sup>\[泰兴\]</sup>  
 1. 【[高凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den.md#高凳)】`go1 den5` <small>/kɔ1 təŋ5/<sup>如皋</sup></small> ① 高的狭长的凳子。 ② 条凳。<sup>\[如东\]</sup> ③ 一般指二人坐的与小腿等高的凳子。<sup>\[如皋\]</sup>  
 1. 【[高低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_di.md#高低)】`go1 di1` <small>/kɔ1 təi1/<sup>兴化</sup>, /kɔ1 tʝ1/<sup>如皋</sup></small> ① 无论如何<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：随你怎吖劝相，她是～不依。<sup>\[如皋\]</sup>｜同他说咖半天，他～不同意。<sup>\[泰州\]</sup> ② 终究、毕竟、到底<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：他～是你老子，你不能不问他的信。<sup>\[如皋\]</sup>｜这本书～在上海书店买到啊。<sup>\[兴化\]</sup> ③ “意外”的婉辞<sup>\[兴化\]</sup>：伢儿在外头有个～，看你怎吖办？<sup>\[兴化\]</sup>  
 1. 【[高东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_don.md#高东)】`go1 don` <sup>[泰州]</sup> ① 上面，同“高头”。 ② 某个物体的最高之处上面：酒柜～｜房子～的瓦破啊。 ③ 在某个文件或者文书上：这个文件～的内容重要。  
@@ -829,6 +830,7 @@
 1. 【[高平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_pien_dien.md#高平顶)】`go1 pien2 dien3` <sup>[如皋]</sup> 男髮式之一周围短髮，顶髮略长，向上面一字平。  
 1. 【[高桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qio.md#高桥)】`go1 qio2` <sup>[如皋]</sup> 旧时用条石砌的大型拱桥。桥洞很高，可以行船。  
 1. 【[高沙土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_sha_tv.md#高沙土)】`go1 sha1 tv3` <sup>[如皋]</sup> 沙壤。  
+1. 【[高上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shan.md#高上)】`go1 shan` <small>/kɔ1 sɑŋ/<sup>泰兴</sup></small> 上面<sup>\[泰兴\]</sup>：把名字写啊箇个～<sup>\[泰兴\]</sup>｜把搞子放吖箇个～<sup>\[泰兴\]</sup>  
 1. 【[高升](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shen.md#高升)】`go1 shen1` <small>/kɔ1 sən1/<sup>兴化</sup>, /kɔ1 səŋ1/<sup>如皋</sup></small> ① 一种有尾带哨的烟火。<sup>\[如皋\]</sup> ② 现统指双响的炮仗，一响升空，二响空中炸开。<sup>\[如皋\]</sup> ③ 双响。<sup>\[兴化\]</sup> ④ 一种礼花。<sup>\[兴化\]</sup>  
 1. 【[高声大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shen_da_qi.md#高声大气)】`go1 shen1 da6 qi5` <sup>[泰州]</sup> 说话声音很大：你望吖看是哪个在走廊上～的说话？  
 1. 【[高寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_sheu.md#高寿)】`go1 sheu6` <sup>[如东]</sup> ① 寿命长：这位老人家～啊。 ② 询问老人年龄的雅语：老人家今年～？  
@@ -838,9 +840,10 @@
 1. 【[高挑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tio_zz.md#高挑子)】`go1 tio1 zz` <sup>[兴化]</sup> 形容瘦高个儿：孙家大媳妇是个瘦～。｜“你们那一个认得冯君瑞？”内中有一个～出来跪禀道：“小的认得。”（《儒林外史》四三）  
 1. 【[高岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_un.md#高岸)】`go1 un6` <sup>[如皋]</sup> 置身事外：他倈在吃苦赚钱，你却站吖在～上享清福。  
 1. 【[高装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan.md#高装)】`go1 zhuan` <sup>[泰州]</sup> 面粉发酵时间稍短，揉面团时加入生面较多，所做馒头蒸熟后相对硬实：你蒸的这个馒头～，少年人吃咖正好。  
-1. 【[高庄馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高庄馒头)】`go1 zhuan1 mun2 teu` <sup>[泰州]</sup> 无馅馒头，发酵时间较短，面团揉𢷹时，加入生面较多，蒸出的馒头韧性较强，很有咬嚼。  
 1. 【[高桩馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高桩馒头)】`go1 zhuan1 mun2 teu` <sup>[兴化]</sup> 用很硬的面酵蒸熟的比较厚的馒头。形似窝头而底平。  
+1. 【[高桩馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高桩馒头)】`go1 zhuan1 mun2 teu` <sup>[泰州]</sup> 无馅馒头，发酵时间较短，面团揉𢷹时，加入生面较多，蒸出的馒头韧性较强，很有咬嚼。  
 1. 【[高桩平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_pien_dien.md#高桩平顶)】`go1 zhuan1 pien2 dien3` <sup>[兴化]</sup> 一种男子的发式，即“小平头”。  
+1. 【[高桩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_teu.md#高桩头)】`go1 zhuan1 teu2` <small>/kɔ1 t͡suɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 发型的一种。留有较短的发桩，类似平头。<sup>\[泰兴\]</sup>  
 1. 【[高祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zv_fv.md#高祖父)】`go1 zv3 fv6` <sup>[如东]</sup> 父亲的曾祖父。  
 1. 【[高祖母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zv_mu.md#高祖母)】`go1 zv3 mu3` <sup>[如东]</sup> 父亲的曾祖母。  
 1. 【[㽱肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan_sha.md#㽱肠痧)】`go3 chan2 sha1` <small>/kɔ3 t͡sʰaŋ2 sa1/<sup>兴化</sup>, /kɔ3 t͡sʰã2 sa1/<sup>如皋</sup>, /kɔ3 t͡sʰɑŋ2 sɑ1/<sup>泰兴</sup></small> ① 中医病名。西医叫阑尾炎。俗称盲肠炎。<sup>\[如皋\]</sup> ② 一种腹部剧痛的病症。㽱，《广韵·巧的》古巧切：腹中急痛。<sup>\[兴化\]</sup> ③ 肠梗阻。<sup>\[泰兴\]</sup> ④ 中医特指不吐不泻而有剧烈腹痛的霍乱病人。<sup>\[泰州\]</sup>  
@@ -1523,8 +1526,10 @@
 1. 【[郭刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_do_r.md#郭刀<sub>儿</sub>)】`guah7 do1 r` <sup>[如皋]</sup> （如皋词典作“榾柮儿”）原指魔术。引指：花样、噱头、阴谋：这个里头有～。  
 1. 【[郭咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_ga.md#郭咖)】`guah7 ga` <sup>[如皋]</sup> 见“郭的”。  
 1. 【[郭公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_gon.md#郭公)】`guah7 gon1` <sup>[如皋]</sup> 二声杜鹃。  
+1. 【[郭公雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_gon_jiah_r.md#郭公雀<sub>儿</sub>)】`guah7 gon1 jiah7 r` <small>/kuɑʔ7 kɔŋ1 t͡ɕiɑ˞7/<sup>泰兴</sup></small> 布谷鸟的别称。布谷鸟鸣声如“郭公”，故名。乡人云：“郭公郭公，毛雨烹烹。”<sup>\[泰兴\]</sup>  
 1. 【[郭雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r.md#郭雀<sub>儿</sub>)】`guah7 jiah7 r` <sup>[兴化]</sup> 后周太祖郭威发迹前的浑名。由于他在位的时间仅三四年，故有“～登基——快活一时是一时”之说。  
 1. 【[郭雀<sub>儿</sub>登基——不得长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r_den.md#郭雀<sub>儿</sub>登基——不得长)】`guah7 jiah7 r den1 ji1 beh7 deh7 chan2` <sup>[东台]</sup> 典故出自郭威的人生经历。后周太祖郭威，本姓常，幼时随母适郭氏，因脖子上刺了一只飞雀，所以人称“郭雀儿”。郭威在五代初期的乱世中，由普通士卒逐渐成长为将领，最后当上皇帝，清廉勤政。但郭威无子，只活了五十一岁，当了三年皇帝，死后便由内侄柴荣接位，故江淮民间有“～”的说法。  
+1. 【[郭雀<sub>儿</sub>登基，一时三刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_jiah_r_den.md#郭雀<sub>儿</sub>登基，一时三刻)】`guah7 jiah7 r den1 ji1 ieh7 shr2 saen1 keh7` <small>/kuɑʔ7 t͡ɕiɑ˞7 təŋ1 t͡ɕʝ1 iʔ7 sɿ2 ɕiɛ̃1 kʰəʔ7/<sup>泰兴</sup></small> 郭雀儿，五代后周太祖郭威微贱时的绰号、别称。《新五代史》：“周太祖少贱，黥其颈上为飞雀，世谓之郭雀儿。”乡人有歇后语称：“郭雀儿登基，一时三刻。”谓其在位时间很短（公元951 954年）。<sup>\[泰兴\]</sup>  
 1. 【[光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#光)】`guan1-3` <sup>[如皋]</sup> 副词，同“光”：他～吃不做。  
 1. 【[光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#光)】`guan1` <small>/kuaŋ1/<sup>兴化</sup>, /kuã1/<sup>如皋</sup>, /kuɑŋ1/<sup>泰兴</sup></small> ① 光线。<sup>\[如东\]</sup> ② 无，没有。<sup>\[如东\]</sup> ③ 副词。同“经常、一直、只、单、仅”<sup>\[如皋\]</sup>：他～做事，不要钱；你不要～上他家去。有时也说成guan3。<sup>\[如皋\]</sup> ④ 打磨加工件，使光滑<sup>\[兴化\]</sup>：～木板<sup>\[兴化\]</sup>｜～地坪。<sup>\[兴化\]</sup> ⑤ 净尽<sup>\[泰兴\]</sup>：麦收啊～吖咾<sup>\[泰兴\]</sup> ⑥ 裸露<sup>\[泰兴\]</sup>：～膀子<sup>\[泰兴\]</sup>  
 1. 【[光膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_ban_zz.md#光膀子)】`guan1 ban3 zz` <sup>[如东]</sup> 上身不穿衣服：这是公共场所，请不要～。  
@@ -1586,6 +1591,7 @@
 1. 【[广种薄收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhon_pah_sheu.md#广种薄收)】`guan3 zhon5 pah8 sheu1` <small>/kuɑŋ3 t͡sɔŋ5 pʰɑʔ8 ɕiɤɯ1/<sup>泰兴</sup></small> 种植面积大，单位面积产量低。也用来喻意广泛施行，最后结果收效甚微。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[桄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#桄)】`guan5` <small>/kuaŋ5/<sup>兴化</sup>, /kuã5/<sup>如皋</sup></small> ① 横木。<sup>\[如皋\]</sup>：槽～/槽桶上方的对长横木。<sup>\[如皋\]</sup> ② 床、门、车等物上的横木。<sup>\[东台\]</sup> ③ 绕线的器具<sup>\[东台\]</sup>：一～线。<sup>\[东台\]</sup> ④ 木器家具上的横木。<sup>\[兴化\]</sup> ⑤ 木制器物上的横木<sup>\[泰州\]</sup>：门～<sup>\[泰州\]</sup>｜这挂板车～太细。<sup>\[泰州\]</sup>  
 1. 【[桄竹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_zhoh_r.md#桄竹<sub>儿</sub>)】`guan5 zhoh7 r` <sup>[如皋]</sup> 络丝的工具。插在“桄”上的12根笔竹，用以套住丝絖子，便于上下理顺。  
+1. 【[逛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#逛)】`guan5` <small>/kuɑŋ5/<sup>泰兴</sup></small> 外出散步；闲游；游玩。<sup>\[泰兴\]</sup>：出去～码头<sup>\[泰兴\]</sup>  
 1. 【[逛街头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae_teu.md#逛街头)】`guan5 gae1 teu2` <sup>[东台]</sup> 逛街：没事，我俫～去。  
 1. 【[逛逛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_guan.md#逛逛)】`guan5 guan` <sup>[东台]</sup> 到处瞧瞧、看看。  
 1. 【[𠈑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan.md#𠈑)】`guan5` <small>/kuaŋ5/<sup>兴化</sup>, /kuã5/<sup>如皋</sup>, /kuɑŋ5/<sup>泰县</sup></small> ① 在木料表面稍微刨一刨，使之光滑。<sup>\[如东\]</sup> ② 涂擦<sup>\[如皋\]</sup>：拿油漆把桌子面儿～下子。<sup>\[如皋\]</sup> ③ 清除<sup>\[如皋\]</sup>：～场。<sup>\[如皋\]</sup> ④ 剃<sup>\[如皋\]</sup>：～脸、～胡子。<sup>\[如皋\]</sup> ⑤ 平滑光亮<sup>\[如皋\]</sup>：车杠上有～。<sup>\[如皋\]</sup> ⑥ 使物体表面光泽。<sup>\[东台\]</sup>：皮夹克上～吖。<sup>\[东台\]</sup> ⑦ 轻轻摩擦<sup>\[兴化\]</sup>：他把剃刀在荡刀布上～～。<sup>\[兴化\]</sup>｜（侉奶奶）有时把锥子插在头发里～一～。（汪曾祺《故里杂记》）<sup>\[兴化\]</sup> ⑧ 剃、刮、扫<sup>\[泰县\]</sup>：你把地下～下子。<sup>\[泰县\]</sup> ⑨ 用刀刮去汗毛胡须或者头发<sup>\[泰州\]</sup>：你同他把脸上～吖干净吖。<sup>\[泰州\]</sup>  

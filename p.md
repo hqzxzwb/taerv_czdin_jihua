@@ -1257,7 +1257,7 @@
 1. 【[盘查](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cha.md#盘查)】`pun2 cha2` <sup>[如东]</sup> 盘问，查询。  
 1. 【[盘查哨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cha_sho.md#盘查哨)】`pun2 cha2 sho5` <sup>[如东]</sup> 抗日战争和解放战争时期，解放区农民协会或乡村政权派在交通路口侦查汉奸、特务的岗哨，一般由民兵儿童团或老年人担任值勤。  
 1. 【[盘肠草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chan_co.md#盘肠草)】`pun2 chan2 co3` <sup>[如东]</sup> 葫芦科植物南瓜的果实内萌发的幼苗。  
-1. 【[盘程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chen.md#盘程)】`pun2 chen2` <small>/pʰũ2 t͡sʰən2/<sup>兴化</sup>, /pʰʊ̃2 t͡sʰəŋ2/<sup>如皋</sup></small> ① 盘缠，川资。<sup>\[如皋\]</sup> ② 路费<sup>\[兴化\]</sup>：我上北京光有去的～，没得回头的路费。<sup>\[兴化\]</sup>｜“……就是送与两位舅爷做～，也是该的。”（《儒林外史》五）<sup>\[兴化\]</sup> ③ 盘缠，路费。<sup>\[泰州\]</sup>  
+1. 【[盘程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chen.md#盘程)】`pun2 chen2` <small>/pʰũ2 t͡sʰən2/<sup>兴化</sup>, /pʰʊ̃2 t͡sʰəŋ2/<sup>如皋</sup></small> 盘缠，路费，川资<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我上北京光有去的～，没得回头的路费。<sup>\[兴化\]</sup>｜“……就是送与两位舅爷做～，也是该的。”（《儒林外史》五）<sup>\[兴化\]</sup>  
 1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <sup>[东台]</sup> 路费：各位游客要带足～。  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun` <sup>[如东]</sup> 用于交通、伙食、住宿等费用，称盘川。盘缠。  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun1` <sup>[兴化]</sup> 路费：出门办事要带足～。｜（员外）只是不准多带跟人，惟恐耗费了～……（《三侠五义》三）  

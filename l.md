@@ -1036,12 +1036,13 @@
 1. 【[凉车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_cha_r.md#凉车<sub>儿</sub>)】`lian2 cha1 r` <sup>[兴化]</sup> 夏天供婴儿坐卧的竹摇床。  
 1. 【[凉抽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_cheu.md#凉抽)】`lian2 cheu` <sup>[兴化]</sup> 形容风凉：夏天，楼道里比较～。  
 1. 【[凉池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chr.md#凉池)】`lian2 chr2` <small>/liaŋ2 t͡sʰɿ2/<sup>兴化</sup></small> ① 浴室里近门的大水池，因其距锅炉较远，水温相对较低，故名。<sup>\[兴化\]</sup> ② 与澡堂浴池相连接的非封闭的一间，内设石凳供客人稍微休息后再次入浴，室内温度相对浴池凉快。<sup>\[泰州\]</sup>  
-1. 【[凉床<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chuan_r.md#凉床<sub>儿</sub>)】`lian2 chuan2 r` <small>/liaŋ2 t͡sʰuaŋ2 ɚ/<sup>兴化</sup>, /liã2 t͡sʰua˞2/<sup>如皋</sup>, /niɑŋ2 t͡ɕʰyɑŋ2 ɚ/<sup>泰县</sup></small> ① 竹床儿，床面为毛竹片。<sup>\[如皋\]</sup> ② 见“竹床儿”。<sup>\[如皋\]</sup> ③ 竹制的床，由床面和竹凳组成。又称“竹床儿”。<sup>\[兴化\]</sup> ④ 幼儿睡的竹床。<sup>\[泰县\]</sup>  
+1. 【[凉床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chuan.md#凉床)】`lian2 chuan2` <small>/liɑŋ2 t͡sʰuɑŋ2/<sup>泰兴</sup></small> 夏日小孩睡的小床。<sup>\[泰兴\]</sup>  
+1. 【[凉床<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_chuan_r.md#凉床<sub>儿</sub>)】`lian2 chuan2 r` <small>/liaŋ2 t͡sʰuaŋ2 ɚ/<sup>兴化</sup>, /liã2 t͡sʰua˞2/<sup>如皋</sup>, /niɑŋ2 t͡ɕʰyɑŋ2 ɚ/<sup>泰县</sup></small> ① 竹床儿，床面为毛竹片。<sup>\[如皋\]</sup> ② 竹制的床，由床面和竹凳组成。又称“竹床儿”。<sup>\[兴化\]</sup> ③ 幼儿睡的竹床。<sup>\[泰县\]</sup>  
 1. 【[凉沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_dah_dah.md#凉沰沰)】`lian2 dah7 dah7` <small>/liaŋ2 taʔ7 taʔ7/<sup>兴化</sup></small> ① 高温下人的体表温度不高<sup>\[兴化\]</sup>：他身上～的。<sup>\[兴化\]</sup> ② 夏天以手触摸他人肌肤时感觉到的清凉绵软感觉<sup>\[泰州\]</sup>：才从空调间里走出来，身上～的。<sup>\[泰州\]</sup>  
-1. 【[凉粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen.md#凉粉)】`lian2 fen3` ① 食品。将粉坨子加工成片状，圆形，称凉粉。<sup>\[如东\]</sup> ② 多用蚕豆或绿豆淀粉制成的半胶质状固体，刨丝或切成皮，用作料凉拌着吃。<sup>\[东台\]</sup>  
+1. 【[凉粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen.md#凉粉)】`lian2 fen3` <small>/liɑŋ2 fəŋ3/<sup>泰兴</sup></small> ① 食品。将粉坨子加工成片状，圆形，称凉粉。<sup>\[如东\]</sup> ② 多用蚕豆或绿豆淀粉制成的半胶质状固体，刨丝或切成皮，用作料凉拌着吃。<sup>\[东台\]</sup> ③ 用豆粉等漏去渣滓熬成稠糊，冷却后凝成的块状或条状的食品。<sup>\[泰兴\]</sup>  
 1. 【[凉粉皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen_pi_r.md#凉粉皮<sub>儿</sub>)】`lian2 fen3 pi2 r` <sup>[如皋]</sup> 圆片形胶冻状淀粉性夏日食品。端午食品中“五绿”之一（用绿豆淀粉制成）  
 1. 【[凉粉刨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_fen_po_zz.md#凉粉刨子)】`lian2 fen3 po6 zz` <sup>[如皋]</sup> 专用于刨凉粉丝的刨子。原用铜制，现用不锈钢做成盘形或箕形，数排通孔，交错排列，有环把，孔径4mm左右。  
-1. 【[凉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_hae.md#凉鞋)】`lian2 hae2` ① 鞋帮有孔，能够透气的鞋。有皮制、布制、草制、塑料制多种。<sup>\[如东\]</sup> ② 鞋帮透气的轻便鞋。<sup>\[东台\]</sup>  
+1. 【[凉鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_hae.md#凉鞋)】`lian2 hae2` <small>/liɑŋ2 xɛ2/<sup>泰兴</sup></small> ① 鞋帮有孔，能够透气的鞋。有皮制、布制、草制、塑料制多种。<sup>\[如东\]</sup> ② 鞋帮透气的轻便鞋。<sup>\[东台\]</sup> ③ 夏日穿的鞋面通气的鞋。<sup>\[泰兴\]</sup>  
 1. 【[凉鞋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_hae_r.md#凉鞋<sub>儿</sub>)】`lian2 hae2 r` 凉鞋  
 1. 【[凉乎天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_hv_tin.md#凉乎天)】`lian2 hv tin1` <sup>[如皋]</sup> ① 凉爽的天气。 ② 秋天。  
 1. 【[凉瀴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ien.md#凉瀴)】`lian2 ien` <small>/liã2 iəŋ/<sup>如皋</sup></small> ① 凉而偏冷。<sup>\[如皋\]</sup> ② 日照不到而有凉风吹过，凉爽。<sup>\[泰州\]</sup>  
@@ -1063,10 +1064,11 @@
 1. 【[凉月子心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_xien.md#凉月子心里)】`lian2 iuh8 zz xien1 lii` <sup>[如皋]</sup> 月光下。  
 1. 【[凉快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuae.md#凉快)】`lian2 kuae5` ① 凉爽，舒适。<sup>\[如东\]</sup> ② 清凉爽快。<sup>\[东台\]</sup>  
 1. 【[凉柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuei.md#凉柜)】`lian2 kuei6` <sup>[泰县]</sup> 碗橱。  
+1. 【[凉帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo.md#凉帽)】`lian2 mo` <small>/liɑŋ2 mɔ/<sup>泰兴</sup></small> 夏日遮阳避暑的帽子，多用小麦秸编成。<sup>\[泰兴\]</sup>  
 1. 【[凉帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo.md#凉帽)】`lian2 mo6` <sup>[东台]</sup> 夏天戴的遮阳帽。  
 1. 【[凉帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo_r.md#凉帽<sub>儿</sub>)】`lian2 mo6 r` <sup>[如皋]</sup> 遮阳帽。  
 1. 【[凉棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_pon.md#凉棚)】`lian2 pon2` <sup>[如皋]</sup> 炎夏遮阳的棚，多用布、草障作顶。  
-1. 【[凉席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qieh.md#凉席)】`lian2 qieh8` ① 床席的一种。竹篾编成，夏天垫在床上十分凉爽。<sup>\[如东\]</sup> ② 夏天用的席子，多用竹篾编成。<sup>\[东台\]</sup> ③ 夏天睡觉的席子，较为凉爽。<sup>\[泰州\]</sup>  
+1. 【[凉席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qieh.md#凉席)】`lian2 qieh8` <small>/liɑŋ2 t͡ɕʰiʔ8/<sup>泰兴</sup></small> ① 床席的一种。竹篾编成，夏天垫在床上十分凉爽。<sup>\[如东\]</sup> ② 夏天用的席子，多用竹篾编成。<sup>\[东台\]</sup> ③ 夏天睡觉的席子，较为凉爽。<sup>\[泰州\]</sup> ④ 夏天铺上垫的席子，多以竹篾编成。<sup>\[泰兴\]</sup>  
 1. 【[凉靸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_saeh_r.md#凉靸<sub>儿</sub>)】`lian2 saeh7 r` <sup>[兴化]</sup> 没有帮的鞋，拖鞋：他光着脚穿吖一双～。  
 1. 【[凉爽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shuan.md#凉爽)】`lian2 shuan3` <sup>[如东]</sup> 凉快，舒适。  
 1. 【[凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shuei.md#凉水)】`lian2 shuei3` <sup>[如东]</sup> 温度较低的水。  
