@@ -194,6 +194,7 @@
 1. 【[肨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#肨)】`pan1` <sup>[东台]</sup> 臭。《广韵》：“匹绛切，胀臭貌。”例｜这些菜放吖一夜，一阵酸～气。（另见“青肨气”）  
 1. 【[胮胮肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_zhon.md#胮胮肿)】`pan1 pan1 zhon3` <sup>[如皋]</sup> 肿胀得厉害。  
 1. 【[旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan.md#旁)】`pan2` <small>/pʰaŋ2/<sup>兴化</sup></small> ① 其他；侧面；侧著 ② 象棋术语<sup>\[兴化\]</sup>：棋子向左右移动<sup>\[兴化\]</sup>｜～卒<sup>\[兴化\]</sup>｜～车。<sup>\[兴化\]</sup> ③ 象棋术语，棋子左或右移动<sup>\[泰州\]</sup>：你～一步兵，吃他的炮。<sup>\[泰州\]</sup>  
+1. 【[旁塴个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_bon_gu.md#旁塴个)】`pan2 bon gu` <small>/pʰɑŋ2 pɔŋ kɤɯ/<sup>泰兴</sup></small> 旁边<sup>\[泰兴\]</sup>  
 1. 【[旁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_dii.md#旁的)】`pan2 dii` <small>/pʰã2 tei/<sup>如皋</sup></small> ① 别的 ② 别的、其它的、别处。<sup>\[如皋\]</sup> ③ 别的，其他的，另外的。<sup>\[泰州\]</sup>  
 1. 【[旁风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_fon.md#旁风)】`pan2 fon1` <small>/pʰaŋ2 foŋ1/<sup>兴化</sup>, /pʰã2 fɔŋ1/<sup>如皋</sup></small> ① 从侧面吹来的风。又分旁顺风和旁顶风。<sup>\[如皋\]</sup> ② 从船帆侧面吹来的风。《老残游记》第一回有“幸喜本日刮的是北风，所以向东向西都是旁风”句。<sup>\[兴化\]</sup>  
 1. 【[旁瘣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_guei_r.md#旁瘣<sub>儿</sub>)】`pan2 guei3 r` <sup>[如皋]</sup> 旁边凸起的、多余的。喻额外的负担。  
@@ -356,7 +357,8 @@
 1. 【[琵琶弦子都不要，只要饶瞎子一条命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_xin_zz.md#琵琶弦子都不要，只要饶瞎子一条命)】`pi2 pa2 xin2 zz du1 beh7 io5 zheh7 io5 ro2 haeh7 zz ieh7 tio2 mien6` <sup>[东台]</sup> 喻指骗术败露时的狼狈相。  
 1. 【[疲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#疲)】`pi2` <sup>[如皋]</sup> 秤的称量不足，秤尾低于秤头。见“袒”。  
 1. 【[疲疲沓沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_taeh_taeh.md#疲疲沓沓)】`pi2 pi2 taeh7 taeh7` <sup>[东台]</sup> 思想上不重视，作风上松懈拖拉，效率低下：这个工程要抓紧，不能～。  
-1. 【[疲塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲塌)】`pi2 taeh` <sup>[如东]</sup> 松懈拖沓：他做事太～咖。  
+1. 【[疲沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲沓)】`pi2 taeh` <sup>[如东]</sup> 松懈拖沓：他做事太～咖。  
+1. 【[疲沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲沓)】`pi2 taeh` <small>/pʰʝ2 tʰæʔ/<sup>泰兴</sup></small> 松懈，不起劲。<sup>\[泰兴\]</sup>  
 1. 【[皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#皮)】`pi2` <small>/pʰʝ2/<sup>如皋</sup>, /pʰʝ2/<sup>泰兴</sup></small> ① 一刻闲不住，调皮 ② 人的尊严、禀性。<sup>\[如皋\]</sup> ③ 调皮、顽皮。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[泰兴：乡人有时称无赖或赖账不还者为“皮”。\]：～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[皮啊荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_tan.md#皮啊荡)】`pi2 a tan6` <sup>[东台]</sup> 不落实，一推再推。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <small>/pʰʝ2 pɔ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> ① 形容人非常瘦。<sup>\[东台\]</sup> ② 形容躯体极度瘦弱。<sup>\[泰兴\]</sup>：瘦得～<sup>\[泰兴\]</sup>  
@@ -616,12 +618,12 @@
 1. 【[苹果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu.md#苹果)】`pien2 gu3` <sup>[如东]</sup> 蔷薇科植物苹果，落叶乔木。  
 1. 【[苹果菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu_jioh.md#苹果菊)】`pien2 gu3 jioh7` <sup>[如皋]</sup> 茶菊。  
 1. 【[苹果皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gu_pi.md#苹果皮)】`pien2 gu3 pi2` <sup>[如东]</sup> 蔷薇科植物苹果皮，人中药。治反胃吐痰。  
-1. 【[评工记分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gon_ji_fen.md#评工记分)】`pien2 gon1 ji5 fen1` <small>/pʰiŋ2 kɔŋ1 t͡ɕʝ5 fəŋ1/<sup>泰兴</sup></small> 大呼隆时期（主要是人民公社时期）评定社员劳动成绩、计算工分的一种方法。<sup>\[泰兴\]</sup>  
 1. 【[品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#品)】`pien3` <small>/pʰiɪ̃3/<sup>兴化</sup>, /pʰiəŋ3/<sup>如皋</sup></small> ① 物品。<sup>\[如皋\]</sup> ② 体察好坏。<sup>\[如皋\]</sup> ③ 性格<sup>\[兴化\]</sup>：他就是这个～，说打就上屋。<sup>\[兴化\]</sup> ④ 品质<sup>\[兴化\]</sup>：……我也不晓得他们这班文人的～这个丑法子·（《火烧赤壁》一）<sup>\[兴化\]</sup>  
 1. 【[品理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_li.md#品理)】`pien3 li3` <sup>[如东]</sup> 评理：对于这个问题，我来要～。  
 1. 【[品貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo.md#品貌)】`pien3 mo` <small>/pʰiŋ3 mɔ/<sup>泰兴</sup></small> 相貌，大样。<sup>\[泰兴\]</sup>  
 1. 【[品貌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_mo_r.md#品貌<sub>儿</sub>)】`pien3 mo6 r` <sup>[如皋]</sup> 品行相貌：姑娘的～是上等的。  
 1. 【[品相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xian.md#品相)】`pien3 xian5` <sup>[如皋]</sup> 举止行为的习惯样式及所反映的教养程度：他吃饭的～不好，嘴只咂，像猪。  
+1. 【[评工记分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_gon_ji_fen.md#评工记分)】`pien3 gon1 ji5 fen1` <small>/pʰiŋ3 kɔŋ1 t͡ɕʝ5 fəŋ1/<sup>泰兴</sup></small> 大呼隆时期（主要是人民公社时期）评定社员劳动成绩、计算工分的一种方法。<sup>\[泰兴\]</sup>  
 1. 【[牝牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_ngeu.md#牝牛)】`pien5 ngeu2` <sup>[如东]</sup> 母牛。  
 1. 【[并](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien.md#并)】`pien6` <sup>[如皋]</sup> [並] 并列：～排。  
 1. 【[并排](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pae.md#并排)】`pien6 pae2` ［並排］排列在同一条线上，不分前后。  
@@ -637,7 +639,7 @@
 1. 【[病咍咍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hae_hae.md#病咍咍)】`pien6 hae1 hae1` <sup>[兴化]</sup> 见“病歪歪”。  
 1. 【[病嗨嗨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hae_hae_dii.md#病嗨嗨的)】`pien6 hae1 hae1 dii` <sup>[东台]</sup> 因病有气无力的样子：你看他～咋能去挑河？  
 1. 【[病嗨嗨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hae_hae.md#病嗨嗨)】`pien6 hae3 hae3` <sup>[如东]</sup> 没精打采的样子。  
-1. 【[病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hua.md#病话)】`pien6 hua6` <small>/pʰiəŋ1 xua1/<sup>如皋</sup></small> ① 詈语，指不好的话：他叫伢儿学咖打人，还说是好宝宝。这不是说～！<sup>\[如皋\]</sup> ② 有话不直说，而是含蓄地嘲讽，甚至说反话<sup>\[东台\]</sup>：那家伙就是～太多。<sup>\[东台\]</sup>  
+1. 【[病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_hua.md#病话)】`pien6 hua6` <small>/pʰiəŋ1 xua1/<sup>如皋</sup>, /pʰiŋ1 xuɑ1/<sup>泰兴</sup></small> ① 詈语，指不好的话：他叫伢儿学咖打人，还说是好宝宝。这不是说～！<sup>\[如皋\]</sup> ② 有话不直说，而是含蓄地嘲讽，甚至说反话<sup>\[东台\]</sup>：那家伙就是～太多。<sup>\[东台\]</sup> ③ 胡话；不正当的话。<sup>\[泰兴\]</sup>  
 1. 【[病原](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_iun.md#病原)】`pien6 iun2` <sup>[如东]</sup> 生病的根源。  
 1. 【[病来如山倒，病去如抽丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_lae_rv_shaen.md#病来如山倒，病去如抽丝)】`pien6 lae2 rv2 shaen1 do3 pien6 qy5 rv2 cheu1 sz1` <sup>[东台]</sup> 疾病来势凶猛，而要治愈却需要慢慢调理。  
 1. 【[病吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_nga.md#病吖)】`pien6 nga` <sup>[如皋]</sup> 病了。  
@@ -649,6 +651,7 @@
 1. 【[病病歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pien_vae_vae.md#病病歪歪)】`pien6 pien6 vae1 vae1` <sup>[东台]</sup> 形容病体衰弱无力的样  
 1. 【[病<sub>儿</sub>痛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_r_ton_r.md#病<sub>儿</sub>痛<sub>儿</sub>)】`pien6 r ton5 r` <sup>[兴化]</sup> 经常发生的疾病或肢体疼痛等：她一年到头～的。｜“姑娘，你耐烦，你又常～的，不贪此事，随他去罢……”（《金瓶梅词话》七五）  
 1. 【[病食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sheh.md#病食)】`pien6 sheh8` <sup>[如皋]</sup> 一般指为病人精心制作的饮食，或是精致的食品。也有称“独食”的。  
+1. 【[病势擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr_laeh_saeh.md#病势擸𢶍)】`pien6 shr laeh saeh` <small>/pʰiŋ1 sɿ læʔ ɕiæʔ/<sup>泰兴</sup></small> 有病的样子。<sup>\[泰兴\]</sup>  
 1. 【[病势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_shr.md#病势)】`pien6 shr5` <sup>[兴化]</sup> ① 病态：他一年到头～郎当的，能吃不能做。 ② 不好的习惯：他坐啊主席台上也掏鼻孔，这个～难看哎！  
 1. 【[病似良姜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sz_lian_jian.md#病似良姜的)】`pien6 sz lian2 jian1 dii` <sup>[如皋]</sup> 身体软弱，精神不足的样子。良姜，药名。  
 1. 【[病死郎僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_sz_lan_jian.md#病死郎僵)】`pien6 sz3 lan2 jian1` <sup>[如东]</sup> 身体软弱、精神不振的样子：一天到晚～的，也不去医院看看。  

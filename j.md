@@ -362,7 +362,7 @@
 1. 【[甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh.md#甲)】`jiaeh7` <sup>[东台]</sup> 天干的第一位。  
 1. 【[甲菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_cae.md#甲菜)】`jiaeh7 cae5` <sup>[东台]</sup> 二十世纪五十年代食堂中的大荤，称为～。  
 1. 【[甲等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_den.md#甲等)】`jiaeh7 den3` <sup>[东台]</sup> 最优的一等：他的操行等第捱评为～。  
-1. 【[甲鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_y.md#甲鱼)】`jiaeh7 y2` <small>/t͡ɕieʔ7 y2/<sup>如皋</sup></small> ① 鳖。<sup>\[如皋\]</sup> ② 鳖。<sup>\[东台\]</sup>  
+1. 【[甲鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_y.md#甲鱼)】`jiaeh7 y2` <small>/t͡ɕieʔ7 y2/<sup>如皋</sup></small> 鳖。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[甲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaeh_zz.md#甲子)】`jiaeh7 zz3` <sup>[东台]</sup> 用干支纪年时，六十组干支字轮一周叫一个甲子（即六十年）。  
 1. 【[奸刁巨滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_qy_huaeh.md#奸刁巨滑)】`jiaen1 dio1 qy6 huaeh8` <small>/t͡ɕiɛ̃1 tiɔ1 t͡ɕʰy6 xuæʔ8/<sup>兴化</sup></small> ① 形容十分奸诈狡猾<sup>\[兴化\]</sup>：这个老脚鱼～，一般人弄不过他！<sup>\[兴化\]</sup> ② 手段狡诈而又狡猾<sup>\[泰州\]</sup>：这个老家伙～，你要防住他点儿。<sup>\[泰州\]</sup>  
 1. 【[奸刁悉滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_dio_xyeh_huaeh.md#奸刁悉滑)】`jiaen1 dio1 xyeh7 huaeh8` <small>/t͡ɕiɛ̃1 tiɔ1 ɕyəʔ7 xuæʔ8/<sup>泰兴</sup></small> 尖刻刁钻、油头滑脑，贬语。<sup>\[泰兴\]</sup>  
@@ -727,6 +727,7 @@
 1. 【[脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#脊)】`jieh7` <sup>[东台]</sup> ① 人或动物背部中间的骨骼。 ② 物体中间高起的部分：屋～、路～。  
 1. 【[脊柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_chv.md#脊柱)】`jieh7 chv6` <sup>[如东]</sup> 人体背部的一根主骨，起支撑全身的作用。也称脊梁骨。  
 1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <sup>[如皋]</sup> 猪脊骨及骨间肉。作副食品。  
+1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <small>/t͡ɕiʔ7 kuəʔ7/<sup>泰兴</sup></small> 人和脊椎动物背部中间的骨头。<sup>\[泰兴\]</sup>  
 1. 【[脊尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jin_r.md#脊尖<sub>儿</sub>)】`jieh7 jin1 r` <sup>[如东]</sup> 瓦屋屋脊两端的突起建筑物。  
 1. 【[脊梁筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_jien.md#脊梁筋)】`jieh7 lian jien1` <sup>[兴化]</sup> 脊神经：这几个儿女把他的～龁断吖。｜谚曰：千日笛子百日笙，二胡拉断～。  
 1. 【[脊梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian.md#脊梁)】`jieh7 lian2` <sup>[如东]</sup> 脊背。  

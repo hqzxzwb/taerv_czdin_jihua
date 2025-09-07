@@ -965,6 +965,7 @@
 1. 【[烘虾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ha_r.md#烘虾<sub>儿</sub>)】`hon1 ha1 r` <sup>[泰县]</sup> 酒醉后会脸色红润的人。  
 1. 【[烘茔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ien.md#烘茔)】`hon1 ien2` <sup>[东台]</sup> 死人安葬前夜，在坟坑里烧纸钱，祈祷死者安息。  
 1. 【[烘架<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_jia_r.md#烘架<sub>儿</sub>)】`hon1 jia5 r` <sup>[如东]</sup> 取暖器具。一只架子放在烘钵儿上面，供搁脚取暖。  
+1. 【[烘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_laen.md#烘篮)】`hon1 laen` <small>/xɔŋ1 lɛ̃/<sup>泰兴</sup></small> 中间可放小火盆的竹篮。用以取暖或烘干衣服、小孩的尿布等。<sup>\[泰兴\]</sup>  
 1. 【[烘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_laen.md#烘篮)】`hon1 laen2` <sup>[泰州]</sup> 一种无柄、大网眼、覆碗形铁丝笼子，罩在火盆或者火炉之上，用来烘干尿布、小儿衣物，以其形似篮身，故名。  
 1. 【[烘冒脾气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_mo_pi_qi.md#烘冒脾气)】`hon1 mo6 pi2 qi5` <sup>[如东]</sup> 急躁而火爆：他是一个～。  
 1. 【[烘人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_ren.md#烘人)】`hon1 ren2` <sup>[东台]</sup> 在高温下像被火烤一样。  

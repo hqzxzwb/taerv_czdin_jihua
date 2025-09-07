@@ -454,7 +454,7 @@
 1. 【[这早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_zo_vaen.md#这早晚)】`zha5 zo3 vaen3` <small>/t͡sa5 t͡sɔ3 uɛ̃3/<sup>兴化</sup></small> ① 这时候，此刻。<sup>\[东台\]</sup> ② 此刻、这时候<sup>\[兴化\]</sup>：～他还不曾起身哎！<sup>\[兴化\]</sup>｜“……他作起神行法来，～已走过五百里了……。”（《水浒传》四十）‖也作“这晚”。<sup>\[兴化\]</sup>  
 1. 【[斋饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_faen.md#斋饭)】`zhae1 faen6` <small>/t͡sɛ1 fẽ1/<sup>如皋</sup></small> ① 丧户待客的饭食。<sup>\[如皋\]</sup> ② 招待僧道的饭食。<sup>\[如皋\]</sup> ③ 丧户待客的宴席。<sup>\[如东\]</sup>：吃～。<sup>\[如东\]</sup>  
 1. 【[斋戒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_gae.md#斋戒)】`zhae1 gae5` <sup>[如东]</sup> 我国旧时在举行祭祀活动前必须沐浴更衣、不饮酒、不吃荤等，表示虔诚。  
-1. 【[斋孤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_gv.md#斋孤)】`zhae1 gv1` <small>/t͡sɛ1 ku1/<sup>兴化</sup>, /t͡sɛ1 ku1/<sup>如皋</sup></small> ① 农历七月，民间在巷口、路边、桥头等空旷处烧化纸锞、纸钱给孤魂野鬼的习俗。<sup>\[如皋\]</sup> ② （民俗）中元节（农历七月十五）给孤魂野鬼烧纸钱。<sup>\[东台\]</sup> ③ 阴历七月十五日佛教盂兰盆节，晚上放河灯、烧纸钱、放焰口，祭奠“孤魂野鬼”，俗称～。<sup>\[兴化\]</sup>  
+1. 【[斋孤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_gv.md#斋孤)】`zhae1 gv1` <small>/t͡sɛ1 ku1/<sup>兴化</sup>, /t͡sɛ1 ku1/<sup>如皋</sup>, /t͡ɕiɛ1 ku1/<sup>泰兴</sup></small> ① 农历七月，民间在巷口、路边、桥头等空旷处烧化纸锞、纸钱给孤魂野鬼的习俗。<sup>\[如皋\]</sup> ② （民俗）中元节（农历七月十五）给孤魂野鬼烧纸钱。<sup>\[东台\]</sup> ③ 阴历七月十五日佛教盂兰盆节，晚上放河灯、烧纸钱、放焰口，祭奠“孤魂野鬼”，俗称～。<sup>\[兴化\]</sup> ④ 民俗。农历七月末最后一日，焚化纸钱，斋祭孤魂野鬼。<sup>\[泰兴\]</sup>  
 1. 【[斋月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_iuh.md#斋月)】`zhae1 iuh8` <sup>[如皋]</sup> 农历七月。  
 1. 【[斋锞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_ku_r.md#斋锞<sub>儿</sub>)】`zhae1 ku5 r` <sup>[东台]</sup> 本指烧给死人的钱，口头禅中也指钱，带有牢骚意味。  
 1. 【[斋翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhae_on.md#斋翁)】`zhae1 on` <sup>[兴化]</sup> 旧谓施斋的富户：我没得多大的油水，覅把我当～。  
@@ -879,6 +879,7 @@
 1. 【[枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu.md#枕头)】`zhen3 teu2` <sup>[如东]</sup> 人睡觉时垫在头颈下面的一只长条形的物体，多数是布料做成的，也有籐条、木板、陶瓷制作的。  
 1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <small>/t͡səŋ3 tʰəɪ2 tʰɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 罩在枕头外面的布套。<sup>\[东台\]</sup> ② 枕套。<sup>\[泰兴\]</sup>  
 1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <sup>[东台]</sup> 皮肤病变，由外感刺激所致，有风～，湿～之分。  
+1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <small>/t͡səŋ3 t͡sɿ/<sup>泰兴</sup></small> 皮肤上生的小疙瘩。<sup>\[泰兴\]</sup>  
 1. 【[紾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#紾)】`zhen3` <sup>[泰州]</sup> 两手紧握织品，分别向相反方向用力，使织物收紧，挤出其中的水：你去～个手巾把子上来给爷爷揩脸。｜衣裳汏啊好啊唻，你把衣裳～吖干吖㫰起来。  
 1. 【[紾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#紾子)】`zhen3 zz` <sup>[东台]</sup> 线条状物体缠绞、扭拧形成的螺旋式纹路：搓绳就要上～，拆绳就要放～。  
 1. 【[怔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#怔)】`zhen5` <sup>[兴化]</sup> 发愣、发呆：听说老刘突然去世，我登时～住啊。｜他没得事就在门口～～的站吖下。  
@@ -1814,7 +1815,7 @@
 1. 【[煮鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_y.md#煮鱼)】`zhv3 y2` <sup>[兴化]</sup> 一种烹调方法，用酱油、葱、姜及蔗糖等调料红烧的鱼。  
 1. 【[注口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_keu.md#注口)】`zhv5 keu3` <small>/t͡su5 kʰɤ3/<sup>兴化</sup>, /t͡su5 kʰei3/<sup>如皋</sup>, /t͡su5 kʰəɪ3/<sup>泰兴</sup>, /t͡su5 kʰɤɯ3/<sup>泰县</sup></small> 漏斗。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：注入液体或颗粒的漏斗。\]\[泰州：灌水或灌油入瓶的漏斗\]：你去拿个注口来，把桶肚里的油灌吖瓶肚里去。<sup>\[泰州\]</sup>｜你传水弄个注口，就不得𢮎得块块是的唻。<sup>\[泰州\]</sup>  
 1. 【[注钮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nieu_zz.md#注钮子)】`zhv5 nieu3 zz` <small>/t͡su5 nəɪ3 t͡sɿ/<sup>泰兴</sup></small> 钉钮扣。<sup>\[泰兴\]</sup>  
-1. 【[疰夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xia.md#疰夏)】`zhv5 xia6` <small>/t͡su5 ɕia6/<sup>兴化</sup>, /t͡su5 ɕia1/<sup>泰县</sup></small> 夏季身体不适<sup>\[泰县\]</sup>\[泰州：中医名词，健康的人进入夏季之时出现身倦、体热、食少、消瘦诸种症状\]\[如东：夏季长期发烧的病，中医称疰夏。症状是长期发烧，食欲不振消瘦口渴，多尿，皮肤干热天气愈热体温愈高。多由排汗机能发生障碍引起。\]\[兴化：指人在夏季食欲不振，身体消瘦的现象。\]\[东台：望夏天食欲不好，精神不振。\]：这些时～，吃饭嘴里没得味。<sup>\[泰州\]</sup>  
+1. 【[疰夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xia.md#疰夏)】`zhv5 xia6` <small>/t͡su5 ɕia6/<sup>兴化</sup>, /t͡su5 ɕiɑ1/<sup>泰兴</sup>, /t͡su5 ɕia1/<sup>泰县</sup></small> 夏季身体不适<sup>\[泰县\]</sup>\[泰州：中医名词，健康的人进入夏季之时出现身倦、体热、食少、消瘦诸种症状\]\[如东：夏季长期发烧的病，中医称疰夏。症状是长期发烧，食欲不振消瘦口渴，多尿，皮肤干热天气愈热体温愈高。多由排汗机能发生障碍引起。\]\[兴化：指人在夏季食欲不振，身体消瘦的现象。\]\[东台：望夏天食欲不好，精神不振。\]\[泰兴：通常指夏季身倦、体热、厌食等症状。\]：这些时～，吃饭嘴里没得味。<sup>\[泰州\]</sup>  
 1. 【[著](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#著)】`zhv5` <sup>[如皋]</sup> 钉：在衣裳上～钮子。  
 1. 【[蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chon.md#蛀虫)】`zhv5 chon2` <sup>[东台]</sup> 指专门吃衣物的小虫，引申为有贪污行为的人。  
 1. 【[蛀𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lan_dan_r.md#蛀𧚅裆<sub>儿</sub>)】`zhv5 lan3 dan1 r` <sup>[如皋]</sup> 蛀虫吐丝缠住蛀屑形成的长串。  

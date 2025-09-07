@@ -1869,18 +1869,23 @@
 1. 【[烧锅娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_nian_zz.md#烧锅娘子)】`sho1 gu1 nian2 zz` （义未详）  
 1. 【[烧虾等不得红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh.md#烧虾等不得红)】`sho1 ha1 den3 beh7 deh7 hon2` <sup>[东台]</sup> 形容脾气太急，急于求成反而欲速不达。  
 1. 【[烧虾等不得红——心太急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_den_beh.md#烧虾等不得红——心太急)】`sho1 ha1 den3 beh7 deh7 hon2 xien1 tae5 jieh7` <sup>[东台]</sup>   
+1. 【[烧虾<sub>儿</sub>等不到脚弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ha_r_den.md#烧虾<sub>儿</sub>等不到脚弯)】`sho1 ha1 r den3 beh do5 jiah7 vaen1` <small>/sɔ1 xɑ˞1 təŋ3 pəʔ tɔ5 t͡ɕiɑʔ7 ʋɛ̃1/<sup>泰兴</sup></small> 犹言“急等馋”。急着要吃。也喻做事急躁。<sup>\[泰兴\]</sup>  
+1. 【[烧火做饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_hu_zu_faen.md#烧火做饭)】`sho1 hu3 zu5 faen6` <small>/sɔ1 xɤɯ3 t͡sɤɯ5 fɛ̃1/<sup>泰兴</sup></small> 指担负做菜做饭等炊事工作。<sup>\[泰兴\]</sup>  
 1. 【[烧野锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ia_gu.md#烧野锅)】`sho1 ia3 gu1` <small>/sɔ1 ia3 ko1/<sup>兴化</sup>, /sɔ1 ia3 ko1/<sup>泰县</sup></small> ① 野炊。<sup>\[兴化\]</sup> ② 已婚男子和其他女人非法同居。<sup>\[兴化\]</sup> ③ 在野外煮饭。<sup>\[泰县\]</sup> ④ 男人在外面嫖女人。<sup>\[泰县\]</sup> ⑤ 即“野炊”，在野外临时搭建简易锅灶烧菜做饭<sup>\[泰州\]</sup>：星期天去乡下玩，中上吃饭就在田里～。<sup>\[泰州\]</sup>  
 1. 【[烧阴火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ien_hu.md#烧阴火)】`sho1 ien1 hu3` <sup>[如皋]</sup> 挑拨离间。  
 1. 【[烧盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_in.md#烧盐)】`sho1 in2` <sup>[如东]</sup> 把盐卤放在鐅锅里，烧火加热，蒸发水分，使卤结晶成盐。这种生产过程称烧盐。也称煎盐。  
 1. 【[烧家当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jia_dan.md#烧家当)】`sho1 jia1 dan` <sup>[泰州]</sup> 将纸扎的房屋、家具等物烧给亡人，迷信者以为亡人可在阴间享用。  
 1. 【[烧甲马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jiaeh_ma.md#烧甲马)】`sho1 jiaeh7 ma3` <sup>[兴化]</sup> （借）形容事急，行动快旋：你今朝像～的，忙的甚的事啊？此说源于《水浒传》故事，梁山泊头领神行太保藏宗有四个甲马，拴在腿上，作起法来可日行八百里。  
 1. 【[烧经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jien.md#烧经)】`sho1 jien1` <small>/sɔ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 祭祀。<sup>\[如皋\]</sup> ② 每逢节日给祖宗上供烧纸，称烧经。每年的春节清明、七月半、十月朝举行。烧经时，要办8样菜，每位祖宗一碗饭，一双筷子，一只包子，以供祖宗受用，表示后代对先辈的怀念和尊敬。<sup>\[如东\]</sup>  
-1. 【[烧酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jieu.md#烧酒)】`sho1 jieu3` ① 白酒。调酒。<sup>\[如东\]</sup> ② 白酒，即烈性酒的统称。<sup>\[东台\]</sup>  
+1. 【[烧酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jieu.md#烧酒)】`sho1 jieu3` <small>/sɔ1 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 白酒。调酒。<sup>\[如东\]</sup> ② 白酒，即烈性酒的统称。<sup>\[东台\]</sup> ③ 白酒<sup>\[泰兴\]</sup>  
 1. 【[烧酒芒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_jieu_man_teu.md#烧酒芒头)】`sho1 jieu3 man2 teu2` <sup>[如东]</sup> 烧酒散发岀来的剌激味很快就会消失，比喻锋芒毕露的时间很短：～一阵子。  
 1. 【[烧壳信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_kah_xien.md#烧壳信)】`sho1 kah7 xien5` <sup>[如皋]</sup> 见“烧角信”。  
+1. 【[烧腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh.md#烧腊)】`sho1 laeh` <small>/sɔ1 læʔ/<sup>泰兴</sup></small> 卤菜。<sup>\[泰兴\]</sup>  
 1. 【[烧腊肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh_roh.md#烧腊肉)】`sho1 laeh8 roh8` <small>/sɔ1 leʔ8 ɻɔʔ8/<sup>如皋</sup></small> ① 用老汁煮的猪头肉等。<sup>\[如皋\]</sup> ② “腊肉”本指冬天腌制后风干的肉。本地泛指零碎切卖的熟猪头肉、酱肉、口条、猪耳等。也称“烧腊子”。<sup>\[东台\]</sup> ③ 省作“烧腊”，以猪肉为食材加配方作料而红烧成的腌制、卤制食品。<sup>\[泰州\]</sup>  
 1. 【[烧腊摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh_taen_r.md#烧腊摊<sub>儿</sub>)】`sho1 laeh8 taen1 r` <sup>[如皋]</sup> 煮、售猪头肉等的摊儿。  
 1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <sup>[如东]</sup> 商店开业时举行的祭祀活动，称烧利市。表示大吉大利。给鬼神烧香祭祀。给当权人物送礼。  
+1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <small>/sɔ1 lʝ1 sɿ1/<sup>泰兴</sup></small> 旧时商店开张，迷信者烧纸祭神，以求吉利或感谢神的保佑，称为“烧利市”。<sup>\[泰兴\]</sup>  
+1. 【[烧萝卜烫嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lu_poh_tan.md#烧萝卜烫嘴)】`sho1 lu2 poh tan5 zuei3` <small>/sɔ1 lɤɯ2 pʰɔʔ tʰɑŋ5 t͡suəɪ3/<sup>泰兴</sup></small> 喻语言表达速度极快；抢话说。<sup>\[泰兴\]</sup>  
 1. 【[烧卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mae.md#烧卖)】`sho1 mae6` ① 是一种以烫面为皮，裹馅上笼蒸熟的小吃。顶端蓬松束折如花。北方叫烧麦。见“抓抓儿”。<sup>\[东台\]</sup> ② 一种点心，以不发酵的小麦粉制成薄皮，以煮熟的糯米做馅，包成包子形状，顶端收口如花，上笼蒸熟即可。<sup>\[泰州\]</sup>  
 1. 【[烧冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mien_sheu.md#烧冥寿)】`sho1 mien2 sheu6` <sup>[如东]</sup> 每逢死者的生日举行纪念活动，叫做烧冥寿。  
 1. 【[烧南洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nun_ian.md#烧南洋)】`sho1 nun2 ian2` <sup>[东台]</sup> 又叫烧土鳔，即烧肉皮，亦称烧杂烩。  
@@ -1900,11 +1905,13 @@
 1. 【[烧霞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xia.md#烧霞)】`sho1 xia2` <small>/sɔ1 ɕia2/<sup>兴化</sup>, /sɔ1 ɕia2/<sup>如皋</sup></small> ① 晨昏在天边出现的彩霞，以红霞为主。<sup>\[如皋\]</sup> ② 阳光通过大气层经空气散射而形成鲜红艳丽的云彩，谓之～。<sup>\[兴化\]</sup>：谚曰：早上～，等水烧茶；晚上～，晒得喀喀（ka2）。<sup>\[兴化\]</sup> ③ 燃烧着的云彩，日出或者日落时，云层因受日光斜射呈现红色，如同云彩着火燃烧一样，故名<sup>\[泰州\]</sup>：晚上东边天上～，明朝肯定热咖没得命。<sup>\[泰州\]</sup>  
 1. 【[烧香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xian.md#烧香)】`sho1 xian1` <sup>[如东]</sup> 给菩萨上香称烧香。在死者尸体前或牌位前点香，表示对死者的悼念和尊敬，称烧香。  
 1. 【[烧香不祷告——随菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xian_beh_do.md#烧香不祷告——随菩萨)】`sho1 xian1 beh7 do3 go5 cuei2 pv2 saeh7` <sup>[东台]</sup>   
+1. 【[烧香引鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xian_ien_guei.md#烧香引鬼)】`sho1 xian1 ien3 guei3` <small>/sɔ1 ɕiɑŋ1 iŋ3 kuəɪ3/<sup>泰兴</sup></small> 比喻十分吝惜，只舍得拿出一点点。<sup>\[泰兴\]</sup>  
 1. 【[烧心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien.md#烧心)】`sho1 xien1` <small>/sɔ1 ɕin1/<sup>兴化</sup></small> ① 因胃酸、酒精等刺激使胃部产生烧灼感。<sup>\[兴化\]</sup> ② 某些蔬菜中心部分因病害而发黄。<sup>\[兴化\]</sup> ③ 因胃酸或者烈酒、毒药之类刺激胃黏膜而引起的胃部烧灼感觉<sup>\[泰州\]</sup>：酒喝多啊～。<sup>\[泰州\]</sup>  
 1. 【[烧心血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xiuh.md#烧心血)】`sho1 xien1 xiuh7` <small>/sɔ1 ɕin1 ɕyuʔ7/<sup>兴化</sup>, /sɔ1 ɕiŋ1 ɕyʊʔ7/<sup>泰县</sup></small> ① （詈语）指过分操心劳神，或极不安稳，有出轨异端举止。<sup>\[东台\]</sup> ② 指垂死者痛苦难忍的情态<sup>\[兴化\]</sup>：要死的人～难过㖸！<sup>\[兴化\]</sup> ③ （禁忌语）临死前的烦躁不安。<sup>\[泰县\]</sup>  
 1. 【[烧玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y_mi.md#烧玉米)】`sho1 y6 mi3` <sup>[如东]</sup> 把种子刚成熟的玉米棒子，剥去外包衣，只保留一层内包衣，放在火上烤熟，鲜嫩香醇，营养丰富。  
 1. 【[烧芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y_teu.md#烧芋头)】`sho1 y6 teu2` <sup>[如东]</sup> 把番薯放在煲灰中焐熟，香甜可口。  
 1. 【[烧周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zheu_nin.md#烧周年)】`sho1 zheu1 nin` <small>/sɔ1 t͡sei1 nĩ/<sup>如皋</sup></small> ① 人死后一、二、三周年祭祀。此后逢整十周年祭祀。一般超过三十周年不再祭祀，据传说不可能这么久不转世投胎。<sup>\[如皋\]</sup> ② 人死后每逢第一、二、三周年，举行祭祀活动。此后，每逢十周年祭祀一次。死者超过一百周岁，不再祭祀。<sup>\[如东\]</sup>  
+1. 【[烧纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhr.md#烧纸)】`sho1 zhr3` <small>/sɔ1 t͡sɿ3/<sup>泰兴</sup></small> 焚化纸钱以敬鬼神。<sup>\[泰兴\]</sup>  
 1. 【[烧纸叹人心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhr_taen_ren.md#烧纸叹人心)】`sho1 zhr3 taen5 ren2 xien1` <sup>[东台]</sup> ① 借烧纸等祭祀活动舒缓悲哀情绪。 ② ［引］不过是做个形式应付而已：烧纸钱并不是给亡人真钱，只不过～，表表心意。  
 1. 【[烧主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhv.md#烧主)】`sho1 zhv` <sup>[东台]</sup> 过去穷人死后无钱埋葬，其家人煮上一大锅菜面鱼（疙瘩），挨家挨户乞讨，这种募捐形式被称之为～。因食物中有猪肉，故也作“烧猪”。后来引申为发牢骚的口头禅：产品不对路，～！人家不要。  
 1. 【[稍须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xy.md#稍须)】`sho1 xy1` <sup>[东台]</sup> 稍微的意思。  

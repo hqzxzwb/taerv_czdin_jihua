@@ -87,9 +87,9 @@
 1. 【[拿现的，博赊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_xin_dii_bah.md#拿现的，博赊的)】`na2 xin6 dii bah7 sha1 dii` <small>/nɑ2 ɕĩ1 təɪ pɑʔ7 sɑ1 təɪ/<sup>泰兴</sup></small> 谓拿现成的东西换成欠的东西。<sup>\[泰兴\]</sup>  
 1. 【[拿准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zhuen.md#拿准)】`na2 zhuen3` <sup>[如东]</sup> 把问题弄准确：这件事你要～。  
 1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <sup>[兴化]</sup> 抓总、全面负责：镇长外出学习，镇里的工作由副镇长～。也说“抓总”。  
+1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <small>/nɑ2 t͡sɔŋ3/<sup>泰兴</sup></small> 负责全面工作<sup>\[泰兴\]</sup>  
 1. 【[拿捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zuen.md#拿捘)】`na2 zuen5` <sup>[如东]</sup> 绳索上捘之后，拉力就大了。比喻得力：他就是这一手～。  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <small>/la2 t͡sɿ/<sup>兴化</sup>, /na2 t͡sɿ/<sup>如皋</sup></small> ① 夹具。<sup>\[如皋\]</sup> ② 刁难别人、制服别人的借口或手段<sup>\[东台\]</sup>：这个老板～真大！<sup>\[东台\]</sup> ③ 架子<sup>\[兴化\]</sup>：玩～（摆架子）；～不小。<sup>\[兴化\]</sup>  
-1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na3 zon3` <small>/nɑ3 t͡sɔŋ3/<sup>泰兴</sup></small> 负责全面工作<sup>\[泰兴\]</sup>  
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
 1. 【[奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zz.md#奶子)】`nae1 zz` <sup>[如东]</sup> 乳房。  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae1 dae` <sup>[兴化]</sup> ① 粗笨、不利索：出门旅游，他带上多少吃的、穿的、用的，路都走不动，真～。 ② 不晓事、不合时宜：几个人当中就数他～，开口就捱人家叉住。｜晋，程晓《嘲热客》｜“闭门避署卧，出入不相过，只今～子，触热到人家。”《吴下方言考》｜“～，不解事而笨也，吴谚呼笨人为～。”  

@@ -433,6 +433,7 @@
 1. 【[𢴳寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#𢴳寒)】`tan1 hun2` <sup>[兴化]</sup> 挡寒、御寒：“一路风吹坏了，小二拿壶暖与大嫂～。”（《梼杌闲评》七）｜《水浒传》第十回有“胡乱只回三五碗与小人盪寒”句。  
 1. 【[𢴳门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_men_min.md#𢴳门面)】`tan1 men2 min6` <sup>[泰县]</sup> 应酬。  
 1. 【[唐锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lu.md#唐锣)】`tan2 lu2` <sup>[如东]</sup> 一种小铜锣。  
+1. 【[唐僧肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_sen_roh.md#唐僧肉)】`tan2 sen1 roh8` <small>/tʰɑŋ2 səŋ1 ɻɔʔ8/<sup>泰兴</sup></small> 比喻人人都想得到的最美好的东西。<sup>\[泰兴\]</sup>  
 1. 【[嘡锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lu.md#嘡锣)】`tan2 lu2` <sup>[兴化]</sup> 一种小锣。  
 1. 【[嘡嘡锣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_tan_lu_r.md#嘡嘡锣<sub>儿</sub>)】`tan2 tan lu2 r` <sup>[泰州]</sup> “嘡锣”的生动形式，一种打击乐器，直径15厘米左右的小铜锣，以其击打之时发出清脆“嘡嘡”之声而名，旧时换糖小贩用来吸引儿童围观：外栋～敲啊不歇，怕的是换糖的来啊。  
 1. 【[堂而皇之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_er_huan_zhr.md#堂而皇之)】`tan2 er2 huan2 zhr1` <sup>[东台]</sup> 形容公开或不加掩饰。  

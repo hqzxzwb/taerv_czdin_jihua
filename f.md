@@ -312,7 +312,7 @@
 1. 【[犯贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qin.md#犯贱)】`faen6 qin6` <sup>[泰州]</sup> 因言行不当而招人打骂以使自己变贱，自取其辱：这家伙是～，你要把点儿苦水他尝啊子。  
 1. 【[犯跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio.md#犯跷)】`faen6 qio1` ① 指故意作梗、捣乱。<sup>\[东台\]</sup> ② 不管对方提出什么都要反对，并以某个貌似正确的借口阻住某件事情不办<sup>\[泰州\]</sup>：最近他又同处长～唻，处长交代他办的事情，他就是顶住啊不办。<sup>\[泰州\]</sup>｜这家伙不是省油的灯，哪个不遂他的心，他就同哪个～。<sup>\[泰州\]</sup>  
 1. 【[犯跷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qio_qi.md#犯跷气)】`faen6 qio1 qi` <small>/fɛ̃1 t͡ɕʰiɔ1 t͡ɕʰʝ/<sup>泰兴</sup></small> 提出相反的意见，顶牛，不服从管理。<sup>\[泰兴\]</sup>：单位里就他个(gu9)人～，真伤脑筋。<sup>\[泰兴\]</sup>  
-1. 【[犯人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ren.md#犯人)】`faen6 ren2` <sup>[如东]</sup> 犯罪的人。  
+1. 【[犯人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ren.md#犯人)】`faen6 ren2` <small>/fɛ̃1 ɻəŋ2/<sup>泰兴</sup></small> 犯了罪的人，多指在押的<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[犯事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_shr.md#犯事)】`faen6 shr6` <sup>[东台]</sup> 闯祸，带来麻烦事。  
 1. 【[犯五上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_v_shan.md#犯五上)】`faen6 v3 shan6` <sup>[如皋]</sup> 詈语。指冒犯长上的人。五上，天地君亲师。  
 1. 【[犯枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_van.md#犯枉)】`faen6 van` <sup>[如皋]</sup> 与原意相悖：这件事～吖；他把话说咖～吖。  
