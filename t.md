@@ -148,10 +148,10 @@
 1. 【[怠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#怠)】`tae6` <sup>[兴化]</sup> （借）松懈：这件事就是他～下来的。  
 1. 【[怠啊怠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_tae_dii.md#怠啊怠的)】`tae6 a tae6 dii` <sup>[东台]</sup> 动作拖沓、慢吞吞：行动快点儿，不要～的。  
 1. 【[汏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#汏)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> 漂洗。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：洗后漂清\]\[东台：洗过的衣被，再放到清水里漂洗。\]：金如松一面把洗的衣裳～～清，一面……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜到河边～衣裳<sup>\[泰州\]</sup>｜青菜我洗过啊，你要～下子再下锅。<sup>\[泰州\]</sup>  
+1. 【[绐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#绐)】`tae6` <sup>[兴化]</sup> 松驰下垂：绳子～下来啊。《说文·系部》“～，丝劳即～。”徒亥切。  
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
-1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae6` <sup>[兴化]</sup> 松驰下垂：绳子～下来啊。兴化词典作“绐”，《说文·系部》｜“～，丝劳即～。”徒亥切。  
 1. 【[塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#塌)】`taeh7` <sup>[东台]</sup> 坡度小，平缓，不陡：堤东沙土的河坎比较～。  
 1. 【[塌汊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha_r.md#塌汊<sub>儿</sub>)】`taeh7 cha r` <sup>[如皋]</sup> 分汉而又淤浅的河段。  
 1. 【[塌成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_chen.md#塌成)】`taeh7 chen2` <sup>[如东]</sup> 在耷子和游戏中，由耷子、坎儿和杠构成的成和（hv2），称塌成。  
