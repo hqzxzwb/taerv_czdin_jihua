@@ -277,7 +277,7 @@
 1. 【[八哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gu_r.md#八哥<sub>儿</sub>)】`baeh7 gu1 r` <sup>[泰州]</sup> 鸲鹆，全身黑色，头有簇羽，鸣叫声婉转，能学人语，据说是因为避讳南唐后主李煜儿改名为八哥。  
 1. 【[八哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gu_r.md#八哥<sub>儿</sub>)】`baeh7 gu2 r` <small>/peʔ7 kʊ˞2/<sup>如皋</sup>, /pæʔ7 kɤɯ˞2/<sup>泰兴</sup></small> 八哥。<sup>\[泰兴\]</sup>\[如皋：（如皋词典释义“乌鸫”，存疑）\]：乡人常称喋喋不休者“一天到夜～似的”。<sup>\[泰兴\]</sup>  
 1. 【[八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_guae.md#八怪)】`baeh7 guae5` <small>/pæʔ7 kuɛ5/<sup>兴化</sup>, /peʔ7 kuɛ5/<sup>如皋</sup>, /pæʔ7 kuɛ5/<sup>泰兴</sup></small> ① 状奇特：丑～。<sup>\[如皋\]</sup> ② 旧时无固定经营场所，专事小额商品中介的业者<sup>\[兴化\]</sup>：他过去当～，靠一张嘴、两条腿混饭吃。也称“辵辵儿行”。<sup>\[兴化\]</sup> ③ 对调皮的小孩、不务正业、不修边幅者的贬称。<sup>\[泰兴\]</sup>：箇个伢儿太调皮，一天到夜脏巴邋遢的，真是个丑～。<sup>\[泰兴\]</sup>  
-1. 【[八下里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ha_lii.md#八下里)】`baeh7 ha6 lii` <sup>[如皋]</sup> 同“四里八下的”，表示面广：他现在不得了啦，～赅债，怎吖还得起呀！  
+1. 【[八下里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ha_lii.md#八下里)】`baeh7 ha6 lii` <sup>[如皋]</sup> 同“四里八下的”，表示面广：他现在不得了啦，～该债，怎吖还得起呀！  
 1. 【[八音锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_lu.md#八音锣)】`baeh7 ien1 lu2` <sup>[如皋]</sup> 实际按在架子上的有十面小锣，八音，是指完整的一组音阶。  
 1. 【[八音钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_zhon.md#八音钟)】`baeh7 ien1 zhon1` <sup>[如皋]</sup> 是指高级音乐座钟。  
 1. 【[八月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_bun.md#八月半)】`baeh7 iuh bun5` <small>/pæʔ7 yuʔ pũ5/<sup>兴化</sup></small> ① 中秋节 ② 中秋节<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：今朝～，晚上敬月光，吃团圆酒。<sup>\[兴化\]</sup>  

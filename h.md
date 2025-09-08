@@ -166,7 +166,7 @@
 1. 【[海夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_fv.md#海夫)】`hae3 fv1` <sup>[东台]</sup> 熟悉海性，常在海上捕捞的人。  
 1. 【[海浮石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_fv_sheh.md#海浮石)】`hae3 fv2 sheh8` <sup>[如东]</sup> 火成岩类岩石浮石的块状物，非结晶，一般为白色、浅灰色，偶尔呈浅红色，具有标准的多孔构造，形似蛀窠，有时具管状构造。表面暗淡或具丝状光泽。性脆。比重小，在水中可以浮起。为火山喷发出的岩石，主要由玻璃质构成，偶含少量结晶质矿物。  
 1. 【[海旮老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_ga_lo_r.md#海旮老<sub>儿</sub>)】`hae3 ga lo3 r` <sup>[东台]</sup> 广泛地把每个旮旯搜刮起来的总数：他家～不过五万块钱，买新房暂时有困难。  
-1. 【[海赅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gae.md#海赅)】`hae3 gae1` <sup>[如皋]</sup> 见“总共”。  
+1. 【[海该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gae.md#海该)】`hae3 gae1` <sup>[如皋]</sup> 见“总共”。  
 1. 【[海港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gan.md#海港)】`hae3 gan3` <sup>[如东]</sup> 海洋靠近大陆的海湾和港口：洋口港是深水～。  
 1. 【[海龟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_guei.md#海龟)】`hae3 guei1` <sup>[如东]</sup> 爬行动物。形状和普通龟相似，身体大，黑褐色，头大，嘴有钩。生活在海洋中。吃鱼、虾等动物。  
 1. 【[海估邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_gv_laeh_taeh.md#海估邋遢)】`hae3 gv laeh8 taeh` <sup>[兴化]</sup> 共计、所有的：我～就是这吖几个钱，你要全把你。  

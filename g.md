@@ -110,7 +110,7 @@
 1. 【[街心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xien.md#街心)】`gae1 xien1` 最热闹的大街  
 1. 【[街心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xien_lii.md#街心里)】`gae1 xien1 lii` <small>/kɛ1 ɕiəŋ1 tei/<sup>如皋</sup></small> ① 街当中。<sup>\[如皋\]</sup> ② 指城里最繁华的地方。<sup>\[东台\]</sup>  
 1. 【[街心里撑船——一篙（高）个人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xien_lii_chen.md#街心里撑船——一篙（高）个人家)】`gae1 xien1 lii chen1 chun2 ieh7 go1 gu ren2 ga1` <sup>[东台]</sup>   
-1. 【[该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#该)】`gae1` 应当。<sup>\[如东\]</sup>：～你去做。<sup>\[如东\]</sup>  
+1. 【[该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#该)】`gae1` <small>/kɛ1/<sup>兴化</sup>, /kɛ1/<sup>如皋</sup>, /kɛ1/<sup>泰兴</sup>, /ke1/<sup>泰县</sup></small> ① 应该，应当：～你去做。 ② 拥有<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他家～万贯家财。<sup>\[如皋\]</sup>｜他～得起上百万的钱。<sup>\[泰兴\]</sup> ③ 计值<sup>\[如皋\]</sup>：这几样货总共～多少钱？<sup>\[如皋\]</sup> ④ 差欠<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：～债；我～你多少钱？<sup>\[如皋\]</sup>｜～人家万把块钱，把我愁得睡不着觉。<sup>\[兴化\]</sup>｜那个～你的呀？<sup>\[泰县\]</sup>｜我还～他百块钱<sup>\[泰兴\]</sup>｜你到底～他多少钱还不曾还？<sup>\[泰州\]</sup>  
 1. 【[该当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_dan.md#该当)】`gae1 dan1` <small>/kɛ1 tɑŋ1/<sup>泰兴</sup></small> 应该；应当。<sup>\[泰兴\]</sup>  
 1. 【[该得河里死，不在岸上亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_deh_hu_lii.md#该得河里死，不在岸上亡)】`gae1 deh7 hu2 lii sz3 beh7 cae6 un6 shan van2` <sup>[东台]</sup> 人的死法是命中注定的，这是宿命论。  
 1. 【[该应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ien.md#该应)】`gae1 ien` <sup>[泰县]</sup> 应该：真是～他倒霉噢。  
@@ -119,9 +119,8 @@
 1. 【[该派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pae.md#该派)】`gae1 pae5` <small>/kɛ1 pʰɛ5/<sup>兴化</sup>, /kɛ1 pʰɛ5/<sup>如皋</sup>, /kɛ1 pʰɛ5/<sup>泰兴</sup>, /ke1 pʰe5/<sup>泰县</sup></small> ① 该当、应当 ② 应该如此，有宿命意见味。<sup>\[如皋\]</sup> ③ 应该；命中注定。<sup>\[东台\]</sup> ④ 应该<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如东\]</sup>：“其实我要穿什么新的？他人前人后地跑，～先给自己做件才对……”（马春阳《告状》）<sup>\[兴化\]</sup>｜“……我们蓟州三年轮流一次，今年～布行……”（《梼杌闲评》十三）<sup>\[兴化\]</sup>｜“……常言道，～河里死，不在岸上亡……”（《皮五辣子》三）<sup>\[兴化\]</sup>｜哪块每一次都～我来值班。<sup>\[泰县\]</sup>｜～如此。<sup>\[如东\]</sup> ⑤ 论理应该<sup>\[泰州\]</sup>：姑娘的这些事就～你做妈妈的管。<sup>\[泰州\]</sup> ⑥ 应当；应派，理应。<sup>\[泰兴\]</sup>  
 1. 【[该死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_sz.md#该死)】`gae1 sz3` <sup>[如东]</sup> ① 表示依法应该判处死刑的罪过：这个人做恶多端，～。 ② 向人表示道歉的客套话：我把你车子撞坏啊，～！  
 1. 【[该完](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un.md#该完)】`gae1 un2` <sup>[泰州]</sup> 注定彻底失败而无一点希望：哿是～吖，他这回子英语只考啊20分。｜真是～，去打啊个酱油，还捱人家错啊两角钱去。  
-1. 【[赅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#赅)】`gae1` <small>/kɛ1/<sup>兴化</sup>, /kɛ1/<sup>如皋</sup>, /kɛ1/<sup>泰兴</sup>, /ke1/<sup>泰县</sup></small> ① 拥有<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他家～万贯家财。<sup>\[如皋\]</sup>｜他～得起上百万的钱。<sup>\[泰兴\]</sup> ② 计值<sup>\[如皋\]</sup>：这几样货总共～多少钱？<sup>\[如皋\]</sup> ③ 差欠<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：～债；我～你多少钱？<sup>\[如皋\]</sup>｜～人家万把块钱，把我愁得睡不着觉。<sup>\[兴化\]</sup>｜那个～你的呀？<sup>\[泰县\]</sup>｜我还～他百块钱<sup>\[泰兴\]</sup>｜你到底～他多少钱还不曾还？<sup>\[泰州\]</sup>  
-1. 【[赅债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhae.md#赅债)】`gae1 zhae5` <sup>[如东]</sup> 欠别人的钱：我还～。  
-1. 【[赅账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhan.md#赅账)】`gae1 zhan5` ① 欠账。<sup>\[如东\]</sup>：我不～。<sup>\[如东\]</sup> ② 欠账<sup>\[东台\]</sup>：～要及时还清。<sup>\[东台\]</sup>  
+1. 【[该债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhae.md#该债)】`gae1 zhae5` <sup>[如东]</sup> 欠别人的钱：我还～。  
+1. 【[该账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhan.md#该账)】`gae1 zhan5` ① 欠账。<sup>\[如东\]</sup>：我不～。<sup>\[如东\]</sup> ② 欠账<sup>\[东台\]</sup>：～要及时还清。<sup>\[东台\]</sup>  
 1. 【[改常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chan.md#改常)】`gae3 chan2` <sup>[如东]</sup> 与往常不同：这个人～，与往常大不一样。  
 1. 【[改单<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_daen_r.md#改单<sub>儿</sub>)】`gae3 daen1 r` <sup>[泰县]</sup> 病人复诊时，医生修改前次的药单。  
 1. 【[改刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_do.md#改刀)】`gae3 do1` <small>/kɛ3 tɔ1/<sup>兴化</sup>, /kɛ3 tɔ1/<sup>如皋</sup></small> ① 重新切一下<sup>\[如皋\]</sup> ② 对已经动过刀的物体用刀再加工。<sup>\[东台\]</sup> ③ 把大肉块改切成肉丝或肉丁<sup>\[兴化\]</sup>：吃剩的肥肉块子～，切成肉丝炒百卜或肉丁子汪豆腐。<sup>\[兴化\]</sup> ④ 将已经切成大块的东西再次用刀切成小块<sup>\[泰州\]</sup>：你萝卜切得嫌大，要～。<sup>\[泰州\]</sup>｜他切的肉大一块，小一块，哪一回不要～？<sup>\[泰州\]</sup>  
@@ -1584,7 +1583,7 @@
 1. 【[光秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_zz.md#光秃子)】`guan1 toh7 zz` <sup>[东台]</sup> 头发很少的人（病态）。  
 1. 【[广字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cz_teu_r.md#广字头<sub>儿</sub>)】`guan3 cz6 teu2 r` <sup>[如皋]</sup> （广）：庄店度。  
 1. 【[广福寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_foh_cz.md#广福寺)】`guan3 foh7 cz6` <sup>[如皋]</sup> 在原如城西北边，始建于唐。后称大寺。见“大寺”。  
-1. 【[广赅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae.md#广赅)】`guan3 gae1` <sup>[如皋]</sup> 一共、归总、抓总、总计。  
+1. 【[广该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae.md#广该)】`guan3 gae1` <sup>[如皋]</sup> 一共、归总、抓总、总计。  
 1. 【[广概](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae.md#广概)】`guan3 gae5` <sup>[泰州]</sup> 非特指的，指动作行为是针对所有人的：局长上午在会上说的是句～话，不是说的你一个人，你就不要多心唻。  
 1. 【[广锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gu.md#广锅)】`guan3 gu1` <sup>[如皋]</sup> 广州铸的铁锅。  
 1. 【[广货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_hu_din.md#广货店)】`guan3 hu5 din5` <small>/kuã3 xʊ5 tĩ5/<sup>如皋</sup></small> ① 旧时经销广东货的商家。<sup>\[如皋\]</sup> ② 因其不少的货源来自广东，而且多是舶来品，故称之为～，又叫洋货店。旧时东台豫丰昌～驰名苏北一带。<sup>\[东台\]</sup>  
