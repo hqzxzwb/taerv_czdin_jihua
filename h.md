@@ -1087,7 +1087,7 @@
 1. 【[横祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_hu.md#横祸)】`hon6 hu6` <sup>[兴化]</sup> 意外的祸患。  
 1. 【[横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_shr.md#横事)】`hon6 shr6` <small>/xoŋ6 sɿ6/<sup>兴化</sup>, /xɔŋ1 sɿ1/<sup>如皋</sup></small> ① 凶事、横祸。谚：家有贤妻夫不遭～。<sup>\[如皋\]</sup> ② 意外的祸患<sup>\[兴化\]</sup>：毛二胡子酒醉打杀人，家里避啊～。也作“横祸”。<sup>\[兴化\]</sup>  
 1. 【[横死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hon_sz.md#横死)】`hon6 sz3` <sup>[兴化]</sup> 指各种非正常死亡：“……小二、小五俱遭～，剩得你一个……又闯出这场奇祸来……”（《水浒后传》一）  
-1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu1 jia` <small>/xɤɯ1 t͡ɕiɑ/<sup>泰兴</sup></small> 对同辈人或同伴的称呼，表示亲热、亲近。一般不用于对长辈或同伴中的年长者。<sup>\[泰兴\]</sup>  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu1 jia` <small>/xʊ1 t͡ɕia/<sup>如皋</sup>, /xɤɯ1 t͡ɕiɑ/<sup>泰兴</sup>, /xo1 t͡ɕia/<sup>泰县</sup></small> ① 指在一起的人。昵称。詈指。<sup>\[如皋\]</sup> ② 同辈或长辈对下辈亲呢称呼<sup>\[泰县\]</sup>：～，等我下子<sup>\[泰县\]</sup> ③ 对同辈人或同伴的称呼，表示亲热、亲近。一般不用于对长辈或同伴中的年长者。<sup>\[泰兴\]</sup>  
 1. 【[吙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#吙)】`hu1` <small>/xo1/<sup>兴化</sup>, /xʊ1/<sup>如皋</sup>, /xo1/<sup>泰县</sup></small> ① 一种烹饪方法，放在水上蒸。吙，同音借字。 ② 一种烹调方法。把食物放在锅里或吙络儿上，用文火焖熟。<sup>\[如东\]</sup> ③ 蒸<sup>\[如皋\]</sup>：～馒头<sup>\[如皋\]</sup> ④ 薰<sup>\[如皋\]</sup>：热汽～手、～澡<sup>\[如皋\]</sup> ⑤ 灼痛<sup>\[如皋\]</sup>：手洗啊大椒的，～人子。<sup>\[如皋\]</sup> ⑥ 用少量水，盖紧锅盖，将食物半蒸半煮。来客蒸糕点，馒头叫“～茶”。<sup>\[东台\]</sup> ⑦ 热气冒出<sup>\[兴化\]</sup>：热气把手～疼吖。兴化词典作“煆”，《集韵·麻韵》虚加切“～，火气。”<sup>\[兴化\]</sup> ⑧ 用锅把冷的东西蒸热<sup>\[泰县\]</sup>：把馒头～啊子<sup>\[泰县\]</sup> ⑨ 用蒸气加热蒸熟食物<sup>\[泰州\]</sup>：～馒头<sup>\[泰州\]</sup>｜～螃蟹<sup>\[泰州\]</sup> ⑩ 毛巾在热水中浸泡后，拧至半干，用于热敷<sup>\[泰州\]</sup>：他要闪吖唻，弄个手巾把子同他～啊子。<sup>\[泰州\]</sup>  
 1. 【[吙茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_cha.md#吙茶)】`hu1 cha2` <sup>[如皋]</sup> 旧时乡村中的待客之礼。在一只大锅中烧开水兼吙馒头、糕之类，请客人饮用。即便近中午，也是先～，后煮饭。  
 1. 【[吙蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_hae.md#吙蟹)】`hu1 hae3` <sup>[如皋]</sup> 将活蟹洗净置锅内蒸熟。  
@@ -1207,7 +1207,7 @@
 1. 【[伙计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ji.md#伙计)】`hu3 ji5` <small>/xɤɯ3 t͡ɕʝ5/<sup>泰兴</sup></small> 旧指店员或其他被雇佣劳动者。<sup>\[泰兴\]</sup>  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia` <sup>[兴化]</sup> ① 伙计、佣人。 ② 对朋友，熟人等比较随意的面称：“～，好力气，好膀条子！”（《武松》五）｜“～，今天夜里要防备大风大雨哩！”（马春阳《双灯照》）  
 1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1, hu1 jia1` <sup>[东台]</sup> 伙伴之间最常用的昵称，一般用于对同辈、晚辈或下级，而不是相反。在这里，“家”为“计啊”合音，“伙”习惯也读阴平。  
-1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` <small>/xʊ3 t͡ɕia1/<sup>如皋</sup>, /xo3 t͡ɕia1/<sup>泰县</sup></small> ① 指在一起的人。昵称。詈指。<sup>\[如皋\]</sup> ② 同辈或长辈对下辈亲呢称呼<sup>\[泰县\]</sup>：～，等我下子<sup>\[泰县\]</sup> ③ 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ④ 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
+1. 【[伙家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_jia.md#伙家)】`hu3 jia1` ① 共事的人，特指店主雇用的工人。<sup>\[泰州\]</sup> ② 同龄、同事或同伴<sup>\[泰州\]</sup>：～，这件事就全看你的唻。<sup>\[泰州\]</sup>  
 1. 【[伙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_teu.md#伙头)】`hu3 teu` <sup>[如东]</sup> 做饭的船工。  
 1. 【[火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#火)】`hu3` <sup>[如皋]</sup> 皮肤的红斑疮、溃疡：他腿子上有块～，火辣火辣的疼。  
 1. 【[火把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_ba.md#火把)】`hu3 ba3` <sup>[泰州]</sup> 火炬：过去在乡里天黑走夜路就要打～唻。  
