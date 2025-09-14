@@ -100,7 +100,7 @@
 1. 【[雨陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_deu.md#雨陡)】`y3 deu3` <sup>[如皋]</sup> 雨特别大。  
 1. 【[雨点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_din_zz.md#雨点子)】`y3 din3 zz` <small>/y3 tĩ3 t͡sɿ/<sup>泰兴</sup></small> 形成雨的水点。<sup>\[泰兴\]</sup>  
 1. 【[雨盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gae.md#雨盖)】`y3 gae5` <small>/y3 kɛ5/<sup>泰兴</sup></small> 雨伞<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
-1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup>, /y3 kæʔ7 ɕyʊʔ7/<sup>泰兴</sup></small> ① 雨夹雪，天气现象<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup> ④ 一种饭食，在煮熟的菜面条里加上米饭混煮。<sup>\[泰州\]</sup>  
+1. 【[雨夹雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_gaeh_xiuh.md#雨夹雪)】`y3 gaeh7 xiuh7` <small>/y3 kæʔ7 ɕyuʔ7/<sup>兴化</sup>, /y3 kæʔ7 ɕiʔ7/<sup>泰兴</sup></small> ① 雨夹雪，天气现象<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ② 行书作品夹着草字。<sup>\[东台\]</sup> ③ （喻）不纯粹的事物，如说普通话时杂有方言、语体文中杂有文言词语。<sup>\[兴化\]</sup> ④ 一种饭食，在煮熟的菜面条里加上米饭混煮。<sup>\[泰州\]</sup>  
 1. 【[雨后送伞——过啊时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_heu_son_saen.md#雨后送伞——过啊时)】`y3 heu6 son5 saen3 gu5 a shr2` <sup>[东台]</sup>   
 1. 【[雨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah.md#雨脚)】`y3 jiah7` <small>/y3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 下雨的密度。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～大。<sup>\[如东\]</sup>｜今朝～太大<sup>\[泰兴\]</sup>  
 1. 【[雨脚猛烈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_jiah_mon_lih.md#雨脚猛烈)】`y3 jiah7 mon3 lih8` <sup>[如东]</sup> 形容雨下得很大。  

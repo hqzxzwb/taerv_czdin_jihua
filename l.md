@@ -1155,7 +1155,7 @@
 1. 【[立字据](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_cz_jy.md#立字据)】`lieh8 cz6 jy5` <sup>[东台]</sup> 写下字据：口说无凭，立字为据。  
 1. 【[立等可取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_den_ku_qy.md#立等可取)】`lieh8 den3 ku3 qy3` <sup>[东台]</sup> 服务行业招徕顾客的一种承诺，意思是很快就能办好。  
 1. 【[立冬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don.md#立冬)】`lieh8 don1` 二十四节气之一，通常在11月7日或8日。  
-1. 【[立冬种晚麦，小雪住犁耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don_zhon_vaen.md#立冬种晚麦，小雪住犁耙)】`lieh8 don1 zhon5 vaen3 moh8 xio3 xiuh7 chv6 li2 pa` <small>/liʔ8 tɔŋ1 t͡sɔŋ5 ʋɛ̃3 mɔʔ8 ɕiɔ3 ɕyʊʔ7 t͡sʰu1 lʝ2 pʰɑ/<sup>泰兴</sup></small> 农谚。谓立冬种麦已经晚了，到了小雪节气就不可再种了。<sup>\[泰兴\]</sup>  
+1. 【[立冬种晚麦，小雪住犁耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_don_zhon_vaen.md#立冬种晚麦，小雪住犁耙)】`lieh8 don1 zhon5 vaen3 moh8 xio3 xiuh7 chv6 li2 pa` <small>/liʔ8 tɔŋ1 t͡sɔŋ5 ʋɛ̃3 mɔʔ8 ɕiɔ3 ɕiʔ7 t͡sʰu1 lʝ2 pʰɑ/<sup>泰兴</sup></small> 农谚。谓立冬种麦已经晚了，到了小雪节气就不可再种了。<sup>\[泰兴\]</sup>  
 1. 【[立房约<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_fan_iah_r.md#立房约<sub>儿</sub>)】`lieh8 fan2 iah7 r` <sup>[如皋]</sup> 写租房契约，付租金，并交接成立。  
 1. 【[立马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_ma.md#立马)】`lieh8 ma3` <sup>[东台]</sup> 立即，马上。  
 1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` 二十四节气之一，通常在8月7日或8日。  

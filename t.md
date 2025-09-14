@@ -1653,7 +1653,7 @@
 1. 【[套狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_geu.md#套狗)】`to5 geu3` 一种捕杀狗的方法，将绳子做成可松可紧的环套在狗头上，抽紧绳环，使之窒息而亡。<sup>\[泰州\]</sup>  
 1. 【[套狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_geu_zz.md#套狗子)】`to5 geu3 zz` <sup>[兴化]</sup> 用带有活扣的绳索扣住狗的脖子，狗越挣扎套得越紧，直至窒息。  
 1. 【[套鬼脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_guei_lin_r.md#套鬼脸<sub>儿</sub>)】`to5 guei3 lin3 r` <sup>[如皋]</sup> ① 戴假面具，儿童游戏。 ② 詈语。指羞耻，不能见人，用以遮羞。  
-1. 【[套鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hae.md#套鞋)】`to5 hae2` <small>/tʰɔ5 xɛ2/<sup>兴化</sup></small> ① 雨鞋 ② 防水胶鞋，雨靴。<sup>\[兴化\]</sup> ③ 雨靴，一种用于湿地或者雨天穿的防水橡胶鞋，分为矮帮、高帮两种<sup>\[泰州\]</sup>：这双～你穿不得。<sup>\[泰州\]</sup>  
+1. 【[套鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hae.md#套鞋)】`to5 hae2` <small>/tʰɔ5 xɛ2/<sup>兴化</sup>, /tʰɔ5 xɛ2/<sup>泰兴</sup></small> ① 雨鞋 ② 防水胶鞋，雨靴。<sup>\[兴化\]</sup> ③ 雨靴，一种用于湿地或者雨天穿的防水橡胶鞋，分为矮帮、高帮两种<sup>\[泰州\]</sup>：这双～你穿不得。<sup>\[泰州\]</sup> ④ 雨鞋。不漏水的鞋子。<sup>\[泰兴\]</sup>  
 1. 【[套话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hua.md#套话)】`to5 hua6` <sup>[如皋]</sup> 用场面话或假话套取真话、真情。  
 1. 【[套脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jiah_r.md#套脚<sub>儿</sub>)】`to5 jiah7 r` <sup>[泰县]</sup> 木制雨鞋。  
 1. 【[套脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jiah_zz.md#套脚子)】`to5 jiah7 zz` <small>/tʰɔ5 t͡ɕiɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 套在鞋上的可以防水的木鞋。<sup>\[泰兴\]</sup>  

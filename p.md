@@ -974,7 +974,7 @@
 1. 【[白螺蛳壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lu_shr_kah.md#白螺蛳壳)】`poh8 lu1 shr1 kah7` <sup>[如东]</sup> 田蜾科动物方形环棱螺或其他同属动物的陈旧螺壳。  
 1. 【[白露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白露)】`poh8 lv6` 二十四节气之一，通常在9月7、8或9日。  
 1. 【[白露不露身，寒露不露顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_beh_lv.md#白露不露身，寒露不露顶)】`poh8 lv6 beh7 lv6 shen1 hun2 lv6 beh7 lv6 dien3` <sup>[东台]</sup> 白露后要穿长袖衣服，寒露后要戴帽子。  
-1. 【[白露菜，寒露栽，小雪挑腌菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_cae_hun.md#白露菜，寒露栽，小雪挑腌菜)】`poh8 lv6 cae5 hun2 lv6 zae1 xio3 xiuh7 tio1 in1 cae5` <small>/pʰɔʔ8 lu1 t͡ɕʰiɛ5 xʊ̃2 lu1 t͡ɕiɛ1 ɕiɔ3 ɕyʊʔ7 tʰiɔ1 ĩ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 农谚。谓冬天的腌菜最佳栽种的时节。<sup>\[泰兴\]</sup>  
+1. 【[白露菜，寒露栽，小雪挑腌菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv_cae_hun.md#白露菜，寒露栽，小雪挑腌菜)】`poh8 lv6 cae5 hun2 lv6 zae1 xio3 xiuh7 tio1 in1 cae5` <small>/pʰɔʔ8 lu1 t͡ɕʰiɛ5 xʊ̃2 lu1 t͡ɕiɛ1 ɕiɔ3 ɕiʔ7 tʰiɔ1 ĩ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 农谚。谓冬天的腌菜最佳栽种的时节。<sup>\[泰兴\]</sup>  
 1. 【[白鹭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lv.md#白鹭)】`poh8 lv6` <sup>[如东]</sup> 鹭科动物白鹭，也叫夜鹭。  
 1. 【[白麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_zz.md#白麻子)】`poh8 ma2 zz` <sup>[如皋]</sup> 少而浅的麻点，或指人。  
 1. 【[白蚂蝆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_ma_mi.md#白蚂蝆)】`poh8 ma3 mi3` <sup>[如皋]</sup> 白蚁。  

@@ -2311,7 +2311,7 @@
 1. 【[冬垩金，春垩银，过啊清明不值钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_nga_jien_chuen.md#冬垩金，春垩银，过啊清明不值钱)】`don1 nga5 jien1 chuen1 nga5 ien2 gu1 a qien1 mien beh7 cheh8 qin2` <small>/tɔŋ1 ŋɑ5 t͡ɕiŋ1 t͡sʰuəŋ1 ŋɑ5 iŋ2 kɤɯ1 a t͡ɕʰiŋ1 miŋ pəʔ7 t͡sʰəʔ8 t͡ɕʰĩ2/<sup>泰兴</sup></small> 农谚。谓农作物施肥要把握时机，才有效果。<sup>\[泰兴\]</sup>  
 1. 【[冬沤田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_ngeu_tin.md#冬沤田)】`don1 ngeu5 tin2` <sup>[兴化]</sup> 秋收后浸泡在水中的一熟田。  
 1. 【[冬青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qien.md#冬青)】`don1 qien1` <sup>[如东]</sup> 冬青科植物冬青，常绿乔木。  
-1. 【[冬前三铺雪，庄稼稳似铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qin_saen_pv.md#冬前三铺雪，庄稼稳似铁)】`don1 qin2 saen1 pv1 xiuh7 zhuan1 jia ven3 sz6 tih7` <small>/tɔŋ1 t͡ɕʰĩ2 ɕiɛ̃1 pʰu1 ɕyʊʔ7 t͡suɑŋ1 t͡ɕiɑ ʋəŋ3 sɿ1 tʰiʔ7/<sup>泰兴</sup></small> 农谚。冬至之前下三次雪，庄稼笃定丰收。<sup>\[泰兴\]</sup>  
+1. 【[冬前三铺雪，庄稼稳似铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_qin_saen_pv.md#冬前三铺雪，庄稼稳似铁)】`don1 qin2 saen1 pv1 xiuh7 zhuan1 jia ven3 sz6 tih7` <small>/tɔŋ1 t͡ɕʰĩ2 ɕiɛ̃1 pʰu1 ɕiʔ7 t͡suɑŋ1 t͡ɕiɑ ʋəŋ3 sɿ1 tʰiʔ7/<sup>泰兴</sup></small> 农谚。冬至之前下三次雪，庄稼笃定丰收。<sup>\[泰兴\]</sup>  
 1. 【[冬天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin.md#冬天)】`don1 tin1` <sup>[如东]</sup> 冬季。  
 1. 【[冬天的扇子——没人爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_dii_shin.md#冬天的扇子——没人爱)】`don1 tin1 dii shin5 zz meh8 ren2 ngae5` <sup>[东台]</sup>   
 1. 【[冬天揽锅烧，夏天把米淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_tin_laen_gu.md#冬天揽锅烧，夏天把米淘)】`don1 tin1 laen3 gu1 sho1 xia6 tin1 ba3 mi3 to2` <sup>[东台]</sup> 形容人看似勤快，实际上专拣舒服活儿做。  

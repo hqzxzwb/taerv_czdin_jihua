@@ -1807,8 +1807,9 @@
 1. 【[圈䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pon_tuei.md#圈䳞腿)】`qiun6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。也称“䳞䳞腿”。  
 1. 【[旋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#旋)】`qiun6` <small>/t͡ɕʰyũ6/<sup>兴化</sup></small> ① 圆发旋，呈旋涡状的头发。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：小四子头上有两个～。<sup>\[兴化\]</sup> ② 月晕的俗称<sup>\[兴化\]</sup>：凉月子周围有个～，马上要起风吖。<sup>\[兴化\]</sup> ③ 刚刚<sup>\[兴化\]</sup>：他～来的时候表现还不丑。<sup>\[兴化\]</sup>  
 1. 【[旋风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_fon.md#旋风)】`qiun6 fon1` <small>/t͡ɕʰyũ6 foŋ1/<sup>兴化</sup></small> ① 因空气旋转而产生的形似漏斗一样的小风柱，常在田间、路边出现。也称旋旋儿风。<sup>\[如东\]</sup> ② 旋风<sup>\[兴化\]</sup>：一阵～，把场上刮得满天的灰尘跟麦草。<sup>\[兴化\]</sup>  
-1. 【[旋旋<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r_fon.md#旋旋<sub>儿</sub>风)】`qiun6 qiun6 r fon1` <sup>[如皋]</sup> 小旋风。  
+1. 【[旋旋<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r_fon.md#旋旋<sub>儿</sub>风)】`qiun6 qiun6 r fon1` <small>/t͡ɕʰyʊ̃1 t͡ɕʰyʊ˞1 fɔŋ1/<sup>如皋</sup>, /t͡ɕʰĩ1 t͡ɕʰi˞1 fɔŋ1/<sup>泰兴</sup></small> 小旋风。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[旋漩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#旋漩<sub>儿</sub>)】`qiun6 qiun6 r` <sup>[如东]</sup> 水流旋转时形成的螺旋形。也叫漩涡。  
+1. 【[旋水塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_shuei_tan.md#旋水塘)】`qiun6 shuei3 tan2` <small>/t͡ɕʰĩ1 suəɪ3 tʰɑŋ2/<sup>泰兴</sup></small> 旋涡。<sup>\[泰兴\]</sup>  
 1. 【[旋网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van.md#旋网)】`qiun6 van3` <small>/t͡ɕʰyũ6 uaŋ3/<sup>兴化</sup>, /t͡ɕʰyõ1 uɑŋ3/<sup>泰县</sup></small> ① 鱼网的一种。顶锥形，封闭；底圆形，张开，像钟。底部装着锡砣，叫做脚子。作业时，渔民将网撒出去罩住一定的水域，将鱼罩住捕捉。<sup>\[如东\]</sup> ② 一种捕鱼的围网。<sup>\[兴化\]</sup> ③ 鱼网的一种。<sup>\[泰县\]</sup>  
 1. 【[旋网星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van_xien.md#旋网星)】`qiun6 van3 xien1` <sup>[如东]</sup> 星座名称，位于银河东侧，众星围成椭圆型，似撒开的旋网。  
 1. 【[旋下句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_xia_jy.md#旋下句)】`qiun6 xia6 jy5` <sup>[兴化]</sup> 刚开始、原来：他俫～感情蛮好的。  

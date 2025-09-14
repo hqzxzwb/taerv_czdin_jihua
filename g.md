@@ -1737,6 +1737,7 @@
 1. 【[鬼迷路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_lv.md#鬼迷路)】`guei3 mi2 lv6` <small>/kuəɪ3 mʝ2 lu1/<sup>泰兴</sup></small> 指黑夜迷路，老在一个地方打转。又称“鬼打墙”。<sup>\[泰兴\]</sup>  
 1. 【[鬼迷心窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_mi_xien_qio.md#鬼迷心窍)】`guei3 mi2 xien1 qio5` <sup>[如东]</sup> 被假话迷住了头脑：他与走私贩子混吖一起，真是～！  
 1. 【[鬼麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_moh.md#鬼麦)】`guei3 moh8` <small>/kuei3 mɔʔ8/<sup>如皋</sup>, /kuəɪ3 mɔʔ8/<sup>泰兴</sup></small> ① 麦作物的黑粉菌病株及孢子体。<sup>\[如皋\]</sup> ② 有黑穗病的麦，生病麦穗变成黑粉，隔着苞叶可见黑色粉团。<sup>\[泰州\]</sup> ③ 有黑穗病的麦子。<sup>\[泰兴\]</sup>  
+1. 【[鬼旋风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_qiun_fon.md#鬼旋风)】`guei3 qiun6 fon1` <small>/kuəɪ3 t͡ɕʰĩ1 fɔŋ1/<sup>泰兴</sup></small> 小旋风。<sup>\[泰兴\]</sup>  
 1. 【[鬼食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_sheh.md#鬼食)】`guei3 sheh8` ① ［喻］食品分量少。<sup>\[东台\]</sup> ② 乍看起来体积不小而实际可食用部分很少的食品<sup>\[泰州\]</sup>：癞葡萄是个～，剥咖来里头没得甚的肉子。<sup>\[泰州\]</sup>  
 1. 【[鬼声鬼气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_shen_guei_qi.md#鬼声鬼气的)】`guei3 shen1 guei3 qi5 dii` <sup>[如皋]</sup> 状说话的腔调难听。  
 1. 【[鬼手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guei_sheu.md#鬼手)】`guei3 sheu3` <sup>[兴化]</sup> 形容手又脏又冷。  
