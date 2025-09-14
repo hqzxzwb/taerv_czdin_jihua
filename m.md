@@ -921,10 +921,9 @@
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  
 1. 【[门度子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tv_zz.md#门度子)】`men2 tv6 zz` <sup>[如东]</sup> 门板的宽度。  
 1. 【[门窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_r.md#门窝<sub>儿</sub>)】`men2 u1 r` <small>/məŋ2 ʊ˞1/<sup>如皋</sup></small> ① 门臼。<sup>\[如东\]</sup> ② 门臼，即旧式门上下转轴的轴承窝。<sup>\[如皋\]</sup>  
-1. 【[门窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_zz.md#门窝子)】`men2 u1 zz` <small>/mən2 o1 t͡sɿ/<sup>兴化</sup></small> ① 托着旧式门扇转轴的门下坎，凹形，成臼状。<sup>\[东台\]</sup> ② 托住门轴的臼状墩子<sup>\[兴化\]</sup>：把门从～上褪下来。<sup>\[兴化\]</sup>｜他们偷偷地给他留着门，在～里倒了水（这样推门进来没有声音）。（汪曾祺：《大掉记事》）<sup>\[兴化\]</sup> ③ 中有半球形的凹进承接木制门轴、使门保持垂直，可转动的木头墩子。<sup>\[泰州\]</sup>  
+1. 【[门窝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_u_zz.md#门窝子)】`men2 u1 zz` <small>/mən2 o1 t͡sɿ/<sup>兴化</sup>, /məŋ2 ɤɯ1 t͡sɿ/<sup>泰兴</sup></small> ① 托着旧式门扇转轴的门下坎，凹形，成臼状。<sup>\[东台\]</sup> ② 托住门轴的臼状墩子<sup>\[兴化\]</sup>：把门从～上褪下来。<sup>\[兴化\]</sup>｜他们偷偷地给他留着门，在～里倒了水（这样推门进来没有声音）。（汪曾祺：《大掉记事》）<sup>\[兴化\]</sup> ③ 中有半球形的凹进承接木制门轴、使门保持垂直，可转动的木头墩子。<sup>\[泰州\]</sup> ④ 门上下放转轴的窝塘\[泰兴：“窝”又音u1\]  
 1. 【[门午竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_v_shv.md#门午竖)】`men2 v3 shv6` <small>/mən2 u3 su6/<sup>兴化</sup>, /məŋ2 u3 su1/<sup>泰县</sup></small> ① 门框。<sup>\[兴化\]</sup> ② 门框子。<sup>\[泰县\]</sup>  
 1. 【[门户框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_v_kuan.md#门户框)】`men2 v6 kuan1` <sup>[如皋]</sup> 门框之两边的竖框。  
-1. 【[门护子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vei_zz.md#门护子)】`men2 v6 zz` <small>/məŋ2 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 门上下放转轴的窝塘<sup>\[泰兴\]</sup>  
 1. 【[门外汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vae_hun.md#门外汉)】`men2 vae6 hun5` <small>/məŋ2 ʋɛ1 xʊ̃5/<sup>泰兴</sup></small> ① 站在门外的人。比喻对某种事情尚未入门的人。<sup>\[如东\]</sup>：对于跳舞，我是～。<sup>\[如东\]</sup> ② 外行人。<sup>\[泰兴\]</sup>：提到书法，我是个～，一点都不懂。<sup>\[泰兴\]</sup> ③ 比喻尚未掌握某个领域知识的人。<sup>\[泰州\]</sup>  
 1. 【[门卫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_vei.md#门卫)】`men2 vei6` <sup>[如东]</sup> 机关或企事业单位负责安全的守门人。  
 1. 【[门肘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zheu_zz.md#门肘子)】`men2 zheu3 zz` <sup>[兴化]</sup> 日式门的轴，上下安在门窝中。  
