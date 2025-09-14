@@ -728,7 +728,7 @@
 1. 【[眼目下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_moh_xia.md#眼目下)】`ngaen3 moh8 xia6` <small>/ɛ̃3 mɔʔ8 ɕia6/<sup>兴化</sup></small> ① 目前，眼前的事。<sup>\[东台\]</sup> ② 目下、说话的时候：我～资金周转不灵，特地请你帮个忙。<sup>\[兴化\]</sup>  
 1. 【[眼眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ngaen_r.md#眼眼<sub>儿</sub>)】`ngaen3 ngaen r` <sup>[如皋]</sup> 状一点点儿。  
 1. 【[眼眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ngaen_r.md#眼眼<sub>儿</sub>)】`ngaen3 ngaen3 r` <small>/ŋẽ3 ŋe˞3/<sup>如皋</sup></small> ① 一点点 ② 见“奀奀儿”。<sup>\[如皋\]</sup>  
-1. 【[眼怕手不怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pa_sheu_beh.md#眼怕手不怕)】`ngaen3 pa5 sheu3 beh7 pa5` <small>/ŋẽ3 pʰa5 sei3 pəʔ7 pʰa5/<sup>如皋</sup></small> ① 眼看量大，做起来也很快就完成。<sup>\[如皋\]</sup> ② 看起来很难，真正动手就能改观见效<sup>\[东台\]</sup>：～，这几亩田的豆子，我俫也种好啊。<sup>\[东台\]</sup>  
+1. 【[眼怕手不怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pa_sheu_beh.md#眼怕手不怕)】`ngaen3 pa5 sheu3 beh7 pa5` <small>/ŋẽ3 pʰa5 sei3 pəʔ7 pʰa5/<sup>如皋</sup>, /ŋɛ̃3 pʰɑ5 ɕiɤɯ3 pəʔ7 pʰɑ5/<sup>泰兴</sup></small> 眼看量大、很难，做起来也很快就完成。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：～，这几亩田的豆子，我俫也种好啊。<sup>\[东台\]</sup>  
 1. 【[眼皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi.md#眼皮)】`ngaen3 pi2` <sup>[东台]</sup> 眼睑。  
 1. 【[眼（睛）皮打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_da_jia.md#眼（睛）皮打架)】`ngaen3 pi2 da3 jia5` <sup>[如皋]</sup> 开始打瞌睡。  
 1. 【[眼（睛）皮耷咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_dah_ga.md#眼（睛）皮耷咖下)】`ngaen3 pi2 dah7 ga ha` <sup>[如皋]</sup> 眼微睁。  

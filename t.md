@@ -537,7 +537,7 @@
 1. 【[烫人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ren.md#烫人)】`tan5 ren2` ① 温度高，使人体不能贴近。<sup>\[如东\]</sup>：铁板～，不能拿。<sup>\[如东\]</sup> ② 人体接触高温物体时产生的疼痛感觉<sup>\[泰州\]</sup>：这个粥太～。<sup>\[泰州\]</sup>  
 1. 【[烫手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_sheu.md#烫手)】`tan5 sheu3` <sup>[如东]</sup> 温度太高，手指不能接触。  
 1. 【[烫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_teu.md#烫头)】`tan5 teu2` <sup>[东台]</sup> 就是烫发。  
-1. 【[烫心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#烫心)】`tan5 xien1` <small>/tʰaŋ5 ɕin1/<sup>兴化</sup>, /tʰã5 ɕiəŋ1/<sup>如皋</sup>, /tʰɑŋ5 ɕiŋ1/<sup>泰兴</sup></small> ① 称心满意。作补语<sup>\[如皋\]</sup>：这一趟耍子得～。<sup>\[如皋\]</sup> ② 心疼<sup>\[如皋\]</sup>：花钱花得～。<sup>\[如皋\]</sup> ③ 满意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 使受感动或得到安慰<sup>\[兴化\]</sup>：这几句好话让人～！<sup>\[兴化\]</sup> ⑤ 心情舒畅、愉快<sup>\[泰兴\]</sup>  
+1. 【[烫心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#烫心)】`tan5 xien1` <small>/tʰaŋ5 ɕin1/<sup>兴化</sup>, /tʰã5 ɕiəŋ1/<sup>如皋</sup>, /tʰɑŋ5 ɕiŋ1/<sup>泰兴</sup></small> ① 称心满意。作补语<sup>\[如皋\]</sup>：这一趟耍子得～。<sup>\[如皋\]</sup> ② 心疼<sup>\[如皋\]</sup>：花钱花得～。<sup>\[如皋\]</sup> ③ 满意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 使受感动或得到安慰<sup>\[兴化\]</sup>：这几句好话让人～！<sup>\[兴化\]</sup> ⑤ 心情舒畅、愉快，称心满意<sup>\[泰兴\]</sup>  
 1. 【[烫粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zhoh.md#烫粥)】`tan5 zhoh7` 将煮好的米饭加水煮成粥  
 1. 【[耥草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_co.md#耥草)】`tan5 co3` 农活名称，用耥耙耥去稻田中的杂草。<sup>\[泰州\]</sup>  
 1. 【[耥刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#耥刀)】`tan5 do1` <sup>[如皋]</sup> 在河底推割水草的工具，竹篙根部装有像水牛角的刀。  

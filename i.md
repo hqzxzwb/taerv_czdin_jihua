@@ -1738,21 +1738,30 @@
 1. 【[烟囱绑棍子——不是好灶（兆）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con_ban_guen.md#烟囱绑棍子——不是好灶（兆）)】`in1 con1 ban3 guen5 zz beh7 shr6 ho3 zo5 （cho6）` <sup>[东台]</sup>   
 1. 【[烟囱扎白布——灶（躁）死啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_con_zhaeh_poh.md#烟囱扎白布——灶（躁）死啊)】`in1 con1 zhaeh7 poh8 bv5 zo5 sz3 a` <sup>[东台]</sup>   
 1. 【[烟墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_den.md#烟墩)】`in1 den1` <sup>[东台]</sup> 古代设在海滩上的烽堠，类似于烽火台，有木制架式，有高土堆上燃烟式：为抗击倭寇，东台嘉靖年间（1521-1566）从富安到小海共设立十一座，后又增设二十九座～。  
+1. 【[烟鬼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_guei_zz.md#烟鬼子)】`in1 guei3 zz` <small>/ĩ1 kuəɪ3 t͡sɿ/<sup>泰兴</sup></small> 戏称抽烟成瘾的人。<sup>\[泰兴\]</sup>  
 1. 【[烟火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu.md#烟火)】`in1 hu` <sup>[东台]</sup> ① 燃放时能发出各色火花而供人观赏的东西。 ② 代指烧火做饭：人间～。  
+1. 【[烟火㷯㷯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_pon_pon.md#烟火㷯㷯)】`in1 hu pon6 pon6` <small>/ĩ1 xɤɯ pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> 谓烟飞火扬、空气混浊的样子。<sup>\[泰兴\]</sup>  
+1. 【[烟火味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_vei.md#烟火味)】`in1 hu vei6` <small>/ĩ1 xɤɯ ʋəɪ1/<sup>泰兴</sup></small> 烟火气味。<sup>\[泰兴\]</sup>  
 1. 【[烟炣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_qi.md#烟炣气)】`in1 hu1 qi` <sup>[如皋]</sup> 食品中有烟熏味。  
 1. 【[烟火气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_qi.md#烟火气)】`in1 hu3 qi5` ① 植物秸燃烧后发出的一种特殊气味。<sup>\[如东\]</sup> ② 米饭过火，发出一种煳焦味，称烟火气。<sup>\[如东\]</sup> ③ 旧式砖灶的锅沿与灶台之间出现缝隙，烧饭时烟从缝隙窜入锅中，使饭产生的异味。<sup>\[东台\]</sup>  
 1. 【[烟火之食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hu_zhr_sheh.md#烟火之食)】`in1 hu3 zhr1 sheh8` <sup>[如东]</sup> 用火煮熟的食物：人不能不吃～。  
 1. 【[烟花行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua_han.md#烟花行)】`in1 hua1 han2` <sup>[如皋]</sup> 旧社会，大烟馆和妓院一起经营的商家。  
+1. 【[烟花巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua_han.md#烟花巷)】`in1 hua1 han6` <small>/ĩ1 xuɑ1 xɑŋ1/<sup>泰兴</sup></small> 旧指妓院聚集之地。<sup>\[泰兴\]</sup>  
 1. 【[烟盒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_huh_r.md#烟盒<sub>儿</sub>)】`in1 huh8 r` <sup>[如皋]</sup> 𣥼烟丝的盒子。  
+1. 【[烟盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_huh_zz.md#烟盒子)】`in1 huh8 zz` <small>/ĩ1 xʊʔ8 t͡sɿ/<sup>泰兴</sup></small> 装烟的盒子。<sup>\[泰兴\]</sup>  
 1. 【[烟瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ien.md#烟瘾)】`in1 ien3` <sup>[东台]</sup> 吸烟的癖好。  
 1. 【[烟油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ieu.md#烟油)】`in1 ieu2` ① 陈旧旱烟竿内积存的黑色膏油。<sup>\[如东\]</sup> ② 附着在烟枪、烟袋、香烟嘴管壁上的油垢。<sup>\[泰州\]</sup>  
 1. 【[烟油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ieu_zz.md#烟油子)】`in1 ieu2 zz` <sup>[兴化]</sup> 烟嘴或烟袋里积下的油垢。  
+1. 【[烟叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ih_zz.md#烟叶子)】`in1 ih8 zz` <small>/ĩ1 iʔ8 t͡sɿ/<sup>泰兴</sup></small> 烟草的叶子。<sup>\[泰兴\]</sup>  
 1. 【[烟酒不分家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jieu_beh_fen.md#烟酒不分家)】`in1 jieu3 beh7 fen1 jia1` <sup>[东台]</sup> （俗语）作为交际物的烟酒共同享受，不分彼此。  
+1. 【[烟酒不分家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jieu_beh_fen.md#烟酒不分家)】`in1 jieu3 beh7 fen1 jia1` <small>/ĩ1 t͡ɕiɤɯ3 pəʔ7 fəŋ1 t͡ɕiɑ1/<sup>泰兴</sup></small> 谓抽烟饮酒大家一起享受<sup>\[泰兴\]</sup>：～，吃掉lei再去抓<sup>\[泰兴\]</sup>  
 1. 【[烟焦火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jio_hu_laeh.md#烟焦火辣)】`in1 jio1 hu3 laeh8` <small>/iɪ̃1 t͡ɕiɔ1 xo3 læʔ8/<sup>兴化</sup></small> ① 被烟尘及油酱等熏后产生的糊味<sup>\[兴化\]</sup>：“……我这衣服，熏得香扑扑的，难道还可以下厨办菜，惹得浑身～气味……”（《广陵潮》大九）<sup>\[兴化\]</sup> ② 经过烟熏火烤而沾上的难闻气味<sup>\[泰州\]</sup>：他才在厨房里忙吖，衣裳上有股～的味道。<sup>\[泰州\]</sup>  
 1. 【[烟柜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_kuei_zz.md#烟柜子)】`in1 kuei6 zz` <small>/ĩ1 kʰuei1 t͡sɿ/<sup>如皋</sup></small> ① 见“灶柜子”。<sup>\[如皋\]</sup> ② 灶门上方的集烟处。<sup>\[如皋\]</sup>  
 1. 【[烟末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_muh_zz.md#烟末子)】`in1 muh8 zz` <sup>[东台]</sup> 碎烟叶，用于抽旱烟，过去商店里按斤两出售。  
 1. 【[烟坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_pi.md#烟坯)】`in1 pi1` <sup>[如皋]</sup> 水烟的烟末，是做烟方子的填料，吸前须筛掉。  
+1. 【[烟屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_pi_gu.md#烟屁股)】`in1 pi5 gu` <small>/ĩ1 pʰʝ5 kɤɯ/<sup>泰兴</sup></small> 烟蒂。<sup>\[泰兴\]</sup>  
 1. 【[烟屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shr.md#烟屎)】`in1 shr3` <sup>[如皋]</sup> 吸早烟、水烟剩下的烟灰。  
+1. 【[烟台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_zz.md#烟台子)】`in1 tae zz` <small>/ĩ1 tʰɛ t͡sɿ/<sup>泰兴</sup></small> 吸水烟或旱烟的工具。<sup>\[泰兴\]</sup>  
 1. 【[烟台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r.md#烟台<sub>儿</sub>)】`in1 tae2 r` <sup>[如皋]</sup> 吸水烟的烟具，用铜制，有盅儿、哨子、胆、管儿、脚子等部件。  
 1. 【[烟台<sub>儿</sub>胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_daen.md#烟台<sub>儿</sub>胆)】`in1 tae2 r daen3` <sup>[如皋]</sup> 水烟台儿的主体，下部贮水，上部前端有“哨子”装烟，后端有“嘴子”供口吸。  
 1. 【[烟台<sub>儿</sub>管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_gun.md#烟台<sub>儿</sub>管<sub>儿</sub>)】`in1 tae2 r gun3 r` <sup>[如皋]</sup> “烟台儿胆”的前部短管，供插“烟台儿哨子”用。  
@@ -1761,6 +1770,7 @@
 1. 【[烟台<sub>儿</sub>哨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_sho.md#烟台<sub>儿</sub>哨子)】`in1 tae2 r sho5 zz` <sup>[如皋]</sup> “烟台儿盅儿”下部的长管子，伸入“胆”的水中。  
 1. 【[烟台<sub>儿</sub>盅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_tae_r_zhon.md#烟台<sub>儿</sub>盅<sub>儿</sub>)】`in1 tae2 r zhon1 r` <sup>[如皋]</sup> 烟台上装烟丝的部分，宛似盅儿。  
 1. 【[烟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#烟头)】`in1 teu2` <sup>[东台]</sup> 纸烟吸到最后剩下的部分，亦称“烟屁股”。  
+1. 【[烟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu_zz.md#烟头子)】`in1 teu2 zz` <small>/ĩ1 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> 香烟屁股。香烟吸后的残剩部分。<sup>\[泰兴\]</sup>  
 1. 【[烟筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ton.md#烟筒)】`in1 ton` 烟囱，安在炉灶、锅炉上的排烟装置。<sup>\[泰州\]</sup>  
 1. 【[烟筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ton.md#烟筒)】`in1 ton3` <small>/iɪ̃1 tʰoŋ3/<sup>泰县</sup></small> ① 即烟囱，炉灶、锅炉上出烟的通道。<sup>\[东台\]</sup> ② 烟囱。<sup>\[泰县\]</sup>  
 1. 【[烟雾成天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_v_chen_tin.md#烟雾成天)】`in1 v chen2 tin1` <sup>[如皋]</sup> ① 状烟雾弥漫。 ② 状吵架厉害：骂得～的、打得～。  
@@ -1768,6 +1778,7 @@
 1. 【[烟消火灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xio_hu_mih.md#烟消火灭)】`in1 xio1 hu3 mih8` <sup>[兴化]</sup> （喻）消灭净尽：日伪统治时期那些显赫一时的人家早就～咖。  
 1. 【[烟熏火燎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xyen_hu_lio.md#烟熏火燎)】`in1 xyen1 hu3 lio2` <sup>[东台]</sup> 炉火通红、烟雾腾腾的样子。  
 1. 【[烟庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zhuan.md#烟庄)】`in1 zhuan1` <sup>[如皋]</sup> 地名。在如皋胜利乡。明嘉靖38年倭寇窜扰，将烟庄孙氏一族房舍尽数焚毁，后孙氏重建家园，改烟为燕，故今称燕庄。（见嘉靖《如皋县志》）  
+1. 【[烟嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zuei_zz.md#烟嘴子)】`in1 zuei3 zz` <small>/ĩ1 t͡suəɪ3 t͡sɿ/<sup>泰兴</sup></small> 旱烟袋的口衔部分；也指吸香烟用的短管子。<sup>\[泰兴\]</sup>  
 1. 【[烟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#烟子)】`in1 zz` <sup>[兴化]</sup> 锅底经烟熏产生的黑色微粒。  
 1. 【[胭脂墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zhr_den_r.md#胭脂墩<sub>儿</sub>)】`in1 zhr den1 r` <sup>[兴化]</sup> 在幼儿鼻端和眉间用胭脂点的红点。  
 1. 【[胭脂花粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zhr_hua_fen.md#胭脂花粉)】`in1 zhr hua1 fen3` <sup>[如皋]</sup> 旧时统指女用化妆品。  

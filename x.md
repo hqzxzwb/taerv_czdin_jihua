@@ -1327,6 +1327,7 @@
 1. 【[消停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tien.md#消停)】`xio1 tien2` <small>/ɕiɔ1 tʰiɪ̃2/<sup>兴化</sup></small> ① 安闲、宁静<sup>\[兴化\]</sup>：（因）说明停车一日，故晚间各事自觉格外～了。（《老残游记》二·一）<sup>\[兴化\]</sup> ② 安宁，安稳<sup>\[泰州\]</sup>：自打他来啊，这个单位就不曾有一天～。<sup>\[泰州\]</sup>  
 1. 【[消天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tin.md#消天)】`xio1 tin1` <sup>[如东]</sup> 由阴天转变为晴天：上午就开始～。  
 1. 【[消闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen.md#消闲)】`xio1 xiaen2` <sup>[兴化]</sup> 闲暇：这早晚～，下盘棋打打岔。  
+1. 【[消闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen.md#消闲)】`xio1 xiaen2` <small>/ɕiɔ1 ɕiɛ̃2/<sup>泰兴</sup></small> 消除空闲（时间）；享受空闲时间。<sup>\[泰兴\]</sup>：买点瓜子回来消消闲<sup>\[泰兴\]</sup>  
 1. 【[消闲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen_r.md#消闲<sub>儿</sub>)】`xio1 xiaen2 r` <small>/ɕiɔ1 ɕie˞2/<sup>如皋</sup></small> ① 零食。<sup>\[如皋\]</sup> ② 比喻吃零食。<sup>\[如东\]</sup>：他拿馒头干儿～。<sup>\[如东\]</sup>  
 1. 【[消肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhon.md#消肿)】`xio1 zhon3` <sup>[如东]</sup> ① 肌肤里的肿胀病状消减或消失：毛毛的大腿上已经～。 ② 比喻机构的臃肿状况改善。  
 1. 【[硝镪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qian_shuei.md#硝镪水)】`xio1 qian shuei3` <sup>[泰州]</sup> 强酸。  

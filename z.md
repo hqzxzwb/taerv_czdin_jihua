@@ -631,7 +631,7 @@
 1. 【[掌掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhan_ngaen.md#掌掌眼)】`zhan3 zhan3 ngaen3` <sup>[东台]</sup> 帮助看看，参谋参谋：您帮我～，这套房子怎吖样？  
 1. 【[掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#掌子)】`zhan3 zz` <sup>[兴化]</sup> 钉或缝在鞋底上的皮：鞋～｜打～。  
 1. 【[涨饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bien.md#涨饼)】`zhan3 bien3` <small>/t͡saŋ3 piɪ̃3/<sup>兴化</sup>, /t͡sɑŋ3 piŋ3/<sup>泰县</sup></small> 一种饼的制作方法\[泰州：以馊粥为酵头，与面粉搅拌后发酵成糊，锅中放少许油，将糊舀入锅中，盖好锅盖，加热烤熟。\]\[兴化：用发酵的面糊或米粉糊烙饼。\]\[泰县：用酵做饼。\]  
-1. 【[涨潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_cho.md#涨潮)】`zhan3 cho2` ① 潮水水位升高，称涨潮。<sup>\[如东\]</sup> ② 小孩尿床。<sup>\[如东\]</sup>：毛毛今朝涨吖潮。<sup>\[如东\]</sup> ③ 潮水周期性升高。<sup>\[东台\]</sup>  
+1. 【[涨潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_cho.md#涨潮)】`zhan3 cho2` ① 潮水水位升高<sup>\[如东\]</sup><sup>\[东台\]</sup> ② 小孩尿床。<sup>\[如东\]</sup>：毛毛今朝涨吖潮。<sup>\[如东\]</sup>  
 1. 【[涨酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_go.md#涨酵)】`zhan3 go5` <small>/t͡saŋ3 kɔ5/<sup>兴化</sup></small> ① 让面粉发酵。<sup>\[东台\]</sup> ② 投入水和酵母（老酵）使面发酵。<sup>\[兴化\]</sup>  
 1. 【[涨价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_jia.md#涨价)】`zhan3 jia5` ① 商品价格上升。<sup>\[如东\]</sup>：大米又涨吖价。<sup>\[如东\]</sup> ② 提高物价。<sup>\[东台\]</sup>  
 1. 【[涨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shuei.md#涨水)】`zhan3 shuei3` <small>/t͡sã3 suei3/<sup>如皋</sup></small> ① 除夕上满水缸。<sup>\[如皋\]</sup> ② 涨潮。<sup>\[如东\]</sup> ③ 春节期间喝炒米茶。喝了几口以后，再添一点儿茶，称涨水。寓意富贵不断上涨。<sup>\[如东\]</sup>：请～。<sup>\[如东\]</sup>  

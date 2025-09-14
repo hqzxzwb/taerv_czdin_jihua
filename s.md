@@ -1864,7 +1864,7 @@
 1. 【[烧饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_faen.md#烧饭)】`sho1 faen6` <sup>[如东]</sup> 在灶膛里烧火：不要～吖。  
 1. 【[烧饭锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_faen_gu.md#烧饭锅)】`sho1 faen6 gu1` <small>/sɔ1 fɛ̃6 ko1/<sup>兴化</sup>, /sɔ1 fẽ1 kʊ1/<sup>如皋</sup></small> ① 用草灶煮饭，沸之后停火“哜汤”。过一会儿再烧，直至“圆气”，使饭熟透。<sup>\[如皋\]</sup> ② 草灶煮饭，沸腾后停火，待汤干后再烧片刻，使饭熟透。<sup>\[兴化\]</sup> ③ 旧时柴草烧饭时，一般先将锅中米汤烧沸腾以后挺火，待米涨汤收干之时，继续烧一两个草把，使饭熟透。<sup>\[泰州\]</sup>  
 1. 【[烧角信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gah_xien.md#烧角信)】`sho1 gah7 xien5` <small>/sɔ1 kaʔ7 ɕin5/<sup>兴化</sup>, /sɔ1 kaʔ7 ɕiəŋ5/<sup>如皋</sup></small> ① 旧时寄报死讯的信，信封烧焦一角。<sup>\[如皋\]</sup> ② 急信、报丧的信。旧俗报丧的信在信封上烧去一角，故名。<sup>\[兴化\]</sup>  
-1. 【[烧锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu.md#烧锅)】`sho1 gu1` <small>/sɔ1 kʊ1/<sup>如皋</sup></small> ① 做饭时烧火 ② 旧时用灶，专司烧火。<sup>\[如皋\]</sup> ③ 见“锅下”。<sup>\[如皋\]</sup>  
+1. 【[烧锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu.md#烧锅)】`sho1 gu1` <small>/sɔ1 kʊ1/<sup>如皋</sup></small> ① 做饭时烧火 ② 旧时用灶，专司烧火。参见“锅下”。<sup>\[如皋\]</sup>  
 1. 【[烧锅草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_co.md#烧锅草)】`sho1 gu1 co3` <small>/sɔ1 kʊ1 t͡sʰɔ3/<sup>如皋</sup></small> ① 草灶用的燃料。包括：行草、荒草、熟草、木柴等。<sup>\[如皋\]</sup> ② 用以烧锅的柴草，如茅草、芦苇、玉米秸树枝等。<sup>\[如东\]</sup>  
 1. 【[烧锅的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_dii.md#烧锅的)】`sho1 gu1 dii` <sup>[如东]</sup> ① 在灶膛口烧火的人：他是～。 ② 比喻自己的老婆：我家～出去啊。  
 1. 【[烧锅娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gu_nian_zz.md#烧锅娘子)】`sho1 gu1 nian2 zz` （义未详）  
@@ -1887,7 +1887,7 @@
 1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <sup>[如东]</sup> 商店开业时举行的祭祀活动，称烧利市。表示大吉大利。给鬼神烧香祭祀。给当权人物送礼。  
 1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <small>/sɔ1 lʝ1 sɿ1/<sup>泰兴</sup></small> 旧时商店开张，迷信者烧纸祭神，以求吉利或感谢神的保佑，称为“烧利市”。<sup>\[泰兴\]</sup>  
 1. 【[烧萝卜烫嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lu_poh_tan.md#烧萝卜烫嘴)】`sho1 lu2 poh tan5 zuei3` <small>/sɔ1 lɤɯ2 pʰɔʔ tʰɑŋ5 t͡suəɪ3/<sup>泰兴</sup></small> 喻语言表达速度极快；抢话说。<sup>\[泰兴\]</sup>  
-1. 【[烧卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mae.md#烧卖)】`sho1 mae6` ① 是一种以烫面为皮，裹馅上笼蒸熟的小吃。顶端蓬松束折如花。北方叫烧麦。见“抓抓儿”。<sup>\[东台\]</sup> ② 一种点心，以不发酵的小麦粉制成薄皮，以煮熟的糯米做馅，包成包子形状，顶端收口如花，上笼蒸熟即可。<sup>\[泰州\]</sup>  
+1. 【[烧卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mae.md#烧卖)】`sho1 mae6` <small>/sɔ1 mɛ1/<sup>泰兴</sup></small> ① 是一种以烫面为皮，裹馅上笼蒸熟的小吃。顶端蓬松束折如花。北方叫烧麦。见“抓抓儿”。<sup>\[东台\]</sup> ② 一种点心，以不发酵的小麦粉制成薄皮，以煮熟的糯米做馅，包成包子形状，顶端收口如花，上笼蒸熟即可。<sup>\[泰州\]</sup> ③ 食品名。用不发酵的面粉制成很薄的皮，包馅，顶上捏成皱儿，蒸熟即食。<sup>\[泰兴\]</sup>  
 1. 【[烧冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mien_sheu.md#烧冥寿)】`sho1 mien2 sheu6` <sup>[如东]</sup> 每逢死者的生日举行纪念活动，叫做烧冥寿。  
 1. 【[烧南洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_nun_ian.md#烧南洋)】`sho1 nun2 ian2` <sup>[东台]</sup> 又叫烧土鳔，即烧肉皮，亦称烧杂烩。  
 1. 【[烧抱怨纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_po_iun_zhr.md#烧抱怨纸)】`sho1 po6 iun5 zhr3` <sup>[东台]</sup> 说后悔、抱怨的话：凡事要预计后果，事后～没有用。  
@@ -1911,7 +1911,7 @@
 1. 【[烧心血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xiuh.md#烧心血)】`sho1 xien1 xiuh7` <small>/sɔ1 ɕin1 ɕyuʔ7/<sup>兴化</sup>, /sɔ1 ɕiŋ1 ɕyʊʔ7/<sup>泰县</sup></small> ① （詈语）指过分操心劳神，或极不安稳，有出轨异端举止。<sup>\[东台\]</sup> ② 指垂死者痛苦难忍的情态<sup>\[兴化\]</sup>：要死的人～难过㖸！<sup>\[兴化\]</sup> ③ （禁忌语）临死前的烦躁不安。<sup>\[泰县\]</sup>  
 1. 【[烧玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y_mi.md#烧玉米)】`sho1 y6 mi3` <sup>[如东]</sup> 把种子刚成熟的玉米棒子，剥去外包衣，只保留一层内包衣，放在火上烤熟，鲜嫩香醇，营养丰富。  
 1. 【[烧芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y_teu.md#烧芋头)】`sho1 y6 teu2` <sup>[如东]</sup> 把番薯放在煲灰中焐熟，香甜可口。  
-1. 【[烧周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zheu_nin.md#烧周年)】`sho1 zheu1 nin` <small>/sɔ1 t͡sei1 nĩ/<sup>如皋</sup></small> ① 人死后一、二、三周年祭祀。此后逢整十周年祭祀。一般超过三十周年不再祭祀，据传说不可能这么久不转世投胎。<sup>\[如皋\]</sup> ② 人死后每逢第一、二、三周年，举行祭祀活动。此后，每逢十周年祭祀一次。死者超过一百周岁，不再祭祀。<sup>\[如东\]</sup>  
+1. 【[烧周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zheu_nin.md#烧周年)】`sho1 zheu1 nin` <small>/sɔ1 t͡sei1 nĩ/<sup>如皋</sup>, /sɔ1 t͡ɕiɤɯ1 nĩ/<sup>泰兴</sup></small> ① 人死后一、二、三周年祭祀。此后逢整十周年祭祀。一般超过三十周年不再祭祀，据传说不可能这么久不转世投胎。<sup>\[如皋\]</sup> ② 人死后每逢第一、二、三周年，举行祭祀活动。此后，每逢十周年祭祀一次。死者超过一百周岁，不再祭祀。<sup>\[如东\]</sup> ③ 死者忌日化纸祭祀。<sup>\[泰兴\]</sup>  
 1. 【[烧纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhr.md#烧纸)】`sho1 zhr3` <small>/sɔ1 t͡sɿ3/<sup>泰兴</sup></small> 焚化纸钱以敬鬼神。<sup>\[泰兴\]</sup>  
 1. 【[烧纸叹人心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhr_taen_ren.md#烧纸叹人心)】`sho1 zhr3 taen5 ren2 xien1` <sup>[东台]</sup> ① 借烧纸等祭祀活动舒缓悲哀情绪。 ② ［引］不过是做个形式应付而已：烧纸钱并不是给亡人真钱，只不过～，表表心意。  
 1. 【[烧主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zhv.md#烧主)】`sho1 zhv` <sup>[东台]</sup> 过去穷人死后无钱埋葬，其家人煮上一大锅菜面鱼（疙瘩），挨家挨户乞讨，这种募捐形式被称之为～。因食物中有猪肉，故也作“烧猪”。后来引申为发牢骚的口头禅：产品不对路，～！人家不要。  
@@ -1929,7 +1929,7 @@
 1. 【[绍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#绍)】`sho2` <sup>[兴化]</sup> ① 偷偷藏起：他把东西～起来啊。｜这钱，一日只～得四十五钱……（《警世通言》三七） ② 顺着放置：把篙子～到屋里去。  
 1. 【[绍兴调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_dio_r.md#绍兴调<sub>儿</sub>)】`sho2 xien1 dio5 r` <sup>[如皋]</sup> 越剧唱腔。  
 1. 【[绍兴戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xi.md#绍兴戏)】`sho2 xien1 xi5` <sup>[如皋]</sup> 越剧。  
-1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y3` <small>/sɔ2 y3/<sup>兴化</sup>, /sɔ2 y3/<sup>如皋</sup></small> ① 哑语、肢体语言，表情语言。<sup>\[如皋\]</sup> ② 暗语。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：他在下打～。<sup>\[如东\]</sup>｜“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
+1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y` <small>/sɔ2 y/<sup>兴化</sup>, /sɔ2 y/<sup>如皋</sup></small> 暗语<sup>\[如东\]</sup><sup>\[兴化\]</sup>\[如皋：哑语、肢体语言，表情语言。\]：他在下打～。<sup>\[如东\]</sup>｜“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do` <sup>[如东]</sup> 说话语无伦次：这个人有些～。  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` <small>/sɔ2 tɔ1/<sup>兴化</sup>, /sɔ2 tɔ1/<sup>如皋</sup>, /sɔ2 tɔ1/<sup>泰县</sup></small> ① 杂事、麻烦事。<sup>\[如皋\]</sup> ② 麻烦<sup>\[兴化\]</sup>：他又在下惹～。<sup>\[兴化\]</sup> ③ 啰唆<sup>\[兴化\]</sup>：（陈木南）因怕董老太～，便说道：“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup> ④ 啰唆。<sup>\[泰县\]</sup>  
 1. 【[韶里不叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_beh_do.md#韶里不叨)】`sho2 lii beh7 do1` <sup>[泰县]</sup> 啰唆。  

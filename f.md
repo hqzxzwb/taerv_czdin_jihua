@@ -666,7 +666,7 @@
 1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` <small>/fən3 lɛ̃6/<sup>兴化</sup>, /fəŋ3 lẽ1/<sup>如皋</sup>, /fəŋ3 lɛ̃1/<sup>泰兴</sup>, /fəŋ3 nɛ̃1/<sup>泰县</sup></small> (食物熟透而)松软：芋头烧得～的  
 1. 【[粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_min.md#粉面)】`fen3 min6` <sup>[泰州]</sup> 糯米面粉：姑妈送的～又细又白。  
 1. 【[粉末](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_muh.md#粉末)】`fen3 muh8` <sup>[如东]</sup> 非常细小的颗粒：剩下的都是些～。  
-1. 【[粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen.md#粉嫩)】`fen3 nen6` <small>/fən3 lən6/<sup>兴化</sup></small> ① 像凉粉一样的嫩滑。<sup>\[如东\]</sup> ② 比喻人的皮肤白嫩。<sup>\[如东\]</sup> ③ 形容刚采摘的瓜果或某些菜肴麻脆绵软，新鲜可口<sup>\[兴化\]</sup>：～的花香藕。<sup>\[兴化\]</sup>｜他还有一手好烹调，劖（劗）个肉圆儿，～的……（《广陵潮》六六）<sup>\[兴化\]</sup> ④ 娇嫩<sup>\[兴化\]</sup>：“……这～的骨头如何经得起打……”（《说岳全传》三）<sup>\[兴化\]</sup> ⑤ 像粉一样嫩，肌肤娇嫩<sup>\[泰州\]</sup>：你望这细丫头都蘣吖，小脸儿、小膀子～的。<sup>\[泰州\]</sup> ⑥ 食品绵软可口，入口即化<sup>\[泰州\]</sup>：这个鱼圆儿～，你吃咖才好唻。<sup>\[泰州\]</sup>  
+1. 【[粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen.md#粉嫩)】`fen3 nen6` <small>/fən3 lən6/<sup>兴化</sup>, /fəŋ3 nəŋ1/<sup>泰兴</sup></small> ① 像凉粉一样的嫩滑。<sup>\[如东\]</sup> ② 比喻人的皮肤白嫩。<sup>\[如东\]</sup> ③ 形容刚采摘的瓜果或某些菜肴麻脆绵软，新鲜可口<sup>\[兴化\]</sup>：～的花香藕。<sup>\[兴化\]</sup>｜他还有一手好烹调，劖（劗）个肉圆儿，～的……（《广陵潮》六六）<sup>\[兴化\]</sup> ④ 娇嫩<sup>\[兴化\]</sup>：“……这～的骨头如何经得起打……”（《说岳全传》三）<sup>\[兴化\]</sup> ⑤ 像粉一样嫩，肌肤娇嫩<sup>\[泰州\]</sup>：你望这细丫头都蘣吖，小脸儿、小膀子～的。<sup>\[泰州\]</sup> ⑥ 食品绵软可口，入口即化<sup>\[泰州\]</sup>：这个鱼圆儿～，你吃咖才好唻。<sup>\[泰州\]</sup> ⑦ 白而嫩；非常嫩。<sup>\[泰兴\]</sup>  
 1. 【[粉嫩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen_dii.md#粉嫩的)】`fen3 nen6 dii` <small>/fəŋ3 nəŋ1 tei/<sup>如皋</sup></small> ① 娇嫩<sup>\[如皋\]</sup>：细伢儿的皮子雪白～的。<sup>\[如皋\]</sup> ② 脆嫩<sup>\[如皋\]</sup>：荸荠吃起来～。<sup>\[如皋\]</sup> ③ 形容鲜嫩，水分足。<sup>\[东台\]</sup>  
 1. 【[粉牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_pae.md#粉牌)】`fen3 pae2` <sup>[泰县]</sup> 小学生写字的油漆牌。  
 1. 【[粉扑扑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_poh_poh_dii.md#粉扑扑的)】`fen3 poh7 poh7 dii` <sup>[东台]</sup> 形容脸上搽的粉很多。  
@@ -683,6 +683,7 @@
 1. 【[粉韧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ren.md#粉韧)】`fen3 ren6` <sup>[如东]</sup> 形容淀粉多：这种芋头品种好，～的。  
 1. 【[粉碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_suei.md#粉碎)】`fen3 suei5` <sup>[如东]</sup> 把物体变成碎粒。  
 1. 【[粉丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_sz.md#粉丝)】`fen3 sz1` <sup>[如东]</sup> ① 冬粉。 ② 表示对某人的崇拜。  
+1. 【[粉丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_sz.md#粉丝)】`fen3 sz1` <small>/fəŋ3 sɿ1/<sup>泰兴</sup></small> 豆粉所作的丝状食品，乡人俗称“索粉”。<sup>\[泰兴\]</sup>  
 1. 【[粉糖糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_tan_go.md#粉糖糕)】`fen3 tan2 go1` <sup>[如东]</sup> 糯米粉加白糖蒸制而成的糕点，长方形，糕面点缀红绿丝条。松韧可口。  
 1. 【[粉筒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ton_r.md#粉筒<sub>儿</sub>)】`fen3 ton3 r` <sup>[如皋]</sup> 装扑粉的锡筒儿。  
 1. 【[粉坨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_tu_zz.md#粉坨子)】`fen3 tu2 zz` <sup>[如皋]</sup> 将蚕豆等水磨去渣淋去水后，得到的大块淀粉。  
@@ -962,11 +963,12 @@
 1. 【[浮水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_shuei.md#浮水)】`fv2 shuei3` <small>/fu2 suei3/<sup>如皋</sup></small> 一根木头搁在水面上搭成的桥。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[浮头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_r.md#浮头<sub>儿</sub>)】`fv2 teu2 r` <sup>[兴化]</sup> ① 因水中缺氧而浮上水面的鱼。 ② 表面上的：篓子芦柑，就～几个整齐些。  
 1. 【[浮头肿脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_zhon_lin.md#浮头肿脸)】`fv2 teu2 zhon3 lin3` <small>/fu2 tʰɤ2 t͡soŋ3 liɪ̃3/<sup>兴化</sup></small> ① 形容浮肿的外貌。<sup>\[东台\]</sup> ② 面部浮肿<sup>\[兴化\]</sup>：他病吖几天，睏得～的。胖得～的。<sup>\[兴化\]</sup> ③ 脑袋以及面部浮肿的样子，多由疾病、外伤或者深度睡眠初醒引发<sup>\[泰州\]</sup>：她捱男将打得不轻，到现在还～的。<sup>\[泰州\]</sup>｜他人才睡啊醒吖，～的就来上班。<sup>\[泰州\]</sup>  
+1. 【[浮动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ton.md#浮动)】`fv2 ton` <small>/fʋ2 tʰɔŋ/<sup>泰兴</sup></small> 小孩纠缠，故意找麻烦，轻浮。<sup>\[泰兴\]</sup>  
 1. 【[浮屠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tv.md#浮屠)】`fv2 tv2` <sup>[东台]</sup> 指佛塔。  
 1. 【[浮文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ven.md#浮文)】`fv2 ven2` <small>/fu2 uən2/<sup>兴化</sup></small> ① 指表面文章，形式主义的东西，实际作用不大。<sup>\[东台\]</sup> ② 无实际意义的形式或虚言<sup>\[兴化\]</sup>：有的现场会专搞花架子，闹～。“老爹，你老这话玩的都是～啊……我们要见实际的……”（杨二《混城》）<sup>\[兴化\]</sup> ③ 客套而无实际意义的话或者行为<sup>\[泰州\]</sup>：在路上遇到你家姨妈，谈吖两句～就分吖手。<sup>\[泰州\]</sup> ④ 表面好看而不结实耐用的东西<sup>\[泰州\]</sup>：你这把新椅子也太～唻，用吖不到个月就坏啊唻。<sup>\[泰州\]</sup>  
 1. 【[浮小麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xio_moh.md#浮小麦)】`fv2 xio3 moh8` <sup>[如东]</sup> 禾本科植物小麦的干瘪小麦，入中药。  
 1. 【[浮躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zo.md#浮躁)】`fv2 zo5` <sup>[如东]</sup> 轻浮急躁：性情～。  
-1. 【[浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#浮子)】`fv2 zz` <small>/fu2 t͡sɿ/<sup>如皋</sup></small> ① 一种能够浮在液体表面上的物体。<sup>\[如东\]</sup> ② 芋叶和叶柄<sup>\[如皋\]</sup>：芋头～。<sup>\[如皋\]</sup> ③ 菱茎叶<sup>\[如皋\]</sup>：老菱～。<sup>\[如皋\]</sup>  
+1. 【[浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#浮子)】`fv2 zz` <small>/fu2 t͡sɿ/<sup>如皋</sup>, /fʋ2 t͡sɿ/<sup>泰兴</sup></small> ① 一种能够浮在液体表面上的物体。<sup>\[如东\]</sup> ② 芋叶和叶柄<sup>\[如皋\]</sup>：芋头～。<sup>\[如皋\]</sup> ③ 菱茎叶<sup>\[如皋\]</sup>：老菱～。<sup>\[如皋\]</sup> ④ 鱼漂儿。扣在钓鱼线上的能浮动的小浮标。<sup>\[泰兴\]</sup>  
 1. 【[符](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#符)】`fv2` <sup>[东台]</sup> 旧时道士用以驱鬼召神、治病延年的秘密文书。  
 1. 【[胕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#胕)】`fv2` <sup>[如皋]</sup> 皮下迷漫性水肿。  
 1. 【[胕胕𢪯𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_fv_tae_tae.md#胕胕𢪯𢪯)】`fv2 fv2 tae1 tae1` <sup>[如皋]</sup> 哭得很伤心，眼睑都胕肿了。  

@@ -714,11 +714,13 @@
 1. 【[浪浪头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lan_teu_r.md#浪浪头<sub>儿</sub>)】`lan6 lan6 teu2 r` 地肤草<sup>\[如东\]</sup>  
 1. 【[浪流浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lieu_lan.md#浪流浪)】`lan6 lieu2 lan6` <sup>[如皋]</sup> 言行举止漂浮，不可信任。  
 1. 【[浪吃浪用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_qieh_lan_ion.md#浪吃浪用)】`lan6 qieh7 lan6 ion6` <sup>[泰州]</sup> 没有节制地吃喝、花钱：就这两个工资，哪掌得住他这格局浪吃浪用！  
+1. 【[浪荡鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan_guei.md#浪荡鬼)】`lan6 tan guei3` <small>/lɑŋ1 tʰɑŋ kuəɪ3/<sup>泰兴</sup></small> 游手好闲，不务正业的人。<sup>\[泰兴\]</sup>  
 1. 【[浪荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan.md#浪荡)】`lan6 tan6` <sup>[如东]</sup> 不务正业，到处游荡。  
 1. 【[浪荡公子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tan_gon_zz.md#浪荡公子)】`lan6 tan6 gon1 zz` <sup>[如东]</sup> 游手好闲的人：王二是个～。  
 1. 【[浪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_teu.md#浪头)】`lan6 teu` <sup>[东台]</sup> 涌起的波浪，比喻潮流。  
 1. 【[浪尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_xy.md#浪尿)】`lan6 xy1` <sup>[如东]</sup> ① 令小儿在睡觉前撒尿，叫做浪尿。 ② 令牛上架前拉尿，叫做浪尿。  
 1. 【[浪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zz.md#浪子)】`lan6 zz` <sup>[如东]</sup> 好逸恶劳的人。  
+1. 【[浪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zz.md#浪子)】`lan6 zz` <small>/lɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 不务正业、游荡玩乐的人；二流子。<sup>\[泰兴\]</sup>  
 1. 【[浪子回头金不换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_zz_huei_teu.md#浪子回头金不换)】`lan6 zz huei2 teu2 jien1 beh7 hun6` ① 指改邪归正极为可贵。<sup>\[东台\]</sup> ② 与“败子回头就是家”近义。<sup>\[东台\]</sup>  
 1. 【[𧻴架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_ga.md#𧻴架)】`lan6 ga5` <sup>[如皋]</sup> 见“𧻴窠”。  
 1. 【[𧻴嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_jia.md#𧻴嫁)】`lan6 jia5` <sup>[如皋]</sup> 女儿临嫁前禁饮水，以免礼仪中要小便。  
@@ -1188,9 +1190,11 @@
 1. 【[临死骚三脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sz_so_saen.md#临死骚三脚)】`lien2 sz3 so1 saen1 jiah7` <sup>[东台]</sup> 就是垂死挣扎，死不悔改。  
 1. 【[临帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tih.md#临帖)】`lien2 tih7` <sup>[东台]</sup> 模仿字帖练习写字。  
 1. 【[伶牙俐齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_li_chr.md#伶牙俐齿)】`lien2 nga2 li6 chr3` <sup>[如东]</sup> ① 形容口齿伶俐：这个姑娘～的，真聪明。 ② 形容说话尖刻。  
-1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌凙)】`lien2 dah7` <sup>[如东]</sup> 冬天，屋檐或其他物体上由滴水结成的冰锥。也称冰挂。  
 1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7, lien2 tah7` ［凌凙］冰凌，屋檐下的冰柱。  
+1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7` <sup>[如东]</sup> 冬天，屋檐或其他物体上由滴水结成的冰锥。也称冰挂。  
+1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7` <small>/liŋ2 tɑʔ7/<sup>泰兴</sup></small> 冰梭，冰锥。<sup>\[泰兴\]</sup>  
 1. 【[凌环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_kuaen.md#凌环)】`lien2 kuaen3` <sup>[如皋]</sup> 地名通名。雪岸乡有冒家～。  
+1. 【[凌肉碎剐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_suei_gua.md#凌肉碎剐)】`lien2 roh8 suei5 gua3` <small>/liŋ2 ɻɔʔ8 suəɪ5 kuɑ3/<sup>泰兴</sup></small> 骂人语。谓遭受极刑。<sup>\[泰兴\]</sup>  
 1. 【[凌辱罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_cuei.md#凌辱罪)】`lien2 roh8 cuei6` <sup>[兴化]</sup> 在精神上、肉体上长时间受折磨：细伢儿遇到狠心的晚娘，～难受㖸！｜我要是被他抓过去……先把～把我受够了，然后才能让我死。（《火烧赤壁》九）  
 1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <small>/liɪ̃2 tʰaʔ/<sup>兴化</sup>, /liəŋ2 tʰaʔ/<sup>如皋</sup></small> ① 冰锥儿。多见于雪后晴的檐下。长胡子上也偶见。<sup>\[如皋\]</sup> ② 冰锥<sup>\[兴化\]</sup>：而今天气变暖，屋檐口好多年没得～咖。<sup>\[兴化\]</sup>  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2, lien1` 提  
