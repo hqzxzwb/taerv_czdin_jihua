@@ -13,8 +13,6 @@ def parse_pien_ien(ien):
   if match is None:
     raise Exception(f"Unrecogonized ien: {ien}")
   g = match.groups()
-  if g[1] == 'i' and g[2] in ['un', 'uh']:
-    return [g[0], 'y', g[2], g[3]]
   return g
 
 class keydefaultdict(defaultdict):
@@ -80,7 +78,7 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     shen = shih_jin_hua[shen]
     gae = 'u'
     yen = 'ei'
-  elif cz in '皱邹绉诌骤瘦愁': # 流摄庄三归精组。泰兴城部分人或部分词“愁”读qiou，顾黔亦有记录。从音系整齐度出发，不采纳。
+  elif cz in '皱邹绉诌骤瘦愁': # 流摄庄三归精组。存在部分人或部分词“愁”读qiou，顾黔亦有记录。从音系整齐度出发，不采纳。
     shen = pien_shih[shen]
     yen = 'ou'
   elif cz == '茄' and shen + gae + yen == 'qia': # “茄”撮口
@@ -90,6 +88,9 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   elif cz == '雪' and shen + gae + yen == 'xiuh':
     gae = ''
     yen = 'ih'
+  elif cz == '旋' and shen + gae + yen == 'qiun':
+    gae = ''
+    yen = 'in'
   elif cz in '煠闸' and shen + gae + yen == 'chaeh':
     shen = 'sh'
   elif shen in ['zh', 'ch', 'sh'] and yen == 'eu': # 流摄翘舌转舌面
@@ -136,6 +137,9 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   elif shen == 'l' and yen == 'y': # ly -> lei
     yen = 'ei'
 
+  if gae == 'i' and yen in ['un', 'uh']:
+    gae = 'y'
+
   shen = pien_shih[shen] # 平翘舌不分
   if yen == 'r':
     yen = 'z'
@@ -148,6 +152,9 @@ def 如皋(cz, pien_ien):
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
   if tio == '6': # 阳去并入阴平
     tio = '1'
+
+  if gae == 'i' and yen in ['un', 'uh']:
+    gae = 'y'
 
   shen = pien_shih[shen] # 平翘舌不分
   if yen == 'r':
@@ -229,6 +236,9 @@ def 泰县(cz, pien_ien):
 def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin = False, rin_as_in = False):
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
 
+  if gae == 'i' and yen in ['un', 'uh']:
+    gae = 'y'
+
   if cz == '我' and shen + gae + yen == 'ngu':
     return ['ng', '', '', tio]
 
@@ -291,6 +301,9 @@ def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin 
 
 def 兴化(cz, pien_ien):
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
+
+  if gae == 'i' and yen in ['un', 'uh']:
+    gae = 'y'
 
   shen = pien_shih[shen] # 平翘舌不分
   if shen == '' and yen == 'r': # 独立音节儿缀
