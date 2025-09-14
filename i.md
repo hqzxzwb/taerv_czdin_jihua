@@ -913,7 +913,7 @@
 1. 【[一面倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_do.md#一面倒)】`ieh7 min6 do3` <sup>[如东]</sup> ① 向一边倒。 ② 许多人顺着某一种意见：他俫是～。  
 1. 【[一面隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_kae.md#一面隑)】`ieh7 min6 kae5` <sup>[如东]</sup> ① 靠向一边。 ② 许多人顺着某一种意见跟着跑：他俫是～。  
 1. 【[一面理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_li.md#一面理)】`ieh7 min6 li3` <sup>[如东]</sup> 一个方面的意见，片面的理由：他说的只是～。  
-1. 【[一面之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_zhr_jio.md#一面之交)】`ieh7 min6 zhr1 jio1` <sup>[泰兴]</sup> ① 谓只见过一面，相互了解不深。 ② 我与箇个人只有～，说不上有甚的感情。  
+1. 【[一面之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_min_zhr_jio.md#一面之交)】`ieh7 min6 zhr1 jio1` <small>/iʔ7 mĩ1 t͡sɿ1 t͡ɕiɔ1/<sup>泰兴</sup></small> 谓只见过一面，相互了解不深。<sup>\[泰兴\]</sup>：我与箇个人只有～，说不上有甚的感情。<sup>\[泰兴\]</sup>  
 1. 【[一毛不拔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_mo_beh_paeh.md#一毛不拔)】`ieh7 mo2 beh7 paeh8` <small>/iʔ7 mɔ2 pəʔ7 pʰæʔ8/<sup>泰兴</sup></small> ① 比喻非常自私、吝啬。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup> ② 形容极端吝啬。<sup>\[泰兴\]</sup>  
 1. 【[一目照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_moh_zho.md#一目照)】`ieh7 moh8 zho5` <sup>[东台]</sup> 蓦然一望，没来得及细看。  
 1. 【[一脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_moh.md#一脉)】`ieh7 moh8` <sup>[泰兴]</sup> ① 亲族，出于同源，尤其指同胞兄弟姐妹的亲密关系：从家谱上看，泰兴的张家都是～。 ② 师兄弟 ③ 诗文前后相承的一系  

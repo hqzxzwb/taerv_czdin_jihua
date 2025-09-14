@@ -1367,7 +1367,7 @@
 1. 【[千岁方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xy_fan.md#千岁方)】`qin1 xy5 fan1` <sup>[如东]</sup> 棺材的雅称。  
 1. 【[千张纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan_zhr.md#千张纸)】`qin1 zhan1 zhr3` <small>/t͡ɕʰĩ1 t͡sã1 t͡sɿ3/<sup>如皋</sup>, /t͡ɕʰĩ1 t͡sɑŋ1 t͡sɿ3/<sup>泰兴</sup></small> ① 一千张毛丈纸。人初丧，孝子或领孝者在停灵前头烧化～。出于安全常烧化在浮于水中的铁锅内。<sup>\[如皋\]</sup> ② 人刚死后所化的纸钱。<sup>\[泰兴\]</sup>  
 1. 【[千枝桃花一树生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhr_to_hua.md#千枝桃花一树生)】`qin1 zhr1 to2 hua1 ieh7 shv6 shen1` <sup>[泰兴]</sup> 喻兄弟姐妹及其子女同根同祖。常用以劝慰家庭要和睦，别闹不团结。  
-1. 【[扦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦)】`qin1` <sup>[兴化]</sup> 插：月季花～头。兴化词典做“𢳍”，《集韵·仙韵》亲然切，“～，插也。”同“扦”。  
+1. 【[扦/𢳍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#扦/𢳍)】`qin1` <sup>[兴化]</sup> 插：月季花～头  
 1. 【[扦扦活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_huh.md#扦扦活)】`qin1 qin1 huh8` <sup>[如皋]</sup> 接骨木。忍冬科。  
 1. 【[椠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#椠)】`qin1` <sup>[兴化]</sup> 削皮：～梨子皮。《集韵·盐韵》七廉切，“～，削皮。”  
 1. 【[牵字游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_cz_ieu.md#牵字游)】`qin1 cz6 ieu2` <sup>[兴化]</sup> 汉字偏旁，形状是“辶”。也称“走之”。  
@@ -1455,7 +1455,7 @@
 1. 【[前者](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhae.md#前者)】`qin2 zhae3` <sup>[兴化]</sup> 以前、以前的事：你～欠的账不曾还，今吖又要挂账，小店实在玩不起。  
 1. 【[前掌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhan.md#前掌)】`qin2 zhan3` <sup>[如东]</sup> 脚的前半部分。鞋底的前半部分。  
 1. 【[前朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zho.md#前朝)】`qin2 zho` <sup>[兴化]</sup> 昨天的前一天。  
-1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <small>/t͡ɕʰiɪ̃2/<sup>兴化</sup>, /t͡ɕʰĩ2/<sup>如皋</sup></small> ① 割（穗头）<sup>\[如皋\]</sup>：～高粱穗穗儿。<sup>\[如皋\]</sup> ② 拔<sup>\[兴化\]</sup>：～鸡毛。（《集韵盐韵》徐廉切“～，摘也。”）<sup>\[兴化\]</sup> ③ 拔（毛）<sup>\[泰州\]</sup>：两个人打架，～吖不少头发下来啊。<sup>\[泰州\]</sup>｜～毛/将宰杀的动物用热水煺毛<sup>\[泰州\]</sup>  
+1. 【[挦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#挦)】`qin2` <small>/t͡ɕʰiɪ̃2/<sup>兴化</sup>, /t͡ɕʰĩ2/<sup>如皋</sup></small> ① 割（穗头）<sup>\[如皋\]</sup>：～高粱穗穗儿。<sup>\[如皋\]</sup> ② 拔（毛）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～鸡毛<sup>\[兴化\]</sup>｜两个人打架，～吖不少头发下来啊。<sup>\[泰州\]</sup>｜～毛/将宰杀的动物用热水煺毛<sup>\[泰州\]</sup>  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_mo.md#挦毛)】`qin2 mo2` <small>/t͡ɕʰĩ2 mɔ2/<sup>如皋</sup></small> ① 拔毛：杀猪羊鸡鸭后先下水烫，再～，不好干～。<sup>\[如皋\]</sup> ② 拔去动物身上的毛。对人而言，就是揪头发。<sup>\[东台\]</sup>：若不与我呵，就踢就打就～，一交别番倒，跺上几脚。（《陈州欒米》楔子小衙内白）<sup>\[东台\]</sup>  
 1. 【[掮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#掮)】`qin2` <sup>[如东]</sup> 用手臂夹东西。  
 1. 【[箝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin.md#箝)】`qin2` <sup>[如皋]</sup> 夹：嘴巴儿养吖～吖下。  
