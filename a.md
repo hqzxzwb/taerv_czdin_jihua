@@ -14,7 +14,7 @@
 1. 【[阿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah.md#阿)】`ah7` <sup>[兴化]</sup> 前缀。用在排行、人名的前边：～三；～四；～庆；～根。  
 1. 【[阿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_cen.md#阿曾)】`ah7 cen2` <sup>[泰州]</sup> 泰州方言，有没有，表示询问：东西你～送吖去唻？｜你～买股票啊？｜他～调家来啊？  
 1. 【[阿好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_ho.md#阿好)】`ah7 ho3` <sup>[泰州]</sup> ① 好不好，行不行，表示征询：你晚上带伢儿去看电影，～？ ② 能不能，表示征询：你～带伢儿一起上南京去啊？  
-1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <small>/aʔ7 mɔ2 aʔ7 kɤ3/<sup>兴化</sup></small> ① 泛指某些人（含轻蔑意）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）<sup>\[兴化\]</sup>｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）<sup>\[兴化\]</sup>｜晚上你家儿子请他的些～吃饭，你多弄点儿菜，小伙头子都能吃。<sup>\[泰州\]</sup> ② 比喻随便起的名字<sup>\[泰州\]</sup>：老百姓的伢儿，七个名字哪块有这些讲究，只要意思好，喊起来顺口，～都行。<sup>\[泰州\]</sup>  
+1. 【[阿猫阿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ah_mo_ah_geu.md#阿猫阿狗)】`ah7 mo2 ah7 geu3` <small>/aʔ7 mɔ2 aʔ7 kɤ3/<sup>兴化</sup></small> ① 泛指某些人（含轻蔑意）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“这地方叫上海滩，我们这些～也能当老爷了。”（毕飞宇《上海往事》）<sup>\[兴化\]</sup>｜“这问信的倒也奇怪，～有称呼，怎么一个‘哙’字当称呼？”（《四杰传》三）<sup>\[兴化\]</sup>｜晚上你家儿子请他的些～吃饭，你多弄点儿菜，小伙头子都能吃。<sup>\[泰州\]</sup> ② 比喻随便起的名字<sup>\[泰州\]</sup>：老百姓的伢儿，起个名字哪块有这些讲究，只要意思好，喊起来顺口，～都行。<sup>\[泰州\]</sup>  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an` <sup>[如皋]</sup> 以声调不同表示应答、疑问、提醒等。  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an.md#咉)】`an1` <sup>[泰州]</sup> ① 应答声。 ② 一直说不满的话：单位上年终奖发咖晏吖几天，一个个的就～吖不得命。｜你不要再～唻，你家爸爸答应同你买房子唻。  
 1. 【[咉汪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/an_van.md#咉汪)】`an1 van1` <sup>[如皋]</sup> ① 表叹息：～！吃力死啊！ ② 表转折义：～，你就覅跑吧！通“嗯”。  
