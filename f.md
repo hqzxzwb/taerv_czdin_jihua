@@ -16,7 +16,7 @@
 1. 【[发大火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_da_hu.md#发大火)】`faeh7 da6 hu3` <sup>[如皋]</sup> 盛怒。  
 1. 【[发大水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_da_shuei.md#发大水)】`faeh7 da6 shuei3` <sup>[如东]</sup> 洪水暴发：落咖一场暴雨，发咖大水。  
 1. 【[发呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_dae.md#发呆)】`faeh7 dae1` <sup>[如东]</sup> ① 因害怕、着急或心里有所专注而对外界的事情完全不注意：她站吖那许～。 ② 有些傻：你～呀！  
-1. 【[发抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_deu.md#发抖)】`faeh7 deu3` <sup>[如东]</sup> ① 身体受凉而颤抖：王明衣服穿得少，冻得～。 ② 精神受到强烈刺激而颤抖：她吓得～。  
+1. 【[发抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_deu.md#发抖)】`faeh7 deu3` <sup>[如东]</sup> ① 身体受凉而颤抖：王明衣裳穿得少，冻得～。 ② 精神受到强烈刺激而颤抖：她吓得～。  
 1. 【[发嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_dia.md#发嗲)】`faeh7 dia3` <small>/feʔ7 tia3/<sup>如皋</sup></small> ① 故意装着疼爱的样子。<sup>\[如东\]</sup> ② 撒娇。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：这个马马儿只要领导来啊，就在领导跟前～。<sup>\[泰州\]</sup>  
 1. 【[发发饿狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_faeh_ngu_hen.md#发发饿狠)】`faeh7 faeh7 ngu6 hen3` <sup>[如皋]</sup> 见“杀杀水气”。  
 1. 【[发福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_foh.md#发福)】`faeh7 foh7` <small>/fæʔ7 fɔʔ7/<sup>泰兴</sup></small> 称人发胖的客套话<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：几年不见，你老人家～咖唻。<sup>\[泰州\]</sup>  
