@@ -26,7 +26,7 @@
 1. 【[打不平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_pien.md#打不平)】`da3 beh7 pien2` <sup>[兴化]</sup> 帮助受欺压的人说话或采取某种行动：武松在家行侠仗义，惯～。（《武松》一）  
 1. 【[打不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_qi.md#打不起)】`da3 beh7 qi3` <sup>[如皋]</sup> 秤的称量不够。  
 1. 【[打比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bi_zz.md#打比子)】`da3 bi3 zz` <sup>[如皋]</sup> 相对比。  
-1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piɪ̃3/<sup>兴化</sup>, /ta3 piəŋ3/<sup>如皋</sup>, /tɑ3 piŋ3/<sup>泰兴</sup>, /ta3 piŋ3/<sup>泰县</sup></small> ① 聚集成一团：头发～了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
+1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piɪ̃3/<sup>兴化</sup>, /ta3 piəŋ3/<sup>如皋</sup>, /tɑ3 piŋ3/<sup>泰兴</sup>, /ta3 piŋ3/<sup>泰县</sup></small> ① 聚集成一团：头发打啊饼了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
 1. 【[打憋气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bih_qi_pan.md#打憋气棒)】`da3 bih7 qi5 pan6` <small>/ta3 piʔ7 t͡ɕʰʝ5 pʰã1/<sup>如皋</sup></small> ① 因为自己心里有委曲，故意拿棍棒打小孩，借以出气。<sup>\[如东\]</sup> ② 故意责打小孩，使相关的人黄孔（脸面难下）。<sup>\[如皋\]</sup>  
 1. 【[打边心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bin_xien.md#打边心)】`da3 bin1 xien1` <sup>[如东]</sup> 棉花生长到一定阶段，把无果或少果的边心摘除，以促进棉桃的生长，叫做打边心。  
 1. 【[打包布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bo_bv.md#打包布)】`da3 bo1 bv5` <sup>[兴化]</sup> 用作某些商品外包装的粗布。也称“包皮”。  
