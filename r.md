@@ -461,6 +461,7 @@
 1. 【[扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#扰)】`ro3` <small>/ɻɔ3/<sup>如皋</sup></small> ① 叨扰。我～啊他两块肉；我不作兴～你！<sup>\[如皋\]</sup> ② 白占便宜：值二角钱的货，卖啊你一块钱，～啊你啦！<sup>\[如皋\]</sup> ③ 用手来回推动物体，使其摇摆。<sup>\[如东\]</sup>：先～竹竿，再拨起来。<sup>\[如东\]</sup> ④ 叨扰，接受他人饮食招待<sup>\[泰州\]</sup>：春上我上南京开会顺便去望他，～过他一顿饭。<sup>\[泰州\]</sup>  
 1. 【[扰啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_a.md#扰啊)】`ro3 a` <sup>[东台]</sup> 扰，指打扰：～通常指吃了人家的｜前朝～你一顿。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro3 vaen1-3 zz` <sup>[东台]</sup> ［喻］说话不直截了当。  
+1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro5 ro5 zhan5` <sup>[东台]</sup> 办事极不认真，走过场，敷衍了事。（注意这里“绕”阴去声）  
 1. 【[绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_zhan.md#绕账)】`ro5 zhan5` <small>/ɻɔ5 t͡sã5/<sup>如皋</sup></small> ① 敷衍应付<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他同你玩～，不是真心。<sup>\[如皋\]</sup>｜你同他又没得多大交情，你～买两个花瓶送把他就是唻。<sup>\[泰州\]</sup>｜晚上要吃酒，中上就～下点儿面吃咖子吧。<sup>\[泰州\]</sup> ② 质量差<sup>\[如皋\]</sup>：这种货～，不能买。<sup>\[如皋\]</sup>  
 1. 【[绕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#绕)】`ro6` <sup>[泰州]</sup> 被纠缠，无法摆脱窘境：弄到临了把自己～进去啊唻。  
 1. 【[绕住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_chuh_ga.md#绕住咖)】`ro6 chuh8 ga` <sup>[如皋]</sup> 被一种“理由”套住，一时难辨。  
@@ -475,7 +476,6 @@
 1. 【[绕人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#绕人)】`ro6 ren2` <small>/lɔ6 lən2/<sup>兴化</sup>, /ɻɔ1 ɻəŋ2/<sup>如皋</sup></small> ① 用诡辩术把对方套住。<sup>\[如皋\]</sup> ② 蒙骗人。<sup>\[兴化\]</sup> ③ 问题复杂难解<sup>\[兴化\]</sup>：这个问题～哩，好不容易才钻出来。<sup>\[兴化\]</sup> ④ 在说笑中占人便宜。<sup>\[兴化\]</sup>  
 1. 【[绕日锃亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_rih_zen_lian.md#绕日锃亮)】`ro6 rih8 zen5 lian6` <small>/ɻɔ1 iʔ8 t͡səŋ5 liɑŋ1/<sup>泰兴</sup></small> 非常明亮的样子。<sup>\[泰兴\]</sup>  
 1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6 ro6 zhan5` <sup>[东台]</sup> 账务涉及的几个方面互为债权债务关系，见“㩭㩭账”。  
-1. 【[绕绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ro_zhan.md#绕绕账)】`ro6-5 ro6-5 zhan5` <sup>[东台]</sup> 办事极不认真，走过场，敷衍了事。（注意这里“绕”阴去声；）  
 1. 【[绕手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_sheu.md#绕手)】`ro6 sheu3` 缠在手上，指事情不太好办<sup>\[泰州\]</sup>：这桩事有点儿～，他要着实懂点儿脑筋。<sup>\[泰州\]</sup>  
 1. 【[绕骚胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_so_hv_zz.md#绕骚胡子)】`ro6 so hv2 zz` <sup>[兴化]</sup> 连着鬓角的胡须。也称“兜腮胡子”。  
 1. 【[绕弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_vaen_zz.md#绕弯子)】`ro6 vaen1 zz` <sup>[如东]</sup> 走弯路：不要～。  
