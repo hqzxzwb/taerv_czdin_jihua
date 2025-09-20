@@ -46,9 +46,11 @@
 1. 【[家里凶，外头𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_xion_vae.md#家里凶，外头𪨊)】`ga1 lii xion1 vae6 teu son2` <sup>[如皋]</sup> 在家里凶强、独大，在外边畏缩，无用。  
 1. 【[家门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_men_keu.md#家门口)】`ga1 men2 keu3` <sup>[兴化]</sup> ① 住所的附近：“这不都是～的人吗？快全叫回去……”（《淮河边上的儿女》一三）》 ② 此概念可扩大到邻庄、邻县、邻省市：在～捱人家欺负，真想不通。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qi.md#家去)】`ga1 qi` 回家去。  
-1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <small>/ka1 t͡ɕʰy/<sup>兴化</sup>, /ka1 t͡ɕʰy/<sup>如皋</sup></small> 从外边回家。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……我因为前日病了几天，～了……”（《红楼梦》三七）‖家——动趋兼表。<sup>\[兴化\]</sup>｜他十点钟就～啊唻。<sup>\[泰州\]</sup>  
+1. 【[家前屋后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qin_oh_heu.md#家前屋后)】`ga1 qin2 oh7 heu6` <small>/kɑ1 t͡ɕʰĩ2 ɔʔ7 xəɪ1/<sup>泰兴</sup></small> 房屋的前后。<sup>\[泰兴\]</sup>  
+1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <small>/ka1 t͡ɕʰy/<sup>兴化</sup>, /ka1 t͡ɕʰy/<sup>如皋</sup>, /kɑ1 t͡ɕʰy/<sup>泰兴</sup></small> 从外边回家。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“……我因为前日病了几天，～了……”（《红楼梦》三七）‖家——动趋兼表。<sup>\[兴化\]</sup>｜他十点钟就～啊唻。<sup>\[泰州\]</sup>  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy5` ① 回家去。<sup>\[如东\]</sup>：我俫下午～。<sup>\[如东\]</sup> ② 回家去；回去。<sup>\[东台\]</sup>  
 1. 【[家去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy_a.md#家去啊)】`ga1 qy5 a` <sup>[如东]</sup> ① 回家去了：明明已经～。 ② 比喻小孩死了：伢儿刚养下来就～。  
+1. 【[家<sub>儿</sub>老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_r_lo_xio.md#家<sub>儿</sub>老小)】`ga1 r lo3 xio3` <small>/kɑ˞1 lɔ3 ɕiɔ3/<sup>泰兴</sup></small> 谓父母妻子儿女，全家人。<sup>\[泰兴\]</sup>  
 1. 【[家蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_sha.md#家蛇)】`ga1 sha2` <small>/ka1 sa2/<sup>如皋</sup></small> ① 指赤链蛇、青蛇、锦蛇等常在树洞、野地、家中出现的无毒蛇，善捕鼠。<sup>\[如皋\]</sup> ② 常见的蛇。<sup>\[如皋\]</sup> ③ 黑眉锦蛇，眼后有两条明显的黑色斑纹延伸至颈部，状如黑眉，或因追逐老鼠而出现在民房内、屋檐及屋顶上，以其现身与家，相对野外生活的蛇而名。坊间认为家蛇不可伤害，否则对家长不利。<sup>\[泰州\]</sup>  
 1. 【[家神柜上摆摊——卖把家里人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_shen_kuei_shan.md#家神柜上摆摊——卖把家里人)】`ga1 shen2 kuei6 shan6 bae3 taen1 mae6 ba ga1 lii ren2` <sup>[东台]</sup>   
 1. 【[家头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_teu.md#家头)】`ga1 teu2` <sup>[东台]</sup> 屋后头：三哥在～钓鱼呢。  

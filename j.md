@@ -229,7 +229,7 @@
 1. 【[家长里短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chan_li_dun.md#家长里短)】`jia1 chan2 li3 dun3` <small>/t͡ɕia1 t͡sʰaŋ2 ləi3 tũ3/<sup>兴化</sup></small> ① 指家庭日常琐事和邻里间的故事<sup>\[兴化\]</sup>：她每次回娘家，总要跟妈妈～的谈上半夜。<sup>\[兴化\]</sup> ② 家庭街坊间的日常琐事<sup>\[泰州\]</sup>：老姊妹两个在做块儿～的越说越高兴。<sup>\[泰州\]</sup>  
 1. 【[家丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_cheu.md#家丑)】`jia1 cheu3` <sup>[如东]</sup> 家庭内部的不体面的事情：～不可外扬。  
 1. 【[家传](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chun.md#家传)】`jia1 chun2` <sup>[兴化]</sup> 上代留传下来的财产或技艺：这幅郑板桥字画是～的。｜他家～会写真……（汪曾祺《岁寒三友》）  
-1. 【[家族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_coh.md#家族)】`jia1 coh8` <sup>[如东]</sup> 以血统关系为基础而形成的一种社会组织，包括同一血统的几代人。  
+1. 【[家族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_coh.md#家族)】`jia1 coh8` <small>/t͡ɕiɑ1 t͡sʰɔʔ8/<sup>泰兴</sup></small> 以血统关系为基础而形成的一种社会组织，包括同一血统的几代人。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[家当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_dan.md#家当)】`jia1 dan1` <sup>[如东]</sup> 家产：有多少～？  
 1. 【[家底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_di.md#家底)】`jia1 di3` <sup>[如东]</sup> 家里长期积累起来的财产：～厚。  
 1. 【[家法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_faeh.md#家法)】`jia1 faeh7` <sup>[如东]</sup> ① 封建时代家长统治本族和本家人的一套法规。 ② 封建时代家长责打家人的用具：你要吃～。  
@@ -237,6 +237,7 @@
 1. 【[家伙脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu_lin_r.md#家伙脸<sub>儿</sub>)】`jia1 hu3 lin3 r` 面具  
 1. 【[家寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hun.md#家寒)】`jia1 hun2` <small>/t͡ɕia1 xũ2/<sup>兴化</sup></small> ① 家境贫穷<sup>\[兴化\]</sup>：他从小～上不起学。<sup>\[兴化\]</sup>｜“既是大爷可怜见，孩儿也是造化的。但只是～，没备办的。”（《金瓶梅词话》三七）<sup>\[兴化\]</sup> ② 家境贫穷<sup>\[泰州\]</sup>：他小时候～，上到小学毕业就不上唻。<sup>\[泰州\]</sup>  
 1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <sup>[如东]</sup> 家庭财产。  
+1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <small>/t͡ɕiɑ1 iʔ8/<sup>泰兴</sup></small> 家产；家庭生计。<sup>\[泰兴\]</sup>  
 1. 【[家燕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_in.md#家燕)】`jia1 in5` <sup>[如东]</sup> 燕科动物燕子的通称。翅膀尖而长，尾巴分开像剪刀。捕食昆虫，对农业有益。  
 1. 【[家计货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#家计货)】`jia1 ji hu5` <sup>[东台]</sup> 结实耐用的家用器具。  
 1. 【[家机布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_bv.md#家机布)】`jia1 ji1 bv5` <sup>[泰州]</sup> 以手工所纺棉线为材料，用木制织布机手工织的布。  
@@ -245,6 +246,7 @@
 1. 【[家眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jiun.md#家眷)】`jia1 jiun5` <sup>[如东]</sup> ① 妻子。 ② 父母、妻子、儿女。  
 1. 【[家具](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jy.md#家具)】`jia1 jy5` <sup>[如东]</sup> 家庭用具，主要指木器。  
 1. 【[家口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_keu_chon.md#家口重)】`jia1 keu3 chon6` <sup>[如皋]</sup> 家中人多，靠他生活，负担重。  
+1. 【[家宽出少年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_kun_chueh_sho.md#家宽出少年)】`jia1 kun1 chueh7 sho5 nin` <small>/t͡ɕiɑ1 kʰʊ̃1 t͡sʰuəʔ7 sɔ5 nĩ/<sup>泰兴</sup></small> 谓家庭宽裕，人心情舒畅，就显得年轻。<sup>\[泰兴\]</sup>  
 1. 【[家录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_loh.md#家录)】`jia1 loh8` <sup>[如东]</sup> ① 家法。 ② 受责罚：要吃～。  
 1. 【[家艾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ngae.md#家艾)】`jia1 ngae6` <sup>[如东]</sup> 艾的一种，叶片较大，有香气。  
 1. 【[家破人亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pu_ren_van.md#家破人亡)】`jia1 pu5 ren2 van2` <sup>[如东]</sup> 家庭破产，人员死亡，形容非常悲惨。  
@@ -255,9 +257,10 @@
 1. 【[家属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shoh.md#家属)】`jia1 shoh8` <sup>[如东]</sup> ① 家主本人以外的成员。 ② 职工本人以外的家庭成员。  
 1. 【[家数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家数)】`jia1 shv` <small>/t͡ɕia1 su/<sup>兴化</sup>, /t͡ɕia1 su/<sup>如皋</sup></small> ① 贬指态度<sup>\[如皋\]</sup>：他的～坏，动不动就玩～。<sup>\[如皋\]</sup> ② 路数<sup>\[兴化\]</sup>：……蒋忠出手也是抖抖的，战战的，这是一种什么～呢？（《武松》五）<sup>\[兴化\]</sup> ③ 程度<sup>\[兴化\]</sup>：他不病到这个～也不上医院。<sup>\[兴化\]</sup> ④ 学术或者艺术流派风格、特色。<sup>\[泰州\]</sup> ⑤ 某种技法源泉所出<sup>\[泰州\]</sup>：他的手艺一望就晓得是李爹的～。<sup>\[泰州\]</sup>  
 1. 【[家书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家书)】`jia1 shv1` <sup>[如东]</sup> 家庭成员之间互相来往的信件。也称家信。  
-1. 【[家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#家私)】`jia1 sz1` <small>/t͡ɕia1 sɿ/<sup>兴化</sup>, /t͡ɕiɑ1 sɿ/<sup>泰兴</sup>, /t͡ɕia1 sɿ1/<sup>泰县</sup></small> ① 家庭财产。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[东台：狭义指家具，广义指家产。\]：这是他苦起来的～。<sup>\[如东\]</sup>｜这个人家～不少。<sup>\[泰县\]</sup>｜他家的绝后代的～，你切切不能得。<sup>\[泰州\]</sup>｜他家～大<sup>\[泰兴\]</sup> ② 家庭私密。<sup>\[东台\]</sup>  
+1. 【[家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#家私)】`jia1 sz1` <small>/t͡ɕia1 sɿ/<sup>兴化</sup>, /t͡ɕiɑ1 sɿ/<sup>泰兴</sup>, /t͡ɕia1 sɿ1/<sup>泰县</sup></small> ① 家庭财产。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[泰兴：常指家具\]\[东台：狭义指家具，广义指家产。\]：这是他苦起来的～。<sup>\[如东\]</sup>｜这个人家～不少。<sup>\[泰县\]</sup>｜他家的绝后代的～，你切切不能得。<sup>\[泰州\]</sup>｜他家～大<sup>\[泰兴\]</sup> ② 家庭私密。<sup>\[东台\]</sup>  
 1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan` <sup>[如皋]</sup> 见“库”。  
 1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan2` <sup>[如皋]</sup> ① 家中供奉神祇、祖先的房屋。 ② 烧化给死者的纸扎的房屋、家具、衣物等。  
+1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan2` <small>/t͡ɕiɑ1 tʰɑŋ2/<sup>泰兴</sup></small> 祖先的神位。<sup>\[泰兴\]</sup>  
 1. 【[家庭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tien.md#家庭)】`jia1 tien2` <sup>[如东]</sup> 以婚姻和血统关系为基础的社会单位，包括父母、子女和其他共同生活的亲属在内。  
 1. 【[家庭妇女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tien_fv_ny.md#家庭妇女)】`jia1 tien2 fv6 ny3` <sup>[如东]</sup> 从事家务而不参加社会工作的妇女。  
 1. 【[家无常礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_v_chan_li.md#家无常礼)】`jia1 v2 chan2 li3` <sup>[兴化]</sup> 谓居家生活无须讲究繁琐的礼数：～的穿这吖讲究做甚的？｜～的不必客气。  
@@ -266,6 +269,7 @@
 1. 【[家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_xio.md#家小)】`jia1 xio3` <sup>[如东]</sup> 妻子和儿女。有时专指妻子。  
 1. 【[家长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhan.md#家长)】`jia1 zhan3` <sup>[如东]</sup> ① 家中为首的人。 ② 指父母或其他监护人。  
 1. 【[家主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhv.md#家主)】`jia1 zhv3` <sup>[兴化]</sup> 一家中的主事人：一家有一主，一庙有一神，你是～，大事当然由你出面。  
+1. 【[家主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhv.md#家主)】`jia1 zhv3` <small>/t͡ɕiɑ1 t͡su3/<sup>泰兴</sup></small> 家庭的主人。<sup>\[泰兴\]</sup>：乡谚：“一庙有一神，一家有一主。”<sup>\[泰兴\]</sup>  
 1. 【[苴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#苴)】`jia1` <sup>[东台]</sup> 本指大麻的雌株或枯草，现在专作地名：新街郝～｜许河三～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#□)】`jia3` <sup>[兴化]</sup> 歪斜：把身子～过来。兴化词典写“假”。  
 1. 【[□啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_a_ha.md#□啊下)】`jia3 a ha` <sup>[泰县]</sup> 斜着。  

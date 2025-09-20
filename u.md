@@ -269,6 +269,7 @@
 1. 【[暗账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#暗账)】`un5 zhan5` <sup>[如东]</sup> 秘密的账目。  
 1. 【[案板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_baen.md#案板)】`un5 baen3` <sup>[东台]</sup> 肉店、裁缝店、厨房的工作台面。  
 1. 【[案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zz.md#案子)】`un5 zz` <sup>[如东]</sup> 案件：这个～大。用树段、条桌或木板做成的斫肉墩子，叫做案子。也叫肉案子。  
+1. 【[案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zz.md#案子)】`un5 zz` <small>/ʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 长而大的桌子<sup>\[泰兴\]</sup>：肉～<sup>\[泰兴\]</sup> ② 案件。<sup>\[泰兴\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#涴)】`un5` <sup>[东台]</sup> 污染；弄脏；液体渗到物体上形成斑痕：韩愈诗“勿使泥尘～。”｜防止墨水～到纸上｜浅色的衣服不耐～。  
 1. 【[涴算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun.md#涴算)】`un5 sun` <sup>[东台]</sup> ① 环境脏乱差，令人烦燥，不爽。 ② ［引］社会环境不宽松，人际关系复杂。  
 1. 【[涴酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun.md#涴酸)】`un5 sun` <sup>[兴化]</sup> ① 不洁：这个地方太～。 ② 不适感：几天不洗澡，身上～。 ③ 麻烦：有话说话，覅～。｜这桩事弄不好有点～！  
