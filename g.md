@@ -54,8 +54,7 @@
 1. 【[家头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_teu.md#家头)】`ga1 teu2` <sup>[东台]</sup> 屋后头：三哥在～钓鱼呢。  
 1. 【[家无常礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_v_chan_li.md#家无常礼)】`ga1 v2 chan2 li3` <sup>[泰州]</sup> 家人之间不必拘礼：你俫伢儿不要装真，欢喜吃甚的就随意吃，～，不要因为我老头子在桌上就不敢伸筷子。  
 1. 【[家无主，扫帚舞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_v_zhv_so.md#家无主，扫帚舞)】`ga1 v2 zhv3 so5 zheu3 v3` <sup>[东台]</sup> 一家一单位，没有当家做主的人就会乱套。  
-1. 【[家作懒，外作勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zah_laen_vae.md#家作懒，外作勤)】`ga1 zah7 laen3 vae6 zah7 qien2` <sup>[如皋]</sup> 在家里懒惰、怕做事情，在外边（人家）勤快、抢着做事。  
-1. 【[家作懒外作勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zah_laen_vae.md#家作懒外作勤)】`ga1 zah7 laen3 vae6 zah7 qien2` <sup>[东台]</sup> 在家里偷懒，在外面勤快。  
+1. 【[家作懒，外作勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zah_laen_vae.md#家作懒，外作勤)】`ga1 zah7 laen3 vae6 zah7 qien2` <small>/ka1 t͡saʔ7 lẽ3 ʋɛ1 t͡saʔ7 t͡ɕʰiəŋ2/<sup>如皋</sup>, /kɑ1 t͡sɑʔ7 lɛ̃3 ʋɛ1 t͡sɑʔ7 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 在家里懒惰、怕做事情，在外边（人家）勤快、抢着做事。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[家作勤，外作懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zah_qien_vae.md#家作勤，外作懒)】`ga1 zah7 qien2 vae6 zah7 laen3` <sup>[如皋]</sup> 在家里勤快，在外面懒惰。  
 1. 【[尕尕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_ga.md#尕尕)】`ga1 ga2` <sup>[东台]</sup> 很小或很少（此字受盐城话影响）：放这～盐，不咸。  
 1. 【[袈褂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua.md#袈褂)】`ga1 gua5` <sup>[如东]</sup> 套在内衣外面的一件衣服。也叫罩衫。  
