@@ -996,6 +996,7 @@
 1. 【[禁口痢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_keu_li.md#禁口痢)】`jien5 keu3 li6` <sup>[如皋]</sup> 菌痢的一种，只泻，不思进食，病情危重。  
 1. 【[禁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qi.md#禁气)】`jien5 qi` <sup>[泰州]</sup> 人因权威自然外露的气势而使人心中有所忌讳：李老师没得点儿～，这些伢儿都不怕他。｜当家人没得点儿～不行，不然家里还不闹啊翻吖天。  
 1. 【[禁气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qi.md#禁气)】`jien5 qi5` <small>/t͡ɕiŋ5 t͡sʰɿ5/<sup>泰县</sup></small> ① 威严。<sup>\[如东\]</sup>：领导干部要有～。<sup>\[如东\]</sup> ② 威信威严：他俫单位的领导有点儿～。<sup>\[泰县\]</sup>  
+1. 【[竟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#竟)】`jien5` <small>/t͡ɕiŋ5/<sup>泰兴</sup></small> 表示出人意料或不易得来的最终结果<sup>\[泰兴\]</sup>：他复读苦学咖一年，～考上吖清华大学<sup>\[泰兴\]</sup>｜他佼横说竖说，～把箇个人的钱骗吖走啊<sup>\[泰兴\]</sup>  
 1. 【[进宅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cheh.md#进宅)】`jien5 cheh8` <small>/t͡ɕin5 t͡sʰəʔ8/<sup>兴化</sup>, /t͡ɕiəŋ5 t͡sʰəʔ8/<sup>如皋</sup></small> ① 搬进新居。俗以马桶进房的时间为～。避讳“进贼”，有时会说“jien5 zheh7”。参见“上园”。<sup>\[如皋\]</sup> ② 搬进新居<sup>\[兴化\]</sup>：新屋落成，等你～，我俫去祝贺。<sup>\[兴化\]</sup>  
 1. 【[进出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chueh_qi.md#进出气)】`jien5 chueh7 qi5` <sup>[如皋]</sup> 呼吸气。又说“伸缩气”。  
 1. 【[进港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gan.md#进港)】`jien5 gan3` <sup>[如东]</sup> 船只由外海或外地驶进港湾，叫做进港。  
