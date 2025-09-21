@@ -1522,6 +1522,7 @@
 1. 【[收场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chan.md#收场)】`sheu1 chan2` <sup>[如东]</sup> 结束：甚的时侯～？  
 1. 【[收成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chen.md#收成)】`sheu1 chen2` <sup>[如东]</sup> ① 年景：今年～不错。 ② 庄稼收获的成绩：秋熟～好。  
 1. 【[收潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_cho.md#收潮)】`sheu1 cho2` <sup>[兴化]</sup> 空气湿度小，水份蒸发快：晴热天洗衣裳～，阴冷天不～。  
+1. 【[收住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chv.md#收住)】`sheu1 chv6` <small>/ɕiɤɯ1 t͡sʰu1/<sup>泰兴</sup></small> 指把孩子养大成人（而不夭折）<sup>\[泰兴\]</sup>：他顶上有几个哥哥姐姐总不曾收得住/他前面有几个哥哥姐姐都夭折了<sup>\[泰兴\]</sup>｜他拾的个伢儿，就他个人照应，竟也收住啊<sup>\[泰兴\]</sup>  
 1. 【[收底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di.md#收底)】`sheu1 di3` <sup>[如东]</sup> 收尾，结束：王二～。  
 1. 【[收底会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_di_huei.md#收底会)】`sheu1 di3 huei6` <sup>[如皋]</sup> ① “请会”中最后“得会”。 ② 处理遗留问题。 ③ 收拾残局。  
 1. 【[收刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_do.md#收刀)】`sheu1 do1` <sup>[东台]</sup> 卖肉的每天最后一刀肉。  
@@ -3088,6 +3089,7 @@
 1. 【[送死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz.md#送死)】`son5 sz3` <small>/soŋ5 sɿ3/<sup>兴化</sup></small> ① （詈语）指衣服<sup>\[东台\]</sup><sup>\[兴化\]</sup>：你身上的～都望不见布眼吖！<sup>\[东台\]</sup>｜这几件～穿上身不曾洗过。<sup>\[兴化\]</sup> ② 自寻死路。<sup>\[泰州\]</sup>  
 1. 【[送死信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_sz_xien.md#送死信)】`son5 sz3 xien5` <small>/sɔŋ5 sɿ3 ɕiəŋ5/<sup>如皋</sup></small> ① 报死讯的信。<sup>\[如皋\]</sup> ② 由孝子登门告知死讯，下半跪礼；或将烧角书信送（寄）达。凡至亲不漏，而且要极快。<sup>\[如皋\]</sup>  
 1. 【[送汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tan.md#送汤)】`son5 tan1` 妇女生养坐月子期间，亲戚送去老母鸡之类的可烧汤进补的食物。<sup>\[泰州\]</sup>  
+1. 【[送掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_tio.md#送掉)】`son5 tio` <small>/sɔŋ5 tʰiɔ/<sup>泰兴</sup></small> 遗弃、出卖或送养婴幼儿的隐语<sup>\[泰兴\]</sup>：再不少债就把你～/再不乖就把你卖掉<sup>\[泰兴\]</sup>  
 1. 【[送铜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_ton.md#送铜)】`son5 ton2` <sup>[兴化]</sup> 乱花钱：覅拿公家的钱～。｜你拿我的钱～心不疼。  
 1. 【[送夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xia.md#送夏)】`son5 xia6` <small>/sɔŋ5 ɕiɑ1/<sup>泰兴</sup></small> 指端午前夕，娘家为新婚女儿女婿送夏令用品，如夏衣、阳伞、凉帽、扇子、凉席及粉子等等。俗名“送端午礼”。<sup>\[泰兴\]</sup>  
 1. 【[送信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/son_xien.md#送信)】`son5 xien5` <small>/sɔŋ5 ɕiŋ5/<sup>泰兴</sup></small> ① 递送书信。透露消息。送死信。父母死后，长子披麻戴孝给亲戚报告消息。一把雨伞，伞柄朝前，伞头朝后。父亲死了，雨伞夹在左手腋下；母亲死了，雨伞夹在右手腋下。看见亲戚，左膝下跪行礼，然后站起来报告死亡情况，并邀请奔丧。<sup>\[如东\]</sup> ② 传达信息。乡人特指送死信，而正常送信件者称为“跑信”，如称邮递员为“跑信的”。<sup>\[泰兴\]</sup>  

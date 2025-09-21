@@ -1485,7 +1485,7 @@
 1. 【[㧻㧻齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_zhuah_qi.md#㧻㧻齐)】`zhuah7 zhuah7 qi2` <sup>[如皋]</sup> 整理时带有拍打动作，使之变得整齐：你把橱里的书～。  
 1. 【[卓肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin.md#卓肩)】`zhuah7 jin1` 耸着肩膀<sup>\[泰州\]</sup>：这姑娘长得不丑，就是有点儿～。<sup>\[泰州\]</sup>  
 1. 【[卓肩膀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jin_ban.md#卓肩膀)】`zhuah7 jin1 ban3` <sup>[兴化]</sup> 因瘦削而两肩高耸：来人是个高个子，～，缩颈项。  
-1. 【[捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉)】`zhuah7` <small>/t͡suaʔ7/<sup>如皋</sup></small> ① 买（活物）<sup>\[如皋\]</sup>：问你～两只鸡子。<sup>\[如皋\]</sup> ② 拾取。<sup>\[如东\]</sup>：～棉花。<sup>\[如东\]</sup> ③ 擒拿。<sup>\[如东\]</sup>：～贼。<sup>\[如东\]</sup>  
+1. 【[捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah.md#捉)】`zhuah7` <small>/t͡suaʔ7/<sup>兴化</sup>, /t͡suaʔ7/<sup>如皋</sup>, /t͡suɑʔ7/<sup>泰兴</sup>, /t͡ɕyɑʔ7/<sup>泰县</sup></small> ① 逮：～贼｜～鸡子 ② 买（活物）<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：问你～两只鸡子。<sup>\[如皋\]</sup> ③ 拾取。<sup>\[如东\]</sup>：～棉花。<sup>\[如东\]</sup>  
 1. 【[捉不住镖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_beh_chv_bio.md#捉不住镖)】`zhuah7 beh7 chv6 bio1` <sup>[泰州]</sup> 控制不住自己言行：这小伙做事有点儿～。  
 1. 【[捉不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_beh_qi.md#捉不齐)】`zhuah7 beh7 qi2` <sup>[泰州]</sup> ① 不能整理整齐：你说你能做甚的事，这几本书你都～。 ② 比喻人的言行反复无常：你不要信他的话，这小伙有点儿～。  
 1. 【[捉贼捉赃，捉奸捉双](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ceh_zhuah_zan.md#捉贼捉赃，捉奸捉双)】`zhuah7 ceh8 zhuah7 zan1 zhuah7 jiaen1 zhuah7 shuan1` <sup>[东台]</sup> 要以事实为依据。  
