@@ -1527,7 +1527,7 @@
 1. 【[槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae.md#槐)】`huae2` <sup>[如东]</sup> 豆科植物槐树，落叶乔木。  
 1. 【[槐角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_gah.md#槐角)】`huae2 gah7` <sup>[如东]</sup> 豆科植物槐树果实。  
 1. 【[淮北高腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_boh_go_qian.md#淮北高腔)】`huae2 boh7 go1 qian1` <sup>[兴化]</sup> 早年淮剧的一种曲调，有大锣大鼓伴奏，起调很高。  
-1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <small>/xuɛ2 xo2/<sup>兴化</sup>, /xuɛ2 xʊ2/<sup>如皋</sup></small> ① 河名。发源于河南，流经安徽、江苏入海。<sup>\[如东\]</sup> ② 银河。<sup>\[如东\]</sup> ③ 指银河。<sup>\[如皋\]</sup> ④ 银河。<sup>\[兴化\]</sup>：谚曰：天上～，地上黄河。<sup>\[兴化\]</sup>  
+1. 【[淮河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu.md#淮河)】`huae2 hu2` <small>/xuɛ2 xo2/<sup>兴化</sup>, /xuɛ2 xʊ2/<sup>如皋</sup></small> 指银河<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup>：谚曰：天上～，地上黄河。<sup>\[兴化\]</sup>  
 1. 【[淮河东到西，家家备寒衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_don_do.md#淮河东到西，家家备寒衣)】`huae2 hu2 don1 do5 xi1 ga1 ga1 pei6 hun2 i1` <sup>[如皋]</sup> 银河东西向，指立冬前后。  
 1. 【[淮河南到北，家家种荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_hu_nun_do.md#淮河南到北，家家种荞麦)】`huae2 hu2 nun2 do5 boh7 ga1 ga zhon5 qio2 moh8` <sup>[如皋]</sup> 银河南北向，指立秋前后。  
 1. 【[淮饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huae_jio.md#淮饺)】`huae2 jio3` <sup>[兴化]</sup> 一种皮儿很薄的饺子，今多称“馄饨”。也称“雀儿头”。  
