@@ -1491,6 +1491,7 @@
 1. 【[黏耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏耷耷)】`nin2 dah7 dah7` <sup>[泰县]</sup> 物汁粘连不断：银耳汤～。  
 1. 【[黏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh.md#黏𪐏)】`nin2 deh7` <sup>[如皋]</sup> 有黏性，汤汁黏稠：紫玉米棒头儿吃起来是～的；大麦片煮的粥饮汤～。  
 1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <sup>[如东]</sup> 液体浓厚很有黏性：这种米酒好，喝咖嘴上～的。  
+1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` 黏性十足<sup>\[东台\]</sup>：这粽子～的<sup>\[东台\]</sup>  
 1. 【[黏𪐏𪐏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh_dii.md#黏𪐏𪐏的)】`nin2 deh7 deh7 dii` <sup>[如皋]</sup> 见“黏𪐏”。  
 1. 【[黏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_fon.md#黏缝)】`nin2 fon6` <sup>[如东]</sup> 黏匠用石灰、桐油、麻丝把船体上的缝隙堵死，使之密封不漏水。  
 1. 【[黏浃浃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gaeh_gaeh_dii.md#黏浃浃的)】`nin2 gaeh7 gaeh7 dii` <sup>[如皋]</sup> 胯下、腋下黏湿状。  
