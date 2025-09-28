@@ -1420,6 +1420,7 @@
 1. 【[置酒容易请客难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jieu_ion_i.md#置酒容易请客难)】`zhr5 jieu3 ion2 i6 qien3 keh7 naen2` <sup>[东台]</sup> 办酒席只是花钱，而请客涉及请谁、怎么请，谁陪同、客人是否赏光、能否按时到等主人难以掌控的难题。  
 1. 【[置备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pei.md#置备)】`zhr5 pei6` <sup>[如皋]</sup> 添置物件。  
 1. 【[翅膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_guae_zz.md#翅膀拐子)】`zhr5 ban guae3 zz` <sup>[兴化]</sup> 翅膀。（喻）自立能力：“～嘿，现在出落得像个人了，～硬了，瞧不起妈了……”（《马春阳作品选·月郎和她的娘舅们》）  
+1. 【[翅膀毛硬吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_mo_ngen.md#翅膀毛硬吖)】`zhr5 ban mo2 ngen6 nga` <small>/t͡sɿ5 pɑŋ mɔ2 ŋəŋ1 ŋa/<sup>泰兴</sup></small> 比喻具备独立的能力，不再需要依赖父母<sup>\[泰兴\]</sup>  
 1. 【[至诚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_chen.md#至诚)】`zhr5 chen2` <small>/t͡sɿ5 t͡sʰəŋ2/<sup>如皋</sup>, /t͡sɿ5 t͡sʰəŋ2/<sup>泰兴</sup></small> ① 人品高尚，诚笃。<sup>\[如皋\]</sup> ② 老实，真心。<sup>\[如东\]</sup>：老人家～。<sup>\[如东\]</sup> ③ 特别诚实、忠诚。<sup>\[泰兴\]</sup>：他是个～人，不会犯嫌。<sup>\[泰兴\]</sup>  
 1. 【[至得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_deh.md#至得)】`zhr5 deh7` 顶多，最多  
 1. 【[至多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_du.md#至多)】`zhr5 du1` <small>/t͡sɿ5 tʊ1/<sup>如皋</sup>, /t͡sɿ5 tɤɯ1/<sup>泰兴</sup></small> 最多，顶多。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：从泰兴到黄桥，～50里路。<sup>\[泰兴\]</sup>  
