@@ -1975,7 +1975,7 @@
 1. 【[老太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_i.md#老太爷)】`lo3 tae5 i2` <sup>[兴化]</sup> ① 曾祖父。 ② 尊称年老的男子。  
 1. 【[老太婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_pu.md#老太婆)】`lo3 tae5 pu2` <small>/lɔ3 tʰɛ5 pʰo2/<sup>兴化</sup></small> ① 年纪大的女人。<sup>\[如东\]</sup> ② 丈夫对妻子的称呼。<sup>\[如东\]</sup> ③ 中年女子的一种谦称。<sup>\[如东\]</sup> ④ 称年老的妇女（欠尊重）。<sup>\[兴化\]</sup> ⑤ 称老妻。<sup>\[兴化\]</sup> ⑥ 老年妇女自称，谦辞。<sup>\[泰州\]</sup> ⑦ 他人称呼老年妇女，则为蔑称，贬义<sup>\[泰州\]</sup>：这个～犯嫌吖没得命，没得事就在外头搬淡话。<sup>\[泰州\]</sup>  
 1. 【[老太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_tae_tae.md#老太太)】`lo3 tae5 tae5` <sup>[如皋]</sup> 见“老太”。  
-1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu` <small>/lɔ3 tʰei/<sup>如皋</sup></small> ① 姜榔。<sup>\[如皋\]</sup> ② 见“姜榔”。<sup>\[如皋\]</sup>  
+1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu` <small>/lɔ3 tʰei/<sup>如皋</sup></small> 姜榔。<sup>\[如皋\]</sup>  
 1. 【[老头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu.md#老头)】`lo3 teu2` <sup>[如东]</sup> ① 年纪大的男子。 ② 对老年男子的称呼。 ③ 妻子对丈夫的称呼：他是我的～。  
 1. 【[老头汗衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_hun_shaen.md#老头汗衫)】`lo3 teu2 hun6 shaen1` <sup>[兴化]</sup> 短袖圆领汗衫。  
 1. 【[老头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_teu_r.md#老头<sub>儿</sub>)】`lo3 teu2 r` <small>/lɔ3 tʰɤ2 ɚ/<sup>兴化</sup>, /lɔ3 tʰei˞2/<sup>如皋</sup>, /lɔ3 tʰəɪ˞2/<sup>泰兴</sup></small> ① 称象棋中的将、帅。<sup>\[如皋\]</sup> ② 见“老头子”。<sup>\[兴化\]</sup> ③ 对老年男子的不客气的称呼。<sup>\[泰州\]</sup> ④ 老年妇女对丈夫的昵称<sup>\[泰州\]</sup>：我家～早上要吃早茶。<sup>\[泰州\]</sup> ⑤ 年老的男子。<sup>\[泰兴\]</sup>  
