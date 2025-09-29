@@ -525,7 +525,7 @@
 1. 【[芒针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhen.md#芒针)】`man2 zhen1` <sup>[兴化]</sup> 钟表及其他仪表上的指针。  
 1. 【[芒种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zhon.md#芒种)】`man2 zhon5` 二十四节气之一，通常在6月5、6或7日。  
 1. 【[芒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#芒子)】`man2 zz` <small>/mɑŋ2 t͡se/<sup>泰县</sup></small> ① 毛昌纸卷成长条儿，用以点火点烟。<sup>\[如东\]</sup> ② 旧时吃水烟时点火的纸捻子（参见“卷芒子”）。<sup>\[东台\]</sup> ③ 用来点烟的纸卷。<sup>\[泰县\]</sup>  
-1. 【[莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#莽)】`man3` <small>/maŋ3/<sup>兴化</sup></small> ① 鲁葬<sup>\[东台\]</sup>：～汉。<sup>\[东台\]</sup> ② 猛<sup>\[东台\]</sup>：他一口就喝二两酒，太～吖。<sup>\[东台\]</sup> ③ 形容快而猛<sup>\[兴化\]</sup>：我俫这一方自来水来得～。<sup>\[兴化\]</sup>  
+1. 【[莽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#莽)】`man3` <small>/maŋ3/<sup>兴化</sup>, /mɑŋ3/<sup>泰兴</sup></small> ① 鲁葬<sup>\[东台\]</sup>：～汉。<sup>\[东台\]</sup> ② 猛，势急<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他一口就喝二两酒，太～吖。<sup>\[东台\]</sup>｜我俫这一方自来水来得～。<sup>\[兴化\]</sup>  
 1. 【[莽撞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chuan.md#莽撞)】`man3 chuan6` ① 鲁莽。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ② 冒失。<sup>\[如东\]</sup> ③ 言行轻率鲁莽<sup>\[泰州\]</sup>：做事不能这吖～。<sup>\[泰州\]</sup>  
 1. 【[莽撞山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_chuan_shaen.md#莽撞山)】`man3 chuan6 shaen1` <sup>[如东]</sup> ① 不问青红皂白，鲁莽办事。 ② 办事鲁莽的人：他是一个～。  
 1. 【[莽火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_hu.md#莽火)】`man3 hu3` <sup>[如皋]</sup> ① 火力大：炒韭菜用～。与“文火”相对。 ② 火力不持久：麦秆草有～，没底火。  
