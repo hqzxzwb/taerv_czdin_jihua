@@ -1086,6 +1086,7 @@
 1. 【[听头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_teu.md#听头)】`tien5 teu` <sup>[东台]</sup> ① 听觉：这个老爹九十高龄吖，～还这吖好。 ② 有意思：这个故事有～。  
 1. 【[听云板吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_yen_baen_qieh.md#听云板吃饭)】`tien5 yen2 baen3 qieh7 faen6` <sup>[东台]</sup> ［喻］缺乏主动性、积极性（云板为旧时打击乐器，用长铁片做成，两端作云头形）。  
 1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
+1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <small>/tʰiŋ1/<sup>泰兴</sup></small> 细想，梳理思路、逻辑<sup>\[泰兴\]</sup>：你等我～下子<sup>\[泰兴\]</sup>  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
 1. 【[定成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chen.md#定成)】`tien6 chen2` <small>/tʰiŋ1 t͡sʰəŋ2/<sup>泰兴</sup></small> 纸牌、麻将游戏中只要能得一张牌就能贏的局面。<sup>\[泰兴\]</sup>  
