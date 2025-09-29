@@ -1789,8 +1789,7 @@
 1. 【[黄眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen_jien.md#黄眼睛)】`huan2 ngaen3 jien1` <sup>[如东]</sup> 鲻科动物棱鮻，体长约20～30厘米。  
 1. 【[黄眼无义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngaen_v_i.md#黄眼无义)】`huan2 ngaen3 v2 i6` <sup>[如东]</sup> 比喻没有情义：他是个～的东西。  
 1. 【[黄牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu.md#黄牛)】`huan2 ngeu2` <sup>[如东]</sup> 牛科动物黄牛，体长约2米。  
-1. 【[黄牛宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_bo_bo.md#黄牛宝宝)】`huan2 ngeu2 bo3 bo3` <sup>[如东]</sup> 蜗牛科动物蜗牛，雌雄同体。  
-1. 【[黄牛宝宝壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_bo_bo.md#黄牛宝宝壳)】`huan2 ngeu2 bo3 bo3 kah7` <sup>[如东]</sup> 蜗牛科动物蜗牛壳。  
+1. 【[黄牛宝宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ngeu_bo_bo.md#黄牛宝宝)】`huan2 ngeu2 bo3 bo3` <sup>[如东]</sup> 蜗牛科动物蜗牛，雌雄同体：～壳  
 1. 【[黄泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ni.md#黄泥)】`huan2 ni2` <sup>[如东]</sup> 粘质土。也称秦泥。  
 1. 【[黄皮包骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_bo_gueh.md#黄皮包骨)】`huan2 pi2 bo1 gueh7` <sup>[如东]</sup> 皮色泛黄，身体瘦弱：要加强营养，不能～的。  
 1. 【[黄皮锈脸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_pi_xieu_lin.md#黄皮锈脸的)】`huan2 pi2 xieu5 lin3 dii` <sup>[如皋]</sup> 脸色焦黄。  
