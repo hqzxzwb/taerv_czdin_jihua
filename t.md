@@ -1094,6 +1094,7 @@
 1. 【[定法不是法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_faeh_beh_shr.md#定法不是法)】`tien6 faeh7 beh7 shr6 faeh7` <sup>[兴化]</sup> 指计划不能一成不变：现在～，要随情况变化调整计划。｜“……怎的个招佃，怎的个议租，此时～，你们再听老爷太太的吩咐……”（《儿女英雄传》三三）“定”也说“作”。  
 1. 【[定风旗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi.md#定风旗)】`tien6 fon1 qi2` <sup>[如东]</sup> 安装在帆船桅杆顶端的旗帜。它能随着风向旋转观测风向风力。  
 1. 【[定风旗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_fon_qi_r.md#定风旗<sub>儿</sub>)】`tien6 fon1 qi2 r` <sup>[如皋]</sup> 桅顶小旗，可观风向。  
+1. 【[定过来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_gu_lae.md#定过来)】`tien6 gu lae` <small>/tʰiŋ1 kɤɯ lɛ/<sup>泰兴</sup></small> 想透，理顺思路、逻辑细节<sup>\[泰兴\]</sup>：我刚才不曾定得过来，你箇吖一说，我才定过来啊<sup>\[泰兴\]</sup>｜他还小，箇们复杂的问题他定不过来<sup>\[泰兴\]</sup>  
 1. 【[定光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guan.md#定光)】`tien6 guan1` <sup>[兴化]</sup> ① 因酒醉而目光呆滞：（武松）把这五壶吃完了，眼睛都定了光……（《武松》一） ② 眼睛受突然刺激而失神：眼睛定光。  
 1. 【[定规](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_guei.md#定规)】`tien6 guei1` <small>/tʰiɪ̃6 kuəi1/<sup>兴化</sup>, /tʰiəŋ1 kuei1/<sup>如皋</sup></small> ① 预定金<sup>\[兴化\]</sup>：租房谈成吖，先把～。<sup>\[兴化\]</sup> ② 一定的说法<sup>\[兴化\]</sup>：“……几曾见中进士的都是饱学秀才？只要命好，有甚～……”（《西湖二集》四）<sup>\[兴化\]</sup> ③ 定金<sup>\[如皋\]</sup>  
 1. 【[定慧寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_huei_cz.md#定慧寺)】`tien6 huei6-guei1 cz6` <sup>[如皋]</sup> 隋大业十一年，天台宗智顗大师创建。原名“定惠寺”，清末慈禧太后题匾赐名“定慧寺”。原山门朝南，明代建城，迫使改向北。建筑特色：楼抱殿、水环寺、庙门朝北。  
