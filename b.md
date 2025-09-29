@@ -1504,6 +1504,7 @@
 1. 【[百页结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ih_jih.md#百页结)】`boh7 ih8 jih7` <sup>[东台]</sup> 百页切成条，打成绳结状的食物，一般和肉食一起烹煮。  
 1. 【[百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah.md#百脚)】`boh7 jiah7` <small>/pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /pɔʔ7 t͡ɕiaʔ7/<sup>如皋</sup>, /pɔʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 蜈蚣。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：砖头堆子里头有～。<sup>\[泰州\]</sup>｜蛇虫～<sup>\[泰兴\]</sup>  
 1. 【[百脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_jiah_shen.md#百脚绳)】`boh7 jiah7 shen2` <sup>[泰县]</sup> 端午节，小孩手腕脚上扣的各色花线。  
+1. 【[百老归天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lo_guei_tin.md#百老归天)】`boh7 lo3 guei1 tin1` <small>/pɔʔ7 lɔ3 kuəɪ1 tʰĩ1/<sup>泰兴</sup></small> 死亡。较委婉，不冒犯。<sup>\[泰兴\]</sup>  
 1. 【[百路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv.md#百路)】`boh7 lv6` 婴儿出生100天<sup>\[泰州\]</sup><sup>\[东台\]</sup>：他家孙子今朝过～。<sup>\[泰州\]</sup>  
 1. 【[百路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lv_r.md#百路<sub>儿</sub>)】`boh7 lv6 r` <sup>[如皋]</sup> 婴儿出身一百天庆贺式。见“过百路儿”。  
 1. 【[百年松树五月芭蕉——粗枝大叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_nin_son_shv.md#百年松树五月芭蕉——粗枝大叶)】`boh7 nin2 son1 shv6 v3 iuh8 ba1 jio1 cv1 zhr1 da6 ih8` <sup>[东台]</sup>   
