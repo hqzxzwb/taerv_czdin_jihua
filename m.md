@@ -1070,7 +1070,7 @@
 1. 【[米里头还有两粒稻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_li_teu_hae.md#米里头还有两粒稻)】`mi3 li3 teu2 hae2 ieu3 laen3 lieh8 to6` <small>/mʝ3 lʝ3 tʰəɪ2 xɛ2 iɤɯ3 lɛ̃3 liʔ8 tʰɔ1/<sup>泰兴</sup></small> 喻人无完人，金无足赤，好的东西中难免有极少差的掺杂。<sup>\[泰兴\]</sup>  
 1. 【[米箩里跳到糠箩里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lu_lii_tio.md#米箩里跳到糠箩里)】`mi3 lu2 lii tio5 do5 kan1 lu2 lii` <small>/mʝ3 lɤɯ2 ləɪ tʰiɔ5 tɔ5 kʰɑŋ1 lɤɯ2 ləɪ/<sup>泰兴</sup></small> ① 喻指从条件好的地方到困难多的地方。<sup>\[东台\]</sup> ② 谓好日子变成苦日了。《泰兴方言辞典》作“米箩箩跳到糠箩箩里”。<sup>\[泰兴\]</sup>  
 1. 【[米米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_r.md#米米<sub>儿</sub>)】`mi3 mi3 r` <sup>[如东]</sup> 一点点儿：还有～。  
-1. 【[米猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#米猫)】`mi3 mo2` <small>/mi3 mɔ2/<sup>兴化</sup>, /mʝ3 mɔ2/<sup>泰兴</sup>, /mɿ3 mɔ2/<sup>泰县</sup></small> 母猫。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>  
+1. 【[米猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#米猫)】`mi3 mo2` <small>/mi3 mɔ2/<sup>兴化</sup>, /mʝ3 mɔ2/<sup>如皋</sup>, /mʝ3 mɔ2/<sup>泰兴</sup>, /mɿ3 mɔ2/<sup>泰县</sup></small> 母猫。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>  
 1. 【[米麦黄豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_moh_van_teu.md#米麦黄豆)】`mi3 moh8 van2 teu6` <small>/mʝ3 mɔʔ8 uɑŋ2 tʰəɪ1/<sup>泰兴</sup></small> 泛指各种粮食谷物。<sup>\[泰兴\]</sup>  
 1. 【[米皮糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_pi_kan.md#米皮糠)】`mi3 pi2 kan1` <sup>[如东]</sup> 禾本科植物稻谷的种皮。  
 1. 【[米脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qy.md#米脆)】`mi3 qy5` <sup>[如皋]</sup> 黏糕片水发后油煠成泡沫状的茶食，色白，松脆香甜。  
@@ -1093,7 +1093,6 @@
 1. 【[米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#米子)】`mi3 zz` <small>/mi3 t͡sɿ/<sup>兴化</sup>, /mʝ3 t͡sɿ/<sup>如皋</sup>, /mʝ3 t͡sɿ/<sup>泰兴</sup></small> ① 钓铒。<sup>\[如东\]</sup>：钓鲫鱼要用河仙做～。<sup>\[如东\]</sup> ② 常指肿块中，小而硬的芯子。<sup>\[如皋\]</sup> ③ 荚或硬壳里的子实<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：菱～；薏仁～；花生～。<sup>\[兴化\]</sup>｜花生～<sup>\[泰州\]</sup>｜蚕豆～<sup>\[泰州\]</sup>｜黄豆～<sup>\[泰州\]</sup>｜老菱～<sup>\[泰州\]</sup>｜花生～<sup>\[泰兴\]</sup>｜黄豆～<sup>\[泰兴\]</sup>  
 1. 【[美儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_er.md#美儿)】`mi3 er2` <sup>[如皋]</sup> ① 古瓷、古画上的美女：～碗。 ② 贬指以貌取胜而无实才的女人。  
 1. 【[美美香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi_xian_tin.md#美美香甜)】`mi3 mi3 xian1 tin2` <sup>[泰县]</sup> 又香又甜。  
-1. 【[美猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mo.md#美猫)】`mi3 mo2` <sup>[如皋]</sup> 雌猫。  
 1. 【[美人局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_qioh.md#美人局)】`mi3 ren2 qioh8` <sup>[泰州]</sup> 以美女作为诱饵的骗局：他在广东中吖～，身上的钱捱弄吖光吖。  
 1. 【[美味香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_vei_xian_tin.md#美味香甜)】`mi3 vei6 xian1 tin2` <sup>[泰州]</sup> 食物滋味可口：嫂子烧的菜没得话说，美味香甜。  
 1. 【[𨀷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𨀷)】`mi3` <sup>[如皋]</sup> ① 尾随盯梢：～啊后头、～着咖他。 ② 寻找：～花生；顺吖脚印望前～。  
