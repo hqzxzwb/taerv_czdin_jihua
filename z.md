@@ -1800,7 +1800,7 @@
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga1` <sup>[泰县]</sup> ① 老板。 ② 主人翁。  
 1. 【[主顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gv.md#主顾)】`zhv3 gv5` <sup>[如皋]</sup> 老顾客。  
 1. 【[主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hv.md#主户)】`zhv3 hv6` <sup>[如东]</sup> 比喻重要户籍或主要人物：这些～。  
-1. 【[主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i.md#主意)】`zhv3 i` <small>/t͡su3 ʝ/<sup>泰兴</sup></small> ① 立定的心意、办法<sup>\[泰兴\]</sup>：他遇到个难事，没得咖～<sup>\[泰兴\]</sup> ② 索性、干脆<sup>\[泰兴\]</sup>：已经跑到啊箇许，～到街上买点儿杲子再家去<sup>\[泰兴\]</sup>  
+1. 【[主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i.md#主意)】`zhv3 i` <small>/t͡su3 ʝ/<sup>泰兴</sup></small> ① 立定的心意、办法<sup>\[泰兴\]</sup>：他遇到个难事，没得咖～/乱了方寸<sup>\[泰兴\]</sup> ② 索性、干脆<sup>\[泰兴\]</sup>：已经跑到啊箇许，～到街上买点儿杲子再家去<sup>\[泰兴\]</sup>  
 1. 【[主意窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i_ku.md#主意窠)】`zhv3 i5 ku1` <sup>[东台]</sup> 形容善于想办法、点子多的人：他蛮聪明，是个～。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia` <sup>[兴化]</sup> 主人家，或指办事的人家：谚曰：随得～意，唱得好把戏。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` ① 主事的人家。<sup>\[如东\]</sup> ② 雇主，请人做事的一方<sup>\[东台\]</sup>：～出钱让你办，应该不成问题。<sup>\[东台\]</sup>  
