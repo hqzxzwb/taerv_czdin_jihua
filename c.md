@@ -810,6 +810,7 @@
 1. 【[蛏钩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_geu_zz.md#蛏钩子)】`chen1 geu1 zz` <sup>[如东]</sup> 钩蛏的工具。前部一根铁丝，顶端弯曲成钩，后部一根木柄。作业时，顺着蛏穴插下去，即可钩蛏。  
 1. 【[蛏壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_kah_r.md#蛏壳<sub>儿</sub>)】`chen1 kah7 r` <sup>[如东]</sup> 工具。长方形，似一片蛏壳儿。扑匠整理屋面时，用以拍平草面。  
 1. 【[蛏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zz.md#蛏子)】`chen1 zz` <sup>[泰州]</sup> 海鲜之一，生活在沙滩海泥中，长方形薄壳扁身小海蚌，肉质鲜美。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_chen.md#□□)】`chen2 chen` <small>/t͡sʰəŋ2 t͡sʰəŋ/<sup>泰兴</sup></small> 索性，干脆<sup>\[泰兴\]</sup>  
 1. 【[㲀箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_gv.md#㲀箍)】`chen2 gv1` <small>/t͡sʰəŋ2 ku1/<sup>如皋</sup></small> ① 做木盆、木桶时，将箍向大的一端打紧。<sup>\[如东\]</sup> ② 箍盆桶时，将箍向径大的一端打紧。<sup>\[如皋\]</sup>  
 1. 【[乘风凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_lian.md#乘风凉)】`chen2 fon1 lian2` <sup>[兴化]</sup> 纳凉：夏天晚上，到大桥上去～。  
 1. 【[乘阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_ien_lian.md#乘阴凉)】`chen2 ien1 lian2` <sup>[如皋]</sup> 在树阴底下休息无暴晒，有风吹，瀴凉、爽快。  
@@ -884,8 +885,8 @@
 1. 【[诚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien.md#诚心)】`chen2 xien1` <sup>[如东]</sup> 真心。  
 1. 【[诚心话的本心话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_xien_hua_dii.md#诚心话的本心话)】`chen2 xien1 hua6 dii ben3 xien1 hua6` 真心话  
 1. 【[辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#辰)】`chen2` <sup>[东台]</sup> 地支第五位。  
-1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <small>/t͡sʰən2 kuaŋ/<sup>兴化</sup>, /t͡sʰəŋ2 kuã/<sup>如皋</sup>, /t͡sʰəŋ2 kuɑŋ/<sup>泰兴</sup></small> ① 时间，时候。<sup>\[如东\]</sup>：甚的～来？<sup>\[如东\]</sup> ② 时间。<sup>\[如皋\]</sup> ③ 大约的时间、时候<sup>\[如皋\]</sup>：甚的～、有啊～。<sup>\[如皋\]</sup> ④ 时候<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）<sup>\[兴化\]</sup>  
-1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan1` <sup>[东台]</sup> ① 时候，时辰：甚的～走？ ② 程度：企业亏到这个～，要赶快采取改革措施。  
+1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <small>/t͡sʰən2 kuaŋ/<sup>兴化</sup>, /t͡sʰəŋ2 kuã/<sup>如皋</sup></small> ① 时间，时候。<sup>\[如东\]</sup>：甚的～来？<sup>\[如东\]</sup> ② 时间。<sup>\[如皋\]</sup> ③ 大约的时间、时候<sup>\[如皋\]</sup>：甚的～、有啊～。<sup>\[如皋\]</sup> ④ 时候<sup>\[兴化\]</sup>：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）<sup>\[兴化\]</sup>  
+1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan1` <small>/səŋ2 kuɑŋ1/<sup>泰兴</sup></small> ① 时候，时辰<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：甚的～走？<sup>\[东台\]</sup> ② 程度<sup>\[东台\]</sup>：企业亏到这个～，要赶快采取改革措施。<sup>\[东台\]</sup>  
 1. 【[鈂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#鈂)】`chen2` <sup>[如皋]</sup> 点播（播种）种子：～麦、～玉米、～黄豆。如皋词典写“𣜣”。  
 1. 【[鈂麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_moh.md#鈂麦)】`chen2 moh8` <sup>[如东]</sup> 在田地里用铁锹摇开口子将麦种撒下去。  
 1. 【[鈂豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#鈂豆)】`chen2 teu6` <sup>[泰州]</sup> ① （泰州词典作盛豆，乘豆） ② 种豆：下田去～。  

@@ -1743,7 +1743,6 @@
 1. 【[猪浑塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_huen_tan.md#猪浑塘)】`zhv1 huen2 tan2` <sup>[兴化]</sup> 被猪滚成的泥水塘：却说那猪八戒，从离了沙僧，一头藏在草科里，拱了一个～。（《西游记》三十）  
 1. 【[猪獾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hun.md#猪獾)】`zhv1 hun1` <small>/t͡su1 xʊ̃1/<sup>如皋</sup></small> ① 獾。<sup>\[如皋\]</sup> ② 鼬科动物猪獾，也叫貓沙獾。体粗壮，身长约70厘米，体重约10公斤。形似狗獾，额部宽。吻较长，鼻垫与上唇之间无毛。四肢短粗，前后肢均具淡黄色利爪。全身黑棕色而杂以白色。背毛基部白色，中段黑棕色，毛尖白色。头部自鼻尖到颈部有一白色纵纹，两颊从口角到头后各有白色短纹。耳缘白色，喉颈部白色或黄白色。四肢棕色。尾白色或黄白色。穴居于地下。夜间活动，性凶猛。<sup>\[如东\]</sup>  
 1. 【[猪獾骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hun_gueh.md#猪獾骨)】`zhv1 hun1 gueh7` <sup>[如东]</sup> 鼬科动物猪獾骨，也叫貒骨。  
-1. 【[猪胰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i.md#猪胰)】`zhv1 i2` <sup>[如东]</sup> 猪科动物猪胰。  
 1. 【[猪殃殃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ian_ian.md#猪殃殃)】`zhv1 ian1 ian1` <sup>[如东]</sup> 茜草科拉拉藤属。年生草本植物，又名拉拉藤、八仙草、麦珠儿。蔓生。茎四棱形，倒生小刺毛。叶条状，倒披针形。聚伞花序。花小，淡绿色。果实近球形。生长在田间、路边。主要危害麦油菜棉花等农作物。  
 1. 【[猪秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ian_zz.md#猪秧子)】`zhv1 ian1 zz` <sup>[兴化]</sup> 子猪。  
 1. 【[猪油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ieu.md#猪油)】`zhv1 ieu2` <sup>[如东]</sup> 猪科动物猪的脂肪油，包括板油和网油。  
@@ -1801,6 +1800,7 @@
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga1` <sup>[泰县]</sup> ① 老板。 ② 主人翁。  
 1. 【[主顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_gv.md#主顾)】`zhv3 gv5` <sup>[如皋]</sup> 老顾客。  
 1. 【[主户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hv.md#主户)】`zhv3 hv6` <sup>[如东]</sup> 比喻重要户籍或主要人物：这些～。  
+1. 【[主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i.md#主意)】`zhv3 i` <small>/t͡su3 ʝ/<sup>泰兴</sup></small> ① 立定的心意、办法<sup>\[泰兴\]</sup>：他遇到个难事，没得咖～<sup>\[泰兴\]</sup> ② 索性、干脆<sup>\[泰兴\]</sup>：已经跑到啊箇许，～到街上买点儿杲子再家去<sup>\[泰兴\]</sup>  
 1. 【[主意窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_i_ku.md#主意窠)】`zhv3 i5 ku1` <sup>[东台]</sup> 形容善于想办法、点子多的人：他蛮聪明，是个～。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia` <sup>[兴化]</sup> 主人家，或指办事的人家：谚曰：随得～意，唱得好把戏。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_jia.md#主家)】`zhv3 jia1` ① 主事的人家。<sup>\[如东\]</sup> ② 雇主，请人做事的一方<sup>\[东台\]</sup>：～出钱让你办，应该不成问题。<sup>\[东台\]</sup>  
