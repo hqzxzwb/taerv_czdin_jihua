@@ -1580,6 +1580,7 @@
 1. 【[有限](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_haen.md#有限)】`ieu3 haen6` <sup>[如东]</sup> 有限度。  
 1. 【[有好果子吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ho_gu_zz.md#有好果子吃)】`ieu3 ho3 gu3 zz qieh7` <sup>[如东]</sup> 等着挨责罚。  
 1. 【[有花头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hua_teu_r.md#有花头<sub>儿</sub>)】`ieu3 hua1 teu r` <sup>[如皋]</sup> 其中有问题，值得怀疑，需要研究。  
+1. 【[有话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_hua.md#有话)】`ieu3 hua6` <small>/iɤɯ3 xuɑ1/<sup>泰兴</sup></small> 说过，有时郑重，有时诙谐<sup>\[泰兴\]</sup>：先生～，夜上要先做作业再望电视/先生发过话<sup>\[泰兴\]</sup>｜些人～，箇就叫个大拇指头扒耳朵，巴不到/俗话说<sup>\[泰兴\]</sup>  
 1. 【[有衣有寒，没衣没寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_i_ieu_hun.md#有衣有寒，没衣没寒)】`ieu3 i1 ieu3 hun2 meh8 i1 meh8 hun2` <small>/iɤɯ3 ʝ1 iɤɯ3 xʊ̃2 məʔ8 ʝ1 məʔ8 xʊ̃2/<sup>泰兴</sup></small> 谓衣虽多仍觉得寒冷，而衣少反而觉得不是那么冷。<sup>\[泰兴\]</sup>  
 1. 【[有约有请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_iah_ieu_qien.md#有约有请)】`ieu3 iah7 ieu3 qien3` <sup>[泰州]</sup> 民俗，家庭举办诸如结婚、生日、满月之类重要宴会以及其他重要私人宴会，对需邀请出席的客人，主人要在十天、半月之前通过电话、短信、当面等方式发出口头或书面邀请（婚礼要附正式请柬），告知客人定于某日某时举办宴会，必须得到客人明确承诺，称为“有约”，以便客人在接到其他人的邀请以后，以“某人已经有约在先”而婉然谢绝。在举办宴会当日主人还要再次电话、短信告之对方“宴会就在今日按时举行，届时恭候”，称为“有请”，再次提请对方，避免出现客人“因为事多而忘记此事”的情况发生。“有约无请”或者“有请无约”均视为礼节上的不周到、不礼貌的行为，较真的客人有可能因此而不出席：人家是～的，你再忙也要去啊！  
 1. 【[有约无请，混账透顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_iah_v_qien.md#有约无请，混账透顶)】`ieu3 iah7 v2 qien3 huen5 zhan5 teu5 dien3` <sup>[东台]</sup> 请客要先预约后再请，切不可约了不请。  

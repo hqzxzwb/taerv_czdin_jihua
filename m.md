@@ -818,7 +818,7 @@
 1. 【[妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mei.md#妹妹)】`mei6 mei6` <sup>[如东]</sup> ① 同胞和亲戚中同辈而年龄比自己小的女予，称妹妹，也称妹子。根据 ② 血缘和亲属关系，分嫡亲妹妹、叔伯妹妹、堂妹妹、表妹妹。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_xi.md#妹婿)】`mei6 xi` <small>/məɪ1 ɕʝ/<sup>泰兴</sup></small> 妹妹的丈夫。<sup>\[泰兴\]</sup>  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_xy.md#妹婿)】`mei6 xy5` <sup>[如东]</sup> 妹妹的丈夫。  
-1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_zz.md#妹子)】`mei6 zz` <small>/məi6 t͡sɿ/<sup>兴化</sup>, /məɪ1 t͡se/<sup>泰县</sup></small> ① 妹妹<sup>\[兴化\]</sup>：嫡亲～<sup>\[兴化\]</sup>｜叔伯～<sup>\[兴化\]</sup>｜姨～。<sup>\[兴化\]</sup> ② 妹妹。<sup>\[泰县\]</sup>  
+1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_zz.md#妹子)】`mei6 zz` <small>/məi6 t͡sɿ/<sup>兴化</sup>, /məɪ1 t͡sɿ/<sup>泰兴</sup></small> 妹妹<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：嫡亲～<sup>\[兴化\]</sup>｜叔伯～<sup>\[兴化\]</sup>｜姨～。<sup>\[兴化\]</sup>  
 1. 【[媚话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua.md#媚话)】`mei6 hua6` <sup>[如皋]</sup> ① 献媚的话。 ② 发嗲的话。 ③ 无用的话。  
 1. 【[媚里媚巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_lii_mei_ba.md#媚里媚巴的)】`mei6 lii mei6 ba1 dii` <sup>[如皋]</sup> 贬指献媚又缠人的样子。  
 1. 【[媚文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ven.md#媚文)】`mei6 ven2` <sup>[如皋]</sup> 谄媚、献媚的文字、文章。  
@@ -1100,7 +1100,7 @@
 1. 【[妹私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sz.md#妹私)】`mi6 sz` <sup>[泰州]</sup> 妹夫。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi.md#妹婿)】`mi6 xi` <sup>[东台]</sup> 即妹夫，妹妹的丈夫。婿，音“细”。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xy.md#妹婿)】`mi6 xy5` <sup>[如皋]</sup> 妹夫。  
-1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <small>/mʝ1 t͡sɿ/<sup>如皋</sup></small> ① 妹妹。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup> ② 泛称小于自己的女人。<sup>\[如皋\]</sup>  
+1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <small>/mʝ1 t͡sɿ/<sup>如皋</sup>, /mɿ1 t͡se/<sup>泰县</sup></small> ① 妹妹。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup> ② 泛称小于自己的女人。<sup>\[如皋\]</sup>  
 1. 【[昧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#昧)】`mi6` <sup>[泰州]</sup> 暗中吞没他人财物：最后还多啊几千块钱，捱他～掉啊。  
 1. 【[昧良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lian_xien.md#昧良心)】`mi6 lian2 xien1` <sup>[泰州]</sup> 违背良心说话、做事：你不能～说瞎话。  
 1. 【[乜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#乜)】`mia1` ① 斜视 ② 眯着眼睛斜视。<sup>\[如东\]</sup>：他站吖外面～啊一眼。<sup>\[如东\]</sup>  

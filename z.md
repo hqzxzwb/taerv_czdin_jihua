@@ -2262,11 +2262,11 @@
 1. 【[龇牙裂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lih_jy.md#龇牙裂嘴)】`zz1 nga2 lih8 jy3` <sup>[如东]</sup> ① 凶狠的样子。 ② 痛苦的样子。 ③ 比喻物体破损厉害：这条船～的，怎吖能下水？  
 1. 【[龇牙露齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lv_chr.md#龇牙露齿)】`zz1 nga2 lv6 chr3` <sup>[如东]</sup> 凶狠的样子。  
 1. 【[仔猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_zhv.md#仔猪)】`zz3 zhv1` <sup>[如东]</sup> 小猪。  
-1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei` <small>/t͡sɿ3 məi/<sup>兴化</sup></small> ① 统称兄弟姐妹 ② 兄弟姐妹之间。<sup>\[兴化\]</sup> ③ 年龄相仿的女性之间的互称。<sup>\[兴化\]</sup> ④ 在关系密切，年龄、辈份相当的两性之间，有时也互称～。<sup>\[兴化\]</sup>  
+1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei` <small>/t͡sɿ3 məi/<sup>兴化</sup>, /t͡sɿ3 mei/<sup>如皋</sup>, /t͡sɿ3 məɪ/<sup>泰兴</sup>, /t͡sɿ3 məɪ/<sup>泰县</sup></small> ① 兄弟姐妹关系，或统称兄弟姐妹<sup>\[兴化\]</sup>\[泰兴：又音zz3 mi，见于部分乡镇（调得刘陈、新街、马甸、宣堡）\]：～X个/兄弟姐妹X个｜他倈两个是～们｜他倈是～两个 ② 年龄相仿的女性之间的互称。<sup>\[兴化\]</sup> ③ 在关系密切，年龄、辈份相当的两性之间，有时也互称～。<sup>\[兴化\]</sup>  
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei6` ① 亲生姐妹。<sup>\[如东\]</sup> ② 同辈的女子。<sup>\[如东\]</sup> ③ 亲姐妹<sup>\[东台\]</sup>：她俫是～两个。<sup>\[东台\]</sup>  
 1. 【[姊妹对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei_duei.md#姊妹对)】`zz3 mei6 duei5` 扑克中连续的几个对子，一般大于等于三个，几个就叫几姊妹  
 1. 【[姊妹趟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei_tan_r.md#姊妹趟<sub>儿</sub>)】`zz3 mei6 tan5 r` <sup>[东台]</sup> 姐妹几个（通常三个以上）：老母的生日晚宴是～合办的。  
-1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi` <small>/t͡sɿ3 mʝ/<sup>泰兴</sup></small> ① 姐姐和妹妹。<sup>\[泰州\]</sup> ② 兄弟姐妹间关系（不局限于姐妹）<sup>\[泰兴\]</sup>：～三个/兄弟姐妹三个<sup>\[泰兴\]</sup>  
+1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi` 姐姐和妹妹。<sup>\[泰州\]</sup>  
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mi.md#姊妹)】`zz3 mi6` <sup>[如皋]</sup> ① 兄弟姐妹间关系称：这个是哥哥，那个是妹妹，他俫是～两个。 ② 姐妹间的关系也称姊妹：她俫是～两个。  
 1. 【[姊舅两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_qieu_laen_gu.md#姊舅两个)】`zz3 qieu6 laen3 gu` <sup>[东台]</sup> 已婚男子与内兄或内弟（妻子的哥哥或弟弟）的关系。  
 1. 【[子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#子)】`zz3` <sup>[东台]</sup> ① “地支”第一位。 ② 某些词的后缀（“子”轻读）：桌～/攮～/铅角～（硬币）/小胖～。  
