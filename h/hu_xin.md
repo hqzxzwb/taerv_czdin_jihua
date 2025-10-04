@@ -1,5 +1,7 @@
 # 䗙䘆
-hu2 xin1(xh:5;txe:0)
+hu2 xin1
+xh:hu2 xin5
+txe:hu2 xin
 + 蚯蚓
   * 如东方言词典
     + 又俗音“河香”

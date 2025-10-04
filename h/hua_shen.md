@@ -1,9 +1,11 @@
 # 花生
-hua1 shen(rd:1)
+hua1 shen
+rd:hua1 shen1
 - 花生
 
 # 化生
-hua5 shen(rd:1)
+hua5 shen
+rd:hua5 shen1
 + 挥霍无度的人。
   * 如东方言词典
     - 我家养吖个～。

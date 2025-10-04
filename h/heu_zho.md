@@ -1,5 +1,6 @@
 # 后朝
-heu6 zho1(tx:0)
+heu6 zho1
+tx:heu6 zho
 + 后天
   * 泰兴方言辞典
   * 东台方言词典

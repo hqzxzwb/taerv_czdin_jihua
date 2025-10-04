@@ -1,5 +1,6 @@
 # 和尚头
-hu2 shan(txe:chan) teu2
+hu2 shan teu2
+txe:hu2 chan teu2
 + 光头。
   * 如东方言词典
   * 泰州方言词典4

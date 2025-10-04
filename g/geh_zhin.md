@@ -1,5 +1,7 @@
 # 格占
-geh7 zhin5(rg:0)
+geh7 zhin5
+rg:geh7 zhin
+dt:geh7 zhin1
 + 格，范围。格占，超范围占有。
   * 如皋方言词典
   - 秤平斗满，两不～。

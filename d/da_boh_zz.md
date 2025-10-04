@@ -1,5 +1,6 @@
 # 大伯子
-da6(rg:5) boh7 zz
+da6 boh7 zz
+rg:da5 boh7 zz
 + 丈夫的兄长。
   * 兴化方言词典
     + 也称“大叔子”。

@@ -1,5 +1,6 @@
 # 妯娌
-choh8 li(txe:lei)
+choh8 li
+txe:choh8 lei
 + 兄弟之妻相互的关系，或她们的合称
   * 如东方言词典
   * 东台方言词典

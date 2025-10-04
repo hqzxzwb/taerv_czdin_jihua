@@ -1,5 +1,6 @@
 # 不详意
-beh7 qia2 i5(txe:0)
+beh7 qia2 i5
+txe:beh7 qia2 i
 + 致歉语，意为不经意
   * 如皋方言词典
     - 我～碰吖你啦，对不起！

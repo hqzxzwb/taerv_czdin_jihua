@@ -1,5 +1,8 @@
 # 釜㔶
-fv3(txe:6) gun(tx:gu1;rg:gu)
+fv3 gun
+txe:fv6 gun
+tx:fv3 gu1
+rg:fv3 gu5/0
 + 锅盖
   * 泰兴方言辞典
   * 东台方言词典

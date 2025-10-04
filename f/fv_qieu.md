@@ -1,5 +1,7 @@
 # 俯就
-fv3 qieu6(dt:jieu5;rg,tx,txe:0)
+fv3 qieu6
+dt:fv3 jieu5
+rg,tx,txe:fv3 qieu
 + 将就，迁就。
   * 如东方言词典
     - 只好～一点。

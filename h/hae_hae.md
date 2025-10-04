@@ -1,5 +1,6 @@
 # 海海
-hae3 hae3(txe:0)
+hae3 hae3
+txe:hae3 hae
 + 全部
   * 兴化方言词典
     - 全庄的大人伢儿～来啊。

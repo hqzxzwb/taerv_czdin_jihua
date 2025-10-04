@@ -1,5 +1,6 @@
 # 虼蚤
-geh7 zo3(dt,txe:0)
+geh7 zo3
+dt,txe:geh7 zo
 + 跳蚤。
   * 如东方言词典
   * 泰县方言志

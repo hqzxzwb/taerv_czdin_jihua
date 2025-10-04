@@ -1,5 +1,6 @@
 # 臭烘烘
-cheu5 hon1(rd:0) hon1
+cheu5 hon1 hon1
+rd:cheu5 hon hon
 + 阵阵袭来的臭味。
   * 东台方言词典
 + 臭气熏人

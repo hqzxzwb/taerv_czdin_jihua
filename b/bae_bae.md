@@ -1,5 +1,6 @@
 # 𬥐𬥐
-bae1 bae(tz:3)
+bae1 bae
+tz:bae1 bae3
 + 父亲
   * 如皋方言词典
     + 如皋北乡称。

@@ -1,5 +1,6 @@
 # 发禄
-faeh7 loh8(tx,txe:0)
+faeh7 loh8
+tx,txe:faeh7 loh
 + 兴旺。
   * 如东方言词典
     - 这家公司要～。

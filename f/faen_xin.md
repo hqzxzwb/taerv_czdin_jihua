@@ -1,5 +1,6 @@
 # 犯嫌
-faen6(xh,dt,tx:5) xin2
+faen6 xin2
+xh,dt,tx:faen5 xin2
 + 讨厌。
   * 如东方言词典
     - 这个伢儿不～。

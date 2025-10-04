@@ -1,5 +1,6 @@
 # 姑𬥐
-gv1 bae1(tz,tx:3)
+gv1 bae1
+tz,tx:gv1 bae3
 + 姑父。
   * 兴化方言词典
   * 泰州方言词典2

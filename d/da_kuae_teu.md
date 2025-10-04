@@ -1,5 +1,6 @@
 # 大块头
-da6 kuae5(txe:0) teu2
+da6 kuae5 teu2
+txe:da6 kuae teu2
 + 身材高大的人。
   * 如东方言词典
 + 身材肥胖的人。

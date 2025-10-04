@@ -1,5 +1,6 @@
 # 八字脚
-baeh7 cz6(txe:0) jiah7
+baeh7 cz6 jiah7
+txe:baeh7 cz jiah7
 + 行走时两足尖外分，步态左右摇摆
   * 兴化方言词典
   - （那人）自摇摇摆摆，踏着～去了。（《水浒传》二四）

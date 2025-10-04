@@ -1,5 +1,7 @@
 # 吹牛屄
-chuei1 ngeu2(txe:nei2;tz:nieu2) bi1
+chuei1 ngeu2 bi1
+txe:chuei1 nei2 bi1
+tz:chuei1 nieu2 bi1
 + 说大话，夸口。
   * 如东方言词典
     - 不要～。

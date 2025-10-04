@@ -1,5 +1,6 @@
 # 打圆场
-da3 iun2 chan2(dt:3)
+da3 iun2 chan2
+dt:da3 iun2 chan3
 + 调解纠纷，缓和矛盾。
   * 如东方言词典
 + 调解劝说。

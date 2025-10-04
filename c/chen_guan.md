@@ -1,5 +1,6 @@
 # 辰光
-chen2(txe:shen2) guan1
+chen2 guan1
+txe:shen2 guan1
 + 时候，时辰
   * 东台方言词典
     - 甚的～走？

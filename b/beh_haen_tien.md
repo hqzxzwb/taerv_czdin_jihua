@@ -1,5 +1,6 @@
 # 不限定
-beh7 haen6(txe:0) tien6(txe:nin)
+beh7 haen6 tien6
+txe:beh7 haen nin
 + 不一定，不限制
   * 如皋方言词典
     - 可买可不买，～！

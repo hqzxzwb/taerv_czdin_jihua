@@ -4,7 +4,8 @@ foh7 xian5
 - 有福的相貌。
 
 # 服降
-foh8 xian2(rg:qian2)
+foh8 xian2
+rg:foh8 qian2
 + 认输，承认输了。
   * 如皋方言词典
 + 本指屈膝投降，乡人则指服软、认输等意。

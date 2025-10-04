@@ -1,5 +1,6 @@
 # 不胎谐
-beh7 tae1 hae(tx,txe:2)
+beh7 tae1 hae
+tx,txe:beh7 tae1 hae2
 + 不会勤俭持家，随便花钱。
   * 如东方言词典
     - 箇两个人～。

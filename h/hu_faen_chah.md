@@ -1,5 +1,6 @@
 # 何犯着
-hu2 faen6(txe:0) chah8
+hu2 faen6 chah8
+txe,xh:hu2 faen chah8
 + 何必，常作反问
   * 如皋方言词典
     - 你没好处，～起早带晚的忙。

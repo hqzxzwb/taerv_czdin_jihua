@@ -5,7 +5,8 @@ hueh7 liah8
   - 这件事我～咖，朆做。
 
 # 忽略
-hueh7 liah(tz:naeh)
+hueh7 liah
+tz:hueh7 naeh
 + 得罪，伤害
   * 东台方言词典
     - 我不曾～你，你甚的门儿偏要跟我过不去？

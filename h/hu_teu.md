@@ -9,7 +9,8 @@ hu2 teu2
 - 棺材头。
 
 # 回头
-hu2(tz:hun2) teu2
+hu2 teu2
+tz:hun2 teu2
 + 等一会儿，过一段时间
   * 泰县方言志
     - 我～晚上去玩。
@@ -28,7 +29,8 @@ hu2(tz:hun2) teu2
     - ～他不证明怎吖弄相？
 
 # 河头
-hu2 teu2(tx:3)
+hu2 teu2
+tx:hu2 teu3
 + 河的顶端。
   * 如东方言词典
 + 河边

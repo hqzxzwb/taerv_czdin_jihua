@@ -1,5 +1,6 @@
 # 告花子
-go5 hua1(txe,rg:0) zz
+go5 hua1 zz
+txe,rg:go5 hua zz
 + 乞丐
   * 如皋方言词典
   * 如东方言词典

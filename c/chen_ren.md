@@ -1,5 +1,6 @@
 # 㵾人
-chen6 ren2(tx,txe:0)
+chen6 ren2
+tx,txe:chen6 ren
 + 物体温度低，使人触及后有冷刺激的感觉
   * 东台方言词典
     - 你手太冷，～吖。

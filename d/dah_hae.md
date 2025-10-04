@@ -1,5 +1,6 @@
 # 沰害
-dah7 hae6(txe,dt:0)
+dah7 hae6
+txe,dt:dah7 hae
 + 栽害，陷害，诬陷
   * 泰县方言志
   * 泰兴方言辞典

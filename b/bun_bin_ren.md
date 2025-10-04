@@ -1,5 +1,6 @@
 # 半边人
-bun5 bin1(xh:0) ren2
+bun5 bin1 ren2
+xh:bun5 bin ren2
 + 指寡妇。
   * 如东方言词典
   * 东台方言词典

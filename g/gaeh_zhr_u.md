@@ -1,5 +1,6 @@
 # 夹肢窝
-gaeh7 zhr1(tx:0) u1
+gaeh7 zhr1 u1
+tx,rg:gaeh7 zhr u1
 + 腋窝。
   * 如东方言词典
   * 如皋方言词典

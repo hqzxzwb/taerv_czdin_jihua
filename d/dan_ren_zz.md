@@ -1,5 +1,7 @@
 # 当人子
-dan1(tx,txe:da1) ren2(tx,txe,rg:0) zz
+dan1 ren2 zz
+tx,txe:da1 ren zz
+rg:dan1 ren zz
 + 不作兴。小孩或晚辈触犯长辈尊严或糟蹋粮食时，长者常以此语进行教育和吓唬。
   * 如东方言词典
     - 你骂奶奶，～的呀！

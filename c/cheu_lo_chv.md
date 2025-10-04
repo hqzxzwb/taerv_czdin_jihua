@@ -1,5 +1,6 @@
 # 臭老鼠
-cheu5 lo3(txe:0) chv3(txe:0)
+cheu5 lo3 chv3
+txe:cheu5 lo chv
 + 一种有臭腺的黑色、尖嘴老鼠。
   * 兴化方言词典
 + （喻）由于管事多，态度严而遭忌恨的人
