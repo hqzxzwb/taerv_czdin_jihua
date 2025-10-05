@@ -93,6 +93,8 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     yen = 'in'
   elif cz in '煠闸' and shen + gae + yen == 'chaeh':
     shen = 'sh'
+  elif cz in '坯' and yen == 'i':
+    yen == 'ei'
   elif shen in ['zh', 'ch', 'sh'] and yen == 'eu': # 流摄翘舌转舌面
     shen = ngah_hua[shen]
     gae = 'i'

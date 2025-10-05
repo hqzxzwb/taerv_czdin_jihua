@@ -1,5 +1,6 @@
 # 麦穰
-moh8 ran2(tx:3)
+moh8 ran2
+tx:moh8 ran3
 + 碾压以后的麦秸
   * 如东方言词典
     + 比较柔软

@@ -4,7 +4,8 @@ lu5 kuae
 - 那里。
 
 # 那块
-lu5(tz:6) kuae5
+lu5 kuae5
+tz:lu6 kuae5
 + 那里，那儿。
   * 如东方言词典
   * 如皋方言词典

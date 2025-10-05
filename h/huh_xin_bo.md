@@ -1,5 +1,6 @@
 # 活现报
-huh8 xin6(xh,dt:5) bo5
+huh8 xin6 bo5
+xh,dt:huh8 xin5 bo5
 + 骂人活着看到报应
   * 兴化方言词典
   - 老子英雄行尽吖，生出这种逆子，真是～！

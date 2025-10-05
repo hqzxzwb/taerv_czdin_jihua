@@ -1,5 +1,6 @@
 # 共总
-kon6(dt,rg:gon5) zon3
+kon6 zon3
+dt,rg:gon5 zon3
 + 一共；合计；总共。
   * 如皋方言词典
   * 东台方言词典

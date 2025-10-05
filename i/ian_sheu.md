@@ -1,5 +1,6 @@
 # 阳寿
-ian2 sheu6(txe:0)
+ian2 sheu6
+txe:ian2 sheu
 + 寿数
   * 如东方言词典
     - 赵洪发～长，快九十五岁啊，身体还蛮硬朗的。

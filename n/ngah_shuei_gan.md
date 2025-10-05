@@ -1,5 +1,7 @@
 # 恶水缸
-ngah7 shuei3(tx:xy3;txe:0) gan1
+ngah7 shuei3 gan1
+tx:ngah7 xy3 gan1
+txe:ngah7 shuei gan1
 + 装泔水的缸。
   * 东台方言词典
   * 泰兴方言辞典

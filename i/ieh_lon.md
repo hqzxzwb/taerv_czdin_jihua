@@ -1,5 +1,6 @@
 # 一弄
-ieh7 lon6(rg:non6)
+ieh7 lon6
+rg:ieh7 non6
 + 动不动
   * 如皋方言词典
   - 这几天心绪不宁，～就睡不着

@@ -1,5 +1,7 @@
 # 狐臊
-hv2(txe:v2) so1(xh:0)
+hv2 so1
+txe:v2 so1
+xh:hv2 so
 + 狐臭味。
   * 东台方言词典
   * 泰州方言词典2

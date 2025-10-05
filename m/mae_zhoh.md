@@ -1,5 +1,6 @@
 # 买嘱
-mae3 zhoh7(xh,tx:0)
+mae3 zhoh7
+xh,txe:mae3 zhoh
 + 用钱财收买人
   * 兴化方言词典
     - 他～人做假证。

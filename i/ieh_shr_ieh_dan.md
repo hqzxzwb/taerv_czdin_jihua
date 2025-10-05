@@ -1,5 +1,6 @@
 # 一事一当
-ieh7 shr6(txe:0) ieh7 dan5
+ieh7 shr6 ieh7 dan5
+txe:ieh7 shr ieh7 dan5
 + 一门心思、不急不忙
   * 东台方言词典
     - 外头落雨，你就～地下两盘棋。

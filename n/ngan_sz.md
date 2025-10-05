@@ -1,5 +1,6 @@
 # 䱀䲉
-ngan1 sz1(rg:0)
+ngan1 sz1
+rg:ngan1 sz
 + 黄颡鱼。又音 ngan1 cz1/3。
   * 如皋方言词典
     + 喻小孩胡闹蛮吵的样子。

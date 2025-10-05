@@ -1,5 +1,6 @@
 # 脚鱼
-jiah7 y2(txe:0)
+jiah7 y2
+txe:jiah7 y
 + 鳖。
   * 如皋方言词典
   * 兴化方言词典

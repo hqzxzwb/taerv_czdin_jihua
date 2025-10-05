@@ -1,5 +1,6 @@
 # 软熟
-run3 shoh8(xh,txe:0)
+run3 shoh8
+xh,txe:run3 shoh
 + 柔软（性情、食品、织物等）
   * 兴化方言词典
     - 新棉花胎～

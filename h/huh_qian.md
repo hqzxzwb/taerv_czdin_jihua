@@ -1,5 +1,6 @@
 # 活像
-huh8(rg:uh8) qian6
+huh8 qian6
+rg:uh8 qian6
 + 极像；酷似。
   * 东台方言词典
   * 泰州方言词典2

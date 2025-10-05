@@ -1,5 +1,6 @@
 # 将将
-jian1 jian1(tx:0)
+jian1 jian1
+txe:jian1 jian
 + 刚刚，适才
 + 正好
 + 正好

@@ -1,5 +1,6 @@
 # 口声
-keu3 shen1(xh:0)
+keu3 shen1
+xh:keu3 shen
 + 言语、态度
   * 东台方言词典
     - 他家子女对上人的～好。

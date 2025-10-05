@@ -1,5 +1,6 @@
 # 獃派
-ngae2(rd:1) pae5
+ngae2 pae5
+rd:ngae1 pae5
 + 理应、必定
   * 兴化方言词典
     - 苦事～我去，旁人去不得咖？

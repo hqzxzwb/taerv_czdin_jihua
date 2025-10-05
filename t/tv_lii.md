@@ -1,5 +1,6 @@
 # 肚里
-tv6 lii(tx:dii)
+tv6 lii
+tx:tv6 dii
 + 里面
 + 腹中
   * 兴化方言词典

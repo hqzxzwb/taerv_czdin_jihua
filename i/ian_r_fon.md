@@ -1,5 +1,6 @@
 # 羊儿疯/风
-ian2(txe:ia2) r fon1
+ian2 r fon1
+txe:ia2 r fon1
 + 癫痫。
   * 如皋方言词典
   * 如东方言词典

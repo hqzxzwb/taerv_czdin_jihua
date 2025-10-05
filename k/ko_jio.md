@@ -1,5 +1,6 @@
 # 考较
-ko3 jio5(tx,txe:0)
+ko3 jio5
+tx,txe:ko3 jio
 + 考究、讲究。
   * 如东方言词典
     - 他穿衣服是蛮～的。

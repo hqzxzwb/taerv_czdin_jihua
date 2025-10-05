@@ -1,4 +1,5 @@
 # 时辰八字
-shr2 chen2(txe:shen2) baeh7 cz
+shr2 chen2 baeh7 cz
+txe:shr2 shen2 baeh7 cz
 + 指人出生的年、月、日、时。星命家称之四柱，各配以天干地支而成八个字，故称“八字”，据以推算人的命运。
   * 泰兴方言辞典

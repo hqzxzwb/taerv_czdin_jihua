@@ -1,5 +1,6 @@
 # 讹错
-ngu2 cu5(rg,tx,txe:0)
+ngu2 cu5
+rg,tx,txe:ngu2 cu
 + 相差
   * 如皋方言词典
     - 学与不学～得多唻。

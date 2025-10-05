@@ -1,5 +1,6 @@
 # 活技
-huh8(rg,txe:uh8) qi
+huh8 qi
+rg,txe:uh8 qi
 + 活计，活儿
   * 泰州方言词典2
   - 帮家里做～。

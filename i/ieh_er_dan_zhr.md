@@ -1,5 +1,6 @@
 # 一而当之
-ieh7 er(dt:2) dan5 zhr1
+ieh7 er dan5 zhr1
+dt:ieh7 er2 dan5 zhr1
 + 稳妥
   * 泰县方言志
   - 他做事～的。

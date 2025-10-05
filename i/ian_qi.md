@@ -1,5 +1,6 @@
 # 洋气
-ian2 qi5(xh,txe:0)
+ian2 qi5
+xh,txe:ian2 qi
 + 时髦，新潮
   * 如东方言词典
     - 这身衣裳十分～。

@@ -4,7 +4,8 @@ kaeh7
 - 用于“指甲”（读若“执掐”）。
 
 # 轧
-kaeh8(xh:gaeh7)
+kaeh8
+xh:gaeh7
 + 给谷物脱壳
     - ～稻
     - ～米

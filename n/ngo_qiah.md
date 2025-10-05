@@ -1,5 +1,6 @@
 # 咬嚼
-ngo3 qiah(dt,xh:8)
+ngo3 qiah
+dt,xh:ngo3 qiah8
 + 食物硬或韧，耐嚼或难嚼的性质
   * 如东方言词典
     - 糯米糕有～。

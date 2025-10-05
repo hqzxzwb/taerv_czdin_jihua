@@ -1,5 +1,6 @@
 # 一䟳一滑
-ieh7 chr1 ieh7 huaeh8(txe:vaeh8)
+ieh7 chr1 ieh7 huaeh8
+txe:ieh7 chr1 ieh7 vaeh8
 + 走一步滑一步，常用于泥泞路面上艰难行走的样子
   * 如东方言词典
     - 刚刚落咖雨，泥路上～的，不好跑。

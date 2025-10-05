@@ -1,5 +1,6 @@
 # 茴香
-huei2(tz:kuei2) xian1
+huei2 xian1
+tz:kuei2 xian1
 + 茴香，一种植物，可作香料
   * 如东方言词典
     + 伞形科植物，多年生草本，有强烈香气。

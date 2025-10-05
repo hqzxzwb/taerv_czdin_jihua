@@ -3,7 +3,8 @@ la3 gu5/gu5-3
 - 谁
 
 # 哪个
-la3 gu5(tx,txe:0)
+la3 gu5
+tx,txe:la3 gu
 + 哪一个；谁
   * 如皋方言词典
   * 如东方言词典

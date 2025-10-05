@@ -6,7 +6,8 @@ shr2 chen/shen
   - 多大～/多长时间
 
 # 时辰
-shr2 chen2(txe:shen2)
+shr2 chen2
+txe:shr2 shen2
 + 计时单位。
   * 如东方言词典
   * 泰州方言词典3

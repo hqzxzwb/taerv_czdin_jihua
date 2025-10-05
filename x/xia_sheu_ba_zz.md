@@ -1,5 +1,7 @@
 # 下手把子
-xia6(tx:5) sheu3(xh:0) ba3 zz
+xia6 sheu3 ba3 zz
+tx:xia5 sheu3 ba3 zz
+xh:xia6 sheu ba3 zz
 + 助手，做辅助性工作的人
   * 东台方言词典
   * 兴化方言词典

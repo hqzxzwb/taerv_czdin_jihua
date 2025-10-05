@@ -1,5 +1,6 @@
 # 省俭
-shen3 jin3(rg:0)
+shen3 jin3
+rg:shen3 jin
 + 节省、俭朴
   * 如皋方言词典
     - 他过日子～。

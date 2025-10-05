@@ -1,5 +1,6 @@
 # 一门腔
-ieh7 men2(rg,xh,txe:0) qian1
+ieh7 men2 qian1
+rg,xh,txe:ieh7 men qian1
 + 单一
   * 如皋方言词典
     - 你不要～的做学问，也要管管儿女的事。

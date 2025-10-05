@@ -1,5 +1,7 @@
 # 拚死吃河豚
-pun1 sz3 qieh7 hu2 ten2(rg:den1)
+pun1 sz3 qieh7 hu2 ten2
+tx,xh:paen6 sz3 qieh7 hu2 ten2
+rg,txe:pun1 sz3 qieh7 hu2 den1
 + 为获得收益，甘冒风险
   * 东台方言词典
     + 冒着风险追求享受。

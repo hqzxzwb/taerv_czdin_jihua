@@ -1,5 +1,6 @@
 # 辖住
-xiaeh8(tz:7) chv
+xiaeh8 chv
+tz:xiaeh7 chv
 + 倚仗权势或者抓住他人弱点强迫他人做某事
   * 泰州方言词典3
   + （泰州词典作挟）

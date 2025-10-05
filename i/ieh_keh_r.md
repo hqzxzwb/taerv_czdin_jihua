@@ -6,7 +6,8 @@ ieh7 keh r
     - 过～就来。
 
 # 一刻儿
-ieh7 keh7(dt:ka5) r
+ieh7 keh7 r
+dt:ieh7 ka5 r
 + 一会儿。
   * 东台方言词典
   * 泰州方言词典4

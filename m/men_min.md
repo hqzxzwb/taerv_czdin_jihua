@@ -4,7 +4,8 @@ men2 min6/min
 - 布幅的宽度。
 
 # 门面
-men2 min6(tx,rg,xh:0)
+men2 min6
+tx,rg,xh:men2 min
 + 店面
   * 如皋方言词典
 + 商店房屋沿街的部分

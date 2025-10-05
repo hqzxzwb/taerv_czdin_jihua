@@ -1,5 +1,6 @@
 # 活说
-huh8(txe:uh8) shuh7(txe:0)
+huh8 shuh7
+txe:uh8 shuh
 + 说得天花乱坠
   * 如东方言词典
     + 演讲口才富于煽动性，能够鼓动大家的情绪。

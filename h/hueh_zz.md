@@ -5,7 +5,8 @@ hueh8/veh8 zz
 - 肌肤里的瘤块。
 
 # 𣝗子
-hueh8(xh:7) zz
+hueh8 zz
+xh:hueh7 zz
 + 果核
   * 如皋方言词典
     - 桃～、杏～。

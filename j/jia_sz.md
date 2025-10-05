@@ -1,5 +1,6 @@
 # 家私
-jia1 sz1(txe,xh:0)
+jia1 sz1
+txe,xh:jia1 sz
 + 家庭财产。
   * 如东方言词典
     - 这是他苦起来的～。

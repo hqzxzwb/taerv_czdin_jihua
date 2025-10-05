@@ -1,5 +1,6 @@
 # 样范
-ian6 faen6(rg:0)
+ian6 faen6
+rg:ian6 faen
 + 榜样，样子。
   * 如东方言词典
     - 这双鞋子的～好。

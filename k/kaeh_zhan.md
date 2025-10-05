@@ -5,7 +5,8 @@ kaeh8 zhan1
   - 这个问题是～。
 
 # 轧账
-kaeh8(xh:gaeh7) zhan5
+kaeh8 zhan5
+xh,dt:gaeh7 zhan5
 + 算账，对账。
   * 如东方言词典
 + 从账中删除。

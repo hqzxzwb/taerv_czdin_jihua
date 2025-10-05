@@ -1,5 +1,7 @@
 # 姨丈
-i2 chan6(rd,tz:0;tx:3)
+i2 chan6
+rd,tz:i2 chan
+tx:i2 chan3
 + 姨娘的丈夫。
   * 如东方言词典
   * 泰县方言志

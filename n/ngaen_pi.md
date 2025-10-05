@@ -4,7 +4,8 @@ ngaen3 pi2
 - 眼睑。
 
 # 䶠屁
-ngaen2(tx:iaen2) pi5
+ngaen2 pi5
+tx:iaen2 pi5
 + 詈语，随便乱说
   * 泰县方言志
   - 你不要～，哪个说的我不会打球？

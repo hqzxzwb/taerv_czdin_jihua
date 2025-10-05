@@ -1,5 +1,6 @@
 # 书房
-shv1 fan2(txe:0)
+shv1 fan2
+txe:shv1 fan
 + 学校
 + 大户人家看书写字的地方。
   * 如东方言词典

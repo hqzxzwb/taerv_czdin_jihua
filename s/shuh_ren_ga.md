@@ -5,6 +5,7 @@ shuh7 ren2 ga
   - 他家丫头不小唻，还不曾有人同她～。
 
 # 说人家
-shuh7 ren2(txe:ran2) ga1
+shuh7 ren2 ga1
+txe:shuh7 ran2 ga1
 + 说亲；找婆家。
   * 泰兴方言辞典

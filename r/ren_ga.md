@@ -1,5 +1,6 @@
 # 人家
-ren2(txe:ran2) ga(txe:1)
+ren2 ga
+txe:ran2 ga1
 + 别人、别人家
   * 如皋方言词典
   * 如东方言词典

@@ -1,5 +1,6 @@
 # 炮仗
-po5 zhan5(tx:3)
+po5 zhan5
+tx:po5 zhan3
 + 爆竹
   * 东台方言词典
   * 泰县方言志

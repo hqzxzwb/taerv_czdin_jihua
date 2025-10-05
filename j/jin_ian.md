@@ -1,5 +1,6 @@
 # 见样
-jin5(txe:jih7) ian6(txe:ian)
+jin5 ian6
+txe:jih7 ian
 + 每一样
   * 兴化方言词典
     - 你店里的糕点我～买一斤。

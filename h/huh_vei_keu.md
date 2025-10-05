@@ -1,5 +1,6 @@
 # 合胃口
-huh8 vei5(rd:6) keu3
+huh8 vei5 keu3
+rd:huh8 vei6 keu3
 + 菜肴的风味符合自己的口味。比喻符合要求。
   * 如东方言词典
     - 这种菜，～。

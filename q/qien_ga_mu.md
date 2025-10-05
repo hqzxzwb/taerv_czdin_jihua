@@ -1,5 +1,6 @@
 # 亲家母
-qien5 ga mu3(tz,txe:0)
+qien5 ga mu3
+tz,txe:qien5 ga mu
 + 称儿子的岳母或女儿的婆婆。
   * 如东方言词典
   * 东台方言词典

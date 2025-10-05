@@ -1,5 +1,6 @@
 # 大蒜
-tae6 sun5(txe:0)
+tae6 sun5
+txe:tae6 sun
 + 大蒜。
   * 泰县方言志
   * 泰兴

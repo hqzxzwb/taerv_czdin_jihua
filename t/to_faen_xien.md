@@ -1,5 +1,6 @@
 # 讨饭形
-to3 faen6(txe:0) xien2
+to3 faen6 xien2
+txe:to3 faen xien2
 + 衣衫褴褛、边幅不修的形象。
   * 如东方言词典
 + 形容人衣衫槛楼、手脸污脏的样子

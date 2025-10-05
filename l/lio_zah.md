@@ -1,5 +1,6 @@
 # 料作
-lio6 zah(tz:zan)
+lio6 zah
+tz:lio6 zan
 + 材料
   * 兴化方言词典
   - 你要我替你打家具，自己把～拿过来。

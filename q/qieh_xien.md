@@ -1,5 +1,6 @@
 # 吃心
-qieh7 xien(dt,tz:1)
+qieh7 xien
+dt,tz:qieh7 xien1
 + 欲望
   * 如皋方言词典
     - 你才学咖挑担的，～不能大，一次少挑点儿。
