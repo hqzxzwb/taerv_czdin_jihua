@@ -1,5 +1,6 @@
 # 宣缸
-xiun1(txe:xin1) gan1
+xiun1 gan1
+txe:xin1 gan1
 + 大缸
   * 兴化方言词典
     + 一种上釉的大缸

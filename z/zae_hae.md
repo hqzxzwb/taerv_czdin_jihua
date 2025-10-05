@@ -1,5 +1,6 @@
 # 栽害
-zae1 hae6(tx:0)
+zae1 hae6
+tx:zae1 hae
 + 诬陷、诬告、陷害
   * 泰县方言志
   * 如东方言词典

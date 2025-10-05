@@ -4,7 +4,8 @@ zah7 lio6
 - 浪费。
 
 # 作料
-zah7 lio(rd:6)
+zah7 lio
+rd:zah7 lio6
 + 调味品、调味材料。
   * 如皋方言词典
   * 泰县方言志

@@ -1,5 +1,6 @@
 # 现世
-xin6(tx:5) shr5
+xin6 shr5
+tx,dt:xin5 shr5
 + 出丑，丢脸。
   * 如东方言词典
     - 你不要在外头～。

@@ -1,5 +1,6 @@
 # 迂而赘
-y1(txe:2) er2 zhuei5
+y1 er2 zhuei5
+txe:y2 er2 zhuei5
 + 古板执拗的脾气。
   * 如皋方言词典
 + 不仅迂腐，而且说话啰唆，贬义。

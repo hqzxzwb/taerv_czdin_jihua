@@ -1,5 +1,7 @@
 # 劗肉
-zaen1 roh8(txe,rg:0;xh:leu5)
+zaen1 roh8
+txe,rg:zaen1 roh
+xh:zaen1 leu5
 + 肉圆
   * 如东方言词典
   * 兴化方言词典
@@ -10,7 +12,8 @@ zaen1 roh8(txe,rg:0;xh:leu5)
   * 泰兴方言辞典
 
 # 劗肉
-zaen1 roh8(xh:leu5)
+zaen1 roh8
+xh:zaen1 leu5
 + 将肉剁碎。
   * 如东方言词典
   * 兴化方言词典

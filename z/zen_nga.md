@@ -1,5 +1,6 @@
 # 怎吖
-zen3(txe:zan3) nga
+zen3 nga
+txe:zan3 nga
 + 怎么、怎么样
   * 如皋方言词典
     + 合音为zan3，za3

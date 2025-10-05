@@ -1,5 +1,6 @@
 # 粽箬
-zon5 rah8(txe:0)
+zon5 rah8
+txe:zon5 rah
 + 粽叶
   * 东台方言词典
   * 兴化方言词典
