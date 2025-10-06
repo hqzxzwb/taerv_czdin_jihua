@@ -246,7 +246,7 @@
 1. 【[家眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jiun.md#家眷)】`jia1 jiun5` <sup>[如东]</sup> ① 妻子。 ② 父母、妻子、儿女。  
 1. 【[家具](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jy.md#家具)】`jia1 jy5` <sup>[如东]</sup> 家庭用具，主要指木器。  
 1. 【[家口重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_keu_chon.md#家口重)】`jia1 keu3 chon6` <sup>[如皋]</sup> 家中人多，靠他生活，负担重。  
-1. 【[家宽出少年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_kun_chueh_sho.md#家宽出少年)】`jia1 kun1 chueh7 sho5 nin` <small>/t͡ɕiɑ1 kʰʊ̃1 t͡sʰuəʔ7 sɔ5 nĩ/<sup>泰兴</sup></small> 谓家庭宽裕，人心情舒畅，就显得年轻。<sup>\[泰兴\]</sup>  
+1. 【[家宽出少年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_kun_chueh_sho.md#家宽出少年)】`jia1 kun1 chueh7 sho5 nin` <small>/t͡ɕiɑ1 kʰʊ̃1 t͡sʰuəʔ7 sɔ5 nĩ1/<sup>泰兴</sup></small> 谓家庭宽裕，人心情舒畅，就显得年轻。<sup>\[泰兴\]</sup>  
 1. 【[家录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_loh.md#家录)】`jia1 loh8` <sup>[如东]</sup> ① 家法。 ② 受责罚：要吃～。  
 1. 【[家艾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ngae.md#家艾)】`jia1 ngae6` <sup>[如东]</sup> 艾的一种，叶片较大，有香气。  
 1. 【[家破人亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pu_ren_van.md#家破人亡)】`jia1 pu5 ren2 van2` <sup>[如东]</sup> 家庭破产，人员死亡，形容非常悲惨。  
@@ -343,7 +343,7 @@
 1. 【[借借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia_shr.md#借借势)】`jia5 jia5 shr5` <small>/t͡ɕiɑ5 t͡ɕiɑ5 sɿ5/<sup>泰兴</sup></small> 借助别人的优势。客套语。<sup>\[泰兴\]</sup>  
 1. 【[借钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qin.md#借钱)】`jia5 qin2` <sup>[如东]</sup> 借取不要支付利息的资金。  
 1. 【[借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#借势)】`jia5 shr` <sup>[泰州]</sup> ① （泰州词典作架势） ② 借助他人、他物支撑自己声势：请你局长过来吃酒是假的，教你过来～是真的。 ③ 泛指在人急需帮助时给予帮助：天落雨，好在小红的车子～，把我俫送家来的。  
-1. 【[借屎遁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr_den.md#借屎遁)】`jia5 shr3 den5` <small>/t͡ɕia5 sɿ3 tən5/<sup>兴化</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>如皋</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>泰县</sup></small> ① 借口去大便而逃避<sup>\[如皋\]</sup>：他～溜掉啊。<sup>\[如皋\]</sup> ② 以如厕为由头离开现场。此说法源于《封神演义》中土行孙“借土遁”的神话，日常谓“借x遁”是一种诙谐的说法。(原文作“驾”，《封神演义》实际作“借”)<sup>\[兴化\]</sup> ③ 以上厕所为名开小差<sup>\[泰县\]</sup>：他又～，逃避劳动。<sup>\[泰县\]</sup> ④ 以上厕所为借口逃离现场<sup>\[泰州\]</sup>：他是个尖屁股，每次一开会，他就～溜掉啊唻。<sup>\[泰州\]</sup>  
+1. 【[借屎遁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr_den.md#借屎遁)】`jia5 shr3 den5` <small>/t͡ɕia5 sɿ3 tən5/<sup>兴化</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>如皋</sup>, /t͡ɕia5 sɿ3 təŋ5/<sup>泰县</sup></small> ① 借口去大便而逃避<sup>\[如皋\]</sup>：他～溜掉啊。<sup>\[如皋\]</sup> ② 以如厕为由头离开现场。此说法源于《封神演义》中土行孙“借土遁”的神话，日常谓“借x遁”是一种诙谐的说法。<sup>\[兴化\]</sup> ③ 以上厕所为名开小差<sup>\[泰县\]</sup>：他又～，逃避劳动。<sup>\[泰县\]</sup> ④ 以上厕所为借口逃离现场<sup>\[泰州\]</sup>：他是个尖屁股，每次一开会，他就～溜掉啊唻。<sup>\[泰州\]</sup>  
 1. 【[借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shr.md#借势)】`jia5 shr5` <small>/t͡ɕia5 sɿ5/<sup>兴化</sup>, /t͡ɕia5 sɿ5/<sup>泰县</sup></small> ① 借用别人的权势。<sup>\[如东\]</sup>：～欺人。<sup>\[如东\]</sup> ② 请人顺便帮忙。<sup>\[如东\]</sup>：～做起来。<sup>\[如东\]</sup> ③ 倚仗权势<sup>\[兴化\]</sup>：你这吖蛮不讲理，借的甚的势啊？<sup>\[兴化\]</sup> ④ 客套话，相当“借光”<sup>\[兴化\]</sup>：对不起，请你借个势。<sup>\[兴化\]</sup>｜“好的，难为你，伙家，真～。”（《皮五辣子》三）<sup>\[兴化\]</sup> ⑤ 帮忙：这件事你要替我～。<sup>\[泰县\]</sup>  
 1. 【[借债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhae.md#借债)】`jia5 zhae5` <sup>[如东]</sup> 借取需要支付利息的资金。  
 1. 【[借中借](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhon_jia.md#借中借)】`jia5 zhon1 jia1` <sup>[泰州]</sup> 甲向乙借的钱是乙向丙借来的钱：老李这回子住院，全靠朋友帮忙，大家～，才把个住院的钱凑啊齐啊。  
@@ -525,7 +525,7 @@
 1. 【[将后去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_heu_qy.md#将后去)】`jian1 heu6 qy5` <sup>[如皋]</sup> 将来，以后。  
 1. 【[将好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ho.md#将好)】`jian1 ho3` <small>/t͡ɕiaŋ1 xɔ3/<sup>兴化</sup></small> ① 正好，恰好。<sup>\[兴化\]</sup> ② 恰好<sup>\[泰州\]</sup>：这块布料～同你做一身西装。<sup>\[泰州\]</sup>  
 1. 【[将养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ian.md#将养)】`jian1 ian3` <sup>[如皋]</sup> 调理休养。  
-1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1` <small>/t͡ɕiã1 t͡ɕiã1/<sup>如皋</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ1/<sup>泰兴</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ/<sup>泰县</sup></small> ① 刚刚，适才 ② 正好 ③ 正好<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[如皋：又音 jian1 jian2\]：～合适<sup>\[如东\]</sup>｜他～在这许，你俫好好谈谈。<sup>\[泰县\]</sup>｜我到家的刻儿，她～把饭煮啊好啊。<sup>\[如皋\]</sup> ④ 刚才<sup>\[泰兴\]</sup>  
+1. 【[将将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian.md#将将)】`jian1 jian1` <small>/t͡ɕiã1 t͡ɕiã1/<sup>如皋</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ/<sup>泰兴</sup>, /t͡ɕiɑŋ1 t͡ɕiɑŋ1/<sup>泰县</sup></small> ① 刚刚，适才 ② 正好 ③ 正好<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[如皋：又音 jian1 jian2\]：～合适<sup>\[如东\]</sup>｜他～在这许，你俫好好谈谈。<sup>\[泰县\]</sup>｜我到家的刻儿，她～把饭煮啊好啊。<sup>\[如皋\]</sup> ④ 刚才<sup>\[泰兴\]</sup>  
 1. 【[将将好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jian_ho.md#将将好)】`jian1 jian1 ho3` <sup>[东台]</sup> 正巧，刚好。  
 1. 【[将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen.md#将军)】`jian1 jyen1` <small>/t͡ɕiɑŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① 比喻给人出难题<sup>\[东台\]</sup>：质检员叫他当场调试产品，将吖他一军。<sup>\[东台\]</sup> ② 军衔名称。 ③ 象棋术语。比喻给人下马威。<sup>\[泰兴\]</sup>  
 1. 【[将军柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_jyen_chv.md#将军柱)】`jian1 jyen1 chv6` <sup>[兴化]</sup> ① 堂前两侧的大柱。 ② （喻）颈椎骨：他捱人一拳打啊～上，当下就瘫下来啊。  
@@ -969,7 +969,7 @@
 1. 【[紧旺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_van.md#紧旺)】`jien3 van5` <sup>[东台]</sup> 指某件事正处于紧张、兴旺阶段：六月初～收麦｜腊月底各家～忙年事，少去打扰吧。  
 1. 【[紧扎扎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhaeh_zhaeh_dii.md#紧扎扎的)】`jien3 zhaeh7 zhaeh7 dii` <sup>[如皋]</sup> 状充满而稍挤：新鞋子上脚～，不能走远路。  
 1. 【[警车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_cha.md#警车)】`jien3 cha1` <sup>[如东]</sup> 担负警察任务的车辆。  
-1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` <small>/t͡ɕiŋ3 kʰɑŋ1/<sup>泰县</sup></small> 脖子<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：外头西北风大，你出去的话，～里要围条围巾。<sup>\[泰州\]</sup>  
+1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han` <small>/t͡ɕiŋ3 xɑŋ/<sup>泰兴</sup>, /t͡ɕiŋ3 kʰɑŋ1/<sup>泰县</sup></small> 脖子<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：外头西北风大，你出去的话，～里要围条围巾。<sup>\[泰州\]</sup>  
 1. 【[颈项脖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han_peh_zz.md#颈项脖子)】`jien3 han peh8 zz` <sup>[兴化]</sup> 脖子：看飞机空中表演，倒把～仰痠吖。  
 1. 【[颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_han.md#颈项)】`jien3 han6` <sup>[如东]</sup> 人的头与肩之间连接的部分组织。亦称脖子。  
 1. 【[劲/劤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#劲/劤)】`jien5` <sup>[泰州]</sup> 力气。（劤【唐韻】【集韻】𠀤居焮切，斤去聲。【埤蒼】多力也。）：这小伙有～，挑这点ㄦ东西部买账。｜这一刻ㄦ身上没得～。  
@@ -1560,7 +1560,7 @@
 1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` <sup>[东台]</sup> 晕倒；失去知觉：～过去啊。  
 1. 【[厥/瘚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥/瘚)】`jiuh7` <sup>[泰州]</sup> 哭泣过度而至昏迷抽搐状态：她哭咖～过去啊，嘴里白沫直翻。｜这细小伙性子躁，一哭就～过去啊唻。  
 1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[兴化]</sup> 翘起：～嘴｜秤杆～得老高。《广韵·月韵》居月切“～，～拨物也”。  
-1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <small>/t͡ɕyuʔ7/<sup>兴化</sup>, /t͡ɕyʊʔ7/<sup>泰县</sup></small> 折断（*𢴭/㔢/撅）<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～断一只筷子。<sup>\[东台\]</sup>｜把筷子～断<sup>\[兴化\]</sup>｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。<sup>\[兴化\]</sup>｜他把竹子～咖。<sup>\[泰县\]</sup>｜他把筷子～咖断吖。<sup>\[泰州\]</sup>｜你～咖根树枝啊。<sup>\[泰州\]</sup>  
+1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <small>/t͡ɕyuʔ7/<sup>兴化</sup>, /t͡ɕyʊʔ7/<sup>泰兴</sup>, /t͡ɕyʊʔ7/<sup>泰县</sup></small> 折断（*𢴭/㔢/撅）<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～断一只筷子。<sup>\[东台\]</sup>｜把筷子～断<sup>\[兴化\]</sup>｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。<sup>\[兴化\]</sup>｜他把竹子～咖。<sup>\[泰县\]</sup>｜他把筷子～咖断吖。<sup>\[泰州\]</sup>｜你～咖根树枝啊。<sup>\[泰州\]</sup>  
 1. 【[撧咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_ga_tun_nga.md#撧咖断吖)】`jiuh7 ga tun6 nga` <sup>[如皋]</sup> 扳折：树棒儿捱～。  
 1. 【[橛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#橛)】`jiuh7` <sup>[兴化]</sup> ① 硬挺：硬～～的。 ② 硬的块子：狗屎～子。《集韵·月韵》居月切“～，弋也”（弋ieh8，木桩）  
 1. 【[橛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_zz.md#橛子)】`jiuh7 zz` <sup>[泰县]</sup> 小团团：屎～。  
@@ -1698,8 +1698,7 @@
 1. 【[锯倒树捉老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_do_shv_zhuah.md#锯倒树捉老鸦)】`jy5 do3 shv6 zhuah7 lo3 nga1` <sup>[如皋]</sup> 偏执于固定思维，不会实事求是。  
 1. 【[锯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_keu.md#锯口)】`jy5 keu3` <small>/t͡ɕy5 kʰei3/<sup>如皋</sup></small> ① 锯齿处。<sup>\[如东\]</sup> ② 下锯的部位。<sup>\[如东\]</sup> ③ 锯下来的脚料。<sup>\[如皋\]</sup>  
 1. 【[锯木屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh_xiuh_r.md#锯木屑<sub>儿</sub>)】`jy5 moh8 xiuh7 r` <sup>[如皋]</sup> 比喻初学拉胡琴，声音嘶哑难听。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian` <sup>[泰州]</sup> 以拉锯解析木头为职业的工匠：现在的木料全部用电锯，～望不到唻。  
-1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <small>/t͡ɕy5 t͡ɕʰiaŋ6/<sup>兴化</sup>, /t͡ɕy5 t͡ɕʰiã/<sup>如皋</sup></small> 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
+1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <small>/t͡ɕy5 t͡ɕʰiaŋ6/<sup>兴化</sup>, /t͡ɕy5 t͡ɕʰiã/<sup>如皋</sup></small> ① 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup> ② 以拉锯解析木头为职业的工匠<sup>\[泰州\]</sup>：现在的木料全部用电锯，～望不到唻。<sup>\[泰州\]</sup>  
 1. 【[锯屑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_xiuh.md#锯屑)】`jy5 xiuh7` <sup>[兴化]</sup> 锯竹、木等掉的细末。  
 1. 【[锯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_zz.md#锯子)】`jy5 zz` <sup>[如东]</sup> 工具。长条形，金属制，一边有齿。用以切割木材、钢材等材料。  
 1. 【[举的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dii.md#举的)】`jy9 dii` 全部  

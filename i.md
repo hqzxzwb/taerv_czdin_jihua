@@ -774,7 +774,7 @@
 1. 【[一个芦䉬，一个赤地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_lv_fei.md#一个芦䉬，一个赤地)】`ieh7 gu lv2 fei5 ieh7 gu cheh7 ti6` <sup>[东台]</sup> 双方水平都低，不相上下。  
 1. 【[一个拿刀，一个拿盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_na_do.md#一个拿刀，一个拿盆)】`ieh7 gu na2 do1 ieh7 gu na2 pen2` <sup>[东台]</sup> 喻意相互配合，齐下狠心。  
 1. 【[一个奶头上吊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_nae_teu.md#一个奶头上吊的)】`ieh7 gu nae3 teu shan dio5 dii` <sup>[泰兴]</sup> 谓同胞的兄弟姐妹。  
-1. 【[一个鼻孔出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_pieh_kon.md#一个鼻孔出气)】`ieh7 gu pieh8 kon chueh7 qi` <sup>[泰兴]</sup> 喻指二人或二人以上同一个观点，同一种说法，相互包庇、袒护。多作贬义用：那晁住媳妇就是合珍哥～，也没有这等心意相投。(《醒世姻缘传》第6回)  
+1. 【[一个鼻孔出气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_pieh_kon.md#一个鼻孔出气)】`ieh7 gu pieh8 kon chueh7 qi` <sup>[泰兴]</sup> 喻指二人或二人以上同一个观点，同一种说法，相互包庇、袒护。多作贬义用：那晁住媳妇就是合珍哥～，也没有这等心意相投。（《醒世姻缘传》第6回）  
 1. 【[一个钱当两个用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_qin_dan.md#一个钱当两个用)】`ieh7 gu qin2 dan5 laen3 gu ion6` <sup>[泰兴]</sup> 指十分爱惜钱财，不肯浪费。  
 1. 【[一个蛆子坏缸酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_qy_zz.md#一个蛆子坏缸酱)】`ieh7 gu qy1 zz huae6 gan1 jian5` <sup>[东台]</sup> ［喻］指一个家庭或一个部门出了一个坏人坏事，就能把整个集体的声誉毁坏。  
 1. 【[一个烧香一个拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_gu_sho_xian.md#一个烧香一个拜)】`ieh7 gu sho1 xian ieh7 gu bae5` <sup>[泰兴]</sup> 喻指不同时致力于本应两个人办的事情，而只是一个人干，另一个人袖手旁观。乡人有“个说个看，抵到个半”的戏谑之语。  
@@ -853,7 +853,7 @@
 1. 【[一口吞棒冰——凉透啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_ten_pan.md#一口吞棒冰——凉透啊心)】`ieh7 keu3 ten1 pan6 bien1 lian2 teu5 a xien1` <sup>[东台]</sup>   
 1. 【[一口头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_keu_teu.md#一口头)】`ieh7 keu3 teu2` <sup>[泰州]</sup> 强调一口：他把半斤酒～喝咖去啊。  
 1. 【[一敲一答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_ko_ieh_daeh.md#一敲一答)】`ieh7 ko1 ieh7 daeh7` ① 一唱一和，相互配合。（贬）<sup>\[东台\]</sup> ② 二人配合起来一问一答，指桑骂槐攻击他人或者影射他事<sup>\[泰州\]</sup>：早上一上班，老周同小王这两个家伙就在办公室里～，有一句、没一句的，把主任听吖气啊跑外来啊。<sup>\[泰州\]</sup>  
-1. 【[一共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon.md#一共)】`ieh7 kon6` <small>/iəʔ7 kɔŋ5/<sup>如皋</sup></small> ① 总共<sup>\[如皋\]</sup> ② 除指合计外，东台人常指一直<sup>\[东台\]</sup>：这几天他～不曾来。<sup>\[东台\]</sup>  
+1. 【[一共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon.md#一共)】`ieh7 kon6` <small>/iəʔ7 kɔŋ5/<sup>如皋</sup>, /iʔ7 kʰɔŋ1/<sup>泰兴</sup></small> ① 总共<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 除指合计外，东台人常指一直<sup>\[东台\]</sup>：这几天他～不曾来。<sup>\[东台\]</sup>  
 1. 【[一共总<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kon_zon_r.md#一共总<sub>儿</sub>)】`ieh7 kon6-gon5 zon3 r` <sup>[如皋]</sup> 总计。  
 1. 【[一块馒头搭块糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kuae_mun_teu.md#一块馒头搭块糕)】`ieh7 kuae5 mun2 teu daeh7 kuae5 go1` <sup>[东台]</sup> ［喻］合作伙伴性格、能力诸方面好差搭配或优势互补。  
 1. 【[一块石头落咖地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_kuae_sheh_teu.md#一块石头落咖地)】`ieh7 kuae5 sheh8 teu lah8 ga ti6` <sup>[东台]</sup> ［喻］大局已定，心里踏实，可以放心的意思。  
@@ -940,7 +940,7 @@
 1. 【[一屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu.md#一屁股)】`ieh7 pi5 gu` <sup>[泰州]</sup> 整个屁股。  
 1. 【[一屁股八肋什](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_baeh.md#一屁股八肋什)】`ieh7 pi5 gu baeh7 leh8 sheh` <sup>[如皋]</sup> 喻面广量大：他的公司开啊折掉啊，亏啊～的债；老爹作涴，漓啊～。  
 1. 【[一屁股两肋食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_laen.md#一屁股两肋食)】`ieh7 pi5 gu laen3 leh8 sheh8` <sup>[兴化]</sup> 极言满身的（债务）：他这趟生意亏得精光，还空吖～的债。  
-1. 【[一屁股两肋心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_laen.md#一屁股两肋心)】`ieh7 pi5 gu laen3 leh8 xien` <sup>[泰兴]</sup> 喻浑身上下；也指数量很大：银子又用的精光，还剩了～的债。(《儒林外史》第54回)  
+1. 【[一屁股两肋心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_laen.md#一屁股两肋心)】`ieh7 pi5 gu laen3 leh8 xien` <sup>[泰兴]</sup> 喻浑身上下；也指数量很大：银子又用的精光，还剩了～的债。（《儒林外史》第54回）  
 1. 【[一屁股屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_shr.md#一屁股屎)】`ieh7 pi5 gu shr3` <sup>[泰州]</sup> 比喻惹下很多麻烦：前任厂长留啊～下来，新厂长一来就同前任厂长𢵧屁股。  
 1. 【[一屁股债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pi_gu_zhae.md#一屁股债)】`ieh7 pi5 gu zhae5` <sup>[东台]</sup> 形容债务多。  
 1. 【[一鼻子灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieh_pieh_zz_huei.md#一鼻子灰)】`ieh7 pieh8 zz huei1` <small>/iəʔ7 pʰiɪʔ8 t͡sɿ xuəi1/<sup>兴化</sup>, /iʔ7 pʰiʔ8 t͡sɿ xuəɪ1/<sup>泰兴</sup></small> ① 碰壁、难堪<sup>\[兴化\]</sup>：他为外甥去说情，满以为小事一桩，不想碰吖～。<sup>\[兴化\]</sup>｜赵姨娘来时，兴兴头头，谁知抹了～，满心生气，又不敢露出来。（《红楼梦》六七）<sup>\[兴化\]</sup> ② 非常难堪，很不顺心。<sup>\[泰兴\]</sup>  

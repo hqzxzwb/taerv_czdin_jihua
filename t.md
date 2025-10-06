@@ -12,7 +12,7 @@
 1. 【[他说三宣缸，我听不到两茶缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_shuh_saen_xiun.md#他说三宣缸，我听不到两茶缸)】`ta1 shuh7 saen1 xiun1 gan1 ngu3 tien5 beh7 do5 laen3 cha2 gan1` <small>/tʰɑ1 sʊʔ7 ɕiɛ̃1 ɕĩ1 kɑŋ1 ŋɤɯ3 tʰiŋ5 pəʔ7 tɔ5 lɛ̃3 t͡sʰɑ2 kɑŋ1/<sup>泰兴</sup></small> 谓我根本听不进他说的话。宣缸，民间家用的最大的缸，多用于装水、油、粮食等。<sup>\[泰兴\]</sup>  
 1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` <small>/tʰɛ1 piɔ1/<sup>兴化</sup></small> ① 胎儿刚出生时体重情况<sup>\[兴化\]</sup>：～足<sup>\[兴化\]</sup>｜～不足。<sup>\[兴化\]</sup> ② 胎儿初生时身体上的肥肉，多被视作母亲怀孕期间营养是否充足的标准<sup>\[泰州\]</sup>：这个小伙养下来就有九斤多重，～好得加思唻。<sup>\[泰州\]</sup>  
 1. 【[胎胞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bo.md#胎胞)】`tae1 bo1` <sup>[兴化]</sup> 胞衣。  
-1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup>, /tʰɛ1 xɛ/<sup>泰兴</sup></small> 好。多用否定或疑问式。<sup>\[泰兴\]</sup>\[如东：吉利，顺利等\]\[东台：有出息有本事守规矩等。\]\[如皋：有出息，还可指事物\]\[泰州：长进，上进，多指人在学问、技艺、品行某一方面有所进步\]：这什衣裳没款式，不～。<sup>\[如皋\]</sup>｜他俫这吖下去会不～的。<sup>\[如东\]</sup>｜这件事不～。<sup>\[如东\]</sup>｜伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>｜今年雨性不调直，田里长得不～<sup>\[泰兴\]</sup>  
+1. 【[胎谐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#胎谐)】`tae1 hae` <small>/tʰɛ1 xɛ/<sup>如皋</sup>, /tʰɛ1 xɛ2/<sup>泰兴</sup></small> 好。多用否定或疑问式。<sup>\[泰兴\]</sup>\[如东：吉利，顺利等\]\[东台：有出息有本事守规矩等。\]\[如皋：有出息，还可指事物\]\[泰州：长进，上进，多指人在学问、技艺、品行某一方面有所进步\]：这什衣裳没款式，不～。<sup>\[如皋\]</sup>｜他俫这吖下去会不～的。<sup>\[如东\]</sup>｜这件事不～。<sup>\[如东\]</sup>｜伢儿你要放吖～点儿，争取考个一百分。<sup>\[泰州\]</sup>｜这小伙不～，弄吖在家里偷他家老子的好香烟吃。<sup>\[泰州\]</sup>｜今年雨性不调直，田里长得不～<sup>\[泰兴\]</sup>  
 1. 【[胎货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hu_r.md#胎货<sub>儿</sub>)】`tae1 hu5 r` <sup>[如皋]</sup> 新生儿的身块、体重：～大，有8斤。  
 1. 【[胎记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#胎记)】`tae1 ji5` <small>/tʰɛ1 t͡ɕʝ5/<sup>泰兴</sup></small> 人一出生身上就有的痕迹。<sup>\[泰兴\]</sup>  
 1. 【[胎里带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lii_dae.md#胎里带)】`tae1 lii dae5` <small>/tʰɛ1 ləi tɛ5/<sup>兴化</sup></small> ① 先天性的（毛病）。<sup>\[东台\]</sup> ② 先天的，与生俱来的<sup>\[兴化\]</sup>：他脸上一块黑斑是～的。<sup>\[兴化\]</sup>｜……且他眉心中原有米粒大的一点胭脂㾵，从～来的。（《红楼梦》四）<sup>\[兴化\]</sup>  
@@ -50,7 +50,7 @@
 1. 【[抬杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gan_zz.md#抬杠子)】`tae2 gan5 zz` <sup>[东台]</sup> ［喻］争执，争高低。  
 1. 【[抬棺材拾到钱，哭的哭笑的笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_cae_sheh.md#抬棺材拾到钱，哭的哭笑的笑)】`tae2 gun1 cae sheh8 do qin2 koh7 dii koh7 xio5 dii xio5` <small>/tʰɛ2 kʊ̃1 t͡ɕʰiɛ səʔ8 tɔ t͡ɕʰĩ2 kʰɔʔ7 təɪ kʰɔʔ7 ɕiɔ5 təɪ ɕiɔ5/<sup>泰兴</sup></small> 乡谚。谓人群中有人欢乐有人愁苦。<sup>\[泰兴\]</sup>  
 1. 【[抬棺材拾银子——哭的哭、笑的笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gun_cae_sheh.md#抬棺材拾银子——哭的哭、笑的笑)】`tae2 gun1 cae sheh8 ien2 zz koh7 dii koh7 xio5 dii xio5` <sup>[东台]</sup>   
-1. 【[抬颏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#抬颏)】`tae2 hae6` <sup>[兴化]</sup> ① （借）好、有出息：这个小伙～，个钱总舍不得瞎用。 ② 称产品质量好，结实耐用：这种货价码虽大，可东西～㖸！ ③ 指女子作风正，不苟且：他家姑娘～，一点不瞎来。 ④ 抬颏一词源于金、元以来杂剧。《董西厢》二“穿一领绸杉……畅好台孩，举止无俗志。”《谢天香》一折“你觑他交椅上～样儿……”  
+1. 【[抬颏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_hae.md#抬颏)】`tae2 hae1` <sup>[兴化]</sup> ① （借）好、有出息：这个小伙～，个钱总舍不得瞎用。 ② 称产品质量好，结实耐用：这种货价码虽大，可东西～㖸！ ③ 指女子作风正，不苟且：他家姑娘～，一点不瞎来。 ④ 抬颏一词源于金、元以来杂剧。《董西厢》二“穿一领绸杉……畅好台孩，举止无俗志。”《谢天香》一折“你觑他交椅上～样儿……”  
 1. 【[抬价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_jia.md#抬价)】`tae2 jia5` <sup>[如东]</sup> 互相提高物价。  
 1. 【[抬肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_jin.md#抬肩)】`tae2 jin1` <sup>[兴化]</sup> 上衣从肩头至腋下的尺寸：～做小啊，膀子不好举。  
 1. 【[抬举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_jy.md#抬举)】`tae2 jy3` <sup>[如东]</sup> 看得起：这个是他～你啊。  
@@ -1632,7 +1632,7 @@
 1. 【[讨价还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jia_huaen_jia.md#讨价还价)】`to3 jia5 huaen2 jia5` <sup>[如东]</sup> 讨论商品价格。比喻办事讲究条件。  
 1. 【[讨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#讨教)】`to3 jio5` <small>/tʰɔ3 t͡ɕiɔ5/<sup>泰兴</sup></small> 请教<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：我是来～的。<sup>\[如东\]</sup>｜向人～<sup>\[泰兴\]</sup>  
 1. 【[讨口谕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_keu_y.md#讨口谕)】`to3 keu3 y` <sup>[如皋]</sup> 要求给予口头指示。  
-1. 【[讨丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_nga_teu.md#讨丫头)】`to3 nga1 teu` <small>/tʰɔ3 a1 tʰɤ/<sup>兴化</sup>, /tʰɔ3 ŋa1 tʰei/<sup>如皋</sup>, /tʰɔ3 ŋɑ tʰəɪ/<sup>泰兴</sup>, /tʰɔ3 a1 tʰɤɯ/<sup>泰县</sup></small> ① 丫环的贱称。<sup>\[如皋\]</sup> ② 旧时大户人家使唤的女孩。<sup>\[东台\]</sup> ③ 收养的女孩<sup>\[兴化\]</sup>：苦的脏的要我做，差的剩的让我吃，我是～啊？收养的男孩谓“讨小伙”。<sup>\[兴化\]</sup> ④ 年轻的女佣人。<sup>\[泰县\]</sup> ⑤ 女佣。<sup>\[泰兴\]</sup>  
+1. 【[讨丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_nga_teu.md#讨丫头)】`to3 nga1 teu` <small>/tʰɔ3 a1 tʰɤ/<sup>兴化</sup>, /tʰɔ3 ŋa1 tʰei/<sup>如皋</sup>, /tʰɔ3 ŋɑ tʰəɪ/<sup>泰兴</sup>, /tʰɔ3 a1 tʰɤɯ/<sup>泰县</sup></small> ① 女佣，丫鬟。<sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如皋：丫环的贱称。\] ② 收养的女孩\[兴化：收养的男孩谓“讨小伙”。\]：苦的脏的要我做，差的剩的让我吃，我是～啊？<sup>\[兴化\]</sup>  
 1. 【[讨便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_pi_i.md#讨便宜)】`to3 pi2 i2` <small>/tʰɔ3 pʰʝ2 ʝ2/<sup>泰兴</sup></small> ① 斗嘴或者交谈时，一方在语言上有意无意得到某种可意会的诸如成为对方长辈或者对方丈夫之类的所谓“好处”。<sup>\[泰州\]</sup> ② 指占便宜或取巧，尤其是伦理上。<sup>\[泰兴\]</sup>：他箇张嘴就是好讨人便宜。<sup>\[泰兴\]</sup>  
 1. 【[讨贱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qin.md#讨贱)】`to3 qin6` <sup>[兴化]</sup> 犯贱：你有好日子不过，要跟个骗子到处混，真～！  
 1. 【[讨巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qio.md#讨巧)】`to3 qio3` <small>/tʰɔ3 t͡ɕʰiɔ3/<sup>泰兴</sup></small> ① 用巧力做事，而且结果做得很漂亮。<sup>\[东台\]</sup> ② 讨便宜，碰巧沾光。<sup>\[东台\]</sup> ③ 占了对方辈分上的便宜<sup>\[泰州\]</sup>：～又不长块肉，喊你声姑爸又怎吖？<sup>\[泰州\]</sup> ④ 取巧；做事不费力而占便宜。<sup>\[泰兴\]</sup>：吃苦不～<sup>\[泰兴\]</sup>  
@@ -2023,8 +2023,7 @@
 1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#腿)】`tuei3` <sup>[东台]</sup> 人、动物的下肢或物体下部像腿一样的支撑部分：鸡～；盘～。  
 1. 【[腿肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_dv_zz.md#腿肚子)】`tuei3 dv3 zz` <sup>[如东]</sup> 小腿后面隆起的部分。  
 1. 【[腿脊弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_jieh_vaen_zz.md#腿脊弯子)】`tuei3 jieh vaen1 zz` <sup>[兴化]</sup> 大腿和小腿相连接的关节后部。  
-1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[如东]</sup> 下肢：狗～。  
-1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` <sup>[东台]</sup> 人、动物的下肢或物体下部支撑的部分。  
+1. 【[腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#腿子)】`tuei3 zz` 下肢<sup>\[如东\]</sup><sup>\[东台\]</sup>：狗～。<sup>\[如东\]</sup>  
 1. 【[煺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#煺)】`tuei5` <small>/tʰuəi5/<sup>兴化</sup></small> ① 已宰杀的畜禽用开水烫过后去毛<sup>\[兴化\]</sup>：～猪毛；～鸡毛。<sup>\[兴化\]</sup> ② 将宰杀的家禽家畜用滚水浸烫后去毛<sup>\[泰州\]</sup>：鸭子身上的毛都不曾～得干净。<sup>\[泰州\]</sup>  
 1. 【[退](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#退)】`tuei5` <sup>[东台]</sup> 向后移动，脱离，下降，交还或取消：后～；～缩；～婚。  
 1. 【[退潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_cho.md#退潮)】`tuei5 cho2` <sup>[如东]</sup> 落潮。  

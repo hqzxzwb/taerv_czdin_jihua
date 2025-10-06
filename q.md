@@ -1477,8 +1477,7 @@
 1. 【[钱吸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xieh_zz.md#钱吸子)】`qin2 xieh7 zz` <sup>[兴化]</sup> 形容人不择手段弄钱：他是有名的～，刮钱的手段一等。  
 1. 【[钱心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_xien_chon.md#钱心重)】`qin2 xien1 chon6` <sup>[如皋]</sup> 什么都想得到钱。  
 1. 【[钱作跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zah_tio.md#钱作跳)】`qin2 zah7 tio5` <small>/t͡ɕʰĩ2 t͡sɑʔ7 tʰiɔ5/<sup>泰兴</sup></small> 指花钱。多用于不需要花钱而硬要耗费。<sup>\[泰兴\]</sup>  
-1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <small>/t͡ɕʰiɪ̃2 t͡suəi1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰĩ2 t͡suei1 t͡sɿ/<sup>如皋</sup></small> ① ［喻］指特别精明、会赚钱的人，或指工资收入高的人。<sup>\[东台\]</sup> ② 想方设法挣钱的人。<sup>\[如皋\]</sup> ③ 比喻非常善于钻营赚钱的人。<sup>\[如东\]</sup> ④ （喻）不顾一切拼命弄钱的人<sup>\[兴化\]</sup>：他是个～，钱眼大一点儿一定能拱进去。<sup>\[兴化\]</sup>  
-1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <sup>[泰州]</sup> 设法钻营弄钱的人：老李是个～，哪行来钱就弄哪行。  
+1. 【[钱锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zhuei_zz.md#钱锥子)】`qin2 zhuei1 zz` <small>/t͡ɕʰiɪ̃2 t͡suəi1 t͡sɿ/<sup>兴化</sup>, /t͡ɕʰĩ2 t͡suei1 t͡sɿ/<sup>如皋</sup></small> ① ［喻］指特别精明、会赚钱的人，或指工资收入高的人。<sup>\[东台\]</sup> ② 想方设法挣钱的人。<sup>\[如皋\]</sup> ③ 比喻非常善于钻营赚钱的人。<sup>\[如东\]</sup> ④ （喻）不顾一切拼命弄钱的人<sup>\[兴化\]</sup>：他是个～，钱眼大一点儿一定能拱进去。<sup>\[兴化\]</sup> ⑤ 设法钻营弄钱的人<sup>\[泰州\]</sup>：老李是个～，哪行来钱就弄哪行。<sup>\[泰州\]</sup>  
 1. 【[钳工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_gon.md#钳工)】`qin2 gon1` <sup>[如东]</sup> 工种的一种。以从事钳工为职业的工人。  
 1. 【[钳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_zz.md#钳子)】`qin2 zz` <sup>[如东]</sup> 吝啬的人。  
 1. 【[浅浅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qin_qin_r.md#浅浅<sub>儿</sub>)】`qin3 qin r` <sup>[泰县]</sup> 浅浅的。  

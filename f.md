@@ -353,7 +353,7 @@
 1. 【[饭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ton.md#饭桶)】`faen6 ton3` 盛饭的桶。比喻光会吃饭不会做事的人。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[饭团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun.md#饭团)】`faen6 tun2` <sup>[泰州]</sup> 小团状米饭块。  
 1. 【[饭团子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tun_zz.md#饭团子)】`faen6 tun2 zz` <sup>[兴化]</sup> 成块的米饭。  
-1. 【[饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_un.md#饭碗)】`faen6 un3` <small>/fɛ̃1 ʊ̃/<sup>泰兴</sup></small> 比喻生计、职业<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：不能把～丢掉。<sup>\[如东\]</sup>｜铁～；毕业后总先要寻个～。<sup>\[东台\]</sup>｜你天天上班迟到噢，不要把～弄吖丢掉。<sup>\[泰州\]</sup>｜把～弄吖𠫓掉/弄丢工作<sup>\[泰兴\]</sup>  
+1. 【[饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_un.md#饭碗)】`faen6 un3` <small>/fɛ̃1 ʊ̃3/<sup>泰兴</sup></small> 比喻生计、职业<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：不能把～丢掉。<sup>\[如东\]</sup>｜铁～；毕业后总先要寻个～。<sup>\[东台\]</sup>｜你天天上班迟到噢，不要把～弄吖丢掉。<sup>\[泰州\]</sup>｜把～弄吖𠫓掉/弄丢工作<sup>\[泰兴\]</sup>  
 1. 【[饭焐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_v_zz.md#饭焐子)】`faen6 v5 zz` <small>/fɛ̃6 u5 t͡sɿ/<sup>兴化</sup>, /fẽ1 ʋu5 t͡sɿ/<sup>如皋</sup></small> ① 给贮饭器加的保温层。<sup>\[如皋\]</sup> ② 草编或塑料制品，为熟饭保温的用具。<sup>\[兴化\]</sup> ③ 一种有盖的保温器物，体积稍稍大于容器，用草编制或者用布包上棉花缝制而成，上面有盖，将刚烧熟的粥饭，连饭锅带锅盖放入里面，在用草盖（棉盖）将其捂好，主要用于冬季对粥饭的保温。<sup>\[泰州\]</sup>  
 1. 【[饭桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_zhuan_zz.md#饭桩子)】`faen6 zhuan1 zz` <sup>[泰县]</sup> 发育期饭量大的人。  
 1. 【[方世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_shr.md#方世)】`fan shr5` <sup>[如皋]</sup> 待人处世不讲人情、友谊，得罪于人：处～。  
@@ -555,7 +555,7 @@
 1. 【[飞天过海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_tin_gu_hae.md#飞天过海)】`fei1 tin1 gu5 hae3` <sup>[兴化]</sup> 见“飞过海”。  
 1. 【[飞象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xian.md#飞象)】`fei1 xian6` <sup>[兴化]</sup> 象棋术语，指“象”向上角走。  
 1. 【[飞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_y.md#飞鱼)】`fei1 y2` <sup>[如东]</sup> 飞鱼科动物燕鳐鱼，体长而扁圆，略呈梭形。  
-1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <small>/fəi1 t͡sɿ/<sup>兴化</sup></small> ① 以纸条（古代以竹签）为据领取钱物的券、筹、符、发票等。（《汉典》释为一种以窄纸条做成，凭以领钱的筹码。）<sup>\[东台\]</sup>：“借书人把书单叫做～。” (汪曾祺《翠湖心影》)<sup>\[东台\]</sup> ② 商店收款后，发的顾客的简易取货凭证<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：服务员凭～上菜。<sup>\[兴化\]</sup>  
+1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <small>/fəi1 t͡sɿ/<sup>兴化</sup></small> ① 以纸条（古代以竹签）为据领取钱物的券、筹、符、发票等。（《汉典》释为一种以窄纸条做成，凭以领钱的筹码。）<sup>\[东台\]</sup>：借书人把书单叫做～。（汪曾祺《翠湖心影》）<sup>\[东台\]</sup> ② 商店收款后，发的顾客的简易取货凭证<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：服务员凭～上菜。<sup>\[兴化\]</sup>  
 1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <small>/fəɪ2/<sup>泰县</sup></small> ① 菜肴中肥肉多，肥味浓厚。<sup>\[如东\]</sup>：肥肉多，太～。<sup>\[如东\]</sup> ② 宽大。<sup>\[如东\]</sup>：这件衣裳～。<sup>\[如东\]</sup> ③ 粗。<sup>\[泰县\]</sup> ④ 胖<sup>\[泰州\]</sup>：人长得太～，不好看。<sup>\[泰州\]</sup> ⑤ 粗<sup>\[泰州\]</sup>：这根竹子太～，不好用。<sup>\[泰州\]</sup>  
 1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <small>/fəi2 piɔ1/<sup>兴化</sup>, /fei2 piɔ1/<sup>如皋</sup>, /fəɪ2 piɔ1/<sup>泰兴</sup></small> ① 含脂肪多的肉，与“实膘”（瘦肉）相对。<sup>\[兴化\]</sup> ② 也指人虚胖，身上肌肉少。<sup>\[兴化\]</sup> ③ 肥肉的膘情，即肥肉的厚薄虚实。<sup>\[如皋\]</sup> ④ 肥肉。<sup>\[泰兴\]</sup>  
 1. 【[肥差事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chae_shr.md#肥差事)】`fei2 chae1 shr6` <sup>[如皋]</sup> 轻松、赚钱多的交易。  
@@ -663,7 +663,7 @@
 1. 【[粉缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_gan_r.md#粉缸<sub>儿</sub>)】`fen3 gan1 r` <sup>[如皋]</sup> 装扑粉的小瓷缸。  
 1. 【[粉勼勼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_jieu_jieu.md#粉勼勼)】`fen3 jieu1 jieu1` <sup>[泰州]</sup> 淀粉含量高的食物煮熟以后绵软而又像粉一样噎人的口感：才煮啊好的山芋，～的，趁热吃。  
 1. 【[粉㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_jieu_jieu.md#粉㾭㾭)】`fen3 jieu5 jieu5` <sup>[泰县]</sup> ① 粉很多：～的。 ② 形容土豆等烧得松软可口。  
-1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` <small>/fən3 lɛ̃6/<sup>兴化</sup>, /fəŋ3 lẽ1/<sup>如皋</sup>, /fəŋ3 lɛ̃1/<sup>泰兴</sup>, /fəŋ3 nɛ̃1/<sup>泰县</sup></small> (食物熟透而)松软：芋头烧得～的  
+1. 【[粉烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_laen.md#粉烂)】`fen3 laen6` <small>/fən3 lɛ̃6/<sup>兴化</sup>, /fəŋ3 lẽ1/<sup>如皋</sup>, /fəŋ3 lɛ̃1/<sup>泰兴</sup>, /fəŋ3 nɛ̃1/<sup>泰县</sup></small> （食物熟透而）松软：芋头烧得～的  
 1. 【[粉面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_min.md#粉面)】`fen3 min6` <sup>[泰州]</sup> 糯米面粉：姑妈送的～又细又白。  
 1. 【[粉末](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_muh.md#粉末)】`fen3 muh8` <sup>[如东]</sup> 非常细小的颗粒：剩下的都是些～。  
 1. 【[粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_nen.md#粉嫩)】`fen3 nen6` <small>/fən3 lən6/<sup>兴化</sup>, /fəŋ3 nəŋ1/<sup>泰兴</sup></small> ① 像凉粉一样的嫩滑。<sup>\[如东\]</sup> ② 比喻人的皮肤白嫩。<sup>\[如东\]</sup> ③ 形容刚采摘的瓜果或某些菜肴麻脆绵软，新鲜可口<sup>\[兴化\]</sup>：～的花香藕。<sup>\[兴化\]</sup>｜他还有一手好烹调，劖（劗）个肉圆儿，～的……（《广陵潮》六六）<sup>\[兴化\]</sup> ④ 娇嫩<sup>\[兴化\]</sup>：“……这～的骨头如何经得起打……”（《说岳全传》三）<sup>\[兴化\]</sup> ⑤ 像粉一样嫩，肌肤娇嫩<sup>\[泰州\]</sup>：你望这细丫头都蘣吖，小脸儿、小膀子～的。<sup>\[泰州\]</sup> ⑥ 食品绵软可口，入口即化<sup>\[泰州\]</sup>：这个鱼圆儿～，你吃咖才好唻。<sup>\[泰州\]</sup> ⑦ 白而嫩；非常嫩。<sup>\[泰兴\]</sup>  
@@ -984,7 +984,7 @@
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① 木头等材料受潮变质腐烂。<sup>\[如东\]</sup> ② 思想行为变坏。<sup>\[如东\]</sup>：你这个人～啊。<sup>\[如东\]</sup> ③ 不正当的男女关系。<sup>\[如东\]</sup> ④ 指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。<sup>\[东台\]</sup>  
 1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` <small>/fu3 lẽ1/<sup>如皋</sup>, /fu3 nɛ̃1/<sup>泰县</sup></small> ① 熟透，很烂<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：肉煮得～。<sup>\[如皋\]</sup>｜萝卜煨得～的。<sup>\[泰州\]</sup> ② 腐败如泥。<sup>\[如皋\]</sup> ③ 很烂<sup>\[泰县\]</sup>：这东西～的。<sup>\[泰县\]</sup>  
-1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <small>/fu3 kʊ/<sup>如皋</sup>, /fʋ1 kʊ̃/<sup>泰兴</sup>, /fu3 ko1/<sup>泰县</sup></small> 锅盖<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>：又“镬㔶”<sup>\[如皋\]</sup>  
+1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <small>/fu3 kʊ5/<sup>如皋</sup>, /fʋ1 kʊ̃/<sup>泰兴</sup>, /fu3 ko1/<sup>泰县</sup></small> 锅盖<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>：又“镬㔶”<sup>\[如皋\]</sup>  
 1. 【[釜㔶鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun_y.md#釜㔶鱼)】`fv3 gun y2` <sup>[如皋]</sup> 鮟鱇。  
 1. 【[付款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kun.md#付款)】`fv5 kun3` <sup>[如东]</sup> 支出资金：要按规定～。  
 1. 【[副](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#副)】`fv5` <sup>[东台]</sup> 次要的、附带的、起辅助作用：～产品；～业；～手。  

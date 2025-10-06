@@ -370,7 +370,6 @@
 1. 【[下话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hua.md#下话)】`xia6 hua6` <small>/ɕia6 xua6/<sup>兴化</sup>, /ɕiɑ1 xuɑ1/<sup>泰兴</sup></small> ① 给别人提供过物质或精神上的帮助，事后献勤买乖<sup>\[兴化\]</sup>：他的东西要不得，日后～叫你难为情。<sup>\[兴化\]</sup> ② 认输、认错之语，或低声下气向人恳求、求情。<sup>\[泰兴\]</sup>：他又不肯说～，你说怎么办？<sup>\[泰兴\]</sup>  
 1. 【[下荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huan_chan.md#下荒场)】`xia6 huan1 chan` <sup>[如皋]</sup> 詈语。骂青少年，咒其早夭，并埋进荒冢。  
 1. 【[下回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huei.md#下回)】`xia6 huei2` <small>/ɕia1 xuei2/<sup>如皋</sup>, /ɕiɑ1 xuəɪ/<sup>泰兴</sup></small> 下次，下一次<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
-1. 【[下回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huei.md#下回)】`xia6 huei2` <small>/ɕiɑ1 xuəɪ2/<sup>泰兴</sup></small> 文章中的下一章<sup>\[泰兴\]</sup>  
 1. 【[下回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huei_zz.md#下回子)】`xia6 huei2 zz` <sup>[泰州]</sup> 下一次。  
 1. 【[下馄饨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_huen_den.md#下馄饨)】`xia6 huen2 den` <sup>[如东]</sup> ① 把馄饨放入锅里煮熟。 ② 比喻人落水淹死了。  
 1. 【[下户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_hv.md#下户)】`xia6 hv6` <sup>[兴化]</sup> 住户人家：到～门上收钱。｜“……小老儿关大门，一概不开销了，请你大和尚另找～吧……”（扬一《通天河》）  

@@ -377,7 +377,7 @@
 1. 【[哑子好说话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_ho_shuh.md#哑子好说话)】`nga3 zz ho5 shuh7 hua6` <sup>[如皋]</sup> 聋哑人急欲表达心愿，却说不出话来，只好巴巴乱叫，不断比划，而别人又不能领会，他更为着急。谓之～。  
 1. 【[哑子讨老婆——喜不可言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_to_lo.md#哑子讨老婆——喜不可言)】`nga3 zz to3 lo3 pu xi3 beh7 ku3 in2` <sup>[东台]</sup>   
 1. 【[哑子砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz_zhun.md#哑子砖)】`nga3 zz zhun1` <sup>[如皋]</sup> 为火侯不足而“不开声”且有烟迹（喜鹊斑）的砖头。  
-1. 【[垩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#垩)】`nga5` <small>/ŋa5/<sup>如皋</sup></small> 施肥。<sup>\[东台\]</sup>\[如皋：可带宾语，～壮气、～豆饼、～粪、～玉米、～麦。\]\[泰州：给土壤施肥料\]：庄稼要～足基肥。<sup>\[东台\]</sup>  
+1. 【[垩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#垩)】`nga5` <small>/ŋa5/<sup>如皋</sup>, /ŋɑ5/<sup>泰兴</sup></small> 施肥。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[如皋：可带宾语，～壮气、～豆饼、～粪、～玉米、～麦。\]\[泰州：给土壤施肥料\]：庄稼要～足基肥。<sup>\[东台\]</sup>｜～田<sup>\[泰兴\]</sup>｜～粪<sup>\[泰兴\]</sup>｜～黄豆<sup>\[泰兴\]</sup>  
 1. 【[垩本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ben.md#垩本)】`nga5 ben3` <sup>[兴化]</sup> 肥料，多指人粪尿等自然肥料：上街取～。｜“你看我个子矮小，身体瘦弱……没有肥料欠～呀……”（《武松》二）  
 1. 【[垩粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_fen.md#垩粪)】`nga5 fen5` <small>/ŋɑ5 fəŋ5/<sup>泰兴</sup></small> ① 给田里的庄稼浇粪。<sup>\[泰州\]</sup> ② 肥料；施肥。<sup>\[泰兴\]</sup>  
 1. 【[垩用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ion.md#垩用)】`nga5 ion` <sup>[东台]</sup> 农村里人畜肥的俗称。  
@@ -839,7 +839,7 @@
 1. 【[扼憋憋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_bih_bih.md#扼憋憋)】`ngeh7 bih7 bih7` <sup>[泰州]</sup> 在外界正义行动或者舆论的压力下，被迫收回自己的错误决定：在过路群众的指责之下，小贩子～的把多收的钱退啊把年纪大的。｜大家强烈反对，他只好～的收回自己的意见。  
 1. 【[扼帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_lin_zz.md#扼帘子)】`ngeh7 lin2 zz` <sup>[如东]</sup> 用绳子把芦苇秆或毛竹丝编成帘子，这种劳动叫做扼帘子。  
 1. 【[轭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#轭子)】`ngeh7 zz` <sup>[如皋]</sup> 架于骡、马肩部的夹具。相当于牛头，是牵引力的起点。  
-1. 【[呃/餩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh.md#呃/餩)】`ngeh8` 气逆声，打嗝(呃逆，不是嗳气)声<sup>\[东台\]</sup><sup>\[泰州\]</sup>：打～。<sup>\[东台\]</sup>｜～打啊不歇，快点ㄦ家去加点ㄦ衣裳。<sup>\[泰州\]</sup>｜打～。<sup>\[泰州\]</sup>  
+1. 【[呃/餩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh.md#呃/餩)】`ngeh8` 气逆声，打嗝（呃逆，不是嗳气）声<sup>\[东台\]</sup><sup>\[泰州\]</sup>：打～。<sup>\[东台\]</sup>｜～打啊不歇，快点ㄦ家去加点ㄦ衣裳。<sup>\[泰州\]</sup>｜打～。<sup>\[泰州\]</sup>  
 1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#杌子)】`ngeh8 zz, veh8 zz` 无靠背的椅子  
 1. 【[杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_zz.md#杌子)】`ngeh8 zz` <sup>[如东]</sup> 一种四方形的凳。通常长38厘米，宽28厘米，高48厘米。  
 1. 【[轭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeh_teu.md#轭头)】`ngeh8 teu` <sup>[兴化]</sup> 牛耕地、拉磨时架在肩头上的轭具。  
@@ -1127,7 +1127,7 @@
 1. 【[咬癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_lae_zz.md#咬癞子)】`ngo3 lae6 zz` <sup>[兴化]</sup> ① 出了事故互相推卸责任。 ② 接受任务或遇某种摊派时互相推诿：说到哪个下乡搞调查，几个人又～。  
 1. 【[咬卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_lun_zz.md#咬卵子)】`ngo3 lun3 zz` <sup>[泰州]</sup> 事情已成定局以后，再想干预绝无可能：我就骂啊他又怎吖说，他～吧。  
 1. 【[咬盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_pun_zz.md#咬盘子)】`ngo3 pun2 zz` <sup>[如皋]</sup> 商业谈判的决定时段、相互让步的成交阶段。  
-1. 【[咬嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qiah.md#咬嚼)】`ngo3 qiah` <small>/ɔ3 t͡ɕʰiaʔ/<sup>兴化</sup>, /ɔ3 t͡ɕʰiɑʔ/<sup>泰县</sup></small> ① 食物硬或韧，耐嚼或难嚼的性质<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup>：糯米糕有～。<sup>\[如东\]</sup>｜这个东西有～。<sup>\[泰县\]</sup>｜风鸡最好是清蒸，这格局吃咖嘴里才有～。<sup>\[泰州\]</sup> ② 比喻言语文章等的深度、耐人寻味度<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup>：这篇文章有～。<sup>\[如东\]</sup>｜这篇文章有～。<sup>\[泰县\]</sup>｜他写的这篇文章，里头有不少地方值得～。<sup>\[泰州\]</sup>｜这篇文章寓意深，有～。<sup>\[兴化\]</sup>  
+1. 【[咬嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qiah.md#咬嚼)】`ngo3 qiah` <small>/ɔ3 t͡ɕʰiaʔ8/<sup>兴化</sup>, /ɔ3 t͡ɕʰiɑʔ/<sup>泰县</sup></small> ① 食物硬或韧，耐嚼或难嚼的性质<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup>：糯米糕有～。<sup>\[如东\]</sup>｜这个东西有～。<sup>\[泰县\]</sup>｜风鸡最好是清蒸，这格局吃咖嘴里才有～。<sup>\[泰州\]</sup> ② 比喻言语文章等的深度、耐人寻味度<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup>：这篇文章有～。<sup>\[如东\]</sup>｜这篇文章有～。<sup>\[泰县\]</sup>｜他写的这篇文章，里头有不少地方值得～。<sup>\[泰州\]</sup>｜这篇文章寓意深，有～。<sup>\[兴化\]</sup>  
 1. 【[咬秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qieu.md#咬秋)】`ngo3 qieu1` <sup>[兴化]</sup> 民俗：交秋时，吃西瓜或酥瓜，送夏迎秋，谓之～。  
 1. 【[咬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ren.md#咬人)】`ngo3 ren` <sup>[如皋]</sup> 见“咬手”。  
 1. 【[咬人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ren.md#咬人)】`ngo3 ren2` ① 本指动物用嘴伤害人。<sup>\[东台\]</sup> ② ［喻］指供出有关嫌疑人或责任人。<sup>\[东台\]</sup> ③ 诬陷他人<sup>\[泰州\]</sup>：你只要行得正，就不怕他～。<sup>\[泰州\]</sup> ④ 犯罪之人揭发尚未暴露的同伙<sup>\[泰州\]</sup>：他捱关起来不到三天，就咬啊四个人出来啊。<sup>\[泰州\]</sup>  
