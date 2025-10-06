@@ -15,7 +15,7 @@ CzY = namedtuple(
     'CzY',
     [
         'source',
-        'pien_ien_0',
+        'ti_fan_pien_ien',
         'pien_ien',
         'raw_pien_ien',
         'text',
@@ -126,6 +126,17 @@ def parse_cont(cont, fname):
     pien_ien_list = parse_pinyin(raw_pien_ien)
     pien_ien = re.sub(r"\([^\(\)]+\)(?= |,|$)", "", ", ".join(pien_ien_list))
     pien_ien_0 = pien_ien_list[0]
+    ti_fan_pien_ien = {}
+    index = 2
+    while index < len(lines):
+        line = lines[index]
+        match = re.match(r"^([\w,]+):([\w /(),;]+)$", line)
+        if match:
+            for ti_fan in match[1].split(','):
+                ti_fan_pien_ien[ti_fan] = match[2]
+            index += 1
+        else:
+            break
     mixed = mix(raw_text, pien_ien_0)
 
     validate(pien_ien_0, raw_text)
@@ -139,10 +150,8 @@ def parse_cont(cont, fname):
 
     prints = False
 
-    spec_teller = lines[2]
-    body = "\n".join(lines[2:])
-    if prints:
-        print("body", body)
+    spec_teller = lines[index]
+    body = "\n".join(lines[index:])
     meanings = []
     source = None
     spec = 1
@@ -201,7 +210,7 @@ def parse_cont(cont, fname):
             assert example_cursor == len(example_body), message_for_failure
             meanings.append(CzYMeaning(meaning_match.group('explanation'), [CzYSubMeaning(source, pien_ien, None, examples)]))
         assert body_cursor == len(body), message_for_failure
-    return CzY(source, pien_ien_0, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
+    return CzY(source, ti_fan_pien_ien, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
 
 def mix(word, pien_ien):
     word = word.replace('ʲ', '')
@@ -214,30 +223,18 @@ def mix(word, pien_ien):
     i = 0
     while i < len(char_list):
         char = char_list[i]
-        ti_fan = defaultdict(lambda: None)
         if re.match(r'[\w□]', char[0]):
             if pi >= len(char_py_list):
                 break
             pien_ien = char_py_list[pi]
-            ti_fan_match = re.search(r"\(([^\(\)]+)\)$", pien_ien)
-            if ti_fan_match:
-                pien_ien = pien_ien[0: ti_fan_match.start()]
-                for item in ti_fan_match.group(1).split(';'):
-                    tis, ti_fan_ien = item.split(':')
-                    if ti_fan_ien == '0':
-                        ti_fan_ien = re.sub(r"\d$", "", pien_ien)
-                    elif ti_fan_ien in '123456789':
-                        ti_fan_ien = re.sub(r"\d$", ti_fan_ien, pien_ien)
-                    for ti in tis.split(','):
-                        ti_fan[ti] = ti_fan_ien
             pi += 1
             if pien_ien == 'r' and char == '儿':
                 char = '<sub>儿</sub>'
             else:
                 char = re.sub(r'(\w)ʰ', r'<sub>\1</sub>', char)
-            mix.append((char, pien_ien, ti_fan))
+            mix.append((char, pien_ien))
         else:
-            mix.append((char, '', ti_fan))
+            mix.append((char, ''))
         i += 1
     if pi != len(char_py_list) or i != len(char_list):
         raise Exception("【%s】(%s)跟拼音(%s)不对应" % (word, char_list, char_py_list))
@@ -300,6 +297,10 @@ ti_fan_ien_key = {
     '泰兴': 'txe',
     '泰县': 'tx',
     '兴化': 'xh',
+    '泰州': 'tz',
+    '东台': 'dt',
+    '如东': 'rd',
+    '海安': 'hu',
 }
 
 def write_page(dirs, path, sample_out, cz_ien):
@@ -354,10 +355,16 @@ def write_page(dirs, path, sample_out, cz_ien):
             ti_fan_ien = {}
             for source in source_set:
                 ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)
+                ti_fan_pien_ien = w.ti_fan_pien_ien.get(ti_fan_ien_key[source])
+                if ti_fan_pien_ien:
+                    ti_fan_pien_ien = parse_pinyin(ti_fan_pien_ien)[0] # FIXME
+                    ti_fan_pien_ien = ti_fan_pien_ien.split(" ")
                 if ti_fan_ien_func:
-                    mixed = [(m[0], m[2][ti_fan_ien_key[source]] or m[1]) for m in w.mixed if m[1]]
+                    mixed = [m for m in w.mixed if m[1]]
                     ti_fan_ien_list = []
-                    for cz, ien in mixed:
+                    for i, (cz, ien) in enumerate(mixed):
+                        if ti_fan_pien_ien:
+                            ien = ti_fan_pien_ien[i]
                         ipa = ti_fan_ien_func(cz, ien)
                         if ipa == '˞':
                             last_ipa = ti_fan_ien_list[-1]
