@@ -1107,7 +1107,7 @@
 1. 【[绣花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_hua.md#绣花)】`xieu5 hua1` <sup>[如东]</sup> 用彩线在绸缎、布等织物上绣制花纹。也称参花。  
 1. 【[绣花枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_hua_zhen_teu.md#绣花枕头)】`xieu5 hua1 zhen3 teu` <sup>[如皋]</sup> 喻外表好看，内在素质差，或指人。  
 1. 【[绣球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu.md#绣球)】`xieu5 qieu2` <sup>[如东]</sup> 用绸缎结成的球形装饰物。  
-1. 【[绣球疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球疯)】`xieu5 qieu2 fon1` <sup>[兴化]</sup> 阴囊皮炎的俗称：他的肾囊上面生着许多顽癣……这个毛病叫做～。（《四杰传》二六）  
+1. 【[绣球风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球风)】`xieu5 qieu2 fon1` <sup>[兴化]</sup> 阴囊皮炎的俗称：他的肾囊上面生着许多顽癣……这个毛病叫做～。（《四杰传》二六）  
 1. 【[绣球风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球风)】`xieu5 qieu2 fon1` <sup>[泰州]</sup> 男性阴囊湿疹。  
 1. 【[绣球花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_hua.md#绣球花)】`xieu5 qieu2 hua1` <sup>[如东]</sup> 景天科植物景天，多年生草本。块根胡萝卜状。茎直立，高约70厘米，不分枝。叶对生，短圆形，边缘有疏锯齿。伞房花序顶生。花密生，白色至浅红色。庭园栽培。  
 1. 【[绣球<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_r_fon.md#绣球<sub>儿</sub>风)】`xieu5 qieu2 r fon1` <sup>[如皋]</sup> 阴囊湿疹。  

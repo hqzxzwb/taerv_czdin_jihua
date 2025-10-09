@@ -3155,7 +3155,7 @@
 1. 【[糂饭/酸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_faen.md#糂饭/酸饭)】`sun1 faen6` 用青菜或茼蒿之类蔬菜与米和在一起煮成的饭。<sup>\[泰州\]</sup>  
 1. 【[糂面/酸面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_min.md#糂面/酸面)】`sun1 min6` 用青菜或者茼蒿之类蔬菜与面条混煮成的食物。<sup>\[泰州\]</sup>  
 1. 【[糂粥/酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh.md#糂粥/酸粥)】`sun1 zhoh7` 用青菜或茼蒿之类蔬菜与米和在一起煮成的粥。<sup>\[泰州\]</sup>  
-1. 【[酸/痠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸/痠)】`sun1` <sup>[泰州]</sup> 肌肉隐隐胀痛的感觉：上吖一趟泰山，腿子都爬啊～吖。  
+1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> 肌肉隐隐胀痛的感觉：上吖一趟泰山，腿子都爬啊～吖。  
 1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> ① 产生嫉妒的情绪：你一同她开玩笑，老王又要～唻。 ② 人之话语阴阳怪气：他说话太～，单位上没得一个人同他啰唆。  
 1. 【[酸巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_xi.md#酸巴拉西的)】`sun1 ba la1 xi1 dii` <sup>[如皋]</sup> 有酸味，不适口。  
 1. 【[酸巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_ha.md#酸巴拉哈)】`sun1 ba1 la1 ha` <sup>[如东]</sup> 一种酸味：豆腐～的，不好吃。  
@@ -3186,7 +3186,7 @@
 1. 【[酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh.md#酸粥)】`sun1 zhoh7` <small>/sʊ̃1 t͡sɔʔ7/<sup>如皋</sup>, /sõ1 t͡sɔʔ7/<sup>泰县</sup></small> ① 掺了菜的糊糊儿面。<sup>\[如皋\]</sup> ② 菜粥。<sup>\[泰县\]</sup>  
 1. 【[酸粥嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh_jy.md#酸粥嘴)】`sun1 zhoh7 jy3` <sup>[泰县]</sup> 啰唆的人。  
 1. 【[酸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zz.md#酸子)】`sun1 zz` <sup>[如东]</sup> 挑拨是非的人。  
-1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <sup>[如皋]</sup> 细酒。  
+1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <small>/sʊ̃3/<sup>如皋</sup>, /sʊ̃3/<sup>泰兴</sup></small> 细洒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chae_r.md#糁䜺<sub>儿</sub>)】`sun3 chae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
 1. 【[算憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chon.md#算憃)】`sun5 chon5` <sup>[如皋]</sup> 见“算掼”。  
 1. 【[算倒账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒账)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算账，以索回应得的部分。  

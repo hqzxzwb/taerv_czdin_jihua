@@ -1346,6 +1346,7 @@
 1. 【[裂璺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_men.md#裂璺)】`lih8 men6` ① 裂缝 ② 物体裂开一道纹路。<sup>\[如东\]</sup>：水缸～。<sup>\[如东\]</sup> ③ 器物裂开的纹路。<sup>\[东台\]</sup>  
 1. 【[裂须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_xy.md#裂须)】`lih8 xy1` <sup>[东台]</sup> 一种根须开裂，皮结了巴子，形状不规则的萝卜。  
 1. 【[裂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_zz.md#裂子)】`lih8 zz` <sup>[如皋]</sup> 冬天皮肤龟裂成较深的口子，很疼。  
+1. 【[里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lii.md#里)】`lii` <small>/ləi/<sup>兴化</sup>, /tei/<sup>如皋</sup>, /ləɪ/<sup>泰兴</sup>, /nɿ/<sup>泰县</sup></small> 里，缀于地点、空间等之后：家～｜房～｜车子～｜电视～  
 1. 【[帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#帘子)】`lin2 zz` <small>/lĩ2 t͡sɿ/<sup>如皋</sup></small> ① 用芦苇秆或毛竹丝按等距离编织起来，长方形，有的用于晒东西，有的挂在门上遮光，这种设备叫做帘子。<sup>\[如东\]</sup> ② 床上垫用草帘，多用芒棵扼成。<sup>\[如皋\]</sup> ③ 门前挂用竹帘：多用竹篾制成。<sup>\[如皋\]</sup> ④ 用布、篾子等做成的有遮蔽作用的器物。<sup>\[东台\]</sup>  
 1. 【[帘子架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_ga_zz.md#帘子架子)】`lin2 zz ga5 zz` <sup>[如皋]</sup> 扼花帘的木架。  
 1. 【[梿枷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_gae.md#梿枷)】`lin2 gae1` 一种农具，在一个长柄上装上一排木条或竹条，可用来打谷脱粒。  
