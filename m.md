@@ -1047,9 +1047,6 @@
 1. 【[𤓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𤓒)】`mi2` <sup>[泰州]</sup> 烹饪方法，汤沸腾以后，用文火慢煮，使食物烂熟：把排骨在锅肚里多～～再下锅。｜花生米子已经～啊烂吖唻。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#□)】`mi3` <sup>[泰县]</sup> ① 寻觅：山芋田里会～到好多老鼠洞。 ② 悄悄地监视：你注意～住他，看他到哪许去啊。  
 1. 【[□根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gen_zz.md#□根子)】`mi3 gen1 zz` <sup>[泰县]</sup> 追根求源。  
-1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi3` <sup>[如皋]</sup> 略饮。  
-1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi3 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
-1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi3 mi` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <small>/mi3/<sup>兴化</sup>, /mʝ3/<sup>如皋</sup></small> ① 异物入眼<sup>\[如皋\]</sup>：眼睛肚里～啊蠓虫儿。<sup>\[如皋\]</sup> ② 灰土、蠓虫之类进入眼内<sup>\[兴化\]</sup>：眼睛捱灰～吖。<sup>\[兴化\]</sup> ③ 碎物入眼<sup>\[泰州\]</sup>：灰埲埲的，～眼睛。<sup>\[泰州\]</sup>  
 1. 【[眯人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_zz.md#眯人子)】`mi3 ren zz` <sup>[如皋]</sup> 眼睑内有异物的不适感：结膜炎的痛感。  
 1. 【[眯细眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen_r.md#眯细眼<sub>儿</sub>)】`mi3 xi5 ngaen3 r` <sup>[如东]</sup> ① 眼皮眯缝。 ② 眼皮眯缝的人。  
@@ -1078,9 +1075,9 @@
 1. 【[米<sub>儿</sub>豇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_r_gan.md#米<sub>儿</sub>豇)】`mi3 r gan1` <sup>[如皋]</sup> 豇豆的一种，以老熟豆粒供食用。豆科。  
 1. 【[米筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shae.md#米筛)】`mi3 shae1` <sup>[如东]</sup> 筛的一种。方孔比较大，米粒能够抖漏下去。  
 1. 【[米渗笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shen_lah_r.md#米渗笿<sub>儿</sub>)】`mi3 shen lah8 r` <sup>[如皋]</sup> 方底圆口浅帮有竹系的小篮。用精制薄竹篾十字交叉翘二编成。稀网眼，可渗米粒。  
+1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <sup>[如皋]</sup> 熟米粒、饭粒。  
 1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <small>/mi3 sũ/<sup>兴化</sup>, /mʝ3 sʊ̃/<sup>泰兴</sup></small> ① 饭、粥中的米粒<sup>\[东台\]</sup>：一个～七斤四两水，劳动成果要珍惜咖！<sup>\[东台\]</sup> ② 米饭粒儿\[兴化：也称“饭米糁。”\] ③ 熟饭粒。<sup>\[泰兴\]</sup>  
-1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun3` <sup>[如皋]</sup> 熟米粒、饭粒。  
-1. 【[米糁<sub>儿</sub>/米糂儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun_r.md#米糁<sub>儿</sub>/米糂儿)】`mi3 sun3 r` <sup>[泰州]</sup> 饭粒。  
+1. 【[米糁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun_r.md#米糁<sub>儿</sub>)】`mi3 sun3 r` <sup>[泰州]</sup> 饭粒。  
 1. 【[米汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan.md#米汤)】`mi3 tan1` <sup>[兴化]</sup> （喻）甜言蜜语、用好话取悦于人：灌～。  
 1. 【[米汤盆里洗澡——糊里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan_pen_lii.md#米汤盆里洗澡——糊里糊涂)】`mi3 tan1 pen2 lii xi3 zo3 hv2 lii hv2 tv2` <sup>[东台]</sup>   
 1. 【[米头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_teu_zz.md#米头子)】`mi3 teu2 zz` <small>/mi3 tʰɤ2 t͡sɿ/<sup>兴化</sup></small> ① 稻谷碾、舂后尚未脱壳的一部分谷粒。<sup>\[如东\]</sup> ② 碾米或舂米时筛下的不完整的米粒。<sup>\[兴化\]</sup>  
@@ -1096,6 +1093,9 @@
 1. 【[美人局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_qioh.md#美人局)】`mi3 ren2 qioh8` <sup>[泰州]</sup> 以美女作为诱饵的骗局：他在广东中吖～，身上的钱捱弄吖光吖。  
 1. 【[美味香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_vei_xian_tin.md#美味香甜)】`mi3 vei6 xian1 tin2` <sup>[泰州]</sup> 食物滋味可口：嫂子烧的菜没得话说，美味香甜。  
 1. 【[𨀷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𨀷)】`mi3` <sup>[如皋]</sup> ① 尾随盯梢：～啊后头、～着咖他。 ② 寻找：～花生；顺吖脚印望前～。  
+1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi5` <sup>[如皋]</sup> 略饮。  
+1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi5 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
+1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi5 mi` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[妹倩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qin.md#妹倩)】`mi6 qin5` <sup>[如皋]</sup> 妹夫。  
 1. 【[妹私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sz.md#妹私)】`mi6 sz` <sup>[泰州]</sup> 妹夫。  
 1. 【[妹婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi.md#妹婿)】`mi6 xi` <sup>[东台]</sup> 即妹夫，妹妹的丈夫。婿，音“细”。  

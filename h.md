@@ -2060,7 +2060,7 @@
 1. 【[荤段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_r.md#荤段<sub>儿</sub>)】`huen1 tun6-dun5 r` <sup>[兴化]</sup> 粗俗的故事或笑话：这天，巧儿听一个女人说了一段关于黄瓜的～，笑得前合后仰。（钱国怀《水流千转》）。  
 1. 【[荤段子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_zz.md#荤段子)】`huen1 tun6-dun5 zz` <sup>[东台]</sup> 充满色情的一段话。  
 1. 【[荤腥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_xien.md#荤腥)】`huen1 xien1` <sup>[东台]</sup> 荤菜：这个丫头为啊减肥，一点儿～也不尝。  
-1. 【[孟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#孟)】`huen2` <small>/xuəŋ2/<sup>如皋</sup></small> 孟姓讳音“梦”<sup>\[如皋\]</sup><sup>\[东台\]</sup>：或改音xi3<sup>\[如皋\]</sup>  
+1. 【[孟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#孟)】`huen2` <small>/xuəŋ2/<sup>如皋</sup></small> 孟姓讳音“梦”<sup>\[东台\]</sup>\[如皋：或改音xi3\]  
 1. 【[浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh_dii.md#浑笃笃的)】`huen2 doh doh7 dii` <sup>[如皋]</sup> 浑浊不清的样子。  
 1. 【[浑笃笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_doh_doh.md#浑笃笃)】`huen2 doh7 doh7` <sup>[如东]</sup> 浑浊不清：桶里的水～的。  
 1. 【[浑名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_mien.md#浑名)】`huen2 mien2` <small>/xuəŋ2 miŋ2/<sup>泰兴</sup></small> 外号，绰号。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
@@ -2083,6 +2083,7 @@
 1. 【[魂落掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lah_tio_a.md#魂落掉啊)】`huen2 lah8 tio6 a` <sup>[如东]</sup> ① 魂灵已经失去，人快要死亡了。 ② 比喻人的头脑失去理智：～，那个教你做的！  
 1. 【[魂魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_poh.md#魂魄)】`huen2 poh7` <sup>[如东]</sup> 中医认为，魂是人体肝的神明，主理性，魄是人体肺的神明，主本能。魂魄之间相生相克。现代把魂引申为人的生命、一种脱离物质的精神，称灵魂。比喻一个组织、一种运动、一次会议的核心思想。魄引申为一种气量。  
 1. 【[混笼统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lon_ton.md#混笼统)】`huen3 lon2 ton3` <sup>[兴化]</sup> 形容含糊不清：你这些开支～子，最后怎吖结算？  
+1. 【[混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#混)】`huen5` <small>/xuəŋ5/<sup>泰兴</sup></small> 胡乱<sup>\[泰兴\]</sup>：～说/乱说<sup>\[泰兴\]</sup>｜～搝/乱来、乱搞<sup>\[泰兴\]</sup>｜～动/乱动<sup>\[泰兴\]</sup>  
 1. 【[混混<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen_r.md#混混<sub>儿</sub>)】`huen5 huen r` <sup>[兴化]</sup> 游手好闲的青皮无赖。也叫“混混子”。  
 1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <sup>[如皋]</sup> 见“混子”。  
 1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
