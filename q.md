@@ -188,7 +188,7 @@
 1. 【[气不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_ton.md#气不动)】`qi5 beh7 ton6` <sup>[东台]</sup> 又好气又好笑：他在十字路口转吖半天，也不曾寻到家来的路，真叫人～。  
 1. 【[气包角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_bo_gah_zz.md#气包角子)】`qi5 bo1 gah7 zz` <small>/t͡ɕʰʝ5 pɔ1 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 指内空的荚<sup>\[泰兴\]</sup>  
 1. 【[气窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_chuan.md#气窗)】`qi5 chuan1` <sup>[如东]</sup> 窗的一种，一般设在山墙上，供透气用。  
-1. 【[气得个董卓咖似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_gu_don.md#气得个董卓咖似的)】`qi5 deh gu9 don3 zhuah7 ga sz6 dii` <small>/t͡ɕʰʝ5 təʔ kɤɯ9 tɔŋ3 t͡suɑʔ7 ka sɿ1 təɪ/<sup>泰兴</sup></small> 汉末大军阀董卓貌凶恶，十分难看。喻气极面相十分难看。<sup>\[泰兴\]</sup>  
+1. 【[气得个董卓咖似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_gu_don.md#气得个董卓咖似的)】`qi5 deh gu9 don3 zhuah7 ga sz6 dii` <small>/t͡ɕʰʝ5 təʔ kɤɯ1 tɔŋ3 t͡suɑʔ7 ka sɿ1 təɪ/<sup>泰兴</sup></small> 汉末大军阀董卓貌凶恶，十分难看。喻气极面相十分难看。<sup>\[泰兴\]</sup>  
 1. 【[气得只喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_zheh_kv.md#气得只喖)】`qi5 deh7 zheh7 kv2` <sup>[如皋]</sup> 很生气。生气到极点。  
 1. 【[气灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_den.md#气灯)】`qi5 den1` <sup>[如东]</sup> 一种灯。把煤油装在一只密封的容器里，通过加气压，使喷头喷出来的煤油雾化，洒在纱罩上，燃烧发光。  
 1. 【[气福倓寿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_foh_taen_sheu.md#气福倓寿的)】`qi5 foh7 taen2 sheu6 dii` <sup>[如皋]</sup> 体态丰满，满面红光、有福长寿的样子。  
@@ -740,7 +740,7 @@
 1. 【[吃刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_guaeh.md#吃刮)】`qieh7 guaeh7` <sup>[兴化]</sup> ① 指吃的东西：今朝我俫几个人值夜班，带点儿～去，大家聚聚。 ② 吃喝：有酒有肉，一老一小～起来啊。  
 1. 【[吃官司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gun_sz.md#吃官司)】`qieh7 gun1 sz1` <sup>[如东]</sup> 坐牢。  
 1. 【[吃干饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gun_faen.md#吃干饭)】`qieh7 gun1 faen6` <small>/t͡ɕʰiəʔ7 kũ1 fɛ̃6/<sup>兴化</sup>, /t͡ɕʰiəʔ7 kʊ̃1 fɛ̃1/<sup>泰兴</sup></small> ① ［引］只吃饭，不做事。<sup>\[东台\]</sup> ② 指人吃粮不管事<sup>\[兴化\]</sup>：连这点事都管不了，你是～的啊？<sup>\[兴化\]</sup> ③ 谓只吃饭不干事或只会吃饭不会干事<sup>\[泰兴\]</sup>  
-1. 【[吃虾<sub>儿</sub>少不掉只脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ha_r_sho.md#吃虾<sub>儿</sub>少不掉只脚)】`qieh7 ha1 r sho3 beh tio6 zheh9 jiah7` <small>/t͡ɕʰiəʔ7 xɑ˞1 sɔ3 pəʔ tʰiɔ1 t͡səʔ9 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 比喻双方极其亲近，任何利益都共享。<sup>\[泰兴\]</sup>  
+1. 【[吃虾<sub>儿</sub>少不掉只脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ha_r_sho.md#吃虾<sub>儿</sub>少不掉只脚)】`qieh7 ha1 r sho3 beh tio6 zheh9 jiah7` <small>/t͡ɕʰiəʔ7 xɑ˞1 sɔ3 pəʔ tʰiɔ1 t͡səʔ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 比喻双方极其亲近，任何利益都共享。<sup>\[泰兴\]</sup>  
 1. 【[吃蠚骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_hah_pin.md#吃蠚骗)】`qieh7 hah7 pin5` <small>/t͡ɕʰiəʔ7 xaʔ7 pʰiɪ̃5/<sup>兴化</sup>, /t͡ɕʰiəʔ7 xaʔ7 pʰĩ5/<sup>如皋</sup></small> ① 骗吃、骗喝或跟着别人去白吃。<sup>\[如皋\]</sup> ② 在别人后边骗吃骗喝<sup>\[兴化\]</sup>：他专～，见哪块有宴请就托熟坐下来。<sup>\[兴化\]</sup> ③ 紧傍他人阿谀以骗吃喝<sup>\[泰州\]</sup>：这小伙没出息，成天跟吖他家老板后头～。<sup>\[泰州\]</sup>｜他玩的些朋友哿有个是正经人，个个在他面前说好话哄他高兴，才好～㖸。<sup>\[泰州\]</sup>  
 1. 【[吃黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_heh.md#吃黑)】`qieh7 heh7` <small>/t͡ɕʰiəʔ7 xəʔ7/<sup>如皋</sup></small> ① 中饱、贪污。<sup>\[如皋\]</sup> ② 中饱，贪污。<sup>\[如东\]</sup>：这些人～。<sup>\[如东\]</sup>  
 1. 【[吃好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ho_sheh.md#吃好食)】`qieh7 ho3 sheh8` <sup>[如东]</sup> 乘机占便宜想好处：这个人爱～，你要注意。  

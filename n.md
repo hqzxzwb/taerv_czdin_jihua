@@ -268,7 +268,7 @@
 1. 【[宁断不弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_tun_beh_vaen.md#宁断不弯)】`nen6 tun6 beh7 vaen1` <sup>[如皋]</sup> 状十分倔强。  
 1. 【[宁为鸡头，不为牛后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_vei_ji_teu.md#宁为鸡头，不为牛后)】`nen6 vei2 ji1 teu2 beh7 vei2 ngeu2 heu6` <sup>[东台]</sup> 在小单位有自主权比在大单位听人使唤强。  
 1. 【[恁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#恁)】`nen6` <small>/nəŋ1/<sup>泰兴</sup></small> 代词，此、这，不一定近指或远指<sup>\[泰兴\]</sup>：～吖/这么，如此<sup>\[泰兴\]</sup>｜～个/这个<sup>\[泰兴\]</sup>｜～种事/这种事<sup>\[泰兴\]</sup>  
-1. 【[恁个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gu.md#恁个)】`nen6 gu9` <small>/nəŋ1 kɤɯ9/<sup>泰兴</sup></small> 这个，不一定近指或远指<sup>\[泰兴\]</sup>：你～人，怎吖～样子的？<sup>\[泰兴\]</sup>  
+1. 【[恁个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_gu.md#恁个)】`nen6 gu9` <small>/nəŋ1 kɤɯ1/<sup>泰兴</sup></small> 这个，不一定近指或远指<sup>\[泰兴\]</sup>：你～人，怎吖～样子的？<sup>\[泰兴\]</sup>  
 1. 【[恁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_nga.md#恁吖)】`nen6 nga` <small>/nəŋ1 ŋa/<sup>泰兴</sup></small> 这样，这么，如此<sup>\[泰兴\]</sup>  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng` <sup>[如东]</sup> 回答问题的词语，表示赞成或同意。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng1` <sup>[东台]</sup> （叹词）表示应答。  

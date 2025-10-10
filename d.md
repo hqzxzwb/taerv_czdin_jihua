@@ -1884,7 +1884,7 @@
 1. 【[点拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_buh.md#点拨)】`din3 buh7` ① 指点，教诲。<sup>\[如东\]</sup> ② 指出来使人知道<sup>\[东台\]</sup>：他在商场买啊假货，经人～，向消协举报，才获得赔偿。<sup>\[东台\]</sup>  
 1. 【[点菜吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_cae_qieh_faen.md#点菜吃饭)】`din3 cae5 qieh7 faen6` <sup>[如皋]</sup> 随心所好，想吃什么就点什么，不必自己动手做。  
 1. 【[点灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_den.md#点灯)】`din3 den1` <sup>[如皋]</sup> 点亮油灯、蜡烛等照明灯具。  
-1. 【[点点眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_ngaen_ngaen.md#点点眼眼)】`din3 din ngaen9 ngaen` <small>/tĩ3 tĩ ŋɛ̃9 ŋɛ̃/<sup>泰兴</sup></small> 微小，很少。<sup>\[泰兴\]</sup>  
+1. 【[点点眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_ngaen_ngaen.md#点点眼眼)】`din3 din ngaen9 ngaen` <small>/tĩ3 tĩ ŋɛ̃1 ŋɛ̃/<sup>泰兴</sup></small> 微小，很少。<sup>\[泰兴\]</sup>  
 1. 【[点点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_r.md#点点<sub>儿</sub>)】`din3 din r` <small>/tĩ3 ti˞/<sup>泰兴</sup>, /tiɪ̃3 tiɪ̃ ɚ/<sup>泰县</sup></small> 一点点。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[点点戳戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_chuah_chuah.md#点点戳戳)】`din3 din3 chuah7 chuah7` <small>/tiɪ̃3 tiɪ̃3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>兴化</sup>, /tĩ3 tĩ3 t͡sʰuaʔ7 t͡sʰuaʔ7/<sup>如皋</sup></small> ① 指着背后议论是非。<sup>\[如皋\]</sup> ② 对人背后发议论<sup>\[兴化\]</sup>：小区的人～的，说她是老板的二奶。也说“指指戳戳”。<sup>\[兴化\]</sup>  
 1. 【[点点脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_jiah_baen.md#点点脚班)】`din3 din3 jiah7 baen1` <sup>[如皋]</sup> 见“老鹰叉小鸡儿”。  
@@ -1965,7 +1965,7 @@
 1. 【[踮脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jiah_r.md#踮脚<sub>儿</sub>)】`din5 jiah7 r` <sup>[如皋]</sup> 走路悬踵的姿式或畸型。  
 1. 【[踮起脚来相嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qi_jiah_lae.md#踮起脚来相嘴)】`din5 qi3 jiah7 lae2 xian1 jy3` <sup>[东台]</sup> 形容不知趣地攀高。  
 1. 【[踮起脚来相嘴——硬巴结人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qi_jiah_lae.md#踮起脚来相嘴——硬巴结人)】`din5 qi3 jiah7 lae2 xian1 jy3 ngen6 ba1 jih7 ren2` <sup>[东台]</sup>   
-1. 【[点<sub>儿</sub>眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_ngaen_r.md#点<sub>儿</sub>眼<sub>儿</sub>)】`din9 r ngaen9 r` <small>/ti˞9 ŋɛ˞9/<sup>泰兴</sup></small> 一点儿，一点点。<sup>\[泰兴\]</sup>  
+1. 【[点<sub>儿</sub>眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_ngaen_r.md#点<sub>儿</sub>眼<sub>儿</sub>)】`din9 r ngaen9 r` <small>/ti˞1 ŋɛ˞1/<sup>泰兴</sup></small> 一点儿，一点点。<sup>\[泰兴\]</sup>  
 1. 【[䂏尾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_vei_r.md#䂏尾<sub>儿</sub>)】`dio1 vei3 r` <sup>[如皋]</sup> ① 短尾巴或没有尾巴 ② 比喻人绝后代。  
 1. 【[刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio.md#刁)】`dio1` <small>/tiɔ1/<sup>兴化</sup>, /tiɔ1/<sup>如皋</sup>, /tiɔ1/<sup>泰兴</sup></small> ① 形容生活的标准高妙<sup>\[如皋\]</sup>：吃得～、穿得～、吃～肴。<sup>\[如皋\]</sup> ② 形容人诡诈、爱占便宜<sup>\[兴化\]</sup>：这个人～，吃亏的事不做。<sup>\[兴化\]</sup> ③ 要求苛刻<sup>\[泰兴\]</sup>：嘴～/挑食<sup>\[泰兴\]</sup> ④ 狡诈；阴险；鬼点子多。乡人有“刁啊刁，串子绳束裤腰”之熟语，谓刁狡者反而过很苦的日子。<sup>\[泰兴\]</sup> ⑤ 狡诈，狡猾<sup>\[泰州\]</sup>：他这个人的～在单位上是出咖名的。<sup>\[泰州\]</sup> ⑥ 对事物及其挑剔<sup>\[泰州\]</sup>：他的嘴～得狠，隔咖宿的菜一口都不吃。<sup>\[泰州\]</sup>  
 1. 【[刁笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_bieh.md#刁笔)】`dio1 bieh7` <sup>[东台]</sup> 指旧时包揽讼事的讼棍。也称“破靴”。  
@@ -2358,7 +2358,7 @@
 1. 【[多多余剩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_y_chen.md#多多余剩)】`du1 du1 y2 chen5` <sup>[兴化]</sup> 超过所需要的数量：到苏州玩三天，带两千块～。  
 1. 【[多个朋友多条路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_pon_ieu.md#多个朋友多条路)】`du1 gu pon2 ieu3 du1 tio2 lv6` <small>/tɤɯ1 kɤɯ pʰɔŋ2 iɤɯ3 tɤɯ1 tʰiɔ2 lu1/<sup>泰兴</sup></small> ① 结交好朋友越多越好。<sup>\[东台\]</sup> ② 谓朋友多了，办事的路子就宽了。<sup>\[泰兴\]</sup>  
 1. 【[多个青虫吃口菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_qien_chon.md#多个青虫吃口菜)】`du1 gu qien1 chon2 qieh7 keu3 cae5` <sup>[东台]</sup> ［喻］指多一个人就多一个参与分配的份，多一个竞争对手。也作“多个青虫少棵菜”。  
-1. 【[多个青虫吃棵菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_qien_chon.md#多个青虫吃棵菜)】`du1 gu qien1 chon2 qieh7 ku9 cae5` <small>/tɤɯ1 kɤɯ t͡ɕʰiŋ1 t͡sʰɔŋ2 t͡ɕʰiəʔ7 kʰɤɯ9 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 喻人多了会分享有限的既得利益。<sup>\[泰兴\]</sup>  
+1. 【[多个青虫吃棵菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_qien_chon.md#多个青虫吃棵菜)】`du1 gu qien1 chon2 qieh7 ku9 cae5` <small>/tɤɯ1 kɤɯ t͡ɕʰiŋ1 t͡sʰɔŋ2 t͡ɕʰiəʔ7 kʰɤɯ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 喻人多了会分享有限的既得利益。<sup>\[泰兴\]</sup>  
 1. 【[多果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu.md#多果)】`du1 gu3` <sup>[东台]</sup> 什么时候。也说“多一果”。“果”是“刻儿”快读转音：～到我家去喝几杯？  
 1. 【[多过啊几个五月十三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_gu_a_ji.md#多过啊几个五月十三)】`du1 gu5 a ji3 gu v3 iuh8 sheh8 saen1` <sup>[如皋]</sup> 年长、年老、资格老。五月十三，传为关羽生日，借指年岁。  
 1. 【[多话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_hua.md#多话)】`du1 hua6` <small>/to1 xua6/<sup>兴化</sup>, /tɤɯ1 xuɑ1/<sup>泰兴</sup></small> ① 说了不该说的话，或暗指有人吵了架。<sup>\[东台\]</sup> ② 插嘴，不该说而说<sup>\[兴化\]</sup>：你不了解情况，覅～。<sup>\[兴化\]</sup> ③ 非当事人在旁插话<sup>\[泰州\]</sup>：他俫领导吵事，不管你的事，你不要在旁边～。<sup>\[泰州\]</sup> ④ 说不该说的话<sup>\[泰州\]</sup>：都是你女将～，把人家家里弄得不安逸。<sup>\[泰州\]</sup> ⑤ 表示不该说而说。犹“多嘴”。<sup>\[泰兴\]</sup>：细伢儿不懂，不要～<sup>\[泰兴\]</sup>  

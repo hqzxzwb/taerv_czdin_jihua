@@ -131,8 +131,7 @@
 1. 【[哪晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_vaen.md#哪晚)】`la3 vaen` <sup>[东台]</sup> 什么时间（哪早晚的简称）。  
 1. 【[哪些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xia.md#哪些)】`la3 xia1` <sup>[如东]</sup> 哪一些。  
 1. 【[哪歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih.md#哪歇)】`la3 xih7` 何时  
-1. 【[哪歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_gu.md#哪歇个)】`la3 xih7 gu` <sup>[如皋]</sup> 什么时候。  
-1. 【[哪歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_gu.md#哪歇个)】`la3 xih7 gu5` <sup>[泰县]</sup> 什么时候（原文记音la3 ih7 gu5，懒音）：你～去王家的？  
+1. 【[哪歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_gu.md#哪歇个)】`la3 xih7 gu` <small>/la3 ɕiʔ7 kʊ/<sup>如皋</sup>, /lɑ3 ɕiʔ kɤɯ/<sup>泰兴</sup>, /na3 iɪʔ7 ko5/<sup>泰县</sup></small> 什么时候。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：你～去王家的？<sup>\[泰县\]</sup>  
 1. 【[哪歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_keh_r.md#哪歇刻<sub>儿</sub>)】`la3 xih7 keh9 r` <sup>[如皋]</sup> 什么时候？  
 1. 【[哪晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xio_deh.md#哪晓得)】`la3 xio3 deh7` <sup>[如皋]</sup> 难以预测：他才在这许耍子的，家去就死啊，～啋！  
 1. 【[哪早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zo_vaen.md#哪早晚)】`la3 zo3 vaen3` <small>/la3 t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /na3 t͡sɔ3 ʋɛ̃3/<sup>泰县</sup></small> ① 什么时候<sup>\[兴化\]</sup>：上海来的班车～到？<sup>\[兴化\]</sup> ② 什么时候：～他要来的？<sup>\[泰县\]</sup>  
@@ -2330,7 +2329,7 @@
 1. 【[那时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_shr.md#那时)】`lu5 shr2` <sup>[如东]</sup> 那个时候。  
 1. 【[那条号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tio_ho.md#那条号)】`lu5 tio2 ho6` <small>/lʊ5 tʰiɔ2 xɔ1/<sup>如皋</sup></small> ① 那件事。隐语。<sup>\[如皋\]</sup> ② 那件事。<sup>\[如东\]</sup>：还是～。<sup>\[如东\]</sup> ③ 老样子。<sup>\[如东\]</sup>：他还是～，死都不改。<sup>\[如东\]</sup>  
 1. 【[那些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xia.md#那些)】`lu5 xia1` <sup>[如东]</sup> 指两个以上的人或事物。  
-1. 【[那歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xih_gu.md#那歇个)】`lu5 xih7 gu` <sup>[如皋]</sup> 那时、那会儿。  
+1. 【[那歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xih_gu.md#那歇个)】`lu5 xih7 gu` <small>/lʊ5 ɕiʔ7 kʊ/<sup>如皋</sup>, /lɤɯ1 ɕiʔ1 kɤɯ/<sup>泰兴</sup></small> 那时、那会儿。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[那早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo_vaen.md#那早晚)】`lu5 zo3 vaen3` <sup>[如皋]</sup> 那时，那会儿。  
 1. 【[摞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#摞)】`lu6` <small>/lo6/<sup>兴化</sup>, /lʊ1/<sup>如皋</sup></small> ① 量词，用于叠放的东西<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup>｜一～十个钞。<sup>\[如皋\]</sup>｜一～子碗<sup>\[兴化\]</sup>｜一～子书。<sup>\[兴化\]</sup>｜两～作业本子<sup>\[泰州\]</sup> ② 叠放<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：把碗～起来。<sup>\[如皋\]</sup>｜补丁～补丁<sup>\[兴化\]</sup>｜把板凳～起来。<sup>\[兴化\]</sup>｜把脏碗～起来<sup>\[泰州\]</sup>  
 1. 【[摞宝塔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_bo_taeh.md#摞宝塔)】`lu6 bo3 taeh` <sup>[兴化]</sup> 一种珠算的练习式，从一至一百依次相加，最后得数为5050。  

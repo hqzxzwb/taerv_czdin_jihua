@@ -486,20 +486,20 @@
 1. 【[疙里疙瘩的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_lii_geh_daeh.md#疙里疙瘩的)】`geh7 lii geh7 daeh7 dii` <sup>[如皋]</sup> ① 状有小凸起，不平：桌面子不曾打磨，手摸上去～。 ② 喻有小矛盾：两个人现在有点儿～。  
 1. 【[箇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#箇)】`geh7` <small>/kəʔ7/<sup>泰兴</sup></small> ① 这，此。一些地区习惯说“箇”，另一些地区更习惯说“这(zha5)”。 ② 这么，如此，为“箇们”之省。<sup>\[泰兴\]</sup>：～大/这么大<sup>\[泰兴\]</sup>  
 1. 【[箇阵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_chen_r.md#箇阵<sub>儿</sub>)】`geh7 chen6 r` 现在，这时候  
-1. 【[箇点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_din.md#箇点)】`geh7 din9` <small>/kəʔ7 tĩ9/<sup>泰兴</sup></small> 一点点。表示少。<sup>\[泰兴\]</sup>  
+1. 【[箇点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_din.md#箇点)】`geh7 din9` <small>/kəʔ7 tĩ1/<sup>泰兴</sup></small> 一点点。表示少。<sup>\[泰兴\]</sup>  
 1. 【[箇朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do.md#箇朝)】`geh7 do` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[箇朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do_zz.md#箇朝子)】`geh7 do zz` <sup>[如皋]</sup> 见“这朝”。  
-1. 【[箇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_gu.md#箇个)】`geh7 gu9` <small>/kəʔ7 kɤɯ9/<sup>泰兴</sup></small> 这个<sup>\[泰兴\]</sup>  
+1. 【[箇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_gu.md#箇个)】`geh7 gu9` <small>/kəʔ7 kɤɯ1/<sup>泰兴</sup></small> 这个<sup>\[泰兴\]</sup>  
 1. 【[箇许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_hae.md#箇许)】`geh7 hae` ① 这里 ② 这个地方。<sup>\[如东\]</sup>：把东西放吖～。<sup>\[如东\]</sup>  
 1. 【[箇一刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_ieh_keh.md#箇一刻)】`geh7 ieh7 keh` 现在  
 1. 【[箇境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jien.md#箇境)】`geh7 jien` 这边，这面，这里  
 1. 【[箇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_keh_r.md#箇刻<sub>儿</sub>)】`geh7 keh9 r` 现在  
 1. 【[箇们](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_men.md#箇们)】`geh7 men` <small>/kəʔ7 məŋ/<sup>如皋</sup>, /kəʔ7 məŋ/<sup>泰兴</sup></small> ① 这么，如此<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 连词。反诘用语，有强调义，表“这么、这么说的话……、那么”<sup>\[如皋\]</sup>：你说没得钱哎，～你哪许来钱买皮大衣嗲？你不该打他！～他先打我的呗！<sup>\[如皋\]</sup>  
-1. 【[箇世里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shr_lii.md#箇世里)】`geh7 shr9 lii` <small>/kəʔ7 sɿ9 ləɪ/<sup>泰兴</sup></small> 这一辈子。<sup>\[泰兴\]</sup>  
+1. 【[箇世里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shr_lii.md#箇世里)】`geh7 shr9 lii` <small>/kəʔ7 sɿ1 ləɪ/<sup>泰兴</sup></small> 这一辈子。<sup>\[泰兴\]</sup>  
 1. 【[箇些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xia.md#箇些)】`geh7 xia1, geh7 xia3` <small>/kəʔ7 ɕiɑ1/<sup>泰兴</sup></small> 这么多。表示多。<sup>\[泰兴\]</sup>：～唻啊！/这么多啊！<sup>\[泰兴\]</sup>  
 1. 【[箇些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xia.md#箇些)】`geh7 xia1` <small>/kəʔ7 ɕiɑ1/<sup>泰兴</sup></small> 这些<sup>\[泰兴\]</sup>  
 1. 【[箇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih.md#箇歇)】`geh7 xih7` 现在：～几点钟？/现在几点钟？  
-1. 【[箇歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih_gu.md#箇歇个)】`geh7 xih9 gu` <small>/kəʔ7 ɕiʔ9 kɤɯ/<sup>泰兴</sup></small> 这时候，现在。<sup>\[泰兴\]</sup>  
+1. 【[箇歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_xih_gu.md#箇歇个)】`geh7 xih9 gu` <small>/kəʔ7 ɕiʔ1 kɤɯ/<sup>泰兴</sup></small> 这时候，现在。<sup>\[泰兴\]</sup>  
 1. 【[箇□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha.md#箇□)】`geh7 zha1` <small>/kəʔ7 t͡sɑ1/<sup>泰兴</sup></small> 然后，接下来<sup>\[泰兴\]</sup>  
 1. 【[箇□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zha_beh.md#箇□□)】`geh7 zha1 beh` <small>/kəʔ7 t͡sɑ1 pəʔ/<sup>泰兴</sup></small> 这下子怎么办呢？疑问句。<sup>\[泰兴\]</sup>  
 1. 【[箇种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zhon.md#箇种)】`geh7 zhon3, geh7 zhon9` <small>/kəʔ7 t͡sɔŋ3/<sup>泰兴</sup></small> 这种<sup>\[泰兴\]</sup>  
@@ -1835,7 +1835,7 @@
 1. 【[佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh.md#佮)】`guh7` <small>/kuʔ7/<sup>兴化</sup>, /kʊʔ7/<sup>如皋</sup>, /kʊʔ7/<sup>泰兴</sup>, /kʊʔ7/<sup>泰县</sup></small> ① 共享；共用；共奉<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～用、～吃、～养上人。<sup>\[如皋\]</sup>｜你俫两个人～用一本书。<sup>\[泰县\]</sup>｜两个人～睏一张床。<sup>\[泰州\]</sup>｜车子大家～用。<sup>\[泰州\]</sup> ② 缝合<sup>\[如皋\]</sup>：～缝。<sup>\[如皋\]</sup> ③ 结交，如皋词典作“搿”<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两家～得好。<sup>\[如皋\]</sup> ④ 合伙、合资、合作<sup>\[兴化\]</sup>：～做生意；～赌钱；～养性命。<sup>\[兴化\]</sup>｜～起来养鱼。<sup>\[兴化\]</sup> ⑤ 把多股纱线捻合成较粗的线<sup>\[兴化\]</sup>：～线。<sup>\[兴化\]</sup> ⑥ 按配方将多味中草药一起碾碎，制成药丸<sup>\[兴化\]</sup>：～一副丸药。<sup>\[兴化\]</sup> ⑦ 按方配合化学药剂<sup>\[兴化\]</sup>：“我家铎头平生最好弄火药，他也会～……”（《梼杌闲评》十四）<sup>\[兴化\]</sup> ⑧ 一升的十分之一<sup>\[泰兴\]</sup>：七～头的升子八～头的命，有了九～就生病。<sup>\[泰兴\]</sup> ⑨ 制作<sup>\[泰兴\]</sup>：～釜冠<sup>\[泰兴\]</sup>｜～箱子<sup>\[泰兴\]</sup>  
 1. 【[佮把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ba_zz.md#佮把子)】`guh7 ba3 zz` <sup>[泰州]</sup> 本指武打演员兵器道具对打之时，动作配合协调，比喻共事的人脾气、性格、志趣相近，相处融洽：他俫两个都是厚道人，在一起儿工作倒是蛮～的。｜这两个人不～，蹾住块儿弄不好。  
 1. 【[佮穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun.md#佮穿)】`guh7 chun1` <sup>[泰州]</sup> 多个人轮流穿一件衣服或者一双鞋子、袜子：小时候家里穷，我俫弟兄～一双球鞋，我同你家叔叔一递一个星期穿。  
-1. 【[佮穿条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun_tio_kv.md#佮穿条裤子)】`guh7 chun1 tio9 kv5 zz` <small>/kʊʔ7 t͡sʰʊ̃1 tʰiɔ9 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 谓两人关系极为亲密。<sup>\[泰兴\]</sup>  
+1. 【[佮穿条裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun_tio_kv.md#佮穿条裤子)】`guh7 chun1 tio9 kv5 zz` <small>/kʊʔ7 t͡sʰʊ̃1 tʰiɔ1 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 谓两人关系极为亲密。<sup>\[泰兴\]</sup>  
 1. 【[佮得来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_deh_lae.md#佮得来)】`guh7 deh7 lae2` <sup>[如皋]</sup> 协作得好：双方的脾气～。  
 1. 【[佮兜宝<sub>儿</sub>用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_deu_bo_r.md#佮兜宝<sub>儿</sub>用钱)】`guh7 deu1 bo3 r ion6 qin2` <sup>[如皋]</sup> 共在一个兜包儿里用钱。状关系极融洽。  
 1. 【[佮的一副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_dii_ieh_fv.md#佮的一副脸)】`guh7 dii ieh7 fv5 lin3` <sup>[东台]</sup> 同一副面子，荣辱与共。  
