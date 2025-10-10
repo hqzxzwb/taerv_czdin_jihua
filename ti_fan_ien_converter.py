@@ -72,7 +72,7 @@ def 泰兴(cz, pien_ien):
 
 def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   shen, gae, yen, tio = ien
-  if tio == '6': # 阳去并入阴平
+  if tio == '6' or tio == '9': # 6>1，9>1
     tio = '1'
   if cz in '蛆取趣娶趋聚徐咀' and shen in ['j', 'q', 'x'] and yen == 'y': # 遇摄分尖团
     shen = shih_jin_hua[shen]
@@ -95,6 +95,8 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     shen = 'sh'
   elif cz in '坯' and yen == 'i':
     yen = 'ei'
+  elif cz == '那' and tio == '5':
+    tio = '1'
   elif shen in ['zh', 'ch', 'sh'] and yen == 'eu': # 流摄翘舌转舌面
     shen = ngah_hua[shen]
     gae = 'i'
