@@ -182,7 +182,6 @@
 1. 【[海燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_in_zz.md#海燕子)】`hae3 in5 zz` <sup>[如东]</sup> 魟科动物魟，体平而扁，长约80厘米。  
 1. 【[海佳鲫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_jia_jieh.md#海佳鲫)】`hae3 jia1 jieh7` <sup>[如东]</sup> 鲷科动物真鲷、黄鲷、黑鲷，也叫海鲫鱼。  
 1. 【[海金沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_jien_sha.md#海金沙)】`hae3 jien1 sha1` <sup>[如东]</sup> 海金沙科植物海金沙，又名鸡脚藤，多年生攀援草本。  
-1. 【[海蜇头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_jih_teu_zz.md#海蜇头子)】`hae3 jih7 teu2 zz` <sup>[兴化]</sup> ① 生活在海中的腔肠动物。其伞状部分叫海蜇皮，口腕叫～，可吃。（蜇异读，原文记音如此。） ② （喻）单薄破旧的被单、行李：瞎老子朝铺上一睡，十三四块～被子给老子盖起来。（《武松》二）  
 1. 【[海葵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_kuei.md#海葵)】`hae3 kuei2` <sup>[如东]</sup> 腔肠动物，形状像圆筒，没有骨骼。上端生着许多大小不同的触手，颜色鲜艳。固定在海底岩石上，有的生在寄居蟹所寄居的螺壳上，跟寄居蟹过共居生活。以小鱼等为食物。  
 1. 【[海里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_li.md#海里)】`hae3 li3` <sup>[如东]</sup> 计量海洋上距离的长度单位。一海里等于1852米。旧称浬。  
 1. 【[海蛎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_li_zz.md#海蛎子)】`hae3 li6 zz` <sup>[如东]</sup> 牡蛎。  
@@ -215,6 +214,7 @@
 1. 【[海鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_xin.md#海鲜)】`hae3 xin1` <sup>[东台]</sup> 供食用的新鲜海产品。  
 1. 【[海蜇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_zheh.md#海蜇)】`hae3 zheh7` ① 一种海产动物，海产食品。<sup>\[东台\]</sup> ② 海蜇科动物海蜇，体呈淡蓝色，分为伞部和口腕两部，伞状部分叫海蜇皮，口腕部分叫海蜇头。<sup>\[如东\]</sup>  
 1. 【[海蜇瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_zheh_gua_r.md#海蜇瓜<sub>儿</sub>)】`hae3 zheh7 gua1 r` <sup>[如皋]</sup> 笋瓜的一种。  
+1. 【[海蜇头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_zheh_teu_zz.md#海蜇头子)】`hae3 zheh7 teu2 zz` <small>/xɛ3 t͡siɪʔ7 tʰɤ2 t͡sɿ/<sup>兴化</sup></small> ① 生活在海中的腔肠动物。其伞状部分叫海蜇皮，口腕叫～，可吃。（《兴化方言词典》蜇音jih7，《江苏兴化方言音系》蜇音zih7）<sup>\[兴化\]</sup> ② （喻）单薄破旧的被单、行李<sup>\[兴化\]</sup>：瞎老子朝铺上一睡，十三四块～被子给老子盖起来。（《武松》二）<sup>\[兴化\]</sup>  
 1. 【[海子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_zz.md#海子)】`hae3 zz` <small>/xɛ3 t͡sɿ/<sup>兴化</sup></small> ① 容器。线绳结成的网袋，口缚在圆形的竹圈上。可以盛东西。<sup>\[如东\]</sup>：明天下海要带3只～<sup>\[如东\]</sup> ② 小的湖泊<sup>\[兴化\]</sup>：～池位于兴化城内北部。<sup>\[兴化\]</sup>  
 1. 【[海子牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_zz_ngeu.md#海子牛)】`hae3 zz ngeu2` <sup>[如东]</sup> 相传在元代，王家潭沿海一带的水牛经过自然杂交，产生一个新品种，体型大，角长，眼圆有神，四肢短粗，耐力强，性情温顺，可以拉车、耕田，是优良的力畜，百姓称之为海子牛，成为如东标志性牲畜。  
 1. 【[蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae.md#蟹)】`hae3` 蟹  
