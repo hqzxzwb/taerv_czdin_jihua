@@ -327,6 +327,8 @@ def 兴化(cz, pien_ien):
   if cz == '拚' and shen + gae + yen == 'pun' and tio in ['', '1']:
     yen = 'aen'
     tio = {'': '', '1': '6'}[tio]
+  elif cz == '蜇' and yen == 'eh':
+    yen = 'ih'
   elif shen not in ['j', 'q', 'x', ''] and gae + yen in ['ien', 'ieh']: # ien->in，ieh->ih
     gae = ''
     yen = 'i' + yen[1:]
