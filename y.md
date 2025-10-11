@@ -128,7 +128,7 @@
 1. 【[与务一切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_v_ieh_qih.md#与务一切)】`y6 v6 ieh7 qih7` <sup>[东台]</sup> 指与此事务有关的一切开支：我家房子这次装修的木工，瓦工、水电费用，～不过五万元。  
 1. 【[玉边竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_bin_zhoh.md#玉边竹)】`y6 bin1 zhoh7` <sup>[如皋]</sup> 竹叶有白边的一种观赏竹。  
 1. 【[玉芦秫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_lv_xieh.md#玉芦秫)】`y6 lv2 xieh7` <small>/y6 lu2 ɕiəʔ7/<sup>兴化</sup>, /ɻy1 nu2 ɕiɪʔ7/<sup>泰县</sup></small> 玉米。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
-1. 【[玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi.md#玉米)】`y6 mi` <sup>[如东]</sup> 禾本科植物玉蜀黍，一年生草本。高约4米。秤粗壮，直立。节间有髓。叶片长大，扁平，剑形。雄性囡锥花序顶生，雌性小穗孪生，排列于海绵状的穗轴上。颖果略呈扁球形。田间种植。  
+1. 【[玉米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi.md#玉米)】`y6 mi` <small>/y1 mʝ/<sup>泰兴</sup></small> 玉米<sup>\[如东\]</sup>\[泰兴：又音mi1 mi\]  
 1. 【[玉米花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_hua.md#玉米花)】`y6 mi hua1` <small>/y1 mʝ xuɑ1/<sup>泰兴</sup></small> 以玉米爆成的花状食品。<sup>\[泰兴\]</sup>  
 1. 【[玉米苞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_bo_zz.md#玉米苞子)】`y6 mi3 bo1 zz` <sup>[如东]</sup> 玉米棒子外面的苞衣。  
 1. 【[玉米䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_mi_chae_r.md#玉米䜺<sub>儿</sub>)】`y6 mi3 chae3 r` <sup>[如东]</sup> 玉米磨成的碎粒。  
