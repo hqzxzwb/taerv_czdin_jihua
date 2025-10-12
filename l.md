@@ -953,7 +953,7 @@
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
 1. 【[理不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh_do.md#理不到)】`li3 beh7 do5` <sup>[东台]</sup> 记不得，顾不上：医生关照我锻炼，可我病一好就～啊。  
-1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <small>/ləi3 t͡sʰəʔ8/<sup>兴化</sup>, /lʝ3 t͡sʰəʔ8/<sup>泰兴</sup></small> 安排、处理<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[兴化：调理\]：家里的事也要去～下子。<sup>\[如东\]</sup>｜出差家来，先把积压的事情～咖子。<sup>\[兴化\]</sup>｜你这一向面黄肌瘦，要请个先生～～。<sup>\[兴化\]</sup>  
+1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <small>/ləi3 t͡sʰəʔ8/<sup>兴化</sup>, /lʝ3 t͡sʰəʔ8/<sup>泰兴</sup></small> 安排、处理<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[兴化：调理\]：家里的事也要去～下子。<sup>\[如东\]</sup>｜出差家来，先把积压的事情～咖子。<sup>\[兴化\]</sup>｜我先把手上的事～下子<sup>\[泰兴\]</sup>｜你这一向面黄肌瘦，要请个先生～～。<sup>\[兴化\]</sup>  
 1. 【[理归理，法归法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_guei_li_faeh.md#理归理，法归法)】`li3 guei1 li3， faeh7 guei1 faeh7` <sup>[东台]</sup> 尽管有一定道理，但是法比理大，还得依法办事：你的困难我晓得，但是～，这笔款子本月无论如何要还清。  
 1. 【[理料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lio.md#理料)】`li3 lio6` <sup>[如皋]</sup> 料理、解决。  
 1. 【[理拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheh.md#理拾)】`li3 sheh` <sup>[如皋]</sup> 过问、处理、收拾。  
@@ -1030,6 +1030,7 @@
 1. 【[离榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_xyen.md#离榫)】`li6 xyen3` <sup>[兴化]</sup> 器物的榫从卯眼中脱出：这张桌子捱他一拖一拉，全离啊榫。  
 1. 【[𤃀灰水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_huei_shuei.md#𤃀灰水)】`li6 huei1 shuei3` <small>/lʝ1 xuei1 suei3/<sup>如皋</sup></small> ① 用草木灰滤出水来，旧时用以洗衣。<sup>\[如皋\]</sup> ② 见“淋灰水”。<sup>\[如皋\]</sup>  
 1. 【[𤃀浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_jian.md#𤃀浆)】`li6 jian1` <small>/lʝ1 t͡ɕiã1/<sup>如皋</sup></small> 将黄豆磨出的豆浆、蚕豆磨出的粉浆、米酒的洒浆之类用浆布过滤，以去渣或去水。<sup>\[如皋\]</sup>  
+1. 【[掠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah.md#掠)】`liah8` <small>/liɑʔ8/<sup>泰兴</sup></small> 粗略扫。<sup>\[泰兴\]</sup>  
 1. 【[掠进眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah_jien_ngaen.md#掠进眼)】`liah8 jien5 ngaen3` <sup>[东台]</sup> 偶尔一见，就引起关注：他那天表演时捱她～，一见钟情。  
 1. 【[略𧺕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/liah_shah.md#略𧺕)】`liah8 shah8` <sup>[如皋]</sup> 方向难辨：有的路段蛮～的，分不清是朝东朝南。  
 1. 【[凉匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_bin.md#凉匾)】`lian2 bin3` <small>/liaŋ2 piɪ̃3/<sup>兴化</sup>, /liã2 pĩ3/<sup>如皋</sup></small> ① 精篾编制的席装在长圆形的粗篾壳中做成的睡具。<sup>\[如皋\]</sup> ② 见“团匾”。<sup>\[如皋\]</sup> ③ 竹篾编成的长匾，可用来晒物，夏天也可作睡具。<sup>\[兴化\]</sup> ④ 用竹篾编成的圆形或长圆形平底浅框器具，大小不一，农村人用来养蚕或者晒面。城里人用一种两端带弧度的长匾，可供一个成年人或两个小孩睡于其中，居民主要用于夏天晚上乘凉。<sup>\[泰州\]</sup>  

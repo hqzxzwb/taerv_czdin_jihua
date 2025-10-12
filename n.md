@@ -150,10 +150,11 @@
 1. 【[耐脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_zan.md#耐脏)】`nae6 zan1` <small>/nɛ1 t͡sã1/<sup>如皋</sup></small> ① 长期使用不觉脏。<sup>\[如皋\]</sup> ② 颜色深，沾染一点脏物不会显眼。<sup>\[如东\]</sup>：青布～。<sup>\[如东\]</sup> ③ 又叫“耐涴”，不容易显出污迹来<sup>\[东台\]</sup>：这件衬衫不～。<sup>\[东台\]</sup>  
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nae_dae.md#褦襶)】`nae6 dae` ① 愚蠢，不懂事。<sup>\[如东\]</sup>：这个伢儿有些～。<sup>\[如东\]</sup> ② 不懂事。（见《现代汉语词典》第六版930页）<sup>\[东台\]</sup> ③ 与“䐯膗”近义，臃肿庞大<sup>\[东台\]</sup>：这身衣裳太大，嫌～。<sup>\[东台\]</sup> ④ 体态臃肿的样子<sup>\[泰州\]</sup>：人这吖胖，再穿吖个厚羽绒服，～煞咖唻。<sup>\[泰州\]</sup> ⑤ 思维愚钝不伶俐<sup>\[泰州\]</sup>：这小伙～，这些辣手的事情不能交把他去处理。<sup>\[泰州\]</sup>  
 1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#㖸)】`naeh` <sup>[泰州]</sup> ① 语气助词，表示提醒：毛笔字要这样子写～。 ② 表示疑问：你家科长人～？｜你买的东西～？ ③ 表示选择：你高兴～就支持他两个，不高兴～就拉倒。  
-1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <sup>[兴化]</sup> 汉字笔划，形状是“㇏”。  
+1. 【[捺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#捺)】`naeh8` <small>/næʔ8/<sup>泰兴</sup></small> ① 汉字笔划，形状是“㇏”。 ② 用手向下按<sup>\[泰兴\]</sup>  
 1. 【[捺住性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_chv_xien_zz.md#捺住性子)】`naeh8 chv xien5 zz` <sup>[泰州]</sup> 努力控制住心中升起的怒火：他这些话太过分！我～不曾同他发火。  
 1. 【[捺䬣𩟐/疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_daeh.md#捺䬣𩟐/疙瘩)】`naeh8 geh7 daeh7` <sup>[泰州]</sup> 制作䬣𩟐，将厚糊状面团用勺子或者筷子披开拨堕入滚水之中，煮熟即成。  
 1. 【[捺䬣饤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_dien_r.md#捺䬣饤<sub>儿</sub>)】`naeh8 geh7 dien1 r` <sup>[如皋]</sup> 在糊糊面里捺进面䬣饤儿。  
+1. 【[捺脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_lu_ien.md#捺脶印)】`naeh8 lu3 ien5` <small>/næʔ8 lɤɯ3 iŋ5/<sup>泰兴</sup></small> 按手印。<sup>\[泰兴\]</sup>  
 1. 【[捺捺馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_naeh_shaen.md#捺捺馋)】`naeh8 naeh8 shaen2` <sup>[东台]</sup> 这里捺，即忍耐。指只能稍微解一下食欲，不能尽兴：过去只有过年才弄点儿肉～。  
 1. 【[捺性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_xien_zz.md#捺性子)】`naeh8 xien5 zz` <sup>[兴化]</sup> 抑制性情，耐下心来：当幼儿教师先要～。｜做老年人的工作要捺下性子来。  
 1. 【[捺鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_y_r.md#捺鱼<sub>儿</sub>)】`naeh8 y2 r` <sup>[东台]</sup> 见“面鱼儿”。  
@@ -162,9 +163,7 @@
 1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 骂人语。谓进棺材。多用于骂小孩。  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <small>/neʔ8 kʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 詈语，咒小孩早死。<sup>\[如皋\]</sup> ② 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话。<sup>\[如东\]</sup>：你这个～。<sup>\[如东\]</sup>  
-1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <sup>[泰县]</sup> 难得：你～来。  
-1. 【[难般](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难般)】`naen2 baen` 难得<sup>\[泰州\]</sup>：你家儿子～休息，就让他多睏一刻儿。<sup>\[泰州\]</sup>｜他在新疆工作，～家来一趟。<sup>\[泰州\]</sup>  
-1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen3` <small>/lɛ̃2 pɛ̃3/<sup>兴化</sup></small> ① 难得 ② 难得：我不常上街，～遇到你。<sup>\[兴化\]</sup>  
+1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <small>/lɛ̃2 pɛ̃3/<sup>兴化</sup>, /nɛ̃2 pɛ̃/<sup>泰县</sup></small> 难得<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：我不常上街，～遇到你。<sup>\[兴化\]</sup>｜你～来。<sup>\[泰县\]</sup>｜你家儿子～休息，就让他多睏一刻儿。<sup>\[泰州\]</sup>｜他在新疆工作，～家来一趟。<sup>\[泰州\]</sup>  
 1. 【[难不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chah.md#难不着)】`naen2 beh chah8` <sup>[泰县]</sup> 难道：～她一来，你就不怕吃酒啊啦？  
 1. 【[难不成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chen.md#难不成)】`naen2 beh chen2` <sup>[兴化]</sup> 副词，相当于“难道”：吃了这么大的亏，～就罢了吗？｜“……店是姓云的店，～你就想拦着他不进来吗……”（《广陵潮》五）  
 1. 【[难不着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_beh_chah.md#难不着)】`naen2 beh7 chah8` <sup>[东台]</sup> 难道。也作“难不成”：你还乱吹，～人家不比你强？  
@@ -1517,12 +1516,14 @@
 1. 【[黏䐈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zhr.md#黏䐈)】`nin2 zhr3` <sup>[如东]</sup> 黏性很强的汁液：这种玉米好，煮熟咖，～交关长。  
 1. 【[黏滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz_zz.md#黏滋滋)】`nin2 zz1 zz1` <small>/liɪ̃2 t͡sɿ1 t͡sɿ1/<sup>兴化</sup></small> ① 形容很黏、很稠<sup>\[兴化\]</sup>：煮烂的芋头子儿～的。<sup>\[兴化\]</sup> ② 黏而滑的感觉<sup>\[泰州\]</sup>：才打过球的，身上～的，要先冲个澡。<sup>\[泰州\]</sup>  
 1. 【[捻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#捻)】`nin3` <small>/nĩ3/<sup>泰兴</sup></small> ① 搓。<sup>\[如东\]</sup>：～鞋绳儿。<sup>\[如东\]</sup> ② 用拇指和食指、中指夹住物体转动<sup>\[泰州\]</sup>：你把线头～啊子，线就穿进去唻。<sup>\[泰州\]</sup> ③ 用手指搓转<sup>\[泰兴\]</sup>：～麻纺棉<sup>\[泰兴\]</sup>  
+1. 【[捻麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ma.md#捻麻)】`nin3 ma2` <small>/nĩ3 mɑ2/<sup>泰兴</sup></small> 以手指捻搓转动，使麻成线。乡人谓将苎麻纤维捻成细线供织夏布用的过程为“捻麻”。<sup>\[泰兴\]</sup>  
 1. 【[捻纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sha.md#捻纱)】`nin3 sha1` <sup>[如皋]</sup> 用手工把棉花捻成棉纱。  
 1. 【[捻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_teu.md#捻头)】`nin3 teu2, nin3 teu` <sup>[如皋]</sup> 旧式水车车轴两端的铸铁轴头。  
 1. 【[捻线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xin_tu_zz.md#捻线砣子)】`nin3 xin5 tu2 zz` <sup>[如皋]</sup> 猪或牛髈骨中段横穿铁钩做成的捻线工具。  
 1. 【[捻棕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zon.md#捻棕)】`nin3 zon1` <sup>[如皋]</sup> 将棕毛捻成线，留作他用。  
 1. 【[捻捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zuen.md#捻捘)】`nin3 zuen5` <small>/nĩ3 t͡suəŋ5/<sup>如皋</sup></small> ① 见“上捘”。<sup>\[如皋\]</sup> ② 上捘。<sup>\[如皋\]</sup>  
 1. 【[捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#捻子)】`nin3 zz` <sup>[如皋]</sup> 引火线。  
+1. 【[捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#捻子)】`nin3 zz` <small>/nĩ3 t͡sɿ/<sup>泰兴</sup></small> 用纸、纱等做成的条形或带状物，多作点火或引火用。<sup>\[泰兴\]</sup>：纸～<sup>\[泰兴\]</sup>  
 1. 【[撵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#撵)】`nin3` <sup>[兴化]</sup> 追赶：他跑得快，我～好半天才截住他。  
 1. 【[碾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#碾)】`nin3` <sup>[如皋]</sup> 用脚搓：药工用双脚踏住碾盘的轴，在碾槽里～药；把烟头～熄。  
 1. 【[碾场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chan.md#碾场)】`nin3 chan2` <sup>[如皋]</sup> ① 在大场上用滚子碾压脱粒。 ② 做场时压实土层。  

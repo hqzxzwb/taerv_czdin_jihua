@@ -1711,6 +1711,7 @@
 1. 【[噎人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren.md#噎人)】`ih7 ren` <small>/iʔ7 ɻəŋ/<sup>泰兴</sup></small> 食物干涩难以下咽。<sup>\[泰兴\]</sup>  
 1. 【[噎人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren_zz.md#噎人子)】`ih7 ren zz` <sup>[如皋]</sup> 食物过乾，难以下噎。  
 1. 【[噎人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_ren.md#噎人)】`ih7 ren2` <sup>[如东]</sup> 食物黏性大，吞噎时，喉管有挤胀的感觉。  
+1. 【[掖被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_pi_zz.md#掖被子)】`ih7 pi6 zz` <small>/iʔ7 pʰʝ1 t͡sɿ/<sup>泰兴</sup></small> 把被子靠身压紧。<sup>\[泰兴\]</sup>  
 1. 【[擪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih.md#擪)】`ih7` <small>/iʔ7/<sup>如皋</sup></small> ① 往身边塞\[如皋：如皋词典写“掖”。\]：～被单头。<sup>\[如皋\]</sup> ② 轻按<sup>\[东台\]</sup>：快把伤口～下子。<sup>\[东台\]</sup> ③ 贴近<sup>\[东台\]</sup>：他～咖妈妈怀里<sup>\[东台\]</sup>｜奶奶宝贝她，她也～奶奶。<sup>\[东台\]</sup> ④ 用布、纸之类轻轻按在少量液体上将其吸走<sup>\[泰州\]</sup>：你弄餐巾纸把滴咖桌上的油～掉。<sup>\[泰州\]</sup>｜他手上划啊个口子，你拿棉花同他～咖子。<sup>\[泰州\]</sup> ⑤ 撒粉末、粒状物覆盖他物之上<sup>\[泰州\]</sup>：伢儿屙啊地下唻，弄点儿灰把它～掉。<sup>\[泰州\]</sup>｜伢儿颈项里全是痱子，弄点儿粉同他～咖子。<sup>\[泰州\]</sup>  
 1. 【[擪戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_qian.md#擪戗)】`ih7 qian` <sup>[如皋]</sup> ① 妥贴：家具放得蛮～的。 ② 幹练：做事～。 ③ 隐蔽：把贵重杲子放吖～的地方。 ④ 平安、富足、平静：他的日子过得～。  
 1. 【[𢩮粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ih_fen.md#𢩮粉)】`ih7 fen3` <sup>[如皋]</sup> 用爽身粉涂揸在皮肤皱折处。  
@@ -1895,6 +1896,7 @@
 1. 【[掩扯<sub>儿</sub>摸鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_cha_r_mah.md#掩扯<sub>儿</sub>摸鼻子)】`in3 cha3 r mah8 pieh8 zz` <sup>[东台]</sup> 通过一些下意识的小动作分散别人注意力，回避某些事情。  
 1. 【[掩嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jy_r_xio.md#掩嘴<sub>儿</sub>笑)】`in3 jy3 r xio5` <sup>[如东]</sup> 用手帕遮住嘴唇而微笑，多指女孩子。  
 1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <sup>[如东]</sup> 把门拉拢，不加闩锁：你走的时侯要～。  
+1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <small>/ĩ3 məŋ2/<sup>泰兴</sup></small> 将门关上，但不关紧或不加锁。<sup>\[泰兴\]</sup>：把门掩起来<sup>\[泰兴\]</sup>  
 1. 【[掩门方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men_fan.md#掩门方)】`in3 men2 fan1` <sup>[如东]</sup> 门栊。  
 1. 【[掩密](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mieh.md#掩密)】`in3 mieh8` <sup>[兴化]</sup> 隐蔽不外露：你囥钱的地方不～，露啊白。｜“你们做事也该放～一些，怎么就都睡着了，使老爹看见……”（《梼杌闲评》十五）  
 1. 【[掩人耳目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ren_er_moh.md#掩人耳目)】`in3 ren2 er3 moh8` <sup>[东台]</sup> ［喻］以假象蒙骗别人  

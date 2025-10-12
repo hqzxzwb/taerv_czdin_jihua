@@ -1842,7 +1842,7 @@
 1. 【[晃脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_jiah.md#晃脚)】`huan5 jiah7` <sup>[如东]</sup> 爱干冒险活动的人：这家伙是个～。  
 1. 【[晃麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma_ieu.md#晃麻油)】`huan5 ma2 ieu2` <sup>[兴化]</sup> 用装有长柄的空心铜锤，在研磨过的熟芝麻浆上不停地压，让麻油渗出，油渣沉于缸底。  
 1. 【[晃荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tan.md#晃荡)】`huan5 tan6` <sup>[如东]</sup> 闲逛，游荡。  
-1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <sup>[兴化]</sup> 击、打：～他两家伙；～他嘴巴子。  
+1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>泰兴</sup></small> 击、打<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～他两家伙；～他嘴巴子。<sup>\[兴化\]</sup>｜～他个vah7 jien1<sup>\[泰兴\]</sup>  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <sup>[如皋]</sup> 朽：柱棵脚儿～掉啊。  
 1. 【[䶤𪘼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_laeh.md#䶤𪘼)】`hueh7 laeh` <sup>[如皋]</sup> 象声词：啮物声、咀嚼声。  
 1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` <small>/xuəʔ7/<sup>如皋</sup></small> 小睡<sup>\[如皋\]</sup>：吃咖饭，隑啊沙发上～着咖刻儿。<sup>\[如皋\]</sup>  

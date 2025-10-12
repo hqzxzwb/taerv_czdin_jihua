@@ -562,7 +562,7 @@
 1. 【[荡动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ton.md#荡动)】`tan6 ton6` <small>/tʰɑŋ1 tʰɔŋ1/<sup>泰兴</sup></small> 摇动；摆动。<sup>\[泰兴\]</sup>  
 1. 【[荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#荡子)】`tan6 zz` <sup>[如东]</sup> ① 宽度：～不小。 ② 比喻位置，工作：给我留个～。  
 1. 【[𠫓咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga.md#𠫓咖)】`teh ga` 跟在动词及一部分形容词之后，相当于“掉了”：吃～；撂～。  
-1. 【[𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#𠫓)】`teh7` <small>/tʰəʔ7/<sup>兴化</sup>, /tʰəʔ7/<sup>泰县</sup></small> ① 掉。失落。<sup>\[如东\]</sup> ② 丢失<sup>\[兴化\]</sup>：钱包～掉啊。<sup>\[兴化\]</sup>｜宝宝挤啊～掉啊（流产）！<sup>\[兴化\]</sup>｜“……凡是冰冻之上，必有凌眼，倘若踩着凌眼，～将下去……就如一个大锅盖盖住，如何钻得上来……”（《西游记》四八）<sup>\[兴化\]</sup> ③ 落<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～咖地下。<sup>\[泰县\]</sup>｜他这个人东西～咖地下也不拾。<sup>\[泰州\]</sup>｜苹果～咖地下脏吖唻。<sup>\[泰州\]</sup> ④ 遗失<sup>\[泰州\]</sup>：～咖100块钱。<sup>\[泰州\]</sup>｜他把重要文件弄吖～掉啊。<sup>\[泰州\]</sup> ⑤ 脸部表情突然变为阴沉<sup>\[泰州\]</sup>：这小伙说话不上路，老李同他把脸朝下一～。<sup>\[泰州\]</sup>｜大家都是熟人，何必把脸～咖唻说。<sup>\[泰州\]</sup>  
+1. 【[𠫓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh.md#𠫓)】`teh7` <small>/tʰəʔ7/<sup>兴化</sup>, /tʰəʔ7/<sup>泰兴</sup>, /tʰəʔ7/<sup>泰县</sup></small> ① 丢失、遗失<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：钱包～掉啊。<sup>\[兴化\]</sup>｜宝宝挤啊～掉啊（流产）！<sup>\[兴化\]</sup>｜“……凡是冰冻之上，必有凌眼，倘若踩着凌眼，～将下去……就如一个大锅盖盖住，如何钻得上来……”（《西游记》四八）<sup>\[兴化\]</sup>｜～咖100块钱。<sup>\[泰州\]</sup>｜他把重要文件弄吖～掉啊。<sup>\[泰州\]</sup> ② 掉落<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～咖地下。<sup>\[泰县\]</sup>｜他这个人东西～咖地下也不拾。<sup>\[泰州\]</sup>｜苹果～咖地下脏吖唻。<sup>\[泰州\]</sup>｜檐头上的瓦片～下来了<sup>\[泰兴\]</sup> ③ 脸部表情突然变为阴沉<sup>\[泰州\]</sup>：这小伙说话不上路，老李同他把脸朝下一～。<sup>\[泰州\]</sup>｜大家都是熟人，何必把脸～咖唻说。<sup>\[泰州\]</sup>  
 1. 【[𠫓班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_baen.md#𠫓班)】`teh7 baen1` ① 赶不上某一趟车船，也喻指掉队，跟不上一起前进的人。<sup>\[东台\]</sup> ② 因为某种原因没有赶上乘坐班船或者班车。<sup>\[泰州\]</sup>  
 1. 【[𠫓不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_beh_ha_lae.md#𠫓不下来)】`teh7 beh7 ha6 lae2` <sup>[东台]</sup> 形容某种商品十分畅销，供不应求：东台乳猪东南亚市场上～，吃香得很咧！  
 1. 【[𠫓膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bio.md#𠫓膘)】`teh7 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
@@ -573,6 +573,7 @@
 1. 【[𠫓单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_daen.md#𠫓单)】`teh7 daen1` <sup>[如皋]</sup> ① 单个离群（落单）：黑夜暗星的，大家一齐儿走，互相照应点儿，不要～。 ② 由成双配套变成单数：这是～的鞋子，重配一只。  
 1. 【[𠫓咖后头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga_heu_teu.md#𠫓咖后头)】`teh7 ga heu6 teu` <sup>[东台]</sup> 掉队。  
 1. 【[𠫓咖睡啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ga_shuei_a.md#𠫓咖睡啊)】`teh7 ga shuei5 a` <sup>[如皋]</sup> 无意中睡着了。  
+1. 【[𠫓骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_gueh_teu.md#𠫓骨头)】`teh7 gueh7 teu` <small>/tʰəʔ7 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> 喻人过于活泼；抖乱。多用于责骂小孩。<sup>\[泰兴\]</sup>  
 1. 【[𠫓下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_lae.md#𠫓下来)】`teh7 ha lae2` <sup>[如东]</sup> 掉下来。  
 1. 【[𠫓下去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_qy_a.md#𠫓下去啊)】`teh7 ha qy5 a` <sup>[如皋]</sup> 掉落：他迷恋打游戏机，学习成绩～。如皋词典写“䠈”。  
 1. 【[𠫓下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_ha_lae.md#𠫓下来)】`teh7 ha6 lae` <sup>[东台]</sup> ① 掉下来。 ② 起码：风力发电场投资大呢，～就是十几个亿。 ③ ［喻］麻烦惹大了，不好收拾：癞子抓痒，～啊！  
@@ -1401,7 +1402,7 @@
 1. 【[舔热屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_rih_pi_ngaen.md#舔热屁眼)】`tin3 rih8 pi5 ngaen3` <sup>[泰县]</sup> 趋炎附势。  
 1. 【[㐁/舚/餂/䑙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#㐁/舚/餂/䑙)】`tin5` <small>/tʰiɪ̃5/<sup>兴化</sup>, /tʰĩ5/<sup>如皋</sup></small> ① 舌、舌舔动，也写作“舚”：蛇～子只～。<sup>\[如皋\]</sup> ② 火燎状<sup>\[如皋\]</sup>：火舌只～<sup>\[如皋\]</sup> ③ 特指蛇舌头。《广韵》他念切，《说文》舌貌。<sup>\[东台\]</sup>：蛇～子<sup>\[东台\]</sup> ④ 蛇舌深分岔，伸出口外部分。（《广韵·㮇韵》他念切，“～，《说文》曰：舌貌。”）<sup>\[兴化\]</sup>：蛇～子。<sup>\[兴化\]</sup>  
 1. 【[㐁舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shih_teu.md#㐁舌头)】`tin5 shih8 teu` <sup>[如皋]</sup> 舌伸出舔动状。  
-1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <small>/tʰiɪ̃5/<sup>兴化</sup></small> ① 轻轻向前拨动。<sup>\[如东\]</sup>：～草。<sup>\[如东\]</sup> ② ［文］毛笔蘸墨后斜着在砚台上理顺笔毛或除去多余的墨。<sup>\[东台\]</sup> ③ 毛笔在砚台上沾墨、理顺笔毛<sup>\[兴化\]</sup>：～笔。<sup>\[兴化\]</sup> ④ 拨动<sup>\[兴化\]</sup>：～灯芯<sup>\[兴化\]</sup>｜蒋生幸未熄灯，急忙～明了灯，开门出看……（《二刻》二九）<sup>\[兴化\]</sup> ⑤ 用针拨动锁芯<sup>\[泰州\]</sup>：油灯要熄，你去把它～吖子。<sup>\[泰州\]</sup> ⑥ 用掭子拨动锁簧<sup>\[泰州\]</sup>：钥匙𠫓掉啊，请吖个开锁的把锁～开来啊才进吖家。<sup>\[泰州\]</sup> ⑦ 以草茎顶部撩拨蟋蟀<sup>\[泰州\]</sup>：这个蛐蛐ㄦ兄，欲不着～它就冲上去啊。<sup>\[泰州\]</sup> ⑧ 将毛笔在砚台上蘸墨并顺势拖几下以理顺笔毛<sup>\[泰州\]</sup>：你把笔～啊子再写。<sup>\[泰州\]</sup>  
+1. 【[掭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#掭)】`tin5` <small>/tʰiɪ̃5/<sup>兴化</sup>, /tʰĩ5/<sup>泰兴</sup></small> ① 轻轻向前拨动。<sup>\[如东\]</sup>：～草。<sup>\[如东\]</sup> ② 毛笔在砚台上沾墨、理顺笔毛或除去多余的墨<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～笔。<sup>\[兴化\]</sup>｜你把笔～啊子再写。<sup>\[泰州\]</sup> ③ 拨动<sup>\[兴化\]</sup>：～灯芯<sup>\[兴化\]</sup>｜蒋生幸未熄灯，急忙～明了灯，开门出看……（《二刻》二九）<sup>\[兴化\]</sup> ④ 用针拨动锁芯<sup>\[泰州\]</sup>：油灯要熄，你去把它～吖子。<sup>\[泰州\]</sup> ⑤ 用掭子拨动锁簧<sup>\[泰州\]</sup>：钥匙𠫓掉啊，请吖个开锁的把锁～开来啊才进吖家。<sup>\[泰州\]</sup> ⑥ 以草茎顶部撩拨蟋蟀<sup>\[泰州\]</sup>：这个蛐蛐ㄦ兄，欲不着～它就冲上去啊。<sup>\[泰州\]</sup>  
 1. 【[掭笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_bieh.md#掭笔)】`tin5 bieh7` <sup>[如东]</sup> 毛笔蘸墨后在砚台上理顺笔毛或除去多余的墨汁，叫做掭笔。  
 1. 【[掭车油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha_ieu.md#掭车油)】`tin5 cha1 ieu2` <small>/tʰĩ5 t͡sʰa1 yʊ2/<sup>如皋</sup></small> ① 向车轴内注润滑油。<sup>\[如皋\]</sup> ② 车用润滑油。<sup>\[如皋\]</sup> ③ 见“红油”。<sup>\[如皋\]</sup>  
 1. 【[掭草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_co.md#掭草)】`tin5 co3` <sup>[如皋]</sup> ① 烧锅时给灶内加草。 ② 制草绳、草包时加草。  
@@ -1906,7 +1907,7 @@
 1. 【[动脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#动脚)】`ton6 jiah7` <small>/tʰɔŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 启程，上路<sup>\[泰兴\]</sup>  
 1. 【[动吖他仓里的廒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_can.md#动吖他仓里的廒)】`ton6 nga ta1 can1 lii dii ngo2` <sup>[如皋]</sup> 见“动吖他的板脂油”。  
 1. 【[动吖他的板脂油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_ta_dii.md#动吖他的板脂油)】`ton6 nga ta1 dii baen3 zhr ieu2` <sup>[如皋]</sup> 耗用了他的内囊资财。  
-1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <small>/tʰoŋ1 t͡sʰɿ5/<sup>泰县</sup></small> ① 生气。<sup>\[如东\]</sup>：你再说我要～啦。<sup>\[如东\]</sup> ② 生气。<sup>\[泰县\]</sup>  
+1. 【[动气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#动气)】`ton6 qi5` <small>/tʰoŋ1 t͡sʰɿ5/<sup>泰县</sup></small> 生气。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：你再说我要～啦。<sup>\[如东\]</sup>  
 1. 【[动抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#动抢)】`ton6 qian3` <sup>[如皋]</sup> 出现抢劫行为。  
 1. 【[动静](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qien.md#动静)】`ton6 qien6` <sup>[如东]</sup> 动作或说话的声音：你去听听～。  
 1. 【[动身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shen.md#动身)】`ton6 shen1` <small>/tʰɔŋ1 səŋ1/<sup>泰兴</sup></small> 启程，出发<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：何时～？<sup>\[如东\]</sup>｜你甚的时候～上新疆吖？<sup>\[泰兴\]</sup>  
@@ -2014,7 +2015,7 @@
 1. 【[舵扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_shin.md#舵扇)】`tu6 shin5` <sup>[如东]</sup> 船舵上的一块扇形木板，安装在舵杆上，起控制帆船航行方向的作用  
 1. 【[舵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_zz.md#舵子)】`tu6 zz` <sup>[如东]</sup> 船上控制航行方向的装置。  
 1. 【[推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#推)】`tuei1` <sup>[东台]</sup> 向外用力使物体移动：～磨；顺水～舟；～倒。  
-1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen.md#推扳)】`tuei1 baen` <small>/tʰuəi1 pɛ̃/<sup>兴化</sup></small> ① 相差。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：～多少？<sup>\[如东\]</sup>｜老二比老大～三岁。<sup>\[兴化\]</sup> ② 不好，不够好<sup>\[如东\]</sup><sup>\[兴化\]</sup>：这些货～。<sup>\[如东\]</sup>｜嗨，扇子上面画了棵竹子，画得真不～。（《郑板桥传说·大年初一卖扇子》）<sup>\[兴化\]</sup> ③ 怠慢人、得罪人<sup>\[兴化\]</sup>：你嘴里覅～人。<sup>\[兴化\]</sup>｜……照这一说，今日还不能～他……（《武松》一）<sup>\[兴化\]</sup>  
+1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen.md#推扳)】`tuei1 baen` <small>/tʰuəi1 pɛ̃/<sup>兴化</sup>, /tʰəɪ1 pɛ̃/<sup>泰兴</sup></small> ① 相差。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～多少？<sup>\[如东\]</sup>｜老二比老大～三岁。<sup>\[兴化\]</sup> ② 不好，不够好<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这些货～。<sup>\[如东\]</sup>｜嗨，扇子上面画了棵竹子，画得真不～。（《郑板桥传说·大年初一卖扇子》）<sup>\[兴化\]</sup>｜功夫还～点儿<sup>\[泰兴\]</sup> ③ 怠慢人、得罪人<sup>\[兴化\]</sup>：你嘴里覅～人。<sup>\[兴化\]</sup>｜……照这一说，今日还不能～他……（《武松》一）<sup>\[兴化\]</sup>  
 1. 【[推扳一脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen_ieh_jiah.md#推扳一脚)】`tuei1 baen ieh7 jiah7` <sup>[如东]</sup> 相差一会儿：～我就追上他啊。  
 1. 【[推扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_baen.md#推扳)】`tuei1 baen1` ① 相差，有差别：～没多少。/差不了多少。 ② 差，不好，不如别的  
 1. 【[推马虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_ma_hv.md#推马虎)】`tuei1 ma3 hv` <sup>[泰县]</sup> 装着不知道：这件事你不能～。  
@@ -2027,6 +2028,8 @@
 1. 【[推杉木鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_shaen_moh_gv.md#推杉木鼓<sub>儿</sub>)】`tuei1 shaen1 moh8 gv3 r` <sup>[如东]</sup> 将圆形杉木推来推去。比喻互相推诿。  
 1. 【[推死人过街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_sz_ren_gu.md#推死人过街)】`tuei1 sz3 ren2 gu5 gae1` <sup>[兴化]</sup> ① 旧时地保将路倒者尸体偷运出自己辖区，将责任推给别人。 ② （借）推托、推脱责任：他俫碰到难题就～，让别人去挠头。  
 1. 【[推推搡搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_tuei_san_san.md#推推搡搡)】`tuei1 tuei1 san3 san3` <sup>[兴化]</sup> 猛推：他喜欢对不听话的学生～的。｜衙役们一声吆喝，把李一桂～逐出辕门。（《四杰传》二十）  
+1. 【[推卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_xia.md#推卸)】`tuei1 xia5` <small>/tʰəɪ1 ɕiɑ5/<sup>泰兴</sup></small> 推脱，不肯承担。<sup>\[泰兴\]</sup>：～责任<sup>\[泰兴\]</sup>  
+1. 【[梯码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_ma_r.md#梯码<sub>儿</sub>)】`tuei1 ma3 r` <small>/tʰəɪ1 mɑ˞3/<sup>泰兴</sup></small> 梯子。也叫“梯（tuei1）子”。<sup>\[泰兴\]</sup>  
 1. 【[梯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei_zz.md#梯子)】`tuei1 zz` 梯子  
 1. 【[颓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#颓)】`tuei2` <sup>[东台]</sup> ① 倒塌，崩坏：断墙～垣。 ② 衰败，败坏：倾～；～败。  
 1. 【[腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuei.md#腿)】`tuei3` <sup>[东台]</sup> 人、动物的下肢或物体下部像腿一样的支撑部分：鸡～；盘～。  

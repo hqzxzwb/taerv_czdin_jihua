@@ -1162,7 +1162,7 @@
 1. 【[掸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_shuei.md#掸水)】`daen3 shuei3` <sup>[如东]</sup> 下水测量深浅：让我先下河去～。  
 1. 【[掸天亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_tin_lian.md#掸天亮)】`daen3 tin1 lian` <small>/tɛ̃3 tʰĩ1 liɑŋ/<sup>泰兴</sup></small> 天刚亮<sup>\[泰兴\]</sup>：他～就起身做操。<sup>\[泰兴\]</sup>  
 1. 【[掸暗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_un_r.md#掸暗<sub>儿</sub>)】`daen3 un5 r` <small>/tẽ3 ʊ˞5/<sup>如皋</sup></small> ① 太阳落下后天色渐暗而未暗的时段。<sup>\[如皋\]</sup> ② 夜晚降临时。<sup>\[如皋\]</sup>  
-1. 【[掸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zz.md#掸子)】`daen3 zz` <small>/tɛ̃3 t͡sɿ/<sup>兴化</sup></small> ① 用高粱秆、鸡毛或布扎成的扫垃圾、除灰的用具。<sup>\[东台\]</sup> ② 扫帚。<sup>\[兴化\]</sup> ③ 用鸡毛或者布条扎成的除尘工具。<sup>\[泰州\]</sup>  
+1. 【[掸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_zz.md#掸子)】`daen3 zz` <small>/tɛ̃3 t͡sɿ/<sup>兴化</sup>, /tɛ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 用高粱秆、鸡毛或布扎成的扫垃圾、除灰的用具。<sup>\[东台\]</sup> ② 扫帚。<sup>\[兴化\]</sup> ③ 用鸡毛或者布条扎成的除尘工具。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[胆大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_da.md#胆大)】`daen3 da6` <sup>[如东]</sup> 勇敢。  
 1. 【[胆大肏虎屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_da_reh_hv.md#胆大肏虎屄)】`daen3 da6 reh8 hv3 bi1` <sup>[东台]</sup> 形容胆大妄为，不顾后果。  
 1. 【[胆到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/daen_do.md#胆到)】`daen3 do5` <sup>[如皋]</sup> 想、有了欲望：他～要出去，你就难留得住。  
@@ -1862,8 +1862,11 @@
 1. 【[的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dii.md#的)】`dii` 相当于普通话的虚词“的”，可表示所属或者修饰。这个音来自“之”的上古音：我～/我的｜好～/好的｜吃～菜/吃的菜  
 1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <sup>[兴化]</sup> 斟酌、估量：他把校长的话放吖心里～吖又～。  
 1. 【[掂/敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂/敁)】`din1` <sup>[泰州]</sup> ① 称量物体，用手托着物体上下颤动估量其重：这个西瓜～～还不止十斤。 ② 盘算斟酌：你把这两件事好好～～，到底哪件更重要。  
+1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <small>/tĩ1/<sup>泰兴</sup></small> 放在手上试试重量。<sup>\[泰兴\]</sup>  
 1. 【[掂斤掂两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_din_lian.md#掂斤掂两)】`din1 jien1 din1 lian3` <sup>[兴化]</sup> ① 较量轻重：你覅跟小商贩～的。 ② （喻）斤斤计较：对小事不必～的。  
+1. 【[掂斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_lian.md#掂斤两)】`din1 jien1 lian` <small>/tĩ1 t͡ɕiŋ1 liɑŋ/<sup>泰兴</sup></small> 试试斤量。喻揣摩人的能耐、事件的后果。<sup>\[泰兴\]</sup>  
 1. 【[掂量/敁量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_lian.md#掂量/敁量)】`din1 lian` <sup>[泰州]</sup> 反复考虑，斟酌：这些话你要～下子。  
+1. 【[掂量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_lian.md#掂量)】`din1 lian` <small>/tĩ1 liɑŋ/<sup>泰兴</sup></small> 估量；斟酌。权衡。<sup>\[泰兴\]</sup>  
 1. 【[癫狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_kuan.md#癫狂)】`din1 kuan2` ① 狂妄自大，目空一切。<sup>\[如东\]</sup>：有啊几个钱，不能～。<sup>\[如东\]</sup> ② 由某种病引起的言语或行动异常。<sup>\[东台\]</sup> ③ 言谈举止轻佻，不庄重<sup>\[东台\]</sup>：穷不失志，富不～。<sup>\[东台\]</sup> ④ 张狂，语言行为出格张扬放肆<sup>\[泰州\]</sup>：这个家伙嫌～，不出事才怪唻。<sup>\[泰州\]</sup>  
 1. 【[癫痫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_xiaen.md#癫痫)】`din1 xiaen` <sup>[泰州]</sup> 老年人的健忘，轻微痴呆症状：你家爹爹岁数大啊，做事总有些～，你俫小辈要体谅点儿。｜你岁数还不曾大，做事到～吖唻，才放的东西，就想不起来摆啊哪块唻。  
 1. 【[蹎蹎跋跋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_puh_puh.md#蹎蹎跋跋的)】`din1 din1 puh8 puh8 dii` <sup>[如皋]</sup> 跋涉辛苦。转义为特地、专门地：我～的去䁃他，他还不高兴睬我！｜人家～来的，你总不能不相待。  
@@ -1916,7 +1919,7 @@
 1. 【[点吖眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_ngaen_dii.md#点吖眼的)】`din3 nga ngaen3 dii` <sup>[东台]</sup> 很少的意思：～不要计较。  
 1. 【[点吖足咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_nga_zoh_ga.md#点吖足咖)】`din3 nga zoh7 ga` <sup>[东台]</sup> 把话题说透：你不～，他还是麻里木足的，不省（xien3）得天多高，地多厚。  
 1. 【[点清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qien.md#点清)】`din3 qien1` <sup>[如东]</sup> 货物或钞票当场核对清楚：请当面～。  
-1. 【[点钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qin.md#点钱)】`din3 qin2` <sup>[如东]</sup> 清点资金。  
+1. 【[点钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_qin.md#点钱)】`din3 qin2` <small>/tĩ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> 数钱<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r.md#点<sub>儿</sub>)】`din3 r` <sup>[如东]</sup> ① 数量很少：～东西。 ② 体积很小：～大。 ③ 距离很短：～路程。  
 1. 【[点<sub>儿</sub>不懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_beh_don.md#点<sub>儿</sub>不懂)】`din3 r beh7 don3` <sup>[如东]</sup> ① 什么也不明白：这些问题她～。 ② 什么也不知道：他俫出去，我～。  
 1. 【[点<sub>儿</sub>影子总想不起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_r_ien_zz.md#点<sub>儿</sub>影子总想不起来)】`din3 r ien3 zz zon3 xian3 beh7 qi3 lae2` <sup>[如皋]</sup> 回忆不出。  
@@ -2438,7 +2441,7 @@
 1. 【[堆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#堆头)】`duei1 teu` <sup>[兴化]</sup> 体积：这东西～不小。  
 1. 【[堆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#堆头)】`duei1 teu2` <sup>[如东]</sup> 数量：～不小。  
 1. 【[堆捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhuah.md#堆捉)】`duei1 zhuah7` <sup>[如东]</sup> 数量：这批货有～吤！  
-1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <small>/tuəi1 t͡sɿ/<sup>兴化</sup></small> ① 垛子。<sup>\[如东\]</sup> ② 土墩。<sup>\[如东\]</sup>：土～。<sup>\[如东\]</sup> ③ 堆积而成的东西<sup>\[兴化\]</sup>：土～；砖头～。<sup>\[兴化\]</sup> ④ 量词<sup>\[兴化\]</sup>：一～山芋；两～慈姑。<sup>\[兴化\]</sup>  
+1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <small>/tuəi1 t͡sɿ/<sup>兴化</sup>, /təɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 积聚成小山的东西<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：土～。<sup>\[如东\]</sup>｜土～；砖头～。<sup>\[兴化\]</sup>｜泥～；草～<sup>\[泰兴\]</sup> ② 垛子。<sup>\[如东\]</sup> ③ 量词<sup>\[兴化\]</sup>：一～山芋；两～慈姑。<sup>\[兴化\]</sup>  
 1. 【[对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei.md#对)】`duei5` <sup>[东台]</sup> 正确，相当，相配。  
 1. 【[对扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_ba.md#对扒)】`duei5 ba1` <sup>[兴化]</sup> 从中间掰开，平分。也说“对半扒”。  
 1. 【[对扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_baen.md#对扳)】`duei5 baen1` <sup>[兴化]</sup> 二人对饮：老两口晚上没事，弄两个菜在家里～。  

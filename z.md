@@ -746,6 +746,7 @@
 1. 【[指头拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_guae_r.md#指头拐<sub>儿</sub>)】`zheh7 teu guae3 r` <sup>[如皋]</sup> 外凸骨节。  
 1. 【[指头节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_jih_r.md#指头节<sub>儿</sub>)】`zheh7 teu jih7 r` <small>/t͡səʔ7 tʰei t͡ɕi˞7/<sup>如皋</sup></small> ① 见“手节儿”。<sup>\[如皋\]</sup> ② 手指的关节或每一节。<sup>\[如皋\]</sup>  
 1. 【[指头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#指头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 手指。  
+1. 【[掷色子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_seh_zz.md#掷色子)】`zheh7 seh7 zz` <small>/t͡səʔ7 səʔ7 t͡sɿ/<sup>泰兴</sup></small> 游戏；以此为游戏排列顺序。赌博时用于比点子大小。<sup>\[泰兴\]</sup>  
 1. 【[汁浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#汁浆)】`zheh7 jian1` <sup>[如东]</sup> 植物体内营养物质的含量：秋天，银杏叶内的～最多。  
 1. 【[汁水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shuei.md#汁水)】`zheh7 shuei` <small>/t͡səʔ7 suəi/<sup>兴化</sup>, /t͡səʔ7 suəɪ/<sup>泰兴</sup></small> ① 某些物质里所含液体<sup>\[兴化\]</sup>：（进忠）将药俱洗净了，揉去～，放在篮内……（《梼杌闲评》十九）<sup>\[兴化\]</sup> ② 植物内部黏稠汁液，多指水果汁液<sup>\[泰州\]</sup>：梨子放的时间长吖，没得甚的～唻。<sup>\[泰州\]</sup> ③ 汁液，汤水。<sup>\[泰兴\]</sup>  
 1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup></small> ① 汤量小。与“野”汤相对。<sup>\[如皋\]</sup>：红烧鱼～～儿的汤。<sup>\[如皋\]</sup> ② 狭小、逼仄<sup>\[泰兴\]</sup>  

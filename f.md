@@ -928,6 +928,7 @@
 1. 【[衭领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_lien.md#衭领)】`fv1 lien3` <small>/fu1 liəŋ3/<sup>如皋</sup>, /fʋ1 liŋ3/<sup>泰兴</sup></small> ① 前领和衭头处。<sup>\[如皋\]</sup> ② 即衭襟，衣服的前襟<sup>\[东台\]</sup>：一把揪啊他的～就走。<sup>\[东台\]</sup> ③ 上衣服前襟连接衣领口附近部分<sup>\[泰州\]</sup>：老李上去一把揪住他的～，就望派出所拉。<sup>\[泰州\]</sup> ④ 衣服的前襟与衣领。泛指衣服前上部。<sup>\[泰兴\]</sup>：抓住他的～<sup>\[泰兴\]</sup>  
 1. 【[衭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu.md#衭头)】`fv1 teu2` <small>/fu1 tʰɤ2/<sup>兴化</sup>, /fu1 tʰei2/<sup>如皋</sup>, /fʋ1 tʰəɪ2/<sup>泰兴</sup></small> ① 上衣的前胸处。<sup>\[如皋\]</sup> ② 上衣、袍子前面的部分，即前襟。<sup>\[兴化\]</sup> ③ 衣服的前襟。<sup>\[泰兴\]</sup>  
 1. 【[衭头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_teu_r.md#衭头<sub>儿</sub>)】`fv1 teu2 r` <sup>[如东]</sup> 衣襟的左上角，称衭头儿。  
+1. 【[麸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_pi.md#麸皮)】`fv1 pi2` <small>/fʋ1 pʰʝ2/<sup>泰兴</sup></small> 小麦磨成面筛过后剩下的麦皮和碎屑。<sup>\[泰兴\]</sup>  
 1. 【[麸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#麸子)】`fv1 zz` ① 通常指小麦磨面筛过后剩下的麦皮和碎屑。<sup>\[如东\]</sup> ② 通常指小麦磨成面，筛过后剩下的麦皮和碎屑，也称麸皮。<sup>\[东台\]</sup>  
 1. 【[㾰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#㾰)】`fv2` <sup>[如皋]</sup> 儿语，指疼。另音hu2。  
 1. 【[扶犁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_li.md#扶犁)】`fv2 li2` <sup>[如东]</sup> 操纵犁梢耕田。  

@@ -1336,7 +1336,7 @@
 1. 【[𥅻瞌睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_kuh_shuei.md#𥅻瞌睡)】`chon5 kuh7 shuei` <sup>[如东]</sup> 疲劳过度而小睡片刻：他在凳儿上～。  
 1. 【[𥅻冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_kun.md#𥅻冚)】`chon5 kun3` <sup>[泰县]</sup> 打盹。  
 1. 【[𥅻冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_len.md#𥅻冷)】`chon5 len3` <sup>[泰州]</sup> 人在坐着小睡的时候，头部突然下垂受惊而至身体发抖的样子：你还是上铺去睡的好，坐啊在这块～，不要弄吖受啊凉。  
-1. 【[𧼩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#𧼩)】`chon5` <small>/t͡sʰɔŋ5/<sup>如皋</sup>, /t͡sʰoŋ5/<sup>泰县</sup></small> ① 漫步<sup>\[如皋\]</sup>：没事的时候常在外头～。<sup>\[如皋\]</sup> ② 疾走<sup>\[泰县\]</sup>：向前～。<sup>\[泰县\]</sup> ③ 闯<sup>\[泰县\]</sup>：～到哪块就吃到哪块。<sup>\[泰县\]</sup> ④ 没有方向地随意乱跑，带有詈义<sup>\[泰州\]</sup>：平时在外面游手好闲，～个茶面酒馆，碰着人家相哄相打，便出来排解排解，落点赚头。（《续济公传》）<sup>\[泰州\]</sup>｜饭一吃过啊，人就不晓得死啊～吖哪块去啊唻。<sup>\[泰州\]</sup>｜他一天到晚在外头～，又弄不到钱，～的个甚的梦唦。<sup>\[泰州\]</sup>  
+1. 【[𧼩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon.md#𧼩)】`chon5` <small>/t͡sʰɔŋ5/<sup>如皋</sup>, /t͡sʰɔŋ5/<sup>泰兴</sup>, /t͡sʰoŋ5/<sup>泰县</sup></small> ① 漫步<sup>\[如皋\]</sup>：没事的时候常在外头～。<sup>\[如皋\]</sup> ② 疾走<sup>\[泰县\]</sup>：向前～。<sup>\[泰县\]</sup> ③ 闯<sup>\[泰县\]</sup>：～到哪块就吃到哪块。<sup>\[泰县\]</sup> ④ 没有方向地随意乱跑，带有詈义<sup>\[泰州\]</sup>：平时在外面游手好闲，～个茶面酒馆，碰着人家相哄相打，便出来排解排解，落点赚头。（《续济公传》）<sup>\[泰州\]</sup>｜饭一吃过啊，人就不晓得死啊～吖哪块去啊唻。<sup>\[泰州\]</sup>｜他一天到晚在外头～，又弄不到钱，～的个甚的梦唦。<sup>\[泰州\]</sup> ⑤ 大步急走<sup>\[泰兴\]</sup>：望前直～<sup>\[泰兴\]</sup>  
 1. 【[𧼩跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_gen.md#𧼩跟)】`chon5 gen1` <sup>[兴化]</sup> 踢人足跟，使仆跌：追到小偷，先弄他一个大～。  
 1. 【[𧼩跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_gen_teu.md#𧼩跟头)】`chon5 gen1 teu` <sup>[如东]</sup> 在外面乱跑：他在外头～。  
 1. 【[𧼩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_huen.md#𧼩魂)】`chon5 huen2` ① 在外面游荡。<sup>\[如东\]</sup>：他在外头～。<sup>\[如东\]</sup> ② （詈语）长时间在外面盲目乱转悠<sup>\[东台\]</sup>：他一天到晚在外～。<sup>\[东台\]</sup> ③ 骂人没有目的地到处乱跑<sup>\[泰州\]</sup>：他反正在家里没事做，这刻儿又不晓得在哪块～。<sup>\[泰州\]</sup>  
@@ -1651,6 +1651,7 @@
 1. 【[吹嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_xy.md#吹嘘)】`chuei1 xy1` <sup>[泰州]</sup> 夸大其词，吹牛：他的工资没得他～的这吖高。｜他在外头块块～他是处长。  
 1. 【[炊事员行军——替人背黑锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_shr_iun_xien.md#炊事员行军——替人背黑锅)】`chuei1 shr6 iun2 xien2 jyen1 ti5 ren2 bei1 heh7 gu1` <sup>[东台]</sup>   
 1. 【[捶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei.md#捶)】`chuei2` <sup>[如东]</sup> 用拳头打人：你再调皮，当心我～你。  
+1. 【[捶背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_bei.md#捶背)】`chuei2 bei5` <small>/t͡sʰuəɪ2 pəɪ5/<sup>泰兴</sup></small> 敲打后背。<sup>\[泰兴\]</sup>  
 1. 【[捶衣棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_i_pan.md#捶衣棒)】`chuei2 i1 pan6` <small>/t͡sʰuei2 ʝ1 pʰã1/<sup>如皋</sup></small> ① 一根木棍，通过捶打，能够把湿衣服上的污垢去掉，这种棒，叫做捶衣棒。<sup>\[如东\]</sup> ② 专供洗衣、汰衣时捶打衣物用的木棒。体扁柄圆，形制不一。<sup>\[如皋\]</sup> ③ 一种专供洗衣服用的木棒，长约50厘米，前端扁平用于击打衣服，后端圆形便于手握。<sup>\[泰州\]</sup>  
 1. 【[槌棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_pan.md#槌棒)】`chuei2 pan6` <sup>[东台]</sup> 用于捶打的木棒。  
 1. 【[锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_r.md#锤<sub>儿</sub>)】`chuei2 r` <sup>[如东]</sup> 工具。铁制，长条形或方锤形，有柄，用以敲击物体。也叫锤子。  
