@@ -981,9 +981,11 @@
 1. 【[栟茶场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_cha_chan.md#栟茶场)】`ben1 cha2 chan2` <sup>[如东]</sup> 唐贞观元年，建立栟茶煎盐亭。北宋初，建立栟茶场。清乾隆三十三年，栟茶场划归东台县管辖。  
 1. 【[栟茶镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_cha_zhen.md#栟茶镇)】`ben1 cha2 zhen5` <sup>[如东]</sup> 如东古镇。相传，古时栟茶生长着一棵栟树、一棵茶树，因而得名。  
 1. 【[殡烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_sho.md#殡烧)】`ben1 sho1` <sup>[如皋]</sup> 丧葬全程事宜。  
-1. 【[畚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#畚)】`ben1` <small>/pən1/<sup>兴化</sup>, /pəŋ1/<sup>如皋</sup></small> ① 用畚箕搬运。 ② 用畚斗儿、粪箕撮物。<sup>\[如皋\]</sup> ③ 指吃相粗鄙。<sup>\[如皋\]</sup> ④ 以簸箕撮物<sup>\[兴化\]</sup>：～土；～粮食。<sup>\[兴化\]</sup> ⑤ 用扫帚将垃圾撮入畚斗中的动作<sup>\[泰州\]</sup>：你去拿个畚斗来把地下的灰～掉。<sup>\[泰州\]</sup>  
+1. 【[畚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#畚)】`ben1` <small>/pən1/<sup>兴化</sup>, /pəŋ1/<sup>如皋</sup>, /pəŋ1/<sup>泰兴</sup></small> ① 用畚箕搬运。 ② 用畚斗儿、粪箕撮物。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～土；～粮食。<sup>\[兴化\]</sup>｜你去拿个畚斗来把地下的灰～掉。<sup>\[泰州\]</sup>｜～粮食<sup>\[泰兴\]</sup> ③ 指吃相粗鄙。<sup>\[如皋\]</sup>  
+1. 【[畚撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_chih.md#畚撤)】`ben1 chih` <small>/pəŋ1 t͡ɕʰiʔ/<sup>泰兴</sup></small> 运装垃圾、灰肥等的器具。以竹篾编成，形似畚头，上面以绳作系，可挑。<sup>\[泰兴\]</sup>  
 1. 【[畚斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu.md#畚斗)】`ben1 deu3` <sup>[泰州]</sup> 扫地时用来撮垃圾的器具。  
 1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <small>/pən1 tɤ3 ɚ/<sup>兴化</sup>, /pəŋ1 tei˞3/<sup>如皋</sup>, /pəŋ1 tɤɯ3 ɚ/<sup>泰县</sup></small> ① 簸箕或𡊄箕。<sup>\[如皋\]</sup> ② 粪箕。撮物工具。<sup>\[兴化\]</sup> ③ 簸箕。<sup>\[泰县\]</sup>  
+1. 【[畚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_teu.md#畚头)】`ben1 teu` <small>/pəŋ1 tʰəɪ/<sup>泰兴</sup></small> 畚粮食的器具，多以竹篾编成。<sup>\[泰兴\]</sup>  
 1. 【[贲家集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ga_qieh.md#贲家集)】`ben1 ga1 qieh8` <sup>[东台]</sup> 古东台地名，现属海安县。  
 1. 【[锛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#锛)】`ben1` <sup>[如东]</sup> 一种工具。刃具长条形，刃头尖，刃口扁而宽，柄与刃具呈丁字形。通称镐头。用以劈木料或翻硬土。  
 1. 【[锛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_zz.md#锛子)】`ben1 zz` <sup>[东台]</sup> 一种劈柴，挖掘硬实地面的工具。  

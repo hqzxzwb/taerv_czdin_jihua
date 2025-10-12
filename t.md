@@ -1771,8 +1771,9 @@
 1. 【[通扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cha.md#通扯)】`ton1 cha3` <small>/tʰɔŋ1 t͡sʰa3/<sup>如皋</sup></small> ① 见“缠扯”❷。<sup>\[如皋\]</sup> ② 缠扯在一起。<sup>\[如皋\]</sup> ③ 平扯。<sup>\[如皋\]</sup>  
 1. 【[通草灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_co_den.md#通草灯)】`ton1 co3 den1` <sup>[如皋]</sup> 旧时灯节常见的一种用通草做面料的灯具。  
 1. 【[通街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gae.md#通街)】`ton1 gae1` <sup>[如皋]</sup> 城镇的所有街巷：这种药～总买不到。  
+1. 【[通关系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_guaen_xi.md#通关系)】`ton1 guaen1 xi` <small>/tʰɔŋ1 kuɛ̃1 ɕʝ/<sup>泰兴</sup></small> 打通办事的门路；找门路，联络办事的渠道。<sup>\[泰兴\]</sup>  
 1. 【[通贯手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gun_sheu.md#通贯手)】`ton1 gun5 sheu3` <sup>[如东]</sup> 手掌纹路横向贯通的手称通贯手。  
-1. 【[通红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hon.md#通红)】`ton1 hon2` <sup>[如东]</sup> 很红，十分红。  
+1. 【[通红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hon.md#通红)】`ton1 hon2` <small>/tʰɔŋ1 xɔŋ2/<sup>泰兴</sup></small> 很红，十分红。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[通话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_hua.md#通话)】`ton1 hua6` <small>/tʰoŋ1 xua6/<sup>兴化</sup>, /tʰoŋ1 xua1/<sup>泰县</sup></small> ① 订婚后，男方准备成亲，便请媒人和女方磋商婚期、财礼等事项。<sup>\[兴化\]</sup> ② 男方向女方提出结婚日期。<sup>\[泰县\]</sup>  
 1. 【[通夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ia.md#通夜)】`ton1 ia6` <small>/tʰɔŋ1 iɑ1/<sup>泰兴</sup>, /tʰoŋ1 ia1/<sup>泰县</sup></small> 整夜<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他～做活技。<sup>\[泰县\]</sup>｜他经常～睡不着。<sup>\[泰州\]</sup>  
 1. 【[通融](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ion.md#通融)】`ton1 ion2` <sup>[如东]</sup> ① 商议：各方～下子。 ② 谅解：请～下子。  
@@ -1780,9 +1781,12 @@
 1. 【[通脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_jiah.md#通脚)】`ton1 jiah7` <sup>[兴化]</sup> 二人抵足而眠。  
 1. 【[通吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga.md#通吖)】`ton1 nga` <sup>[兴化]</sup> 通通、仅有：～两个，你要就全拿去吧！  
 1. 【[通吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nga_tin.md#通吖天)】`ton1 nga tin1` <sup>[泰州]</sup> 比喻最高当局已经知道并且关心此事：这件事情～唻，不得那个人敢同你瞒。  
-1. 【[通年到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_do_teu.md#通年到头)】`ton1 nin2 do5 teu2` <small>/tʰoŋ1 liɪ̃2 tɔ5 tʰɤ2/<sup>兴化</sup>, /tʰɔŋ1 nĩ2 tɔ5 tʰei2/<sup>如皋</sup></small> ① 整年地。<sup>\[如皋\]</sup> ② 一年到头，整年的意思<sup>\[东台\]</sup>：他身体强健，～没有病。<sup>\[东台\]</sup> ③ 经常、一年到头<sup>\[兴化\]</sup>：他～在外头忙，不怎吖少顾家。<sup>\[兴化\]</sup>｜他家～吃素，难见鱼肉进门。<sup>\[兴化\]</sup> ④ 从年初开始直到年底结束<sup>\[泰州\]</sup>：他开啊这个公司以后，就一天到晚操心吖不得命，～不得个闲时。<sup>\[泰州\]</sup>  
+1. 【[通年三世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_saen_shr.md#通年三世)】`ton1 nin saen1 shr5` <small>/tʰɔŋ1 nĩ ɕiɛ̃1 sɿ5/<sup>泰兴</sup></small> 一直；一年到头。<sup>\[泰兴\]</sup>  
+1. 【[通年到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_do_teu.md#通年到头)】`ton1 nin2 do5 teu2` <small>/tʰoŋ1 liɪ̃2 tɔ5 tʰɤ2/<sup>兴化</sup>, /tʰɔŋ1 nĩ2 tɔ5 tʰei2/<sup>如皋</sup>, /tʰɔŋ1 nĩ tɔ5 tʰəɪ2/<sup>泰兴</sup></small> 一年到头，整年<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他身体强健，～没有病。<sup>\[东台\]</sup>｜他～在外头忙，不怎吖少顾家。<sup>\[兴化\]</sup>｜他家～吃素，难见鱼肉进门。<sup>\[兴化\]</sup>｜他开啊这个公司以后，就一天到晚操心吖不得命，～不得个闲时。<sup>\[泰州\]</sup>  
 1. 【[通年家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_ga.md#通年家)】`ton1 nin2 ga` <sup>[如皋]</sup> 整年地，一直地。  
-1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <sup>[如东]</sup> 使空气流通。互通信息：我俫要经常～。房屋嵌撑下面的木条，叫通气。  
+1. 【[通南直北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nun_cheh_boh.md#通南直北)】`ton1 nun2 cheh8 boh7` <small>/tʰɔŋ1 nʊ̃2 t͡sʰəʔ8 pɔʔ7/<sup>泰兴</sup></small> 谓南北笔直的大道；贯穿南北。<sup>\[泰兴\]</sup>  
+1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <sup>[如东]</sup> ① 使空气流通。互通信息：我俫要经常～。 ② 房屋嵌撑下面的木条，叫通气。  
+1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <small>/tʰɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 沟通信息、透露消息<sup>\[泰兴\]</sup> ② 透气<sup>\[泰兴\]</sup>  
 1. 【[通吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qieh.md#通吃)】`ton1 qieh7` <sup>[东台]</sup> ［喻］全部吸收或全部拿下：这批货我～。  
 1. 【[通人性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ren_xien.md#通人性)】`ton1 ren2 xien5` <small>/tʰoŋ1 lən2 ɕin5/<sup>兴化</sup></small> ① 指某些家畜能领会主人意愿<sup>\[兴化\]</sup>：“你既是良马，自～，我今仗你逃生……我母子性命俱在你身上。”（《梼杌闲评》五）<sup>\[兴化\]</sup> ② 动物能够领会人的意愿。<sup>\[泰州\]</sup>  
 1. 【[通世上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shr_shan.md#通世上)】`ton1 shr5 shan` <sup>[泰州]</sup> 全社会，全世界：像他这种没出息的人，怕的～都找不到第二个。｜～都没得她这种蛮不讲理的人。  
@@ -1796,6 +1800,7 @@
 1. 【[通信过礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xien_gu_li.md#通信过礼)】`ton1 xien5 gu5 li3` <sup>[如东]</sup> 一种民俗。媒人携带礼品到娘家去送姑娘结婚的喜日，叫做通信过礼。  
 1. 【[通宵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_xio.md#通宵)】`ton1 xio1` <sup>[如东]</sup> 整夜：～未眠。  
 1. 【[通州笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zheu_lah_r.md#通州笿<sub>儿</sub>)】`ton1 zheu1 lah8 r` <sup>[如皋]</sup> 一种小篮。方底圆口深帮，有提环。用篾片“翘一”编成，有方孔。  
+1. 【[通庄上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zhuan_shan.md#通庄上)】`ton1 zhuan1 shan6` <small>/tʰɔŋ1 t͡suɑŋ1 sɑŋ1/<sup>泰兴</sup></small> 整个庄上<sup>\[泰兴\]</sup>：～总晓得<sup>\[泰兴\]</sup>  
 1. 【[僮子戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz_xi.md#僮子戏)】`ton2 zz3 xi5` <sup>[如皋]</sup> 夏巫戏。  
 1. 【[同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#同)】`ton2` <small>/tʰoŋ2/<sup>兴化</sup>, /tʰɔŋ2/<sup>如皋</sup>, /tʰoŋ2/<sup>泰县</sup></small> ① 和，跟 ② 叠起来，摞起来 ③ 相同，一样 ④ 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ⑤ 投、叠<sup>\[兴化\]</sup>：棉𧘸子外头拿件加褂子～起来。<sup>\[兴化\]</sup> ⑥ 为，给：～他做件衣裳。<sup>\[泰县\]</sup> ⑦ 团结，友好：我不～你。<sup>\[泰县\]</sup> ⑧ 连词，表示并列，与，和<sup>\[泰州\]</sup>：你～他一起ㄦ去南京。<sup>\[泰州\]</sup> ⑨ 介词，引入动作对象，替，为<sup>\[泰州\]</sup>：你去～我买包烟家来。<sup>\[泰州\]</sup> ⑩ 介词，向<sup>\[泰州\]</sup>：这件事最好你亲自～他去说。<sup>\[泰州\]</sup>  
 1. 【[同辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_bei.md#同辈)】`ton2 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于同一辈分的人，称同辈。也称平辈。  
@@ -1875,7 +1880,7 @@
 1. 【[筒<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_r_min.md#筒<sub>儿</sub>面)】`ton3 r min6` <sup>[兴化]</sup> 纸包装的挂面卷儿。  
 1. 【[统括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_guaeh.md#统括)】`ton3 guaeh7` <sup>[如东]</sup> 包括一切：～在内。  
 1. 【[统口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_keu.md#统口)】`ton3 keu3` <sup>[兴化]</sup> 应允：“……我因女儿执性，不曾～……”（《警世通言》二二）｜“我一向要劝这和尚还俗出仕，他未肯～……”（《醒世恒言》十二）也作“通口”。  
-1. 【[统共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kon.md#统共)】`ton3 kon6` <small>/tʰɔŋ3 kʰɔŋ1/<sup>如皋</sup>, /tʰoŋ3 kʰoŋ1/<sup>泰县</sup></small> ① 一共，合计。<sup>\[如皋\]</sup> ② 全部。<sup>\[如东\]</sup>：～多少？<sup>\[如东\]</sup> ③ 统统，一共。<sup>\[东台\]</sup> ④ 全部：我～只有三张票。<sup>\[泰县\]</sup>  
+1. 【[统共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kon.md#统共)】`ton3 kon6` <small>/tʰɔŋ3 kʰɔŋ1/<sup>如皋</sup>, /tʰɔŋ3 kʰɔŋ1/<sup>泰兴</sup>, /tʰoŋ3 kʰoŋ1/<sup>泰县</sup></small> 一共，合计。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～多少？<sup>\[如东\]</sup>｜我～只有三张票。<sup>\[泰县\]</sup>  
 1. 【[统吃黄汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qieh_huan_tan.md#统吃黄汤)】`ton3 qieh7 huan2 tan1` <sup>[如东]</sup> 全部收归自己：这些海货，王扬明～。  
 1. 【[统统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ton.md#统统)】`ton3 ton` <sup>[泰县]</sup> 都：请你俫～～去。  
 1. 【[统子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz.md#统子)】`ton3 zz` <small>/tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 作衣服用的毛皮料子的俗称。<sup>\[泰兴\]</sup>：皮～<sup>\[泰兴\]</sup>  

@@ -1913,7 +1913,7 @@
 1. 【[干糙皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干糙皮)】`gun1 co pi2` <sup>[兴化]</sup> （喻）请人帮忙不付报酬：替他忙吖几天，结果弄个～。  
 1. 【[干草皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干草皮)】`gun1 co3 pi2` <sup>[泰兴]</sup> 用以垫牛、羊、猪圈的干泥。  
 1. 【[干冬湿年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年)】`gun1 don1 sheh7 nin2` <sup>[东台]</sup> （农谚）冬至这一天不下雨，过春节时往往要下雨。  
-1. 【[干冬湿年，快活种田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年，快活种田)】`gun1 don1 sheh7 nin2 kuae5 vah zhon5 tin2` <small>/kʊ̃1 tɔŋ1 səʔ7 nĩ2 kʰuɛ5 uɑʔ t͡sɔŋ5 tʰĩ2/<sup>泰兴</sup></small> 农谚。谓冬至少雨，则春节雨雪多，预示来年庄稼丰收。<sup>\[泰兴\]</sup>  
+1. 【[干冬湿年，快活种田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年，快活种田)】`gun1 don1 sheh7 nin2 kuae5 huh zhon5 tin2` <small>/kʊ̃1 tɔŋ1 səʔ7 nĩ2 kʰuɛ5 xʊʔ t͡sɔŋ5 tʰĩ2/<sup>泰兴</sup></small> 农谚。谓冬至少雨，则春节雨雪多，预示来年庄稼丰收。<sup>\[泰兴\]</sup>  
 1. 【[干儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_er_zz.md#干儿子)】`gun1 er2 zz` <small>/kʊ̃1 ɚ2 t͡sɿ/<sup>泰兴</sup></small> 非亲生、拜自己为干父母的儿子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[干搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_gah.md#干搁)】`gun1 gah7` <sup>[兴化]</sup> 被撇在一边不闻不问：他上任一个多月也不分配工作，硬是～咖那许。｜“子畏，你居然也会下楼的么？我只道你把我～在这里了。”（《四杰传》九八）  
 1. 【[干隔涝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_geh_lo.md#干隔涝)】`gun1 geh lo2` <sup>[兴化]</sup> ① 指能吃不能做的懒癀病。 ② 闲汉、懒汉，不三不四的人：他平生专好惜客养闲人，招纳四方～汉子。（《水浒传》二）“涝”也作“痨”。  

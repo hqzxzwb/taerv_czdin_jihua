@@ -353,7 +353,7 @@
 1. 【[桑螵蛸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_pio_xio.md#桑螵蛸)】`san1 pio1 xio1` <sup>[如东]</sup> 螳螂科昆虫大刀螳螂的卵鞘。  
 1. 【[桑白皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_poh_pi.md#桑白皮)】`san1 poh8 pi2` <sup>[如东]</sup> 桑科植物桑树除去栓皮的根皮。  
 1. 【[桑树从小𢺴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio.md#桑树从小𢺴)】`san1 shv6 con2 xio3 yeh7` <sup>[东台]</sup> ［喻］小孩从小就要规范行为，等长大了改坏毛病就难。  
-1. 【[桑树从小𢺴，到老直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio.md#桑树从小𢺴，到老直笔笔)】`san1 shv6 con2 xio3 yeh7 do5 lo3 cheh8 bieh7 bieh7` <small>/sã1 su1 t͡sʰɔŋ2 ɕiɔ3 yəʔ7 tɔ5 lɔ3 t͡sʰəʔ8 piəʔ7 piəʔ7/<sup>如皋</sup></small> ① 从小儿上规距，长大不出错。<sup>\[如皋\]</sup> ② 比喻孩子要从小教育上规矩。<sup>\[东台\]</sup>  
+1. 【[桑树从小𢺴，到老直笔笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_con_xio.md#桑树从小𢺴，到老直笔笔)】`san1 shv6 con2 xio3 yeh7 do5 lo3 cheh8 bieh7 bieh7` <small>/sã1 su1 t͡sʰɔŋ2 ɕiɔ3 yəʔ7 tɔ5 lɔ3 t͡sʰəʔ8 piəʔ7 piəʔ7/<sup>如皋</sup>, /sɑŋ1 su1 t͡sʰɔŋ2 ɕiɔ3 yəʔ7 tɔ5 lɔ3 t͡sʰəʔ8 piʔ7 piʔ7/<sup>泰兴</sup></small> ① 从小儿上规距，长大不出错。<sup>\[如皋\]</sup> ② 比喻孩子要从小教育上规矩。<sup>\[东台\]</sup> ③ 喻小孩要从小调教培养，长大了才能成人成才。<sup>\[泰兴\]</sup>  
 1. 【[桑树果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_gu_r.md#桑树果<sub>儿</sub>)】`san1 shv6 gu3 r` <sup>[泰县]</sup> 桑椹儿。  
 1. 【[桑树果子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_shv_gu_zz.md#桑树果子)】`san1 shv6 gu3 zz` <sup>[兴化]</sup> 即“桑葚儿”，桑树的果穗，成熟后味甜，可以吃。  
 1. 【[桑天牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_tin_ngeu.md#桑天牛)】`san1 tin1 ngeu2` <sup>[如东]</sup> 天牛科昆虫桑天牛，体形长，黑色，密被黄褐色短毛，深淡不一。触角长。前胸背板前后横沟之间有不规则的横皱，中央后方两侧，侧剌突基部有黑色光亮的隆起刻点。鞘翅基部密布黑色光亮的瘤状颗粒。幼虫乳白色，前胸硬皮板后半部密生赤褐色颗粒状小点。翌年7月羽化。对橘梨、桑、柳、白杨、枇杷、无花果等树危害甚烈。  
@@ -1433,7 +1433,7 @@
 1. 【[神经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien.md#神经)】`shen2 jien1` <small>/sən2 t͡ɕin1/<sup>兴化</sup>, /səŋ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 奇行怪想，令人不解。<sup>\[如皋\]</sup> ② 神经质<sup>\[兴化\]</sup>：你少发～。<sup>\[兴化\]</sup>｜这个人有点～兮兮的。<sup>\[兴化\]</sup>  
 1. 【[神经呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien_dae_zz.md#神经呆子)】`shen2 jien1 dae1 zz` 傻瓜，傻兮兮的人，贬义  
 1. 【[神经病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien_pien.md#神经病)】`shen2 jien1 pien6` <sup>[泰州]</sup> 比喻人的言行举止翻唱：想得起来的，这们冷的天下河游澡，～吖。  
-1. 【[神经兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien_xi_xi.md#神经兮兮)】`shen2 jien1 xi1 xi1` <small>/səŋ2 t͡ɕiŋ1 sɿ1 sɿ1/<sup>泰县</sup></small> ① 语无伦次，胡说八道。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup> ② 有神经质，举止异常。<sup>\[东台\]</sup> ③ 精神不正常：你～的做甚的？<sup>\[泰县\]</sup>  
+1. 【[神经兮兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien_xi_xi.md#神经兮兮)】`shen2 jien1 xi1 xi1` <small>/səŋ2 t͡ɕiŋ1 sɿ1 sɿ1/<sup>泰县</sup></small> 有神经质，举止异常。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：这个人～。<sup>\[如东\]</sup>｜你～的做甚的？<sup>\[泰县\]</sup>  
 1. 【[神经兮兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jien_xi_xi.md#神经兮兮的)】`shen2 jien1 xi1 xi1 dii` <sup>[如皋]</sup> 疯疯癫癫的。  
 1. 【[神节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_jih.md#神节)】`shen2 jih7` <sup>[如皋]</sup> 儒、释、道、耶、回等百神的节日、香期。与“人节、鬼节”相对。  
 1. 【[神里鬼泛的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_lii_guei_faen.md#神里鬼泛的)】`shen2 lii guei3 faen5 dii` <sup>[如皋]</sup> 主意、行为难以预料：他做事～，叫你想不到。  

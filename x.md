@@ -1118,6 +1118,7 @@
 1. 【[屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_r.md#屑<sub>儿</sub>)】`xih7 r` <sup>[如东]</sup> 细小的颗粒：米～。  
 1. 【[屑屑落落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_lah_lah.md#屑屑落落)】`xih7 xih7 lah8 lah8` <sup>[如东]</sup> 东西零零碎碎的往下掉。  
 1. 【[屑屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_r.md#屑屑<sub>儿</sub>)】`xih7 xih7 r` <sup>[如东]</sup> 又细又碎的东西。  
+1. 【[屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz.md#屑子)】`xih7 zz` <small>/ɕiʔ7 t͡sɿ/<sup>泰兴</sup></small> 碎屑<sup>\[泰兴\]</sup>：烧饼吃～<sup>\[泰兴\]</sup>  
 1. 【[屑子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zz_hua.md#屑子话)】`xih7 zz hua6` <sup>[如东]</sup> 无关紧要的言语：那都是一些～。  
 1. 【[揭不开锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_beh_kae_gu.md#揭不开锅)】`xih7 beh7 kae1 gu1` <sup>[如皋]</sup> 断炊。没得吃的了。揭，又音jih7。  
 1. 【[歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#歇)】`xih7` <small>/ɕiɪʔ7/<sup>兴化</sup>, /ɕiʔ7/<sup>如皋</sup></small> ① 睡觉<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：今朝晚上～咖这许，明朝再走。<sup>\[如皋\]</sup>｜长老领智深到方丈～了一夜。（《水浒传》四）<sup>\[兴化\]</sup> ② 休息<sup>\[泰州\]</sup>：你多～两天再上班。<sup>\[泰州\]</sup> ③ 停止<sup>\[泰州\]</sup>：从早上忙到现在都不曾～。<sup>\[泰州\]</sup> ④ 放下肩上挑的或者抬的东西<sup>\[泰州\]</sup>：你把担子～咖来。<sup>\[泰州\]</sup>  

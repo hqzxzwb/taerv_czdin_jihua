@@ -20,7 +20,7 @@
 1. 【[屙屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr.md#屙屎)】`u1 shr3` <small>/ʊ1 sɿ3/<sup>如皋</sup>, /ɤɯ1 sɿ3/<sup>泰兴</sup></small> 排泄大便。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[屙屎离你三砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_li_nii.md#屙屎离你三砖)】`u1 shr3 li6 nii3 saen1 zhun1` <sup>[东台]</sup> ［喻］旧式茅缸上面，人蹲的地方铺着砖头，此话比喻远离对方：你狠你的，我～！  
 1. 【[屙屎离三砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_li_saen.md#屙屎离三砖)】`u1 shr3 li6 saen1 zhun1` <sup>[兴化]</sup> 避免接触：你这个人我惹不起，只好跟你～。  
-1. 【[屙屎拔茅针，一䟳两个当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo.md#屙屎拔茅针，一䟳两个当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 chr1 laen3 gu dan1` <small>/ɤɯ1 sɿ3 pʰæʔ8 mɔ2 t͡səŋ1 iʔ7 t͡sʰɿ1 lɛ̃3 kɤɯ tɑŋ1/<sup>泰兴</sup></small> 喻同时就便办两件或两件以上的事。<sup>\[泰兴\]</sup>  
+1. 【[屙屎拔茅针，一䟳两格档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo.md#屙屎拔茅针，一䟳两格档)】`u1 shr3 paeh8 mo2 zhen1 ieh7 chr1 laen3 geh7 dan` <small>/ɤɯ1 sɿ3 pʰæʔ8 mɔ2 t͡səŋ1 iʔ7 t͡sʰɿ1 lɛ̃3 kəʔ7 tɑŋ/<sup>泰兴</sup></small> 喻同时就便办两件或两件以上的事。<sup>\[泰兴\]</sup>  
 1. 【[屙屎拔茅针，一事两夹当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo.md#屙屎拔茅针，一事两夹当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 gaeh7 dan1` <sup>[东台]</sup> 喻指一举两得。  
 1. 【[屙屎拔茅针，一事两恰当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_paeh_mo.md#屙屎拔茅针，一事两恰当)】`u1 shr3 paeh8 mo2 zhen1 ieh7 shr6 laen3 kaeh7 dan5` <sup>[如皋]</sup> 做好一件事，完成两项任务。  
 1. 【[屙屎让你三尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_shr_ran_nii.md#屙屎让你三尺)】`u1 shr3 ran6 nii3 saen1 cheh7` <small>/ɤɯ1 sɿ3 ɻɑŋ1 nəŋ3 ɕiɛ̃1 t͡sʰəʔ7/<sup>泰兴</sup></small> 喻不跟某人打交道，平时都离远点。<sup>\[泰兴\]</sup>  
