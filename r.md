@@ -43,6 +43,8 @@
 1. 【[惹喠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_zhon.md#惹喠)】`ra3 zhon3` 馋嘴，贪吃  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra.md#□)】`ra6` <sup>[如皋]</sup> 弱、差、次、不中用。  
 1. 【[弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah.md#弱)】`rah8` <sup>[如皋]</sup> （也说ya2，yah8）示弱，输：这伢儿不～；你不要～啊把啊他！  
+1. 【[弱脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_jiah.md#弱脚)】`rah8 jiah7` <small>/ɻɑʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 懦弱无能的人。<sup>\[泰兴\]</sup>：他也不是～<sup>\[泰兴\]</sup>  
+1. 【[弱脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_jiah_hu.md#弱脚货)】`rah8 jiah7 hu5` <small>/ɻɑʔ8 t͡ɕiɑʔ7 xɤɯ5/<sup>泰兴</sup></small> 质量较差的货物。<sup>\[泰兴\]</sup>  
 1. 【[弱脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_jiah_r.md#弱脚<sub>儿</sub>)】`rah8 jiah7 r` <sup>[如皋]</sup> 能力上的弱者。  
 1. 【[弱似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_sz.md#弱似)】`rah8 sz` <sup>[如皋]</sup> 差似。弱，又音ra2。  
 1. 【[弱微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_vei.md#弱微)】`rah8 vei2` <sup>[如皋]</sup> 表数量少或差距小：价钱来去～（小）；交易淡，赚钱～（少）。  

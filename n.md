@@ -1326,6 +1326,7 @@
 1. 【[娘儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_er.md#娘儿)】`nian2 er` <sup>[如皋]</sup> 母与子（女）间：～底下、～里头、～两个。  
 1. 【[娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ga.md#娘家)】`nian2 ga` <sup>[兴化]</sup> 事情的来龙去脉：他只是含糊其辞，半天交不出个～来。  
 1. 【[娘家人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ga_ren.md#娘家人)】`nian2 ga1 ren2` <sup>[如东]</sup> 当事人出生家庭的长辈、同辈和晚辈，包括主要亲属。  
+1. 【[娘有爷有，不抵自有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ieu_ia_ieu.md#娘有爷有，不抵自有)】`nian2 ieu3 ia3 ieu3 beh7 di3 sz6 ieu3` <small>/niɑŋ2 iɤɯ3 iɑ3 iɤɯ3 pəʔ7 t͡ɕʝ3 sɿ1 iɤɯ3/<sup>泰兴</sup></small> 谓不管别人有多少，不抵自己有更好。<sup>\[泰兴\]</sup>  
 1. 【[娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jia.md#娘家)】`nian2 jia1` <sup>[东台]</sup> 女子出嫁后对出嫁前家庭的称呼。  
 1. 【[娘里㗘地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lii_pah_ti.md#娘里㗘地)】`nian2 lii pah7 ti6` <sup>[兴化]</sup> 说话时嘴里带脏字：他动不动就～的骂人。  
 1. 【[娘老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_zz.md#娘老子)】`nian2 lo3 zz` <small>/liaŋ2 lɔ3 t͡sɿ/<sup>兴化</sup>, /niã2 lɔ3 t͡sɿ/<sup>如皋</sup></small> ① 父母。<sup>\[如皋\]</sup> ② 对父母的通称。<sup>\[如东\]</sup>：这吖伤心，好像死啊～样的。<sup>\[如东\]</sup> ③ 父母。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他一见～不在家就调皮。<sup>\[兴化\]</sup>｜几门功课不及格，他家～也不问吖？<sup>\[泰州\]</sup>  
@@ -1338,7 +1339,7 @@
 1. 【[娘娘腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_qian.md#娘娘腔)】`nian2 nian2 qian1` <sup>[东台]</sup> 指男人缺乏阳刚之气。  
 1. 【[娘娘签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_qin.md#娘娘签)】`nian2 nian2 qin1` <sup>[兴化]</sup> （借）允诺或给予：柳春耕一气之下，说是不求人家的～，藏起了村上的一条水泥船。（刘仁前《香河风情·香河人家》）。  
 1. 【[娘舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu.md#娘舅)】`nian2 qieu` 舅舅，母亲的哥哥或弟弟。<sup>\[泰州\]</sup>  
-1. 【[娘舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu.md#娘舅)】`nian2 qieu6` <small>/liaŋ2 t͡ɕʰiɤ6/<sup>兴化</sup></small> ① 舅舅。<sup>\[如东\]</sup> ② 舅舅，母亲的哥哥或弟弟。<sup>\[东台\]</sup> ③ 舅父<sup>\[兴化\]</sup>：我是这个伢儿的～。<sup>\[兴化\]</sup>｜“我们这个外甥，他去年到这爿洋行里做生意，是我～做的保人……”（《官场现形记》十一）<sup>\[兴化\]</sup>  
+1. 【[娘舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu.md#娘舅)】`nian2 qieu6` <small>/liaŋ2 t͡ɕʰiɤ6/<sup>兴化</sup>, /niɑŋ2 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 舅舅。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：我是这个伢儿的～。<sup>\[兴化\]</sup>｜“我们这个外甥，他去年到这爿洋行里做生意，是我～做的保人……”（《官场现形记》十一）<sup>\[兴化\]</sup>  
 1. 【[娘舅家表兄大三分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_qieu_ga_bio.md#娘舅家表兄大三分)】`nian2 qieu6 ga1 bio3 xion1 da6 saen1 fen1` <sup>[东台]</sup> 姑母家的人对来自舅舅家的表兄特别尊重。  
 1. 【[娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r.md#娘<sub>儿</sub>)】`nian2 r` <small>/liaŋ2 ɚ/<sup>兴化</sup>, /nia˞2/<sup>如皋</sup>, /niɑ˞2/<sup>泰兴</sup>, /niɑŋ2 ɚ/<sup>泰县</sup></small> 亲子：～两个/父子（父女、母子、母女）两个  
 1. 【[娘<sub>儿</sub>两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_r_laen_gu.md#娘<sub>儿</sub>两个)】`nian2 r laen3 gu5` <sup>[如东]</sup> 长辈妇女与晚辈儿女的合称，如母亲与儿子、女儿、姑母与侄儿侄女等都可以称娘儿两个。  

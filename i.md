@@ -2179,6 +2179,7 @@
 1. 【[冤家宜解不宜结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ga_i_gae.md#冤家宜解不宜结)】`iun1 ga1 i2 gae3 beh7 i2 jih7` <sup>[东台]</sup> 要把过去的怨恨忘掉，不要老纠结在心中。  
 1. 【[冤鸡<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ji_r_taen.md#冤鸡<sub>儿</sub>蛋)】`iun1 ji1 r taen6` <sup>[如皋]</sup> 炕坊孵鸡至第三周，已变鸡而死在壳内的蛋。可煮食。  
 1. 【[冤家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_jia.md#冤家)】`iun1 jia1` <small>/yʊ̃1 t͡ɕia1/<sup>如皋</sup></small> ① 有冤仇的双方。<sup>\[如皋\]</sup> ② 责语、昵语，指亲人。<sup>\[如皋\]</sup> ③ 仇人。<sup>\[东台\]</sup> ④ 对老朋友的爱称。<sup>\[东台\]</sup>  
+1. 【[冤杀鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shaeh_ji.md#冤杀鸡)】`iun1 shaeh ji1` <small>/yʊ̃1 ɕiæʔ t͡ɕʝ1/<sup>泰兴</sup></small> 谓孵化未出壳的小鸡。<sup>\[泰兴\]</sup>  
 1. 【[冤死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_sz_guei.md#冤死鬼)】`iun1 sz3 guei3` <sup>[东台]</sup> 枉费钱财的人：他出面请客，要你做～？  
 1. 【[冤蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_taen.md#冤蛋)】`iun1 taen6` <sup>[东台]</sup> 已经孵化成胚胎形，但因环境、疾病不能育出雏禽的蛋。  
 1. 【[冤枉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van.md#冤枉)】`iun1 van` <sup>[东台]</sup> ① 被加上不应有的罪名：不要～好人！ ② 不值得，吃亏：因为情况不熟，走啊不少～路。  
@@ -2188,7 +2189,7 @@
 1. 【[冤枉路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_lv.md#冤枉路)】`iun1 van lv6` <small>/yʊ̃1 uɑŋ lu1/<sup>泰兴</sup></small> 不必要走而多走的路。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他俫走啊～，开啊四个钟头才到东台。<sup>\[泰州\]</sup>  
 1. 【[冤枉棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_pan.md#冤枉棒)】`iun1 van pan6` <sup>[兴化]</sup> 受到不当的惩罚：小曹走路走得好好的，捱啊一顿～，气得要命。  
 1. 【[冤枉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qi.md#冤枉气)】`iun1 van qi5` <small>/yũ1 uaŋ t͡ɕʰi5/<sup>兴化</sup></small> 无端的抱怨或斥责<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……我从早苦到晚……还受他的～”（《皮五辣子》三）<sup>\[兴化\]</sup>｜天天在家里受他的～，我真的够煞咖。<sup>\[泰州\]</sup>  
-1. 【[冤枉钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qin.md#冤枉钱)】`iun1 van qin2` 没必要花而花掉的钱。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[冤枉钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qin.md#冤枉钱)】`iun1 van qin2` <small>/yʊ̃1 uɑŋ t͡ɕʰĩ2/<sup>泰兴</sup></small> 没必要花而花掉的钱。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鸳鸯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ian.md#鸳鸯)】`iun1 ian1` <sup>[如皋]</sup> 本是一种鸟儿，喻杂配的东西：这两只鞋子是～的，不是原配。  
 1. 【[鸳鸯配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ian_pei.md#鸳鸯配)】`iun1 ian1 pei5` <sup>[如皋]</sup> 见“鸳鸯”。  
 1. 【[元宝篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_bo_laen.md#元宝篮)】`iun2 bo laen2` <sup>[兴化]</sup> 两端上翘，形似元宝的香篮子。  

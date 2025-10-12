@@ -282,6 +282,7 @@
 1. 【[陪值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_cheh.md#陪值)】`pei2 cheh8` <sup>[兴化]</sup> 陪伴：没事～你谈谈。  
 1. 【[陪铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_chon.md#陪铳)】`pei2 chon5` <sup>[兴化]</sup> 枪毙人时被推去陪绑。  
 1. 【[陪伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_pun.md#陪伴)】`pei2 pun6` <sup>[如东]</sup> 随同做伴。  
+1. 【[陪笑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_xio_lin.md#陪笑脸)】`pei2 xio5 lin3` <small>/pʰəɪ2 ɕiɔ5 lĩ3/<sup>泰兴</sup></small> 陪笑，打招呼，使人息怒或愉快。<sup>\[泰兴\]</sup>  
 1. 【[佩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#佩)】`pei5` <sup>[东台]</sup> ① 衣带上挂的装饰品：玉～｜珠～。 ② 敬仰，心悦诚服：～服｜敬～。  
 1. 【[佩兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_laen.md#佩兰)】`pei5 laen2` <sup>[如东]</sup> 菊科植物佩兰，多年生草本。  
 1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei5` <small>/pʰəɪ5/<sup>泰兴</sup></small> ① 叹词，表示唾弃或斥责<sup>\[东台\]</sup>：～！你这个忘恩负义的东西！<sup>\[东台\]</sup> ② 表示斥责或鄙薄。语气词。<sup>\[泰兴\]</sup>  
