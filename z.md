@@ -749,8 +749,8 @@
 1. 【[汁浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#汁浆)】`zheh7 jian1` <sup>[如东]</sup> 植物体内营养物质的含量：秋天，银杏叶内的～最多。  
 1. 【[汁水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shuei.md#汁水)】`zheh7 shuei` <small>/t͡səʔ7 suəi/<sup>兴化</sup>, /t͡səʔ7 suəɪ/<sup>泰兴</sup></small> ① 某些物质里所含液体<sup>\[兴化\]</sup>：（进忠）将药俱洗净了，揉去～，放在篮内……（《梼杌闲评》十九）<sup>\[兴化\]</sup> ② 植物内部黏稠汁液，多指水果汁液<sup>\[泰州\]</sup>：梨子放的时间长吖，没得甚的～唻。<sup>\[泰州\]</sup> ③ 汁液，汤水。<sup>\[泰兴\]</sup>  
 1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup></small> ① 汤量小。与“野”汤相对。<sup>\[如皋\]</sup>：红烧鱼～～儿的汤。<sup>\[如皋\]</sup> ② 狭小、逼仄<sup>\[泰兴\]</sup>  
-1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> 狭窄。多指空间或心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
-1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh8` <sup>[东台]</sup> 空间狭小，狭窄。  
+1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <sup>[东台]</sup> 空间狭小，狭窄。  
+1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> 狭窄、狭小。或比喻心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
 1. 【[窄窄哝哝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_non_non.md#窄窄哝哝)】`zheh7 zheh7 non2 non2` <small>/t͡səʔ7 t͡səʔ7 loŋ2 loŋ2/<sup>兴化</sup>, /t͡səʔ7 t͡səʔ7 noŋ2 noŋ2/<sup>泰县</sup></small> ① 行动不灵活。<sup>\[泰县\]</sup> ② 同“折折哝哝”。<sup>\[东台\]</sup> ③ 吞吞吐吐，欲言又止<sup>\[兴化\]</sup>：他说话～的。<sup>\[兴化\]</sup> ④ 欲与难舍的样子<sup>\[兴化\]</sup>：她要把钱，又～的舍不得。<sup>\[兴化\]</sup>  
 1. 【[窄窄<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_r_tan.md#窄窄<sub>儿</sub>汤)】`zheh7 zheh7 r tan1` <sup>[东台]</sup> 烧菜时放少量的水，使菜肴的汤汁可口。（汤多称宽汤）  
 1. 【[窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窒)】`zheh7` <small>/t͡səʔ7/<sup>泰县</sup></small> 堵塞<sup>\[东台\]</sup><sup>\[泰县\]</sup>：泥门～洞。<sup>\[东台\]</sup>｜把瓶口～起来。<sup>\[泰县\]</sup>  
@@ -1792,7 +1792,7 @@
 1. 【[诸葛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_guh_cae.md#诸葛菜)】`zhv1 guh7 cae5` <sup>[如皋]</sup> 二月蓝。  
 1. 【[诸泡交易诸泡怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨)】`zhv1 po1 jio1 i6 zhv1 po1 iun5` <sup>[东台]</sup> 每个行业都有难处，干久了都会产生疲劳感厌倦感。  
 1. 【[诸泡交易诸泡怨，窑子里婊子怕讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨，窑子里婊子怕讨汉)】`zhv1 po1 jio1 i6 zhv1 po1 iun5 io2 zz lii bio3 zz pa5 to3 hun5` <sup>[东台]</sup> 什么活儿千多了都会产生厌倦情绪。  
-1. 【[诸亲六眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qien_loh_jiun.md#诸亲六眷)】`zhv1 qien1 loh8 jiun5` <small>/t͡su1 t͡ɕʰin1 lɔʔ8 t͡ɕyũ5/<sup>兴化</sup></small> 泛指各方面亲戚<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：过了三日，王德、王仁果然到严家来写了几十副贴子，遍请……（《儒林外史》五）<sup>\[兴化\]</sup>｜他家家里～中没得一个人当干部的。<sup>\[泰州\]</sup>  
+1. 【[诸亲六眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qien_loh_jiun.md#诸亲六眷)】`zhv1 qien1 loh8 jiun5` <small>/t͡su1 t͡ɕʰin1 lɔʔ8 t͡ɕyũ5/<sup>兴化</sup>, /t͡su1 t͡ɕʰiŋ1 lɔʔ8 t͡ɕyʊ̃5/<sup>泰兴</sup></small> 泛指各方面亲戚<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：所有的亲眷、门房。\]：过了三日，王德、王仁果然到严家来写了几十副贴子，遍请……（《儒林外史》五）<sup>\[兴化\]</sup>｜他家家里～中没得一个人当干部的。<sup>\[泰州\]</sup>  
 1. 【[诸债临门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zhae_lien_men.md#诸债临门)】`zhv1 zhae5 lien2 men2` <sup>[兴化]</sup> 各方面债权人登门讨债：他为何要卖这个宅子呢？因一，生活不得过了……（《扬州说书选·戴宗巧计请萧止》）  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga` <sup>[如皋]</sup> 主方、主人。  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga1` <sup>[泰县]</sup> ① 老板。 ② 主人翁。  

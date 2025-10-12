@@ -495,8 +495,11 @@
 1. 【[被单面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_daen_min_zz.md#被单面子)】`pi6 daen1 min6 zz` <sup>[泰州]</sup> 缝在棉花胎的正面、睡觉时不贴身的布，多以绸缎、花布做成：你这是说的哪百年的话，现在哪块还有人结婚送～啊？  
 1. 【[被单气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_daen_qi.md#被单气)】`pi6 daen1 qi5` <sup>[泰州]</sup> 起床气，因起床后心情不好而说话态度生硬：你这一刻儿不要惹他，他才起来的，身上有～。  
 1. 【[被单头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_daen_teu.md#被单头)】`pi6 daen1 teu2` <sup>[如皋]</sup> 被子的两端。  
+1. 【[被里子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_li_zz.md#被里子)】`pi6 li3 zz` <small>/pʰʝ1 lʝ3 t͡sɿ/<sup>泰兴</sup></small> 被子的里子，旧式被子朝下一面的布<sup>\[泰兴\]</sup>  
 1. 【[被禄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_loh.md#被禄)】`pi6 loh` <sup>[如东]</sup> 失火。  
 1. 【[被陆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_loh.md#被陆)】`pi6 loh8` <small>/pʰʝ1 lɔʔ8/<sup>如皋</sup></small> ① 讳指遭到火灾。陆，回陆，吴回陆终，火神祝融之谓。被，遭到。<sup>\[如皋\]</sup> ② 见“失火”。<sup>\[如皋\]</sup>  
+1. 【[被棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_min_hua.md#被棉花)】`pi6 min2 hua1` <small>/pʰʝ1 mĩ2 xuɑ1/<sup>泰兴</sup></small> 被褥子，棉胎。<sup>\[泰兴\]</sup>  
+1. 【[被面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_min_zz.md#被面子)】`pi6 min6 zz` <small>/pʰʝ1 mĩ1 t͡sɿ/<sup>泰兴</sup></small> 被面，旧式被子朝上的一块布，与“被里子”絾在一起。<sup>\[泰兴\]</sup>  
 1. 【[被褥帐枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_roh_zhan_zhen.md#被褥帐枕)】`pi6 roh8 zhan5 zhen3` <sup>[如皋]</sup> 通指床上用品。  
 1. 【[被胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_tae.md#被胎)】`pi6 tae1` <sup>[如东]</sup> 棉花纤维制成品，长方形，具有保温功能。  
 1. 【[被毯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taen.md#被毯)】`pi6 taen3` <sup>[泰县]</sup> 被单：今朝要把～晒晒。  
@@ -505,6 +508,7 @@
 1. 【[被卧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_u.md#被卧)】`pi6 u` <sup>[如东]</sup> 通常指被子和褥子两样卧具。有时也指所有卧具。  
 1. 【[被卧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_u_r.md#被卧<sub>儿</sub>)】`pi6 u r` <sup>[如东]</sup> 铺成长筒形，准备睡磨的被子。也叫被筒子。被子的下面。  
 1. 【[被卧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_u.md#被卧)】`pi6 u6` <sup>[泰县]</sup> 铺盖卧具：甚的时侯了，还睡啊～里头。/只说林冲就床上放了包裹～，就坐下来生些燄火起来。（水浒·10回）  
+1. 【[被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#被子)】`pi6 zz` <small>/pʰʝ1 t͡sɿ/<sup>泰兴</sup></small> 被子。分单被、棉被。<sup>\[泰兴\]</sup>  
 1. 【[避水珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_shuei_zhv.md#避水珠)】`pi6 shuei3 zhv1` <sup>[如东]</sup> 闰鱼的眼睛。传说闰鱼被送上沙滩时是没有眼珠的。这种眼珠是珍宝，放在身上，下雨能避淋，入水能开道。  
 1. 【[避嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin.md#避嫌)】`pi6 xin2` ① 有意避开嫌疑。<sup>\[东台\]</sup> ② 避开嫌疑，预先避开不参与。<sup>\[泰州\]</sup>  
 1. 【[避嫌疑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_xin_i.md#避嫌疑)】`pi6 xin2 i2` <sup>[兴化]</sup> 言行注意检点，避开嫌疑：通到自身的事要～。｜“胡说，就是嫡亲兄妹也该避些嫌疑……”（《梼杌闲评》十五）｜《警世通言》第三十四卷有“娇鸾和廷意渐渐不心”句。  

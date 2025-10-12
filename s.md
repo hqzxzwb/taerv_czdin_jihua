@@ -1838,6 +1838,7 @@
 1. 【[闪舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_shih_teu.md#闪舌头)】`shin3 shih8 teu2` <small>/ɕĩ3 ɕiʔ8 tʰəɪ2/<sup>泰兴</sup></small> 嘲笑人说话伤着舌头。多作对他人语言的反驳语。<sup>\[泰兴\]</sup>  
 1. 【[扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#扇)】`shin5` <sup>[泰州]</sup> 量词，用于门、窗、板等厂房且扁的物体：卸掉一～门，才把东西搭进去啊。  
 1. 【[扇贝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_bei.md#扇贝)】`shin5 bei5` <sup>[东台]</sup> 软体动物，壳略作扇形，是一种珍贵的海产食品。  
+1. 【[扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zz.md#扇子)】`shin5 zz` <small>/ɕĩ5 t͡sɿ/<sup>泰兴</sup></small> 扇动生风的用具。<sup>\[泰兴\]</sup>  
 1. 【[扇子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zz_min.md#扇子面)】`shin5 zz min6` <sup>[兴化]</sup> 像折扇打开时的半圆形。  
 1. 【[苫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#苫)】`shin5` <small>/ɕiɪ̃5/<sup>泰县</sup></small> ① 给草屋添补或铺上草<sup>\[东台\]</sup>：～草屋。<sup>\[东台\]</sup> ② 用席、布等遮盖<sup>\[东台\]</sup>：起天色咖，快点儿把场上的麦～好。<sup>\[东台\]</sup> ③ 用东西遮盖：快点儿把场上的豆儿～起来。<sup>\[泰县\]</sup>  
 1. 【[骟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#骟)】`shin5` ① 阉割 ② 除去牲畜的睾丸或卵巢。<sup>\[东台\]</sup> ③ 割除动物睾丸<sup>\[泰州\]</sup>：～公猪<sup>\[泰州\]</sup>  

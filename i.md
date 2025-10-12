@@ -2185,7 +2185,7 @@
 1. 【[冤枉凑巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_ceu_qio.md#冤枉凑巧)】`iun1 van ceu5 qio3` <sup>[如皋]</sup> 状正好碰上（倒楣的事）。  
 1. 【[冤枉鬥巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_deu_qio.md#冤枉鬥巧)】`iun1 van deu5 qio3` <sup>[如皋]</sup> 见“冤枉凑巧”。  
 1. 【[冤枉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_hua.md#冤枉话)】`iun1 van hua6` <sup>[泰州]</sup> 没有事实根据指责他人的话：他确实与这件事无关，你不能说～。  
-1. 【[冤枉路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_lv.md#冤枉路)】`iun1 van lv6` 不必要走而多走的路。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他俫走啊～，开啊四个钟头才到东台。<sup>\[泰州\]</sup>  
+1. 【[冤枉路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_lv.md#冤枉路)】`iun1 van lv6` <small>/yʊ̃1 uɑŋ lu1/<sup>泰兴</sup></small> 不必要走而多走的路。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他俫走啊～，开啊四个钟头才到东台。<sup>\[泰州\]</sup>  
 1. 【[冤枉棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_pan.md#冤枉棒)】`iun1 van pan6` <sup>[兴化]</sup> 受到不当的惩罚：小曹走路走得好好的，捱啊一顿～，气得要命。  
 1. 【[冤枉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qi.md#冤枉气)】`iun1 van qi5` <small>/yũ1 uaŋ t͡ɕʰi5/<sup>兴化</sup></small> 无端的抱怨或斥责<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“……我从早苦到晚……还受他的～”（《皮五辣子》三）<sup>\[兴化\]</sup>｜天天在家里受他的～，我真的够煞咖。<sup>\[泰州\]</sup>  
 1. 【[冤枉钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_van_qin.md#冤枉钱)】`iun1 van qin2` 没必要花而花掉的钱。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  

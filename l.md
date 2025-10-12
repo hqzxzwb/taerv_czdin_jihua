@@ -953,11 +953,11 @@
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
 1. 【[理不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_beh_do.md#理不到)】`li3 beh7 do5` <sup>[东台]</sup> 记不得，顾不上：医生关照我锻炼，可我病一好就～啊。  
-1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <small>/ləi3 t͡sʰəʔ8/<sup>兴化</sup></small> ① 处理。<sup>\[如东\]</sup>：家里的事也要去～下子。<sup>\[如东\]</sup> ② 安排、处理<sup>\[兴化\]</sup>：出差家来，先把积压的事情～咖子。<sup>\[兴化\]</sup> ③ 调理<sup>\[兴化\]</sup>：你这一向面黄肌瘦，要请个先生～～。<sup>\[兴化\]</sup>  
+1. 【[理择](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_cheh.md#理择)】`li3 cheh8` <small>/ləi3 t͡sʰəʔ8/<sup>兴化</sup>, /lʝ3 t͡sʰəʔ8/<sup>泰兴</sup></small> 安排、处理<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[兴化：调理\]：家里的事也要去～下子。<sup>\[如东\]</sup>｜出差家来，先把积压的事情～咖子。<sup>\[兴化\]</sup>｜你这一向面黄肌瘦，要请个先生～～。<sup>\[兴化\]</sup>  
 1. 【[理归理，法归法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_guei_li_faeh.md#理归理，法归法)】`li3 guei1 li3， faeh7 guei1 faeh7` <sup>[东台]</sup> 尽管有一定道理，但是法比理大，还得依法办事：你的困难我晓得，但是～，这笔款子本月无论如何要还清。  
 1. 【[理料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_lio.md#理料)】`li3 lio6` <sup>[如皋]</sup> 料理、解决。  
+1. 【[理拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheh.md#理拾)】`li3 sheh` <sup>[如皋]</sup> 过问、处理、收拾。  
 1. 【[理拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheh.md#理拾)】`li3 sheh` <small>/nɿ3 səʔ/<sup>泰县</sup></small> ① 同“理酌”。<sup>\[东台\]</sup> ② 整顿<sup>\[泰县\]</sup>：我还不曾～到你唻。<sup>\[泰县\]</sup> ③ 整理<sup>\[泰州\]</sup>：你下午把家里～啊子。<sup>\[泰州\]</sup> ④ 处理相关事务<sup>\[泰州\]</sup>：你离家这些天，肯定有不少事要～。<sup>\[泰州\]</sup>  
-1. 【[理拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheh.md#理拾)】`li3 sheh8` <sup>[如皋]</sup> 过问、处理、收拾。  
 1. 【[理事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shr.md#理事)】`li3 shr6` <sup>[如东]</sup> ① 管理事务：小小年纪就会～。 ② 一种行政职务。  
 1. 【[理酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zhah.md#理酌)】`li3 zhah7` <sup>[东台]</sup> 整理、处置，使之有序：这个事情请你～下子噻。  
 1. 【[礼拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae.md#礼拜)】`li3 bae` <sup>[泰兴]</sup> 星期。时间为七天。（原文词条“一个礼拜”）  
@@ -1568,7 +1568,8 @@
 1. 【[料峭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qio.md#料峭)】`lio6 qio` <sup>[泰县]</sup> 身材瘦而高：这个人长得～唻。  
 1. 【[料勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_shah.md#料勺)】`lio6 shah8` <small>/liɔ1 saʔ8/<sup>如皋</sup>, /niɔ1 sɑʔ8/<sup>泰县</sup></small> ① 农具。圆桶形，木制，高12厘米，口径26厘米，底径24厘米，柄长160厘米。主要用来舀粪、舀水。<sup>\[如东\]</sup> ② 舀粪的有长柄的木勺。<sup>\[如皋\]</sup> ③ 舀粪的木勺。<sup>\[泰县\]</sup>  
 1. 【[料作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zah.md#料作)】`lio6 zah` <small>/liɔ6 t͡saʔ/<sup>兴化</sup></small> ① 材料<sup>\[兴化\]</sup>：你要我替你打家具，自己把～拿过来。<sup>\[兴化\]</sup> ② 建房、制作家具等所用的大小原木、木方等原料。<sup>\[泰州\]</sup>  
-1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup>  
+1. 【[料张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zhan.md#料张)】`lio6 zhan1` <small>/liɔ1 t͡sɑŋ1/<sup>泰兴</sup></small> 准备采用的材料，多指半成品的木料。<sup>\[泰兴\]</sup>  
+1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /liɔ1 t͡sɿ/<sup>泰兴</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup> ⑦ 布料或其它准备制作成品的材料。<sup>\[泰兴\]</sup>  
 1. 【[𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#𩻻)】`lio6` <sup>[东台]</sup> 䱗鱼：白～。  
 1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，了。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
 1. 【[恅愺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_co.md#恅愺)】`lo1 co` <sup>[如皋]</sup> 物品脏而混杂。  
