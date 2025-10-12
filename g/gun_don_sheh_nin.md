@@ -4,7 +4,7 @@ gun1 don1 sheh7 nin2
 - （农谚）冬至这一天不下雨，过春节时往往要下雨。
 
 # 干冬湿年，快活种田
-gun1 don1 sheh7 nin2 kuae5 vah zhon5 tin2
+gun1 don1 sheh7 nin2 kuae5 huh zhon5 tin2
 + 农谚。谓冬至少雨，则春节雨雪多，预示来年庄稼丰收。
   * 泰兴方言辞典
 <!--
