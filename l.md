@@ -1241,6 +1241,7 @@
 1. 【[铃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#铃子)】`lien2 zz` <small>/liŋ2 t͡sɿ/<sup>泰兴</sup></small> 铃铛。<sup>\[泰兴\]</sup>  
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_suei_ko.md#零打碎敲)】`lien2 da3 suei5 ko1` <sup>[如东]</sup> 一点儿一点儿的：这批货不要～的卖。  
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien2 da3 xy5 ko1` <sup>[东台]</sup> ［喻］指以零零碎碎、断断续续的方式进行或处理。  
+1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien2 da3 xy5 ko1` <sup>[泰州]</sup> 不能成整进行买卖，意谓零碎卖出或者买进：他今朝拿一点儿货，明朝弄一点儿货，就这格局～的，一年也进不少货唻。  
 1. 【[零答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_daeh.md#零答)】`lien2 daeh7` <sup>[如东]</sup> 说话啰唆：这个人的嘴～咖交关。  
 1. 【[零用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion.md#零用)】`lien2 ion6` <sup>[东台]</sup> 零碎地用钱。  
 1. 【[零用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion_qin.md#零用钱)】`lien2 ion6 qin2` <sup>[如东]</sup> 放在身上随时开支的小钱。也称零花钱：㨔你几个～。  
@@ -1256,7 +1257,6 @@
 1. 【[零碎酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_jieu.md#零碎酒)】`lien2 xy5 jieu3` <sup>[东台]</sup> ［喻］事情未结束，点点滴滴、缠缠拉拉不得了结。  
 1. 【[零碎食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_sheh.md#零碎食)】`lien2 xy5 sheh8` <sup>[如皋]</sup> 一日三餐以外的进食。  
 1. 【[零嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zuei.md#零嘴)】`lien2 zuei3` <sup>[兴化]</sup> 零食：他喜欢吃～。  
-1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien3 da3 xy5 ko1` <sup>[泰州]</sup> 不能成整进行买卖，意谓零碎卖出或者买进：他今朝拿一点儿货，明朝弄一点儿货，就这格局～的，一年也进不少货唻。  
 1. 【[领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#领)】`lien3` <sup>[兴化]</sup> 抚育：（老头子）生活条条理理，两个细小的～得滑滑滴滴的。（兴文《“勤俭”二字不可分家》）  
 1. 【[领阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#领阵)】`lien3 chen6` <sup>[兴化]</sup> 挑头、主事：“过去发大水，几十家合一个圩子，没有人～，张不顾李，李不顾张……”（马春阳《风里雨里》）  
 1. 【[领褂皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_pi.md#领褂皮)】`lien3 gua pi2` <sup>[泰县]</sup> 衣领：抓住你的。  

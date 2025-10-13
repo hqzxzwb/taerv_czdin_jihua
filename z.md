@@ -1668,7 +1668,7 @@
 1. 【[转阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ian.md#转阳)】`zhun3 ian2` <small>/t͡sʊ̃3 iã2/<sup>如皋</sup>, /t͡sʊ̃3 iɑŋ2/<sup>泰兴</sup></small> ① 见“和暴”。<sup>\[如皋\]</sup> ② 苏醒，复苏。<sup>\[泰兴\]</sup>  
 1. 【[转一转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_ieh_zhun_vaen.md#转一转弯)】`zhun3 ieh7 zhun3 vaen1` <sup>[泰州]</sup> 转一下弯，意谓想要收回自己一时冲动所作出的错误决定，又怕因此伤害自尊，而在内心纠结不已之时，通过由第三方出面提出让步措施，达到既收回错误决定而又保全自尊的目的：要是他俫谈吖僵吖，你就出来～。  
 1. 【[转筋消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_jien_xio.md#转筋消)】`zhun3 jien1 xio1` <sup>[东台]</sup> 多指小孩贪吃，一转身就消化了：你哪是个～，才多晚又要吃？  
-1. 【[转来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae.md#转来)】`zhun3 lae` <small>/t͡sʊ̃3 lɛ/<sup>如皋</sup></small> ① 一般发音zu3 lae。过一会儿再、打转再<sup>\[如皋\]</sup>：～去。<sup>\[如皋\]</sup> ② 以后，回转来。相约用语。口语中常脱落鼻音说zhu3 lae。<sup>\[如皋\]</sup>  
+1. 【[转来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_lae.md#转来)】`zhun3 lae` <small>/t͡sʊ̃3 lɛ/<sup>如皋</sup>, /t͡sʊ̃3 lɛ/<sup>泰兴</sup></small> 过一会儿再、打转再。以后，回转来。可作相约用语。\[如皋：又脱鼻音 zu3 lae\]\[泰兴：常音 zu2 lei\]：～去。<sup>\[如皋\]</sup>  
 1. 【[转嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_nen.md#转嫩)】`zhun3 nen6` <sup>[如皋]</sup> ① 气色转好：他疗养之后肤色～。 ② 口感变得脆嫩：春天的番芋～，削咖吃最好。 ③ 长势转旺：清明过后，看吖松树树叶子～吖。  
 1. 【[转年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_nin.md#转年)】`zhun3 nin2` <sup>[兴化]</sup> 明年：他今年虚岁六十，～就要退休啦。  
 1. 【[转念头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhun_nin_teu.md#转念头)】`zhun3 nin6 teu` <sup>[兴化]</sup> 动脑筋、打主意：他眼睛骨碌骨碌地，又在下～。  
@@ -2059,10 +2059,8 @@
 1. 【[做茧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jin_r.md#做茧<sub>儿</sub>)】`zu5 jin3 r` <sup>[如皋]</sup> 结茧。  
 1. 【[做荐头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_jin_teu_zz.md#做荐头子)】`zu5 jin5 teu zz` <sup>[如皋]</sup> 出头与人争执：你不要～，别人又不曾推举你！  
 1. 【[做口眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_keu_ngaen.md#做口眼)】`zu5 keu3 ngaen3` <sup>[如东]</sup> 装样子：他在下～，不要相信。  
-1. 【[做块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuae_r.md#做块<sub>儿</sub>)】`zu5 kuae r` <sup>[泰县]</sup> 一起：我俫～去。  
 1. 【[做块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuae.md#做块)】`zu5 kuae5` 一起  
-1. 【[做块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuae_r.md#做块<sub>儿</sub>)】`zu5 kuae5-3 r` <sup>[东台]</sup> 在一起：我和他俫～玩。  
-1. 【[做块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuae_r.md#做块<sub>儿</sub>)】`zu5 kuae5 r` <small>/t͡so5 kʰuɛ5 ɚ/<sup>兴化</sup></small> ① 一起 ② 一起。<sup>\[如东\]</sup>：我俫～动身。<sup>\[如东\]</sup> ③ 在一起<sup>\[兴化\]</sup>：他俫两口子性情不合，已经几年不～啊。<sup>\[兴化\]</sup>  
+1. 【[做块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_kuae_r.md#做块<sub>儿</sub>)】`zu5 kuae5 r` <small>/t͡so5 kʰuɛ5 ɚ/<sup>兴化</sup>, /t͡so5 kʰue ɚ/<sup>泰县</sup></small> 一起，在一起<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：我俫～动身。<sup>\[如东\]</sup>｜他俫两口子性情不合，已经几年不～啊。<sup>\[兴化\]</sup>｜我和他俫～玩。<sup>\[东台\]</sup>｜我俫～去。<sup>\[泰县\]</sup>  
 1. 【[做佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_r.md#做佬<sub>儿</sub>)】`zu5 lo3 r` ① 做梦。<sup>\[如东\]</sup>：毛毛～啦！<sup>\[如东\]</sup> ② 说梦话。<sup>\[如东\]</sup> ③ “做梦”的俗称<sup>\[东台\]</sup>：我这几天睡眠不好，夜里老～。<sup>\[东台\]</sup>  
 1. 【[做老二爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_er_dia.md#做老二爹)】`zu5 lo3 er dia1` 做梦，发魔的避讳称。同“做佬儿”。  
 1. 【[做老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lo_r.md#做老<sub>儿</sub>)】`zu5 lo3 r` <sup>[如皋]</sup> 做梦，发魔的避讳称。  
