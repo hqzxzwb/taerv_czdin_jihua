@@ -478,7 +478,7 @@
 1. 【[䜺<sub>儿</sub>粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh.md#䜺<sub>儿</sub>粥)】`chae3 r zhoh7` <small>/t͡sʰɛ˞3 t͡sɔʔ7/<sup>如皋</sup></small> ① 用䜺儿煮的粥。又因谷物不同而异称玉米～、元麦～。<sup>\[如皋\]</sup> ② 元麦、大麦或玉米䜺儿煮成的粥，黏韧而香醇，营养丰富。<sup>\[如东\]</sup> ③ 以面粉为原料煮成的稀糊状食物，有“米～”“玉米～”等。<sup>\[泰州\]</sup>  
 1. 【[䜺<sub>儿</sub>粥没得血，这边𬊯那边喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_r_zhoh_meh.md#䜺<sub>儿</sub>粥没得血，这边𬊯那边喝)】`chae3 r zhoh7 meh8 deh7 xiuh7 zha5 bin1 duh7 lu5 bin1 huh7` <sup>[东台]</sup> 玉米䜺儿粥可以一边煮一边吃。  
 1. 【[䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_zz.md#䜺子)】`chae3 zz` <sup>[兴化]</sup> 磨碎的稻米、麦、玉米、高粱、豆类等：米～｜麦～｜芦秫～｜棒头～  
-1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <small>/t͡sʰɛ1 ɕy1/<sup>如皋</sup></small> ① 排泄小便。<sup>\[如东\]</sup> ② 排小便。<sup>\[如皋\]</sup> ③ 解小便<sup>\[东台\]</sup>：带伢儿睡觉，夜里要拉他～。<sup>\[东台\]</sup>  
+1. 【[𠏾尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy.md#𠏾尿)】`chae6 xy1` <small>/t͡sʰɛ1 ɕy1/<sup>如皋</sup></small> 排小便<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：带伢儿睡觉，夜里要拉他～。<sup>\[东台\]</sup>  
 1. 【[𠏾尿变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chae_xy_bin.md#𠏾尿变)】`chae6 xy1 bin5` <sup>[如东]</sup> 刚决定的主意，一趟小便就改变了。形容主张不稳定，容易改变：这个人喜欢～。  
 1. 【[察觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_jiah.md#察觉)】`chaeh7 jiah7` <sup>[东台]</sup> 发现。也作“觉察”。  
 1. 【[插](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#插)】`chaeh7` <sup>[如皋]</sup> 梁与柱的组合体。用以架檩：砌三间屋要串四捧～。  
