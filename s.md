@@ -2402,6 +2402,7 @@
 1. 【[爽快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_kuae.md#爽快)】`shuan3 kuae5` <sup>[东台]</sup> 直截了当，直爽、痛快：让他下乡蹲点，他甚的话也不说，～答应吖。  
 1. 【[爽朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_lan.md#爽朗)】`shuan3 lan3` <sup>[如东]</sup> 开朗。  
 1. 【[爽利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_li.md#爽利)】`shuan3 li` <sup>[如东]</sup> 办事迅速而方便：他办事～。  
+1. 【[爽力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_lieh.md#爽力)】`shuan3 lieh8` <small>/suɑŋ3 liʔ8/<sup>泰兴</sup></small> 行事方便快捷<sup>\[泰兴\]</sup>：他膀子疼，做活技不～<sup>\[泰兴\]</sup>｜你箇样子搬不～，要拿个畚头来畚才～<sup>\[泰兴\]</sup>  
 1. 【[爽撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pih.md#爽撇)】`shuan3 pih` <sup>[兴化]</sup> 干脆：～点儿，十块钱一客，十客一百块钱。｜1“……我们稍做～些……好不好？”（《武松》二）  
 1. 【[爽撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pih.md#爽撇)】`shuan3 pih7` <sup>[东台]</sup> 舒适，畅快，也称“爽气”：你不要再多说咖，～点儿把东西还吖给人家。  
 1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi` <sup>[兴化]</sup> 爽快、干脆：他从来不曾这吖～过，大家一说他就答应吖。  
