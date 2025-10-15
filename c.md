@@ -697,7 +697,7 @@
 1. 【[仗义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#仗义)】`chan6 i6` <small>/t͡sʰɑŋ1 ʝ1/<sup>泰兴</sup></small> ① 依靠或讲究义气。<sup>\[如东\]</sup> ② 讲义气<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：你这个人～，朋友有难都肯帮一把。<sup>\[东台\]</sup>｜他这个人～<sup>\[泰兴\]</sup>  
 1. 【[仗势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shr.md#仗势)】`chan6 shr5` <sup>[如东]</sup> 依靠别人的势力：～欺人。  
 1. 【[㿭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh.md#㿭)】`cheh7` <sup>[兴化]</sup> 皮肤干裂：脚上裂～子  
-1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` <small>/t͡sʰəʔ7 t͡sɿ/<sup>如皋</sup></small> ① 皮肤皴裂开口<sup>\[如皋\]</sup>：一到寒天，脚后跟上就裂，疼得不能跑。<sup>\[如皋\]</sup> ② 皮肤上裂缝<sup>\[东台\]</sup>：冬天在建筑工地上打工，手上裂咖多少～。<sup>\[东台\]</sup>  
+1. 【[㿭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_zz.md#㿭子)】`cheh7 zz` <small>/t͡sʰəʔ7 t͡sɿ/<sup>如皋</sup>, /t͡sʰəʔ7 t͡sɿ/<sup>泰兴</sup></small> 皮肤的皴裂开口<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：一到寒天，脚后跟上就裂，疼得不能跑。<sup>\[如皋\]</sup>｜冬天在建筑工地上打工，手上裂咖多少～。<sup>\[东台\]</sup>｜裂～<sup>\[泰兴\]</sup>  
 1. 【[哧哧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh.md#哧哧)】`cheh7 cheh7` <sup>[泰县]</sup> 悄悄：他～的走啊。  
 1. 【[哧哧<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r.md#哧哧<sub>儿</sub>)】`cheh7 cheh7 r` <sup>[泰州]</sup> ① 小心翼翼的样子：才落过雨的，跳板上滑，你～的走，不要滑咖河里去。｜你家奶奶岁数大啊唻，你扶住她～的走。｜这个花瓶是清朝的，你～的捧，不要弄吖打掉。 ② 悄悄地，不弄出声响的：伢儿才睡着咖，你～的走。  
 1. 【[哧哧<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheh_cheh_r_dii.md#哧哧<sub>儿</sub>的)】`cheh7 cheh7 r dii` <sup>[东台]</sup> 悄悄地：你～跑到我背后。  
