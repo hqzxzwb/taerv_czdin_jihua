@@ -210,9 +210,9 @@
 1. 【[咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_jy.md#咧嘴)】`lae3 jy3` <sup>[如皋]</sup> ① 嘴大。 ② 一种张嘴的动作表情。  
 1. 【[那<sub>许</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#那<sub>许</sub>)】`lae5` 那里。那许lu5 hae连读。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chuae.md#䐯膗)】`lae6 chuae5` <sup>[兴化]</sup> 因过肥面形体不匀称，容貌难看：谚曰：～对～，破锅腔配个𫜰锅盖。  
-1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae.md#䐯膗)】`lae6 shae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  
 1. 【[䐯膗胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shae_hv_zz.md#䐯膗胡子)】`lae6 shae hv2 zz` <sup>[如皋]</sup> 络腮胡子。  
 1. 【[䐯膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shuae.md#䐯膗)】`lae6 shuae` <sup>[东台]</sup> 形容某物体量大得难看。  
+1. 【[擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sae.md#擸𢶍)】`lae6 sae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  
 1. 【[癞疤核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba_heh_to.md#癞疤核桃)】`lae6 ba heh8 to2` <small>/lɛ6 pa xəʔ8 tʰɔ2/<sup>兴化</sup>, /ne1 pa xəʔ8 tʰɔ2/<sup>泰县</sup></small> ① 形容物体表面不光滑。<sup>\[兴化\]</sup> ② 衣物折皱太多<sup>\[兴化\]</sup>：他把衣裳连吖身上睡觉，弄得～的。<sup>\[兴化\]</sup> ③ 不光滑：地下～的。<sup>\[泰县\]</sup>  
 1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo` <small>/lɛ6 pɔ/<sup>兴化</sup>, /lɛ1 pɔ/<sup>如皋</sup>, /ne1 pɔ/<sup>泰县</sup></small> ① 中华大蟾蜍。<sup>\[如皋\]</sup> ② 蟾蜍的俗称。也叫癞蛤蟆。<sup>\[东台\]</sup> ③ 蟾蜍，俗称“癞蛤蟆”。<sup>\[兴化\]</sup> ④ 称患有黄癣病的人。<sup>\[兴化\]</sup> ⑤ 蛤蟆。<sup>\[泰县\]</sup> ⑥ 蟾蜍。<sup>\[泰州\]</sup>  
 1. 【[癞宝菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_cae.md#癞宝菜)】`lae6 bo cae5` <sup>[如皋]</sup> 冬春的1种大棵青菜，叶面不平。又名“黑菜”。  
