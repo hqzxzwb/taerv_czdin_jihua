@@ -2405,8 +2405,7 @@
 1. 【[爽力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_lieh.md#爽力)】`shuan3 lieh8` <small>/suɑŋ3 liʔ8/<sup>泰兴</sup></small> 行事方便快捷<sup>\[泰兴\]</sup>：他膀子疼，做活技不～<sup>\[泰兴\]</sup>｜你箇样子搬不～，要拿个畚头来畚才～<sup>\[泰兴\]</sup>  
 1. 【[爽撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pih.md#爽撇)】`shuan3 pih` <sup>[兴化]</sup> 干脆：～点儿，十块钱一客，十客一百块钱。｜1“……我们稍做～些……好不好？”（《武松》二）  
 1. 【[爽撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_pih.md#爽撇)】`shuan3 pih7` <sup>[东台]</sup> 舒适，畅快，也称“爽气”：你不要再多说咖，～点儿把东西还吖给人家。  
-1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi` <sup>[兴化]</sup> 爽快、干脆：他从来不曾这吖～过，大家一说他就答应吖。  
-1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi5` <small>/suã3 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 爽快，豪爽<sup>\[如皋\]</sup>：她说话～，不欢喜韧。<sup>\[如皋\]</sup> ② 快速<sup>\[如皋\]</sup>：她做事～，一大堆的衣裳一刻儿就洗掉啊。<sup>\[如皋\]</sup> ③ 办事、处理问题爽快、干脆<sup>\[泰州\]</sup>：他这个人办事～。<sup>\[泰州\]</sup>  
+1. 【[爽气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_qi.md#爽气)】`shuan3 qi5` <small>/suaŋ3 t͡ɕʰi/<sup>兴化</sup>, /suã3 t͡ɕʰʝ5/<sup>如皋</sup>, /suɑŋ3 t͡ɕʰʝ/<sup>泰兴</sup></small> 爽快，豪爽，干脆<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：她说话～，不欢喜韧。<sup>\[如皋\]</sup>｜她做事～，一大堆的衣裳一刻儿就洗掉啊。<sup>\[如皋\]</sup>｜他这个人办事～。<sup>\[泰州\]</sup>｜他从来不曾这吖～过，大家一说他就答应吖。<sup>\[兴化\]</sup>  
 1. 【[爽手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_sheu.md#爽手)】`shuan3 sheu3` 器物长短、大小、轻重之类物理性能适中，使用起来便捷<sup>\[泰州\]</sup>：我用这个乒乓球拍子打起来～。<sup>\[泰州\]</sup>  
 1. 【[爽性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_xien.md#爽性)】`shuan3 xien5` 索性，干脆  
 1. 【[垂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei.md#垂)】`shuei2` <small>/suəɪ2/<sup>泰兴</sup></small> 向下；偏低。如木杆秤称物，秤杆末端向上为翘，向下为垂。<sup>\[泰兴\]</sup>  
