@@ -2277,6 +2277,7 @@
 1. 【[萝卜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_faen.md#萝卜饭)】`lu2 poh faen6` <small>/lɤɯ2 pʰɔʔ fɛ̃1/<sup>泰兴</sup></small> 以胡萝卜为主加人少量的米作成的饭。<sup>\[泰兴\]</sup>  
 1. 【[萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>)】`lu2 poh gun1 r` <sup>[如东]</sup> 将萝卜切成小块，晒干，加盐、花椒等调味品腌制，脆，香，为普通蔬菜。  
 1. 【[萝卜干<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>饭)】`lu2 poh gun1 r faen6` <sup>[东台]</sup> 旧时学徒艰苦生活的别称：学徒要吃三年～。  
+1. 【[萝卜干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_zz.md#萝卜干子)】`lu2 poh gun1 zz` <small>/lɤɯ2 pʰɔʔ kʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 用萝卜加工成的咸菜。<sup>\[泰兴\]</sup>  
 1. 【[萝卜花眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_hua_ngaen.md#萝卜花眼)】`lu2 poh hua1 ngaen3` <sup>[泰县]</sup> 白内障。  
 1. 【[萝卜缨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_ien_zz.md#萝卜缨子)】`lu2 poh ien1 zz` <small>/lɤɯ2 pʰɔʔ iŋ1 t͡sɿ/<sup>泰兴</sup></small> 萝卜叶子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[萝卜丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz.md#萝卜丝)】`lu2 poh sz1` <sup>[兴化]</sup> 用萝卜切成或刨成的细条，可以凉拌，也可作烧饼等的馅。  

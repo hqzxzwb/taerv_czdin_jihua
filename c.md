@@ -59,7 +59,9 @@
 1. 【[采草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_co.md#采草)】`cae3 co3` <sup>[如皋]</sup> 采割青饲料。  
 1. 【[采青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qien.md#采青)】`cae3 qien1` <sup>[如皋]</sup> 麦未老熟就收割以渡春荒。  
 1. 【[菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae.md#菜)】`cae5` 蔬菜；小菜  
+1. 【[菜饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_bien.md#菜饼)】`cae5 bien3` <small>/t͡ɕʰiɛ5 piŋ3/<sup>泰兴</sup></small> 菜籽榨油后留下的作肥料的饼。<sup>\[泰兴\]</sup>  
 1. 【[菜包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_bo_r.md#菜包<sub>儿</sub>)】`cae5 bo1 r` <small>/t͡sʰɛ5 pɔ˞1/<sup>如皋</sup></small> ① 菜包子 ② 以蔬菜为馅的包子。<sup>\[如皋\]</sup>  
+1. 【[菜包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_bo_zz.md#菜包子)】`cae5 bo1 zz` <small>/t͡ɕʰiɛ5 pɔ1 t͡sɿ/<sup>泰兴</sup></small> 用蔬菜作馅的包子。<sup>\[泰兴\]</sup>  
 1. 【[菜刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_do.md#菜刀)】`cae5 do1` <sup>[如皋]</sup> 农村用的矩形刀，切菜兼㔋猪草用。参见“厨刀”。  
 1. 【[菜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_faen.md#菜饭)】`cae5 faen6` <small>/t͡sʰɛ5 fɛ̃6/<sup>兴化</sup>, /t͡sʰɛ5 fẽ1/<sup>如皋</sup></small> ① 掺和菜蔌的饭的总名。<sup>\[如皋\]</sup> ② 青菜末和大米煮成的饭。<sup>\[兴化\]</sup> ③ 谓只有素菜的饭食，比喻生活清苦<sup>\[兴化\]</sup>：粗布衣，～饱。<sup>\[兴化\]</sup> ④ 东南乡也称“酸饭”。<sup>\[兴化\]</sup>  
 1. 【[菜芥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_gae_r.md#菜芥<sub>儿</sub>)】`cae5 gae5 r` <sup>[如皋]</sup> ① 菜初生的两片子叶。 ② 间苗拔下的菜苗。  
@@ -71,13 +73,16 @@
 1. 【[菜花癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_hua_xiun.md#菜花癣)】`cae5 hua xiun3` <sup>[兴化]</sup> 见“桃花癣”。  
 1. 【[菜花黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_hua_huan.md#菜花黄)】`cae5 hua1 huan2` <sup>[如皋]</sup> 本地的一种无毒蛇，皮黄绿色。  
 1. 【[菜花蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_hua_hun_zz.md#菜花蚶子)】`cae5 hua1 hun1 zz` ① 菜花开放期间，蚶子怀子未放，体内积蓄大量脂肪，又壮又肥又嫩。此时的蛤子，称菜花蛤子。俗语说：“蚶子要买菜花黄。”<sup>\[如东\]</sup> ② 农历三月，菜花盛开时海里的蚶子，肉质最鲜嫩肥美。（见“蚶子”）<sup>\[东台\]</sup>  
+1. 【[菜秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ian_zz.md#菜秧子)】`cae5 ian1 zz` <small>/t͡ɕʰiɛ5 yɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 菜的幼苗。<sup>\[泰兴\]</sup>  
 1. 【[菜樱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ien_r.md#菜樱<sub>儿</sub>)】`cae5 ien1 r` <sup>[如东]</sup> 蔬菜的嫩心。  
 1. 【[菜油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_ieu.md#菜油)】`cae5 ieu2` <sup>[如东]</sup> 油菜籽榨出的油，叫菜油。  
 1. 【[菜椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jio.md#菜椒)】`cae5 jio1` <sup>[兴化]</sup> 辣椒的一个品种，形状像柿子，味不太辣而略带甜味。又称“甜椒”“灯笼椒”。  
+1. 【[菜椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jio.md#菜椒)】`cae5 jio1` <small>/t͡ɕʰiɛ5 t͡ɕiɔ1/<sup>泰兴</sup></small> 一种不辣的大椒。<sup>\[泰兴\]</sup>  
 1. 【[菜馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_mun_teu.md#菜馒头)】`cae5 mun2 teu` <sup>[如皋]</sup> 以蔬菜为馅的馒头。  
 1. 【[菜青虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_qien_chon.md#菜青虫)】`cae5 qien1 chon2` <sup>[如皋]</sup> 莱粉蝶的幼虫。  
-1. 【[菜蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shv.md#菜蔬)】`cae5 shv` <small>/t͡sʰɛ5 su/<sup>兴化</sup>, /t͡sʰɛ5 su/<sup>如皋</sup></small> ① 菜类的统称。<sup>\[如皋\]</sup> ② 蔬菜。<sup>\[兴化\]</sup> ③ 家常副食或筵席上所备的各种菜肴。<sup>\[兴化\]</sup>  
+1. 【[菜蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_shv.md#菜蔬)】`cae5 shv` <small>/t͡sʰɛ5 su/<sup>兴化</sup>, /t͡sʰɛ5 su/<sup>如皋</sup>, /t͡ɕʰiɛ5 su/<sup>泰兴</sup></small> ① 菜类的统称。<sup>\[如皋\]</sup> ② 蔬菜。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：奶奶八十几岁了，还在园田里摸摸～<sup>\[泰兴\]</sup> ③ 家常副食或筵席上所备的各种菜肴。<sup>\[兴化\]</sup>  
 1. 【[菜苔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_tae.md#菜苔)】`cae5 tae2` <sup>[如皋]</sup> 见“菜莛儿”。  
+1. 【[菜苔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_tae.md#菜苔)】`cae5 tae2` <small>/t͡ɕʰiɛ5 tʰɛ2/<sup>泰兴</sup></small> 某些起苔蔬菜的茎类部分。<sup>\[泰兴\]</sup>  
 1. 【[菜薹<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_tae_r.md#菜薹<sub>儿</sub>)】`cae5 tae2 r` <sup>[泰州]</sup> ① 韭菜、油菜等蔬菜的花茎，嫩者是蔬菜中的精品。 ② 比喻人的身体躯干极瘦：你望你这个人噢，长得像个～。  
 1. 【[菜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_teu.md#菜头)】`cae5 teu2` <sup>[兴化]</sup> 大棵青菜靠根的部分：～烧鱼圆。  
 1. 【[菜投饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_teu_faen.md#菜投饭)】`cae5 teu2 faen6` <sup>[兴化]</sup> 煮熟的大米饭加菜末后再煮一下。以前是为了节约主粮，现许多人家是为了改换口味。  

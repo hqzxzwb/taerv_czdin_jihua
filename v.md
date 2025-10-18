@@ -724,10 +724,11 @@
 1. 【[王小二过年，一无所有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_xio_er_gu.md#王小二过年，一无所有)】`van2 xio3 er6 gu5 nin2 ieh7 v2 su3 ieu3` <small>/uɑŋ2 ɕiɔ3 ɚ1 kɤɯ5 nĩ2 iʔ7 ʋ2 sɤɯ3 iɤɯ3/<sup>泰兴</sup></small> 喻极穷，什么都没有。<sup>\[泰兴\]</sup>：家里穷得很，真是～。<sup>\[泰兴\]</sup>  
 1. 【[王子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#王子)】`van2 zz` <sup>[如皋]</sup> 丧俗中，给死者供倒头饭时，于左首设一只筷、一只酒盅，盛点半熟的米饭同时供～。  
 1. 【[艎板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#艎板)】`van2 baen3` <sup>[东台]</sup> 渔船舱口的盖板：取到鱼，～都会说话（有了成绩，即使无关人员也能总结出经验）。  
+1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_bo_cha.md#黄包车)】`van2 bo cha1` <small>/uɑŋ2 pɔ t͡sʰɑ1/<sup>泰兴</sup></small> 旧时一种用人力拉的双轮车。主要用来载人。<sup>\[泰兴\]</sup>  
 1. 【[黄菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_cae.md#黄菜)】`van2 cae5` <sup>[如皋]</sup> 胡萝卜英子烫熟做的菜。荒年可以度命，谚云：“一缸～一缸粮”。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_caen.md#黄䱗)】`van2 caen1` <sup>[如皋]</sup> 黄鲦。  
 1. 【[黄大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_da_teu.md#黄大头)】`van2 da6 teu2` <sup>[如皋]</sup> 番芋的一个品种。  
-1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei.md#黄泔水)】`van2 gun1 shuei3` <small>/ʋã2 kʊ̃1 suei3/<sup>如皋</sup></small> ① 做豆腐榨出的脚水，色黄，富有机质，可饲猪。<sup>\[如皋\]</sup> ② 见“泔水”。<sup>\[如皋\]</sup>  
+1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei.md#黄泔水)】`van2 gun1 shuei3` <small>/ʋã2 kʊ̃1 suei3/<sup>如皋</sup>, /uɑŋ2 kʊ̃1 suəɪ3/<sup>泰兴</sup></small> ① 做豆腐榨出的脚水，色黄，富有机质，可饲猪。另见“泔水”。<sup>\[如皋\]</sup> ② 压豆腐渗出的黄色液体。<sup>\[泰兴\]</sup>  
 1. 【[黄泔水味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei_vei.md#黄泔水味)】`van2 gun1 shuei3 vei6` <sup>[如皋]</sup> 豆制品或制成品常有的脚水气味。  
 1. 【[黄荷朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hu_lan.md#黄荷朗)】`van2 hu2 lan3` <sup>[如皋]</sup> 蒲公英。  
 1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_hua_r.md#黄花<sub>儿</sub>)】`van2 hua1 r` <sup>[如皋]</sup> 首蓿俗称秧草，其嫩头可做腌菜，其余耕翻入土作基肥。  
@@ -736,8 +737,11 @@
 1. 【[黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon.md#黄齈)】`van2 lon2` <sup>[如皋]</sup> 鼻涕，偏指脓样鼻涕。  
 1. 【[黄齈疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon_ba_r.md#黄齈疤<sub>儿</sub>)】`van2 lon2 ba1 r` <sup>[如皋]</sup> 鼻涕硬结物。  
 1. 【[黄齈鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_lon_pieh_zz.md#黄齈鼻子)】`van2 lon2 pieh8 zz` <sup>[如皋]</sup> 状鼻涕多，且糊满鼻唇间。  
-1. 【[黄猫<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_go.md#黄猫<sub>儿</sub>糕)】`van2 mo r go1` 发面蒸熟切片晒干制成的干粮  
-1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
+1. 【[黄篾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mih.md#黄篾)】`van2 mih8` <small>/uɑŋ2 miʔ8/<sup>泰兴</sup></small> 竹管内层发黄的篾片，与“青篾”相对。<sup>\[泰兴\]</sup>  
+1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_min.md#黄面)】`van2 min6` <small>/uɑŋ2 mĩ1/<sup>泰兴</sup></small> 次等的面粉。<sup>\[泰兴\]</sup>  
+1. 【[黄猫<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_go.md#黄猫<sub>儿</sub>糕)】`van2 mo r go1` <small>/uɑŋ2 mɔ˞ kɔ1/<sup>泰兴</sup></small> 发酵后作成的面食品。长条形。<sup>\[泰兴\]</sup>  
+1. 【[黄毛丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_nga_teu.md#黄毛丫头)】`van2 mo2 nga1 teu` <small>/uɑŋ2 mɔ2 ŋɑ1 tʰəɪ/<sup>泰兴</sup></small> 毛发未黑的女孩子。后亦用作对年轻女子的谑称。<sup>\[泰兴\]</sup>  
+1. 【[黄猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r.md#黄猫<sub>儿</sub>)】`van2 mo2 r` <small>/ʋã2 mɔ˞2/<sup>如皋</sup>, /uɑŋ2 mɔ˞/<sup>泰兴</sup></small> ① 黄鼠狼。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 条形无馅馒头。<sup>\[如皋\]</sup>  
 1. 【[黄猫<sub>儿</sub>给鸡拜年——没安好心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gei.md#黄猫<sub>儿</sub>给鸡拜年——没安好心)】`van2 mo2 r gei5 ji1 bae5 nin2 meh8 un1 ho3 xien1` <sup>[东台]</sup>   
 1. 【[黄猫<sub>儿</sub>𠞖吖鸡窠里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_gon.md#黄猫<sub>儿</sub>𠞖吖鸡窠里)】`van2 mo2 r gon1 nga ji1 ku1 lii` <sup>[如皋]</sup> 喻害群之马。使大家不得安宁，且带来祸害。  
 1. 【[黄猫<sub>儿</sub>看鸡——越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_kun.md#黄猫<sub>儿</sub>看鸡——越看越稀)】`van2 mo2 r kun1 ji1 iuh8 kun1 iuh8 xi1` <sup>[东台]</sup>   
@@ -746,13 +750,16 @@
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  
 1. 【[黄牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu.md#黄牛)】`van2 ngeu2` <sup>[东台]</sup> 黄牛是牛的一种，角短，皮毛黄褐色或黑色、杂色，毛短：农民有句俗话，～力大上岸，水牛力大下河。  
+1. 【[黄牛角，水牛角，角（各）管角（各）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_gah_shuei.md#黄牛角，水牛角，角（各）管角（各）)】`van2 ngeu2 gah7 shuei3 ngeu2 gah7 gah7 gun3 gah7` <small>/uɑŋ2 ŋəɪ2 kɑʔ7 suəɪ3 ŋəɪ2 kɑʔ7 kɑʔ7 kʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 喻各人管各人的事，不要管别人的事。<sup>\[泰兴\]</sup>  
 1. 【[黄牛颈项的皮——欲紧不紧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_jien_han.md#黄牛颈项的皮——欲紧不紧的)】`van2 ngeu2 jien3 han6 dii pi2 ioh8 jien3 beh7 jien3 dii` <sup>[东台]</sup>   
 1. 【[黄牛尾子一翘，遛到汤家灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_vei_zz.md#黄牛尾子一翘，遛到汤家灶)】`van2 ngeu2 vei3 zz ieh7 qio5 lieu1 do5 tan1 ga1 zo5` <sup>[如皋]</sup> 黄牛发怒或发情时，会撅着尾巴跑得很远。  
 1. 【[黄鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nio_r.md#黄鸟<sub>儿</sub>)】`van2 nio3 r` <sup>[如皋]</sup> 金丝雀。  
+1. 【[黄鳝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shin.md#黄鳝)】`van2 shin` <small>/uɑŋ2 ɕĩ/<sup>泰兴</sup></small> 鱼的一种，长条形，故又称长鱼。<sup>\[泰兴\]</sup>  
 1. 【[黄脰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_r.md#黄脰<sub>儿</sub>)】`van2 teu6 r` <sup>[如皋]</sup> 鹪鹩，善斗。因其颈下毛色黄，故名。  
 1. 【[黄豆篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_leu_r.md#黄豆篓<sub>儿</sub>)】`van2 teu6 leu3 r` <sup>[如皋]</sup> 一种无孔的小竹篮，方底圆口深帮。用精篾翘三编成，密不漏。  
 1. 【[黄豆米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_mi_r.md#黄豆米<sub>儿</sub>)】`van2 teu6 mi3 r` <sup>[如皋]</sup> 菜用嫩黄豆粒：擘～炒大椒。  
 1. 【[黄豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_r.md#黄豆<sub>儿</sub>)】`van2 teu6 r` <sup>[如皋]</sup> 大豆。食用时称：吃～、煮～。  
+1. 【[黄嘴黄脚，会吃会捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zuei_van_jiah.md#黄嘴黄脚，会吃会捉)】`van2 zuei3 van2 jiah7 huei6 qieh7 huei6 zhuah7` <small>/uɑŋ2 t͡suəɪ3 uɑŋ2 t͡ɕiɑʔ7 xuəɪ1 t͡ɕʰiəʔ7 xuəɪ1 t͡suɑʔ7/<sup>泰兴</sup></small> 黄嘴黄脚，一种良种鸡的俗称。喻人能赚钱，有生财之道。<sup>\[泰兴\]</sup>  
 1. 【[黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#黄子)】`van2 zz` <small>/ʋã2 t͡sɿ/<sup>如皋</sup>, /uɑŋ2 t͡se/<sup>泰县</sup></small> 蛋、蟹等的黄。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[往常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_chan.md#往常)】`van3 chan2` <small>/ʋã3 t͡sʰã2/<sup>如皋</sup></small> ① 以往、经常地：他～逢时过节的总要敬香，后来不咖。<sup>\[如皋\]</sup> ② 以往正常情况下<sup>\[东台\]</sup>：～梅雨季节雨水多，今年偏少。<sup>\[东台\]</sup>  
 1. 【[往家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ga.md#往家)】`van3 ga1` 回家  

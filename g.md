@@ -1511,7 +1511,6 @@
 1. 【[秆丝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_sz_co.md#秆丝草)】`guaen1 sz1 co3` <sup>[如皋]</sup> 狼尾草。即“䓞草”。扎白蒲茶干时用到。  
 1. 【[秆子草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz_co.md#秆子草)】`guaen1 zz co3` <sup>[如皋]</sup> 删选过的小麦秸秆，齐的麦草  
 1. 【[鳏夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_fv.md#鳏夫)】`guaen1 fv1` <sup>[如东]</sup> 无妻或丧妻的人。  
-1. 【[管他娘肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ta_nian_reh.md#管他娘肏𪨊)】`guaen3 ta nian2 reh8 son2` <sup>[如皋]</sup> 不管什么事都不要问。  
 1. 【[惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#惯)】`guaen5` <small>/kuɛ̃5/<sup>兴化</sup>, /kuẽ5/<sup>如皋</sup>, /kuɛ̃5/<sup>泰县</sup></small> ① 宠爱。<sup>\[如东\]</sup>：你把这个伢儿～坏啊。<sup>\[如东\]</sup> ② 疼爱，溺爱。<sup>\[如皋\]</sup> ③ 疼爱；宠爱<sup>\[东台\]</sup>：娇生～养。<sup>\[东台\]</sup> ④ 逗、爱抚<sup>\[兴化\]</sup>：～伢儿。<sup>\[兴化\]</sup> ⑤ 娇纵子女<sup>\[兴化\]</sup>：这个小伙捱他妈妈～吖不成人。<sup>\[兴化\]</sup> ⑥ 宠爱<sup>\[泰县\]</sup>：对伢儿不能太～。<sup>\[泰县\]</sup> ⑦ 纵容，迁就<sup>\[泰州\]</sup>：你俫不能再这格局～她。<sup>\[泰州\]</sup> ⑧ 长辈对晚辈的关爱或者溺爱<sup>\[泰州\]</sup>：他家里三房佮咖他这一个小伙，从小～吖大啊的，一天苦不曾吃过。<sup>\[泰州\]</sup>  
 1. 【[惯宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_bo_r.md#惯宝<sub>儿</sub>)】`guaen5 bo3 r` <small>/kuɛ̃5 pɔ3 ɚ/<sup>兴化</sup>, /kuẽ5 pɔ˞3/<sup>如皋</sup>, /kuɛ̃5 pɔ3 ɚ/<sup>泰县</sup></small> ① 非常宠爱的孩子。<sup>\[如东\]</sup>：雪雪是个～。<sup>\[如东\]</sup> ② 对小孩的一种呢称。<sup>\[如东\]</sup> ③ 特别珍爱的小孩<sup>\[如皋\]</sup>：他家三房合咖个，是个～。<sup>\[如皋\]</sup> ④ 受到溺爱娇纵的小孩。往往有许多坏毛病，对成长不利。<sup>\[如皋\]</sup> ⑤ 被父母宠惯了的孩子<sup>\[东台\]</sup>：你这个～脾气要改改啦。<sup>\[东台\]</sup> ⑥ 受宠爱的孩子，多指独生子女‖也称“惯宝宝”<sup>\[兴化\]</sup>：他弟兄一个，是个～。<sup>\[兴化\]</sup> ⑦ 受溺爱的小孩子<sup>\[泰县\]</sup>：他在家是个～，所以甚的事都不会做。<sup>\[泰县\]</sup> ⑧ 自小在家长溺爱环境下长大的少年<sup>\[泰州\]</sup>：这小伙在家里是个～，你俫不要把他撩啊哭起来。<sup>\[泰州\]</sup>  
 1. 【[惯得意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_deh_i_faen.md#惯得意㽹)】`guaen5 deh7 i5 faen5` <sup>[如皋]</sup> 疼爱得过分，叫别人看不顺眼。  
@@ -2008,6 +2007,7 @@
 1. 【[管伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#管伴)】`gun3 pun6` <sup>[兴化]</sup> 配合一起相宜：一个教师、一个医生，两个文人一起～。｜一个硬、一个软，两样东西不～。  
 1. 【[管情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#管情)】`gun3 qien2` <sup>[兴化]</sup> 逢亲友家婚嫁寿庆或砌房造屋，前往庆贺，谓之～。  
 1. 【[管事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shr.md#管事)】`gun3 shr6` <sup>[东台]</sup> ① 负责处理事务。 ② 旧时大户人家的管家，或商店里经理的旧称。  
+1. 【[管他娘肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ta_nian_reh.md#管他娘肏𪨊)】`gun3 ta nian2 reh8 son2` <small>/kuẽ3 tʰa niã2 ɻəʔ8 sɔŋ2/<sup>如皋</sup></small> 不管什么事都不要问。<sup>\[如皋\]</sup>  
 1. 【[管他肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ta_reh_son.md#管他肏𪨊)】`gun3 ta reh8 son2` <sup>[泰县]</sup> 去他的。  
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae` <sup>[东台]</sup> ① 款待。《水浒传》第五回：“太公见说了，大喜，安排酒食出来，～二位。” ② 指招待帮工的饭食：她家里对帮工～～得不丑。  
 1. 【[管待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_tae.md#管待)】`gun3 tae6` <sup>[兴化]</sup> 招待、款待：老家来人，爸妈连忙上街打酒买菜～。｜老员外与大娘子急急收拾起身，～来人酒饭。（《京本通俗小说·错斩崔宁》）｜欧阳淳只得治酒～。至夜，各自归于卧所。（《封神演义》八五）  

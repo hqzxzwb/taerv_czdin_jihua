@@ -754,6 +754,7 @@
 1. 【[嘌嘴㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy_pah.md#嘌嘴㗘)】`pio3 jy3 pah7` <sup>[东台]</sup> 形容喜欢吹牛说大话，办事不牢靠的人：那是个～，不要听他的。  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <small>/pʰiɔ5 liã/<sup>如皋</sup></small> ① 识相、知趣：你放吖～吖点儿，少吃点儿苦！<sup>\[如皋\]</sup> ② 利索：手段～，做得～。<sup>\[如皋\]</sup> ③ 美观，出色。<sup>\[如东\]</sup>  
 1. 【[票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#票)】`pio5` <small>/pʰiɔ5/<sup>兴化</sup></small> 量词，计量批次<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：一～生意<sup>\[兴化\]</sup>｜一～买卖。<sup>\[兴化\]</sup>｜他俫是一～货——一样的货色。<sup>\[兴化\]</sup>｜一～空调生意<sup>\[泰州\]</sup>  
+1. 【[票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zz.md#票子)】`pio5 zz` <small>/pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> 纸币、钞票。<sup>\[泰兴\]</sup>  
 1. 【[鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#鳔)】`pio5` <sup>[东台]</sup> 鱼体内可胀缩的囊状物。其中饒鱼的鳔是美味佳肴。猪皮油炸后与之相似，故称土鳔。  
 1. 【[奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hua.md#奅话)】`po1 hua6` <sup>[如皋]</sup> 大而空的话：说～。  
 1. 【[奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#奅<sub>儿</sub>)】`po1 r` <sup>[如东]</sup> 说大话、吹牛皮的人。  
@@ -1344,9 +1345,12 @@
 1. 【[菩荠糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ji_go.md#菩荠糕)】`pv2 ji go1` <sup>[东台]</sup> 东台城传统小吃。取鲜荸荠淀粉和面粉、日糖、桂花发酵后上笼屉蒸熟即可。  
 1. 【[菩荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ji.md#菩荠)】`pv2 ji1` <sup>[东台]</sup> 草本水生作物，地下茎扁圆形，皮赤褐色或黑褐色，肉质洁白，味甜多汁，清脆可口，也可制淀粉。有的地方叫地栗、水栗、马蹄。  
 1. 【[菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh.md#菩萨)】`pv2 saeh` <sup>[兴化]</sup> ① 本为佛教中仅次于佛的人，但民间泛将佛、～和一切神衹都称为～：观音～；关帝～；土地～；老郎～（梨园始祖）。 ② （喻）指心地慈善的人：“……那是他们瞅着大奶奶是个～，姑娘又是腼腆小姐，固然是托懒来混。”（《红楼梦》五五）  
+1. 【[菩萨家儿子，小神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_ga_er.md#菩萨家儿子，小神)】`pv2 saeh ga er2 zz xio3 shen2` <small>/pʰu2 ɕiæʔ kɑ ɚ2 t͡sɿ ɕiɔ3 səŋ2/<sup>泰兴</sup></small> 歇后语。谓小神气，小聪明。<sup>\[泰兴\]</sup>  
 1. 【[菩萨窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_ku_r.md#菩萨窠<sub>儿</sub>)】`pv2 saeh ku1 r` <sup>[兴化]</sup> 神龛。  
+1. 【[菩萨龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_kun_zz.md#菩萨龛子)】`pv2 saeh kun1 zz` <small>/pʰu2 ɕiæʔ kʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 供奉菩萨塑像或神像的龛笼。<sup>\[泰兴\]</sup>  
 1. 【[菩萨老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_lo_ia.md#菩萨老爷)】`pv2 saeh lo3 ia` <sup>[兴化]</sup> ① 泛指佛和神。 ② 表示对人轻蔑的称呼：这块的事情不要他这个～来管。  
 1. 【[菩萨面前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_min_qin.md#菩萨面前)】`pv2 saeh min6 qin2` <sup>[兴化]</sup> ① 神像前：郑板桥找不到纸就在大殿的墙上……～的帷幔上画画。（兴文《童年学画》） ② 堂屋正中靠北墙的橱、几，其上放置神龛、香炉、烛台等，也称～。  
+1. 【[菩萨人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_ren.md#菩萨人)】`pv2 saeh ren2` <small>/pʰu2 ɕiæʔ ɻəŋ2/<sup>泰兴</sup></small> 好人；善良的人。<sup>\[泰兴\]</sup>  
 1. 【[菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh.md#菩萨)】`pv2 saeh7` <sup>[东台]</sup> 佛教用语，指修行到了一定程度，地位仅次于佛的人：泥～过河，自身难保。  
 1. 【[菩萨窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_ku.md#菩萨窠)】`pv2 saeh7 ku1` <sup>[泰县]</sup> 神龛。  
 1. 【[菩萨龛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_kun_r.md#菩萨龛<sub>儿</sub>)】`pv2 saeh7 kun1 r` <sup>[东台]</sup> 供奉佛祖神灵牌位的雕花仿真缩小的阁子。  
