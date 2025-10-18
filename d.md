@@ -1861,9 +1861,9 @@
 1. 【[奀奀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_r.md#奀奀<sub>儿</sub>)】`dih9 dih8 r` <sup>[东台]</sup> 极少、极小：～～小；～～大；～～少。  
 1. 【[奀奀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_zz.md#奀奀子)】`dih9 dih8 zz` <sup>[东台]</sup> 同“细点滴儿”，“尕尕”，“眼丸儿”。也作“奀奀儿”。  
 1. 【[的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dii.md#的)】`dii` 相当于普通话的虚词“的”，可表示所属或者修饰。这个音来自“之”的上古音：我～/我的｜好～/好的｜吃～菜/吃的菜  
-1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <sup>[兴化]</sup> 斟酌、估量：他把校长的话放吖心里～吖又～。  
+1. 【[掂/敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂/敁)】`din1` <sup>[兴化]</sup> 斟酌、估量：他把校长的话放吖心里～吖又～。  
 1. 【[掂/敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂/敁)】`din1` <sup>[泰州]</sup> ① 称量物体，用手托着物体上下颤动估量其重：这个西瓜～～还不止十斤。 ② 盘算斟酌：你把这两件事好好～～，到底哪件更重要。  
-1. 【[掂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂)】`din1` <small>/tĩ1/<sup>泰兴</sup></small> 放在手上试试重量。<sup>\[泰兴\]</sup>  
+1. 【[掂/敁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#掂/敁)】`din1` <small>/tĩ1/<sup>泰兴</sup></small> 放在手上试试重量。<sup>\[泰兴\]</sup>  
 1. 【[掂斤掂两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_din_lian.md#掂斤掂两)】`din1 jien1 din1 lian3` <sup>[兴化]</sup> ① 较量轻重：你覅跟小商贩～的。 ② （喻）斤斤计较：对小事不必～的。  
 1. 【[掂斤两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jien_lian.md#掂斤两)】`din1 jien1 lian` <small>/tĩ1 t͡ɕiŋ1 liɑŋ/<sup>泰兴</sup></small> 试试斤量。喻揣摩人的能耐、事件的后果。<sup>\[泰兴\]</sup>  
 1. 【[掂量/敁量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_lian.md#掂量/敁量)】`din1 lian` <sup>[泰州]</sup> 反复考虑，斟酌：这些话你要～下子。  
@@ -1881,9 +1881,9 @@
 1. 【[颠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_ren.md#颠人)】`din1 ren2` <sup>[泰州]</sup> 车身、船身上下震荡引起乘坐者的身体上下跳动，左右晃动：这条路多少年不修唻，坐啊车子上～吖不得命。  
 1. 【[颠三倒四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_saen_do_sz.md#颠三倒四)】`din1 saen1 do5 sz5` ① 重复过来重复过去。<sup>\[如东\]</sup> ② 说话、办事杂乱无序。<sup>\[东台\]</sup>  
 1. 【[典价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_jia.md#典价)】`din3 jia5` <sup>[兴化]</sup> 出典田地房产的价格，一般小于卖价。期间，承典人不纳租金，也不收利息。期满后由出典人原价赎回产业。  
-1. 【[扂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#扂)】`din3` <sup>[如皋]</sup> 撑。  
 1. 【[扂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_zz.md#扂子)】`din3 zz` <sup>[如皋]</sup> ① 撑子：关门后内加的斜撑子。 ② 墙向一边歪时加的斜撑子。 ③ 不能承重时加撑的支柱。  
-1. 【[点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#点)】`din3` <small>/tĩ3/<sup>如皋</sup></small> ① 平面上的一个极小的单位。<sup>\[如东\]</sup> ② 数。<sup>\[如东\]</sup>：这些钱，请当面～清。<sup>\[如东\]</sup> ③ 鱼浮子在上下轻动，表示有鱼吃饵。<sup>\[如皋\]</sup>  
+1. 【[点/顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#点/顶)】`din3` <small>/tĩ3/<sup>如皋</sup>, /tĩ3/<sup>泰兴</sup></small> 撑；推；顶。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：用棍子把门～起来<sup>\[泰兴\]</sup>｜墙要倒，要打个～子撑住lei<sup>\[泰兴\]</sup>  
+1. 【[点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din.md#点)】`din3` <small>/tĩ3/<sup>如皋</sup>, /tĩ3/<sup>泰兴</sup></small> ① 平面上的一个极小的单位。<sup>\[如东\]</sup> ② 数。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这些钱，请当面～清。<sup>\[如东\]</sup>｜～钱<sup>\[泰兴\]</sup>｜～人<sup>\[泰兴\]</sup>｜～数字、～数目<sup>\[泰兴\]</sup> ③ 鱼浮子在上下轻动，表示有鱼吃饵。<sup>\[如皋\]</sup>  
 1. 【[点兵捉将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_bien_zhuah_jian.md#点兵捉将)】`din3 bien1 zhuah7 jian5` <small>/tĩ3 piŋ1 t͡suɑʔ7 t͡ɕiɑŋ5/<sup>泰兴</sup></small> 组织人员（上马办某事）。<sup>\[泰兴\]</sup>  
 1. 【[点拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_buh.md#点拨)】`din3 buh7` ① 指点，教诲。<sup>\[如东\]</sup> ② 指出来使人知道<sup>\[东台\]</sup>：他在商场买啊假货，经人～，向消协举报，才获得赔偿。<sup>\[东台\]</sup>  
 1. 【[点菜吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_cae_qieh_faen.md#点菜吃饭)】`din3 cae5 qieh7 faen6` <sup>[如皋]</sup> 随心所好，想吃什么就点什么，不必自己动手做。  

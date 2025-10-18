@@ -180,6 +180,7 @@
 1. 【[掐斤掐两的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jien_kaeh_laen.md#掐斤掐两的)】`kaeh7 jien1 kaeh7 laen3 dii` <sup>[如皋]</sup> 短斤少两。  
 1. 【[掐筋掐料的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jien_kaeh_lio.md#掐筋掐料的)】`kaeh7 jien1 kaeh7 lio6 dii` <sup>[如皋]</sup> 备料太紧，使用不宽裕或略少。  
 1. 【[掐紧掐料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jien_kaeh_lio.md#掐紧掐料)】`kaeh7 jien3 kaeh7 lio6` <sup>[如东]</sup> 将将够数：4尺布，做一条裤子，～的。  
+1. 【[掐节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_jih_teu.md#掐节头)】`kaeh7 jih7 teu` <small>/kʰæʔ7 t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 用拇指轻点其它指头计算。也称掐算。<sup>\[泰兴\]</sup>  
 1. 【[掐掐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_dii.md#掐掐的)】`kaeh7 kaeh7 dii` <small>/kʰeʔ7 kʰeʔ7 tei/<sup>如皋</sup>, /kʰæʔ7 kʰæʔ7 tiɪʔ/<sup>泰县</sup></small> ① 见“限限的”。<sup>\[如皋\]</sup> ② 十分接近。<sup>\[泰县\]</sup>  
 1. 【[掐掐<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_r_dii.md#掐掐<sub>儿</sub>的)】`kaeh7 kaeh7 r dii` <sup>[如东]</sup> 数量勉强接近：二十斤大米～。  
 1. 【[掐掐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaeh_kaeh_zz.md#掐掐子)】`kaeh7 kaeh7 zz` <sup>[兴化]</sup> 很小、很少：小猫生下来只有～大。｜虾籽太贵，二十块钱才买啊～。  

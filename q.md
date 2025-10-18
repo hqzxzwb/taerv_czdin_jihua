@@ -1881,7 +1881,7 @@
 1. 【[瘸啊瘸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_a_qya_dii.md#瘸啊瘸的)】`qya2 a qya2 dii` <sup>[如皋]</sup> 步态不稳的样子。  
 1. 【[瘸的麻里洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_dii_ma_lii.md#瘸的麻里洋)】`qya2 dii ma2 lii ian2` <sup>[东台]</sup> 不按规矩办事，或冒充内行的人。（同“斜里麻的洋”）  
 1. 【[瘸狠瞎毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_hen_haeh_toh.md#瘸狠瞎毒)】`qya2 hen3 haeh7 toh8` ① 意思是腿、眼有残疾的人心肠比较狠毒。此话是詈语，有片面性。<sup>\[东台\]</sup> ② 瘸子、瞎子凶狠毒辣，用于对残疾人中不厚道不善良者的负面评价<sup>\[泰州\]</sup>：小瘸子不是个东西，～，你不要去惹他。<sup>\[泰州\]</sup>  
-1. 【[瘸和尚说法——能说不能行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_hu_shan_shuh.md#瘸和尚说法——能说不能行)】`qya2 hu2 shan shuh7 faeh7 nen2 shuh7 beh7 nen2 xien2` <sup>[东台]</sup>   
+1. 【[瘸和尚说法——能说不能行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_hu_shan_shuh.md#瘸和尚说法——能说不能行)】`qya2 hu2 shan shuh7 faeh7 nen2 shuh7 beh7 nen2 xien2` <small>/t͡ɕʰyɑ2 xɤɯ2 sɑŋ sʊʔ7 fæʔ7 nəŋ2 sʊʔ7 pəʔ7 nəŋ2 ɕiŋ2/<sup>泰兴</sup></small> 说起来可以，做起来不行<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[瘸郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_lan.md#瘸郎)】`qya2 lan2` <sup>[兴化]</sup> ① 腿瘸的人。 ② （借）折了一只后爪的蟋蟀。相对于“全腿”。  
 1. 【[瘸里麻里洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_lii_ma_lii.md#瘸里麻里洋)】`qya2 lii ma2 lii ian2` <sup>[兴化]</sup> 马马虎虎，不依规矩：我这个师傅～，混饭吃的。也说“瘸”。  
 1. 【[瘸手跛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_bu_jiah.md#瘸手跛脚)】`qya2 sheu3 bu3 jiah7` <sup>[东台]</sup> 手脚有伤残疾，或喻指做事不利索、不熟练。  
