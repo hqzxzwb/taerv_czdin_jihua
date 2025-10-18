@@ -486,7 +486,7 @@
 1. 【[爬窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ku.md#爬窠)】`pa2 ku1` <small>/pʰa2 kʰʊ1/<sup>如皋</sup></small> ① 牲畜交配。<sup>\[如皋\]</sup> ② 牲畜交配，叫做爬窠。<sup>\[如东\]</sup> ③ 牲口自行交配。<sup>\[东台\]</sup>  
 [更多...](./p.md)
 ## Q
-1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <sup>[泰州]</sup> ① 倾斜不正：这张橱子～啊一边，要在东边垫块板子就平吖唻。 ② 人或物体进入狭窄、低矮空间被迫倾斜不正，因受空间束缚以致无法正常伸展：楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。  
+1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <small>/t͡ɕʰi6/<sup>兴化</sup></small> ① 倾斜不正<sup>\[泰州\]</sup>：这张橱子～啊一边，要在东边垫块板子就平吖唻。<sup>\[泰州\]</sup> ② 身体和其他物体（如墙壁）挨得过近，受空间束缚，不便伸直<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～住身子，不便操作。<sup>\[兴化\]</sup>｜楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。<sup>\[泰州\]</sup>｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。<sup>\[泰州\]</sup>  
 1. 【[䫏𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pah.md#䫏𩔈)】`qi1 pah7` <sup>[泰州]</sup> 人的身材特别高大魁梧：几年不见，不曾想到他长成这吖个～个子。  
 1. 【[妻儿老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_er_lo_xio.md#妻儿老小)】`qi1 er2 lo3 xio3` <sup>[如东]</sup> 全体家属，包括父母妻子儿女等人。  
 1. 【[妻夫两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv_laen_gu.md#妻夫两个)】`qi1 fv1 laen3 gu5` <sup>[如皋]</sup> 夫妻二人。  
@@ -509,6 +509,7 @@
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
 1. 【[其门如市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men_rv_shr.md#其门如市)】`qi2 men2 rv2 shr6` <sup>[兴化]</sup> 形容交际往来的人多，门口和庭院里热闹得像街市一样：（钝秀才）夫妻衣锦还乡……宾朋一向疏失者，此日奔走～，（《警世通言》十七）  
+1. 【[其时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shr.md#其时)】`qi2 shr2` <sup>[兴化]</sup> 那个时候：“……他到～，先白花花的送你贤丈二十块洋线……”（《广陵潮》四六）  
 [更多...](./q.md)
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  

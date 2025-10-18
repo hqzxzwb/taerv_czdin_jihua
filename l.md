@@ -728,7 +728,7 @@
 1. 【[𧻴田如放债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_tin_rv_fan.md#𧻴田如放债)】`lan6 tin2 rv2 fan5 zhae5` <sup>[如皋]</sup> 休耕一段时间后，田里肥力恢复，土质得到改善，再种可获丰收。  
 1. 【[勒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh.md#勒)】`leh8` <small>/ləʔ8/<sup>如皋</sup></small> ① 瞪眼 ② 状眼睛睁得很大。<sup>\[如皋\]</sup> ③ 使劲睁眼<sup>\[泰州\]</sup>：你～甚的眼睛，哿是想打架？<sup>\[泰州\]</sup> ④ 使劲喊<sup>\[泰州\]</sup>：你把后来～咖大啊喊，声音小啊他听不见。<sup>\[泰州\]</sup>  
 1. 【[勒把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ba_r.md#勒把<sub>儿</sub>)】`leh8 ba3 r` <sup>[泰县]</sup> 最小的子女。  
-1. 【[勒逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_bieh.md#勒逼)】`leh8 bieh7` <sup>[东台]</sup> 强迫，逼迫。  
+1. 【[勒逼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_bieh.md#勒逼)】`leh8 bieh7` <small>/ləʔ8 piʔ7/<sup>泰兴</sup></small> 强逼；逼迫。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>  
 1. 【[勒擘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_boh.md#勒擘)】`leh8 boh7` <sup>[如东]</sup> 物体倾斜：这块板放吖在那许，～的。  
 1. 【[勒擘邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_boh_qia.md#勒擘邪)】`leh8 boh7 qia2` <sup>[如东]</sup> ① 脾气很犟。 ② 脾气很犟的人。  
 1. 【[勒车打马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_cha_da_ma.md#勒车打马)】`leh8 cha1 da3 ma3` <sup>[兴化]</sup> （借）乘机要挟：你不给他加运价，他就不给你装运，还让你支付滞港费，真是～！  
@@ -740,7 +740,7 @@
 1. 【[勒掯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ken.md#勒掯)】`leh8 ken5` <sup>[兴化]</sup> 刁难、敲诈：他俫私设关卡，～过往司机。｜“你听老孙说……已后再有取水者，切不可～他。”（《西游记》五三）  
 1. 【[勒来勒去的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_lae_leh_qy.md#勒来勒去的)】`leh8 lae2 leh8 qy5 dii` <sup>[如皋]</sup> 状把小孩抱来抱去，非常辛苦。  
 1. 【[勒里勒仄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_lii_leh_zeh.md#勒里勒仄)】`leh8 lii leh8 zeh7` <sup>[东台]</sup> 吃多了不消化，胃部难受。  
-1. 【[勒马打车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ma_da_jy.md#勒马打车)】`leh8 ma3 da3 jy1` <small>/nəʔ8 ma3 ta3 t͡ɕy1/<sup>泰县</sup></small> ① 要挟。<sup>\[泰县\]</sup> ② 象棋术语，车在底线边角位置，马在车旁，以一子别死敌方的“马”腿，用“炮”打对方无法横行的“车”，比喻抓住他人短处迫使他人就范<sup>\[泰州\]</sup>：他这是～，你只好照他说的办。<sup>\[泰州\]</sup>  
+1. 【[勒马打车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ma_da_jy.md#勒马打车)】`leh8 ma3 da3 jy1` <small>/ləʔ8 mɑ3 tɑ3 t͡ɕy1/<sup>泰兴</sup>, /nəʔ8 ma3 ta3 t͡ɕy1/<sup>泰县</sup></small> ① 要挟。<sup>\[泰县\]</sup> ② 象棋术语，车在底线边角位置，马在车旁，以一子别死敌方的“马”腿，用“炮”打对方无法横行的“车”，比喻抓住他人短处迫使他人就范<sup>\[泰州\]</sup>：他这是～，你只好照他说的办。<sup>\[泰州\]</sup> ③ 象棋术语。喻抓住一个机会强行要挟以达到目的。<sup>\[泰兴\]</sup>  
 1. 【[勒命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_mien.md#勒命)】`leh8 mien6` <sup>[如东]</sup> ① 拼命挣扎：她在那许～。 ② 很费劲地争辩或提出要求：她在法庭上～。  
 1. 【[勒眼豹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ngaen_bo.md#勒眼豹)】`leh8 ngaen3 bo5` <sup>[如皋]</sup> 贬指眼球特别大的样子。如皋词典作“……𥄹”  
 1. 【[勒眼豹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ngaen_bo_zz.md#勒眼豹子)】`leh8 ngaen3 bo5 zz` <sup>[如东]</sup> 比喻人的眼睛圆而突出。  
@@ -749,17 +749,17 @@
 1. 【[勒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_ren.md#勒人)】`leh8 ren2` 大脚穿小鞋后的受挤感觉<sup>\[泰州\]</sup>：这双鞋子小啊，穿吖脚上还～。<sup>\[泰州\]</sup>  
 1. 【[勒丧王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_van.md#勒丧王)】`leh8 san1 van2` <sup>[兴化]</sup> 形容衣服太紧，绷在身上：这件～的衣裳，穿吖身上像甚的？  
 1. 【[勒嗓筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_jien.md#勒嗓筋)】`leh8 san3 jien1` <sup>[如皋]</sup> 贬指说、劝：你不要同他～！他一向不听劝，同他～没得用。  
-1. 【[勒嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_zz.md#勒嗓子)】`leh8 san3 zz` <small>/ləʔ8 saŋ3 t͡sɿ/<sup>兴化</sup></small> ① （詈语）拼命提高嗓门。<sup>\[东台\]</sup> ② 形容大喊大叫<sup>\[兴化\]</sup>：他往浴池里一泡，就喜欢～乱唱一气。<sup>\[兴化\]</sup>｜你覅～，我就到。<sup>\[兴化\]</sup> ③ 声嘶力竭喊叫<sup>\[泰州\]</sup>：你不要在这块～，有人要上夜班。<sup>\[泰州\]</sup>｜你哿能有话好好说，要～做甚的？<sup>\[泰州\]</sup>  
+1. 【[勒嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_san_zz.md#勒嗓子)】`leh8 san3 zz` <small>/ləʔ8 saŋ3 t͡sɿ/<sup>兴化</sup>, /ləʔ8 sɑŋ3 t͡sɿ/<sup>泰兴</sup></small> ① （詈语）拼命提高嗓门。<sup>\[东台\]</sup> ② 形容大喊大叫<sup>\[兴化\]</sup>：他往浴池里一泡，就喜欢～乱唱一气。<sup>\[兴化\]</sup>｜你覅～，我就到。<sup>\[兴化\]</sup> ③ 声嘶力竭喊叫<sup>\[泰州\]</sup>：你不要在这块～，有人要上夜班。<sup>\[泰州\]</sup>｜你哿能有话好好说，要～做甚的？<sup>\[泰州\]</sup> ④ 大吵大闹，大喊大叫。也称勒噪王。<sup>\[泰兴\]</sup>  
 1. 【[勒实干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sheh_gun.md#勒实干)】`leh8 sheh8 gun1` <sup>[东台]</sup> 勒实即挤水分。～即未干透。  
 1. 【[勒声爆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_bo_jien.md#勒声爆筋)】`leh8 shen1 bo5 jien1` <sup>[东台]</sup> 形容声嘶力竭的样子：说话轻一点，不要说得～的。  
 1. 【[勒身王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_shen_van.md#勒身王)】`leh8 shen1 van2` <sup>[东台]</sup> 形容衣服嫌小，像勒在身上一样。也作“勒壳王”。  
 1. 【[勒死蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_sz_sha.md#勒死蛇)】`leh8 sz3 sha2` <sup>[兴化]</sup> （喻）紧紧抓住不放手：你当得放人走就放，不要～！  
-1. 【[勒头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_bo_ngaen.md#勒头爆眼)】`leh8 teu2 bo5 ngaen3` <small>/ləʔ8 tʰɤ2 pɔ5 ɛ̃3/<sup>兴化</sup></small> ① 发怒时恶狠狠的样子。<sup>\[东台\]</sup> ② 瞪着眼睛，声色俱厉的样子<sup>\[兴化\]</sup>：你有话好好说，～的做甚的事？<sup>\[兴化\]</sup>  
+1. 【[勒头爆眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_bo_ngaen.md#勒头爆眼)】`leh8 teu2 bo5 ngaen3` <small>/ləʔ8 tʰɤ2 pɔ5 ɛ̃3/<sup>兴化</sup>, /ləʔ8 tʰəɪ2 pɔ5 ŋɛ̃3/<sup>泰兴</sup></small> ① 发怒时恶狠狠的样子。<sup>\[东台\]</sup> ② 瞪着眼睛，声色俱厉的样子<sup>\[兴化\]</sup>：你有话好好说，～的做甚的事？<sup>\[兴化\]</sup> ③ 愤怒至极貌。<sup>\[泰兴\]</sup>  
 1. 【[勒头郭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_teu_guah_ngaen.md#勒头郭眼)】`leh8 teu2 guah7 ngaen3` <sup>[如东]</sup> 伸头瞪眼：这个人站吖在那许～的，不晓得想做甚的。  
 1. 【[勒田鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_tin_ji.md#勒田鸡)】`leh8 tin2 ji1` <sup>[如皋]</sup> 小孩抱小孩，抱不动硬抱的样子。  
 1. 【[勒仄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zeh.md#勒仄)】`leh8 zeh7` <sup>[兴化]</sup> ① 经济不宽裕：他家日子过得～。 ② 吝啬：老沈的手～，舍不得多花钱。  
 1. 【[勒仄干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zeh_gun.md#勒仄干)】`leh8 zeh7 gun1` <sup>[如东]</sup> 比较干燥：这批鱼鲞～，还要晒一天。  
-1. 【[勒执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zheh.md#勒执)】`leh8 zheh7` <small>/nəʔ8 t͡səʔ7/<sup>泰县</sup></small> ① 不肯改变自己的意见。固执。<sup>\[如东\]</sup>：随机应变，不要～。<sup>\[如东\]</sup> ② 不肯改变自己的主见，固执。<sup>\[泰县\]</sup>  
+1. 【[勒执](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zheh.md#勒执)】`leh8 zheh7` <small>/ləʔ8 t͡səʔ7/<sup>泰兴</sup>, /nəʔ8 t͡səʔ7/<sup>泰县</sup></small> 不肯改变自己的意见。固执。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：随机应变，不要～。<sup>\[如东\]</sup>  
 1. 【[勒窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zheh.md#勒窄)】`leh8 zheh7` <sup>[泰县]</sup> 吝啬。  
 1. 【[勒桩扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zhuan_keu.md#勒桩扣)】`leh8 zhuan1 keu5` <small>/ləʔ8 t͡suaŋ1 kʰɤ5/<sup>兴化</sup>, /nəʔ8 t͡ɕyɑŋ1 kʰɤɯ5/<sup>泰县</sup></small> ① 钱和物掌握在自己手里，强制对方要按照自己的意图办。<sup>\[泰县\]</sup> ② 扣押财物，强令对方就范<sup>\[兴化\]</sup>：钱落咖他手～，不听他不行。<sup>\[兴化\]</sup>  
 1. 【[勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leh_zz.md#勒子)】`leh8 zz` <small>/ləʔ8 t͡sɿ/<sup>兴化</sup>, /ləʔ8 t͡sɿ/<sup>如皋</sup></small> ① 旧时老妇人压发、护太阳穴的黑平绒箍子。<sup>\[如皋\]</sup> ② 旧时，中老年妇女冬天保暖用的头饰。抹额。<sup>\[兴化\]</sup> ③ 旧时老年妇女头上的饰物，左右两片呈荷花瓣状，多为青色、黑色，像箍一样系于头部。抹额。<sup>\[泰州\]</sup>  
@@ -2274,10 +2274,11 @@
 1. 【[脶记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ji.md#脶记)】`lu2 ji5` <sup>[兴化]</sup> 即手印。  
 1. 【[萝藦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_mu.md#萝藦)】`lu2 mu2` <sup>[如东]</sup> 萝藦科植物萝藦，多年生蔓性草本。  
 1. 【[萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh.md#萝卜)】`lu2 poh` <sup>[如东]</sup> 十字花科植物莱菔，一年生或二年生草本。  
+1. 【[萝卜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_faen.md#萝卜饭)】`lu2 poh faen6` <small>/lɤɯ2 pʰɔʔ fɛ̃1/<sup>泰兴</sup></small> 以胡萝卜为主加人少量的米作成的饭。<sup>\[泰兴\]</sup>  
 1. 【[萝卜干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>)】`lu2 poh gun1 r` <sup>[如东]</sup> 将萝卜切成小块，晒干，加盐、花椒等调味品腌制，脆，香，为普通蔬菜。  
 1. 【[萝卜干<sub>儿</sub>饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_gun_r.md#萝卜干<sub>儿</sub>饭)】`lu2 poh gun1 r faen6` <sup>[东台]</sup> 旧时学徒艰苦生活的别称：学徒要吃三年～。  
 1. 【[萝卜花眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_hua_ngaen.md#萝卜花眼)】`lu2 poh hua1 ngaen3` <sup>[泰县]</sup> 白内障。  
-1. 【[萝卜缨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_ien_zz.md#萝卜缨子)】`lu2 poh ien1 zz` <sup>[东台]</sup> 萝卜叶子。  
+1. 【[萝卜缨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_ien_zz.md#萝卜缨子)】`lu2 poh ien1 zz` <small>/lɤɯ2 pʰɔʔ iŋ1 t͡sɿ/<sup>泰兴</sup></small> 萝卜叶子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[萝卜丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz.md#萝卜丝)】`lu2 poh sz1` <sup>[兴化]</sup> 用萝卜切成或刨成的细条，可以凉拌，也可作烧饼等的馅。  
 1. 【[萝卜丝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_sz_r.md#萝卜丝<sub>儿</sub>)】`lu2 poh sz1 r` <sup>[如东]</sup> 将萝卜刨或切成丝儿，晒干，或作点心馅儿，或炒蔬菜，均为好配料。  
 1. 【[萝卜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_teu_r.md#萝卜头<sub>儿</sub>)】`lu2 poh teu2 r` <sup>[如东]</sup> 个体小的萝卜，进行腌制，为普通蔬菜。  

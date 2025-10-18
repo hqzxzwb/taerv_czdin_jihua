@@ -1133,6 +1133,7 @@
 1. 【[救火车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hu_cha.md#救火车)】`jieu5 hu3 cha1` <sup>[如东]</sup> 消防车。  
 1. 【[救火队](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hu_duei.md#救火队)】`jieu5 hu3 duei5` <sup>[如皋]</sup> 旧时民间自行组织的消防队。  
 1. 【[救急不救穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieh_beh_jieu.md#救急不救穷)】`jieu5 jieh7 beh7 jieu5 qion2` <sup>[东台]</sup> （俗语）采取措施使突发事故或灾难终止，这是必要的。而长期穷困只能辅助性地帮助，重要的是激发其自力更生。  
+1. 【[救急不救穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieh_beh_jieu.md#救急不救穷)】`jieu5 jieh7 beh7 jieu5 qion2` <small>/t͡ɕiɤɯ5 t͡ɕiʔ7 pəʔ7 t͡ɕiɤɯ5 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 救济危急之中的人或事，但不可能长期救助。<sup>\[泰兴\]</sup>  
 1. 【[救苦救难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_kv_jieu_naen.md#救苦救难)】`jieu5 kv3 jieu5 naen6` <sup>[东台]</sup> 把众人从痛苦灾难中解救出来。  
 1. 【[救笼锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lon_gu.md#救笼锅)】`jieu5 lon2 gu1` <sup>[如皋]</sup> 蒸笼工作时，水锅缺水，必须紧急加沸水并大火加温，保持蒸汽不断。否则就无法蒸透。  
 1. 【[救命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_mien.md#救命)】`jieu5 mien6` <sup>[如东]</sup> 抢救人的生命。  

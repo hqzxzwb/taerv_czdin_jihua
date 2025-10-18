@@ -542,6 +542,7 @@
 1. 【[不打时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_shr_chen.md#不打时辰)】`beh7 da3 shr2 chen` <sup>[东台]</sup> 不耽误时间。  
 1. 【[不打心上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_xien_shan.md#不打心上来)】`beh7 da3 xien1 shan6 lae2` <sup>[如东]</sup> 不满意，不高兴：你买的箇件衣裳我～。  
 1. 【[不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_zuei_lii.md#不打嘴里过)】`beh7 da3 zuei3 lii gu5` <sup>[泰兴]</sup> 谓说话不经思考，不负责任。  
+1. 【[不呆不𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_beh_ha.md#不呆不𤹉)】`beh7 dae1 beh7 ha3` <small>/pəʔ7 tɛ1 pəʔ7 xɑ3/<sup>泰兴</sup></small> 无智力缺陷<sup>\[泰兴\]</sup>：他人～的，怎吖被人家骗吖箇些钱？<sup>\[泰兴\]</sup>  
 1. 【[不带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae.md#不带)】`beh7 dae5` <sup>[如东]</sup> 不算，不允许。  
 1. 【[不带虚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_xy_teu.md#不带虚头)】`beh7 dae5 xy1 teu` <sup>[如东]</sup> 不算假数字：～，你要多少钱？  
 1. 【[不搭筏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_daeh_faeh_zz.md#不搭筏子)】`beh7 daeh7 faeh8 zz` <sup>[泰州]</sup> 比喻不接受他人邀请共同做某事：说咖好啊一起上南京的，今吖问他甚的时候走，他～唻。  

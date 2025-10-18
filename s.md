@@ -1420,7 +1420,7 @@
 1. 【[盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#盛)】`shen2` <small>/səŋ2/<sup>泰县</sup></small> 用容器装东西。多用于用碗装饭。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～饭。<sup>\[泰县\]</sup>｜天天都要同他把饭～吖好啊摆啊桌上，喊他过来吃。<sup>\[泰州\]</sup>｜你这个篮子嫌小，二十斤萝卜～不下。<sup>\[泰州\]</sup>  
 1. 【[盛得进去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_deh_jien_qy.md#盛得进去)】`shen2 deh7 jien5 qy5` <sup>[东台]</sup> 装得下的意思。  
 1. 【[盛饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_faen.md#盛饭)】`shen2 faen6` <sup>[东台]</sup> 把饭装进碗里。  
-1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae.md#盛起饭来炒啊吃)】`shen2 qi faen6 lae cho3 a qieh7` <sup>[泰兴]</sup> 见“一番生意两番做”。  
+1. 【[盛起饭来炒啊吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_qi_faen_lae.md#盛起饭来炒啊吃)】`shen2 qi faen6 lae cho3 a qieh7` <small>/səŋ2 t͡ɕʰʝ fɛ̃1 lɛ t͡sʰɔ3 a t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 喻重复做同一件事，增加不必要的麻烦。另见“一番生意两番做”。<sup>\[泰兴\]</sup>  
 1. 【[神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen.md#神)】`shen2` <small>/sən2/<sup>兴化</sup></small> ① 聪明、机灵<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个小家伙～㗁！<sup>\[兴化\]</sup>｜这小伙～得狠，三年不到就提啊科长。<sup>\[泰州\]</sup>｜这小伙～吖过啊靶，这回子出咖大事。<sup>\[泰州\]</sup> ② 令人不可思议的，令人出乎意料的<sup>\[泰州\]</sup>：你俫都不曾说，他怎吖就晓得咖的㖸，～吖唻。<sup>\[泰州\]</sup>  
 1. 【[神光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_guan.md#神光)】`shen2 guan1` <small>/səŋ2 kuɑŋ1/<sup>泰兴</sup></small> 精神；风采。<sup>\[泰兴\]</sup>  
 1. 【[神鬼天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_guei_tin.md#神鬼天)】`shen2 guei3 tin1` <small>/səŋ2 kuei3 tʰĩ1/<sup>如皋</sup>, /səŋ2 kuəɪ3 tʰĩ1/<sup>泰兴</sup></small> ① 见“降风潮”。<sup>\[如皋\]</sup> ② 农历七、八月间，时晴时雨的天气。<sup>\[如皋\]</sup> ③ 指农历七月阴晴不定，风雨难测的天气。<sup>\[东台\]</sup> ④ 一日中忽晴忽雨的天气，多在阴历七月出现<sup>\[泰州\]</sup>：这两天是～，你出去要带把伞身上。<sup>\[泰州\]</sup> ⑤ 晴雨无定的天气<sup>\[泰兴\]</sup>：七月里～<sup>\[泰兴\]</sup>  
@@ -1851,6 +1851,7 @@
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <small>/sɔ1 kua1/<sup>兴化</sup></small> ① 菜瓜。见《本草纲目》。<sup>\[东台\]</sup> ② 即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。<sup>\[兴化\]</sup>  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  
 1. 【[梢袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_tae.md#梢袋)】`sho1 tae6` <sup>[如东]</sup> 鱼网的尾，形状像袋，所以叫做梢袋。  
+1. 【[梢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_zz.md#梢子)】`sho1 zz` <small>/sɔ1 t͡sɿ/<sup>泰兴</sup></small> 树木或其它植物末端<sup>\[泰兴\]</sup>：树～<sup>\[泰兴\]</sup>  
 1. 【[烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho.md#烧)】`sho1` ① 使东西着火。<sup>\[如东\]</sup>：草堆～起来啊。<sup>\[如东\]</sup> ② 一种烹调方法。把菜肴放在锅中炒熟或煮熟。<sup>\[如东\]</sup> ③ 焚烧纸钱祭祀亲人<sup>\[泰州\]</sup>：他家信基督，清明这天不～。<sup>\[泰州\]</sup>  
 1. 【[烧啊洇吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_a_ien_nga.md#烧啊洇吖)】`sho1 a ien5 nga` <sup>[如皋]</sup> 燃烧彻底。  
 1. 【[烧啊煮、连吖补、跑啊买、扫啊搌、洗啊漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_a_zhv_lin.md#烧啊煮、连吖补、跑啊买、扫啊搌、洗啊漉)】`sho1 a zhv3 lin2 nga bv3 po2 a mae3 so3 a zhin3 xi3 a loh8` <sup>[如皋]</sup> 泛指家中生活杂事。  
@@ -2830,12 +2831,15 @@
 1. 【[书箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xian.md#书箱)】`shv1 xian1` <small>/su1 ɕiɑŋ1/<sup>泰兴</sup></small> 旧时读书人用的便携式小木箱。<sup>\[泰兴\]</sup>  
 1. 【[书桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#书桌)】`shv1 zhuah7` <sup>[如东]</sup> 写字台。  
 1. 【[梳角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gah_zz.md#梳角子)】`shv1 gah7 zz` <sup>[如皋]</sup> 旧时女童发式。头顶两侧各梳一髻。  
+1. 【[梳鬏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jieu_r.md#梳鬏<sub>儿</sub>)】`shv1 jieu r` <small>/su1 t͡ɕiɤɯ˞/<sup>泰兴</sup></small> 旧时妇女的一种发型。将头发盘髻于脑后，以网鬏罩住，曰“鬏儿”。<sup>\[泰兴\]</sup>  
 1. 【[梳锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy.md#梳锯)】`shv1 jy5` <sup>[如东]</sup> 工具。锯条嵌在木柄上，长约10厘米，像梳子。用以加工特殊形状的木料。  
 1. 【[梳梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lian.md#梳梁)】`shv1 lian2` <sup>[如东]</sup> 在排五柱中间的横梁。  
 1. 【[梳头妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_teu_ma_zz.md#梳头妈子)】`shv1 teu2 ma1 zz` <sup>[兴化]</sup> 旧时，以给富婆和老、病、残妇女梳头为业的女性。  
 1. 【[梳桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#梳桌)】`shv1 zhuah7` <small>/su1 t͡suaʔ7/<sup>兴化</sup>, /su1 t͡suaʔ7/<sup>如皋</sup></small> ① 旧时房间内的长桌，供梳妆用。<sup>\[如皋\]</sup> ② 梳妆用的长条桌，有抽屉。<sup>\[兴化\]</sup> ③ 妇女化妆用的桌子，上面有梳子、镜子、粉盒、胭脂盒等化妆用品。<sup>\[泰州\]</sup>  
 1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <sup>[如东]</sup> 一种小型木盒，外边饰有花纹，十分精致。搁在梳妆台上，放置化妆品。  
+1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <small>/su1 t͡suɑŋ1 xʊʔ8/<sup>泰兴</sup></small> 旧时妇女装梳妆用品的小盒。<sup>\[泰兴\]</sup>  
 1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <sup>[如东]</sup> 放置梳妆用品的桌子，一般长方形，有的上面设有镜、盒等装置。  
+1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <small>/su1 t͡suɑŋ1 tʰɛ2/<sup>泰兴</sup></small> 旧时妇女梳妆时用的桌子。<sup>\[泰兴\]</sup>  
 1. 【[梳子板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_baen.md#梳子板)】`shv1 zz baen3` <sup>[如东]</sup> 帆船船底板下面的一块梳子形的木板。  
 1. 【[梳子肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_roh.md#梳子肉)】`shv1 zz roh8` <small>/su1 t͡sɿ ɻɔʔ8/<sup>如皋</sup></small> ① 跑油肉。<sup>\[如皋\]</sup> ② 炮油肉。<sup>\[如皋\]</sup> ③ 见“跑油肉”。<sup>\[如皋\]</sup>  
 1. 【[舒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_qy.md#舒趣)】`shv1 qy` <sup>[兴化]</sup> 舒服、偷快：今朝老友聚会谈天，心里蛮～的。  
@@ -3103,6 +3107,7 @@
 1. 【[梭钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#梭钱)】`su1 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  
 1. 【[梭梭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_su_r.md#梭梭<sub>儿</sub>)】`su1 su1 r` <sup>[东台]</sup> 旧时儿童玩的一种滚铁环的游戏。  
 1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <sup>[如皋]</sup> 手工结网的器具。  
+1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <small>/sɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 织布用的梭。<sup>\[泰兴\]</sup>  
 1. 【[梭子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_hae.md#梭子蟹)】`su1 zz hae3` ① 蝤蛑科动物三疣梭子蟹，也叫尖子蟹、蓝蟹。头胸甲长约8厘米。全体被坚硬的甲壳。头胸甲呈梭形稍隆起表面有3个显著的疣状突起，个在胃区，2个在心区。两前侧缘各具9个锯齿，第9锯齿特别长大，向左右伸延。额缘具4枚小齿。额部两侧有1对能转动的带柄复眼。雄蟹背面茶绿色，雌蟹紫色，腹面均为灰白色。胸足5对，第1对为强大的螯足长节呈棱柱开拓，内缘具钝齿；第2-4对，长而扁圆，末端爪状，适于爬行；最后1对末节扇平而宽薄如桨，适于游泳。腹部（俗称蟹脐）扁平，雄者呈三角形，雌者呈圆形。无尾节及尾肢，腹肢退化，藏于腹内侧，雌者4对，雄者2对。生活在近海水域。<sup>\[如东\]</sup> ② 一种海蟹。<sup>\[东台\]</sup>  
 1. 【[梭子里没有线——空来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_lii_meh.md#梭子里没有线——空来往)】`su1 zz lii meh8 ieu3 xin5 kon1 lae2 van3` <sup>[东台]</sup>   
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1, su2` <sup>[如皋]</sup> 偷视、闪视：贼眼只～。又有斜视、目不正视等义。  

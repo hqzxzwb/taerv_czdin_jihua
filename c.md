@@ -522,7 +522,7 @@
 1. 【[馋痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_lo.md#馋痨)】`chaen2 lo2` <sup>[兴化]</sup> 贪吃的人：先是～，后是渴痨。  
 1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_shuei_r.md#馋水<sub>儿</sub>)】`chaen2 shuei3 r` <sup>[兴化]</sup> 口涎。  
 1. 【[𢵔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen.md#𢵔)】`chaen2` <sup>[泰州]</sup> 将两种类似而有别的东西混杂起来：他欱的酒里～吖矿泉水的。  
-1. 【[𢵔假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jia.md#𢵔假)】`chaen2 jia3` ① 把假的𢵔在真的东西里面或把质量差的𢵔在质量好的东西里面。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你放心好唻，这个是地道的泰州河横大米，不作兴～的。<sup>\[泰州\]</sup> ② 真话里面夹杂假话<sup>\[泰州\]</sup>：他才间说的全是真的，没得一句～。<sup>\[泰州\]</sup>  
+1. 【[𢵔假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jia.md#𢵔假)】`chaen2 jia3` <small>/t͡ɕʰiɛ̃2 t͡ɕiɑ3/<sup>泰兴</sup></small> ① 把假的𢵔在真的东西里面或把质量差的𢵔在质量好的东西里面。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：你放心好唻，这个是地道的泰州河横大米，不作兴～的。<sup>\[泰州\]</sup> ② 真话里面夹杂假话<sup>\[泰州\]</sup>：他才间说的全是真的，没得一句～。<sup>\[泰州\]</sup> ③ 在真的东西里面混入假的东西。<sup>\[泰兴\]</sup>  
 1. 【[𢵔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_teu.md#𢵔头)】`chaen2 teu` <sup>[如皋]</sup> ① 指掺杂的东西：这种荞面不纯，加啊～的。 ② 掺杂的成数、比例：四六～、～大、～小。  
 1. 【[产妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_fv.md#产妇)】`chaen3 fv6` <sup>[如东]</sup> 在分娩期间或产褥期间的妇女。  
 1. 【[产枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_zhr.md#产枝)】`chaen3 zhr1` <sup>[如东]</sup> 分蘖。  
@@ -577,6 +577,7 @@
 1. 【[猖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo.md#猖毛)】`chan1 mo2` <sup>[如东]</sup> ① 毛羽张开来了。 ② 犯脾气：你把他弄～啊。  
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
 1. 【[菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pv.md#菖蒲)】`chan1 pv2` <sup>[东台]</sup> 草本植物，叶子像剑，根茎可做香料，也可入药。民间有端午节插艾草和～的风俗。  
+1. 【[菖蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pv.md#菖蒲)】`chan1 pv2` <small>/t͡sʰɑŋ1 pʰu2/<sup>泰兴</sup></small> 多年生水生草本植物，有香气。民间端午节常用来和艾叶相扎束，挂于门前，传可辟邪。<sup>\[泰兴\]</sup>  
 1. 【[裮头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_teu.md#裮头)】`chan1 teu2` （应该戴帽子而）不戴帽子：大冬天～不冷吖？  
 1. 【[鲳鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin_y.md#鲳鳊鱼)】`chan1 bin y2` <small>/t͡sʰaŋ1 piɪ̃ y2/<sup>兴化</sup></small> ① 一种海鱼，身体短而侧扁。又称“鲳鱼”“平鱼”。<sup>\[兴化\]</sup> ② 鲳鱼，身体扁平，类似淡水鱼中的鳊鱼，故名。<sup>\[泰州\]</sup>  
 1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin1` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  

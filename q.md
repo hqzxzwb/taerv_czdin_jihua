@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## Q
-1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <sup>[泰州]</sup> ① 倾斜不正：这张橱子～啊一边，要在东边垫块板子就平吖唻。 ② 人或物体进入狭窄、低矮空间被迫倾斜不正，因受空间束缚以致无法正常伸展：楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。  
+1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <small>/t͡ɕʰi6/<sup>兴化</sup></small> ① 倾斜不正<sup>\[泰州\]</sup>：这张橱子～啊一边，要在东边垫块板子就平吖唻。<sup>\[泰州\]</sup> ② 身体和其他物体（如墙壁）挨得过近，受空间束缚，不便伸直<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～住身子，不便操作。<sup>\[兴化\]</sup>｜楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。<sup>\[泰州\]</sup>｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。<sup>\[泰州\]</sup>  
 1. 【[䫏𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_pah.md#䫏𩔈)】`qi1 pah7` <sup>[泰州]</sup> 人的身材特别高大魁梧：几年不见，不曾想到他长成这吖个～个子。  
 1. 【[妻儿老小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_er_lo_xio.md#妻儿老小)】`qi1 er2 lo3 xio3` <sup>[如东]</sup> 全体家属，包括父母妻子儿女等人。  
 1. 【[妻夫两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_fv_laen_gu.md#妻夫两个)】`qi1 fv1 laen3 gu5` <sup>[如皋]</sup> 夫妻二人。  
@@ -274,7 +274,6 @@
 1. 【[荠菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cae.md#荠菜)】`qi6 cae5` ① 十字花科植物荠菜，一年生或二年生草本。<sup>\[如东\]</sup> ② 荠菜，一年或二年生草本植物，花小，白色，嫩菜味道鲜美，用来制作春卷、饺子、烧饼、圆子馅心。<sup>\[泰州\]</sup>  
 1. 【[荠菜花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cae_hua_r.md#荠菜花<sub>儿</sub>)】`qi6 cae5 hua1 r` <small>/t͡ɕʰʝ1 t͡ɕʰiɛ5 xuɑ˞1/<sup>泰兴</sup></small> 荠菜。一种野菜，嫩时味道鲜美。<sup>\[泰兴\]</sup>  
 1. 【[鲚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_y.md#鲚鱼)】`qi6 y2` <sup>[如东]</sup> 鳀科动物鲚鱼，又名刀鱼、凤尾鱼。  
-1. 【[𢭄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#𢭄)】`qi6` <sup>[兴化]</sup> 身体和其他物体（如墙壁）挨得过近，不便伸直：～住身子，不便操作。兴化词典写“𢼨”，《广韵·支韵》去奇切｜“～，不正也”。（声调不合）  
 1. 【[□颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_jien.md#□颈)】`qia1 jien3` <sup>[泰县]</sup> 落枕：不好，今吖颈项有点儿～。  
 1. 【[奊头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_r.md#奊头<sub>儿</sub>)】`qia1 teu2 r` <sup>[如皋]</sup> ① 颈椎歪斜造成头位畸型。或指人。 ② 头歪着：看～。  
 1. 【[笡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#笡)】`qia1` 不正，歪斜<sup>\[如东\]</sup><sup>\[泰州\]</sup>：竹竿～啊。<sup>\[如东\]</sup>｜你把身子～下子，让他先过去。<sup>\[泰州\]</sup>｜镜框子不曾挂得正，～啊北边去啊唻。<sup>\[泰州\]</sup>  

@@ -782,6 +782,7 @@
 1. 【[梅片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_pin.md#梅片)】`mei2 pin5` <sup>[东台]</sup> 中药冰片中的一种，原产印尼，可内外通用，去腐生肌。  
 1. 【[梅豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_teu_r.md#梅豆<sub>儿</sub>)】`mei2 teu6 r` <sup>[如东]</sup> 石首鱼科动物黑鳃梅童鱼，也称鲥豆儿。  
 1. 【[梅雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_y.md#梅雨)】`mei2 y3` <sup>[东台]</sup> 初夏出现于我国江淮流域一段较长时间的连续阴雨天气，正值江南梅子黄熟，故名。  
+1. 【[梅雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_y.md#梅雨)】`mei2 y3` <small>/məɪ2 y3/<sup>泰兴</sup></small> 初夏持续较长的阴雨天气。因时值梅子黄熟，故称梅雨。<sup>\[泰兴\]</sup>  
 1. 【[煤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu.md#煤油)】`mei2 ieu2` <sup>[如东]</sup> 从石油中分馏出来的燃料用油，挥发性比汽油低，比柴油高，无色液体。也叫洋油、火油。  
 1. 【[煤油炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu_lv.md#煤油炉)】`mei2 ieu2 lv2` <sup>[东台]</sup> 又叫“火油炉”（五更机），以煤油为燃料，多头捻子的炊具，用以方便个人饮食。  
 1. 【[煤炭圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_taen_iun_zz.md#煤炭圆子)】`mei2 taen5 iun2 zz` <sup>[东台]</sup> 一种机制的类似于汤圆形状的煤粉燃料。  
@@ -1335,6 +1336,7 @@
 1. 【[面子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zz_r.md#面子<sub>儿</sub>)】`min6 zz3 r` <sup>[如皋]</sup> 面条量的单位：一个子儿面（约2市两左右的一小堆）、半个子儿面。  
 1. 【[喵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#喵)】`mio` <sup>[如皋]</sup> 猫叫声。  
 1. 【[描红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_hon.md#描红)】`mio2 hon2` <sup>[如东]</sup> 练习毛笔字的一种方法。在红色的字上蒙纸，照着描绘，叫做描红。  
+1. 【[描剪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_jin.md#描剪)】`mio2 jin3` <small>/miɔ2 t͡ɕĩ3/<sup>泰兴</sup></small> 理发师用的一种细长的小剪刀。<sup>\[泰兴\]</sup>  
 1. 【[苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#苗)】`mio2` <sup>[东台]</sup> 形容词，指饼或馒头酵的水分偏多，与“壮酵馒头”相对。  
 1. 【[苗情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_qien.md#苗情)】`mio2 qien2` <sup>[兴化]</sup> 指秧苗的肥瘠和长势：看～补施肥料。  
 1. 【[苗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_teu.md#苗头)】`mio2 teu` <sup>[如东]</sup> 略微显露情况发展的趋势。  
