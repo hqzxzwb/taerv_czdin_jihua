@@ -1338,13 +1338,6 @@
 1. 【[销售](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_sheu.md#销售)】`xio1 sheu6` <sup>[如东]</sup> 出卖（货物）。  
 1. 【[销账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhan.md#销账)】`xio1 zhan5` <sup>[如东]</sup> 销除账目内容。  
 1. 【[销子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zz.md#销子)】`xio1 zz` ① 一种形状像钉子一样的东西，横断面多呈圆形，用来插在器物中，使之连接或固定。也叫销钉。<sup>\[如东\]</sup> ② 插在器物中起连接或固定作用的金属棍。<sup>\[东台\]</sup>  
-1. 【[𢳚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𢳚)】`xio1` <small>/ɕiɔ1/<sup>兴化</sup>, /ɕiɔ1/<sup>如皋</sup>, /ɕiɔ1/<sup>泰县</sup></small> 揭、掀<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～被单、～锅盖、～书。<sup>\[如皋\]</sup>｜～书。<sup>\[如东\]</sup>｜把毯子～开来。<sup>\[兴化\]</sup>｜众人一齐吃了一惊，赶紧枭开帐子一看，只见病人已经挣扎著爬起来了。（《官场现形记》六十）<sup>\[兴化\]</sup>｜～开毯子看看。<sup>\[泰县\]</sup>｜你把锅盖～开来望啊子。<sup>\[泰州\]</sup>｜把毯子～开来。<sup>\[泰州\]</sup>  
-1. 【[𢳚宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bo.md#𢳚宝)】`xio1 bo3` <small>/ɕiɔ1 pɔ3/<sup>兴化</sup>, /ɕiɔ1 pɔ3/<sup>如皋</sup></small> ① 揭开谜底，公布真相。<sup>\[如皋\]</sup> ② 揭晓、揭底<sup>\[兴化\]</sup>：再过两三个月，她身子出咖怀，两个人的事就～啊。<sup>\[兴化\]</sup>  
-1. 【[𢳚开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#𢳚开)】`xio1 kae1` <sup>[东台]</sup> 打开；掀开；翻开（𢳚，有掀、翻、揭去遮掩物等意）：把书～来｜～被单看伤口。  
-1. 【[𢳚老底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lo_di_zz.md#𢳚老底子)】`xio1 lo3 di3 zz` <sup>[如皋]</sup> 揭底：你帮他～，他就站不住脚。  
-1. 【[𢳚屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_ngaen.md#𢳚屁眼)】`xio1 pi5 ngaen3` <sup>[如东]</sup> ① 揭露使人讨厌的事。 ② 揭露丑事：不要～。  
-1. 【[𢳚起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_lae.md#𢳚起来)】`xio1 qi lae` <sup>[泰县]</sup> 天气阴转晴：这刻儿天～啊。  
-1. 【[𢳚尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_vei_ba.md#𢳚尾巴)】`xio1 vei3 ba1` <sup>[如东]</sup> ① 揭露丑事，短事：你不要～。 ② 翻老底。  
 1. 【[𣻏/浇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𣻏/浇)】`xio1` <small>/ɕiɔ1/<sup>兴化</sup>, /ɕiɔ1/<sup>如皋</sup>, /ɕiɔ1/<sup>泰县</sup></small> ① （“浇”《广韵·萧韵》古尧切“～，沃也，薄也。”《集韵》一作“𣻏”） ② 薄，厚度小<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[东台\]</sup>：棉𧘸子～，不暖和。<sup>\[如皋\]</sup>｜这块板～。<sup>\[如东\]</sup>｜这本书只几十页，太～啊。<sup>\[泰县\]</sup>｜这本书太～。<sup>\[泰州\]</sup>｜你穿得太～。<sup>\[泰州\]</sup>｜你用的板子太～。<sup>\[泰州\]</sup>｜30克纸嫌～。<sup>\[兴化\]</sup>｜他脸皮子～，容易翻脸。<sup>\[兴化\]</sup>｜这种纸太～，不结实。<sup>\[东台\]</sup> ③ 小气、刻薄、无情寡义<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：处～世，待人～寡。<sup>\[如皋\]</sup>｜他为人太～，只看眼前，不顾往日情分。<sup>\[兴化\]</sup> ④ 稀，黏稠度小<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>：粥煮得～，喝起来爽口。<sup>\[如皋\]</sup>｜田里的玉米～。<sup>\[如东\]</sup>｜粥煮啊太～。<sup>\[泰州\]</sup>  
 1. 【[𣻏泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen.md#𣻏泛)】`xio1 faen` <small>/ɕiɔ1 fẽ/<sup>如皋</sup></small> ① 浓度低。<sup>\[如皋\]</sup> ② 很薄。<sup>\[如东\]</sup>：这块布料～。<sup>\[如东\]</sup>  
 1. 【[𣻏泛泛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_faen_faen.md#𣻏泛泛)】`xio1 faen5 faen5` <sup>[兴化]</sup> 形容东西很薄：这米饼儿～的，一口一个没话说。  
@@ -1362,6 +1355,15 @@
 1. 【[𣻏皮嫩肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_nen_roh.md#𣻏皮嫩肉)】`xio1 pi2 nen6 roh8` <sup>[兴化]</sup> 形容人细皮嫩肉。（𣻏，浇的异体字。）  
 1. 【[𣻏□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qian.md#𣻏□)】`xio1 qian` <sup>[如皋]</sup> 浓度低。  
 1. 【[𣻏嘴薄舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zuei_pah_shih.md#𣻏嘴薄舌)】`xio1 zuei3 pah8 shih8` <sup>[兴化]</sup> 俗谓唇薄者多能言善辩：小徐～的，一般人说不过他。｜（张昭）～，会说得很，是孙权面前一等大参谋。（《火烧赤壁》一）  
+1. 【[𫽐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#𫽐)】`xio1` <small>/ɕiɔ1/<sup>兴化</sup>, /ɕiɔ1/<sup>如皋</sup>, /ɕiɔ1/<sup>泰兴</sup>, /ɕiɔ1/<sup>泰县</sup></small> 揭、掀<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～被单、～锅盖、～书。<sup>\[如皋\]</sup>｜～书。<sup>\[如东\]</sup>｜把毯子～开来。<sup>\[兴化\]</sup>｜众人一齐吃了一惊，赶紧枭开帐子一看，只见病人已经挣扎著爬起来了。（《官场现形记》六十）<sup>\[兴化\]</sup>｜～开毯子看看。<sup>\[泰县\]</sup>｜你把锅盖～开来望啊子。<sup>\[泰州\]</sup>｜把毯子～开来。<sup>\[泰州\]</sup>  
+1. 【[𫽐宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bo.md#𫽐宝)】`xio1 bo3` <small>/ɕiɔ1 pɔ3/<sup>兴化</sup>, /ɕiɔ1 pɔ3/<sup>如皋</sup></small> ① 揭开谜底，公布真相。<sup>\[如皋\]</sup> ② 揭晓、揭底<sup>\[兴化\]</sup>：再过两三个月，她身子出咖怀，两个人的事就～啊。<sup>\[兴化\]</sup>  
+1. 【[𫽐宝壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_bo_kah_zz.md#𫽐宝壳子)】`xio1 bo3 kah7 zz` <small>/ɕiɔ1 pɔ3 kʰɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 揭开事情的真相。<sup>\[泰兴\]</sup>  
+1. 【[𫽐开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_kae.md#𫽐开)】`xio1 kae1` <sup>[东台]</sup> 打开；掀开；翻开（𫽐，有掀、翻、揭去遮掩物等意）：把书～来｜～被单看伤口。  
+1. 【[𫽐老底子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_lo_di_zz.md#𫽐老底子)】`xio1 lo3 di3 zz` <sup>[如皋]</sup> 揭底：你帮他～，他就站不住脚。  
+1. 【[𫽐屁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_pi_ngaen.md#𫽐屁眼)】`xio1 pi5 ngaen3` <sup>[如东]</sup> ① 揭露使人讨厌的事。 ② 揭露丑事：不要～。  
+1. 【[𫽐起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_lae.md#𫽐起来)】`xio1 qi lae` <sup>[泰县]</sup> 天气阴转晴：这刻儿天～啊。  
+1. 【[𫽐书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_shv.md#𫽐书)】`xio1 shv1` <small>/ɕiɔ1 su1/<sup>泰兴</sup></small> 翻书<sup>\[泰兴\]</sup>  
+1. 【[𫽐尾巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_vei_ba.md#𫽐尾巴)】`xio1 vei3 ba1` <sup>[如东]</sup> ① 揭露丑事，短事：你不要～。 ② 翻老底。  
 1. 【[爻象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xian.md#爻象)】`xio2 xian` ① 指表现出的明显迹象<sup>\[泰州\]</sup>：这些时局长在会上经常表扬老李，前朝下午组织部的人到局里来，望吖这～，像是要提拔老李。<sup>\[泰州\]</sup>｜昨朝夜里听吖隔壁家里掼东西，早上望吖他家两个人脸色都不好，望这～不好。<sup>\[泰州\]</sup> ② 泛指样子<sup>\[泰州\]</sup>：你望望你家小伙这～，还想考大学咖，不要做梦吧。<sup>\[泰州\]</sup>｜你不要听厂长瞎吹，厂里这～能把工资发咖全吖就不错唻。<sup>\[泰州\]</sup>  
 1. 【[肴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio.md#肴)】`xio2` <small>/ɕiɔ2/<sup>兴化</sup>, /ɕiɔ2/<sup>如皋</sup></small> ① 猪前上腿去骨，水煮切成的圆片，外圈是皮，半透明；中圈是肥肉色白；内圈是精肉，色红。形似眼睛、<sup>\[如皋\]</sup> ② 一种卤菜。猪的前蹄肉去骨后带皮切碎，加作料煮熟，放在模子中胶结成块，可切片下酒。<sup>\[兴化\]</sup>  
 1. 【[肴肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_roh.md#肴肉)】`xio2 roh8` <small>/ɕiɔ2 ɻɔʔ8/<sup>如皋</sup></small> ① 见“肴”。<sup>\[如皋\]</sup> ② 一种腌制食品，原料为猪蹄膀，亦称“肴蹄”，以镇江市所产肴肉最为著名。<sup>\[泰州\]</sup>  
@@ -1840,23 +1842,25 @@
 1. 【[雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh.md#雪)】`xiuh7` <small>/ɕyuʔ7/<sup>兴化</sup>, /ɕyʊʔ7/<sup>如皋</sup>, /ɕiʔ7/<sup>泰兴</sup>, /ɕyʊʔ7/<sup>泰县</sup></small> 雪：落～  
 1. 【[雪菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_cae.md#雪菜)】`xiuh7 cae5` <sup>[兴化]</sup> 一种蔬菜，即雪里蕻（红）。  
 1. 【[雪菜面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_cae_min.md#雪菜面)】`xiuh7 cae5 min6` <sup>[如东]</sup> 面条煮熟后，加雪菜作拌料，称雪菜面。口味鲜香。  
-1. 【[雪等伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_den_pun.md#雪等伴)】`xiuh7 den3 pun6` <small>/ɕyʊʔ7 təŋ3 pʰʊ̃1/<sup>如皋</sup></small> ① 积雪不化，天色阴沉，预示将再下雪。<sup>\[如皋\]</sup> ② 积雪不化，天气寒冷，预示着还要下雪。<sup>\[如东\]</sup>  
+1. 【[雪等伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_den_pun.md#雪等伴)】`xiuh7 den3 pun6` <small>/ɕyʊʔ7 təŋ3 pʰʊ̃1/<sup>如皋</sup>, /ɕiʔ7 təŋ3 pʰʊ̃1/<sup>泰兴</sup></small> 积雪不化，天色阴沉，预示将再下雪。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[雪光雪亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_guan_xiuh_lian.md#雪光雪亮)】`xiuh7 guan1 xiuh7 lian6` <sup>[如东]</sup> 光滑而明亮：菜刀磨得～的。  
 1. 【[雪姑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_gv.md#雪姑)】`xiuh7 gv1` <sup>[如皋]</sup> 白鹡鸰。  
-1. 【[雪花膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_go.md#雪花膏)】`xiuh7 hua1 go1` ① 保护面部皮肤的脂肪。<sup>\[如东\]</sup> ② 一种滋润皮肤的护肤品，主要原料为硬脂酸、碱、水和香精，白如雪花。<sup>\[泰州\]</sup>  
+1. 【[雪花膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_go.md#雪花膏)】`xiuh7 hua1 go1` <small>/ɕiʔ7 xuɑ1 kɔ1/<sup>泰兴</sup></small> ① 保护面部皮肤的脂肪。<sup>\[如东\]</sup> ② 一种滋润皮肤的护肤品，主要原料为硬脂酸、碱、水和香精，白如雪花。<sup>\[泰州\]</sup> ③ 一种化妆品，可滋润皮肤。<sup>\[泰兴\]</sup>  
 1. 【[雪花落在地上——一声不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_lah_cae.md#雪花落在地上——一声不响)】`xiuh7 hua1 lah8 cae6 ti6 shan ieh7 shen1 beh7 xian3` <sup>[东台]</sup>   
 1. 【[雪花乳糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_rv_tan.md#雪花乳糖)】`xiuh7 hua1 rv3 tan2` <sup>[如皋]</sup> 一种软糖，无牙者能吃。系用石花菜熬胶，加蔗糖、香精做成。  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li hon2` <sup>[东台]</sup> 芥菜的变种，是冬令普通的蔬菜，一般腌后食用。  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon2` <sup>[泰州]</sup> 一年生的草本植物，芥菜变种，叶长圆形，有锐锯齿，花鲜黄色，种子褐色，雪天诸菜冻损，此菜独青，故名。茎、叶可腌制咸菜，可炒，也可以做汤。  
+1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon2` <small>/ɕiʔ7 lʝ3 xɔŋ2/<sup>泰兴</sup></small> 一年生草本植物，茎和叶子经腌制可食用。雪天诸菜冻损，此菜独青，故名。或称雪菜。<sup>\[泰兴\]</sup>  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon5` <sup>[如东]</sup> 一年生草本植物，芥菜的变种，叶子长圆形，花鲜黄色。茎和叶子是普通蔬菜。  
 1. 【[雪片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_pin_zz.md#雪片子)】`xiuh7 pin5 zz` <sup>[如皋]</sup> 雪花在飘落中连成片状。其大可称桃花片子、鹅毛片子。  
 1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_poh.md#雪白)】`xiuh7 poh8` <sup>[如东]</sup> 洁白：这块布～。  
 1. 【[雪白的猫<sub>儿</sub>，脚底板也是黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_poh_dii_mo.md#雪白的猫<sub>儿</sub>，脚底板也是黑的)】`xiuh7 poh8 dii mo2 r jiah7 di3 baen3 ia3 shr6 heh7 dii` <sup>[东台]</sup> 看问题不能绝对化。  
-1. 【[雪白粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_poh_fen_nen.md#雪白粉嫩)】`xiuh7 poh8 fen3 nen6` <small>/ɕyuʔ7 pʰɔʔ8 fən3 lən6/<sup>兴化</sup></small> ① 形容肌肤白润而富有弹性。<sup>\[如东\]</sup>：蓉蓉的手臂～的。<sup>\[如东\]</sup> ② 形容皮肤白嫩。<sup>\[东台\]</sup> ③ 形容皮肤又白又嫩<sup>\[兴化\]</sup>：桂香今年十八，长得～的。<sup>\[兴化\]</sup> ④ 皮肤如雪一样洁白、像粉一样娇嫩<sup>\[泰州\]</sup>：这丫头像她家妈妈，长得～的。<sup>\[泰州\]</sup>  
+1. 【[雪白粉嫩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_poh_fen_nen.md#雪白粉嫩)】`xiuh7 poh8 fen3 nen6` <small>/ɕyuʔ7 pʰɔʔ8 fən3 lən6/<sup>兴化</sup>, /ɕiʔ7 pʰɔʔ8 fəŋ3 nəŋ1/<sup>泰兴</sup></small> ① 形容肌肤白润而富有弹性。<sup>\[如东\]</sup>：蓉蓉的手臂～的。<sup>\[如东\]</sup> ② 形容皮肤白嫩。<sup>\[东台\]</sup> ③ 形容皮肤又白又嫩<sup>\[兴化\]</sup>：桂香今年十八，长得～的。<sup>\[兴化\]</sup> ④ 皮肤如雪一样洁白、像粉一样娇嫩<sup>\[泰州\]</sup>：这丫头像她家妈妈，长得～的。<sup>\[泰州\]</sup> ⑤ 形容皮肤白皙娇嫩。多指小孩。<sup>\[泰兴\]</sup>  
 1. 【[雪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_shuei.md#雪水)】`xiuh7 shuei3` <small>/ɕyʊʔ7 suei3/<sup>如皋</sup></small> ① 积雪化成的水。可烹茶，更可搽痱子，去热毒。<sup>\[如皋\]</sup> ② 积雪化成的水。<sup>\[如东\]</sup>  
 1. 【[雪松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_son.md#雪松)】`xiuh7 son1` <sup>[如东]</sup> 松科植物雪松，乔木。树冠圆锥形。树皮灰褐色，裂成鳞状。大枝不规则轮生，平展。叶针状，灰绿色。雌雄异株；少数同株。雌雄球花异株；雌球花卵圆形。球果椭圆状卵形。木材致密，坚实耐腐而有芳香。供建筑和制作家具用。为世界著名的观赏树。  
 1. 【[雪珠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zhv.md#雪珠)】`xiuh7 zhv1` 霰的俗称，天上掉下的细小冰粒<sup>\[泰州\]</sup>：天上落～。<sup>\[泰州\]</sup>  
 1. 【[雪珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zhv_r.md#雪珠<sub>儿</sub>)】`xiuh7 zhv1 r` <small>/ɕyuʔ7 t͡su1 ɚ/<sup>兴化</sup>, /ɕyʊʔ7 t͡su˞1/<sup>如皋</sup></small> ① 霰。<sup>\[如皋\]</sup> ② 空中降落的白色的透明的小冰粒子，常呈球形或圆锥形。多在下雪前或下雪时出现。<sup>\[如东\]</sup> ③ 颗粒状的雪<sup>\[兴化\]</sup>：～落咖铁皮屋顶，发出沙沙的响声。<sup>\[兴化\]</sup>  
+1. 【[雪珠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zhv_zz.md#雪珠子)】`xiuh7 zhv1 zz` <small>/ɕiʔ7 t͡su1 t͡sɿ/<sup>泰兴</sup></small> 球状雪粒。<sup>\[泰兴\]</sup>  
 1. 【[穴头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_teu_r.md#穴头<sub>儿</sub>)】`xiuh8 teu2 r` <sup>[东台]</sup> 组织走穴的人。  
 1. 【[宣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#宣)】`xiun1` <sup>[泰州]</sup> 物体内部因空隙多而松散、松软：你家送的这个馒头蛮～的，年纪大的欢喜吃。  
 1. 【[宣缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_gan.md#宣缸)】`xiun1 gan1` <small>/ɕyũ1 kaŋ1/<sup>兴化</sup>, /ɕĩ1 kɑŋ1/<sup>泰兴</sup>, /ɕyõ1 kɑŋ1/<sup>泰县</sup></small> 大缸<sup>\[泰州\]</sup>\[兴化：一种上釉的大缸\]\[泰县：头号水缸\]\[泰兴：特殊音变，xyin1->xin1。\]：他这张嘴～也冚不住。<sup>\[兴化\]</sup>｜及回到东首傍岸，见有个大穴……，穴口有～大……（《梼杌闲评》一）<sup>\[兴化\]</sup>  
@@ -1927,6 +1931,7 @@
 1. 【[虚乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_hv.md#虚乎)】`xy1 hv` <sup>[如皋]</sup> 疏松。  
 1. 【[虚言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_in.md#虚言)】`xy1 in2` <sup>[兴化]</sup> 虚假的，并非发自内心的话：他说的全是～，没得一句实话。  
 1. 【[虚掩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_in.md#虚掩)】`xy1 in3` <sup>[如皋]</sup> 门未关实：门～吖下，一挭就开。  
+1. 【[虚交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_jio.md#虚交)】`xy1 jio` <small>/ɕy1 t͡ɕiɔ/<sup>泰兴</sup></small> 空洞的客套。多指言辞、礼节。<sup>\[泰兴\]</sup>：我不是～你<sup>\[泰兴\]</sup>｜他是同你说的～话<sup>\[泰兴\]</sup>  
 1. 【[虚龄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_lien.md#虚龄)】`xy1 lien2` <sup>[兴化]</sup> 虚岁。  
 1. 【[虚年龄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_nin_lien.md#虚年龄)】`xy1 nin2 lien` <sup>[泰州]</sup> 虚岁，出生当年就算一岁，每过一个农历新年加一岁，一般比实岁要多一岁。相对“实足年龄”。  
 1. 【[虚勃勃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_peh_peh_dii.md#虚勃勃的)】`xy1 peh8 peh8 dii` <sup>[如皋]</sup> 语气很热情，其实假殷勤。  

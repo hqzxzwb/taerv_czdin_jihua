@@ -1041,7 +1041,7 @@
 1. 【[停汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_tan.md#停汤)】`tien2 tan1` <small>/tʰiɪ̃2 tʰaŋ1/<sup>兴化</sup>, /tʰiŋ2 tʰɑŋ1/<sup>泰县</sup></small> ① 浴室停止营业，叫做停汤。<sup>\[如东\]</sup> ② 开水温度下降。<sup>\[兴化\]</sup> ③ 浴室停止营业：今朝停汤。<sup>\[泰县\]</sup>  
 1. 【[渟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#渟)】`tien2` <sup>[泰州]</sup> ① 汤汁变质以后渣滓沉淀的样子：天气太热，早上煮的粥，中上就～吖汤唻。 ② 开水温度大幅下降直至变凉：这个茶瓶里的水还是前朝中上烧的，～吖汤，不能喝。  
 1. 【[筳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#筳<sub>儿</sub>)】`tien2 r` 杆子。<sup>\[如东\]</sup>：火柴～。<sup>\[如东\]</sup>  
-1. 【[筳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#筳子)】`tien2 zz` <small>/tʰiəŋ2 t͡sɿ/<sup>如皋</sup></small> 纺棉花用的铁轴子。<sup>\[如皋\]</sup>  
+1. 【[筳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#筳子)】`tien2 zz` <small>/tʰiəŋ2 t͡sɿ/<sup>如皋</sup>, /tʰiŋ2 t͡sɿ/<sup>泰兴</sup></small> ① 纺棉花用的铁轴子。<sup>\[如皋\]</sup> ② 纺棉车上缠纱的铁质杆子，细而长，头尖若锥。<sup>\[泰兴\]</sup>  
 1. 【[莛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_r.md#莛<sub>儿</sub>)】`tien2 r` <small>/tʰiə˞2/<sup>如皋</sup></small> 草本植物嫩的花茎<sup>\[如皋\]</sup>：韭菜～。<sup>\[如皋\]</sup>  
 1. 【[莛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_zz.md#莛子)】`tien2 zz` <small>/tʰiɪ̃2 t͡sɿ/<sup>兴化</sup>, /tʰiəŋ2 t͡sɿ/<sup>如皋</sup>, /tʰiŋ2 t͡sɿ/<sup>泰兴</sup></small> ① 做本蜡烛烛心的红草茎。<sup>\[如皋\]</sup> ② 蔬菜等的花轴。<sup>\[东台\]</sup> ③ 玉米去粒后的棒棒。<sup>\[东台\]</sup> ④ 某些草本植物的茎（多指未成熟时）<sup>\[兴化\]</sup>：荷叶～；芦秫～。<sup>\[兴化\]</sup> ⑤ 植物的茎。<sup>\[泰兴\]</sup>  
 1. 【[葶苈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_lieh_zz.md#葶苈子)】`tien2 lieh8 zz` <sup>[如东]</sup> 十字花科植物独行菜，一年生或二年生草本。高约30厘米。茎直立。叶互生，上部叶线形，较小，全缘。长总状花序，顶生。花小。短角果，卵状椭圆形，扁平。种子倒卵状椭圆形，淡红棕色。生长在田野、荒地、路旁。  
@@ -1320,7 +1320,7 @@
 1. 【[天星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天星)】`tin1 xien1` <sup>[兴化]</sup> 天花的讳饰词。  
 1. 【[天行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xien.md#天行)】`tin1 xien2` <sup>[兴化]</sup> 时疫，流行性传染病：～已过。  
 1. 【[天仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xin.md#天仙)】`tin1 xin1` <sup>[如东]</sup> 神话传说中天上的神仙。比喻美女。  
-1. 【[天𢳚起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae.md#天𢳚起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
+1. 【[天𫽐起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_qi_lae.md#天𫽐起来啊)】`tin1 xio1 qi lae a` <small>/tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>如皋</sup>, /tʰĩ1 ɕiɔ1 t͡ɕʰʝ lɛ a/<sup>泰兴</sup></small> 乌云散去，天气转好。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh` <small>/tʰĩ1 ɕiɔ3 təʔ/<sup>如皋</sup>, /tʰĩ1 ɕiɔ3 təʔ/<sup>泰兴</sup></small> 表示无法理解或没有人知道<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他哿曾拿你的书，真正是～！<sup>\[泰兴\]</sup>  
 1. 【[天晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_xio_deh.md#天晓得)】`tin1 xio3 deh7` <sup>[东台]</sup> 谁也不知道。  
 1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` <small>/tʰiɪ̃1 t͡saʔ7 piɪ̃5/<sup>兴化</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>如皋</sup>, /tʰĩ1 t͡sɑʔ7 pĩ5/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如皋\]</sup> ② 天气由晴变阴。<sup>\[兴化\]</sup> ③ 大风雨到来的前兆。<sup>\[兴化\]</sup> ④ 天气发生变化，风雨将至。<sup>\[泰兴\]</sup>：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  

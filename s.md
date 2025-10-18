@@ -543,7 +543,8 @@
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <small>/sa5 ɚ/<sup>兴化</sup>, /sa5 ɚ/<sup>泰县</sup></small> ① 见“舍子”。<sup>\[兴化\]</sup> ② 野外的小屋。<sup>\[泰县\]</sup>  
 1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <sup>[兴化]</sup> ① 位于村庄以外的小屋。 ② 较小的村落：张家～；李家～。也说“舍儿”。  
-1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` <small>/sa5 su5/<sup>兴化</sup>, /sa5 su5/<sup>如皋</sup>, /sa5 su5/<sup>泰县</sup></small> ① 分寸、节制<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他说话没～<sup>\[如皋\]</sup>｜耍子啊没～啊。<sup>\[如皋\]</sup>｜这个人说话没～。<sup>\[兴化\]</sup>｜你这个人说话没得点儿～。<sup>\[泰县\]</sup> ② 说话或者做事应掌握的尺度、界限<sup>\[泰州\]</sup>：救灾的钱你都敢拿出来发福利，你真是没得～唻。<sup>\[泰州\]</sup>｜总共不过考啊300多分，他就说能上清华，你说他说话哿有个～。<sup>\[泰州\]</sup>  
+1. 【[赦不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_tio.md#赦不掉)】`sha5 beh7 tio6` <small>/sɑ5 pəʔ7 tʰiɔ1/<sup>泰兴</sup></small> 逃脱不了。<sup>\[泰兴\]</sup>  
+1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` <small>/sa5 su5/<sup>兴化</sup>, /sa5 su5/<sup>如皋</sup>, /sɑ5 su5/<sup>泰兴</sup>, /sa5 su5/<sup>泰县</sup></small> 分寸、节制<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：他说话没～<sup>\[如皋\]</sup>｜耍子啊没～啊。<sup>\[如皋\]</sup>｜这个人说话没～。<sup>\[兴化\]</sup>｜你这个人说话没得点儿～。<sup>\[泰县\]</sup>｜不要没～，箇桩事不能弄<sup>\[泰兴\]</sup>｜救灾的钱你都敢拿出来发福利，你真是没得～唻。<sup>\[泰州\]</sup>｜总共不过考啊300多分，他就说能上清华，你说他说话哿有个～。<sup>\[泰州\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha6` <sup>[如皋]</sup> 信口说，毫不谨慎：他的嘴～，把秘密～出去啊。  
 1. 【[射](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#射)】`sha6` <small>/sa1/<sup>如皋</sup>, /sɑ1/<sup>泰兴</sup></small> ① 发射<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～箭<sup>\[如皋\]</sup>｜～箭<sup>\[泰兴\]</sup> ② 掉落速度快<sup>\[如皋\]</sup>：钱走袋儿里～掉啊。<sup>\[如皋\]</sup>  
 1. 【[射宝箭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_bo_jin.md#射宝箭)】`sha6 bo3 jin5` <sup>[泰州]</sup> 20世纪五六十年代儿童游戏之一，用拇指和食指捏住纸折叠的箭向前猛掷（动作类似投掷标枪），射得远者为胜，胜者没收败者纸箭。亦有射得远者只要将己纸箭投于射得不远者的纸箭附近（两或三捺奓），胜者没收对方纸箭。  
@@ -2392,13 +2393,13 @@
 1. 【[漺浆生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_jian_shen.md#漺浆生)】`shuan3 jian1 shen1` <sup>[兴化]</sup> 指产妇待浆泡水（羊水）流完后胎儿才落生。  
 1. 【[漺脓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_non.md#漺脓)】`shuan3 non2` <sup>[如皋]</sup> 脓血慢慢滴下。  
 1. 【[漺人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_ren.md#漺人)】`shuan3 ren2` <sup>[东台]</sup> 把人冷落在那里（《玉篇》；“漺，净也，冷也”）：要提高办事透明度，不能～。  
-1. 【[漺水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shuei.md#漺水)】`shuan3 shuei3` <small>/suã3 suei3/<sup>如皋</sup></small> ① 让水滴尽。<sup>\[如皋\]</sup> ② 容易脱水，不易含水：化纤的衣服～。<sup>\[如皋\]</sup> ③ 让水慢慢地往下淌滴。<sup>\[如东\]</sup>：挖一条小槽，可以～。<sup>\[如东\]</sup>  
+1. 【[漺水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_shuei.md#漺水)】`shuan3 shuei3` <small>/suã3 suei3/<sup>如皋</sup>, /suɑŋ3 suəɪ3/<sup>泰兴</sup></small> ① 让水滴尽。<sup>\[如皋\]</sup> ② 容易脱水，不易含水：化纤的衣服～。<sup>\[如皋\]</sup> ③ 让水慢慢地往下淌滴。<sup>\[如东\]</sup>：挖一条小槽，可以～。<sup>\[如东\]</sup> ④ 使水滴干；去除水分。<sup>\[泰兴\]</sup>  
 1. 【[漺尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_suei.md#漺尿)】`shuan3 suei1` <sup>[兴化]</sup> 让老人、小孩迟一点睡觉，待解过几次小便再上床，以减少起夜次数：漺漺尿再睡。  
 1. 【[爽不齐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_beh_qi.md#爽不齐)】`shuan3 beh7 qi2` <sup>[兴化]</sup> （喻）指人智商低，反应慢：这个婆娘～，说话做事总是丢三落四的。  
 1. 【[爽别](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_bih.md#爽别)】`shuan3 bih7` <sup>[泰县]</sup> 爽快：做事～。  
 1. 【[爽当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_dan.md#爽当)】`shuan3 dan` <small>/suã3 tã/<sup>如皋</sup></small> ① 见“爽气”。<sup>\[如皋\]</sup> ② 办事利索。<sup>\[如东\]</sup>  
 1. 【[爽豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_huaeh.md#爽豁)】`shuan3 huaeh7` <sup>[如皋]</sup> 见“爽气”。  
-1. 【[爽口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_keu.md#爽口)】`shuan3 keu3` ① 清爽可口<sup>\[东台\]</sup>：萝卜丝拌海蜇，吃粥～得很。<sup>\[东台\]</sup> ② 食物不油腻，清爽可口<sup>\[泰州\]</sup>：荤的吃咖多啊，弄点儿蔬菜上来，吃咖～。<sup>\[泰州\]</sup>  
+1. 【[爽口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_keu.md#爽口)】`shuan3 keu3` <small>/suɑŋ3 kʰəɪ3/<sup>泰兴</sup></small> 清爽可口<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：萝卜丝拌海蜇，吃粥～得很。<sup>\[东台\]</sup>｜荤的吃咖多啊，弄点儿蔬菜上来，吃咖～。<sup>\[泰州\]</sup>  
 1. 【[爽快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_kuae.md#爽快)】`shuan3 kuae` <sup>[如东]</sup> 舒服，痛快。办事利索快捷：李成办事非常～。  
 1. 【[爽快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_kuae.md#爽快)】`shuan3 kuae5` <sup>[东台]</sup> 直截了当，直爽、痛快：让他下乡蹲点，他甚的话也不说，～答应吖。  
 1. 【[爽朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuan_lan.md#爽朗)】`shuan3 lan3` <sup>[如东]</sup> 开朗。  

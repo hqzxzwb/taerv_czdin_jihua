@@ -1741,6 +1741,7 @@
 1. 【[黄姑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gv_y.md#黄姑鱼)】`huan2 gv1 y2` <sup>[如东]</sup> 石首科动物黄姑鱼，体长约31厘米。  
 1. 【[黄蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hae.md#黄蟹)】`huan2 hae3` <sup>[如东]</sup> 海产品。八月以后，梭子蟹卵巢成熟，消化腺丰腴，煮熟后，蟹黄结块，呈橘红色，味鲜醉人。也叫姑娘蟹。  
 1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <sup>[如皋]</sup> 金、金饰品。  
+1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <small>/xuɑŋ2 xɤɯ5/<sup>泰兴</sup></small> 指黄金或黄金饰物。<sup>\[泰兴\]</sup>  
 1. 【[黄花脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_no_zz.md#黄花脑子)】`huan2 hua no3 zz` <sup>[兴化]</sup> 脑浆：他一个大跟头，把～都栽出来啊。  
 1. 【[黄花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua.md#黄花)】`huan2 hua1` <sup>[如皋]</sup> 色黄、质次的棉花。  
 1. 【[黄花菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_cae.md#黄花菜)】`huan2 hua1 cae5` 萱草属的一种植物，又名金针菜<sup>\[如东\]</sup><sup>\[东台\]</sup>  
@@ -1748,6 +1749,7 @@
 1. 【[黄花败酱花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_pae_jian.md#黄花败酱花)】`huan2 hua1 pae6 jian5 hua1` <sup>[如东]</sup> 败酱科植物花败酱，又名败酱，多年生草本。  
 1. 【[黄花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_r.md#黄花<sub>儿</sub>)】`huan2 hua1 r` 苜蓿\[如东：豆科植物南苜蓿和紫苜蓿，一年生或二年生草本。\]  
 1. 【[黄黄齈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_lon.md#黄黄齈)】`huan2 huan2 lon` <sup>[如皋]</sup> 脓样鼻涕。  
+1. 【[黄昏头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huen_teu.md#黄昏头)】`huan2 huen1 teu2` <small>/xuɑŋ2 xuəŋ1 tʰəɪ2/<sup>泰兴</sup></small> 黄昏开始的时候。<sup>\[泰兴\]</sup>  
 1. 【[黄昏星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huen_xien.md#黄昏星)】`huan2 huen1 xien1` <sup>[如皋]</sup> 金星。  
 1. 【[黄芽菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ia_cae.md#黄芽菜)】`huan2 ia2 cae5` <small>/xuaŋ2 ia2 t͡sʰɛ5/<sup>兴化</sup>, /xuã2 ia2 t͡sʰɛ5/<sup>如皋</sup></small> 大白菜。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
 1. 【[黄秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ian.md#黄秧)】`huan2 ian1` <small>/xuã2 iã1/<sup>如皋</sup></small> ① 稻秧。也叫小秧。<sup>\[如东\]</sup> ② 刚栽，未醒棵的秧苗。<sup>\[如皋\]</sup>  

@@ -1262,7 +1262,7 @@
 1. 【[鳊鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_y.md#鳊鱼)】`bin1 y2` ① 鲤科动物三角鲂。<sup>\[如东\]</sup> ② 一种淡水鱼，身体侧扁，头小而尖，鳞细。<sup>\[东台\]</sup> ③ 淡水河鲜之一。<sup>\[泰州\]</sup>  
 1. 【[鳊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#鳊子)】`bin1 zz` <sup>[如东]</sup> 鲻鱼科动物鳊子，体长5-7厘米。身体长偏圆形，背部青黑色，腹部白色。生活在泥沙底质的近海，常活动在潮头边上。食浮游生物。肉质鲜嫩，营养丰富。是如东常见鱼种。  
 1. 【[匾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#匾)】`bin3` <sup>[东台]</sup> ① 在上面题字作为标记或贺礼、赞颂的长方形牌子。 ② 用竹篾丝制成的器具，圆形或椭圆形，有边框。  
-1. 【[匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#匾子)】`bin3 zz` <small>/pĩ3 t͡sɿ/<sup>如皋</sup></small> ① 器具。柳条编制，圆形，体积较小，宽约35厘米，高约15厘米。放置针线等用具。<sup>\[如东\]</sup> ② 平盘状篾器。置粉不漏。<sup>\[如皋\]</sup>  
+1. 【[匾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zz.md#匾子)】`bin3 zz` <small>/pĩ3 t͡sɿ/<sup>如皋</sup>, /pĩ3 t͡sɿ/<sup>泰兴</sup></small> ① 器具。柳条编制，圆形，体积较小，宽约35厘米，高约15厘米。放置针线等用具。<sup>\[如东\]</sup> ② 平盘状篾器。置粉不漏。<sup>\[如皋\]</sup> ③ 竹编家具之一。用于夏日乘凉休息等。<sup>\[泰兴\]</sup>  
 1. 【[扁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#扁)】`bin3` <small>/pĩ3/<sup>如皋</sup>, /piɪ̃3/<sup>泰县</sup></small> ① 平<sup>\[如皋\]</sup>：大～脸。<sup>\[如皋\]</sup> ② 凹<sup>\[如皋\]</sup>：丁香花分公、母，母花是～花。<sup>\[如皋\]</sup> ③ 身体侧斜不正<sup>\[泰县\]</sup>：～过身子。<sup>\[泰县\]</sup>  
 1. 【[扁粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_ba_ba.md#扁粑粑)】`bin3 ba1 ba1` <sup>[如皋]</sup> 状很扁的物体：馒头酵太𣻏，蒸起馒头来不站笼，像个～。这种鱼的身子是～儿。  
 1. 【[扁担肩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_daen_jin_zz.md#扁担肩子)】`bin3 daen jin1 zz` <sup>[如皋]</sup> 扁担两头的止滑装置。木扁担装1-2根短桩，竹扁担削成蛇头形。  

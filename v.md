@@ -324,7 +324,7 @@
 1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ten.md#护疼)】`v6 ten2` <small>/ʋ1 tʰəŋ2/<sup>泰兴</sup></small> 保护疼痛处，怕疼。<sup>\[泰兴\]</sup>  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zan.md#护脏)】`v6 zan1` <sup>[如皋]</sup> ① 挡住脏：定被单头～。 ② 掩盖污斑：白衣裳不～。  
 1. 【[瓠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#瓠)】`v6` <sup>[兴化]</sup> 一年生草本植物，果实细长圆筒形，表皮淡青色，俗称“一条”。也称“～子”。“瓠”一读hv6（户）。  
-1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ 葫芦。<sup>\[泰县\]</sup> ④ 不熟的西瓜。<sup>\[泰县\]</sup>\[兴化：（借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。\] ⑤ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup>  
+1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /ʋ1 t͡sɿ/<sup>泰兴</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ 葫芦。<sup>\[泰县\]</sup> ④ 不熟的西瓜。<sup>\[泰县\]</sup>\[兴化：（借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。\] ⑤ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup> ⑥ 瓠瓜。瓜瓠茄子，泛指各种蔬菜。<sup>\[泰兴\]</sup>  
 1. 【[雾水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei.md#雾水)】`v6 shuei3` <sup>[兴化]</sup> ① 雾中悬浮的小水滴。 ② （喻）由于迷茫而模糊不清：这件事情真复杂，弄得我一头的～。  
 1. 【[哇里哇拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lii_va_la.md#哇里哇拉)】`va1 lii va1 la1` <small>/uɑ1 ləɪ uɑ1 lɑ1/<sup>泰兴</sup></small> 形容吵嚷声和说话声。<sup>\[泰兴\]</sup>  
 1. 【[哇污骨叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_gueh_ji.md#哇污骨叽)】`va1 v gueh7 ji1` <sup>[东台]</sup> 令人作呕的感觉。  
@@ -727,6 +727,7 @@
 1. 【[黄包车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_bo_cha.md#黄包车)】`van2 bo cha1` <small>/uɑŋ2 pɔ t͡sʰɑ1/<sup>泰兴</sup></small> 旧时一种用人力拉的双轮车。主要用来载人。<sup>\[泰兴\]</sup>  
 1. 【[黄菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_cae.md#黄菜)】`van2 cae5` <sup>[如皋]</sup> 胡萝卜英子烫熟做的菜。荒年可以度命，谚云：“一缸～一缸粮”。  
 1. 【[黄䱗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_caen.md#黄䱗)】`van2 caen1` <sup>[如皋]</sup> 黄鲦。  
+1. 【[黄鼠狼看鸡，越看越稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_chv_lan_kun.md#黄鼠狼看鸡，越看越稀)】`van2 chv lan2 kun1 ji1 iuh8 kun1 iuh8 xi1` <small>/uɑŋ2 t͡sʰu lɑŋ2 kʰʊ̃1 t͡ɕʝ1 yʊʔ8 kʰʊ̃1 yʊʔ8 ɕʝ1/<sup>泰兴</sup></small> 歇后语。喻越来越稀少。<sup>\[泰兴\]</sup>  
 1. 【[黄大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_da_teu.md#黄大头)】`van2 da6 teu2` <sup>[如皋]</sup> 番芋的一个品种。  
 1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei.md#黄泔水)】`van2 gun1 shuei3` <small>/ʋã2 kʊ̃1 suei3/<sup>如皋</sup>, /uɑŋ2 kʊ̃1 suəɪ3/<sup>泰兴</sup></small> ① 做豆腐榨出的脚水，色黄，富有机质，可饲猪。另见“泔水”。<sup>\[如皋\]</sup> ② 压豆腐渗出的黄色液体。<sup>\[泰兴\]</sup>  
 1. 【[黄泔水味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_gun_shuei_vei.md#黄泔水味)】`van2 gun1 shuei3 vei6` <sup>[如皋]</sup> 豆制品或制成品常有的脚水气味。  
@@ -750,11 +751,13 @@
 1. 【[黄猫<sub>儿</sub>专拣病鸡咬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_mo_r_zhun.md#黄猫<sub>儿</sub>专拣病鸡咬)】`van2 mo2 r zhun1 gaen3 pien6 ji1 ngo3` <sup>[东台]</sup> 喻指自身有弱点，敌人会乘虚而入。  
 1. 【[黄䱀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngan.md#黄䱀)】`van2 ngan1` <sup>[如皋]</sup> 黄颡。  
 1. 【[黄牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu.md#黄牛)】`van2 ngeu2` <sup>[东台]</sup> 黄牛是牛的一种，角短，皮毛黄褐色或黑色、杂色，毛短：农民有句俗话，～力大上岸，水牛力大下河。  
+1. 【[黄牛不吃草，老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_beh_qieh.md#黄牛不吃草，老相)】`van2 ngeu2 beh7 qieh7 co3 lo3 xian5` <small>/uɑŋ2 ŋəɪ2 pəʔ7 t͡ɕʰiəʔ7 t͡sʰɔ3 lɔ3 ɕiɑŋ5/<sup>泰兴</sup></small> 喻人倚仗某个方面的优势而指手画脚，充内行，拿架子。<sup>\[泰兴\]</sup>  
 1. 【[黄牛角，水牛角，角（各）管角（各）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_gah_shuei.md#黄牛角，水牛角，角（各）管角（各）)】`van2 ngeu2 gah7 shuei3 ngeu2 gah7 gah7 gun3 gah7` <small>/uɑŋ2 ŋəɪ2 kɑʔ7 suəɪ3 ŋəɪ2 kɑʔ7 kɑʔ7 kʊ̃3 kɑʔ7/<sup>泰兴</sup></small> 喻各人管各人的事，不要管别人的事。<sup>\[泰兴\]</sup>  
 1. 【[黄牛颈项的皮——欲紧不紧的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_jien_han.md#黄牛颈项的皮——欲紧不紧的)】`van2 ngeu2 jien3 han6 dii pi2 ioh8 jien3 beh7 jien3 dii` <sup>[东台]</sup>   
 1. 【[黄牛尾子一翘，遛到汤家灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ngeu_vei_zz.md#黄牛尾子一翘，遛到汤家灶)】`van2 ngeu2 vei3 zz ieh7 qio5 lieu1 do5 tan1 ga1 zo5` <sup>[如皋]</sup> 黄牛发怒或发情时，会撅着尾巴跑得很远。  
 1. 【[黄鸟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_nio_r.md#黄鸟<sub>儿</sub>)】`van2 nio3 r` <sup>[如皋]</sup> 金丝雀。  
 1. 【[黄鳝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shin.md#黄鳝)】`van2 shin` <small>/uɑŋ2 ɕĩ/<sup>泰兴</sup></small> 鱼的一种，长条形，故又称长鱼。<sup>\[泰兴\]</sup>  
+1. 【[黄豆芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_nga.md#黄豆芽)】`van2 teu nga2` <small>/uɑŋ2 tʰəɪ ŋɑ2/<sup>泰兴</sup></small> 黄豆浸泡后生出的一二寸长的芽，可作蔬菜。<sup>\[泰兴\]</sup>  
 1. 【[黄脰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_r.md#黄脰<sub>儿</sub>)】`van2 teu6 r` <sup>[如皋]</sup> 鹪鹩，善斗。因其颈下毛色黄，故名。  
 1. 【[黄豆篓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_leu_r.md#黄豆篓<sub>儿</sub>)】`van2 teu6 leu3 r` <sup>[如皋]</sup> 一种无孔的小竹篮，方底圆口深帮。用精篾翘三编成，密不漏。  
 1. 【[黄豆米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu_mi_r.md#黄豆米<sub>儿</sub>)】`van2 teu6 mi3 r` <sup>[如皋]</sup> 菜用嫩黄豆粒：擘～炒大椒。  

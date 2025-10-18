@@ -1285,6 +1285,7 @@
 1. 【[楹联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lin.md#楹联)】`ien2 lin2` <sup>[如东]</sup> 贴在楹柱上的对联。泛指对联。  
 1. 【[盈亏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kuei.md#盈亏)】`ien2 kuei1` <sup>[东台]</sup> 指赚钱或赔本：～自负。  
 1. 【[营](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#营)】`ien2` <sup>[如皋]</sup> 引为游行让人看：～嫁妆、～龙灯、～街。  
+1. 【[营养钵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ian_buh.md#营养钵)】`ien2 ian buh7` <small>/iŋ2 iɑŋ pʊʔ7/<sup>泰兴</sup></small> 农具之一。用于培育作物幼苗。<sup>\[泰兴\]</sup>  
 1. 【[营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shen.md#营生)】`ien2 shen1` <sup>[兴化]</sup> 职业：以前他家打铁～，十分穷苦。  
 1. 【[蟫虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon.md#蟫虫)】`ien2 chon2` <sup>[兴化]</sup> 蠹虫，多藏于暗处蛀食衣服、书籍等，也称“蠹鱼”。  
 1. 【[蟫虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon_r.md#蟫虫<sub>儿</sub>)】`ien2 chon2 r` <sup>[如皋]</sup> 蠹鱼。  
@@ -1892,7 +1893,7 @@
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi_r.md#厣脐<sub>儿</sub>)】`in3 qi2 r` <sup>[如东]</sup> 蟹腹下面呈三角形的薄壳，也称厣。这是退化了的尾巴。  
 1. 【[厣钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qin_r.md#厣钱<sub>儿</sub>)】`in3 qin2 r` <small>/iɪ̃3 t͡ɕʰiɪ̃2 ɚ/<sup>兴化</sup></small> ① 螺蛳口圆片状的盖。<sup>\[东台\]</sup> ② 螺蛳头上的盖。<sup>\[兴化\]</sup> ③ 螃蟹腹下的薄壳。厣<sup>\[兴化\]</sup>：《广韵·琰韵》於琰切<sup>\[兴化\]</sup>｜蟹腹下厣。<sup>\[兴化\]</sup>  
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi_r.md#厣脐<sub>儿</sub>)】`in3 xi5 r` <sup>[如皋]</sup> ① 螺盖。 ② 蟹腹盖。 ③ 水烟台儿装烟丝的部位，有三个孔的小盅。  
-1. 【[厣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#厣子)】`in3 zz` 螺壳口部圆片状的盖  
+1. 【[厣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#厣子)】`in3 zz` <small>/ĩ3 t͡sɿ/<sup>泰兴</sup></small> 螺类介壳口圆片状的盖；蟹腹下面的薄盖。<sup>\[泰兴\]</sup>  
 1. 【[掩扯<sub>儿</sub>摸鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_cha_r_mah.md#掩扯<sub>儿</sub>摸鼻子)】`in3 cha3 r mah8 pieh8 zz` <sup>[东台]</sup> 通过一些下意识的小动作分散别人注意力，回避某些事情。  
 1. 【[掩嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jy_r_xio.md#掩嘴<sub>儿</sub>笑)】`in3 jy3 r xio5` <sup>[如东]</sup> 用手帕遮住嘴唇而微笑，多指女孩子。  
 1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <sup>[如东]</sup> 把门拉拢，不加闩锁：你走的时侯要～。  
