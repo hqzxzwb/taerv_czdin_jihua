@@ -815,9 +815,11 @@
 1. 【[真扎货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhaeh_hu.md#真扎货)】`zhen1 zhaeh7 hu5` <small>/t͡sən1 t͡sæʔ7 xo5/<sup>兴化</sup>, /t͡səŋ1 t͡sæʔ7 xo5/<sup>泰县</sup></small> ① 质量很好的货物。<sup>\[如东\]</sup>：这些都是～。<sup>\[如东\]</sup> ② 地道的、优质的产品<sup>\[兴化\]</sup>：我俫卖的刬是大厂生产的～！<sup>\[兴化\]</sup> ③ 质量好的货。<sup>\[泰县\]</sup> ④ 相对于“冒牌货”，多指从原产地或大型商店买的地道名牌商品。<sup>\[泰州\]</sup>  
 1. 【[真真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen.md#真真)】`zhen1 zhen` <small>/t͡səŋ1 t͡səŋ/<sup>泰兴</sup></small> 的的确确，实实在在。<sup>\[泰兴\]</sup>  
 1. 【[真真的个真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhen_dii_gu.md#真真的个真)】`zhen1 zhen1 dii gu zhen1` <sup>[东台]</sup> 意为已经给足了最大的情面，天大的交情。  
+1. 【[睁眼睛瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_jien_haeh.md#睁眼睛瞎子)】`zhen1 ngaen jien haeh7 zz` <small>/t͡səŋ1 ŋɛ̃ t͡ɕiŋ xæʔ7 t͡sɿ/<sup>泰兴</sup></small> 喻指不识字的人，文盲。<sup>\[泰兴\]</sup>  
 1. 【[睁眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen.md#睁眼)】`zhen1 ngaen3` <sup>[如皋]</sup> 指初生禽兽的发育生长阶段。  
 1. 【[睁眼闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_bi_ngaen.md#睁眼闭眼)】`zhen1 ngaen3 bi5 ngaen3` <sup>[兴化]</sup> 明知不对，有意不管：他俫单位负责人看到有人上班打麻将，～，受到通报批评。  
 1. 【[睁眼瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_ngaen_haeh_zz.md#睁眼瞎子)】`zhen1 ngaen3 haeh7 zz` <sup>[如东]</sup> 比喻对事物的本来面目看不清楚。  
+1. 【[睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zheh_ngaen_bi.md#睁只眼闭只眼)】`zhen1 zheh ngaen3 bi5 zheh ngaen3` <small>/t͡səŋ1 t͡səʔ ŋɛ̃3 pʝ5 t͡səʔ ŋɛ̃3/<sup>泰兴</sup></small> 比喻遇事能容忍，故作不知，得过且过，以免纠纷。乡谚：“王木匠挂线，～。”<sup>\[泰兴\]</sup>  
 1. 【[睁只眼闭只眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zheh_ngaen_bi.md#睁只眼闭只眼)】`zhen1 zheh7 ngaen3 bi5 zheh7 ngaen3` <sup>[东台]</sup> 原意是看见装看不见。喻意故意敷衍了事，不负责任。  
 1. 【[砧板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_baen.md#砧板)】`zhen1 baen3` <small>/t͡səŋ1 pɛ̃3/<sup>泰兴</sup></small> 切菜板<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：也叫切板。\]  
 1. 【[蒸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#蒸)】`zhen1` <sup>[如东]</sup> 一种烹调方法。利用水蒸气的热量使食物变热、变熟。  
@@ -1824,6 +1826,8 @@
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <small>/t͡su5 mɔ2 ɕyũ3/<sup>兴化</sup>, /t͡su5 mɔ2 ɕyʊ̃3/<sup>如皋</sup></small> ① 头癣，有银屑，可致秃发。<sup>\[如皋\]</sup> ② 秃疮。<sup>\[兴化\]</sup>  
 1. 【[蛀牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga.md#蛀牙)】`zhv5 nga2` <sup>[东台]</sup> 龋齿。  
 1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <sup>[如东]</sup> 龋齿。  
+1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <small>/t͡su5 ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> 龋齿的俗称。<sup>\[泰兴\]</sup>  
+1. 【[蛀屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xih_zz.md#蛀屑子)】`zhv5 xih7 zz` <small>/t͡su5 ɕiʔ7 t͡sɿ/<sup>泰兴</sup></small> 喻指陈旧的观点。<sup>\[泰兴\]</sup>：搉～<sup>\[泰兴\]</sup>  
 1. 【[𣥼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#𣥼)】`zhv5` <small>/t͡su5/<sup>如皋</sup>, /t͡su5/<sup>泰兴</sup></small> 盛物于器<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：拿袋儿～米<sup>\[如皋\]</sup>｜把饭～啊淘箩儿里<sup>\[如皋\]</sup>｜把粮食～起来<sup>\[泰兴\]</sup>  
 1. 【[糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#糟)】`zo1` ① 酿酒剩下的渣滓。<sup>\[如东\]</sup> ② 酒酿<sup>\[东台\]</sup>：酒～、<sup>\[东台\]</sup> ③ 用酒糟腌制的鱼<sup>\[东台\]</sup>：～鱼。<sup>\[东台\]</sup> ④ 酒糟类食物<sup>\[东台\]</sup>：酒～蛋<sup>\[东台\]</sup>｜酒～天竺果子。<sup>\[东台\]</sup>  
 1. 【[糟饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bien.md#糟饼)】`zo1 bien3` <sup>[东台]</sup> 以元麦面粉为主要原料，吃口较粗的饼。  

@@ -693,14 +693,13 @@
 1. 【[𢭗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#𢭗)】`lan3` <sup>[如皋]</sup> 耽延：他的案子～吖在下，一～就是三年。如皋词典写“冷”。  
 1. 【[𢭗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga_ha.md#𢭗吖下)】`lan3 nga ha` <sup>[如皋]</sup> 耽延着。  
 1. 【[𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_dan_r.md#𧚅裆<sub>儿</sub>)】`lan3 dan5 r` <sup>[如皋]</sup> ① 布筋、碎布条：破布儿～。 ② 沾满小粒的虫丝团：米生吖～。 ③ 肉类切下来软而不成形的一类。  
-1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <small>/laŋ6/<sup>兴化</sup>, /lã1/<sup>如皋</sup>, /lɑŋ1/<sup>泰兴</sup>, /nɑŋ1/<sup>泰县</sup></small> ① 悬挂展开，常为了晾晒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup>：～衣裳｜～被单｜洗过的衣服～起来晒干<sup>\[如皋\]</sup>｜你把空调开开，～吖房间的衣裳顶多半天就干吖唻。<sup>\[泰州\]</sup>｜把衣裳～吖天井里去。<sup>\[泰州\]</sup> ② 故意冷落某人<sup>\[泰州\]</sup>：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。<sup>\[泰州\]</sup>  
+1. 【[㫰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan.md#㫰)】`lan6` <small>/laŋ6/<sup>兴化</sup>, /lã1/<sup>如皋</sup>, /lɑŋ1/<sup>泰兴</sup>, /nɑŋ1/<sup>泰县</sup></small> ① 悬挂展开，常为了晾晒<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～衣裳｜～被单｜洗过的衣服～起来晒干<sup>\[如皋\]</sup>｜～衣裳<sup>\[东台\]</sup>｜你把空调开开，～吖房间的衣裳顶多半天就干吖唻。<sup>\[泰州\]</sup>｜把衣裳～吖天井里去。<sup>\[泰州\]</sup>｜～衣裳<sup>\[泰兴\]</sup> ② 故意冷落某人<sup>\[泰州\]</sup>：大家在桌上有说有笑，把他～吖边上，没得一个人搭他。<sup>\[泰州\]</sup>  
 1. 【[㫰车绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_cha_shen.md#㫰车绳)】`lan6 cha1 shen2` <sup>[如东]</sup> 水车部件。一头系在水车绞关上，一头兜着水车槽筒，可以调节水车上升或下降。  
 1. 【[㫰船星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_chun_xien.md#㫰船星)】`lan6 chun2 xien1` <sup>[如东]</sup> 大熊座。凌晨升起在东方，形如一只船。  
 1. 【[㫰风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_fon.md#㫰风)】`lan6 fon1` <sup>[兴化]</sup> 航船利用风力扬帆前进：㫰顺风｜㫰旁风｜～船行得快。‖“帆”兴化又称“篷”，故又称“㫰篷”。  
 1. 【[㫰稭花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gae_hua.md#㫰稭花)】`lan6 gae1 hua1` <sup>[如东]</sup> 棉秸顶上的花朵。  
 1. 【[㫰工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gon.md#㫰工)】`lan6 gon1` <small>/laŋ6 koŋ1/<sup>兴化</sup></small> ① 不劳动，误工时。<sup>\[如东\]</sup>：材料供应不上，只好～。<sup>\[如东\]</sup> ② 因计划或调配不当，上工时间没有活干<sup>\[兴化\]</sup>：材料不能及时运到，造成～概由甲方负责。<sup>\[兴化\]</sup>  
 1. 【[㫰瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_gua.md#㫰瓜)】`lan6 gua1` <sup>[如东]</sup> 一年生草本植物。茎蔓生，横断面呈五角形。叶子心脏形。花黄色。果实长条形，中间细，像象葫芦。嫩时绿色，成熟后赤黄色，昧甜。可做蔬菜。  
-1. 【[㫰衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_i_shan.md#㫰衣裳)】`lan6 i1 shan-shan3` <sup>[东台]</sup> 把衣服挂起来晒干或晾干。  
 1. 【[㫰僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_jian.md#㫰僵)】`lan6 jian1` <sup>[兴化]</sup> 指在寒风中长时间停留：覅在外头～，当心受冻。  
 1. 【[㫰络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_lah_r.md#㫰络<sub>儿</sub>)】`lan6 lah8 r` <sup>[如东]</sup> 在大屋里的一侧，竹箅子的四角用绳索吊在梁架上，上面可以搁置东西，这种装置叫做㫰络儿：把蒲锹放吖～上。  
 1. 【[㫰门敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_men_chan.md#㫰门敞)】`lan6 men chan3, la1 men chan3` <sup>[如皋]</sup> 大门洞开，无人看管；无关拦，不设防。  

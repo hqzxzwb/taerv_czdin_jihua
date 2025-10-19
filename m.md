@@ -790,6 +790,7 @@
 1. 【[玫瑰饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_bien.md#玫瑰饼)】`mei2 guei1 bien3` <sup>[如皋]</sup> 即凉团。  
 1. 【[玫瑰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_hua.md#玫瑰花)】`mei2 guei1 hua1` <sup>[如东]</sup> 蔷薇科植物玫瑰，直立乔木。  
 1. 【[玫瑰露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_guei_lv.md#玫瑰露)】`mei2 guei1 lv6` <sup>[如东]</sup> 蔷薇科植物玫瑰花的蒸馏液。  
+1. 【[眉花眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua_ngaen_xio.md#眉花眼笑)】`mei2 hua1 ngaen3 xio5` <small>/məɪ2 xuɑ1 ŋɛ̃3 ɕiɔ5/<sup>泰兴</sup></small> 笑逐颜开，非常高兴的样子。<sup>\[泰兴\]</sup>  
 1. 【[眉花<sub>儿</sub>眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua_r_ngaen.md#眉花<sub>儿</sub>眼笑)】`mei2 hua1 r ngaen3 xio5` <small>/məɪ2 xuɑ˞1 ŋɛ̃3 ɕiɔ5/<sup>泰兴</sup></small> 形容非常高兴，兴奋的样子。<sup>\[泰兴\]</sup>  
 1. 【[眉目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_moh.md#眉目)】`mei2 moh8` <small>/məɪ2 mɔʔ8/<sup>泰兴</sup></small> 比喻事情的要领、头绪或条理。<sup>\[泰兴\]</sup>  
 1. 【[脢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei.md#脢)】`mei2` <sup>[兴化]</sup> 牲畜背上的肉。俗称～子｜～条｜腰～。《说文·肉部》“～，背肉也。”字又作“脄”。  
@@ -983,16 +984,16 @@
 1. 【[闷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#闷子)】`men6 zz` <small>/mən6 t͡sɿ/<sup>兴化</sup>, /məŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 性格内向的人<sup>\[兴化\]</sup>：银子性格比较开朗，可男人三宝却是个～，三变淡打不出个闷屁来。（钱国怀：《桃子》）<sup>\[兴化\]</sup> ② 性格内向不愿意与人交流的人<sup>\[泰州\]</sup>：这小伙是个～，同他蹾住块儿，一天都说不到三句话，真没得意思。<sup>\[泰州\]</sup> ③ 一种陶制器皿，有盖，可作锅用。<sup>\[泰兴\]</sup>  
 1. 【[哞<sub>儿</sub>哞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meu_r_meu_r.md#哞<sub>儿</sub>哞<sub>儿</sub>)】`meu r meu r` <sup>[如皋]</sup> 牛鸣叫之声。  
 1. 【[咪里马拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lii_ma_la.md#咪里马拉)】`mi1 lii ma1 la` <small>/mʝ1 ləɪ mɑ1 lɑ/<sup>泰兴</sup></small> 拖拖拉拉<sup>\[泰兴\]</sup>  
-1. 【[咪马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#咪马)】`mi1 ma` <small>/mʝ1 mɑ/<sup>泰兴</sup></small> 慢，拖拉<sup>\[泰兴\]</sup>  
 1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` ① 用嘴唇轻轻地喝一口。<sup>\[如东\]</sup>：～一口五粮液。<sup>\[如东\]</sup> ② 一次饮少量的酒或者饮料<sup>\[泰州\]</sup>：酒要是喝不惯，就随意～点ㄦ。<sup>\[泰州\]</sup>｜刚刚～啊一口，这个药还不算苦。<sup>\[泰州\]</sup>  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <small>/mi1/<sup>兴化</sup>, /mʝ1/<sup>如皋</sup></small> ① 闭目养神<sup>\[如皋\]</sup>：眼睛～啊下。<sup>\[如皋\]</sup> ② 小睡<sup>\[如皋\]</sup>：吃咖中饭要～刻儿。<sup>\[如皋\]</sup> ③ 眼皮微微合缝，或短时间假寐<sup>\[东台\]</sup>：我在沙发上～下子就好啊。<sup>\[东台\]</sup> ④ 睡着<sup>\[兴化\]</sup>：他在椅子上～着咖。<sup>\[兴化\]</sup> ⑤ 小睡，稍微睡一会儿<sup>\[泰州\]</sup>：大家嫑则声，让他～一刻ㄦ。<sup>\[泰州\]</sup>｜心里有事睡不着，在床上～啊个盹儿就起来啊。<sup>\[泰州\]</sup> ⑥ 药瓶高头的字太小，你把眼睛～起来望吖看，写的是甚的？<sup>\[泰州\]</sup>  
 1. 【[眯咖麻咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ga_ma_ga.md#眯咖麻咖)】`mi1 ga ma1 ga` <sup>[泰州]</sup> 行为浑浑噩噩的样子：这吖大的人，成天～的，你怎吖好㖸。  
+1. 【[眯下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#眯下子)】`mi1 ha zz` <small>/mʝ1 xɑ t͡sɿ/<sup>泰兴</sup></small> 小睡<sup>\[泰兴\]</sup>  
 1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma` <sup>[兴化]</sup> 形容稀里糊涂、马马虎虎。又说“眯眯马马”“眯儿马儿”“眯家马家”。  
 1. 【[眯马人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯马人)】`mi1 ma ren2` <sup>[如皋]</sup> 宽厚不争或糊涂的人。  
-1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma` <small>/mʝ1 ma/<sup>如皋</sup></small> ① 宽厚忍让，不计较。<sup>\[如皋\]</sup> ② 马虎胡涂。<sup>\[如皋\]</sup> ③ 头脑浑浑噩噩样子<sup>\[泰州\]</sup>：老王这个人～得很，这件事估计他说不清。<sup>\[泰州\]</sup> ④ 做事马虎的样子<sup>\[泰州\]</sup>：儿子上学的事是大事，你要当个事办，不能～。<sup>\[泰州\]</sup>｜做事不能～。<sup>\[泰州\]</sup>  
+1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma` <small>/mʝ1 ma/<sup>如皋</sup>, /mʝ1 mɑ/<sup>泰兴</sup></small> ① 宽厚忍让，不计较。<sup>\[如皋\]</sup> ② 马虎胡涂。<sup>\[如皋\]</sup> ③ 头脑浑浑噩噩样子<sup>\[泰州\]</sup>：老王这个人～得很，这件事估计他说不清。<sup>\[泰州\]</sup> ④ 做事马虎的样子<sup>\[泰州\]</sup>：儿子上学的事是大事，你要当个事办，不能～。<sup>\[泰州\]</sup>｜做事不能～。<sup>\[泰州\]</sup> ⑤ 慢腾腾，拖拉<sup>\[泰兴\]</sup>  
 1. 【[眯麻人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_ren.md#眯麻人)】`mi1 ma ren2` <sup>[如皋]</sup> 糊涂人。  
 1. 【[眯马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯马)】`mi1 ma1` <sup>[东台]</sup> ① 打瞌睡，眼睛睁不开的样子。 ② 形容人没精神，做事马虎：要清醒，不能做～官。  
 1. 【[眯麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma.md#眯麻)】`mi1 ma1` <sup>[泰县]</sup> ① 不果断：这个人比较～。 ② 瞌睡，慢慢地想睡觉：今朝他忙吖一天，现在～下来啊啦。  
@@ -1095,7 +1096,7 @@
 1. 【[美味香甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_vei_xian_tin.md#美味香甜)】`mi3 vei6 xian1 tin2` <sup>[泰州]</sup> 食物滋味可口：嫂子烧的菜没得话说，美味香甜。  
 1. 【[𨀷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𨀷)】`mi3` <sup>[如皋]</sup> ① 尾随盯梢：～啊后头、～着咖他。 ② 寻找：～花生；顺吖脚印望前～。  
 1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi5` <sup>[如皋]</sup> 略饮。  
-1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi5 ha6 zz` <sup>[如皋]</sup> 饮一下。喝一点。  
+1. 【[渳下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ha_zz.md#渳下子)】`mi5 ha zz` <sup>[如皋]</sup> 饮一下。喝一点。  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi5 mi` <sup>[如皋]</sup> 喝一喝，吃一吃。  
 1. 【[妹倩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qin.md#妹倩)】`mi6 qin5` <sup>[如皋]</sup> 妹夫。  
 1. 【[妹私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sz.md#妹私)】`mi6 sz` <sup>[泰州]</sup> 妹夫。  
