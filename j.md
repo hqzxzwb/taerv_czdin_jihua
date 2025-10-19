@@ -80,7 +80,7 @@
 1. 【[鸡毛蒜皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_sun_pi.md#鸡毛蒜皮)】`ji1 mo2 sun5 pi2` <sup>[东台]</sup> 琐碎细小的事情。  
 1. 【[鸡毛帚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_zheu_zz.md#鸡毛帚子)】`ji1 mo2 zheu3 zz` <sup>[兴化]</sup> 鸡毛掸子。  
 1. 【[鸡猫六畜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_loh_choh.md#鸡猫六畜的)】`ji1 mo2 loh8 choh7 dii` <sup>[如皋]</sup> 形容轻微的意见不投，气氛不和谐。  
-1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh8 ngaen3` <small>/t͡ɕʝ1 mɔʔ8 ŋẽ3/<sup>如皋</sup></small> ① 夜盲症。<sup>\[如东\]</sup> ② 即“雀目眼”，白蒲话说。<sup>\[如皋\]</sup>  
+1. 【[鸡目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_moh_ngaen.md#鸡目眼)】`ji1 moh ngaen3` <small>/t͡ɕʝ1 mɔʔ ŋẽ3/<sup>如皋</sup></small> 夜盲症。<sup>\[如东\]</sup>\[如皋：白蒲话\]  
 1. 【[鸡眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ngaen.md#鸡眼)】`ji1 ngaen3` <small>/t͡ɕʝ1 ŋɛ̃3/<sup>泰兴</sup></small> ① 皮肤病，脚掌或脚趾上角质层增深而形成的小圆硬块，样子像鸡的眼睛，局部有压痛。<sup>\[如东\]</sup> ② 局部表皮久受压迫或摩擦，脚掌或脚趾上生的小圆形硬结，有压痛感。<sup>\[泰兴\]</sup>  
 1. 【[鸡内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_nuei_jien.md#鸡内金)】`ji1 nuei6 jien1` <sup>[如东]</sup> 雉科动物家鸡的干燥砂囊内膜。  
 1. 【[鸡皮疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pi_geh_daeh.md#鸡皮疙瘩)】`ji1 pi2 geh7 daeh7` ① 因受到某种刺激而寒毛直立，皮肤表面好像鸡皮一样。<sup>\[东台\]</sup> ② 去掉毛的鸡皮上的颗粒状的肉点，喻指人在受寒冷、惊恐、厌恶等刺激时，皮肤毛孔突然收缩成颗粒状情形<sup>\[泰州\]</sup>：你望他这个大麻疯的样子，把人～都瘆出来啊。<sup>\[泰州\]</sup>  
@@ -493,16 +493,15 @@
 1. 【[雀斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#雀斑)】`jiah7 baen1` 面部生的黑褐色或黄褐色斑点。<sup>\[泰州\]</sup>  
 1. 【[雀脸斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lin_baen.md#雀脸斑)】`jiah7 lin3 baen1` <small>/t͡ɕiaʔ7 liɪ̃3 pɛ̃1/<sup>兴化</sup></small> ① 又叫“雀卵斑”，面部的褐色小斑点，像喜鹊蛋上的斑纹。<sup>\[东台\]</sup> ② 雀斑。也称“雀儿斑”。<sup>\[兴化\]</sup>  
 1. 【[雀卵斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lun_baen.md#雀卵斑)】`jiah7 lun3 baen1` <sup>[东台]</sup> 见“雀脸斑”。  
-1. 【[雀盲眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_man_ngaen.md#雀盲眼)】`jiah7 man ngaen3` <sup>[泰州]</sup> ① （泰州音qiah7 mo ngaen3） ② 夜盲症。  
 1. 【[雀盲眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_man_ngaen.md#雀盲眼)】`jiah7 man2 ngaen3` <sup>[兴化]</sup> ① 夜盲症。 ② 夜盲症患者：他是个～。  
-1. 【[雀目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_moh_ngaen.md#雀目眼)】`jiah7 moh8 ngaen3` <small>/t͡ɕiaʔ7 mɔʔ8 ŋẽ3/<sup>如皋</sup></small> ① 夜盲症。<sup>\[如皋\]</sup> ② 夜盲眼。又称鸡盲眼。<sup>\[如东\]</sup>  
+1. 【[雀目眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_moh_ngaen.md#雀目眼)】`jiah7 moh ngaen3` <small>/t͡ɕiaʔ7 mɔʔ ŋẽ3/<sup>如皋</sup>, /t͡ɕiɑʔ7 mɔʔ ŋɛ̃3/<sup>泰兴</sup></small> 夜盲症。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[如东：又称鸡盲眼。\]  
 1. 【[雀麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_moh.md#雀麦)】`jiah7 moh8` <small>/t͡ɕiaʔ7 mɔʔ8/<sup>如皋</sup></small> ① 莜麦。如皋视作麦田野草。<sup>\[如皋\]</sup> ② 禾本科植物雀麦，一年生草本。<sup>\[如东\]</sup>  
-1. 【[雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_r.md#雀<sub>儿</sub>)】`jiah7 r` <small>/t͡ɕiaʔ7 ɚ/<sup>兴化</sup></small> ① 小鸟。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：早上出去遛～。<sup>\[兴化\]</sup> ② 加时浴室门前挂的灯笼。<sup>\[兴化\]</sup>  
+1. 【[雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_r.md#雀<sub>儿</sub>)】`jiah7 r` <small>/t͡ɕiaʔ7 ɚ/<sup>兴化</sup>, /t͡ɕiɑ˞7/<sup>泰兴</sup></small> ① 小鸟。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：早上出去遛～。<sup>\[兴化\]</sup> ② 加时浴室门前挂的灯笼。<sup>\[兴化\]</sup>  
 1. 【[雀<sub>儿</sub>斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_r_baen.md#雀<sub>儿</sub>斑)】`jiah7 r baen1` 雀斑  
 1. 【[雀舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_shih.md#雀舌)】`jiah7 shih8` <sup>[如皋]</sup> 雀舌罗汉松的简称，因其叶如雀舌。它是如皋花农经几百年从罗汉松的变异中选育出来的品种。  
 1. 【[雀舌黄杨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_shih_huan_ian.md#雀舌黄杨)】`jiah7 shih8 huan2 ian2` <sup>[如东]</sup> 黄杨的一种，叶窄而长。供观赏。  
 1. 【[雀舌罗汉松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_shih_lu_hun.md#雀舌罗汉松)】`jiah7 shih8 lu2 hun5 son1` <sup>[如东]</sup> 罗汉松的一种，叶子窄而短。供观赏。  
-1. 【[雀黄斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_van_baen.md#雀黄斑)】`jiah7 van baen1` 雀斑  
+1. 【[雀黄斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_van_baen.md#雀黄斑)】`jiah7 van baen1` <small>/t͡ɕiɑʔ7 uɑŋ pɛ̃1/<sup>泰兴</sup></small> 雀斑<sup>\[泰兴\]</sup>  
 1. 【[僵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian.md#僵)】`jian1` <sup>[兴化]</sup> 收敛笑容，使表情严肃：他～住个脸，愣吖好半天。  
 1. 【[僵瓣<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_baen_r_hua.md#僵瓣<sub>儿</sub>花)】`jian1 baen5 r hua1` <sup>[如皋]</sup> 欲吐絮即干枯的棉花蕾。  
 1. 【[僵蛹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_ion.md#僵蛹)】`jian1 ion3` <sup>[如东]</sup> 蚕蛹经白僵菌发酵的制成品，入中药。  

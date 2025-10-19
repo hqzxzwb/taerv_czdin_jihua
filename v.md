@@ -597,8 +597,9 @@
 1. 【[捾水子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shuei_zz.md#捾水子)】`vaen3 shuei3 zz` <sup>[兴化]</sup> 一种有柄的水舀。捾，《集韵·潸韵》邬版切：取也。  
 1. 【[捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#捾子)】`vaen3 zz` <small>/uɛ̃3 t͡sɿ/<sup>兴化</sup>, /ʋẽ3 t͡sɿ/<sup>如皋</sup>, /ʋɛ̃3 t͡sɿ/<sup>泰兴</sup>, /ʋɛ̃3 t͡se/<sup>泰县</sup></small> ① 有短竖柄的大号舀器，柄端朝内<sup>\[如皋\]</sup>：水～。<sup>\[如皋\]</sup> ② 一种小型笆斗。<sup>\[如东\]</sup> ③ 旧时农村舀水的木质器具，比面盆略小，有手柄。<sup>\[东台\]</sup> ④ 柳斗。兴化词典作“䩩”，《广韵·阮韵》於阮切：～量物之一也。\[兴化：二斗～\] ⑤ 木制水舀。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[晚辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bei.md#晚辈)】`vaen3 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于下一辈分的人，称晚辈。  
-1. 【[晚半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_shan.md#晚半上)】`vaen3 bun5 shan` <sup>[如皋]</sup> 黄昏时分。  
+1. 【[晚半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_shan.md#晚半上)】`vaen3 bun5 shan` <small>/ʋẽ3 pʊ̃5 sã/<sup>如皋</sup>, /ʋɛ̃3 pʊ̃5 sɑŋ/<sup>泰兴</sup></small> ① 黄昏时分。<sup>\[如皋\]</sup> ② 晚上，晚间。<sup>\[泰兴\]</sup>  
 1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <sup>[兴化]</sup> 临近黄昏的一段时间：你～来，他一定在家里。｜“相公来得不巧，我们太爷出门去了，要到～回来。”（《续小五义》四八）  
+1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <small>/ʋɛ̃3 pʊ̃5 tʰĩ1/<sup>泰兴</sup></small> 晚上；下午。<sup>\[泰兴\]</sup>  
 1. 【[晚茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha.md#晚茶)】`vaen3 cha2` <small>/uɛ̃3 t͡sʰa2/<sup>兴化</sup>, /ʋẽ3 t͡sʰa2/<sup>如皋</sup>, /ʋɛ̃3 t͡sʰɑ2/<sup>泰兴</sup></small> ① 下午的加餐，一指下午卖的点心。<sup>\[如皋\]</sup> ② 下午进茶馆饮茶，可进加餐点心。<sup>\[如皋\]</sup> ③ 下午加餐，称晚茶。<sup>\[如东\]</sup> ④ 午餐和晚餐之间的便餐：农忙时下田的人都要吃一。城里人也说“中茶”。<sup>\[兴化\]</sup> ⑤ 指中、晚饭之间的一顿小餐。多在夏日昼长夜短期间。<sup>\[泰兴\]</sup>  
 1. 【[晚茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha_shr_heu.md#晚茶时候)】`vaen3 cha2 shr2 heu` <sup>[如皋]</sup> 下午茶时分。  
 1. 【[晚茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha_shr_heu.md#晚茶时候)】`vaen3 cha2 shr2 heu6` <sup>[如皋]</sup> 向晚。  
@@ -607,6 +608,7 @@
 1. 【[晚饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_faen.md#晚饭)】`vaen3 faen6` <sup>[如东]</sup> 日落之后就餐，称晚饭。  
 1. 【[晚公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gon.md#晚公)】`vaen3 gon1` <sup>[如东]</sup> 继父。  
 1. 【[晚爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ia.md#晚爷)】`vaen3 ia2` 继父。  
+1. 【[晚夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ia.md#晚夜)】`vaen3 ia6` <small>/ʋɛ̃3 iɑ1/<sup>泰兴</sup></small> 傍晚；黄昏时分。<sup>\[泰兴\]</sup>  
 1. 【[晚酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jieu.md#晚酒)】`vaen3 jieu3` <sup>[兴化]</sup> ① 晚宴：早面、中饭、～。 ② 晚间小酌：吃～。  
 1. 【[晚老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_lo_zz.md#晚老子)】`vaen3 lo3 zz` <small>/uɛ̃3 lɔ3 t͡sɿ/<sup>兴化</sup>, /ʋẽ3 lɔ3 t͡sɿ/<sup>如皋</sup>, /ʋɛ̃3 lɔ3 t͡sɿ/<sup>泰兴</sup>, /ʋɛ̃3 nɔ3 t͡se/<sup>泰县</sup></small> 继父<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：也称“继父老子”。\]\[如皋：指称。面称可同“父”。\]：他家有个～。<sup>\[泰县\]</sup>｜银子是你～朱二官所借，却是为你用的，你也着得有花字。（二刻拍案惊奇·10）<sup>\[泰县\]</sup>  
 1. 【[晚丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nga_teu.md#晚丫头)】`vaen3 nga1 teu` <sup>[如皋]</sup> 再婚时，对方的女儿。  
@@ -618,8 +620,9 @@
 1. 【[晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shan.md#晚上)】`vaen3 shan` ① 太阳落山以后的一段时间。<sup>\[如东\]</sup> ② 晚上，日落后，夜里<sup>\[泰州\]</sup>：～早点过来吃夜饭。<sup>\[泰州\]</sup>  
 1. 【[晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shan.md#晚上)】`vaen3 shan6` 夜晚  
 1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <sup>[如皋]</sup> 下午或晚上的营业。  
+1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <small>/ʋɛ̃3 sɿ1/<sup>泰兴</sup></small> 傍晚或晚间的集市。<sup>\[泰兴\]</sup>  
 1. 【[晚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xien.md#晚心)】`vaen3 xien1` 晚上  
-1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <sup>[泰兴]</sup> 同“下晚”。  
+1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <sup>[泰兴]</sup> 晚上；傍晚，或黄昏时分。同“下晚”。  
 1. 【[晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#晚子)】`vaen3 zz3` <sup>[如皋]</sup> 老来所生的子女。  
 1. 【[绾角卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gah_jiun_r.md#绾角卷<sub>儿</sub>)】`vaen3 gah7 jiun3 r` <sup>[如皋]</sup> 长发盘于脑后的女发式。  
 1. 【[绾篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_go.md#绾篙)】`vaen3 go1` <sup>[如皋]</sup> 铁头有倒钩竹篱。  

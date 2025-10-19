@@ -2235,6 +2235,7 @@
 1. 【[啰啰𠵨𠵨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_deh_deh.md#啰啰𠵨𠵨)】`lu1 lu1 deh7 deh7` <sup>[如皋]</sup> 见“𠵨𠵨啰啰”。  
 1. 【[啰啰三牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_saen_qin.md#啰啰三牵)】`lu1 lu1 saen1 qin1` <sup>[泰县]</sup> 颠三倒四。  
 1. 【[啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su.md#啰唆)】`lu1 su1` <sup>[如东]</sup> ① 言语琐碎。 ② 繁杂。  
+1. 【[啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su.md#啰唆)】`lu1 su1` <small>/lɤɯ1 sɤɯ1/<sup>泰兴</sup></small> 说话重复，不简洁。或说“啰啰唆唆”。<sup>\[泰兴\]</sup>  
 1. 【[啰唆嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su_jy.md#啰唆嘴)】`lu1 su1 jy3` <sup>[如皋]</sup> 人说话啰唆不停。  
 1. 【[螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#螺螺)】`lu1 lu` <sup>[兴化]</sup> 即螺蛳。  
 1. 【[螺<sub>儿</sub>糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_r_zo.md#螺<sub>儿</sub>糟)】`lu1 r zo1` <sup>[如东]</sup> 食品。海螺或河螺肉加面粉、酒糟混合烹调而成，色淡味鲜，营养丰富。  

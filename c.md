@@ -660,7 +660,7 @@
 1. 【[敞马廊檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ma_lan_in.md#敞马廊檐)】`chan3 ma3 lan2 in2` <sup>[兴化]</sup> 指房檐之下没有遮拦，直通庭院或户外：这个～的房子，冬天还冻死人哎！  
 1. 【[敞厅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_tien.md#敞厅)】`chan3 tien1` <sup>[如东]</sup> 客厅。  
 1. 【[唱宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bo_r.md#唱宝<sub>儿</sub>)】`chan5 bo3 r` <sup>[如东]</sup> 喜欢唱歌的男人。  
-1. 【[唱唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_chan_r.md#唱唱<sub>儿</sub>)】`chan5 chan5 r` <small>/t͡sʰɑŋ5 t͡sʰɑŋ5 ɚ/<sup>泰县</sup></small> ① 演唱有故事情节的小调。<sup>\[如东\]</sup>：他会～。<sup>\[如东\]</sup> ② 唱小调。<sup>\[泰县\]</sup>  
+1. 【[唱唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_chan_r.md#唱唱<sub>儿</sub>)】`chan5 chan5 r` <small>/t͡sʰɑŋ5 t͡sʰɑ˞5/<sup>泰兴</sup>, /t͡sʰɑŋ5 t͡sʰɑŋ5 ɚ/<sup>泰县</sup></small> ① 演唱有故事情节的小调。<sup>\[如东\]</sup>：他会～。<sup>\[如东\]</sup> ② 唱小调。<sup>\[泰县\]</sup> ③ 唱歌；唱书。<sup>\[泰兴\]</sup>  
 1. 【[唱对台戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_duei_tae_xi.md#唱对台戏)】`chan5 duei5 tae2 xi5` <sup>[如东]</sup> 两班艺人同时唱戏比高低，比喻采取对抗行动，反对或搞垮对方。  
 1. 【[唱对台戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_dy_tae_xi.md#唱对台戏)】`chan5 dy5 tae2 xi5` <sup>[东台]</sup> ［喻］公开和对方作对。  
 1. 【[唱反调](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_faen_dio.md#唱反调)】`chan5 faen3 dio5` ① ［喻］提出相反的主张<sup>\[东台\]</sup>：你不能老是同领导～。<sup>\[东台\]</sup> ② 比喻发表对立的言论或者采取对立的措施<sup>\[泰州\]</sup>：这个人品行差，身为副手从来不配合局长工作，块块同局长～。<sup>\[泰州\]</sup>｜大人说的话他从来不听，桩桩同你～。<sup>\[泰州\]</sup>  
@@ -685,7 +685,9 @@
 1. 【[唱三花脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_saen_hua_lin.md#唱三花脸)】`chan5 saen1 hua1 lin3` <sup>[泰县]</sup> 做和事佬。  
 1. 【[唱三花脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_saen_hua_lin.md#唱三花脸<sub>儿</sub>)】`chan5 saen1 hua1 lin3 r` <sup>[如东]</sup> 三花脸为京戏中的丑角。比喻装扮成和事佬，调解纠纷：他会～。  
 1. 【[唱书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shv.md#唱书)】`chan5 shv1` <sup>[如东]</sup> 一种欣赏小说的形式，民间有固定的曲调，一个人唱，许多人听。可以演唱整本书。  
+1. 【[唱书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shv.md#唱书)】`chan5 shv1` <small>/t͡sʰɑŋ5 su1/<sup>泰兴</sup></small> 以乐器伴奏，说唱故事。<sup>\[泰兴\]</sup>  
 1. 【[唱道情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_to_qien.md#唱道情)】`chan5 to6 qien2` <sup>[泰州]</sup> 演唱道情。  
+1. 【[唱道情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_to_qien.md#唱道情)】`chan5 to6 qien2` <small>/t͡sʰɑŋ5 tʰɔ1 t͡ɕʰiŋ2/<sup>泰兴</sup></small> 民间说唱艺术的一种形式。用渔鼓和简板为伴奏乐器，一般以唱为主，以说为辅。<sup>\[泰兴\]</sup>  
 1. 【[唱独脚戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_toh_jiah_xi.md#唱独脚戏)】`chan5 toh8 jiah7 xi5` <sup>[东台]</sup> ［喻］一个人独自做某事。  
 1. 【[唱小戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xio_xi.md#唱小戏)】`chan5 xio3 xi5` <sup>[泰县]</sup> 指除京剧外的其他地方剧种。  
 1. 【[唱主角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhv_gah.md#唱主角)】`chan5 zhv3 gah7` <sup>[东台]</sup> ［喻］担负主要任务或起主导作用：这个课题由你来～。  

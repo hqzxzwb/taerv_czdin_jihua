@@ -335,6 +335,7 @@
 1. 【[啃骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_gueh_teu.md#啃骨头)】`ken3 gueh7 teu` <sup>[东台]</sup> ［喻］指所剩无几，只能收获一些不值钱的东西。  
 1. 【[啃脚筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_jiah_jien.md#啃脚筋)】`ken3 jiah7 jien1` <sup>[泰县]</sup> 无法可想。  
 1. 【[啃青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_qien.md#啃青)】`ken3 qien1` <sup>[兴化]</sup> ① 庄稼尚未成熟时就收下来吃。 ② 牲畜吃青苗：他把牛放吖人家田边上～。  
+1. 【[啃秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_qieu.md#啃秋)】`ken3 qieu1` <small>/kʰəŋ3 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 民俗。立秋预示着夏天过去，秋天到来。是日有“啃秋”一俗，即啃吃西瓜，谓可啃去余夏暑气，啃下“秋老虎”，迎接凉爽的秋季。<sup>\[泰兴\]</sup>  
 1. 【[啃碗边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_un_bin_zz.md#啃碗边子)】`ken3 un3 bin1 zz` <sup>[泰县]</sup> 出卖劳力，遭人嘲笑的话。  
 1. 【[恳情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken_qien.md#恳情)】`ken3 qien2` <sup>[兴化]</sup> 求情：儿子在外闯祸，老子到处～，求人家原谅。｜他深知太公替奸夫～，暗中也替他女儿～。（扬二《探奸遭陷》）  
 1. 【[肯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ken.md#肯)】`ken3` <small>/kʰən3/<sup>兴化</sup>, /kʰəŋ3/<sup>如皋</sup>, /kʰəŋ3/<sup>泰兴</sup>, /kʰəŋ3/<sup>泰县</sup></small> ① 愿意：他不～去远的落头上班。/他不愿意去远的地方上班。 ② 表示容易发生或者经常发生某动作：买木头勺儿，木头的不～坏，不像瓷的～坏。/买木头勺子，木头的不容易坏，不像瓷的容易坏。｜病不～好。/病很难好。 ③ 愿意。<sup>\[如东\]</sup>：不～。<sup>\[如东\]</sup> ④ 容易<sup>\[如皋\]</sup><sup>\[东台\]</sup>：汽油～着火。<sup>\[如皋\]</sup>｜柳树最～长。<sup>\[东台\]</sup> ⑤ 表示同意<sup>\[东台\]</sup>：他～签字。<sup>\[东台\]</sup> ⑥ 表示应允，同意。<sup>\[泰兴\]</sup>  
