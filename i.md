@@ -1887,7 +1887,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#□)】`in3` <sup>[泰州]</sup> 语气词，表示突然发现某个情况或者想起某件事情，带有提醒意味：～，前头走的那个人像是你家主任，他来做甚的？｜～，下午的会哿是在三楼开啊？  
 1. 【[偃柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_boh.md#偃柏)】`in3 boh7` <sup>[如东]</sup> 灌木，匍匐，小枝上伸成密丛状，剌叶通常交叉对生，排列较紧密，略斜展。球果，带蓝色。耐寒性强，能耐瘠土。可作盆景观赏。  
 1. 【[偃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi.md#偃气)】`in3 qi5` <sup>[如皋]</sup> 停止呼吸，死了。  
-1. 【[偃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#偃子)】`in3 zz` <small>/ĩ3 t͡sɿ/<sup>如皋</sup></small> ① 指不善应变一味强硬，而吃亏的人：～硬似铁，光棍软似棉；打～，吓相富。<sup>\[如皋\]</sup> ② 见“硬头”。<sup>\[如皋\]</sup>  
+1. 【[偃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#偃子)】`in3 zz` <small>/ĩ3 t͡sɿ/<sup>如皋</sup></small> 指不善应变一味强硬，而吃亏的人。另见“硬头”。<sup>\[如皋\]</sup>：～硬似铁，光棍软似棉<sup>\[如皋\]</sup>｜打～，吓相富。<sup>\[如皋\]</sup>  
 1. 【[匽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#匽)】`in3` <small>/iɪ̃3/<sup>兴化</sup>, /ĩ3/<sup>如皋</sup>, /iɪ̃3/<sup>泰县</sup></small> 躲藏、隐蔽<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他～吖门后头。<sup>\[如皋\]</sup>｜往门后头一～。<sup>\[东台\]</sup>｜他朝巷子里一～。<sup>\[兴化\]</sup>｜民警敲门，赌场上的人急忙朝房间里～。<sup>\[兴化\]</sup>｜～吖在墙背后。<sup>\[泰县\]</sup>  
 1. 【[匽面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_min.md#匽面)】`in3 min6` <sup>[如皋]</sup> 隐蔽，不引人注目，不张扬。  
 1. 【[厣脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qi_r.md#厣脐<sub>儿</sub>)】`in3 qi2 r` <sup>[如东]</sup> 蟹腹下面呈三角形的薄壳，也称厣。这是退化了的尾巴。  

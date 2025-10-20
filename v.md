@@ -324,7 +324,7 @@
 1. 【[护疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ten.md#护疼)】`v6 ten2` <small>/ʋ1 tʰəŋ2/<sup>泰兴</sup></small> 保护疼痛处，怕疼。<sup>\[泰兴\]</sup>  
 1. 【[护脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zan.md#护脏)】`v6 zan1` <sup>[如皋]</sup> ① 挡住脏：定被单头～。 ② 掩盖污斑：白衣裳不～。  
 1. 【[瓠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v.md#瓠)】`v6` <sup>[兴化]</sup> 一年生草本植物，果实细长圆筒形，表皮淡青色，俗称“一条”。也称“～子”。“瓠”一读hv6（户）。  
-1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /ʋ1 t͡sɿ/<sup>泰兴</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 葫芦的一种，果实像雅梨，大可十多斤，老熟后剖开做瓢儿。<sup>\[如皋\]</sup> ② 一年生草本植物，茎蔓生，花白色，果实细长，圆筒形，表皮淡绿色，一种蔬菜。<sup>\[东台\]</sup> ③ 葫芦。<sup>\[泰县\]</sup> ④ 不熟的西瓜。<sup>\[泰县\]</sup>\[兴化：（借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。\] ⑤ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup> ⑥ 瓠瓜。瓜瓠茄子，泛指各种蔬菜。<sup>\[泰兴\]</sup>  
+1. 【[瓠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_zz.md#瓠子)】`v6 zz` <small>/u6 t͡sɿ/<sup>兴化</sup>, /ʋu1 t͡sɿ/<sup>如皋</sup>, /ʋ1 t͡sɿ/<sup>泰兴</sup>, /u1 t͡se/<sup>泰县</sup></small> ① 瓠瓜，葫芦的一种<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup> ② 不熟的西瓜。<sup>\[泰县\]</sup>\[兴化：（借）未成熟而采摘的西瓜，瓤及子种呈暗白色，肉板而无味。\] ③ 头脑不清、糊里糊涂的人。<sup>\[泰县\]</sup>  
 1. 【[雾水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shuei.md#雾水)】`v6 shuei3` <sup>[兴化]</sup> ① 雾中悬浮的小水滴。 ② （喻）由于迷茫而模糊不清：这件事情真复杂，弄得我一头的～。  
 1. 【[哇里哇拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lii_va_la.md#哇里哇拉)】`va1 lii va1 la1` <small>/uɑ1 ləɪ uɑ1 lɑ1/<sup>泰兴</sup></small> 形容吵嚷声和说话声。<sup>\[泰兴\]</sup>  
 1. 【[哇污骨叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_gueh_ji.md#哇污骨叽)】`va1 v gueh7 ji1` <sup>[东台]</sup> 令人作呕的感觉。  
@@ -831,8 +831,8 @@
 1. 【[望起爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qi_pa.md#望起爬)】`van6 qi pa2` <sup>[如皋]</sup> 由卧、伏、坐、跪等开始爬起来。  
 1. 【[望前抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qin_cho.md#望前抄)】`van6 qin2 cho1` <sup>[如皋]</sup> 向前翘起：他的下齿包上齿，下巴～。  
 1. 【[望上抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shan_cho.md#望上抄)】`van6 shan6 cho1` <sup>[如皋]</sup> 向上翘起：他的帽叶子～。  
+1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <sup>[如东]</sup> 希望：这趟生意可能有～。  
 1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <sup>[兴化]</sup> 指望、盼头：她儿子考上大学，往后日子有～啊。  
-1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu2` <sup>[如东]</sup> 希望：这趟生意可能有～。  
 1. 【[望天收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tin_sheu.md#望天收)】`van6 tin1 sheu1` ① 种田人只种不管，收多收少，全由老天爷做主。<sup>\[东台\]</sup> ② 播种以后不进行任何田间管理，如果风调雨顺，收成就会好些，否则就不太好乃至绝收<sup>\[泰州\]</sup>：哿有一家像你种田不追肥、不薅草的，全靠～，秋后怎吖得有个好收成？<sup>\[泰州\]</sup>  
 1. 【[望外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_vae.md#望外)】`van6 vae6` <sup>[如皋]</sup> 以外：他有三十岁开外。  
 1. 【[望想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_xian.md#望想)】`van6 xian3` <sup>[兴化]</sup> 指望：等到今朝没通知来，录取怕没得～吖。  

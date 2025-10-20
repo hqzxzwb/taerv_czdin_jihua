@@ -1845,7 +1845,7 @@
 1. 【[雪等伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_den_pun.md#雪等伴)】`xiuh7 den3 pun6` <small>/ɕyʊʔ7 təŋ3 pʰʊ̃1/<sup>如皋</sup>, /ɕiʔ7 təŋ3 pʰʊ̃1/<sup>泰兴</sup></small> 积雪不化，天色阴沉，预示将再下雪。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[雪光雪亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_guan_xiuh_lian.md#雪光雪亮)】`xiuh7 guan1 xiuh7 lian6` <sup>[如东]</sup> 光滑而明亮：菜刀磨得～的。  
 1. 【[雪姑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_gv.md#雪姑)】`xiuh7 gv1` <sup>[如皋]</sup> 白鹡鸰。  
-1. 【[雪花膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_go.md#雪花膏)】`xiuh7 hua1 go1` <small>/ɕiʔ7 xuɑ1 kɔ1/<sup>泰兴</sup></small> ① 保护面部皮肤的脂肪。<sup>\[如东\]</sup> ② 一种滋润皮肤的护肤品，主要原料为硬脂酸、碱、水和香精，白如雪花。<sup>\[泰州\]</sup> ③ 一种化妆品，可滋润皮肤。<sup>\[泰兴\]</sup>  
+1. 【[雪花膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_go.md#雪花膏)】`xiuh7 hua1 go1` <small>/ɕiʔ7 xuɑ1 kɔ1/<sup>泰兴</sup></small> 一种护肤品<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[雪花落在地上——一声不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_lah_cae.md#雪花落在地上——一声不响)】`xiuh7 hua1 lah8 cae6 ti6 shan ieh7 shen1 beh7 xian3` <sup>[东台]</sup>   
 1. 【[雪花乳糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_rv_tan.md#雪花乳糖)】`xiuh7 hua1 rv3 tan2` <sup>[如皋]</sup> 一种软糖，无牙者能吃。系用石花菜熬胶，加蔗糖、香精做成。  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li hon2` <sup>[东台]</sup> 芥菜的变种，是冬令普通的蔬菜，一般腌后食用。  
