@@ -1346,7 +1346,7 @@
 1. 【[引蛇出洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sha_chueh_ton.md#引蛇出洞)】`ien3 sha2 chueh7 ton6` <sup>[东台]</sup> ［喻］运用计谋诱使坏人进行活动，使之暴露。  
 1. 【[引示](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引示)】`ien3 shr5` 炫耀，以激发别人的嫉妒心理。  
 1. 【[引事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shr.md#引事)】`ien3 shr6` <small>/iəŋ3 sɿ1/<sup>如皋</sup></small> ① 引起对方的某些欲望：你不要～，伢儿闹起来没处弄。<sup>\[如皋\]</sup> ② 由某事引起麻烦。<sup>\[东台\]</sup>  
-1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <small>/in3 ɕiɪ̃5/<sup>兴化</sup>, /iəŋ3 ɕĩ5/<sup>如皋</sup>, /iŋ3 ɕĩ5/<sup>泰兴</sup></small> ① 缝衣针。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 缝衣针<sup>\[兴化\]</sup>：穿针～。<sup>\[兴化\]</sup>  
+1. 【[引线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xin.md#引线)】`ien3 xin5` <small>/in3 ɕiɪ̃5/<sup>兴化</sup>, /iəŋ3 ɕĩ5/<sup>如皋</sup>, /iŋ3 ɕĩ5/<sup>泰兴</sup></small> 缝衣针。<sup>\[兴化\]</sup>\[如皋：又音in3 xin5\]\[泰兴：又音in3 xin5\]  
 1. 【[引子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#引子)】`ien3 zz` <small>/in3 t͡sɿ/<sup>兴化</sup>, /iŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 鱼饵<sup>\[兴化\]</sup>：钓鲫鱼拿河䘆做～。<sup>\[兴化\]</sup> ② 中医在处方末尾所加的药引，能加强药剂的效力。<sup>\[泰兴\]</sup>  
 1. 【[影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#影)】`ien3` <small>/in3/<sup>兴化</sup>, /iəŋ3/<sup>如皋</sup></small> ① 闪现<sup>\[如皋\]</sup>：好像看见有个人一～的下子，进吖巷子。<sup>\[如皋\]</sup> ② 隐藏、遮蔽<sup>\[兴化\]</sup>：那妇人见有人来，～在丫头背后往下就走（《梼杌闲评》十二）<sup>\[兴化\]</sup>  
 1. 【[影壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_bieh.md#影壁)】`ien3 bieh7` <sup>[泰县]</sup> 大门对面的一堵墙。  
