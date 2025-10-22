@@ -2100,8 +2100,8 @@
 1. 【[容者不](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh.md#容者不)】`ion2 zhae3 beh7` <sup>[如皋]</sup> 难得，不经常、好不容易：他～来。  
 1. 【[容者……不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhae_beh_do.md#容者……不到)】`ion2 zhae3 beh7 do5` <sup>[如皋]</sup> 难以得到：容者吃不到、容者买不到。  
 1. 【[容仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zhan.md#容仗)】`ion2 zhan5` <sup>[东台]</sup> 对孩子或手下人的缺点错误放任不管：对小伙不能太～。  
-1. 【[荣业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ih.md#荣业)】`ion2 ih8` <small>/iɔŋ2 iʔ8/<sup>泰兴</sup></small> 工作；行当<sup>\[泰兴\]</sup>：要找个～做做<sup>\[泰兴\]</sup>  
 1. 【[荣辱不觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_roh_beh_gah.md#荣辱不觉)】`ion2 roh8 beh7 gah7` <sup>[东台]</sup> 办事缺乏道德标准，对什么是光荣，什么是耻辱弄不清。  
+1. 【[营业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ih.md#营业)】`ion2 ih8` <small>/iɔŋ2 iʔ8/<sup>泰兴</sup></small> 工作；行当<sup>\[泰兴\]</sup>：要找个～做做<sup>\[泰兴\]</sup>  
 1. 【[融冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_don.md#融冻)】`ion2 don5` ① 冰雪融化 ② 化冰。<sup>\[如东\]</sup>  
 1. 【[融泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ni.md#融泥)】`ion2 ni2` <sup>[如东]</sup> ① 河塘淤积的烂泥。 ② 烂泥。  
 1. 【[雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ji.md#雄鸡)】`ion2 ji1` <small>/ioŋ2 t͡sɿ1/<sup>泰县</sup></small> ① 雄鸡，公鸡 ② 公鸡。<sup>\[东台\]</sup> ③ 雄鸡。<sup>\[泰县\]</sup>  
