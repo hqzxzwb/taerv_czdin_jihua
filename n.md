@@ -154,7 +154,7 @@
 1. 【[捺住性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_chv_xien_zz.md#捺住性子)】`naeh8 chv xien5 zz` <sup>[泰州]</sup> 努力控制住心中升起的怒火：他这些话太过分！我～不曾同他发火。  
 1. 【[捺䬣𩟐/疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_daeh.md#捺䬣𩟐/疙瘩)】`naeh8 geh7 daeh7` <sup>[泰州]</sup> 制作䬣𩟐，将厚糊状面团用勺子或者筷子披开拨堕入滚水之中，煮熟即成。  
 1. 【[捺䬣饤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_geh_dien_r.md#捺䬣饤<sub>儿</sub>)】`naeh8 geh7 dien1 r` <sup>[如皋]</sup> 在糊糊面里捺进面䬣饤儿。  
-1. 【[捺脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_lu_ien.md#捺脶印)】`naeh8 lu3 ien5` <small>/næʔ8 lɤɯ3 iŋ5/<sup>泰兴</sup></small> 按手印。<sup>\[泰兴\]</sup>  
+1. 【[捺脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_lu_ien.md#捺脶印)】`naeh8 lu2 ien5` <small>/næʔ8 lɤɯ2 iŋ5/<sup>泰兴</sup></small> 按手印。<sup>\[泰兴\]</sup>  
 1. 【[捺捺馋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_naeh_shaen.md#捺捺馋)】`naeh8 naeh8 shaen2` <sup>[东台]</sup> 这里捺，即忍耐。指只能稍微解一下食欲，不能尽兴：过去只有过年才弄点儿肉～。  
 1. 【[捺性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_xien_zz.md#捺性子)】`naeh8 xien5 zz` <sup>[兴化]</sup> 抑制性情，耐下心来：当幼儿教师先要～。｜做老年人的工作要捺下性子来。  
 1. 【[捺鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_y_r.md#捺鱼<sub>儿</sub>)】`naeh8 y2 r` <sup>[东台]</sup> 见“面鱼儿”。  
@@ -1339,7 +1339,7 @@
 1. 【[娘儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_er.md#娘儿)】`nian2 er` <sup>[如皋]</sup> 母与子（女）间：～底下、～里头、～两个。  
 1. 【[娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ga.md#娘家)】`nian2 ga` <sup>[兴化]</sup> 事情的来龙去脉：他只是含糊其辞，半天交不出个～来。  
 1. 【[娘家人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ga_ren.md#娘家人)】`nian2 ga1 ren2` <sup>[如东]</sup> 当事人出生家庭的长辈、同辈和晚辈，包括主要亲属。  
-1. 【[娘有爷有，不抵自有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ieu_ia_ieu.md#娘有爷有，不抵自有)】`nian2 ieu3 ia3 ieu3 beh7 di3 sz6 ieu3` <small>/niɑŋ2 iɤɯ3 iɑ3 iɤɯ3 pəʔ7 t͡ɕʝ3 sɿ1 iɤɯ3/<sup>泰兴</sup></small> 谓不管别人有多少，不抵自己有更好。<sup>\[泰兴\]</sup>  
+1. 【[娘有爷有，不抵自有](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_ieu_ia_ieu.md#娘有爷有，不抵自有)】`nian2 ieu3 ia2 ieu3 beh7 di3 sz6 ieu3` <small>/niɑŋ2 iɤɯ3 iɑ2 iɤɯ3 pəʔ7 t͡ɕʝ3 sɿ1 iɤɯ3/<sup>泰兴</sup></small> 谓不管别人有多少，不抵自己有更好。<sup>\[泰兴\]</sup>  
 1. 【[娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_jia.md#娘家)】`nian2 jia1` <sup>[东台]</sup> 女子出嫁后对出嫁前家庭的称呼。  
 1. 【[娘里㗘地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lii_pah_ti.md#娘里㗘地)】`nian2 lii pah7 ti6` <sup>[兴化]</sup> 说话时嘴里带脏字：他动不动就～的骂人。  
 1. 【[娘老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_lo_zz.md#娘老子)】`nian2 lo3 zz` <small>/liaŋ2 lɔ3 t͡sɿ/<sup>兴化</sup>, /niã2 lɔ3 t͡sɿ/<sup>如皋</sup></small> ① 父母。<sup>\[如皋\]</sup> ② 对父母的通称。<sup>\[如东\]</sup>：这吖伤心，好像死啊～样的。<sup>\[如东\]</sup> ③ 父母。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他一见～不在家就调皮。<sup>\[兴化\]</sup>｜几门功课不及格，他家～也不问吖？<sup>\[泰州\]</sup>  
