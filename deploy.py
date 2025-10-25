@@ -91,6 +91,7 @@ def strip_tio(ien):
 
 def check_path(path, mixed, word):
     """检查词语的文件名是否正确"""
+    path = path.replace('ｃ', 'c')
     computed_path1 = "_".join([strip_tio(ien) for cz, ien, *_ in mixed if ien]) + ".md"
     if path.endswith(computed_path1):
         return
