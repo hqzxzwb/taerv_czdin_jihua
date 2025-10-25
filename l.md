@@ -2144,7 +2144,7 @@
 1. 【[聋聋𦗭𦗭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_lon_pon_pon.md#聋聋𦗭𦗭)】`lon2 lon2 pon6 pon6` <sup>[兴化]</sup> 形容耳聋听不清声音的情态。  
 1. 【[聋𦗭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_pon.md#聋𦗭)】`lon2 pon6` <sup>[兴化]</sup> 形容耳聋听不清声音的情态。‖生动形式为“聋聋𦗭𦗭”“聋里𦗭地”。  
 1. 【[聋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#聋子)】`lon2 zz` <sup>[如东]</sup> 失去听觉的人。  
-1. 【[聋子不怕响大雷，瞎子不怕刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_beh_pa.md#聋子不怕响大雷，瞎子不怕刟人牛)】`lon2 zz beh7 pa5 xian3 da5 lei2 haeh7 zz beh7 pa5 dio1 ren ngeu2` <small>/lɔŋ2 t͡sɿ pəʔ7 pʰɑ5 ɕiɑŋ3 tɑ5 ləɪ2 xæʔ7 t͡sɿ pəʔ7 pʰɑ5 tiɔ1 ɻəŋ ŋəɪ2/<sup>泰兴</sup></small> 乡谚。谓反正就是这回事，什么都不害怕。<sup>\[泰兴\]</sup>  
+1. 【[聋子不怕响大雷，瞎子不怕刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_beh_pa.md#聋子不怕响大雷，瞎子不怕刟人牛)】`lon2 zz beh7 pa5 xian3 da5 luei2 haeh7 zz beh7 pa5 dio1 ren ngeu2` <small>/lɔŋ2 t͡sɿ pəʔ7 pʰɑ5 ɕiɑŋ3 tɑ5 ləɪ2 xæʔ7 t͡sɿ pəʔ7 pʰɑ5 tiɔ1 ɻəŋ ŋəɪ2/<sup>泰兴</sup></small> 乡谚。谓反正就是这回事，什么都不害怕。<sup>\[泰兴\]</sup>  
 1. 【[聋子的耳朵——摆设](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_dii_er.md#聋子的耳朵——摆设)】`lon2 zz dii er3 du bae3 shih7` <sup>[东台]</sup>   
 1. 【[聋子的耳朵，牌子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_dii_er.md#聋子的耳朵，牌子账)】`lon2 zz dii er3 du pae2 zz zhan5` <small>/lɔŋ2 t͡sɿ təɪ ɚ3 tɤɯ pʰɛ2 t͡sɿ t͡sɑŋ5/<sup>泰兴</sup></small> 歇后语。谓装装样子，没有实际作用。<sup>\[泰兴\]</sup>  
 1. 【[聋子耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_er_du.md#聋子耳朵)】`lon2 zz er3 du` <sup>[兴化]</sup> 意为徒有其表。歇后语：～——摆设。  

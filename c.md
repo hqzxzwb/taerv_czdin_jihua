@@ -2103,7 +2103,7 @@
 1. 【[葱果<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r_pieh.md#葱果<sub>儿</sub>鼻子)】`con1 gu3 r pieh8 zz` <sup>[如皋]</sup> 俊美若葱头的鼻子。  
 1. 【[葱油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_ieu.md#葱油)】`con1 ieu2` <sup>[如皋]</sup> 馅料品名。用葱花儿加荤（素）油和盐制成，味香。常用以做～卷儿、～饼、～烧饼。  
 1. 【[葱油烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_ieu_sho_bien.md#葱油烧饼)】`con1 ieu2 sho1 bien` <sup>[泰州]</sup> 最常见的烧饼品种之一，馅儿用葱花、猪油渣制成。  
-1. 【[从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con.md#从)】`con2` <sup>[兴化]</sup> 以某为师、师从：“……汤父母……细细问他～的先生是哪个……”（《儒林外史》四）｜洛钟两个儿子，都已上学，却好～的先生便是自家的舅舅……（《广陵潮》三）  
+1. 【[从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ｃon.md#从)】`con2` <sup>[兴化]</sup> 以某为师、师从：“……汤父母……细细问他～的先生是哪个……”（《儒林外史》四）｜洛钟两个儿子，都已上学，却好～的先生便是自家的舅舅……（《广陵潮》三）  
 1. 【[从头到尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_teu_do_vei.md#从头到尾)】`con2 teu2 do5 vei3` <sup>[兴化]</sup> 由始至终：这件事～我都参加的。｜“黄飞虎这一遍言语，～，细细说完”（《封神演义》二七）  
 1. 【[从先](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xin.md#从先)】`con2 xin1` <small>/t͡sʰoŋ2 ɕiɪ̃1/<sup>兴化</sup>, /t͡sʰɔŋ2 ɕĩ1/<sup>如皋</sup>, /t͡sʰɔŋ2 ɕĩ1/<sup>泰兴</sup></small> 很久以前，从前，过去<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他～是个小标品。<sup>\[东台\]</sup>｜我～在乡下教学。<sup>\[兴化\]</sup>  
 1. 【[从小一看，到老一半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_xio_ieh_kun.md#从小一看，到老一半)】`con2 xio3 ieh7 kun5 do5 lo3 ieh7 bun5` <sup>[东台]</sup> 一个人小时候就能初步看出是不是个苗子。  
