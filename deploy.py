@@ -66,11 +66,28 @@ FILTERED_OUT_IEN = {
 
 def write_config():
     """生成主题文件_config.yml"""
-    os.system("""rm docs/*.yml docs/*.md; mkdir -p docs; cat > docs/_config.yml <<EOF
-theme: jekyll-theme-cayman
-title: 泰如辞典
-description: `TZ="Asia/Shanghai" date +"%Y年%m月%d号%H点"`更新
-EOF""")
+    # Remove docs/*.yml and docs/*.md if they exist, create docs dir, and write _config.yml
+    docs_dir = "docs"
+    for pattern in ("*.yml", "*.md"):
+        for fp in glob.glob(os.path.join(docs_dir, pattern)):
+            os.remove(fp)
+
+    # ensure docs dir exists
+    os.makedirs(docs_dir, exist_ok=True)
+
+    # construct timestamp in Asia/Shanghai
+    from zoneinfo import ZoneInfo
+    from datetime import datetime
+    tz = ZoneInfo("Asia/Shanghai")
+    now = datetime.now(tz)
+
+    timestamp = now.strftime("%Y年%m月%d号%H点")
+
+    cfg_path = os.path.join(docs_dir, "_config.yml")
+    with open(cfg_path, "w", encoding="utf-8") as f:
+        f.write("theme: jekyll-theme-cayman\n")
+        f.write("title: 泰如辞典\n")
+        f.write(f"description: {timestamp}更新\n")
 
 def letter_index(dirs, out):
     """音序"""
@@ -245,7 +262,7 @@ def write_index(dirs, examples):
     """生成主页"""
     lines = []
     letter_index(dirs, lines)
-    f = open("docs/index.md", "w", encoding="U8")
+    f = open(os.path.join("docs", "index.md"), "w", encoding="U8")
     f.writelines(lines)
     f.writelines(examples)
 
@@ -311,7 +328,7 @@ def write_page(dirs, path, sample_out, cz_ien):
     letter_index(dirs, lines)
     lines.append("## %s\n" % path.upper())
     conts = []
-    for fname in glob.glob(path+"/*.md"):
+    for fname in glob.glob(os.path.join(path, "*.md")):
         file_content = open(fname,encoding="U8").read()
         file_content = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", file_content) # 移除注释
         for cont in re.split(r"(?:\r?\n){2,}", file_content):
@@ -391,7 +408,7 @@ def write_page(dirs, path, sample_out, cz_ien):
         if count <= 20:
             sample_out.append(out)
     lines.append("**[▲](#音序检索)**  \n")
-    open("docs/%s.md"%path, "w", encoding="U8").writelines(lines)
+    open(os.path.join("docs", "%s.md"%path), "w", encoding="U8").writelines(lines)
 
 def shrink_source(source):
     return re.sub(r'(方言词典|方言志|方言辞典)\d?$', '', source)
@@ -431,13 +448,13 @@ def meaning_text_spec1(meaning):
     return str
 
 def cp_pics(path):
-    for fname in glob.glob(path+"/*.png"):
-        shutil.copyfile(fname, "docs/"+os.path.basename(fname))
+    for fname in glob.glob(os.path.join(path, "*.png")):
+        shutil.copyfile(fname, os.path.join("docs", os.path.basename(fname)))
 
 def walk_sources():
     out = []
     for path in string.ascii_lowercase:
-        for fname in glob.glob(path+"/*.md"):
+        for fname in glob.glob(os.path.join(path, "*.md")):
             out.append(fname)
     return out
 
