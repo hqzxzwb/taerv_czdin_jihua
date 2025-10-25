@@ -681,7 +681,7 @@
 1. 【[唱婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pu_r.md#唱婆<sub>儿</sub>)】`chan5 pu2 r` <sup>[如东]</sup> ① 唱戏卖艺的女人。 ② 比喻喜欢唱歌的女人。  
 1. 【[唱七字传<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_qieh_cz_chun.md#唱七字传<sub>儿</sub>)】`chan5 qieh7 cz6 chun6 r` <sup>[如东]</sup> 以七个字为一行的韵文小说。有故事情节，有人物。采用民间曲调演唱，生动感人。  
 1. 【[唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_r.md#唱<sub>儿</sub>)】`chan5 r` <small>/t͡sʰaŋ5 ɚ/<sup>兴化</sup></small> ① 民歌、小调儿、地方戏，如孟姜女哭长城等。<sup>\[如东\]</sup> ② 小调<sup>\[兴化\]</sup>：晚上乘凉，他拉二胡，几个姑娘跟吖唱～。<sup>\[兴化\]</sup> ③ 俗指歌曲。<sup>\[兴化\]</sup>  
-1. 【[唱喏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ra.md#唱喏)】`chan5 ra3` <sup>[东台]</sup> 作揖。在早期白话中表示一面作揖，一面出声致敬。现在是和磕头连在一起的动作。  
+1. 【[唱喏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ra.md#唱喏)】`chan5 ra3` <small>/t͡sʰɑʔ7 ɻɑ3/<sup>泰兴</sup></small> 作揖，是和磕头连在一起的动作。<sup>\[东台\]</sup>\[泰兴：旧时男子所行之礼，双手相合或相叉，表示致敬。\]  
 1. 【[唱三花脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_saen_hua_lin.md#唱三花脸)】`chan5 saen1 hua1 lin3` <sup>[泰县]</sup> 做和事佬。  
 1. 【[唱三花脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_saen_hua_lin.md#唱三花脸<sub>儿</sub>)】`chan5 saen1 hua1 lin3 r` <sup>[如东]</sup> 三花脸为京戏中的丑角。比喻装扮成和事佬，调解纠纷：他会～。  
 1. 【[唱书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shv.md#唱书)】`chan5 shv1` <sup>[如东]</sup> 一种欣赏小说的形式，民间有固定的曲调，一个人唱，许多人听。可以演唱整本书。  

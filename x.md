@@ -1990,14 +1990,14 @@
 1. 【[悉扁的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_bin_dii.md#悉扁的)】`xyeh7 bin3 dii` <sup>[如皋]</sup> 状很扁：钢种锅儿捱车子压得～。  
 1. 【[悉滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_huaeh.md#悉滑)】`xyeh7 huaeh8` <sup>[东台]</sup> “刮刮叫”：他把那件事处理得～，领导群众都满意。  
 1. 【[悉尖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_jin_dii.md#悉尖的)】`xyeh7 jin1 dii` <sup>[如皋]</sup> 笔尖的。  
+1. 【[悉白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh.md#悉白)】`xyeh7 poh8` <sup>[泰县]</sup> 很白。  
+1. 【[悉白的猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh_dii_mo.md#悉白的猫<sub>儿</sub>)】`xyeh7 poh8 dii mo2 r` <sup>[如皋]</sup> 喻纯洁无瑕的人。多用于辩解时。  
 1. 【[悉青的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_qien_dii.md#悉青的)】`xyeh7 qien1 dii` <sup>[如皋]</sup> ① 状皮下出血的青色：他的膝头盘儿跌得～。 ② 状生气时脸色铁青。  
 1. 【[悉淡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_taen_dii.md#悉淡的)】`xyeh7 taen6 dii` <sup>[如皋]</sup> ① 无味：青菜不曾放盐，～。 ② 形容味道过淡。  
 1. 【[悉紫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_zz_dii.md#悉紫的)】`xyeh7 zz3 dii` <sup>[如皋]</sup> 状全是紫色：高锰酸钾沖的水～。  
 1. 【[戌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#戌)】`xyeh7` <sup>[东台]</sup> 地支第十一位。  
 1. 【[蟋蟀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_shueh_r.md#蟋蟀<sub>儿</sub>)】`xyeh7 shueh7 r` <sup>[东台]</sup> 蟋蟀。又叫蛐蛐儿。口语音xyeh7 xyeh7 r。“蟋”受后字影响读撮口音。  
 1. 【[訹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#訹)】`xyeh7` <small>/ɕyəʔ7/<sup>兴化</sup>, /ɕyəʔ7/<sup>泰县</sup></small> ① 狡诈。<sup>\[如东\]</sup>：他说不要，是～你的。<sup>\[如东\]</sup> ② 巧言诱骗<sup>\[东台\]</sup>：他的～功大呢，草总能说咖竖起来。<sup>\[东台\]</sup> ③ 怂恿<sup>\[兴化\]</sup>：你不要～，再好玩的地方我也不想去。<sup>\[兴化\]</sup> ④ 连激带骗<sup>\[兴化\]</sup>：他左～右～的，到底把人家两幅字画弄到手啊。‖也说“魆𠵹”“魆功”。兴化词典作“噱”，反切不合。刘春龙小说《无意插柳》中有“王能玩起了噱功”句。<sup>\[兴化\]</sup> ⑤ 可笑、令人发笑<sup>\[兴化\]</sup>：他几句话把一屋的人～咖笑起来。兴化词典作“噱”，《说文·口部》噱，其虐切，大笑也。反切不合。<sup>\[兴化\]</sup> ⑥ 用隐讳的语言来引逗别人说话、做事。<sup>\[泰县\]</sup> ⑦ 引诱，花言巧语引诱别人做某事<sup>\[泰州\]</sup>：你不要听他～，他合适为甚的自己不买？<sup>\[泰州\]</sup>｜他耳朵根子软，掌不住人～，三～二～的，他就当做个真的唻。<sup>\[泰州\]</sup>  
-1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh.md#雪白)】`xyeh7 poh8` <sup>[泰县]</sup> 很白。  
-1. 【[雪白的猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_poh_dii_mo.md#雪白的猫<sub>儿</sub>)】`xyeh7 poh8 dii mo2 r` <sup>[如皋]</sup> 喻纯洁无瑕的人。多用于辩解时。  
 1. 【[魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#魆)】`xyeh7` <sup>[如皋]</sup> 行动诡谲：～来～去的；他把伢儿～咖出去耍子啊。  
 1. 【[魆而不正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_er_beh_zhen.md#魆而不正)】`xyeh7 er beh7 zhen5` <small>/ɕyəʔ7 ɚ pəʔ7 t͡səŋ5/<sup>如皋</sup>, /ɕyəʔ7 ɚ pəʔ7 t͡səŋ5/<sup>泰县</sup></small> ① 不正派、不正经，鬼头鬼脑的，不光明正大的样子。<sup>\[如皋\]</sup> ② 不走正道：这个人～的。<sup>\[泰县\]</sup>  
 1. 【[魆气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_qi.md#魆气)】`xyeh7 qi` <sup>[如皋]</sup> 褒指款式新颖：这套家俱～啷！  

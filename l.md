@@ -1064,6 +1064,7 @@
 1. 【[凉月子心里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_iuh_zz_xien.md#凉月子心里)】`lian2 iuh8 zz xien1 lii` <sup>[如皋]</sup> 月光下。  
 1. 【[凉快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuae.md#凉快)】`lian2 kuae5` ① 凉爽，舒适。<sup>\[如东\]</sup> ② 清凉爽快。<sup>\[东台\]</sup>  
 1. 【[凉柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_kuei.md#凉柜)】`lian2 kuei6` <sup>[泰县]</sup> 碗橱。  
+1. 【[凉凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_lian.md#凉凉)】`lian2 lian` <small>/liɑŋ2 liɑŋ/<sup>泰兴</sup></small> 乘凉；驱除热气。<sup>\[泰兴\]</sup>  
 1. 【[凉帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo.md#凉帽)】`lian2 mo` <small>/liɑŋ2 mɔ/<sup>泰兴</sup></small> 夏日遮阳避暑的帽子，多用小麦秸编成。<sup>\[泰兴\]</sup>  
 1. 【[凉帽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo.md#凉帽)】`lian2 mo6` <sup>[东台]</sup> 夏天戴的遮阳帽。  
 1. 【[凉帽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mo_r.md#凉帽<sub>儿</sub>)】`lian2 mo6 r` <sup>[如皋]</sup> 遮阳帽。  

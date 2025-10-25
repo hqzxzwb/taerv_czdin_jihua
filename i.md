@@ -1928,7 +1928,7 @@
 1. 【[验方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_fan.md#验方)】`in6 fan1` <sup>[东台]</sup> 临床经验证明有效的现成的药方。  
 1. 【[验墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_shan.md#验墒)】`in6 shan1` <sup>[东台]</sup> 检查或测定土壤的湿度。  
 1. 【[验细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi.md#验细)】`in6 xi5` <sup>[如皋]</sup> 仔细、细致。  
-1. 【[喓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#喓)】`io` <sup>[如皋]</sup> 叹词、语助词，多用于词中、词尾。  
+1. 【[喓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#喓)】`io` <small>/iɔ/<sup>如皋</sup>, /iɔ/<sup>泰兴</sup></small> ① 叹词、语助词，多用于词中、词尾。<sup>\[如皋\]</sup> ② 叹词。表示赞叹或惊讶。<sup>\[泰兴\]</sup>：～，多少人ngo！/哇，好多人啊！<sup>\[泰兴\]</sup>  
 1. 【[吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#吆)】`io1` <small>/iɔ1/<sup>兴化</sup>, /iɔ1/<sup>泰兴</sup>, /iɔ1/<sup>泰县</sup></small> 驱赶，驱逐<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：把鸭子～上岸来。<sup>\[如东\]</sup>｜～鸡打狗。<sup>\[东台\]</sup>｜“……我把鸭子～下来，你就赶……”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup>｜快把苍蝇～掉。<sup>\[泰县\]</sup>｜～猪子<sup>\[泰兴\]</sup>｜～鸡子<sup>\[泰兴\]</sup>｜你把鸡子都～进窠。<sup>\[泰州\]</sup>｜你把族咖门口看热闹的人～啊走。<sup>\[泰州\]</sup>｜你把人～啊操场上去。<sup>\[泰州\]</sup>  
 1. 【[吆而没音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_meh_ien.md#吆而没音)】`io1 er meh8 ien1` <sup>[东台]</sup> 办事不认真，心不在焉的样子。把事交给他，他～的，叫人不放心。也说“吆卖佯醒”。  
 1. 【[吆更](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gen.md#吆更)】`io1 gen1` <sup>[如皋]</sup> 更夫一边打更一边叫喊有关注意安全、防火、防盗的话。  
@@ -2012,7 +2012,7 @@
 1. 【[窑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qian.md#窑匠)】`io2 qian` <sup>[如皋]</sup> 烧窑师傅。  
 1. 【[窑上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shan.md#窑上)】`io2 shan` <sup>[如皋]</sup> 指窑或窑主。  
 1. 【[谣音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ien.md#谣音)】`io2 ien1` <sup>[东台]</sup> 谣言：不要轻信那些～！  
-1. 【[仸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#仸)】`io3` <small>/iɔ3/<sup>如皋</sup></small> ① 不正、不平、不顺：说～话，～里撇𧺕的。<sup>\[如皋\]</sup> ② ［同音］本指弯曲、瘦弱，东台话多指物体变了形（与翘同义）<sup>\[东台\]</sup>：这个盘子不平整，有点～<sup>\[东台\]</sup>｜自行车轮子捱撞～啊。<sup>\[东台\]</sup>  
+1. 【[仸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#仸)】`io3` <small>/iɔ3/<sup>如皋</sup></small> ① 不正、不平、不顺<sup>\[如皋\]</sup>：说～话，～里撇𧺕的。<sup>\[如皋\]</sup> ② 指物体变了形（与翘同义）<sup>\[东台\]</sup>：这个盘子不平整，有点～<sup>\[东台\]</sup>｜自行车轮子捱撞～啊。<sup>\[东台\]</sup>  
 1. 【[仸理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_li.md#仸理)】`io3 li3` <sup>[如皋]</sup> 歪理。  
 1. 【[仸里撇𧺕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_pih_shah.md#仸里撇𧺕的)】`io3 lii pih7 shah dii` <sup>[如皋]</sup> 见“仸”。  
 1. 【[仸七仸八的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qieh_io_baeh.md#仸七仸八的)】`io3 qieh7 io3 baeh7 dii` <sup>[如皋]</sup> 见“仸”。  
@@ -2021,7 +2021,7 @@
 1. 【[夭寿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_r.md#夭寿<sub>儿</sub>)】`io3 shr6 r` <sup>[如皋]</sup> 詈语。骂人短命、早天。  
 1. 【[杳势不咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_beh_hae.md#杳势不咍呆)】`io3 shr5 beh7 hae1 dae1` <sup>[兴化]</sup> 见“杳势咍呆”。  
 1. 【[杳势咍呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shr_hae_dae.md#杳势咍呆)】`io3 shr5 hae1 dae1` <sup>[兴化]</sup> 形容慢腾腾的：这块紧急集合，他～的，结果迟到啊。‖又说“杳势不咍呆”。  
-1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` ① 用勺儿将流汁取出来。<sup>\[如东\]</sup>：～汤。<sup>\[如东\]</sup> ② 用勺、瓢等取液体<sup>\[泰州\]</sup>：～两勺儿油。<sup>\[泰州\]</sup>｜到缸里～水。<sup>\[泰州\]</sup>  
+1. 【[舀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io.md#舀)】`io3` <small>/iɔ3/<sup>泰兴</sup></small> 用勺、瓢等取液体<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～汤。<sup>\[如东\]</sup>｜～两勺儿油。<sup>\[泰州\]</sup>｜到缸里～水。<sup>\[泰州\]</sup>  
 1. 【[舀粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_fen.md#舀粪)】`io3 fen5` <sup>[如皋]</sup> 用料勺舀取粪池中的粪肥料。  
 1. 【[舀油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ieu.md#舀油)】`io3 ieu2` <sup>[兴化]</sup> 戏指两口子逗嘴为戏：人家两口子～，你俫拉的甚的劝？  
 1. 【[舀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#舀子)】`io3 zz` ① 舀东西的工具 ② 海滩上像勺子一样圆形的水洼，渔民称为舀子。<sup>\[如东\]</sup>：我俫在北～里捞虾儿。<sup>\[如东\]</sup>  
