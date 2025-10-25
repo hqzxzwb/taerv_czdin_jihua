@@ -970,7 +970,7 @@
 1. 【[白蜡烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_laeh_zhoh.md#白蜡烛)】`poh8 laeh8 zhoh7` <sup>[如东]</sup> 石蜡溶化后浇铸而成，外表呈白色。用来照明。  
 1. 【[白兰花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_laen_hua.md#白兰花)】`poh8 laen2 hua1` <sup>[如东]</sup> 木兰科植物白兰花，常绿乔木。  
 1. 【[白鲢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lin.md#白鲢)】`poh8 lin2` <small>/pʰɔʔ8 liɪ̃2/<sup>兴化</sup>, /pʰɔʔ8 lĩ2/<sup>如皋</sup></small> ① 鲢。与“草鲢”相对。<sup>\[如皋\]</sup> ② 鲤科动物鲢鱼，也称粉鲢。<sup>\[如东\]</sup> ③ 鲢鱼的一种，呈银白色，为家鱼中规格较次者。<sup>\[兴化\]</sup>  
-1. 【[白䩍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lio.md#白䩍)】`poh8 lio` <sup>[兴化]</sup> 形容面色苍白无血色：他住院个把月，脸上都～啊。，《广韵·小韵》力小切｜“䩍䩍面白”。《越语肯綮录》｜“今越人谓神灭而白日白䩍䩍”。  
+1. 【[白䩍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lio.md#白䩍)】`poh8 lio` <sup>[兴化]</sup> 形容面色苍白无血色：他住院个把月，脸上都～啊。  
 1. 【[白䩍䩍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lio_lio.md#白䩍䩍)】`poh8 lio1 lio1` <sup>[泰县]</sup> 形容脸色苍白而无血色：这个人的脸～的。（《广韵·小韵》：“䩍，䩍䩍，面白”，力小切。）  
 1. 【[白𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lio.md#白𩻻)】`poh8 lio2` <sup>[东台]</sup> 白鲦。东台常见的食用鱼，体扁而长，鳞呈银白色。  
 1. 【[白□□的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_lo_lo_dii.md#白□□的)】`poh8 lo lo1 dii` <sup>[如皋]</sup> 色苍白。  

@@ -1489,8 +1489,7 @@
 1. 【[疮疤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_ba.md#疮疤)】`chuan1 ba1` ① 疮好了以后留下的疤。<sup>\[如东\]</sup>：不能好啊～忘吖痛。<sup>\[如东\]</sup> ② 创伤或溃疡愈后留下的疤痕。<sup>\[东台\]</sup> ③ ［喻］痛苦的经历<sup>\[东台\]</sup>：你好啊～忘吖疼，旧毛病又发咖啦？！<sup>\[东台\]</sup> ④ ［喻］缺点、毛病<sup>\[东台\]</sup>：他生怕别人戳自己的～。<sup>\[东台\]</sup>  
 1. 【[疮口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_keu.md#疮口)】`chuan1 keu3` <sup>[东台]</sup> 疮的破口。  
 1. 【[窗閍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_bon.md#窗閍)】`chuan1 bon1` <sup>[泰州]</sup> 窗户。  
-1. 【[窗封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_fon.md#窗封)】`chuan1 fon` <sup>[如东]</sup> 房屋墙壁或屋面上通风透光的装置，有方形、圆形、棱形等多种形状。也称窗户。  
-1. 【[窗封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_fon.md#窗封)】`chuan1 fon1` <sup>[如皋]</sup> 窗户。  
+1. 【[窗封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_fon.md#窗封)】`chuan1 fon1` <small>/t͡sʰuã1 fɔŋ1/<sup>如皋</sup></small> 窗户。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[窗槅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_geh_zz.md#窗槅子)】`chuan1 geh7 zz` <sup>[如皋]</sup> 内有许多小格子的老式木窗扇。  
 1. 【[窗檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_in.md#窗檐)】`chuan1 in2` <sup>[如东]</sup> 窗户上方遮挡雨水的建筑物。  
 1. 【[窗框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuan_kuan.md#窗框)】`chuan1 kuan1` <sup>[如东]</sup> 安置窗户的框子，称窗框。有木质和金属两种。  
