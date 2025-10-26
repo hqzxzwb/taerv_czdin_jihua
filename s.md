@@ -279,6 +279,7 @@
 1. 【[涎沫子味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_muh_zz_vei.md#涎沫子味)】`saen2 muh8 zz vei6` <sup>[如皋]</sup> 唾液干后的臭味。  
 1. 【[涎水直漓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei_cheh_la.md#涎水直漓)】`saen2 shuei cheh8 la2` <small>/ɕiɛ̃2 suəɪ t͡sʰəʔ8 lɑ2/<sup>泰兴</sup></small> 流口水不停。<sup>\[泰兴\]</sup>  
 1. 【[涎水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei.md#涎水)】`saen2 shuei3` <sup>[东台]</sup> 口水，较多的唾沫：咽～。  
+1. 【[涎水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shuei_r.md#涎水<sub>儿</sub>)】`saen2 shuei3 r` <sup>[泰县]</sup> 馋诞，口水。  
 1. 【[涎胎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r.md#涎胎<sub>儿</sub>)】`saen2 tae1 r` <sup>[如东]</sup> 口腔中汾泌唾液的腺体。  
 1. 【[涎胎<sub>儿</sub>破啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tae_r_pu.md#涎胎<sub>儿</sub>破啊)】`saen2 tae1 r pu5 a` <sup>[如东]</sup> 小儿唾液腺体发生异常，嘴里经常淌口水，称涎胎儿破了。  
 1. 【[涎唾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_tu.md#涎唾)】`saen2 tu5` 口水，人看到、想到美食或者闻到美味之后产生的口水。<sup>\[泰州\]</sup>  
@@ -706,7 +707,6 @@
 1. 【[馋猫<sub>儿</sub>鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r_pieh.md#馋猫<sub>儿</sub>鼻子尖)】`shaen2 mo2 r pieh8 zz jin1` <sup>[如皋]</sup> 趣言。指有了好吃的东西时，正好到来的人。  
 1. 【[馋挠挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_no_no.md#馋挠挠)】`shaen2 no2 no2` <sup>[泰州]</sup> 对食物极为渴望的样子：这细小伙望住个肉碗，～的，先弄两筷子把他尝啊子吧。  
 1. 【[馋婆娘磨冷𩚫，磨完吃了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_pu_nian_mu.md#馋婆娘磨冷𩚫，磨完吃了)】`shaen2 pu2 nian mu6 len3 zhen5，mu6 un2 qieh7 lio3` <sup>[如皋]</sup> 馋婆娘本来就馋，边磨边吃，磨完了，也吃光了。  
-1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_shuei_r.md#馋水<sub>儿</sub>)】`shaen2 shuei3 r` <sup>[泰县]</sup> 馋诞，口水。  
 1. 【[硕腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_ty.md#硕腿)】`shah7 ty3` <sup>[东台]</sup> 血丝虫病或者静脉曲张引起的下肢水肿。  
 1. 【[勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah.md#勺)】`shah8` <sup>[如皋]</sup> 较大舀具：铜～、汤～、挂～统称～子。与较小的“勺儿”相对。  
 1. 【[勺角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shah_gah_r.md#勺角<sub>儿</sub>)】`shah8 gah7 r` <sup>[如皋]</sup> 形状不正或不规则的小块零料。  
