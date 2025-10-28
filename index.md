@@ -483,7 +483,7 @@
 1. 【[爬根草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_gen_co.md#爬根草)】`pa2 gen1 co3` <sup>[如东]</sup> 多年生草本植物。茎蔓生，叶尖长，每节生根。花白色，很小。生长在田边、路旁，繁殖力强，防害农作物。  
 1. 【[爬高上梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_go_shan_ti.md#爬高上梯)】`pa2 go1 shan6 ti1` <small>/pʰa2 kɔ1 saŋ6 tʰəi1/<sup>兴化</sup></small> ① 爬上高处<sup>\[兴化\]</sup>：你太顽皮，动不动～的，跌下来覅哭。<sup>\[兴化\]</sup> ② 登梯攀到高处。<sup>\[泰州\]</sup> ③ 泛指登高作业<sup>\[泰州\]</sup>：他家老大在供电局工作，成天～，蛮危险的。<sup>\[泰州\]</sup>｜没得点儿～的本事，也不能在消防队里蹾吖。<sup>\[泰州\]</sup>  
 1. 【[爬蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_hae.md#爬蟹)】`pa2 hae3` 螃蟹  
-1. 【[爬窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ku.md#爬窠)】`pa2 ku1` <small>/pʰa2 kʰʊ1/<sup>如皋</sup></small> ① 牲畜交配。<sup>\[如皋\]</sup> ② 牲畜交配，叫做爬窠。<sup>\[如东\]</sup> ③ 牲口自行交配。<sup>\[东台\]</sup>  
+1. 【[爬窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_ku.md#爬窠)】`pa2 ku1` <small>/pʰa2 kʰʊ1/<sup>如皋</sup></small> ① 牲畜交配。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 牲口自行交配。<sup>\[东台\]</sup>  
 [更多...](./p.md)
 ## Q
 1. 【[㩻/攲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#㩻/攲)】`qi1` <small>/t͡ɕʰi6/<sup>兴化</sup></small> ① 倾斜不正<sup>\[泰州\]</sup>：这张橱子～啊一边，要在东边垫块板子就平吖唻。<sup>\[泰州\]</sup> ② 身体和其他物体（如墙壁）挨得过近，受空间束缚，不便伸直<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～住身子，不便操作。<sup>\[兴化\]</sup>｜楼上这个斜阁子上又小又矮，他个子大，身子～住啊唻，不好动。<sup>\[泰州\]</sup>｜这个三门冰箱太大，你家楼梯太狭，～住啊，搬不上去。<sup>\[泰州\]</sup>  
