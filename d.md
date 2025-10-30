@@ -1244,7 +1244,6 @@
 1. 【[当方土地当方灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_fan_tv_ti.md#当方土地当方灵)】`dan1 fan1 tv3 ti6 dan1 fan1 lien2` <small>/tɑŋ1 fɑŋ1 tʰu3 t͡ɕʰʝ1 tɑŋ1 fɑŋ1 liŋ2/<sup>泰兴</sup></small> 谓当地人在本地有人脉，说话办事有效果，能成功。<sup>\[泰兴\]</sup>  
 1. 【[当锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_gu.md#当锅)】`dan1 gu1` <small>/taŋ1 ko1/<sup>兴化</sup></small> 掌锅，负责烹制菜肴<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：她家老公在饭店里～。/她家老公在饭店里当厨师。<sup>\[兴化\]</sup>｜今朝我来～。<sup>\[兴化\]</sup>｜今朝中上请客，还是你来～。<sup>\[泰州\]</sup>  
 1. 【[当官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_gun.md#当官)】`dan1 gun1` <sup>[兴化]</sup> 公开的，经政府部门认可的：我开厂是～的，不是私设的。  
-1. 【[当隐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ien.md#当隐)】`dan1 ien3` <small>/tɑŋ1 iŋ3/<sup>泰兴</sup></small> 把别人当外行，当不识货的人，欺瞒他人。<sup>\[泰兴\]</sup>  
 1. 【[当家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia.md#当家)】`dan1 jia1` <sup>[如东]</sup> 主持家务：婆娘～。  
 1. 【[当家才觉柴米贵，养儿才知父母恩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia_cae_gah.md#当家才觉柴米贵，养儿才知父母恩)】`dan1 jia1 cae2 gah7 shae2 mi3 guei5 ian3 er2 cae2 zhr1 fv6 mu3 ngen1` <sup>[东台]</sup> 成家立业后对节俭、孝道才真正有切身感受。  
 1. 【[当家的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_jia_dii.md#当家的)】`dan1 jia1 dii` <sup>[如东]</sup> ① 寺庙里的方丈。 ② 家庭的主持人：～还是老爹。 ③ 妻子对丈夫的称谓：～出去啊。  
@@ -1295,6 +1294,7 @@
 1. 【[当坊土地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_fan_tv_ti.md#当坊土地)】`dan5 fan1 tv3 ti6` <sup>[兴化]</sup> ① 即本坊士地爷。“坊”为旧时城镇社区基层单位。 ② （喻）当地大小官员：谚曰：～当坊灵。  
 1. 【[当过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_gu.md#当过)】`dan5 gu5` <sup>[如东]</sup> 老早，很早：～就有啊。  
 1. 【[当鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_guei.md#当鬼)】`dan5 guei3` <sup>[如皋]</sup> 不信任：他拿我～，处处防我。  
+1. 【[当隐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ien.md#当隐)】`dan5 ien3` <small>/tɑŋ5 iŋ3/<sup>泰兴</sup></small> 把别人当外行，当不识货的人，欺瞒他人。<sup>\[泰兴\]</sup>  
 1. 【[当票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_pio.md#当票)】`dan5 pio5` <sup>[东台]</sup> 当铺所开的票据。  
 1. 【[当铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_pv.md#当铺)】`dan5 pv5` <sup>[东台]</sup> 专门收取抵押品而借款给人的店铺：为了给老人看病，他把宝贝都拿到～去当了。  
 1. 【[当人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dan_ren.md#当人)】`dan5 ren2` <small>/taŋ5 lən2/<sup>兴化</sup>, /tã5 ɻəŋ2/<sup>如皋</sup>, /tɑŋ5 ɻəŋ2/<sup>泰兴</sup></small> ① 尊重<sup>\[如皋\]</sup>：我拿你～的，你不要把自己不～！<sup>\[如皋\]</sup> ② 被信任、被瞧得起<sup>\[兴化\]</sup>：这个人偷吃扒拿的，人家不把他～。<sup>\[兴化\]</sup>｜“……（我）拿他～，托他办事，不料他竞其如此靠不住……”（《官场现形记》三六）<sup>\[兴化\]</sup> ③ 用对待“人”的方式来对待某人，不是采用对待牲畜物品的方式<sup>\[泰州\]</sup>：这个家伙根本不把工人～，中上管的一顿饭连猪食都不如。<sup>\[泰州\]</sup> ④ 用对待“好人”的方式来对待人，意思是信任<sup>\[泰州\]</sup>：领导把你～，你不弄好啊就对不起领导的信任。<sup>\[泰州\]</sup> ⑤ 用对待“相应地位的人”的方式来对待人，意思是尊重<sup>\[泰州\]</sup>：你不把底下的人～，底下的人怎吖得同你卖命。<sup>\[泰州\]</sup> ⑥ 给人以面子。<sup>\[泰兴\]</sup>：承蒙把我～<sup>\[泰兴\]</sup>  
