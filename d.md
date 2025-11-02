@@ -2676,6 +2676,6 @@
 1. 【[碓扶手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_fv_sheu_r.md#碓扶手<sub>儿</sub>)】`dy5 fv2 sheu3 r` <sup>[如皋]</sup> 悬于粱间的两根绳的下端系着的扁木，供踏碓人扶手用。  
 1. 【[碓架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_ga_zz.md#碓架子)】`dy5 ga5 zz` <sup>[如皋]</sup> 用桑木制，一对前脚矮，上端支撑碓身的轴；一对后脚高起，下方挖有碓塘，以便踏下碓尾。若为“走马碓”，其前后脚间的木料长而宽，供踏者双脚轮番踏动。  
 1. 【[碓嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_jy_r.md#碓嘴<sub>儿</sub>)】`dy5 jy3 r` <sup>[如皋]</sup> 碓身头部的短杵。  
-1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_qieu.md#碓臼)】`dy5 qieu6` <small>/ty5 t͡ɕʰyʊ1/<sup>如皋</sup></small> ① 一块花岗岩上凿出漏斗状深塘，埋于碓嘴儿正下方，臼口略低于地面。周围砖铺地呈正方形。<sup>\[如皋\]</sup> ② 舂稻谷和米粉的石具。<sup>\[东台\]</sup>  
+1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_qieu.md#碓臼)】`dy5 qieu6` <small>/ty5 t͡ɕʰyʊ̃1/<sup>如皋</sup></small> ① 一块花岗岩上凿出漏斗状深塘，埋于碓嘴儿正下方，臼口略低于地面。周围砖铺地呈正方形。<sup>\[如皋\]</sup> ② 舂稻谷和米粉的石具。<sup>\[东台\]</sup>  
 1. 【[碓身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dy_shen.md#碓身)】`dy5 shen1` <sup>[如皋]</sup> 用一段杂树干制成，头大尾小。碓头向下槙杵，称碓嘴儿，其下端装有铸铁件，称碓齿。碓尾向上的一面削成平面，供脚踏。支点为贯通腰部两侧的短木，近碓尾，支在碓架子的一对前脚上端的槽中。  
 **[▲](#音序检索)**  
