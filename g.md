@@ -98,7 +98,7 @@
 1. 【[㨟屎筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_shr_pa.md#㨟屎筢)】`gae1 shr3 pa2` <sup>[如东]</sup> 搅扒猪圈中猪屎的工具。有齿，有柄，形似爪筢。  
 1. 【[杚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#杚)】`gae1` <sup>[如东]</sup> 量谷物时用以刮平斗斛的工具。  
 1. 【[稭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#稭)】`gae1` 农作物秸秆：豆～  
-1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <small>/kɛ1 t͡sɿ/<sup>兴化</sup></small> ① 农作物脱粒后剩下的茎叶<sup>\[东台\]</sup>：～要还田，不能随意焚烧。<sup>\[东台\]</sup> ② 农作物脱粒后剩下的茎<sup>\[兴化\]</sup>：黄豆～；棉花～；芦秫～。<sup>\[兴化\]</sup>  
+1. 【[稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#稭子)】`gae1 zz` <small>/kɛ1 t͡sɿ/<sup>兴化</sup>, /kɛ1 t͡sɿ/<sup>泰兴</sup></small> ① 农作物脱粒后剩下的茎叶<sup>\[东台\]</sup>：～要还田，不能随意焚烧。<sup>\[东台\]</sup> ② 农作物脱粒后剩下的茎<sup>\[兴化\]</sup>：黄豆～；棉花～；芦秫～。<sup>\[兴化\]</sup> ③ 脱过粒的秕杆。乱草。<sup>\[泰兴\]</sup>：黄豆～<sup>\[泰兴\]</sup>  
 1. 【[街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#街)】`gae1` ① 街道 ② 两边有建筑物的大路<sup>\[东台\]</sup>：旧时东台城最繁华最热闹的莫过于中十字～、彩衣～、宁树～。<sup>\[东台\]</sup>  
 1. 【[街口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_keu.md#街口)】`gae1 keu3` <sup>[如皋]</sup> ① 街道旁：～的房子开店，里口的房子住家。 ② 街道交叉处、出入处：十字～、丁字～。  
 1. 【[街款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_kun.md#街款)】`gae1 kun3` <sup>[东台]</sup> 城里的样式。  
@@ -345,7 +345,7 @@
 1. 【[㧏肩膊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_jin_bah.md#㧏肩膊)】`gan1 jin1 bah` <sup>[如皋]</sup> ① 肩头抬起。 ② 高肩（缩头）畸型。  
 1. 【[刚刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gan.md#刚刚)】`gan1 gan1` <small>/kaŋ1 kaŋ1/<sup>兴化</sup></small> ① 正巧，恰好<sup>\[东台\]</sup>：酒瓶里剩的酒不多不少，～一杯。<sup>\[东台\]</sup> ② 不久以前<sup>\[东台\]</sup>：他～调来。<sup>\[东台\]</sup> ③ 刚才<sup>\[兴化\]</sup>：他～起来，还不曾吃早饭哎！<sup>\[兴化\]</sup>  
 1. 【[刚巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qio.md#刚巧)】`gan1 qio3` <sup>[如皋]</sup> 正好。  
-1. 【[江北骡子学马叫，学不起来惹人笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_boh_lu_zz.md#江北骡子学马叫，学不起来惹人笑)】`gan1 boh7 lu2 zz hah8 ma3 jio5 hah8 beh qi3 lae2 ra3 ren2 xio5` <small>/kɑŋ1 pɔʔ7 lɤɯ2 t͡sɿ xɑʔ8 mɑ3 t͡ɕiɔ5 xɑʔ8 pəʔ t͡ɕʰʝ3 lɛ2 ɻɑ3 ɻəŋ2 ɕiɔ5/<sup>泰兴</sup></small> 乡谚。谓不懂的不要装懂，以免出现笑话。<sup>\[泰兴\]</sup>  
+1. 【[江北驴子学马叫，学不起来惹人笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_boh_ly_zz.md#江北驴子学马叫，学不起来惹人笑)】`gan1 boh7 ly2 zz hah8 ma3 jio5 hah8 beh qi3 lae2 ra3 ren2 xio5` <small>/kɑŋ1 pɔʔ7 ləɪ2 t͡sɿ xɑʔ8 mɑ3 t͡ɕiɔ5 xɑʔ8 pəʔ t͡ɕʰʝ3 lɛ2 ɻɑ3 ɻəŋ2 ɕiɔ5/<sup>泰兴</sup></small> 乡谚。谓不懂的不要装懂，以免出现笑话。<sup>\[泰兴\]</sup>  
 1. 【[江芦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv.md#江芦)】`gan1 lv2, gan1 lv3` <sup>[如皋]</sup> 芦苇的一种，传统用其篾编制粪箕，即“江芦粪箕”，耐用。  
 1. 【[江芦柴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lv_shae.md#江芦柴)】`gan1 lv2 shae2` <sup>[兴化]</sup> 又称芦竹。一种株型较大的芦苇。  
 1. 【[纲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_zz.md#纲子)】`gan1 zz` <sup>[如东]</sup> 网口上的一根粗绳，叫纲子。简称纲。  

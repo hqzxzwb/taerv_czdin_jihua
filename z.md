@@ -1821,6 +1821,7 @@
 1. 【[注钮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nieu_zz.md#注钮子)】`zhv5 nieu3 zz` <small>/t͡su5 nəɪ3 t͡sɿ/<sup>泰兴</sup></small> 钉钮扣。<sup>\[泰兴\]</sup>  
 1. 【[疰夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xia.md#疰夏)】`zhv5 xia6` <small>/t͡su5 ɕia6/<sup>兴化</sup>, /t͡su5 ɕiɑ1/<sup>泰兴</sup>, /t͡su5 ɕia1/<sup>泰县</sup></small> 夏季身体不适<sup>\[泰县\]</sup>\[泰州：中医名词，健康的人进入夏季之时出现身倦、体热、食少、消瘦诸种症状\]\[如东：夏季长期发烧的病，中医称疰夏。症状是长期发烧，食欲不振消瘦口渴，多尿，皮肤干热天气愈热体温愈高。多由排汗机能发生障碍引起。\]\[兴化：指人在夏季食欲不振，身体消瘦的现象。\]\[东台：望夏天食欲不好，精神不振。\]\[泰兴：通常指夏季身倦、体热、厌食等症状。\]：这些时～，吃饭嘴里没得味。<sup>\[泰州\]</sup>  
 1. 【[著](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#著)】`zhv5` <sup>[如皋]</sup> 钉：在衣裳上～钮子。  
+1. 【[蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chon.md#蛀虫)】`zhv5 chon` <small>/t͡su5 t͡sʰɔŋ/<sup>泰兴</sup></small> 啃啮树木、衣服、书籍、谷物类的小虫。借指混入内部的腐蚀者、破坏者。<sup>\[泰兴\]</sup>  
 1. 【[蛀虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_chon.md#蛀虫)】`zhv5 chon2` <sup>[东台]</sup> 指专门吃衣物的小虫，引申为有贪污行为的人。  
 1. 【[蛀𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lan_dan_r.md#蛀𧚅裆<sub>儿</sub>)】`zhv5 lan3 dan1 r` <sup>[如皋]</sup> 蛀虫吐丝缠住蛀屑形成的长串。  
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <small>/t͡su5 mɔ2 ɕyũ3/<sup>兴化</sup>, /t͡su5 mɔ2 ɕyʊ̃3/<sup>如皋</sup></small> ① 头癣，有银屑，可致秃发。<sup>\[如皋\]</sup> ② 秃疮。<sup>\[兴化\]</sup>  

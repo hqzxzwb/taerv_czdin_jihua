@@ -543,7 +543,7 @@
 1. 【[弯杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gan.md#弯杠)】`vaen1 gan5` <sup>[如皋]</sup> ① 自行车等的有弯子的车杠。 ② 木桌椅上的有弯度的横木料。见“驮梁𣑁儿”。  
 1. 【[弯疆弯赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jian_vaen_dv.md#弯疆弯赌)】`vaen1 jian1 vaen1 dv3` <sup>[东台]</sup> ［喻］在认可某种条件或游戏规则不健全的情况下，开展竞争，尽量公正合理。  
 1. 【[弯疆弯算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jian_vaen_sun.md#弯疆弯算)】`vaen1 jian1 vaen1 sun5` <sup>[泰州]</sup> 一种儿童游戏规则，疆儿弯了就按弯的计算，意谓大家要按统一标准，玩某些游戏时需要在地上划“疆”，因为随手画的，常会出现不直情况，故有此说，引申指处理问题只要坚持大家一个标准就行：去年子小张是二十号来上班的，工资拿的是一个月的工资，今年子小李也是二十号来上班的，大家都～，现在你会计不好扣他小李的钱！  
-1. 【[弯颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jien_han.md#弯颈项)】`vaen1 jien3 han` <small>/uɛ̃1 t͡ɕin3 xaŋ/<sup>兴化</sup>, /ʋɛ̃1 t͡ɕiŋ3 xɑŋ/<sup>泰兴</sup>, /ʋɛ̃1 t͡ɕiŋ3 xɑŋ/<sup>泰县</sup></small> ① 鹅的隐语。<sup>\[兴化\]</sup> ② 不直爽、难以相处的人。<sup>\[泰县\]</sup> ③ 喻不直率的人。<sup>\[泰兴\]</sup>：箇个人鹅儿头，～。<sup>\[泰兴\]</sup>  
+1. 【[弯颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jien_han.md#弯颈项)】`vaen1 jien3 han` <small>/uɛ̃1 t͡ɕin3 xaŋ/<sup>兴化</sup>, /ʋɛ̃1 t͡ɕiŋ3 xɑŋ/<sup>泰兴</sup>, /ʋɛ̃1 t͡ɕiŋ3 xɑŋ/<sup>泰县</sup></small> ① 鹅的隐语。<sup>\[兴化\]</sup> ② 喻不直率、难以相处的人。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：箇个人鹅儿头，～。<sup>\[泰兴\]</sup>  
 1. 【[弯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_keu.md#弯口)】`vaen1 keu3` <sup>[如皋]</sup> 拐弯处。  
 1. 【[弯环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_kuaen.md#弯环)】`vaen1 kuaen2` <small>/uɛ̃1 kʰuɛ̃2/<sup>兴化</sup></small> ① 为人不直率<sup>\[兴化\]</sup>：他肚里有～。<sup>\[兴化\]</sup> ② 处事不公平、公正<sup>\[兴化\]</sup>：你俫沾亲搭故，说话不要带～。<sup>\[兴化\]</sup> ③ 隐情<sup>\[兴化\]</sup>：这里的～一时说不清爽。<sup>\[兴化\]</sup> ④ 比喻为人处事很有心机<sup>\[泰州\]</sup>：你同他说话要贯吖点儿神，这个人肚肚里～不少。<sup>\[泰州\]</sup> ⑤ 说话或者做事有意偏袒一方，欠公正<sup>\[泰州\]</sup>：你要实事求是，不作兴带点儿～。<sup>\[泰州\]</sup>  
 1. 【[弯榔头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_lan_teu.md#弯榔头)】`vaen1 lan2 teu2` <sup>[如东]</sup> 房屋的一种结构形式。两种方向的房屋连接在一起，成丁字形，这种结构的房屋叫弯榔头。  
@@ -622,6 +622,7 @@
 1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <sup>[如皋]</sup> 下午或晚上的营业。  
 1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <small>/ʋɛ̃3 sɿ1/<sup>泰兴</sup></small> 傍晚或晚间的集市。<sup>\[泰兴\]</sup>  
 1. 【[晚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xien.md#晚心)】`vaen3 xien1` 晚上  
+1. 【[晚𫽐太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xio_tae_ian.md#晚𫽐太阳)】`vaen3 xio tae5 ian` <small>/ʋɛ̃3 ɕiɔ tʰɛ5 iɑŋ/<sup>泰兴</sup></small> 谓白天阴或雨，傍晚天晴朗日。<sup>\[泰兴\]</sup>  
 1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <sup>[泰兴]</sup> 晚上；傍晚，或黄昏时分。同“下晚”。  
 1. 【[晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#晚子)】`vaen3 zz3` <sup>[如皋]</sup> 老来所生的子女。  
 1. 【[绾角卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gah_jiun_r.md#绾角卷<sub>儿</sub>)】`vaen3 gah7 jiun3 r` <sup>[如皋]</sup> 长发盘于脑后的女发式。  

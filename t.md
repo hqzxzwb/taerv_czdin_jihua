@@ -1342,6 +1342,7 @@
 1. 【[甜不㝞𡨀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_ia_qia.md#甜不㝞𡨀)】`tin2 beh7 ia1 qia1` <sup>[泰州]</sup> 甜得令人发腻之义：他烧的这个蒜苗蚕豆子儿糖放吖多啊，～的，一点儿都不好吃。  
 1. 【[甜不呀兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_ia_xi.md#甜不呀兮)】`tin2 beh7 ia1 xi` <sup>[东台]</sup> 同“甜捺气”。  
 1. 【[甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae.md#甜菜)】`tin2 cae5` <sup>[如东]</sup> 藜科植物莙荙莱，一年生或二年生草本。高约100厘米。叶互生，棱形，叶片肉质光滑，淡绿色或紫红色。圆锥花序。花小，绿色。果聚生。种子圆形。田间种植，根含有糖质，是制糖的主要原料之一。  
+1. 【[甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae.md#甜菜)】`tin2 cae5` <small>/tʰĩ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种蔬菜，叶片肥大。<sup>\[泰兴\]</sup>  
 1. 【[甜菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae_zz.md#甜菜子)】`tin2 cae5 zz3` <sup>[如东]</sup> 藜科植物莙荙莱的种子。  
 1. 【[甜稭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gae_r.md#甜稭<sub>儿</sub>)】`tin2 gae1 r` <sup>[如皋]</sup> 未结棒子的玉米秸，嚼之有甜汁。  
 1. 【[甜稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gae_zz.md#甜稭子)】`tin2 gae1 zz` <sup>[东台]</sup> 玉米成熟后，那些未结稍头（果穗）或结得很小的茎秆（也作稭秆）。有甜汁可食，农村孩子视若甘蔗般喜爱。  
@@ -1353,6 +1354,7 @@
 1. 【[甜椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_jio.md#甜椒)】`tin2 jio1` <small>/tʰiɪ̃2 t͡ɕiɔ1/<sup>兴化</sup></small> ① 见“菜椒”。<sup>\[兴化\]</sup> ② 辣椒的一种，浆果初为绿色，成熟后为红色或橙色，形似灯笼，味较淡。‖也称“菜椒”。<sup>\[兴化\]</sup>  
 1. 【[甜辣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_laeh_qi.md#甜辣气)】`tin2 laeh8 qi` <sup>[如皋]</sup> 甜而不雅的气味。  
 1. 【[甜芦穄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_lv_ji.md#甜芦穄)】`tin2 lv2 ji1` <small>/tʰĩ2 lu2 t͡ɕʝ1/<sup>如皋</sup></small> ① 芦粟。<sup>\[如皋\]</sup> ② 芦粟。即糖用高粱。<sup>\[如皋\]</sup>  
+1. 【[甜咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_mi_mi.md#甜咪咪)】`tin2 mi1 mi1` <small>/tʰĩ2 mʝ1 mʝ1/<sup>泰兴</sup></small> 形容很甜。<sup>\[泰兴\]</sup>  
 1. 【[甜面酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_min_jian.md#甜面酱)】`tin2 min6 jian5` <sup>[东台]</sup> 有甜味的酱。  
 1. 【[甜捺气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_naeh_qi.md#甜捺气)】`tin2 naeh qi5` <sup>[东台]</sup> 甜得不恰当，口感不好。  
 1. 【[甜气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_qi.md#甜气)】`tin2 qi5` <sup>[如皋]</sup> 甜味不大。  
@@ -1557,7 +1559,7 @@
 1. 【[铞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#铞<sub>儿</sub>)】`tio6 r` <sup>[泰县]</sup> 水壶。  
 1. 【[铫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio.md#铫)】`tio6` <sup>[东台]</sup> 烧水或煎药用的器具：茶～｜药～｜水～。  
 1. 【[铫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_r.md#铫<sub>儿</sub>)】`tio6 r` <sup>[如皋]</sup> 烧茶水、煎中药等的器具，如“茶～”、“太平～”。  
-1. 【[铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#铫子)】`tio6 zz` <small>/tʰiɔ1 t͡se/<sup>泰县</sup></small> 烧水器<sup>\[泰县\]</sup>\[泰州：带提梁的茶壶状的煮水容器\]：用～烧水。<sup>\[泰县\]</sup>｜你把～的水传吖茶瓶里头去。<sup>\[泰州\]</sup>  
+1. 【[铫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#铫子)】`tio6 zz` <small>/tʰiɔ1 t͡sɿ/<sup>泰兴</sup>, /tʰiɔ1 t͡se/<sup>泰县</sup></small> 烧水器<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[泰州：带提梁的茶壶状的煮水容器\]：用～烧水。<sup>\[泰县\]</sup>｜你把～的水传吖茶瓶里头去。<sup>\[泰州\]</sup>  
 1. 【[叨光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_guan.md#叨光)】`to1 guan1` <sup>[东台]</sup> 见“叨扰”。  
 1. 【[叨教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jio.md#叨教)】`to1 jio` <sup>[如皋]</sup> 即“请教”。  
 1. 【[叨扰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_ro.md#叨扰)】`to1 ro3` <small>/tʰɔ1 ɻɔ3/<sup>如皋</sup></small> ① 谦词。对于款待表示歉意。<sup>\[如皋\]</sup> ② 客套话，承受别人的好处，表示感谢。有时说“叨光”。<sup>\[东台\]</sup>  
@@ -1841,19 +1843,22 @@
 1. 【[筒管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gun.md#筒管)】`ton2 gun3` <sup>[如皋]</sup> 经纱绽。  
 1. 【[茼蒿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ho.md#茼蒿)】`ton2 ho1` <small>/tʰɔŋ2 xɔ1/<sup>泰兴</sup></small> ① 菊科植物茼蒿，一年生草本。高约1米。茎直立，富肉质。叶互生，椭圆形，边缘具不规则深齿裂。头状花序。花黄色或黄白色。瘦果三棱形。田间种植。<sup>\[如东\]</sup> ② 一种蔬菜，长形羽状分裂，花黄色或白色，瘦果有棱。<sup>\[东台\]</sup> ③ 一年生或二年生草本植物，叶长形，呈羽状分裂，嫩茎及叶有特殊香气。<sup>\[泰州\]</sup> ④ 一种蔬菜，有药味。<sup>\[泰兴\]</sup>  
 1. 【[铜钯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ba.md#铜钯)】`ton2 ba1` <sup>[如皋]</sup> 用铜做的钯，锔碗用。  
-1. 【[铜板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen.md#铜板)】`ton2 baen3` 铜元，清朝末年使用的铜制硬币。<sup>\[泰州\]</sup>  
+1. 【[铜板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen.md#铜板)】`ton2 baen3` <small>/tʰɔŋ2 pɛ̃3/<sup>泰兴</sup></small> ① 铜元，清朝末年使用的铜制硬币。<sup>\[泰州\]</sup> ② 小铜元，俗称铜角子<sup>\[泰兴\]</sup>：我佼小时候用～趖da3儿<sup>\[泰兴\]</sup>  
 1. 【[铜铲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chaen_zz.md#铜铲子)】`ton2 chaen3 zz` <sup>[如皋]</sup> 黄铜铸的铲子装木柄。  
 1. 【[铜钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cho.md#铜钞)】`ton2 cho5` <sup>[如东]</sup> 铜质货币。也称铜钱、铜板儿。形状多样。清代的铜币，外圆，中间有一方孔。俗称孔方兄。  
 1. 【[铜锤草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chuei_co.md#铜锤草)】`ton2 chuei2 co3` <sup>[如皋]</sup> 红花酢浆草。  
 1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <sup>[兴化]</sup> （喻）稳固、富有：老子挣下的～家私，到儿子手不到三年就败光吖。｜“可怜！我的～儿江山，铁围的社稷，谁知被他阴占了！”（《西游记》三九）  
+1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <small>/tʰɔŋ2 təɪ3/<sup>泰兴</sup></small> 形容富足，牢固。<sup>\[泰兴\]</sup>：他家的房子～啊似的<sup>\[泰兴\]</sup>  
+1. 【[铜角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gah_zz.md#铜角子)】`ton2 gah7 zz` <small>/tʰɔŋ2 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 铜板。旧铜钱。<sup>\[泰兴\]</sup>  
 1. 【[铜锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu.md#铜锅)】`ton2 gu1` <sup>[如东]</sup> 锅的一种，以铜为原料制成的锅。  
 1. 【[铜锅铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu_chaen.md#铜锅铲)】`ton2 gu1 chaen3` <sup>[如东]</sup> 锅铲的一种，以铜为原料制成的锅铲。  
 1. 【[铜筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kuae_r.md#铜筷<sub>儿</sub>)】`ton2 kuae5 r` <sup>[如东]</sup> 筷儿的一种，以铜为原料制成的筷子。  
 1. 【[铜框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kuan.md#铜框)】`ton2 kuan1` <sup>[如皋]</sup> 写仿时用于压纸的铸黄铜框。  
 1. 【[铜炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_lv.md#铜炉)】`ton2 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆柿形，有环，盖上有孔。炉内装入木炭或煲灰，可以取暖。  
-1. 【[铜盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_pen.md#铜盆)】`ton2 pen2` <small>/tʰoŋ2 pʰən2/<sup>兴化</sup>, /tʰɔŋ2 pʰəŋ2/<sup>如皋</sup>, /tʰoŋ2 pʰəŋ2/<sup>泰县</sup></small> ① 脸盆 ② 黄铜铸的盆。旧时多用为脸盆。<sup>\[如皋\]</sup> ③ 盆的一种。以铜为原料制成。<sup>\[如东\]</sup> ④ 铜铸的洗脸盆。<sup>\[兴化\]</sup> ⑤ 脸盆。<sup>\[泰县\]</sup> ⑥ 铜制的脸盆、洗手盆。<sup>\[泰州\]</sup>  
+1. 【[铜盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_pen.md#铜盆)】`ton2 pen2` <small>/tʰoŋ2 pʰən2/<sup>兴化</sup>, /tʰɔŋ2 pʰəŋ2/<sup>如皋</sup>, /tʰɔŋ2 pʰəŋ2/<sup>泰兴</sup>, /tʰoŋ2 pʰəŋ2/<sup>泰县</sup></small> ① 脸盆 ② 黄铜铸的盆。旧时多用为脸盆。<sup>\[如皋\]</sup> ③ 盆的一种。以铜为原料制成。<sup>\[如东\]</sup> ④ 铜铸的洗脸盆。<sup>\[兴化\]</sup> ⑤ 脸盆。<sup>\[泰县\]</sup> ⑥ 铜制的脸盆、洗手盆。<sup>\[泰州\]</sup> ⑦ 铜质的盆，昔时洗脸用。<sup>\[泰兴\]</sup>  
 1. 【[铜盆架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_pen_ga_zz.md#铜盆架子)】`ton2 pen2 ga5 zz` <sup>[如皋]</sup> 旧时在房内洗脸，放脸盆的架子。  
-1. 【[铜匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#铜匠)】`ton2 qian` ① 制造和修理铜器业务的小手工业者。<sup>\[如东\]</sup> ② 以铜为主要原料制作铜饰、铜器以及配钥匙、开锁的工匠。<sup>\[泰州\]</sup>  
+1. 【[铜泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_po_r.md#铜泡<sub>儿</sub>)】`ton2 po1 r` <small>/tʰɔŋ2 pʰɔ˞1/<sup>泰兴</sup></small> 子弹壳。<sup>\[泰兴\]</sup>  
+1. 【[铜匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian.md#铜匠)】`ton2 qian` <small>/tʰɔŋ2 t͡ɕʰiɑŋ/<sup>泰兴</sup></small> ① 制造和修理铜器业务的小手工业者。<sup>\[如东\]</sup> ② 以铜为主要原料制作铜饰、铜器以及配钥匙、开锁的工匠。<sup>\[泰州\]</sup> ③ 制造、修理铜器的匠人。<sup>\[泰兴\]</sup>  
 1. 【[铜匠担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian_daen_zz.md#铜匠担子)】`ton2 qian daen5 zz` <sup>[如皋]</sup> 挑担卖小铜器兼代客加工。以铜器撞击声招徕生意。故有“～走到哪许，想（响）到哪许”的歇后语。  
 1. 【[铜匠店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian_din.md#铜匠店)】`ton2 qian din5` <small>/tʰɔŋ2 t͡ɕʰiã tĩ5/<sup>如皋</sup></small> ① 制售铜器兼五金修配的店铺。<sup>\[如皋\]</sup> ② 生产和销售铜器的作坊。<sup>\[如东\]</sup>  
 1. 【[铜匠担子——走到哪许响到哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qian_daen_zz.md#铜匠担子——走到哪许响到哪许)】`ton2 qian6 daen5 zz zeu3 do5 la3 hae xian3 do5 la3 hae` <sup>[东台]</sup>   

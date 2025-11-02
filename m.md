@@ -85,7 +85,7 @@
 1. 【[麻里木竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zhoh.md#麻里木竹)】`ma2 lii moh8 zhoh7` 麻木  
 1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8-7 zoh7` <sup>[东台]</sup> 麻木不仁，不上规矩。  
 1. 【[麻里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lii_moh_zoh.md#麻里木足)】`ma2 lii moh8 zoh7` <sup>[兴化]</sup> 形容少不更事者：那一位少年朋友，～，不问情由，见人就打。  
-1. 【[麻萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lu_poh.md#麻萝卜)】`ma2 lu2 poh` <small>/ma2 lo2 pʰɔʔ/<sup>兴化</sup>, /ma2 no2 pʰɔʔ/<sup>泰县</sup></small> ① 一年或二年生草木植物，根圆柱形或球形，可吃，有辣味。区别于“胡萝卜”。<sup>\[兴化\]</sup> ② 萝卜。<sup>\[泰县\]</sup>  
+1. 【[麻萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_lu_poh.md#麻萝卜)】`ma2 lu2 poh` <small>/ma2 lo2 pʰɔʔ/<sup>兴化</sup>, /mɑ2 lɤɯ2 pʰɔʔ/<sup>泰兴</sup>, /ma2 no2 pʰɔʔ/<sup>泰县</sup></small> 萝卜。区别于“胡萝卜”。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[麻麻亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_lian.md#麻麻亮)】`ma2 ma2 lian6` <small>/ma2 ma2 liaŋ6/<sup>兴化</sup></small> ① 天刚亮。<sup>\[如东\]</sup>：～就起身。<sup>\[如东\]</sup> ② 见“麻花亮”。<sup>\[兴化\]</sup>  
 1. 【[麻麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma_r.md#麻麻<sub>儿</sub>)】`ma2 ma2 r` <sup>[如皋]</sup> 见“奀奀儿”。  
 1. 【[麻木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_moh.md#麻木)】`ma2 moh` <sup>[泰州]</sup> 比喻人行事盲目，不计后果：你不要～咖，他家老子在公安局。  
@@ -1201,7 +1201,7 @@
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_xih.md#□□)】`mih8 xih` <sup>[如皋]</sup> 装马虎，不急于理睬：这伢儿～吤，喊他不睬人，只顾忙他的杲子。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_mih.md#咪咪)】`mih8 mih8` <small>/miʔ8 miʔ8/<sup>泰兴</sup></small> 唤猫声<sup>\[泰兴\]</sup>  
 1. 【[灭茬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cha.md#灭茬)】`mih8 cha5` <sup>[东台]</sup> 收割农作物后将留在田里的秸秆埋入土中。  
-1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> ① 改朝换代。<sup>\[东台\]</sup> ② 指因地震、海啸等特大自然灾害造成毁灭性灾难。<sup>\[东台\]</sup> ③ 彻底完蛋。<sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
+1. 【[灭朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_cho.md#灭朝)】`mih8 cho2` <small>/miʔ8 t͡sʰɔ2/<sup>泰兴</sup></small> ① 改朝换代。<sup>\[东台\]</sup> ② 毁灭性灾难，如地震、海啸等。彻底完蛋。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：死人～失天火<sup>\[泰兴\]</sup>  
 1. 【[灭门其乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qi_hv.md#灭门其乎)】`mih8 men qi hv` 乱七八糟的，一塌糊涂的。“灭门绝户”的讹音。  
 1. 【[灭门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men.md#灭门)】`mih8 men2` <sup>[如皋]</sup> 全家都死光了。  
 1. 【[灭门绝户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mih_men_qiuh_hv.md#灭门绝户)】`mih8 men2 qiuh8 hv6` <small>/miɪʔ8 mən2 t͡ɕʰyuʔ8 xu6/<sup>兴化</sup>, /miʔ8 məŋ2 t͡ɕʰyʊʔ8 fu1/<sup>如皋</sup></small> ① 门户已被灭绝，形容遭受巨大的灾难。<sup>\[如东\]</sup> ② 全家死光、门户灭绝。<sup>\[如皋\]</sup> ③ （詈语）死尽死绝<sup>\[东台\]</sup>：当年日本鬼子杀人放火，～！<sup>\[东台\]</sup> ④ 全家死光或离散，空无一人<sup>\[兴化\]</sup>：这个人家过去多威风，而今死的死，逃的逃，～啊。<sup>\[兴化\]</sup>  

@@ -514,7 +514,7 @@
 1. 【[鲨鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_poh.md#鲨鱼白)】`sha1 y2 poh8` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼鳔。  
 1. 【[啥杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_go_zz.md#啥杲子)】`sha2 go3 zz` <sup>[兴化]</sup> 什么东西：你手里拿的～？｜今朝吃～？  
 1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` 蛇。  
-1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
+1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /sɑ2 t͡sʰɔŋ2 pɔʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
 1. 【[蛇床子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chuan_zz.md#蛇床子)】`sha2 chuan2 zz` <sup>[如东]</sup> 伞科植物蛇床，一年生草本。高约80厘米。茎直立，有纵棱。根生叶卵形，3回羽状分裂，裂片线状披针形。复伞形花序顶生或腋生。花白色。双悬果椭圆形。果实入中药。生长在草丛或田间、路旁。  
 1. 【[蛇𠞖屁眼没手抓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gon_pi_ngaen.md#蛇𠞖屁眼没手抓)】`sha2 gon1 pi5 ngaen3 meh8 sheu3 zhua1` <sup>[东台]</sup> 形容忙得不可开交。  
 1. 【[蛇化子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hua_zz.md#蛇化子)】`sha2 hua5 zz` <sup>[如皋]</sup> 旧时捕蛇、耍蛇的乞丐。  
@@ -526,7 +526,7 @@
 1. 【[蛇闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shin.md#蛇闪)】`sha2 shin3` <sup>[如皋]</sup> 闪电中心的闪光，形似游蛇。  
 1. 【[蛇死有人挑，人死有人窖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sz_ieu_ren.md#蛇死有人挑，人死有人窖)】`sha2 sz3 ieu3 ren2 tio1 ren2 sz3 ieu3 ren2 go5` <small>/sɑ2 sɿ3 iɤɯ3 ɻəŋ2 tʰiɔ1 ɻəŋ2 sɿ3 iɤɯ3 ɻəŋ2 kɔ5/<sup>泰兴</sup></small> 死了自然有人收尸（本人并不需要操心）<sup>\[泰兴\]</sup>  
 1. 【[蛇头王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_teu_van.md#蛇头王)】`sha2 teu2 van2` <sup>[如皋]</sup> 一枝黄花。  
-1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <small>/sa2 tʰiɪ̃5 t͡sɿ/<sup>兴化</sup>, /sa2 tʰĩ5 t͡sɿ/<sup>如皋</sup>, /sa2 tʰiɪ̃5 t͡se/<sup>泰县</sup></small> ① 蛇舌。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如东：也称蛇信子。\] ② 比喻眼睛灵敏、眼光闪烁。<sup>\[如东\]</sup>：这个人的眼睛像～一样的。<sup>\[如东\]</sup> ③ 蛇舌的前分岔。<sup>\[兴化\]</sup> ④ 很毒的人\[泰县：这个女的是个～。\] ⑤ 快速\[泰县：他的眼睛像～。\]  
+1. 【[蛇㐁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_tin_zz.md#蛇㐁子)】`sha2 tin5 zz` <small>/sa2 tʰiɪ̃5 t͡sɿ/<sup>兴化</sup>, /sa2 tʰĩ5 t͡sɿ/<sup>如皋</sup>, /sɑ2 tʰĩ5 t͡sɿ/<sup>泰兴</sup>, /sa2 tʰiɪ̃5 t͡se/<sup>泰县</sup></small> ① 蛇舌，蛇信子<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[如东：也称蛇信子。\] ② 比喻眼睛灵敏、眼光闪烁。<sup>\[如东\]</sup>：这个人的眼睛像～一样的。<sup>\[如东\]</sup> ③ 很毒的人\[泰县：这个女的是个～。\] ④ 快速\[泰县：他的眼睛像～。\]  
 1. 【[蛇芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_teu.md#蛇芋头)】`sha2 y6 teu2` <sup>[如皋]</sup> 天南星。  
 1. 【[傻不拉叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_la_ji.md#傻不拉叽)】`sha3 beh7 la1 ji` <sup>[东台]</sup> 傻里傻气。  
 1. 【[傻里傻气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lii_sha_qi.md#傻里傻气)】`sha3 lii sha3 qi5` <sup>[东台]</sup> 傻乎乎的样子。  

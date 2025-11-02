@@ -560,13 +560,13 @@
 1. 【[核嘚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_deh_r.md#核嘚<sub>儿</sub>)】`heh8 deh r` <sup>[如皋]</sup> 打嗝：夜饭后～不停吖。  
 1. 【[核脦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_deh.md#核脦)】`heh8 deh7` <sup>[如皋]</sup> 惊呆状：吓咖～咖。  
 1. 【[核桃卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_to_lun_r.md#核桃卵<sub>儿</sub>)】`heh8 to2 lun3 r` <sup>[如皋]</sup> 阴囊收缩若核桃状。表示正常。  
-1. 【[龁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#龁)】`heh8` <small>/xəʔ8/<sup>兴化</sup>, /xəʔ8/<sup>如皋</sup>, /xəʔ8/<sup>泰县</sup></small> ① 用牙齿咬东西。<sup>\[如东\]</sup>：～番芋皮。<sup>\[如东\]</sup> ② 啃咬，喻不断被索取、消耗<sup>\[如皋\]</sup>：他这把老骨头经不起几个儿女～。<sup>\[如皋\]</sup> ③ 咬；啃<sup>\[东台\]</sup>：～骨头。<sup>\[东台\]</sup> ④ 啃。《广韵·没韵》下没切：“～，囓也”。<sup>\[兴化\]</sup>：～骨头<sup>\[兴化\]</sup> ⑤ 啃<sup>\[泰县\]</sup>：～骨头。<sup>\[泰县\]</sup> ⑥ 咬，啃<sup>\[泰州\]</sup>：把骨头上的肉～咖干净吖再撂。<sup>\[泰州\]</sup>  
+1. 【[龁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh.md#龁)】`heh8` <small>/xəʔ8/<sup>兴化</sup>, /xəʔ8/<sup>如皋</sup>, /xəʔ8/<sup>泰兴</sup>, /xəʔ8/<sup>泰县</sup></small> ① 咬；啃<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～骨头。｜～番芋皮。<sup>\[如东\]</sup>｜把骨头上的肉～咖干净吖再撂。<sup>\[泰州\]</sup> ② 喻不断被索取、消耗<sup>\[如皋\]</sup>：他这把老骨头经不起几个儿女～。<sup>\[如皋\]</sup>  
 1. 【[龁大鱼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_da_y_teu.md#龁大鱼头)】`heh8 da6 y2 teu2` <sup>[泰县]</sup> 谋大利：他承包啊一家厂，这回是～。  
 1. 【[龁咖骨头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ga_gueh_teu.md#龁咖骨头的)】`heh8 ga gueh7 teu dii` <sup>[如皋]</sup> 喻双方嫌隙大、矛盾大、见面就抵触，根本说不到一块去。  
 1. 【[龁家门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ga_men_kaen.md#龁家门槛)】`heh8 ga1 men kaen3` <sup>[兴化]</sup> ① （喻）在家门口欺负外来人：你就是～的本事，离啊家就不敢凶吖。 ② 专在自家人头上做文章：当村干部不要老～，村里人有多大头绪啊！  
 1. 【[龁老骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_lo_gueh_teu.md#龁老骨头)】`heh8 lo3 gueh7 teu` <sup>[如皋]</sup> 专门耗用老人的钱物。啃老。  
 1. 【[龁老骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_lo_gueh_teu.md#龁老骨头)】`heh8 lo3 gueh7 teu2` <sup>[东台]</sup> ［喻］指已成年子女不自食其力，靠沾父母的光生活。  
-1. 【[龁奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_nae.md#龁奶)】`heh8 nae3` <sup>[如皋]</sup> 奶水不足了，还要吮吸。  
+1. 【[龁奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_nae.md#龁奶)】`heh8 nae3` <small>/xəʔ8 nɛ3/<sup>如皋</sup>, /xəʔ8 nɛ3/<sup>泰兴</sup></small> 奶水不足了，还要吮吸。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[䬶瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_gua.md#䬶瓜)】`hen1 gua1` <sup>[兴化]</sup> ① 摘下时间长，已发软的瓜。䬶，《集韵·恨韵》五恨切，馁也。（声母不合） ② （喻）缺乏朝气的人：～，你有事就说，怕甚的？  
 1. 【[亨𣩟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_den.md#亨𣩟)】`hen1 den1` <sup>[如皋]</sup> 极饿时或吃饱后懒洋洋的不愿动的样子：饿有～饱有恣。  
 1. 【[亨心穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hen_xien_qion.md#亨心穷)】`hen1 xien1 qion2` <sup>[如皋]</sup> 贪多：他太～，一下子拿啊这许多。  

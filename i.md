@@ -188,9 +188,12 @@
 1. 【[野啊汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_tan.md#野啊汤)】`ia3 a tan1` <sup>[如皋]</sup> 下锅汤放得过多。  
 1. 【[野啊心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_a_xien.md#野啊心)】`ia3 a xien1` <sup>[东台]</sup> 心神不定，兴趣外移。  
 1. 【[野不收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_beh_sheu.md#野不收)】`ia3 beh7 sheu1` <sup>[如东]</sup> 性情野，收养不住：我再待她好，她都要往外跑，真是一个～。  
+1. 【[野菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cae.md#野菜)】`ia3 cae5` <small>/iɑ3 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 可以做蔬菜或供人充饥的野生菜蔬。<sup>\[泰兴\]</sup>  
 1. 【[野菜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cae_r.md#野菜<sub>儿</sub>)】`ia3 cae5 r` <sup>[如皋]</sup> 野菜，一般指荠菜儿。  
 1. 【[野茶叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_cha_ih.md#野茶叶)】`ia3 cha2 ih8` <sup>[如东]</sup> 山茶科植物钝叶柃，小灌木。高约2米。小枝较粗糙。叶互生，革质，叶形变化很大，披针形、椭圆形或倒卵形，近全缘。花小，腋生。浆果，紫红色。生长在林中。  
+1. 【[野场（上）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_chan.md#野场（上）)】`ia3 chan2` <small>/iɑ3 t͡sʰɑŋ2/<sup>泰兴</sup></small> 离住地较远的空场地。<sup>\[泰兴\]</sup>  
 1. 【[野狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_geu.md#野狗)】`ia3 geu3` <sup>[如东]</sup> 不属于自己喂养的狗。  
+1. 【[野鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guei.md#野鬼)】`ia3 guei3` <small>/iɑ3 kuəɪ3/<sup>泰兴</sup></small> 旧称无人祭祀的鬼魂。如“孤魂野鬼”。<sup>\[泰兴\]</sup>  
 1. 【[野鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_guh_zz.md#野鸽子)】`ia3 guh7 zz` <small>/ia3 kuʔ7 t͡sɿ/<sup>兴化</sup>, /ia3 kʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 鹁鸪，斑鸠<sup>\[如皋\]</sup>\[兴化：（兴化词典释鹧鸪，存疑）\] ② 闲聊<sup>\[兴化\]</sup>：扯～。<sup>\[兴化\]</sup>  
 1. 【[野匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_haeh_zz.md#野匣子)】`ia3 haeh8 zz` <sup>[兴化]</sup> 见“野猴子”。  
 1. 【[野苋菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_haen_cae.md#野苋菜)】`ia3 haen6 cae5` <small>/ia3 xẽ1 t͡sʰɛ5/<sup>如皋</sup></small> ① 茎上多刺，叶可采食，味鲜。<sup>\[如皋\]</sup> ② 苋科植物凹头苋，一年生草本。髙约30厘米。茎斜上，微棱形，淡绿色至喑紫色。叶片棱状卵形，全缘。穗状花序顶生。花簇生叶腋。胞果球形，略扁，不开裂。生长在田野路边。<sup>\[如东\]</sup>  
@@ -203,29 +206,38 @@
 1. 【[野胡椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv_jio.md#野胡椒)】`ia3 hv2 jio1` <sup>[东台]</sup> 通常指女性撒泼，不讲理。  
 1. 【[野胡萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_hv_lu_poh.md#野胡萝卜)】`ia3 hv2 lu2 poh` <sup>[如东]</sup> 伞科植物野胡萝卜，二年生草本。高约120厘米。茎直立。叶片3回羽状分裂裂片披针形。复伞形花序顶生或腋生。花白色、黄色或淡紫红色。双悬果卵圆形。分果具窄翅，翅上密生钩刺。生长在路旁、溪边、荒地。  
 1. 【[野野<sub>儿</sub>乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ia_r_v.md#野野<sub>儿</sub>乌)】`ia3 ia3 r v1` <sup>[如皋]</sup> 粗野鄙劣，不讲道理，胡言乱语、不上正道。  
-1. 【[野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji.md#野鸡)】`ia3 ji1` <small>/ia3 t͡ɕʝ1/<sup>如皋</sup></small> ① 雉科动物雉，体长约90厘米。雌雄异色。雄者羽毛华丽，头顶黄铜锴，两侧有微白眉纹。虹膜栗红色。颏、喉和后颈黑色，有金色反光。颈下有一显著的白圈。尾羽很长。翼上覆羽大多黄褐杂以栗色。脚短而健红灰褐色，善走，不能久飞。雌者体形较小，尾也较短。体羽大多砂褐色。生活在荒野或田间。<sup>\[如东\]</sup> ② 称暗娼、私娼<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup> ③ 喻指无证经营者<sup>\[东台\]</sup>：～车。<sup>\[东台\]</sup> ④ 没有固定妓院经营、在路上拉客的私娼。<sup>\[泰州\]</sup> ⑤ 非法或者不合规章而经营的<sup>\[泰州\]</sup>：没得牌照的～车子<sup>\[泰州\]</sup>｜他俫这个～班子是临时拼凑起来的。<sup>\[泰州\]</sup>  
+1. 【[野鸡啼，晒破皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji_ti_shae.md#野鸡啼，晒破皮)】`ia3 ji ti2 shae5 pu5 pi2` <small>/iɑ3 t͡ɕʝ t͡ɕʰʝ2 ɕiɛ5 pʰɤɯ5 pʰʝ2/<sup>泰兴</sup></small> 气象谚语。谓野鸡啼叫，预示明天阳光强烈，气温升高。<sup>\[泰兴\]</sup>  
+1. 【[野鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ji.md#野鸡)】`ia3 ji1` <small>/ia3 t͡ɕʝ1/<sup>如皋</sup>, /iɑ3 t͡ɕʝ1/<sup>泰兴</sup></small> ① 雉科动物雉，体长约90厘米。雌雄异色。雄者羽毛华丽，头顶黄铜锴，两侧有微白眉纹。虹膜栗红色。颏、喉和后颈黑色，有金色反光。颈下有一显著的白圈。尾羽很长。翼上覆羽大多黄褐杂以栗色。脚短而健红灰褐色，善走，不能久飞。雌者体形较小，尾也较短。体羽大多砂褐色。生活在荒野或田间。<sup>\[如东\]</sup> ② 称暗娼、私娼<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup> ③ 喻指不合规章的经营者<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～车。<sup>\[东台\]</sup> ④ 没有固定妓院经营、在路上拉客的私娼。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup> ⑤ 非法或者不合规章而经营的<sup>\[泰州\]</sup>：没得牌照的～车子<sup>\[泰州\]</sup>｜他俫这个～班子是临时拼凑起来的。<sup>\[泰州\]</sup>  
 1. 【[野雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jiah_r.md#野雀<sub>儿</sub>)】`ia3 jiah7 r` <sup>[兴化]</sup> （喻）性情粗野，没有约束的青少年：教他上班，等于～关笼子，他怎吖受得了？  
+1. 【[野韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jieu_cae.md#野韭菜)】`ia3 jieu3 cae5` <small>/iɑ3 t͡ɕiɤɯ3 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种多年生草木植物，多植于墙脚等处或绿化景观处。其状若韭菜，故名。<sup>\[泰兴\]</sup>  
 1. 【[野菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh.md#野菊)】`ia3 jioh7` <sup>[如东]</sup> 菊科植物野菊，多年生草本。高约60厘米。顶部的枝通常被白色柔毛，有香气。叶互生，长圆状卵形，有羽状深裂片。头状花序顶生，数个排列成伞房花序。舌状花淡黄色。瘦果。生长在路边、丘陵荒地和林缘：～花  
 1. 【[野绿豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_loh_teu.md#野绿豆)】`ia3 loh8 teu6` <sup>[如东]</sup> 豆科植物鹿藿，多年生缠绕草本。各部密被淡黄色软毛。茎蔓长。3出羽状复叶；侧生小叶阔卵形，纸质。总态花序顶生。花黄色。荚果短矩形，红紫色。有2颗黑色有光的种子。生长在杂草中。  
 1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <sup>[东台]</sup> 不上规矩，没有拘束的人。  
+1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <small>/iɑ3 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> 不上规矩的人；游手好闲、不务正业的人。<sup>\[泰兴\]</sup>  
 1. 【[野猫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_zz.md#野猫子)】`ia3 mo2 zz` <sup>[兴化]</sup> ① 无人豢养的猫。 ② 摇篮曲中虚拟的怪物：～，你去吧，我家宝宝睡觉啦！  
 1. 【[野茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_gan.md#野茅缸)】`ia3 mo2 gan1` <sup>[如东]</sup> ① 旷野中的厕所，外人可以登缸。 ② 比喻女人生活作风不好，外人可以随便占有：她是个～。  
 1. 【[野苜蓿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_moh_soh.md#野苜蓿)】`ia3 moh8 soh7` <sup>[如东]</sup> 豆科植物黄花苜蓿，多年生草本。高约70厘米。茎直立或匍匐，稍有毛，多分枝。三出复叶，小叶长圆状倒卵形，边缘具刺。总状花序腋生。花冠蝶形，黄色。荚果扁，矩形，弯曲成半月形，光滑，褐色。生长在原野沟边。  
 1. 【[野伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_nga_r.md#野伢<sub>儿</sub>)】`ia3 nga2 r` 野孩子  
 1. 【[野鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ngaeh.md#野鸭)】`ia3 ngaeh7` ① 鸭科动物绿头鸭，体长约60厘米。嘴呈黄绿色，嘴甲黑色。虹膜红褐色。雄鸟头和颈辉绿色，颈下有一白环。上背和肩灰褐色，下背转为黑褐灰褐色。腰和尾上覆羽黑色，并着金属绿光辉。两腿大都灰褐色。翼镜蓝紫色，其前后缘均为绒黑色，更外缀以白色狭边，三色相衬极为醒目。尾羽大部分白色。胸粟色，腹淡灰尾下覆羽绒黑色。雌鸟尾羽不卷，体黄褐色，并杂有暗褐色斑点。脚橙黄色，趾间有蹼，爪黑色。栖息在河湖芦苇丛中。<sup>\[如东\]</sup>：～羽<sup>\[如东\]</sup> ② 野鸭子，凫的别名。<sup>\[泰州\]</sup>  
+1. 【[野鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ngaeh_zz.md#野鸭子)】`ia3 ngaeh7 zz` <small>/iɑ3 ŋæʔ7 t͡sɿ/<sup>泰兴</sup></small> 野鸭。<sup>\[泰兴\]</sup>  
 1. 【[野葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_pv_to.md#野葡萄)】`ia3 pv2 to2` <sup>[如东]</sup> 葡萄科植物刺葡萄，又名千斤藤，落叶藤本。枝条粗壮，黄褐色，无毛老枝外皮呈长片剥落，淡褐色，幼枝密生粗壮锐刺。单叶互生，叶片坚纸质，阔卵形至卵状圆形，边缘锯齿微波状。圆锥花序与叶对生。浆果球形，蓝紫色。种子淡红褐色。生长在沟坡两旁。  
 1. 【[野气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qi.md#野气)】`ia3 qi5` <small>/ia3 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 粗犷、粗野，无教养的样子。<sup>\[如皋\]</sup> ② 个性粗野。<sup>\[如东\]</sup> ③ 对自己不亲热。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup>  
 1. 【[野荞麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_qio_moh.md#野荞麦)】`ia3 qio2 moh8` <sup>[如东]</sup> 蓼科植物天荞麦，多年生草本。高约150厘米。主根粗大，呈结状，横走，红褐色。茎纤细具棱槽，淡绿微带红色。叶互生，戟状三角形，全缘。聚伞花序顶生或腋生。瘦果卵状三棱形，红褐色。生长在草坡、林边、温地。  
+1. 【[野人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ren.md#野人)】`ia3 ren2` <small>/iɑ3 ɻəŋ2/<sup>泰兴</sup></small> 粗野之人。指缺乏教养、没有礼貌、蛮不讲理的人。<sup>\[泰兴\]</sup>  
 1. 【[野三八四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_baeh_sz.md#野三八四)】`ia3 saen1 baeh7 sz5` <small>/ia3 sɛ̃1 pæʔ7 sɿ5/<sup>兴化</sup></small> ① 对外地人或陌生人的一种不友好的说法。<sup>\[东台\]</sup> ② 野蛮，不讲道理。<sup>\[东台\]</sup> ③ 形容不知从哪里来的、与事无关的人<sup>\[兴化\]</sup>：家里的事关起门米谈，弄些～的来吓哪个？<sup>\[兴化\]</sup>  
 1. 【[野三旅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_saen_ly.md#野三旅)】`ia3 saen1 ly3` <sup>[东台]</sup> 抗战期间，国民党江苏保安三旅，张星炳的杂牌军部队。平时扰民，但有时也抗日。现常喻指不上档次的人或物。  
 1. 【[野山八氏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shaen_baeh_shr.md#野山八氏)】`ia3 shaen1 baeh7 shr6` <sup>[泰州]</sup> 荒山中的八氏，喻指不明来历、不知底细的人：你同这些～的朋友少来往，不要弄出事来。  
-1. 【[野牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shen_shr.md#野牲豕)】`ia3 shen1 shr` <sup>[如皋]</sup> 野兽。  
+1. 【[野牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_shen_shr.md#野牲豕)】`ia3 shen1 shr` <small>/ia3 səŋ1 sɿ/<sup>如皋</sup>, /iɑ3 səŋ1 sɿ/<sup>泰兴</sup></small> 野兽。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[野荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tan.md#野荡)】`ia3 tan` <small>/ia3 tʰaŋ/<sup>兴化</sup>, /ia3 tʰã/<sup>如皋</sup></small> ① 环境空旷，不见人迹。<sup>\[如皋\]</sup> ② 形容地势空旷<sup>\[兴化\]</sup>：这个地方蛮～的。<sup>\[兴化\]</sup>  
 1. 【[野荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tan_zz.md#野荡子)】`ia3 tan6 zz` <sup>[兴化]</sup> 距离村镇较远的荒湖或草滩：天快黑了，～昏暗下来，远近灰糊糊的……（陈登科《淮河边上的儿女》二三）  
+1. 【[野天野地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tin_ia_ti.md#野天野地)】`ia3 tin1 ia3 ti6` <small>/iɑ3 tʰĩ1 iɑ3 t͡ɕʰʝ1/<sup>泰兴</sup></small> 不守礼节、不讲礼貌、胡搅蛮缠。<sup>\[泰兴\]</sup>  
+1. 【[野田里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tin_lii.md#野田里)】`ia3 tin2 lii` <small>/iɑ3 tʰĩ2 ləɪ/<sup>泰兴</sup></small> 无人居住的地方。<sup>\[泰兴\]</sup>  
 1. 【[野兔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tv.md#野兔)】`ia3 tv5` <sup>[如东]</sup> 生活在野外的兔类。如东县境内多为华南兔。  
+1. 【[野兔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_tv_zz.md#野兔子)】`ia3 tv5 zz` <small>/iɑ3 tʰu5 t͡sɿ/<sup>泰兴</sup></small> 野兔。<sup>\[泰兴\]</sup>  
 1. 【[野外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_vae.md#野外)】`ia3 vae6` <sup>[东台]</sup> 离居民住地较远的地方：筑路工人常常在～施工，非常辛苦。  
 1. 【[野黄豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_van_teu_r.md#野黄豆<sub>儿</sub>)】`ia3 van2 teu6 r` <sup>[如皋]</sup> 中国学名𧰎豆。  
 1. 【[野芋叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_y_ih.md#野芋叶)】`ia3 y6 ih8` <sup>[如东]</sup> 天南星科植物野芋叶。  
+1. 【[野芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_y_teu.md#野芋头)】`ia3 y6 teu` <small>/iɑ3 y1 tʰəɪ/<sup>泰兴</sup></small> 半夏。为泰兴特产，较贵重的中药材。<sup>\[泰兴\]</sup>  
 1. 【[野芋头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_y_teu.md#野芋头)】`ia3 y6 teu2` <sup>[如东]</sup> 天南星科植物野芋，多年生草本。根茎球状，上生褐色纤毛。叶基生，有肉质长柄；叶片大而厚，呈卵状广椭圆形，全缘，带波状。花黄白色，成肉穗花序。浆果橙红色，内有坚硬的种子2颗。生长在林阴、溪边。  
 1. 【[野獐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhan.md#野獐)】`ia3 zhan1` <sup>[如东]</sup> ① 黄獐。20世纪50年代以前，如东沿海有许多黄獐。50年代后，由于围垦，大片海滩草地变成农田，黄獐失去生存条件，因此消失。 ② 黄獐善于奔跑。比喻跑得很快：这个人跑起来像～样的。 ③ 比喻不驯服：这个人像～样的，一点儿也不贴身。  
 1. 【[野种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zhon.md#野种)】`ia3 zhon3` <sup>[如东]</sup> ① 野生植物的种子。 ② 比喻不是亲生的子女。  

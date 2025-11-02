@@ -584,7 +584,7 @@
 1. 【[鸭屎臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_shr_cheu.md#鸭屎臭)】`ngaeh7 shr3 cheu5` <small>/æʔ7 sɿ3 t͡sʰɤ5/<sup>兴化</sup></small> ① 指吃多了鸭蛋，从胃中泛出的异味。<sup>\[兴化\]</sup> ② 丢脸、不光彩<sup>\[兴化\]</sup>：这人赖账不还，真有点～。<sup>\[兴化\]</sup> ③ 因不光彩的行为而丢人<sup>\[泰州\]</sup>：他在单位上弄得～，现在想调走还不曾找到下家唻。<sup>\[泰州\]</sup>  
 1. 【[鸭蛋粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_fen.md#鸭蛋粉)】`ngaeh7 taen fen3` <small>/ŋæʔ7 tʰɛ̃ fəŋ3/<sup>泰兴</sup></small> 化妆品。块形白香粉，其状若鸭蛋，故名。<sup>\[泰兴\]</sup>  
 1. 【[鸭蛋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_qien.md#鸭蛋青)】`ngaeh7 taen qien1` <small>/ŋæʔ7 tʰɛ̃ t͡ɕʰiŋ1/<sup>泰兴</sup></small> 淡青色。<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
-1. 【[鸭蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen.md#鸭蛋)】`ngaeh7 taen6` ① 鸭蛋；考试零分 ② 鸭科动物家鸭蛋。<sup>\[如东\]</sup>  
+1. 【[鸭蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen.md#鸭蛋)】`ngaeh7 taen6` ① 鸭蛋 ② 考试零分  
 1. 【[鸭蛋粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_fen.md#鸭蛋粉)】`ngaeh7 taen6 fen3` <sup>[兴化]</sup> 旧时出售的香粉，椭圆形，像从中劈开的鸭蛋，故名。  
 1. 【[鸭蛋圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_iun.md#鸭蛋圆)】`ngaeh7 taen6 iun2` <sup>[兴化]</sup> 椭圆。  
 1. 【[鸭蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen_zz_r.md#鸭蛋子<sub>儿</sub>)】`ngaeh7 taen6 zz3 r` <small>/ŋeʔ7 tʰẽ1 t͡sɿ˞3/<sup>如皋</sup></small> ① 鹅卵石。见“石蛋儿”。<sup>\[如皋\]</sup> ② 鹅卵石。<sup>\[如皋\]</sup>  

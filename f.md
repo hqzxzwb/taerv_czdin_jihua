@@ -884,7 +884,7 @@
 1. 【[风汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xien.md#风汛)】`fon1 xien5` <sup>[兴化]</sup> 深秋或入冬后，因冷空气入浸而刮大风：掼～；撂～。  
 1. 【[风水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_xy.md#风水)】`fon1 xy3` <sup>[东台]</sup> 指住宅地、坟地等的地理形势，如地脉、山水的方向等：～宝地；～轮流转。  
 1. 【[风筝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhen.md#风筝)】`fon1 zhen1` <sup>[如东]</sup> 用竹篾或芦苇扎成一定形状的匡架，糊上纸或绢，上面安装哨子、葫芦等响器，用线系着，随着风势飞上天空，发出阵阵的响声，这种玩具叫做风筝。  
-1. 【[风中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhon.md#风中)】`fon1 zhon5` <small>/fɔŋ1 t͡sɔŋ5/<sup>如皋</sup></small> ① 中风。<sup>\[如东\]</sup>：张三昨朝～吖。<sup>\[如东\]</sup> ② 中风。<sup>\[如皋\]</sup>  
+1. 【[风中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_zhon.md#风中)】`fon1 zhon5` <small>/fɔŋ1 t͡sɔŋ5/<sup>如皋</sup></small> 中风。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：张三昨朝～吖。<sup>\[如东\]</sup>  
 1. 【[冯道立](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_to_lieh.md#冯道立)】`fon2 to6 lieh8` <sup>[东台]</sup> （1782-1860），字务堂，号西园，东台时堰人，清代水利学家。一生主持过许多大，中型水利工程，并有许多水利专著，已刊刻问世著作六种。  
 1. 【[缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon.md#缝)】`fon2` <sup>[如东]</sup> 一种缝纫方法。用针线将两块布料连起来，称缝。  
 1. 【[缝补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_bv.md#缝补)】`fon2 bv3` <sup>[如东]</sup> 缝和补，主要是补：～衣裳。  

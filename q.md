@@ -1092,7 +1092,6 @@
 1. 【[青紫贡吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_zz_gon_nga.md#青紫贡吖)】`qien1 zz3 gon5 nga` <sup>[如皋]</sup> 皮肤内现出淤血痕并肿起。贡，借指肿胀发炎。  
 1. 【[顉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#顉)】`qien1` <small>/t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① （【廣韻】去金切【集韻】【韻會】祛音切【正韻】驅音切，音欽。【廣韻】曲頤之貌。【前漢·揚雄傳】顉頤折頞。） ② 微微抖动<sup>\[如皋\]</sup>：头～吖～的。<sup>\[如皋\]</sup>  
 1. 【[□脚泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jiah_ni.md#□脚泥)】`qien2 jiah ni2` <sup>[如皋]</sup> 黏土。  
-1. 【[□泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#□泥)】`qien2 ni2` <sup>[如皋]</sup> 黏土。如皋词典写“缠泥”。  
 1. 【[勤而不俭，枉劳其功：俭而不勤，甘受其苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_er_beh_jin.md#勤而不俭，枉劳其功：俭而不勤，甘受其苦)】`qien2 er2 beh7 jin3 van3 lo2 qi2 gon1 jin3 er2 beh7 qien2 gun1 sheu6 qi2 kv3` <sup>[东台]</sup> 生财、聚财，缺一不可。  
 1. 【[勤而不美](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_er_beh_mei.md#勤而不美)】`qien2 er2 beh7 mei3` <sup>[如皋]</sup> 代为做了事，不讨好，反而招致埋怨。  
 1. 【[勤繁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_faen.md#勤繁)】`qien2 faen2` <small>/t͡ɕʰin2 fɛ̃2/<sup>兴化</sup>, /t͡ɕʰiŋ2 fɛ̃2/<sup>泰县</sup></small> ① 频繁<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他这一向理发蛮～的。<sup>\[兴化\]</sup>｜他这个人到领导家串门～。<sup>\[兴化\]</sup>｜他来得～哎。<sup>\[泰县\]</sup> ② 频繁，频率快<sup>\[泰州\]</sup>：打她带啊身上后，她家妈妈就来得～。<sup>\[泰州\]</sup>  
@@ -1100,6 +1099,7 @@
 1. 【[勤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lieh.md#勤力)】`qien2 lieh` <small>/t͡ɕʰin2 liɪʔ/<sup>兴化</sup></small> ① 勤劳 ② 勤劳。<sup>\[如东\]</sup>：他做事～。<sup>\[如东\]</sup> ③ 勤快<sup>\[东台\]</sup><sup>\[兴化\]</sup>：她家姑娘～吤（gae），丢掉钉筢拿扫帚，一天到夜不得闲。<sup>\[东台\]</sup>｜老朱家毛脚女婿真～，一上门就帮吖做事。<sup>\[兴化\]</sup>｜“你老人家这园子好菜蔬，可见是～人。”（《岐路灯》四五）<sup>\[兴化\]</sup> ④ 主动尽力地做<sup>\[泰州\]</sup>：他家这个新妇～，在家里忙吖不歇，块块弄得清清爽爽的。<sup>\[泰州\]</sup>  
 1. 【[勤力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lieh.md#勤力)】`qien2 lieh8` <sup>[如皋]</sup> 勤快，勤劳。  
 1. 【[勤手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu_zho_r.md#勤手爪<sub>儿</sub>)】`qien2 sheu3 zho3 r` <sup>[如皋]</sup> 见“手爪儿轻”。  
+1. 【[墐泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#墐泥)】`qien2 ni2` <small>/t͡ɕʰiəŋ2 nʝ2/<sup>如皋</sup>, /t͡ɕʰiŋ2 nʝ2/<sup>泰兴</sup></small> 黏土。<sup>\[如东\]</sup>\[如皋：如皋词典写“缠泥”。\]\[泰兴：带有粘性的青黑色泥土。\]：这许都是～土。<sup>\[如东\]</sup>  
 1. 【[寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#寻)】`qien2` <small>/t͡ɕʰin2/<sup>兴化</sup>, /t͡ɕʰiəŋ2/<sup>如皋</sup>, /t͡ɕʰiŋ2/<sup>泰兴</sup>, /t͡ɕʰiŋ2/<sup>泰县</sup></small> ① 找，寻找<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：你～哪个？/你找谁？｜钥匙～不到。/钥匙找不到。｜不晓得放吖在哪许，要～下子。<sup>\[如皋\]</sup>｜他在下～工作。<sup>\[泰县\]</sup> ② 寻求雇佣<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～短工<sup>\[兴化\]</sup>｜“却才兄长只顾问梁山泊路头，要～船去……”。（《水浒传》十一）<sup>\[兴化\]</sup>｜～个保姆<sup>\[泰州\]</sup> ③ 找（对象）<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～婆娘<sup>\[兴化\]</sup>｜“……你不如趁早休了我去，我趁着这年小还有人～……”（《醒世烟缘传》七九）<sup>\[兴化\]</sup>｜他家姑娘还不曾～到人<sup>\[泰州\]</sup>  
 1. 【[寻岔巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cha_ba_r.md#寻岔巴<sub>儿</sub>)】`qien2 cha5 ba1 r` <sup>[如东]</sup> 故意找毛病：他是来～的。  
 1. 【[寻疵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cz_teu.md#寻疵头)】`qien2 cz2 teu` <sup>[如东]</sup> 找毛病，找借口：他是～。  
@@ -1136,7 +1136,6 @@
 1. 【[情势不对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_beh_duei.md#情势不对)】`qien2 shr5 beh7 duei5` <sup>[如皋]</sup> 情形不对。  
 1. 【[晴带雨伞饱带粮——留一手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dae_y_saen.md#晴带雨伞饱带粮——留一手)】`qien2 dae5 y3 saen3 bo3 dae5 lian2 lieu2 ieh7 sheu3` <sup>[东台]</sup>   
 1. 【[桯凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_den.md#桯凳)】`qien2 den5` <small>/t͡ɕʰin2 tən5/<sup>兴化</sup>, /t͡ɕʰiŋ2 təŋ5/<sup>泰县</sup></small> ① 大凳。<sup>\[泰县\]</sup> ② 一种特殊加工的长凳，凳面四周用实木，中间用板，比板凳厚重，且长而宽。<sup>\[东台\]</sup> ③ 一种质地较好并嵌有花板的长凳。<sup>\[兴化\]</sup> ④ 一种条形大凳，整体坚实富足，两头凳面下有蝶形饰板。<sup>\[泰州\]</sup>  
-1. 【[秦泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni.md#秦泥)】`qien2 ni2` <sup>[如东]</sup> 黏性土质：这许都是～土。  
 1. 【[秦泥路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ni_lv.md#秦泥路)】`qien2 ni2 lv6` <sup>[如东]</sup> 路面由粘质土壤铺成的路，称秦泥路。透水性差，雨后泥泞难行。  
 1. 【[芹菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae.md#芹菜)】`qien2 cae5` <small>/t͡ɕʰiŋ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 伞科植物旱芹，又名蒲芹，一年或二年生草本。<sup>\[如东\]</sup> ② 一种蔬菜，叶羽状，叶柄肥大，茎叶均可食用，对预防高血压、动脉硬化等十分有益，又叫“药芹”“秋壅菜”。<sup>\[东台\]</sup> ③ 又名“水芹菜”，多年水生宿根草本植物，茎干似竹有节中空，茎为冬季蔬菜。泰州民俗，农历腊月二十四送灶晚上煮糯米饭，吃芹菜豆腐汤，取其谐音“勤劳兜富”。<sup>\[泰州\]</sup> ④ 蔬菜的一种，有药用价值。<sup>\[泰兴\]</sup>  
 1. 【[苘麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ma.md#苘麻)】`qien3 ma2` <sup>[如东]</sup> 锦葵科植物苘麻，一年生草本。  
@@ -1764,10 +1763,11 @@
 1. 【[绝子绝孙绝房门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_zz_qiuh_suen.md#绝子绝孙绝房门)】`qiuh8 zz3 qiuh8 suen1 qiuh8 fan2 men2` <sup>[如皋]</sup> 詈语。指后代断绝，房族断绝。  
 1. 【[𥏘头<sub>儿</sub>砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r_zhun.md#𥏘头<sub>儿</sub>砖)】`qiuh8 teu2 r zhun1` <sup>[如东]</sup> 断了的砖头。也叫砖头头儿、砖头佬儿。  
 1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <sup>[如皋]</sup> 见“圈令”。  
+1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <small>/t͡ɕʰyʊ̃1 lɑŋ/<sup>泰兴</sup></small> 圈（形状）<sup>\[泰兴\]</sup>  
 1. 【[圈浪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan_r.md#圈浪<sub>儿</sub>)】`qiun1 lan r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈零)】`qiun1 lien2` <sup>[如东]</sup> 来回一趟，称为一个圈零：我跑啊几个～。  
 1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> 来回：跑～、转～、一个～。  
-1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun2 ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
+1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <small>/t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 耳环及其他环状物。<sup>\[如皋\]</sup> ② 太阳月亮周围的光圈<sup>\[泰州\]</sup>：亮月子边上有个～。<sup>\[泰州\]</sup>  
 1. 【[圈套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_to.md#圈套)】`qiun1 to5` <sup>[如东]</sup> 使人上当受骗的计谋：中吖～。  
@@ -1783,6 +1783,7 @@
 1. 【[全家福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jia_foh.md#全家福)】`qiun2 jia1 foh7` <sup>[东台]</sup> ① 地方名菜。鸡汤清炖鱼肚、玉兰片，内有鱼圆、肉圆、虾圆，如加海参，则为“戴帽子～”。 ② 全家合影。  
 1. 【[全扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pa.md#全扒)】`qiun2 pa2` <small>/t͡ɕʰyʊ̃2 pʰa2/<sup>如皋</sup></small> ① 见“肚全”。<sup>\[如皋\]</sup> ② 猪内脏心肺肝肾胃大肠一副。<sup>\[如皋\]</sup> ③ 猪的一副内脏，包括心、肺、肝、肾、胃、肠。<sup>\[如东\]</sup>  
 1. 【[全手全脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_sheu_qiun_jiah.md#全手全脚)】`qiun2 sheu3 qiun2 jiah7` <sup>[如皋]</sup> 肢体健全。  
+1. 【[圈盘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_tuei.md#圈盘腿)】`qiun2 pun tuei3` <small>/t͡ɕʰyʊ̃2 pʰʊ̃ tʰəɪ3/<sup>泰兴</sup></small> 罗圈腿。<sup>\[泰兴\]</sup>  
 1. 【[拳不离手，曲不离口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_beh_li_sheu.md#拳不离手，曲不离口)】`qiun2 beh7 li2 sheu3 qioh7 beh7 li2 keu3` <sup>[如皋]</sup> 凡事经常演用，不会疏失。  
 1. 【[拳打脚踢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_da_jiah_tieh.md#拳打脚踢)】`qiun2 da3 jiah7 tieh7` <sup>[东台]</sup> 形容痛打，手脚并用的样子。  
 1. 【[拳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_teu.md#拳头)】`qiun2 teu` <small>/t͡ɕʰyũ2 tʰɤ/<sup>兴化</sup>, /t͡ɕʰyʊ̃2 tʰei/<sup>如皋</sup></small> ① 门窗上装小铁环处的凸起。<sup>\[如皋\]</sup> ② 固定在门窗上与转搭相配套的小铁环。<sup>\[兴化\]</sup>  
