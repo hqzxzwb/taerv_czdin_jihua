@@ -1489,8 +1489,8 @@
 1. 【[笤束](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_shoh.md#笤束)】`tio2 shoh7` 扫帚，清扫地面垃圾、尘土的用具。旧时以高粱穗秆捆扎而成，故名。<sup>\[泰州\]</sup>  
 1. 【[笤帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zheu.md#笤帚)】`tio2 zheu` <sup>[如东]</sup> 用芦穄、荭草穗扎成，有柄，扇面呈斜形，长约一尺左右，比扫帚小。用于扫除桌、柜及床铺灰尘。  
 1. 【[笤帚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zheu.md#笤帚)】`tio2 zheu3` <sup>[兴化]</sup> 扫除尘土、垃圾的用具，用去粒的高粱穗（芦秫苗）制成。  
-1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7` <sup>[兴化]</sup> 又称“扫竹”，用细竹枝扎成，有长柄，用于清扫场院或街道等。  
-1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7-3` <sup>[泰县]</sup> 扫帚：要～扫地。  
+1. 【[笤竹星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh_xien.md#笤竹星)】`tio2 zhoh xien1` <small>/tʰiɔ2 t͡sɔʔ ɕiŋ1/<sup>泰兴</sup></small> 扫帚星。慧星的俗称。<sup>\[泰兴\]</sup>  
+1. 【[笤竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zhoh.md#笤竹)】`tio2 zhoh7` <small>/tʰiɔ2 t͡sɔʔ7/<sup>兴化</sup>, /tʰiɔ2 t͡sɔʔ/<sup>泰兴</sup>, /tʰiɔ2 t͡sɔʔ3/<sup>泰县</sup></small> 扫地的笤帚<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[兴化：又称“扫竹”，用细竹枝扎成，有长柄，用于清扫场院或街道等。\]：要把～扫地。<sup>\[泰县\]</sup>  
 1. 【[苕苕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_tio_r.md#苕苕<sub>儿</sub>)】`tio2 tio2 r` <sup>[如皋]</sup> 一种高杆的豆科作物，耐碱。种子可食，多作饲料。  
 1. 【[苕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_zz.md#苕子)】`tio2 zz` <small>/tʰiɔ2 t͡sɿ/<sup>泰兴</sup></small> 豆科植物，指红花草、苜蓿。多用于沤制绿肥。<sup>\[泰兴\]</sup>  
 1. 【[调直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_cheh.md#调直)】`tio2 cheh` <small>/tʰiɔ2 t͡sʰəʔ/<sup>泰兴</sup></small> 有条理；好，上规矩。另参见“调适”。<sup>\[泰兴\]</sup>  

@@ -900,6 +900,7 @@
 1. 【[梨瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_gua.md#梨瓜)】`li2 gua1` <sup>[如皋]</sup> 甜瓜的一种。球形。  
 1. 【[梨木灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_moh_huei.md#梨木灰)】`li2 moh8 huei1` <sup>[如东]</sup> 蔷薇科植物沙梨的木材烧成的灰。  
 1. 【[犁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#犁)】`li2` <sup>[如东]</sup> 农具。由犁头、犁辕等构成。种类很多，有木制或铁制的，有人力、畜力或机器牵引的。主要用以翻地松土。  
+1. 【[犁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#犁)】`li2` <small>/lʝ2/<sup>泰兴</sup></small> 农具。用于耕田。<sup>\[泰兴\]</sup>  
 1. 【[犁把手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_sheu.md#犁把手)】`li2 ba3 sheu3` <sup>[如东]</sup> 犁梢上的短木棍，供犁手提犁使用。  
 1. 【[犁把手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_sheu_r.md#犁把手<sub>儿</sub>)】`li2 ba3 sheu3 r` <sup>[如皋]</sup> 犁后部右侧的短木，供耕者提犁身用。  
 1. 【[犁柄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bien.md#犁柄)】`li2 bien5` <sup>[如皋]</sup> 耕者扶犁用的长柄。  
@@ -917,9 +918,10 @@
 1. 【[犁盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_pun_zz.md#犁盘子)】`li2 pun2 zz` <small>/lʝ2 pʰʊ̃2 t͡sɿ/<sup>如皋</sup></small> ① 木制，长条形，两端系笮、中间系七寸扣儿连接犁辕。<sup>\[如东\]</sup> ② 与牛桶头前后以绳相连的弓形木，按在牛尾后部，并与犁辕以绳相连。以传递牛的牵力。<sup>\[如皋\]</sup>  
 1. 【[犁舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shih.md#犁舌)】`li2 shih8` <sup>[如东]</sup> 钉在犁底前端下边的部件，铁制，长条形，起保护木质犁底的作用。  
 1. 【[犁梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sho.md#犁梢)】`li2 sho1` <sup>[如东]</sup> 木制，弯杆形，连接犁辕、犁底并供犁手驾犁用。  
+1. 【[犁梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sho.md#犁梢)】`li2 sho1` <small>/lʝ2 sɔ1/<sup>泰兴</sup></small> 犁扶手的末梢部分。<sup>\[泰兴\]</sup>：要嫁就嫁夹皮包的，不肯把lei扶犁梢的（种田的）（乡间戏言）<sup>\[泰兴\]</sup>  
 1. 【[犁耥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tan.md#犁耥)】`li2 tan3` <sup>[如东]</sup> 钉在犁底后端下边的部件，铁制，长条形，起保护木质犁底的作用。  
 1. 【[犁躺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tan.md#犁躺)】`li2 tan3` <sup>[如皋]</sup> 镶在犁底下部的槽形铸铁。  
-1. 【[犁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#犁头)】`li2 teu2` <small>/lʝ2 tʰei2/<sup>如皋</sup></small> ① 生铁铸，三角形，头尖锐，安装在犁底前端，用以翻土。也称犁头尖儿。<sup>\[如东\]</sup> ② 犁铧和犁镜组成的部件。<sup>\[如皋\]</sup> ③ 铁制的农具配件，安装在犁杖的前端，用来犁开泥土。<sup>\[东台\]</sup>  
+1. 【[犁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu.md#犁头)】`li2 teu2` <small>/lʝ2 tʰei2/<sup>如皋</sup>, /lʝ2 tʰəɪ2/<sup>泰兴</sup></small> ① 生铁铸，三角形，头尖锐，安装在犁底前端，用以翻土。也称犁头尖儿。<sup>\[如东\]</sup> ② 犁铧和犁镜组成的部件。<sup>\[如皋\]</sup> ③ 铁制的农具配件，安装在犁杖的前端，用来犁开泥土。<sup>\[东台\]</sup> ④ 犁的主要部件，铁质，三角形，装于犁底。<sup>\[泰兴\]</sup>  
 1. 【[犁头草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu_co.md#犁头草)】`li2 teu2 co3` <sup>[如皋]</sup> 心叶堇菜。  
 1. 【[犁头鳐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu_io.md#犁头鳐)】`li2 teu2 io2` <sup>[如东]</sup> 犁头鳐科动物颗粒犁头鳐。  
 1. 【[犁头镜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_teu_jien_zz.md#犁头镜子)】`li2 teu2 jien5 zz` <sup>[如皋]</sup> 见“犁支”。  
@@ -2128,7 +2130,7 @@
 1. 【[陆骧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_xian.md#陆骧)】`loh8 xian1` <sup>[东台]</sup> （1905-1930），东台最早的中共党员之一。青年时学习马列主义追求真理。“五卅惨案”发生后，在南通积极参加反帝斗争。后因叛徒告密被捕，坚贞不屈，就义时年仅25岁。  
 1. 【[砻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#砻)】`lon2` <sup>[如东]</sup> 稻谷破壳取米的农具，由上臼、下臼、摇擘和支座组成。砻臼面上镶硬木或竹齿，工作时，下臼不动，人力推动上臼旋转，借臼齿搓擦，使稻壳裂脱。  
 1. 【[砻糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_kan.md#砻糠)】`lon2 kan1` <sup>[如东]</sup> 稻谷砻过后脱下的外壳。  
-1. 【[笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#笼)】`lon2` <small>/loŋ2/<sup>兴化</sup>, /lɔŋ2/<sup>如皋</sup></small> ① 厨具。木制或竹制，方形或圆形。每一层，叫一格、一扁。可以叠加。用以蒸馒头。也叫笼屉。<sup>\[如东\]</sup> ② 用笼诱捕鸟、虫<sup>\[如皋\]</sup>：用一只笼鸟做𪉏子，旁边挂一只空笼子，把野鸟儿～进来。<sup>\[如皋\]</sup> ③ 在袖里或怀中藏东西<sup>\[兴化\]</sup><sup>\[如皋\]</sup>：他把手～吖袖筒里。<sup>\[兴化\]</sup>｜“这位老爷忒没算计，不～馒头，怎的把饭～了，却不污了衣服？”（《西游记》四七）<sup>\[兴化\]</sup>｜把手～吖衣袖肚里。<sup>\[如皋\]</sup> ④ 将物藏于袖筒之中<sup>\[泰州\]</sup>：哪个想到他把橘子～吖袖肚里啊。<sup>\[泰州\]</sup> ⑤ 通过手段将他人团结在自己一边<sup>\[泰州\]</sup>：他这个人，～不住人，不能当领导。<sup>\[泰州\]</sup>  
+1. 【[笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon.md#笼)】`lon2` <small>/loŋ2/<sup>兴化</sup>, /lɔŋ2/<sup>如皋</sup>, /lɔŋ2/<sup>泰兴</sup></small> ① 厨具。木制或竹制，方形或圆形。每一层，叫一格、一扁。可以叠加。用以蒸馒头。也叫笼屉。<sup>\[如东\]</sup> ② 用笼诱捕鸟、虫<sup>\[如皋\]</sup>：用一只笼鸟做𪉏子，旁边挂一只空笼子，把野鸟儿～进来。<sup>\[如皋\]</sup> ③ 在袖里或怀中藏东西<sup>\[兴化\]</sup><sup>\[如皋\]</sup>：他把手～吖袖筒里。<sup>\[兴化\]</sup>｜“这位老爷忒没算计，不～馒头，怎的把饭～了，却不污了衣服？”（《西游记》四七）<sup>\[兴化\]</sup>｜把手～吖衣袖肚里。<sup>\[如皋\]</sup> ④ 将物藏于袖筒之中<sup>\[泰州\]</sup>：哪个想到他把橘子～吖袖肚里啊。<sup>\[泰州\]</sup> ⑤ 通过手段将他人团结在自己一边<sup>\[泰州\]</sup>：他这个人，～不住人，不能当领导。<sup>\[泰州\]</sup> ⑥ 多指蒸笼。乡人称蒸笼直称“笼”。<sup>\[泰兴\]</sup>  
 1. 【[笼表店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_bio_din.md#笼表店)】`lon2 bio3 din5` <sup>[如皋]</sup> 制售圆笼、鸟笼、竹针、漏勺、罗筛、织机综等的店家。  
 1. 【[笼布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_bv.md#笼布)】`lon2 bv5` <small>/loŋ2 pu5/<sup>兴化</sup>, /lɔŋ2 pu5/<sup>如皋</sup></small> ① 蒸糕时蒸笼内的纱布垫层。<sup>\[如皋\]</sup> ② 蒸面食或米团时铺在竹箅上的布。<sup>\[兴化\]</sup>  
 1. 【[笼得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_deh.md#笼得)】`lon2 deh7` <sup>[东台]</sup> 能够装进很多东西：一堆行李都放进去了，这箱子真～！  
@@ -2139,12 +2141,14 @@
 1. 【[笼饺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_jio_r.md#笼饺<sub>儿</sub>)】`lon2 jio3 r` <sup>[如皋]</sup> 笼蒸饺子。圆皮，加馅后捏荷叶边，包馅类型多。  
 1. 【[笼𥬭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_lih_zz.md#笼𥬭子)】`lon2 lih8 zz` <sup>[如皋]</sup> 笼屉底部的栅形毛竹片组件。  
 1. 【[笼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu.md#笼头)】`lon2 teu2` <sup>[如皋]</sup> 喻规矩、约束：匄他上～。  
+1. 【[笼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_teu.md#笼头)】`lon2 teu2` <small>/lɔŋ2 tʰəɪ2/<sup>泰兴</sup></small> 套在牛马等牲畜头上的用具。<sup>\[泰兴\]</sup>  
 1. 【[笼垫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_tin_r.md#笼垫<sub>儿</sub>)】`lon2 tin6 r` <small>/lɔŋ2 tʰi˞1/<sup>如皋</sup></small> ① 蒸笼的配件，关草制，方形或圆形，摆在笼络儿上，用于摆放馒头。<sup>\[如东\]</sup> ② 蒸馒头时蒸笼内的草叶垫层。常用蒲叶或苮棵叶“翘二”扼成方形。<sup>\[如皋\]</sup>  
 1. 【[笼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#笼子)】`lon2 zz` <sup>[如东]</sup> 容器。细竹丝制成，竹条间隔稀疏，圆形或方形，六面封闭，旁边开门。主要用来盛鸟、养鸟。  
+1. 【[笼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#笼子)】`lon2 zz` <small>/lɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 竹编器具。多用于关禽鸟类动物。<sup>\[泰兴\]</sup>：鸡～<sup>\[泰兴\]</sup>｜雀儿～<sup>\[泰兴\]</sup>  
 1. 【[聋里𦗭地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_lii_pon_ti.md#聋里𦗭地)】`lon2 lii pon6 ti6` <sup>[兴化]</sup> 形容耳聋听不清声音的情态。  
 1. 【[聋聋𦗭𦗭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_lon_pon_pon.md#聋聋𦗭𦗭)】`lon2 lon2 pon6 pon6` <sup>[兴化]</sup> 形容耳聋听不清声音的情态。  
 1. 【[聋𦗭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_pon.md#聋𦗭)】`lon2 pon6` <sup>[兴化]</sup> 形容耳聋听不清声音的情态。‖生动形式为“聋聋𦗭𦗭”“聋里𦗭地”。  
-1. 【[聋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#聋子)】`lon2 zz` <sup>[如东]</sup> 失去听觉的人。  
+1. 【[聋子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz.md#聋子)】`lon2 zz` 失去听觉的人。  
 1. 【[聋子不怕响大雷，瞎子不怕刟人牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_beh_pa.md#聋子不怕响大雷，瞎子不怕刟人牛)】`lon2 zz beh7 pa5 xian3 da5 luei2 haeh7 zz beh7 pa5 dio1 ren ngeu2` <small>/lɔŋ2 t͡sɿ pəʔ7 pʰɑ5 ɕiɑŋ3 tɑ5 ləɪ2 xæʔ7 t͡sɿ pəʔ7 pʰɑ5 tiɔ1 ɻəŋ ŋəɪ2/<sup>泰兴</sup></small> 乡谚。谓反正就是这回事，什么都不害怕。<sup>\[泰兴\]</sup>  
 1. 【[聋子的耳朵——摆设](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_dii_er.md#聋子的耳朵——摆设)】`lon2 zz dii er3 du bae3 shih7` <sup>[东台]</sup>   
 1. 【[聋子的耳朵，牌子账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lon_zz_dii_er.md#聋子的耳朵，牌子账)】`lon2 zz dii er3 du pae2 zz zhan5` <small>/lɔŋ2 t͡sɿ təɪ ɚ3 tɤɯ pʰɛ2 t͡sɿ t͡sɑŋ5/<sup>泰兴</sup></small> 歇后语。谓装装样子，没有实际作用。<sup>\[泰兴\]</sup>  

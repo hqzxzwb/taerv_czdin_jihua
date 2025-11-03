@@ -1046,6 +1046,7 @@
 1. 【[奔（逩）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#奔（逩）)】`ben5` <sup>[如皋]</sup> 尽量接触到，同彀：挂得虽高，我还～得到。  
 1. 【[奔得凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deh_xion.md#奔得凶)】`ben5 deh7 xion1` <sup>[如皋]</sup> 为追求目标努力得很，争取得历害。  
 1. 【[奔港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_gan.md#奔港)】`ben5 gan3` <sup>[兴化]</sup> 形容胃口好、食欲强：他吃茶饭～㗁。  
+1. 【[笨嘴拙舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_zuei_zhuh_shih.md#笨嘴拙舌)】`ben5 zuei3 zhuh7 shih8` <small>/pəŋ5 t͡suəɪ3 t͡sʊʔ7 ɕiʔ8/<sup>泰兴</sup></small> 表达能力差，没有口才。<sup>\[泰兴\]</sup>  
 1. 【[屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄)】`bi1` <sup>[如东]</sup> 女子的生殖器。  
 1. 【[屄（毴、𣭈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄（毴、𣭈）)】`bi1` <sup>[泰州]</sup> ① 女性外生殖器：这个老～不是好东西！ ② 泛指部分雌性家畜外生殖器：敢同老王动手动脚的，当真是老鼠肏猫～，活得不耐烦！  
 1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pi1 pi1 tiɔ3 tiɔ3/<sup>兴化</sup>, /pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> ① （贬）男男女女。<sup>\[兴化\]</sup> ② 有关男女风化方面的事<sup>\[兴化\]</sup>：你一开口又是～的事，真无聊。<sup>\[兴化\]</sup> ③ 也说“屄啊屌的”。<sup>\[兴化\]</sup> ④ 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
