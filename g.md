@@ -2063,7 +2063,6 @@
 1. 【[姑公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gon_gon.md#姑公公)】`gv1 gon1 gon1` <sup>[如皋]</sup> 见“姑外公”。  
 1. 【[姑爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_i.md#姑爷)】`gv1 i` <sup>[如皋]</sup> 指称丈夫姐妹的丈夫。  
 1. 【[姑绺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lieu_r.md#姑绺<sub>儿</sub>)】`gv1 lieu3 r` <sup>[如皋]</sup> 见“刘海儿”。  
-1. 【[姑老/婟嫪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#姑老/婟嫪)】`gv1 lo` <sup>[泰州]</sup> ① 嫖客。 ② 女子的姘夫或情夫：那个小伙就是这个马马儿的小～。  
 1. 【[姑老爹、姑老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo_dia_gv.md#姑老爹、姑老太)】`gv1 lo dia1 gv1 lo tae5` <sup>[如皋]</sup> ① 对长、平辈出室女及其丈夫的尊称（主要指中老年时）。 ② 对晚辈出室女及其丈夫的昵称、贬称（尤其是年轻时）。  
 1. 【[姑老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo_tae.md#姑老太)】`gv1 lo3 tae5` <sup>[兴化]</sup> ① 父亲或母亲的姑祖母。 ② 丈夫的姑祖母。  
 1. 【[姑妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ma.md#姑妈)】`gv1 ma` <sup>[泰州]</sup> 父亲已经出嫁的姐姐。  
@@ -2089,8 +2088,8 @@
 1. 【[孤鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_guei.md#孤鬼)】`gv1 guei3` <sup>[泰州]</sup> 或者没有亲人相依的人：她的子女都在外国，老头儿一死，就剩吖她一个～，只好上吖福利院。  
 1. 【[孤魂野鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_huen_ia_guei.md#孤魂野鬼)】`gv1 huen2 ia3 guei3` <small>/ku1 xuəŋ2 iɑ3 kuəɪ3/<sup>泰兴</sup></small> ① 指因天灾人祸而客死他乡无人问津的人。<sup>\[东台\]</sup> ② 谓无子女的人死去后的鬼魂。喻无依无靠，形影相吊者，或游荡无处落脚者。<sup>\[泰兴\]</sup>  
 1. 【[孤幼学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ieu_xiah_tan.md#孤幼学堂)】`gv1 ieu5 xiah8 tan2` <sup>[如皋]</sup> 清末（1906）知县周景焘捐俸创建。假南坛吕祖殿改建（在西南城脚三角池旁），收孤幼学童，供给午餐，半工半读。为私立初级小学堂。  
-1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo` <small>/ku1 lɔ/<sup>兴化</sup>, /ku1 lɔ/<sup>如皋</sup>, /ku1 lɔ/<sup>泰兴</sup></small> ① 贬指与女人婚外恋的男人。（原文作“婟嫪”，音不全合）<sup>\[如皋\]</sup> ② 情夫。<sup>\[东台\]</sup> ③ 女子所私的人，包括嫖客、姘夫等<sup>\[兴化\]</sup>\[泰兴：又称“野孤老”\]：偷～；放～。“你接着得意～也好了，怎该来啰唣我？”（《警世通言》二四）<sup>\[兴化\]</sup>  
-1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo3` <small>/ku1 lɔ3/<sup>兴化</sup></small> ① 无子女的老人。<sup>\[东台\]</sup> ② 无子女、亲属，年老而孤独的人。<sup>\[兴化\]</sup> ③ 现在用作孤寡老人的节缩称谓。<sup>\[兴化\]</sup>  
+1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo` <small>/ku1 lɔ/<sup>兴化</sup>, /ku1 lɔ/<sup>如皋</sup>, /ku1 lɔ/<sup>泰兴</sup></small> 宿娼或歌童使女所倚靠的人\[泰兴：又称“野孤老”\]\[兴化：女子所私的人，包括嫖客、姘夫等\]\[泰州：嫖客；女子的姘夫或情夫\]\[东台：情夫\]\[如皋：贬指与女人婚外恋的男人\]：偷～；放～。“你接着得意～也好了，怎该来啰唣我？”（《警世通言》二四）<sup>\[兴化\]</sup>  
+1. 【[孤老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_lo.md#孤老)】`gv1 lo3` <small>/ku1 lɔ3/<sup>兴化</sup></small> ① 无子女的老人。<sup>\[东台\]</sup> ② 无子女、亲属，年老而孤独的人。现在用作孤寡老人的节缩称谓。<sup>\[兴化\]</sup>  
 1. 【[孤痞秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_pi_xieu.md#孤痞秀)】`gv1 pi xieu5` <sup>[如皋]</sup> 不敢见生分人，喜独处的习性。  
 1. 【[孤骚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_so_qi.md#孤骚气)】`gv1 so1 qi` <sup>[东台]</sup> （贬）形容某人性格孤僻，气量小，相容性差：人家就是碰吖下子她的碗，她就大发脾气，真有点儿～！  
 1. 【[牯牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_ngeu.md#牯牛)】`gv1 ngeu2` <sup>[如皋]</sup> 公水牛。  
