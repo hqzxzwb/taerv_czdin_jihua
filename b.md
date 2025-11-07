@@ -367,9 +367,8 @@
 1. 【[板凳桌子一样高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_den_zhuah_zz.md#板凳桌子一样高)】`baen3 den5 zhuah7 zz ieh7 ian6 go1` <sup>[东台]</sup> ［喻］两相比较，肩上肩下：他俫～，要想把哪个刷掉，还真不好说。  
 1. 【[板㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_gun.md#板㔶)】`baen3 gun5` <sup>[如皋]</sup> 甑盖。两爿配对。  
 1. 【[板滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_huaeh.md#板滑)】`baen3 huaeh8` <sup>[如皋]</sup> 平滑，无刺毛。  
-1. 【[板逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ieh.md#板逸)】`baen3 ieh` <sup>[东台]</sup> 平整，熨帖：这套衣裳穿吖在他身上蛮～的。  
 1. 【[板油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ieu.md#板油)】`baen3 ieu2` <small>/pɛ̃3 iɤɯ2/<sup>泰兴</sup>, /pɛ̃3 iɤɯ2/<sup>泰县</sup></small> ① 生猪体腔内壁上呈板块状的脂肪。<sup>\[如东\]</sup> ② 猪的体腔内壁上呈板状的脂肪。也称板脂油。<sup>\[东台\]</sup> ③ ［喻］某人有学问，功底厚<sup>\[东台\]</sup>：李教授的～厚实！<sup>\[东台\]</sup> ④ 脂油。<sup>\[泰县\]</sup> ⑤ 猪体内的整块脂肪，板状，故名，是熬猪油的主要原料。<sup>\[泰州\]</sup> ⑥ 戏称人腹内的脂肪<sup>\[泰州\]</sup>：你肚肚里～厚，伙食差点儿没得事，掌得住熬。<sup>\[泰州\]</sup>｜你这吖胖，要经常喝点儿浓茶，打打～。<sup>\[泰州\]</sup> ⑦ 猪体腔内壁上成片状的脂肪。<sup>\[泰兴\]</sup>  
-1. 【[板□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ih.md#板□)】`baen3 ih7` <sup>[兴化]</sup> 平整而实在：书面子包得蛮～的。  
+1. 【[板□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_ih.md#板□)】`baen3 ih7` <small>/pɛ̃3 iɪʔ7/<sup>兴化</sup></small> 平整<sup>\[兴化\]</sup><sup>\[东台\]</sup>：书面子包得蛮～的。<sup>\[兴化\]</sup>｜这套衣裳穿吖在他身上蛮～的。<sup>\[东台\]</sup>  
 1. 【[板摇不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_io_beh_ton.md#板摇不动)】`baen3 io2 beh7 ton6` <sup>[如皋]</sup> 形容牢固。  
 1. 【[板结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jih.md#板结)】`baen3 jih7` <sup>[如东]</sup> 土壤中有机质少，下雨后，地面变硬，这种现象称板结。  
 1. 【[板笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_lah.md#板笿)】`baen3 lah8` <sup>[东台]</sup> 用竹篾做的大菜篮子。  
