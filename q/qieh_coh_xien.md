@@ -4,6 +4,7 @@ TODO 泰兴释义不同
 
 # 七簇星
 qieh7 coh7 xien1
+rg:qieh7 zoh xien1
 + 海豚座七星密集，谓之。
   * 如皋方言词典
   * 如东方言词典

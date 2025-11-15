@@ -1,9 +1,4 @@
 # 月上吖
-iuh8 shan nga
-> 如皋方言词典
-- 从前，原来，一向，一直。
-
-# 月上吖
-iuh8 shan3 nga
+iuh8/ih8 shan3 nga
 > 如皋方言词典
 - 原来、当初、一向。
