@@ -387,7 +387,6 @@
 1. 【[日里跑四方，晚上补裤裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_lii_po_sz.md#日里跑四方，晚上补裤裆)】`rih8 lii po2 sz5 fan1 vaen3 shan bv3 kv5 dan1` <sup>[如皋]</sup> ① 词面义：白天游逸四方，忘情快活，晚上补缀衣衫，考虑生计。 ② 警语：好逸恶劳，必然穷极潦倒。 ③ 奚落语：死要面子，晚上躲着补裤档，怕被人看到。  
 1. 【[日前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_qin.md#日前)】`rih8 qin2` <sup>[如东]</sup> 在这天之前。  
 1. 【[日晒夜露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shae_ia_lv.md#日晒夜露)】`rih8 shae5 ia6 lv6` <sup>[如皋]</sup> 露天放置。承受自然力磨炼。  
-1. 【[日上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_shan_nga.md#日上吖)】`rih8 shan nga` <sup>[如皋]</sup> 从前，原来，一向，一直。  
 1. 【[日头卯鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_teu_mo_gv.md#日头卯鼓)】`rih8 teu2 mo3 gv3` <sup>[兴化]</sup> 形容莽撞冒失：他～的乱说一气，把人心里说得五点六点的。  
 1. 【[日天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_tin.md#日天)】`rih8 tin1` <small>/liɪʔ8 tʰiɪ̃1/<sup>兴化</sup>, /ɻiʔ8 tʰĩ1/<sup>如皋</sup></small> ① 日出到日落的时段<sup>\[如皋\]</sup>：夏至的～最长，冬至的～最短。<sup>\[如皋\]</sup> ② 白天<sup>\[兴化\]</sup>：夏季～长冬季～短。<sup>\[兴化\]</sup>  
 1. 【[日消货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xio_hu.md#日消货)】`rih8 xio hu5` <sup>[兴化]</sup> 每天都要消费的商品：米面油盐是～，每天少不了。  

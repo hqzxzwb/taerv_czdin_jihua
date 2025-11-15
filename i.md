@@ -2174,8 +2174,7 @@
 1. 【[月亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lian.md#月亮)】`iuh8 lian6` <sup>[如东]</sup> 月球，是围绕地球转动的卫星，表面凹凸不平，本身不发光，只能反射太阳光，直径约为地球的四分之一，引力相当于地球的六分之一。  
 1. 【[月亮下看影子——自看自大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lian_ha_kun.md#月亮下看影子——自看自大)】`iuh8 lian6 ha6 kun5 ien3 zz cz6 kun5 cz6 da6` <sup>[东台]</sup>   
 1. 【[月老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_lo.md#月老)】`iuh8 lo3` ① 中国远古时代，民间把月神作为主婚之神。所以，后世称男性媒人为月老。<sup>\[如东\]</sup> ② 月下老人的简称，旧指媒人，即现在的婚姻介绍人。<sup>\[东台\]</sup>  
-1. 【[月上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_shan_nga.md#月上吖)】`iuh8 shan nga` <sup>[如皋]</sup> 从前，原来，一向，一直。  
-1. 【[月上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_shan_nga.md#月上吖)】`iuh8 shan3 nga` <sup>[如皋]</sup> 原来、当初、一向。  
+1. 【[月上吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_shan_nga.md#月上吖)】`iuh8 shan3 nga, ih8 shan3 nga` <sup>[如皋]</sup> 原来、当初、一向。  
 1. 【[月头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_teu.md#月头)】`iuh8 teu2` <small>/yʊʔ8 tʰəɪ2/<sup>泰兴</sup></small> 每个月开头的几天。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～上<sup>\[泰兴\]</sup>  
 1. 【[月小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_xio.md#月小)】`iuh8 xio3` <small>/yʊʔ8 ɕiɔ3/<sup>泰兴</sup></small> 阴历一个月二十九天。或指阳历一个月有三十天。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这个月～。<sup>\[泰州\]</sup>  
 1. 【[月晕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_yen.md#月晕)】`iuh8 yen6` <sup>[如东]</sup> 月光通过云层中的冰晶时，经折射产生的光环现象，在月亮周围形成大圆环。月晕常被认为是天气变化的预兆。通称风圈，也叫月彄。  

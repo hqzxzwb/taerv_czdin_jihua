@@ -1149,6 +1149,7 @@
 1. 【[咬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_teu.md#咬头)】`ngo3 teu2` <sup>[如皋]</sup> 咬断丝、线等打结后的多余处。  
 1. 【[咬定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_tien.md#咬定)】`ngo3 tien6` <sup>[如东]</sup> 供词坚持不变：王二～不改。  
 1. 【[咬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#咬子)】`ngo3 zz3` <small>/ɔ3 t͡sɿ3/<sup>兴化</sup>, /ŋɔ3 t͡sɿ3/<sup>如皋</sup>, /ŋɔ3 t͡sɿ3/<sup>泰兴</sup>, /ɔ3 t͡sɿ3/<sup>泰县</sup></small> 春夏之交，鱼类互相追逐、产卵，俗谓～。<sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[兴化：又叫“追子”。\]\[如皋：雄鱼紧随雌鱼后上方一边游，一边产卵授精。\]\[泰县：（泰县方言志“子”作轻声，释义“鱼散子”。可疑）\]：天气再暖和点儿，缸里的金鱼就要～唻。<sup>\[泰州\]</sup>  
+1. 【[懊恨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_hen.md#懊恨)】`ngo3 hen` <small>/ŋɔ3 xəŋ/<sup>泰兴</sup></small> 懊悔<sup>\[泰兴\]</sup>  
 1. 【[袄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#袄)】`ngo3` <small>/ŋɔ3/<sup>如皋</sup></small> ① 棉𧘸子、棉衣。<sup>\[如皋\]</sup> ② 见“𧘸子”。<sup>\[如皋\]</sup>  
 1. 【[坳沟头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_geu_teu_zz.md#坳沟头子)】`ngo5 geu1 teu2 zz` <sup>[兴化]</sup> 一端不通行的小河沟。也作“坳子”。  
 1. 【[坳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zz.md#坳子)】`ngo5 zz` <sup>[兴化]</sup> 一端不通行的小河沟。  

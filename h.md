@@ -328,7 +328,7 @@
 1. 【[瞎子吃汤圆——心里有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_qieh_tan.md#瞎子吃汤圆——心里有数)】`haeh7 zz qieh7 tan1 iun2 xien1 lii ieu3 shv5` <sup>[东台]</sup>   
 1. 【[瞎子闻到臭味——离屎（死）不远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz_ven_do.md#瞎子闻到臭味——离屎（死）不远)】`haeh7 zz ven2 do5 cheu5 vei6 li6 shr3（sz3） beh7 iun3` <sup>[东台]</sup>   
 1. 【[匣小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio.md#匣小)】`haeh8 xio3` <sup>[泰县]</sup> （禁忌语）小孩。  
-1. 【[匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz.md#匣子)】`haeh8 zz` <small>/xæʔ8 t͡sɿ/<sup>兴化</sup>, /xæʔ8 t͡se/<sup>泰县</sup></small> ① 装东西的盒子。<sup>\[东台\]</sup> ② 有盖的木盒。<sup>\[兴化\]</sup> ③ 装物用具。<sup>\[泰县\]</sup> ④ 装殓小孩的小棺材<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>\[兴化：一种粗劣的小棺材。借来咒骂小孩\]：～；野～；纳～。<sup>\[兴化\]</sup>  
+1. 【[匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_zz.md#匣子)】`haeh8 zz` <small>/xæʔ8 t͡sɿ/<sup>兴化</sup>, /xæʔ8 t͡se/<sup>泰县</sup></small> ① 装东西的盒子。<sup>\[东台\]</sup><sup>\[泰县\]</sup>\[兴化：有盖的木盒。\] ② 装殓小孩的小棺材<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[东台\]</sup>\[兴化：一种粗劣的小棺材。借来咒骂小孩\]：～；野～；纳～。<sup>\[兴化\]</sup>  
 1. 【[狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh.md#狭)】`haeh8` 窄  
 1. 【[狭狭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_haeh_r.md#狭狭<sub>儿</sub>)】`haeh8 haeh r, haeh8 3 r` <small>/xæʔ8 xæ˞/<sup>泰兴</sup></small> 狭窄，狭小；宽度小。<sup>\[泰兴\]</sup>  
 1. 【[狭𣻏脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haeh_xio_lin_r.md#狭𣻏脸<sub>儿</sub>)】`haeh8 xio1 lin3 r` <sup>[东台]</sup> 瘦而长的脸。  

@@ -548,7 +548,7 @@
 1. 【[七缠八缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chin_baeh_chin.md#七缠八缠的)】`qieh7 chin6 baeh7 chin6 dii` <sup>[如皋]</sup> 状纠缠不清。  
 1. 【[七出](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chueh.md#七出)】`qieh7 chueh7` <sup>[泰兴]</sup> 旧社会丈夫遗弃妻子的七种条款。“七出”谓：无子，淫佚，不事舅姑，口舌，盗窃，妒忌，恶疾。乡人有初春“七不出，八不归”之俗，云“正月初七不出门，”疑因此而来，盖今人不知“七出”之说也。  
 1. 【[七串联](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chun_lin.md#七串联)】`qieh7 chun5 lin2` <sup>[如东]</sup> 风筝的一种。用竹条做骨架，扎成六角形，上面糊银皮纸。七只六角风筝联在一起称七串联。最多的三十二串联。  
-1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <small>/t͡ɕʰiəʔ7 t͡sʰɔʔ7 ɕiəŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 t͡sʰɔʔ7 ɕiŋ1/<sup>泰兴</sup></small> ① 海豚座七星密集，谓之。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 用七只圆圈串联成的风筝，下有绳尾。<sup>\[如皋\]</sup> ③ 北斗星。<sup>\[泰兴\]</sup>  
+1. 【[七簇星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_coh_xien.md#七簇星)】`qieh7 coh7 xien1` <small>/t͡ɕʰiəʔ7 t͡sɔʔ ɕiəŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 t͡sʰɔʔ7 ɕiŋ1/<sup>泰兴</sup></small> ① 海豚座七星密集，谓之。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 用七只圆圈串联成的风筝，下有绳尾。<sup>\[如皋\]</sup> ③ 北斗星。<sup>\[泰兴\]</sup>  
 1. 【[七葱八蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_con_baeh_sun.md#七葱八蒜)】`qieh7 con1 baeh7 sun5` <sup>[如皋]</sup> 农历七月栽葱，八月栽蒜。  
 1. 【[七坐八爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬)】`qieh7 cu6 baeh7 pa2` <sup>[东台]</sup> 婴儿到了七个月就能坐起来，八个月就会爬了。  
 1. 【[七坐八爬，半岁出牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_cu_baeh_pa.md#七坐八爬，半岁出牙)】`qieh7 cu6 baeh7 pa2 bun5 suei5 chueh7 nga2` <sup>[泰兴]</sup> 谓小孩七八个月就会坐爬了，六个月大开始长乳牙，这是民间对婴儿成长的经验总结。  
