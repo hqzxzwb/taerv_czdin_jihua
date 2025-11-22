@@ -88,7 +88,7 @@
 1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
 1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
 1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> ① 闲谈。<sup>\[如东\]</sup> ② 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
-1. 【[入碰𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon_son.md#入碰𪨊)】`reh8 pon5 son2` <small>/ɻəʔ8 pɔŋ5 sɔŋ2/<sup>泰兴</sup></small> 同“入碰”。<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
+1. 【[入埲松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon_son.md#入埲松)】`reh8 pon6 son1` <small>/ɻəʔ8 pʰɔŋ1 sɔŋ1/<sup>泰兴</sup></small> 没有结果，事情没有办好<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
 1. 【[入席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieh.md#入席)】`reh8 qieh8` <sup>[如东]</sup> 开始坐酒席。  
 1. 【[入秋的高粱——老来红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qieu_dii_go.md#入秋的高粱——老来红)】`reh8 qieu1 dii go1 lian2 lo3 lae2 hon2` <sup>[东台]</sup>   

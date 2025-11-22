@@ -34,6 +34,7 @@
 1. 【[载住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_chuh_ga.md#载住咖)】`zae3 chuh8 ga` <sup>[如皋]</sup> 一定要，非要不可：他～要，你也没办法推辞。  
 1. 【[载定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tien.md#载定)】`zae3 tien6` <sup>[如皋]</sup> 贬指坚持要、坚持认为：你没有充足的依据怎吖就～吖是他做的咯？  
 1. 【[傤脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_jiah.md#傤脚)】`zae5 jiah7` <sup>[兴化]</sup> 由船上装载物的轻重造成船身入水的深浅：……他应当叫黄盖用些大石头摆在船上押押～……（《火烧赤壁》九）  
+1. 【[再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae.md#再)】`zae5` <small>/t͡ɕiɛ1/<sup>泰兴</sup></small> 表示让步<sup>\[泰兴\]</sup>：他～怎吖不好，你也不能打他啊/无论他多不好，你也不能打他<sup>\[泰兴\]</sup>｜～高我总不怕/无论多高我都不怕<sup>\[泰兴\]</sup>  
 1. 【[再表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_bio.md#再表)】`zae5 bio3` <sup>[如皋]</sup> 同曾祖（外曾祖）姻亲关系称。  
 1. 【[再好不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ho_beh_gu.md#再好不过)】`zae5 ho3 beh7 gu5` <sup>[如皋]</sup> 最好。  
 1. 【[再会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_huei.md#再会)】`zae5 huei6` ① 再见，分别时说的客套话。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 某件事情已经结束的委婉说法<sup>\[泰州\]</sup>：他家伢儿上重点高中估计是～唻。<sup>\[泰州\]</sup>｜他同这个丫头早就～唻，现在谈吖个纱厂的女的。<sup>\[泰州\]</sup>  
