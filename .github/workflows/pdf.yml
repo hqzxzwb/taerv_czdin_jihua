@@ -1,0 +1,40 @@
+name: Deploy PDF
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.3' 
+
+      - name: Install tools and fonts
+        run: |
+          sudo apt install -y p7zip-full pdftk-java fonts-noto-cjk-extra
+          python -m pip install md2pdf
+          wget -c https://software.sil.org/downloads/r/charis/Charis-7.000.zip
+          wget -c https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project/releases/download/V2.9.5787/Plangothic-OTF-V2.9.5787.7z
+          7z x Charis-7.000.zip e Charis-7.000/Charis-Regular.ttf -o$HOME/.fonts
+          7z x Plangothic-OTF-V2.9.5787.7z -o$HOME/.fonts
+          wget -c https://github.com/takushun-wu/WenJinMincho/releases/download/v2.001/WenJinMincho-OTC.7z
+          7z x WenJinMincho-OTC.7z -o$HOME/.fonts
+          fc-cache -f -v
+          python deploy.py
+
+      - name: Generate PDF
+        run: python pdf.py taerv.pdf
+
+      - name: Deploy PDF
+        uses: 'marvinpinto/action-automatic-releases@latest'
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          automatic_release_tag: pdf
+          prerelease: false
+          title: '泰如辞典PDF'
+          files: |
+            taerv_heh.pdf
+            taerv_son.pdf
