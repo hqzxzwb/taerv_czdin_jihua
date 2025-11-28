@@ -26,7 +26,7 @@ jobs:
           python deploy.py
 
       - name: Generate PDF
-        run: python pdf.py taerv.pdf
+        run: python pdf/make.py
 
       - name: Deploy PDF
         uses: 'marvinpinto/action-automatic-releases@latest'
@@ -36,5 +36,5 @@ jobs:
           prerelease: false
           title: '泰如辞典PDF'
           files: |
-            taerv_heh.pdf
-            taerv_son.pdf
+            pdf/taerv_heh.pdf
+            pdf/taerv_son.pdf

@@ -5,15 +5,23 @@ from md2pdf2 import md2pdf2
 from zoneinfo import ZoneInfo
 from datetime import datetime
 
-def main(output="taerv.pdf", css_files=["heh.css", "son.css"]):
+dirpath = os.path.dirname(os.path.abspath(__file__))
+os.chdir(dirpath)
+
+css_string = open("style.css", "r", encoding="utf-8").read()
+css_strings = {
+	"heh":css_string.replace("FONT_FAMILY", '"Noto Sans CJK SC", "Plangothic P1", "Plangothic P2", sans-serif'), 
+	"son":css_string.replace("FONT_FAMILY", '"WenJin Mincho Plane 0", "WenJin Mincho Plane 2", "WenJin Mincho Plane 3", serif')
+}
+def main(output="taerv.pdf", stylesheets=css_strings):
     tz = ZoneInfo("Asia/Shanghai")
     now = datetime.now(tz)
-    content = open("template.md", "r", encoding="U8").read().replace("{{DATE}}", now.strftime("%Y年%m月%d号%H点"))
-    md2pdf2("0.pdf", md_content=content, css_file_paths=css_files)
+    content = open("cover.md", "r", encoding="U8").read().replace("{{DATE}}", now.strftime("%Y年%m月%d号%H点"))
+    md2pdf2("0.pdf", md_content=content, stylesheets=stylesheets)
     files = ["0.pdf"]
     index = 0
     lines = []
-    for path in sorted(glob.glob("docs/[a-z].md")):
+    for path in sorted(glob.glob("../docs/[a-z].md")):
         with open(path, "r", encoding="U8") as mdfile:
             count = 0
             lines.clear()
@@ -34,13 +42,13 @@ def main(output="taerv.pdf", css_files=["heh.css", "son.css"]):
             lines.append("\n\n")
             basename = os.path.splitext(os.path.basename(path))[0] + ".pdf"
             print("生成 %s..." % (basename), flush=True)
-            md2pdf2(basename, md_content="\n".join(lines), css_file_paths=css_files)
+            md2pdf2(basename, md_content="\n".join(lines), stylesheets=stylesheets)
             files.append(basename)
     # 合并pdf
-    for p in css_files:
-        output_pdf = output.replace(".pdf", "_%s.pdf" % os.path.splitext(os.path.basename(p))[0])
+    for p in stylesheets:
+        output_pdf = output.replace(".pdf", "_%s.pdf" % p)
         print("合并为 %s..." % (output_pdf), flush=True)
-        os.system("pdftk %s output %s" % (" ".join(map(lambda f: p[0]+f, files)), output_pdf))
+        os.system("pdftk %s cat output - | pdftk - update_info_utf8 info.txt output %s" % (" ".join(map(lambda f: p+f, files)), output_pdf))
 
 if __name__ == "__main__":
     main()

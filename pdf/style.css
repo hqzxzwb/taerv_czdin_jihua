@@ -6,7 +6,7 @@
 }
 
 html {
-	font-family: "WenJin Mincho Plane 0", "WenJin Mincho Plane 2", "WenJin Mincho Plane 3", serif;
+	font-family: FONT_FAMILY;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%
 }
@@ -83,7 +83,7 @@ mark {
 
 small {
 	font-size: 70%;
-	font-family: Charis, "WenJin Mincho Plane 0", "WenJin Mincho Plane 2", "WenJin Mincho Plane 3", serif;
+	font-family: Charis, FONT_FAMILY;
 }
 
 sub,
@@ -130,6 +130,7 @@ code,
 kbd,
 pre,
 samp {
+	font-family: FONT_FAMILY;
 	font-feature-settings: "ss01";
 	-moz-font-feature-settings: "ss01";
 	-webkit-font-feature-settings: "ss01";

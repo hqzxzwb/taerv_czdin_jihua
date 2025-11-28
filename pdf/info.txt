@@ -1,0 +1,6 @@
+InfoBegin
+InfoKey: Author
+InfoValue: https://github.com/hqzxzwb/taerv_czdin_jihua
+InfoBegin
+InfoKey: Title
+InfoValue: 泰如辞典
