@@ -1006,8 +1006,8 @@
 1. 【[轻浮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_fv.md#轻浮)】`qien1 fv2` <sup>[如东]</sup> 举止轻佻，不稳重：太～啊。  
 1. 【[轻骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gueh_teu.md#轻骨头)】`qien1 gueh7 teu` <small>/t͡ɕʰiəŋ1 kuəʔ7 tʰei/<sup>如皋</sup>, /t͡ɕʰiŋ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> 詈语\[如东：举止轻佻的人\]\[泰兴：举止轻浮的人\]\[如皋：指人格低下。\]\[东台：指低贱、缺乏自尊的人。\]  
 1. 【[轻好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#轻好)】`qien1 ho` 轻巧  
+1. 【[轻巧活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho_huh_qi.md#轻巧活技)】`qien1 ho huh8 qi` <sup>[如东]</sup> 消耗体力比较小的劳动。“巧”念懒音ho：锄草是～。  
 1. 【[轻耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho.md#轻耗)】`qien1 ho` <sup>[如东]</sup> ① 花费力气较小：～活技。 ② 重量较轻：这种材料～。  
-1. 【[轻耗活技](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ho_huh_qi.md#轻耗活技)】`qien1 ho huh8 qi` <sup>[如东]</sup> 消耗体力比较小的劳动：锄草是～。  
 1. 【[轻会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#轻会)】`qien1 huei6` <sup>[如皋]</sup> “请会”中，在后得到的会钱（得到的利息多）。  
 1. 【[轻言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_qio_y.md#轻言悄语)】`qien1 in2 qio3 y3` <small>/t͡ɕʰin1 iɪ̃2 t͡ɕʰiɔ3 y3/<sup>兴化</sup>, /t͡ɕʰiŋ1 ĩ2 t͡ɕʰiɔ3 y3/<sup>泰兴</sup></small> ① 形容态度温和，说话语气平级<sup>\[兴化\]</sup>：他对人说话～的，交关亲切。也说“轻言细语”。<sup>\[兴化\]</sup> ② 形容说话声音低而柔和。<sup>\[泰兴\]</sup>  
 1. 【[轻言小语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_in_xio_y.md#轻言小语)】`qien1 in2 xio3 y3` <sup>[如东]</sup> 小声说话：妈妈对兰兰总是～地说话。  
