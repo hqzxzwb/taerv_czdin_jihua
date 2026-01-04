@@ -1904,7 +1904,6 @@
 1. 【[𢵮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh.md#𢵮)】`qyeh8` <sup>[如皋]</sup> 手臂轻轻弹击：手一～的下子把碗～咖翻掉啊。  
 1. 【[□黑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen_heh_dii.md#□黑的)】`qyen1 heh7 dii` <sup>[如皋]</sup> 很黑、纯黑：今朝子暗星，外头～。  
 1. 【[□黄的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen_huan_dii.md#□黄的)】`qyen1 huan2 dii` <sup>[如皋]</sup> 很黄、纯黄：油菜开啊花，田里～一片。  
-1. 【[皴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen.md#皴)】`qyen1` ① 皮肤因受冻而裂开 ② 同“皲”，皮肤因受冻而开裂<sup>\[东台\]</sup>：冬天我的手～吖。<sup>\[东台\]</sup>  
 1. 【[裙边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen_bin.md#裙边)】`qyen2 bin1` <sup>[东台]</sup> 特指鳖背角四周的肉质软边，味道鲜美，营养丰富。  
 1. 【[裙具脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyen_jy_jiah.md#裙具脚)】`qyen2 jy5 jiah7` <sup>[如东]</sup> 棺材两边的脚板。  
 **[▲](#音序检索)**  
