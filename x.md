@@ -547,7 +547,7 @@
 1. 【[学问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_ven.md#学问)】`xiah8 ven6` <sup>[如东]</sup> ① 正确反映客观事物的系统知识。 ② 知识学识：有～。  
 1. 【[学校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_xio.md#学校)】`xiah8 xio6` <sup>[如东]</sup> 专门进行教育的机构。  
 1. 【[学子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiah_zz.md#学子)】`xiah8 zz3` <sup>[如东]</sup> 学生。  
-1. 【[乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#乡)】`xian1` <sup>[如东]</sup> 行政单位，由数个行政村组成。面积有大有小，人口有多有少。  
+1. 【[乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian.md#乡)】`xian1` 行政单位  
 1. 【[乡党](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dan.md#乡党)】`xian1 dan3` <sup>[东台]</sup> 乡亲：势不压～。  
 1. 【[乡风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_fon.md#乡风)】`xian1 fon1` <small>/ɕiaŋ1 foŋ1/<sup>兴化</sup></small> 风土人情<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：“你乃外江的人，哪里晓得我们的～……”（《海公大红袍》四七）<sup>\[兴化\]</sup>｜谚曰：离家三里路，各地各～。<sup>\[兴化\]</sup>  
 1. 【[乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ha.md#乡下)】`xian1 ha` <small>/ɕiã1 xa/<sup>如皋</sup></small> ① 乡村里。与“市镇”相对。<sup>\[如皋\]</sup> ② 小集镇，与“城市”相对。<sup>\[如皋\]</sup> ③ 县城及大集镇以外的地区。通称农村。<sup>\[如东\]</sup>  
@@ -690,7 +690,7 @@
 1. 【[想吃没骨枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qieh_meh_gueh.md#想吃没骨枣<sub>儿</sub>)】`xian3 qieh7 meh8 gueh7 zo3 r` <sup>[东台]</sup> 枣儿总是有骨，即核子，喻指想法不可能实现。  
 1. 【[想吃天鹅肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qieh_tin_ngu.md#想吃天鹅肉)】`xian3 qieh7 tin1 ngu2 roh8` <sup>[如皋]</sup> 想空头，妄想。  
 1. 【[想绝头<sub>儿</sub>主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qiuh_teu_r.md#想绝头<sub>儿</sub>主意)】`xian3 qiuh8 teu2 r zhv3 i` <sup>[如皋]</sup> 想刁促的主意治人。  
-1. 【[想天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tin_faeh.md#想天法)】`xian3 tin1 faeh7` <small>/ɕiaŋ3 tʰiɪ̃1 fæʔ7/<sup>兴化</sup></small> ① 想尽一切办法的夸张说法。<sup>\[东台\]</sup> ② 极言想尽办法<sup>\[兴化\]</sup>：你放心，你要做生意，我一总帮你筹一点本钱。<sup>\[兴化\]</sup> ③ 想尽一切办法<sup>\[泰州\]</sup>：伢儿上学是个大事，你就是～都要帮我这个忙。<sup>\[泰州\]</sup>  
+1. 【[想天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tin_faeh.md#想天法)】`xian3 tin1 faeh7` <small>/ɕiaŋ3 tʰiɪ̃1 fæʔ7/<sup>兴化</sup></small> 想尽一切办法<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你放心，你要做生意，我一总帮你筹一点本钱。<sup>\[兴化\]</sup>｜伢儿上学是个大事，你就是～都要帮我这个忙。<sup>\[泰州\]</sup>  
 1. 【[想嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_vah.md#想嗀)】`xian3 vah7` <sup>[如皋]</sup> 作呕。见“作嗀”。  
 1. 【[想心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xien_sz.md#想心思)】`xian3 xien1 sz` <small>/ɕiaŋ3 ɕin1 sɿ/<sup>兴化</sup></small> ① 为了一个疑难问题发愁。<sup>\[如东\]</sup> ② 发愁<sup>\[兴化\]</sup>：转眼开学，他为儿子的学费～。<sup>\[兴化\]</sup> ③ 希望达到某种目的<sup>\[兴化\]</sup>：他成天想小王的心思。<sup>\[兴化\]</sup>  
 1. 【[想心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xien_sz.md#想心思)】`xian3 xien1 sz1` <sup>[泰州]</sup> ① 思考重要的事或为难的事：马上就要到发工资的日子唻，李厂长就要～唻。 ② 希望达到某种目的：听说走外头调啊个科长来，你就不要在想科长的心思唻。 ③ 发愁：听说厂里要他下岗，他这两天坐啊家里～。  

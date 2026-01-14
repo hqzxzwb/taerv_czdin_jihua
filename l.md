@@ -150,6 +150,7 @@
 1. 【[来不洎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_beh_qi.md#来不洎)】`lae2 beh7 qi6` <small>/lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>如皋</sup>, /lɛ2 pəʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 来不及 ② 来不及。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：还有20分钟电影就要开演唻，再不去就～唻。<sup>\[泰州\]</sup>  
 1. 【[来膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bio.md#来膘)】`lae2 bio1` <sup>[如皋]</sup> 本指畜牲养壮了，趣指人养胖了。  
 1. 【[来宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_r.md#来宝<sub>儿</sub>)】`lae2 bo3 r` <sup>[如东]</sup> 盼来了一个男孩。  
+1. 【[来绷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bon_zz.md#来绷子)】`lae2 bon1 zz` 玩翻花绳游戏<sup>\[如东\]</sup>  
 1. 【[来阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_chen_zz.md#来阵子)】`lae2 chen6 zz` <sup>[如皋]</sup> 孕妇临产的阵痛发生。  
 1. 【[来潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_cho.md#来潮)】`lae2 cho2` <sup>[如东]</sup> 妇女来月经。  
 1. 【[来得快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_deh_kuae.md#来得快)】`lae2 deh kuae5` <sup>[兴化]</sup> ① 速度高，行路所需时问短：（李三）言下之意也很清楚：水龙～，是因为他没命的飞跑。（汪曾祺《故里杂记》） ② 谓时光易逝：……忽然又听见改了日期，更比七月里～……（《广陵潮》二） ③ 比预期的迅速：天暖面酵～（发酵快）。｜温室里酱黄子（曲霉）～。 ④ 也作“来快”。  

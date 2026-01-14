@@ -2114,7 +2114,7 @@
 1. 【[混嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zuei.md#混嘴)】`huen6 zuei3` <sup>[兴化]</sup> 餬口。也作“混饭碗”：他在街上摆个小青货摊儿，夫妻～  
 1. 【[鯶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#鯶子)】`huen6 zz` <small>/xuəŋ1 t͡sɿ/<sup>如皋</sup></small> ① 草鱼。<sup>\[如皋\]</sup> ② 青鱼、草鱼统称。分开则为“青鯶”、“花鯶”。又音kuen6 zz。<sup>\[如皋\]</sup>  
 1. 【[鯶子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz_y.md#鯶子鱼)】`huen6 zz y2` <sup>[兴化]</sup> 黑鲩（青鲩）和草鱼（草鲩）的合称。  
-1. 【[喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#喝)】`huh7` <sup>[如东]</sup> ① 饮食的一种方式。用嘴唇吸食流汁。 ② 一种植物被另一种生长旺盛的植物挤压而变得瘦弱甚至死亡，称喝：杂草把西瓜苗～掉啊。  
+1. 【[喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh.md#喝)】`huh7` ① 饮 ② 一种植物被另一种生长旺盛的植物挤压而变得瘦弱甚至死亡，称喝。<sup>\[如东\]</sup>：杂草把西瓜苗～掉啊。<sup>\[如东\]</sup>  
 1. 【[喝彩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_cae.md#喝彩)】`huh7 cae3` <sup>[如东]</sup> 叫好。  
 1. 【[喝住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_chv.md#喝住)】`huh7 chv` <sup>[泰州]</sup> 通过大声呵斥以制止他人的不当行为：这个家伙还想上来动手打人，捱民警～啊。  
 1. 【[喝得起点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_deh_qi_din.md#喝得起点子)】`huh7 deh7 qi3 din3 zz` <sup>[东台]</sup> 喝是吆喝，指能够有效地控制，达到预想的节奏和效果。  

@@ -92,7 +92,7 @@
 1. 【[餲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#餲)】`uh7` <small>/ʊʔ7/<sup>泰县</sup></small> ① 成品粮贮久，因湿热而变质。《玉篇》“餲，饭臭也。”<sup>\[东台\]</sup>：坛子里的米～咖啦。<sup>\[东台\]</sup> ② 农产品因堆积封闭而发热，叫做餲。<sup>\[如东\]</sup> ③ 褪颜色，不鲜艳：这块蓝布摆～咖。<sup>\[泰县\]</sup> ④ 肉类腐败发臭：这块肉～咖。<sup>\[泰县\]</sup> ⑤ 食物因历时长而腐烂发出异味<sup>\[泰州\]</sup>：天太热，这个饭是中上住的，忘掉放吖冰箱里头，晚上就～动吖唻。<sup>\[泰州\]</sup>｜这碗粥～咖唻，不能吃。<sup>\[泰州\]</sup> ⑥ 食材受潮变质发出异味<sup>\[泰州\]</sup>：这个米放的时间长吖，又受啊潮，一股子～腥味。<sup>\[泰州\]</sup>  
 1. 【[餲咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_ga.md#餲咖)】`uh7 ga` <sup>[如皋]</sup> 食品霉变了。  
 1. 【[餲米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_mi.md#餲米)】`uh7 mi3` <sup>[如东]</sup> 因受潮发热而产生一种特殊气味的米，叫做餲米。  
-1. 【[餲醭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_pah_qi.md#餲醭气)】`uh7 pah7 qi5` <small>/ʊʔ7 pʰaʔ7 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 霉变的气味。<sup>\[如皋\]</sup> ② 因受潮发霉而产生的一种气味。例如屋子不通风，有～。<sup>\[如东\]</sup>  
+1. 【[餲醭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_pah_qi.md#餲醭气)】`uh7 pah7 qi5` <small>/ʊʔ7 pʰaʔ7 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 霉变的气味。<sup>\[如皋\]</sup> ② 因受潮发霉而产生的一种气味。<sup>\[如东\]</sup>：（屋子不通风）有～<sup>\[如东\]</sup>  
 1. 【[餲醭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_poh_qi.md#餲醭气)】`uh7 poh7 qi5` <sup>[东台]</sup> 物体受潮霉变产生的气味。明·焦竑《俗书刊物·俗用杂字》“物久窨而气败曰～。”  
 1. 【[餲埲味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_pon_vei.md#餲埲味)】`uh7 pon6 vei6` <sup>[兴化]</sup> 居室久不通风或物品变质后发出的霉味、腐臭味。  
 1. 【[餲泼味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_puh_vei.md#餲泼味)】`uh7 puh vei6` <sup>[泰县]</sup> 霉变气味：这间房子几年没有人住，有～。  
