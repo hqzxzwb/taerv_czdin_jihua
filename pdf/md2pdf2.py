@@ -1,16 +1,14 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-from markdown2 import markdown, markdown_path
+from markdown import markdown
 from weasyprint import HTML, CSS
 
 def md2pdf2(pdf_file_path, md_content=None,
 					stylesheets=None):
 
 	# Convert markdown to html
-	raw_html = ''
-	extras = ['cuddled-lists', 'tables', 'footnotes']
-	raw_html = markdown(md_content, extras=extras)
+	raw_html = markdown(md_content, extensions=['tables', 'footnotes'])
 
 	# Weasyprint HTML object
 	html = HTML(string=raw_html, encoding='utf-8')
