@@ -296,6 +296,7 @@
 1. 【[斜殿角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_din_gah.md#斜殿角)】`qia2 din5 gah7` <sup>[如皋]</sup> 四边形的对角线，三角形的斜边。  
 1. 【[斜对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_dy_gu.md#斜对过)】`qia2 dy5 gu5` <small>/t͡ɕʰia2 ty5 kʊ5/<sup>如皋</sup></small> ① 偏向相对。<sup>\[如皋\]</sup> ② 对面正前方的左边或右边一段距离初<sup>\[泰州\]</sup>：检察院就在市政府～。<sup>\[泰州\]</sup>  
 1. 【[斜对门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_dy_men.md#斜对门)】`qia2 dy5 men2` <sup>[如皋]</sup> 门与门偏向相对。  
+1. 【[斜角饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gah_bien.md#斜角饼)】`qia2 gah7 bien3` <small>/t͡ɕʰiɑ2 kɑʔ7 piŋ3/<sup>泰兴</sup></small> 黄桥烧饼的一种，因其两头均有斜角，故名。<sup>\[泰兴\]</sup>  
 1. 【[斜角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gah_r.md#斜角<sub>儿</sub>)】`qia2 gah7 r` <sup>[如皋]</sup> ① 一种菱形烧饼。 ② 不正规的形状：裁衣裳剪下来的布，～不少。  
 1. 【[斜瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_gua.md#斜瓜)】`qia2 gua1` <sup>[兴化]</sup> 南瓜。  
 1. 【[斜教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_jio.md#斜教)】`qia2 jio5` <sup>[兴化]</sup> 令人奇怪的事：逢我出门就下雨，才～唻！  
@@ -305,7 +306,7 @@
 1. 【[斜里拐东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_li_guae_don.md#斜里拐东)】`qia2 li3 guae3 don1` <sup>[东台]</sup> 同“斜里勺刀”。  
 1. 【[斜里麻的洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_li_ma_dii.md#斜里麻的洋)】`qia2 li3 ma2 dii ian2` <sup>[东台]</sup> 同“斜头逆角”。  
 1. 【[斜里𧺕刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_li_shah_do.md#斜里𧺕刀)】`qia2 li3 shah8 do1` <sup>[东台]</sup> 品行不端，蛮不讲理的样子。  
-1. 【[斜路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_lv.md#斜路)】`qia2 lv6` <sup>[如皋]</sup> 因抄斜形成的路。  
+1. 【[斜路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_lv.md#斜路)】`qia2 lv6` <small>/t͡ɕʰia2 lu1/<sup>如皋</sup>, /t͡ɕʰiɑ2 lu1/<sup>泰兴</sup></small> 因抄斜形成的路。<sup>\[如皋\]</sup>\[泰兴：抄近的路\]  
 1. 【[斜麻刳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ma_kua.md#斜麻刳)】`qia2 ma2 kua2` <sup>[兴化]</sup> 态度蛮横而又不讲道理的人：人家看他一眼，他就动手打人，真是个～。  
 1. 【[斜门斜势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_men_qia_shr.md#斜门斜势)】`qia2 men2 qia2 shr5` <sup>[东台]</sup> 同“斜里𧺕刀”。  
 1. 【[斜眉吊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mi_dio_ngaen.md#斜眉吊眼)】`qia2 mi2 dio5 ngaen3` <sup>[东台]</sup> 形容眉眼歪斜，长相难看。  
@@ -316,9 +317,11 @@
 1. 【[斜鼻吊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_pieh_dio_ngaen.md#斜鼻吊眼)】`qia2 pieh8 dio5 ngaen3` <sup>[兴化]</sup> 形容人的五官不端正：这个人～的，三十几岁也找不到对象。  
 1. 【[斜斜绑绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia_ban_ban.md#斜斜绑绑)】`qia2 qia2 ban3 ban3` <sup>[东台]</sup> 同“斜里𧺕刀”。  
 1. 【[斜斜理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia_li.md#斜斜理)】`qia2 qia2 li3` <small>/t͡ɕʰia2 t͡ɕʰia2 ləi3/<sup>兴化</sup></small> ① 不合情理的歪歪理。<sup>\[东台\]</sup> ② 强辩的、不正当的道理<sup>\[兴化\]</sup>：他的车子撞吖人，还要人家向他赔礼，真是～！<sup>\[兴化\]</sup>  
+1. 【[斜斜<sub>儿</sub>对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia_r_duei.md#斜斜<sub>儿</sub>对直)】`qia2 qia2 r duei5 cheh8` <small>/t͡ɕʰiɑ2 t͡ɕʰiɑ˞2 təɪ5 t͡sʰəʔ8/<sup>泰兴</sup></small> 谓以邪治邪，用歪理治歪理。<sup>\[泰兴\]</sup>  
 1. 【[斜斜<sub>儿</sub>取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia_r_qy.md#斜斜<sub>儿</sub>取直)】`qia2 qia2 r qy3 cheh8` <sup>[泰县]</sup> 讲歪理：这人说话～，不讲理。  
 1. 【[斜势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_shr.md#斜势)】`qia2 shr5` <sup>[兴化]</sup> ① 人站立时身体倾斜。 ② 建筑物和地平面不垂直，或其中一部分与主轴不平行：亭子一共有三层……第二层是个～……第三层是个大～……（扬二《四望亭捉马猴》）  
 1. 【[斜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu.md#斜头)】`qia2 teu2` <sup>[兴化]</sup> 蛮横霸道的人：“……到时别怪我不客气，我倒不相信，扳不了你这个～。”（刘春龙《无意插柳》）  
+1. 【[斜头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_r.md#斜头<sub>儿</sub>)】`qia2 teu2 r` <small>/t͡ɕʰiɑ2 tʰəɪ˞2/<sup>泰兴</sup></small> 即邪头。遇事爱讲歪理、邪理，捣乱不休者。<sup>\[泰兴\]</sup>  
 1. 【[斜五斜六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_v_qia_loh.md#斜五斜六)】`qia2 v3 qia2 loh8` <sup>[兴化]</sup> 指不三不四，痞子一样的人：谚曰：～，吃鱼吃肉｜皈皈真真，饿得狗哼。  
 1. 【[斜榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_xyen.md#斜榫)】`qia2 xyen3` <sup>[如皋]</sup> 与“正榫”相对。如高凳脚用斜榫。  
 1. 【[斜砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_zhun.md#斜砖)】`qia2 zhun1` <sup>[如皋]</sup> 内山墙收顶时，斜着砌的砖，有紧固作用。  
@@ -1728,6 +1731,7 @@
 1. 【[绝顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_dien.md#绝顶)】`qiuh8 dien3` <sup>[东台]</sup> 非常，极甚：～聪明。  
 1. 【[绝份家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_fen_jia_sz.md#绝份家私)】`qiuh8 fen jia1 sz` <sup>[兴化]</sup> 旧指无后的人留下的遗产：他到国外继承叔子的～。也称“绝产”。  
 1. 【[绝功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_gon.md#绝功)】`qiuh8 gon1` <small>/t͡ɕʰyʊʔ8 koŋ1/<sup>泰县</sup></small> ① （禁忌语）绝妙透顶<sup>\[泰县\]</sup>：这件事办得～，不然就难成。<sup>\[泰县\]</sup> ② 处理事情显示出出人意料的智慧<sup>\[泰州\]</sup>：老李多～吖，几桩事一弄就让他家厂长消啊气，合同当场签吖。<sup>\[泰州\]</sup>｜这小伙确实～，这件事要不是他去处理，后果难说咖。<sup>\[泰州\]</sup> ③ 语言显示出出人意料的幽默或者情节显示出出人意料的曲折<sup>\[泰州\]</sup>：这个演员的小品～吖没得命，把你肚子都笑得疼。<sup>\[泰州\]</sup>｜这个电视剧的编剧有本事，里头的关头过节确实～。<sup>\[泰州\]</sup>  
+1. 【[绝□世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_haeh_shr.md#绝□世)】`qiuh8 haeh shr5` <small>/t͡ɕʰiʔ8 xæʔ sɿ5/<sup>泰兴</sup></small> 绝后代，詈语。《泰兴方言辞典》作“绝瞎绪”。<sup>\[泰兴\]</sup>  
 1. 【[绝后世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_heu_shr.md#绝后世)】`qiuh8 heu6 shr` <small>/t͡ɕʰyʊʔ8 xəɪ1 sɿ/<sup>泰兴</sup></small> 骂人语。讥人无子女。亦作“绝瞎绪”。绪，承接，连续。<sup>\[泰兴\]</sup>  
 1. 【[绝后代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_heu_tae.md#绝后代)】`qiuh8 heu6 tae6` ① 没有子孙了。<sup>\[如东\]</sup>：她老人家是个～。<sup>\[如东\]</sup> ② 没有后代。<sup>\[东台\]</sup> ③ 绝嗣，没有后代，未生育子女。<sup>\[泰州\]</sup> ④ 詈词，骂人断绝后代。<sup>\[泰州\]</sup>  
 1. 【[绝后代家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_heu_tae_jia.md#绝后代家私)】`qiuh8 heu6 tae6 jia1 sz1` <sup>[如皋]</sup> 无后代者的家产。  
@@ -1808,7 +1812,7 @@
 1. 【[圈䳞腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pon_tuei.md#圈䳞腿)】`qiun6 pon6 tuei3` <sup>[兴化]</sup> 罗圈腿的俗称。也称“䳞䳞腿”。  
 1. 【[旋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#旋)】`qiun6` <small>/t͡ɕʰyũ6/<sup>兴化</sup>, /t͡ɕʰĩ1/<sup>泰兴</sup></small> ① 圆发旋，呈旋涡状的头发。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：小四子头上有两个～。<sup>\[兴化\]</sup> ② 月晕的俗称<sup>\[兴化\]</sup>：凉月子周围有个～，马上要起风吖。<sup>\[兴化\]</sup> ③ 刚刚<sup>\[兴化\]</sup>：他～来的时候表现还不丑。<sup>\[兴化\]</sup>  
 1. 【[旋风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_fon.md#旋风)】`qiun6 fon1` <small>/t͡ɕʰyũ6 foŋ1/<sup>兴化</sup></small> ① 因空气旋转而产生的形似漏斗一样的小风柱，常在田间、路边出现。也称旋旋儿风。<sup>\[如东\]</sup> ② 旋风<sup>\[兴化\]</sup>：一阵～，把场上刮得满天的灰尘跟麦草。<sup>\[兴化\]</sup>  
-1. 【[旋旋<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r_fon.md#旋旋<sub>儿</sub>风)】`qiun6 qiun6 r fon1` <small>/t͡ɕʰyʊ̃1 t͡ɕʰyʊ˞1 fɔŋ1/<sup>如皋</sup>, /t͡ɕʰĩ1 t͡ɕʰi˞1 fɔŋ1/<sup>泰兴</sup></small> 小旋风。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[旋旋<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r_fon.md#旋旋<sub>儿</sub>风)】`qiun6 qiun6 r fon1` <small>/t͡ɕʰyʊ̃1 t͡ɕʰyʊ˞1 fɔŋ1/<sup>如皋</sup>, /t͡ɕʰĩ1 t͡ɕʰi˞1 fɔŋ1/<sup>泰兴</sup></small> 小旋风。<sup>\[如皋\]</sup>\[泰兴：又音qin6 qin6 r fon1\]  
 1. 【[旋漩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#旋漩<sub>儿</sub>)】`qiun6 qiun6 r` <sup>[如东]</sup> 水流旋转时形成的螺旋形。也叫漩涡。  
 1. 【[旋水塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_shuei_tan.md#旋水塘)】`qiun6 shuei3 tan2` <small>/t͡ɕʰĩ1 suəɪ3 tʰɑŋ2/<sup>泰兴</sup></small> 旋涡。<sup>\[泰兴\]</sup>  
 1. 【[旋网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_van.md#旋网)】`qiun6 van3` <small>/t͡ɕʰyũ6 uaŋ3/<sup>兴化</sup>, /t͡ɕʰyõ1 uɑŋ3/<sup>泰县</sup></small> ① 鱼网的一种。顶锥形，封闭；底圆形，张开，像钟。底部装着锡砣，叫做脚子。作业时，渔民将网撒出去罩住一定的水域，将鱼罩住捕捉。<sup>\[如东\]</sup> ② 一种捕鱼的围网。<sup>\[兴化\]</sup> ③ 鱼网的一种。<sup>\[泰县\]</sup>  

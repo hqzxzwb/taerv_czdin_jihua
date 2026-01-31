@@ -273,8 +273,9 @@
 1. 【[苴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#苴)】`jia1` <sup>[东台]</sup> 本指大麻的雌株或枯草，现在专作地名：新街郝～｜许河三～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#□)】`jia3` <sup>[兴化]</sup> 歪斜：把身子～过来。兴化词典写“假”。  
 1. 【[□啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_a_ha.md#□啊下)】`jia3 a ha` <sup>[泰县]</sup> 斜着。  
-1. 【[□巴眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ba_ngaen.md#□巴眼)】`jia3 ba ngaen3` <sup>[兴化]</sup> 斜眼。也说“假巴子”。  
+1. 【[□巴眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ba_ngaen.md#□巴眼)】`jia3 ba ngaen3` <small>/t͡ɕia3 pa ɛ̃3/<sup>兴化</sup>, /t͡ɕiɑ3 pɑ ŋɛ̃3/<sup>泰兴</sup></small> 斜眼。<sup>\[泰兴\]</sup>\[兴化：也说“假巴子”。\]  
 1. 【[假巴洋势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ba_ian_shr.md#假巴洋势)】`jia3 ba1 ian2 shr5` <sup>[泰县]</sup> 装腔作势：这个人～。  
+1. 【[假充](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chon.md#假充)】`jia3 chon1` <small>/t͡ɕiɑ3 t͡sʰɔŋ1/<sup>泰兴</sup></small> 假冒；冒充。<sup>\[泰兴\]</sup>：乡人云：“腰跟前夹个死老鼠，假充打猎的。”<sup>\[泰兴\]</sup>  
 1. 【[假充大公鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chon_da_gon.md#假充大公鸡)】`jia3 chon1 da6 gon1 ji1` <sup>[兴化]</sup> （喻）形容人装模作样，自吹自擂：他明明不懂电脑，也在这许摸摸，那许弄弄，真是头上插芦花——～。  
 1. 【[假充大老官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chon_da_lo.md#假充大老官)】`jia3 chon1 da6 lo3 gun1` <sup>[兴化]</sup> 喜欢吹牛，冒充有身份、有地位的人：他本是供销员，到外头～，说自己是经理。  
 1. 【[假充绿大呢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_chon_loh_da.md#假充绿大呢)】`jia3 chon1 loh8 da6 ni2` <sup>[如皋]</sup> 充好汉，好出风头。旧时官轿以绿大呢鞔盖。因以喻官轿，有气派。  
@@ -292,7 +293,7 @@
 1. 【[假领子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lien_zz.md#假领子)】`jia3 lien3 zz` <small>/t͡ɕia3 liɪ̃3 t͡sɿ/<sup>兴化</sup></small> ① 外加在衣领内护脏的领子。<sup>\[兴化\]</sup> ② 加在衣领之上，可以拆卸、用以护脏的衣领。<sup>\[泰州\]</sup>  
 1. 【[假里佯兮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lii_ian_xi.md#假里佯兮的)】`jia3 lii ian2 xi1 dii` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假老式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lo_sheh.md#假老式)】`jia3 lo3 sheh7` <sup>[东台]</sup> 故作正派；自高自大。  
-1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma reh8 guei3` <small>/t͡ɕia3 ma ləʔ8 kuəi3/<sup>兴化</sup></small> ① （讽）形容以假相骗人<sup>\[兴化\]</sup>：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）<sup>\[兴化\]</sup> ② 煞有介事地假装某种情形骗人<sup>\[泰州\]</sup>：她～的拿根棒儿装吖要打人的样子，才把细丫头吓咖不敢闹唻。<sup>\[泰州\]</sup> ③ 谦辞，无论怎么说也算得上是<sup>\[泰州\]</sup>：我～的也算是个高级工程师，这点儿东西难不住我。<sup>\[泰州\]</sup>  
+1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma reh8 guei3` <small>/t͡ɕia3 ma ləʔ8 kuəi3/<sup>兴化</sup>, /t͡ɕiɑ3 mɑ ɻəʔ8 kuəɪ3/<sup>泰兴</sup></small> ① （讽）形容以假相骗人<sup>\[兴化\]</sup>：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）<sup>\[兴化\]</sup> ② 煞有介事地假装某种情形骗人<sup>\[泰州\]</sup>：她～的拿根棒儿装吖要打人的样子，才把细丫头吓咖不敢闹唻。<sup>\[泰州\]</sup> ③ 谦辞，无论怎么说也算得上是<sup>\[泰州\]</sup>：我～的也算是个高级工程师，这点儿东西难不住我。<sup>\[泰州\]</sup> ④ 假装；装得很像。<sup>\[泰兴\]</sup>  
 1. 【[假麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假麻<sub>儿</sub>)】`jia3 ma2 r` <sup>[泰县]</sup> 假装：不要～，没事就早点儿家去。  
 1. 【[假麻肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假麻肏鬼)】`jia3 ma2 reh8 guei3` <sup>[泰县]</sup> 假装：不要～的。  
 1. 【[假马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma.md#假马)】`jia3 ma3` <small>/t͡ɕia3 ma3/<sup>兴化</sup></small> ① 假装<sup>\[兴化\]</sup>：包兴趴到外面站起来<sup>\[兴化\]</sup>｜“大人有何吩咐？”～从外面进来……（扬一《天齐庙包公断太后》）<sup>\[兴化\]</sup> ② 假装<sup>\[泰州\]</sup>：过一刻儿他来的时候，你就～装住认不得他。<sup>\[泰州\]</sup>  
@@ -306,6 +307,7 @@
 1. 【[假内教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ny_jio.md#假内教)】`jia3 ny6 jio5` <sup>[如皋]</sup> 冒充内行，或指人。  
 1. 【[假扒灰是福，真扒灰是畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pa_huei_shr.md#假扒灰是福，真扒灰是畜)】`jia3 pa2 huei1 shr6 foh7 zhen1 pa2 huei1 shr6 choh7` <sup>[东台]</sup> 别人拿公媳关系开玩笑是天伦之乐，但如果确有此事就有违伦理，简直像畜牲。  
 1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <sup>[兴化]</sup> 假装坏事与己无关、假装正经：“背地里作乐，当面～，这种不配抬举的，不该应叫他上台盘”（《官场现形记》十四）｜“文宾兄，休得～，你已在那里频频吐舌……”（《四杰传》六四）  
+1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <small>/t͡ɕiɑ3 pʰiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 伪装清白。<sup>\[泰兴\]</sup>  
 1. 【[假乔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qio_r.md#假乔<sub>儿</sub>)】`jia3 qio2 r` <sup>[如东]</sup> 找借口：你不要～。  
 1. 【[假桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qio_r.md#假桥<sub>儿</sub>)】`jia3 qio2 r` <sup>[泰县]</sup> 找借口。  
 1. 【[假<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_r.md#假<sub>儿</sub>)】`jia3 r` <sup>[如皋]</sup> 民间自编的说唱文艺、故事：唱～、说～。  
@@ -314,13 +316,15 @@
 1. 【[假斯文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz_ven.md#假斯文)】`jia3 sz1 ven2` <sup>[如东]</sup> ① 假装文雅：你不要～，我晓得你肚子里有多少墨水。 ② 假装客气：不要～。  
 1. 【[假头逆角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_teu_nieh_gah.md#假头逆角)】`jia3 teu2 nieh8 gah7` <small>/t͡ɕia3 tʰɤ2 liɪʔ8 kaʔ7/<sup>兴化</sup></small> ① 假充好汉，其实很差劲。<sup>\[东台\]</sup> ② （喻）形容人个性偏激，喜爱抬杠<sup>\[兴化\]</sup>：这个小伙有点～的，同他说不出甚的头绪来。<sup>\[兴化\]</sup>  
 1. 【[假戏真做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_xi_zhen_zu.md#假戏真做)】`jia3 xi5 zhen1 zu5` <sup>[泰州]</sup> 比喻造假的事情当做真的来做。  
+1. 【[假嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zuei.md#假嘴)】`jia3 zuei3` <small>/t͡ɕiɑ3 t͡suəɪ3/<sup>泰兴</sup></small> 吹牛皮，充好汉。<sup>\[泰兴\]</sup>  
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv` <small>/t͡ɕiɑ3 fʋ/<sup>泰兴</sup></small> 姐姐的丈夫。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv1` <sup>[如东]</sup> 姐姐的丈夫。  
 1. 【[姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia.md#姐姐)】`jia3 jia3` ① 同胞和亲戚中同辈而年龄比自己大的女子，称姐姐。根据血缘和亲属关系，分嫡亲姐姐、叔伯姐姐、堂姐姐、表姐姐。<sup>\[如东\]</sup> ② 称呼比自己年长的同辈女子。<sup>\[泰州\]</sup>  
-1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` <small>/t͡ɕia3 liɤ/<sup>兴化</sup>, /t͡ɕia3 niɤɯ/<sup>泰县</sup></small> 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>\[如东：黑蚱蝉\]  
+1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` <small>/t͡ɕia3 liɤ/<sup>兴化</sup>, /t͡ɕiɑ3 ləɪ/<sup>泰兴</sup>, /t͡ɕia3 niɤɯ/<sup>泰县</sup></small> 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[如东：黑蚱蝉\]  
 1. 【[姐䗜衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_i.md#姐䗜衣)】`jia3 lieu i1` <sup>[如东]</sup> 蝉科昆虫黑蚱蝉的壳，又名蝉蜕、蝉衣。  
 1. 【[姐䗜壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_r.md#姐䗜壳<sub>儿</sub>)】`jia3 lieu kah7 r` <sup>[泰县]</sup> （中药）蝉衣。  
 1. 【[姐䗜壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_zz.md#姐䗜壳子)】`jia3 lieu kah7 zz` <sup>[兴化]</sup> 蝉蜕，可入药。  
+1. 【[姐䗜尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_suei.md#姐䗜尿)】`jia3 lieu suei1` <small>/t͡ɕiɑ3 ləɪ suəɪ1/<sup>泰兴</sup></small> 喻没有或极少。<sup>\[泰兴\]</sup>  
 1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu2, jia3 lieu0` <sup>[汉语方言大词典]</sup> 蝉  
 1. 【[贾家马家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ga_ma_ga.md#贾家马家)】`jia3 ga ma3 ga` <small>/t͡ɕia3 ka ma3 ka/<sup>兴化</sup></small> ① “贾”“假”同音。意为假的、假装的<sup>\[兴化\]</sup>：我现在～地要杀徐松朋，他一定要跟我争，他一争，我就顺水推舟……（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ② “假马”的生动形式，装得一本正经样子骗人<sup>\[泰州\]</sup>：你～的说小赵两句，让老李消消气。<sup>\[泰州\]</sup>  
 1. 【[价格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_geh.md#价格)】`jia5 geh7` <sup>[如东]</sup> 商品价值的货币表现。如1斤黄瓜卖8角钱，8角钱就是黄瓜的价格。  

@@ -307,6 +307,7 @@
 1. 【[盆桶店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_ton_din.md#盆桶店)】`pen2 ton3 din5` <sup>[如皋]</sup> 制作和销售杉木盆桶的店家。有时属嫁妆店的支店。  
 1. 【[盆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_zz.md#盆子)】`pen2 zz` <small>/pʰəŋ2 t͡sɿ/<sup>泰兴</sup></small> 口大底小的较浅的盛器。<sup>\[泰兴\]</sup>  
 1. 【[𢅯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen.md#𢅯)】`pen2` <sup>[东台]</sup> 布袋因容物太多而裂开，木质盆桶因干燥或断箍而解体。（《说文·巾部》“𢅯，扶忿切，以囊盛谷，太满坼裂也。”）：袋子塞得太满，快要～开来啊。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_jio.md#□□)】`pen5 jio` <small>/pʰəŋ5 t͡ɕiɔ/<sup>泰兴</sup></small> 可能；大概；恐怕。<sup>\[泰兴\]</sup>：他～上街买杲子去啊lo。<sup>\[泰兴\]</sup>  
 1. 【[喷喷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_pen_xian.md#喷喷香)】`pen5 pen5 xian1` <sup>[泰州]</sup> ① 食物香气极为浓郁：才起锅的韭菜黄炒长鱼，～，把你俫下酒没得话说。 ② 比喻受到他人重视：他有一手好技术，走到哪个单位都～。  
 1. 【[喷喷香的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_pen_xian_dii.md#喷喷香的)】`pen5 pen5 xian1 dii` <sup>[如皋]</sup> 很香，阵阵香气扑鼻。  
 1. 【[喷嚏脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_ti_lin.md#喷嚏脸)】`pen5 ti5 lin3` <sup>[如东]</sup> 人在打喷嚏的时候，脸色十分难看，不讨人喜欢。比喻不讨人喜欢的人。厚脸皮，不怕丑：一张～，快滚开！  

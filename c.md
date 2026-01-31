@@ -590,6 +590,7 @@
 1. 【[鲳撇鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳撇鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
 1. 【[场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#场)】`chan2` <sup>[泰州]</sup> 量词，小便的次数：一～尿。  
 1. 【[场米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi_xih.md#场米糏)】`chan2 mi3 xih7` <sup>[如皋]</sup> 见“糯米糏”。  
+1. 【[场面世务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_min_shr_v.md#场面世务)】`chan2 min6 shr5 v6` <small>/t͡sʰɑŋ3 mĩ sɿ5 ʋ/<sup>泰兴</sup></small> 指人情世故、人际交流的各种事项<sup>\[泰兴\]</sup>  
 1. 【[场面账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_min_zhan.md#场面账)】`chan2 min6 zhan5` <sup>[如东]</sup> 表面交情，表面样式。  
 1. 【[常法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_faeh.md#常法)】`chan2 faeh7` <sup>[兴化]</sup> 为长远利益谋划的办法：“……咱们每日在一搭儿，若无事就吃，也不是个～……”（《岐路灯》三七）  
 1. 【[常言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_in.md#常言)】`chan2 in2` <sup>[东台]</sup> 常说的谚语、格言。  
@@ -602,6 +603,7 @@
 1. 【[常行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_xien.md#常行)】`chan2 xien2` <small>/t͡sʰã2 ɕiəŋ2/<sup>如皋</sup>, /t͡sʰɑŋ2 ɕiŋ2/<sup>泰县</sup></small> 经常，常常<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[常庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhuan.md#常庄)】`chan2 zhuan1` <sup>[兴化]</sup> ① 常住：老黄在江西采购木材，是～。 ② 住着不走：他在这块打～。 ③ 也作“常桩”。  
 1. 【[常桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zhuan.md#常桩)】`chan2 zhuan1` <sup>[如东]</sup> 玩耷子和过程中，牌牌都买桩，称常桩。比喻经常做：他是～。  
+1. 【[徜徉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ian.md#徜徉)】`chan2 ian2` <small>/t͡sʰɑŋ2 iɑŋ2/<sup>泰兴</sup></small> 安闲自得；得意洋洋；舒心如意。<sup>\[泰兴\]</sup>  
 1. 【[肠衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_i.md#肠衣)】`chan2 i1` <sup>[如皋]</sup> 见“小肠膜子”。  
 1. 【[肠脉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_moh.md#肠脉)】`chan2 moh8` <sup>[兴化]</sup> 肠道：他～有病，活吃活瘦。  
 1. 【[肠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_zz.md#肠子)】`chan2 zz` <sup>[如东]</sup> 大肠和小肠的总称。  
@@ -1795,14 +1797,18 @@
 1. 【[船底板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_di_baen.md#船底板)】`chun2 di3 baen3` <sup>[如东]</sup> 帆船龙骨下面的木板。  
 1. 【[船丁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_dien.md#船丁)】`chun2 dien1` <sup>[如东]</sup> 鳝科动物，多鳞鳍，体细长，略呈圆柱形，体长12-16厘米。  
 1. 【[船到桥头自然直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_do_qio_teu.md#船到桥头自然直)】`chun2 do5 qio2 teu2 cz6 rin2 cheh8` <sup>[东台]</sup> ［喻］事情发展到一定的阶段，自然会有解决的办法，与“车到山前必有路”之义类似。  
+1. 【[船到岸，不要乱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_do_un_beh.md#船到岸，不要乱)】`chun2 do5 un6 beh7 io5 lun6` <small>/t͡sʰʊ̃2 tɔ5 ʊ̃1 pəʔ7 iɔ5 lʊ̃1/<sup>泰兴</sup></small> 谓遇到事情越紧张，越要冷静，才能妥善处理。<sup>\[泰兴\]</sup>  
 1. 【[船多不碍港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_du_beh_ngae.md#船多不碍港)】`chun2 du1 beh7 ngae6 gan3` <sup>[兴化]</sup> （喻）同一条街市上做同样买卖的多了可以成为行市：“……俗说～，各做各的生意嘛！”（扬二：《程咬金卖筢子》）  
+1. 【[船多不碍港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_du_beh_ngae.md#船多不碍港)】`chun2 du1 beh7 ngae6 gan3` <small>/t͡sʰʊ̃2 tɤɯ1 pəʔ7 ŋɛ1 kɑŋ3/<sup>泰兴</sup></small> 港口巴不得多来船，喻同行并不相碍，各人有各人的本领。<sup>\[泰兴\]</sup>  
 1. 【[船垳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_hen.md#船垳)】`chun2 hen5` <sup>[如东]</sup> 沙船停泊的沙垳。  
 1. 【[船揦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_laeh.md#船揦)】`chun2 laeh8` <sup>[如东]</sup> 帆船吃水上边的三根粗木条，有加固船体和增加浮力的作用。  
 1. 【[船粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lian.md#船粮)】`chun2 lian2` <sup>[如皋]</sup> 旧时用漕运供国课的粮食，限为小麦、水稻、黄豆。  
 1. 【[船老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lo_baen.md#船老板)】`chun2 lo3 baen3` <sup>[兴化]</sup> 船主。  
 1. 【[船老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lo_da.md#船老大)】`chun2 lo3 da5` <sup>[兴化]</sup> ① 旧称船上的主要船夫。 ② 泛指船工。  
+1. 【[船老大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_lo_da.md#船老大)】`chun2 lo3 da5` <small>/t͡sʰʊ̃2 lɔ3 tɑ5/<sup>泰兴</sup></small> 船上负责人的俗称。<sup>\[泰兴\]</sup>  
 1. 【[船棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pon_zz.md#船棚子)】`chun2 pon2 zz` <sup>[如皋]</sup> ① 船舱上的拱形棚。 ② 帆的讳称。  
 1. 【[船篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pon.md#船篷)】`chun2 pon2` <sup>[东台]</sup> 盖在船舱上的篷子。  
+1. 【[船篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pon.md#船篷)】`chun2 pon2` <small>/t͡sʰʊ̃2 pʰɔŋ2/<sup>泰兴</sup></small> 船帆。乡人谓船家“东南西北风，来去好扯篷”。<sup>\[泰兴\]</sup>  
 1. 【[船埠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_pv.md#船埠)】`chun2 pv6` <sup>[如东]</sup> 帆船停泊的沙滩。  
 1. 【[船匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qian.md#船匠)】`chun2 qian` <sup>[如皋]</sup> 造船的工匠。  
 1. 【[船匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chun_qian.md#船匠)】`chun2 qian6` <sup>[如东]</sup> 制造和修理木船业务的小工业者。  

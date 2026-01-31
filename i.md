@@ -294,7 +294,7 @@
 1. 【[夜心<sub>儿</sub>里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xien_r_lii.md#夜心<sub>儿</sub>里)】`ia6 xien1 r lii` <sup>[如皋]</sup> 深夜、半夜。  
 1. 【[夜校](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xio.md#夜校)】`ia6 xio6` <sup>[如东]</sup> 20世纪40年代，中国共产党领导下的革命根据地里对青年实施教育的民办业余学校，一般在晚上开课故名夜校。多数为初级小学程度也有相当于高级小学程度的。除文化课外，特别重视时事政策、生产军事卫生等知识的学习。建国初期，大量兴起，每村都有一所，成为对青年进行扫除文盲教育的主要机构。60年代停办。  
 1. 【[夜凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_xion.md#夜凶)】`ia6 xion1` <small>/ia6 ɕioŋ1/<sup>兴化</sup></small> ① 白天没精打彩，夜晚精神十足的人<sup>\[兴化\]</sup>：他是个～，旁人睡啊觉他才来神！<sup>\[兴化\]</sup> ② 到了夜晚精力旺盛的人，用来形容喜欢夜间工作的人<sup>\[泰州\]</sup>：他是个～，天天写文章写到半夜。<sup>\[泰州\]</sup>  
-1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah` <small>/iɑ1 t͡sɑʔ/<sup>泰兴</sup></small> 夜间工作，做夜工。旧时妇女夜间做针线活谓做夜作。<sup>\[泰兴\]</sup>：过啊重阳节，～没得歇<sup>\[泰兴\]</sup>  
+1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah` <small>/iɑ1 t͡sɑʔ/<sup>泰兴</sup></small> 夜间工作，做夜工。旧时妇女夜间做针线活谓做夜作。<sup>\[泰兴\]</sup>：过啊重阳节，～没得歇<sup>\[泰兴\]</sup>｜做～/夜里干活<sup>\[泰兴\]</sup>  
 1. 【[夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_zah.md#夜作)】`ia6 zah7` <sup>[泰县]</sup> ① 夜餐。 ② 开夜工：这几天开啊几个～。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae` <sup>[如皋]</sup> 象声词，语气词。  
 1. 【[吔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iae.md#吔)】`iae3` <small>/iɛ3/<sup>泰兴</sup></small> 语气词，表示赞同<sup>\[泰兴\]</sup>：“天气预报哿是说的明朝落雨啊？”——“～”<sup>\[泰兴\]</sup>  
