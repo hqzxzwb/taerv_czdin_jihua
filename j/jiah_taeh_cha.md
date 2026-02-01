@@ -4,6 +4,7 @@ jiah7 taeh cha1
 + 自行车。
   * 如皋方言词典
   * 泰县方言志
+  * 泰兴方言辞典
 
 # 脚踏车
 jiah7 taeh8 cha1
