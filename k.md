@@ -960,6 +960,7 @@
 1. 【[看青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看青)】`kun1 qien1` <small>/kʰʊ̃1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 看守即将收获的农作物。<sup>\[泰兴\]</sup>  
 1. 【[看尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_shr.md#看尸)】`kun1 shr1` <sup>[如东]</sup> ① 看守死尸。 ② 死守住不走：你在家里不出门，～啊！  
 1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <sup>[如皋]</sup> 敬祖宗、神佛用的殿堂式木龛。  
+1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <small>/kʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 供奉神佛或神主的小阁子。<sup>\[泰兴\]</sup>：菩萨～<sup>\[泰兴\]</sup>  
 1. 【[冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#冚)】`kun3` <small>/kʰũ3/<sup>兴化</sup>, /kʰʊ̃3/<sup>如皋</sup>, /kʰʊ̃3/<sup>泰兴</sup>, /kʰõ3/<sup>泰县</sup></small> 口朝下倒置，盖，扣。或指戴帽。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：拿罩儿把碗～起来。<sup>\[如皋\]</sup>｜把菜～起来。<sup>\[泰县\]</sup>｜把菜～起来，防止苍蝇叮。<sup>\[东台\]</sup>｜把碗～过来。<sup>\[兴化\]</sup>｜用缸～吖上头。<sup>\[兴化\]</sup>｜“女婿大喜回家，你不知女儿正～上愁帽哩！”（《醒世烟缘传》九一）<sup>\[兴化\]</sup>｜把帽子望头上一～就出去啊唻。<sup>\[泰州\]</sup>｜他把酒杯ㄦ～吖桌上不把你倒酒。<sup>\[泰州\]</sup>｜你弄盘子把中上滞的两碗菜～吖好啊，留啊晚上吃。<sup>\[泰州\]</sup>  
 1. 【[冚盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gae_r.md#冚盖<sub>儿</sub>)】`kun3 gae5 r` <sup>[如皋]</sup> 有帮子的盖子。  
 1. 【[冚锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gu_r.md#冚锅<sub>儿</sub>)】`kun3 gu1 r` <sup>[如皋]</sup> 高帮子的锅盖。  

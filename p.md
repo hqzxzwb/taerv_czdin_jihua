@@ -1270,6 +1270,7 @@
 1. 【[盘肠草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chan_co.md#盘肠草)】`pun2 chan2 co3` <sup>[如东]</sup> 葫芦科植物南瓜的果实内萌发的幼苗。  
 1. 【[盘程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chen.md#盘程)】`pun2 chen2` <small>/pʰũ2 t͡sʰən2/<sup>兴化</sup>, /pʰʊ̃2 t͡sʰəŋ2/<sup>如皋</sup></small> 盘缠，路费，川资<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我上北京光有去的～，没得回头的路费。<sup>\[兴化\]</sup>｜“……就是送与两位舅爷做～，也是该的。”（《儒林外史》五）<sup>\[兴化\]</sup>  
 1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <sup>[东台]</sup> 路费：各位游客要带足～。  
+1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <small>/pʰʊ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 费用；花费。特指旅途费用。<sup>\[泰兴\]</sup>  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun` <sup>[如东]</sup> 用于交通、伙食、住宿等费用，称盘川。盘缠。  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun1` <sup>[兴化]</sup> 路费：出门办事要带足～。｜（员外）只是不准多带跟人，惟恐耗费了～……（《三侠五义》三）  
 1. 【[盘坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cu.md#盘坐)】`pun2 cu6` <sup>[兴化]</sup> 盘膝而坐：他习惯～，坐凳子反而不舒服。｜大家～在杭上对吃。（《二十年目睹之怪现状》七十）  
@@ -1280,10 +1281,7 @@
 1. 【[盘园田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_iun_tin.md#盘园田)】`pun2 iun2 tin2` <sup>[如皋]</sup> 种菜园子为业。  
 1. 【[盘搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jio.md#盘搅)】`pun2 jio3` <sup>[兴化]</sup> 日常开支或办事的花费：而今婚丧节庆，砌房造屋～大发吤！  
 1. 【[盘搅/盘缴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jio.md#盘搅/盘缴)】`pun2 jio3` 日常繁琐开支或者办事过程中的各种费用<sup>\[泰州\]</sup>：同他成吖个家，少说也要得上百万的～。<sup>\[泰州\]</sup>  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2, pun2 laen3, pu2 laen2, pu2 laen3` <sup>[如皋]</sup> 篾制深盘状盛器。口径约1-1.5m。  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <sup>[如东]</sup> 竹篾或柳条编成的器具，圆形，直径4尺，帮高1尺。用于装盛谷物。也称笸篮。  
-1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2-3` <small>/pʰõ2 nɛ̃2/<sup>泰县</sup></small> ① 竹编的大圆匾子。农家常用于筛簸粮食和晾东西。<sup>\[东台\]</sup> ② 大圆匾<sup>\[泰县\]</sup>：这个～里放的是甚的？<sup>\[泰县\]</sup>  
-1. 【[盘揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘揽)】`pun2 laen3` <sup>[兴化]</sup> 大篾匾：～里晒的萝卜干子。  
+1. 【[盘篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_laen.md#盘篮)】`pun2 laen2` <small>/pʰũ2 lɛ̃2/<sup>兴化</sup>, /pʰʊ̃2 lẽ2/<sup>如皋</sup>, /pʰɤɯ2 lɛ̃2/<sup>泰兴</sup>, /pʰõ2 nɛ̃3/<sup>泰县</sup></small> 盘形容器，较大，口径约1-1.5m，较深，篾制，常用于盛装粮食、晒东西<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如皋：pun2又音pu2，laen2又音laen3\]\[兴化：《兴化方言词典》作“盘揽”，“东南村镇语”，实为泰县口音\]：～里晒的萝卜干子。<sup>\[兴化\]</sup>｜这个～里放的是甚的？<sup>\[泰县\]</sup>  
 1. 【[盘面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_min_zz.md#盘面子)】`pun2 min6 zz` <sup>[兴化]</sup> 木工在制作方桌时，将桌面的边框拼凑起来，并打磨光滑。  
 1. 【[盘吖摸的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_nga_mah_dii.md#盘吖摸的)】`pun2 nga mah8 dii` <sup>[如皋]</sup> 盘弄不停。  
 1. 【[盘盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_pun.md#盘盘)】`pun2 pun` <sup>[如东]</sup> ① 做做：让他～。 ② 回回：～输。  
@@ -1295,6 +1293,7 @@
 1. 【[盘手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheu_zho_r.md#盘手爪<sub>儿</sub>)】`pun2 sheu3 zho3 r` <small>/pʰʊ̃2 sei3 t͡sɔ˞3/<sup>如皋</sup></small> ① 般玩指头。喻无所事事。<sup>\[如皋\]</sup> ② 两手捧在一起，表示懒惰，不做事。<sup>\[如东\]</sup>：这个人一天到晚～。<sup>\[如东\]</sup>  
 1. 【[盘水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei.md#盘水)】`pun2 shuei3` <sup>[如皋]</sup> 面条煮熟即下冷水激，终止后熟，再烫一下，搳去水，这一过程称～。  
 1. 【[盘水面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shuei_min.md#盘水面)】`pun2 shuei3 min6` <sup>[如皋]</sup> 煮法见“盘水”。装碗与佐料拌匀，不放汤的面条。另做“口汤”。与“点汤面、糊糊儿面”相对。  
+1. 【[盘树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_shv.md#盘树)】`pun2 shv6` <small>/pʰʊ̃2 su1/<sup>泰兴</sup></small> 爬树。<sup>\[泰兴\]</sup>  
 1. 【[盘算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sun.md#盘算)】`pun2 sun5` <sup>[如东]</sup> 计算。企图别人的好处：～人。  
 1. 【[盘蛋壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_taen_kah.md#盘蛋壳)】`pun2 taen6 kah7` <sup>[兴化]</sup> 禽蛋外壳由软变硬的过程：听大人说，蚬子肉和壳一样有营养，蛋鸭吃了，容易～，不生软黄蛋。（刘仁前：《楚水风物》）  
 1. 【[盘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_teu.md#盘头)】`pun2 teu2` <sup>[兴化]</sup> 妇女在脑后挽的鬏：他家姑娘十六岁就盘吖头。  
@@ -1304,9 +1303,11 @@
 1. 【[盘香豇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xian_gan_zz.md#盘香豇子)】`pun2 xian1 gan1 zz` <sup>[东台]</sup> 豇豆的一种，紫色，果实呈盘旋状，又作“盘洋豇子”。  
 1. 【[盘香扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xian_keu_r.md#盘香扣<sub>儿</sub>)】`pun2 xian1 keu1 r` <sup>[如皋]</sup> 中服纽子、纽扣儿的尾式若盘香。  
 1. 【[盘香路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xian_lv.md#盘香路)】`pun2 xian1 lv6` <sup>[如皋]</sup> ① 回旋式的路。 ② 喻在家中操劳不息所走的路，不觉远，只觉累。  
+1. 【[盘膝大坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xieh_da_cu.md#盘膝大坐)】`pun2 xieh7 da6 cu6` <small>/pʰʊ̃2 ɕiʔ7 tɑ1 t͡sʰɤɯ1/<sup>泰兴</sup></small> 盘着双腿，大大咧咧地坐着。<sup>\[泰兴\]</sup>  
 1. 【[盘驯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xyen_nga.md#盘驯吖)】`pun2 xyen2 nga` <sup>[如东]</sup> 给弄疲沓了：孩子天天这吖紧张，捱～。  
 1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <sup>[东台]</sup> 汇总收支情况，核查账目。  
-1. 【[盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz.md#盘子)】`pun2 zz` <small>/pʰũ2 t͡sɿ/<sup>兴化</sup></small> ① 容器。瓷制，圆形或椭圆形，底浅。有多种规格。一般饰有花纹，比较精致。主要用于盛菜。<sup>\[如东\]</sup> ② 价钱<sup>\[兴化\]</sup>：开～<sup>\[兴化\]</sup>｜“……他一定把环妹妹藏到乡下去，再讲～……”（《老残游记》十四）<sup>\[兴化\]</sup>  
+1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <small>/pʰʊ̃2 t͡sɑŋ5/<sup>泰兴</sup></small> 结账；按一定的时间段（如每月、每季、每年）把账目整理清楚。<sup>\[泰兴\]</sup>  
+1. 【[盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz.md#盘子)】`pun2 zz` <small>/pʰũ2 t͡sɿ/<sup>兴化</sup>, /pʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 容器。瓷制，圆形或椭圆形，底浅。有多种规格。一般饰有花纹，比较精致。主要用于盛菜。<sup>\[如东\]</sup> ② 价钱<sup>\[兴化\]</sup>：开～<sup>\[兴化\]</sup>｜“……他一定把环妹妹藏到乡下去，再讲～……”（《老残游记》十四）<sup>\[兴化\]</sup> ③ 敞口平浅的盛物器皿。<sup>\[泰兴\]</sup>  
 1. 【[盘子里的豆芽——不扎根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz_lii_dii.md#盘子里的豆芽——不扎根)】`pun2 zz lii dii teu6 nga2 beh7 zhaeh7 gen1` <sup>[东台]</sup>   
 1. 【[蟠髻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jieh.md#蟠髻)】`pun2 jieh7` <sup>[如皋]</sup> 妇女将长发在脑后蟠成发髻。  
 1. 【[蟠龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_lon.md#蟠龙)】`pun2 lon2` <sup>[如皋]</sup> 跨轴上的木齿轮轮盘，用天然弯曲的桑木接成。  

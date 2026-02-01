@@ -1262,8 +1262,9 @@
 1. 【[领](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#领)】`lien3` <sup>[兴化]</sup> 抚育：（老头子）生活条条理理，两个细小的～得滑滑滴滴的。（兴文《“勤俭”二字不可分家》）  
 1. 【[领阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_chen.md#领阵)】`lien3 chen6` <sup>[兴化]</sup> 挑头、主事：“过去发大水，几十家合一个圩子，没有人～，张不顾李，李不顾张……”（马春阳《风里雨里》）  
 1. 【[领褂皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_pi.md#领褂皮)】`lien3 gua pi2` <sup>[泰县]</sup> 衣领：抓住你的。  
-1. 【[领褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_r.md#领褂<sub>儿</sub>)】`lien3 gua5 r` <small>/liəŋ3 kua˞5/<sup>如皋</sup></small> ① 没有袖管的褂子。<sup>\[如东\]</sup> ② 无袖的夹、棉、皮衣。<sup>\[如皋\]</sup>  
+1. 【[领褂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_gua_r.md#领褂<sub>儿</sub>)】`lien3 gua5 r` <small>/liəŋ3 kua˞5/<sup>如皋</sup>, /liŋ3 kuɑ˞5/<sup>泰兴</sup></small> ① 没有袖管的褂子。<sup>\[如东\]</sup> ② 无袖的夹、棉、皮衣。<sup>\[如皋\]</sup> ③ 单上衣。<sup>\[泰兴\]</sup>  
 1. 【[领口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_keu.md#领口)】`lien3 keu3` <sup>[如皋]</sup> ① 领塘的周边。 ② 领子的最上边沿。  
+1. 【[领门交户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_men_jio_hv.md#领门交户)】`lien3 men2 jio1 hv6` <small>/liŋ3 məŋ2 t͡ɕiɔ1 fʋ1/<sup>泰兴</sup></small> 谓一家挨一家的对新来的人交代清楚情况；领不认识的人到某家某户门上作介绍。<sup>\[泰兴\]</sup>  
 1. 【[领情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qien.md#领情)】`lien3 qien2` ① 得到好处而心怀感激。<sup>\[东台\]</sup> ② 接受对方的礼物或者友好安排而心怀感激<sup>\[泰州\]</sup>：我的心意到啊，～不～，随他的便。<sup>\[泰州\]</sup>  
 1. 【[领塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tan.md#领塘)】`lien3 tan2` <sup>[如皋]</sup> 开领所剪成的心形空缺，供装衣领用。  
 1. 【[领条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tio.md#领条)】`lien3 tio2` <sup>[如皋]</sup> ① 旧式中服领塘的绲边。 ② 领用物品的凭据。  
