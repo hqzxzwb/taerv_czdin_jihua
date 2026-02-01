@@ -410,7 +410,9 @@
 1. 【[脚布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_bv.md#脚布)】`jiah7 bv5` <small>/t͡ɕiaʔ7 pu5/<sup>兴化</sup>, /t͡ɕiaʔ7 pu5/<sup>如皋</sup></small> ① 旧时清洗下身、腿足部的专用布，现用毛巾。<sup>\[如皋\]</sup> ② 洗脚时用的毛巾。<sup>\[东台\]</sup> ③ 洗脚或坐浴用的毛巾或布。<sup>\[兴化\]</sup> ④ 擦洗下身的毛巾等小片纺织物。<sup>\[泰州\]</sup>  
 1. 【[脚踩石灰路——白走一趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_cae_sheh_huei.md#脚踩石灰路——白走一趟)】`jiah7 cae3 sheh8 huei1 lv6 poh8 zeu3 ieh7 tan5` <sup>[东台]</sup>   
 1. 【[脚长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_chan.md#脚长)】`jiah7 chan2` 腿长  
-1. 【[脚大脸丑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑的)】`jiah7 da6 lin3 cheu3 dii` <sup>[东台]</sup> ［喻］某种言行过激伤害感情或暴露了丑陋的一面：小事情宽容一些，覅都弄得～。  
+1. 【[脚大脸丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑)】`jiah7 da6 lin3 cheu3` <sup>[东台]</sup> ［喻］某种言行过激伤害感情或暴露了丑陋的一面：小事情宽容一些，覅都弄得～的。  
+1. 【[脚大脸丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑)】`jiah7 da6 lin3 cheu3` <small>/t͡ɕiɑʔ7 tɑ1 lĩ3 t͡ɕʰiɤɯ3/<sup>泰兴</sup></small> 谓十分难看。比喻双方闹纠纷产生矛盾后相互十分难看的样子。<sup>\[泰兴\]</sup>：不要同人弄得～的<sup>\[泰兴\]</sup>  
+1. 【[脚底板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_baen.md#脚底板)】`jiah7 di3 baen3` <small>/t͡ɕiɑʔ7 t͡ɕʝ3 pɛ̃3/<sup>泰兴</sup></small> 脚掌的俗称。<sup>\[泰兴\]</sup>  
 1. 【[脚底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_xia.md#脚底下)】`jiah7 di3 xia` <sup>[兴化]</sup> 下面：我家住的三楼，～是一户转业军人。  
 1. 【[脚家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ga.md#脚家)】`jiah7 ga` <sup>[如皋]</sup> 搬运工人。  
 1. 【[脚跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gen.md#脚跟)】`jiah7 gen1` <sup>[如皋]</sup> ① 脚后跟。 ② 墙基及附近：墙～、城～。  
@@ -419,26 +421,32 @@
 1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <small>/t͡ɕiaʔ7 kuɛ˞3/<sup>如皋</sup></small> ① 在小腿骨与跗骨结合处。外踝为胫骨端，内踝为腓骨端。<sup>\[如皋\]</sup> ② 脚踝，也称踝关节，是足部与腿相连的部位。<sup>\[东台\]</sup>  
 1. 【[脚鞈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guh_zz.md#脚鞈子)】`jiah7 guh7 zz` <sup>[如皋]</sup> 蹄甲。  
 1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` 脚踝  
+1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` <small>/t͡ɕiɑʔ7 ku1 kuɛ3/<sup>泰兴</sup></small> 脚跟上部两侧凸出的骨头；脚踝。<sup>\[泰兴\]</sup>  
 1. 【[脚箍眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_ngaen.md#脚箍眼)】`jiah7 gv1 ngaen3` <sup>[如东]</sup> 踝骨部位。  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ha.md#脚下)】`jiah7 ha` <small>/t͡ɕiaʔ7 xa/<sup>如皋</sup></small> ① 加在表示地点或者时间或数量的名后面，表示某地附近，某个时间附近，或者大约的数量 ② 所在位置<sup>\[如皋\]</sup>：这～，那～，哪～。<sup>\[如皋\]</sup> ③ 高大物的根部、底部及附近<sup>\[如皋\]</sup>：树～、草𧂐～、窑～、住身～。<sup>\[如皋\]</sup> ④ 将近某个时间<sup>\[如皋\]</sup>：冬～、年～，月半～、十点～。<sup>\[如皋\]</sup>  
 1. 【[脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_han.md#脚行)】`jiah7 han2` <small>/t͡ɕiaʔ7 xã2/<sup>如皋</sup></small> ① 旧时的搬运行，主营担挑、抬杠、推车，兼营收殓殡葬。<sup>\[如东\]</sup> ② 见“箩脚行”。<sup>\[如皋\]</sup>  
 1. 【[脚胻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_hen_jien.md#脚胻筋)】`jiah7 hen5 jien1` <sup>[如皋]</sup> ① 踝部后方称后～，有通往足底的神经、血管和筋腱。 ② 脚弓背部称前～。 ③ 小腿前面。都是要加意保护的部位，被打击或碰撞时最疼。  
+1. 【[脚后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_heu_gen.md#脚后跟)】`jiah7 heu6 gen` <small>/t͡ɕiɑʔ7 xəɪ1 kəŋ/<sup>泰兴</sup></small> 脚跟；脚的后部。<sup>\[泰兴\]</sup>  
 1. 【[脚后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_heu_gen.md#脚后跟)】`jiah7 heu6 gen1` <sup>[如东]</sup> 脚掌后边的部分。  
+1. 【[脚后跟打到脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_heu_gen_da.md#脚后跟打到脑勺子)】`jiah7 heu6 gen1 da3 do5 no3 shah9 zz` <small>/t͡ɕiɑʔ7 xəɪ1 kəŋ1 tɑ3 tɔ5 nɔ3 sɑʔ1 t͡sɿ/<sup>泰兴</sup></small> 形容飞奔、快跑。<sup>\[泰兴\]</sup>  
 1. 【[脚火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_hu.md#脚火)】`jiah7 hu3` <sup>[兴化]</sup> 老式灶膛里木柴或芦苇的余火：从锅膛里扒点～来生铜炉子。  
-1. 【[脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_hu.md#脚货)】`jiah7 hu5` <small>/t͡ɕiaʔ7 xo5/<sup>兴化</sup></small> ① ［引］拣剩下的少量商品。<sup>\[东台\]</sup> ② 卖剩或挑剩的商品<sup>\[兴化\]</sup>：这批～便宜点儿卖掉算吖。<sup>\[兴化\]</sup>  
+1. 【[脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_hu.md#脚货)】`jiah7 hu5` <small>/t͡ɕiaʔ7 xo5/<sup>兴化</sup>, /t͡ɕiɑʔ7 xɤɯ5/<sup>泰兴</sup></small> ① ［引］拣剩下的少量商品。<sup>\[东台\]</sup> ② 卖剩或挑剩的商品<sup>\[兴化\]</sup>：这批～便宜点儿卖掉算吖。<sup>\[兴化\]</sup> ③ 次等的货；卖不出去的剩货。<sup>\[泰兴\]</sup>  
 1. 【[脚影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien.md#脚影)】`jiah7 ien3` <small>/t͡ɕiaʔ7 in3/<sup>兴化</sup></small> ① 人的形影<sup>\[兴化\]</sup>：等他几天，～也不曾来伸下子。<sup>\[兴化\]</sup> ② 指人的踪迹<sup>\[泰州\]</sup>：来啊半天，也不曾望到他的一个～。<sup>\[泰州\]</sup>  
 1. 【[脚影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien_r.md#脚影<sub>儿</sub>)】`jiah7 ien3 r` <sup>[如皋]</sup> 身影：多少天～总不曾伸到那许。  
 1. 【[脚影<sub>儿</sub>都不送](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien_r_du.md#脚影<sub>儿</sub>都不送)】`jiah7 ien3 r du1 beh7 son5` <sup>[东台]</sup> 意思是该到的地方竟然没有到过：父亲生病住院，儿子～，太不像话！  
+1. 【[脚影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien_zz.md#脚影子)】`jiah7 ien3 zz` <small>/t͡ɕiɑʔ7 iŋ3 t͡sɿ/<sup>泰兴</sup></small> 踪影；人影<sup>\[泰兴\]</sup>：箇一期连他～总不曾望见<sup>\[泰兴\]</sup>  
 1. 【[脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ien.md#脚印)】`jiah7 ien5` <sup>[如东]</sup> 脚底留在物体上的痕迹。  
 1. 【[脚脚嘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jiah_dv.md#脚脚嘟)】`jiah7 jiah7 dv2` <small>/t͡ɕiaʔ7 t͡ɕiaʔ7 tu2/<sup>兴化</sup>, /t͡ɕiaʔ7 t͡ɕiaʔ7 tu2/<sup>如皋</sup></small> ① 溜走，逃了。<sup>\[如皋\]</sup> ② 偷偷溜走<sup>\[兴化\]</sup>：他见到好事一着不让，碰到难事就～。<sup>\[兴化\]</sup> ③ 一步紧接一步偷偷或者迅速溜走<sup>\[泰州\]</sup>：几个好佬一望情况不对，～，全溜啊走啊。<sup>\[泰州\]</sup>｜晚上有演出，饭才吃咖一半，他俫几个人就～唻。<sup>\[泰州\]</sup>  
 1. 【[脚筋跑断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jien_po_tun.md#脚筋跑断吖)】`jiah7 jien1 po2 tun6 nga` <sup>[如东]</sup> 比喻跑了很多路，非常辛苦：为啊讨债，我～。  
 1. 【[脚劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jien.md#脚劲)】`jiah7 jien5` <sup>[如东]</sup> 脚的力气：你有～，可以到处跑。  
 1. 【[脚节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jih_r.md#脚节<sub>儿</sub>)】`jiah7 jih7 r` <sup>[如皋]</sup> ① 趾关节。 ② 趾节段。  
+1. 【[脚节头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_jih_teu.md#脚节头)】`jiah7 jih7 teu` <small>/t͡ɕiɑʔ7 t͡ɕiʔ7 tʰəɪ/<sup>泰兴</sup></small> 脚趾。<sup>\[泰兴\]</sup>  
 1. 【[脚口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_keu.md#脚口)】`jiah7 keu3` <small>/t͡ɕiaʔ7 kʰɤ3/<sup>兴化</sup></small> ① 容易接触到的地方<sup>\[兴化\]</sup>：这块有事，你覅在～里转。也称“脚边”。<sup>\[兴化\]</sup> ② 靠近脚的地方<sup>\[泰州\]</sup>：你把～的东西先搬吖旁边去。<sup>\[泰州\]</sup>  
 1. 【[脚力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lieh.md#脚力)】`jiah7 lieh8` <small>/t͡ɕiɑʔ7 niɪʔ8/<sup>泰县</sup></small> ① 两脚的力气。<sup>\[如东\]</sup> ② 比喻有靠山、有后台。<sup>\[如东\]</sup>：他的～大。<sup>\[如东\]</sup> ③ 挑夫的工资。<sup>\[泰县\]</sup>  
 1. 【[脚里打拌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lii_da_pun.md#脚里打拌)】`jiah7 lii da3 pun6` <sup>[如东]</sup> 走路时两腿颤抖打弯，表示体衰力弱。  
 1. 【[脚料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lio.md#脚料)】`jiah7 lio6` <sup>[如东]</sup> 零碎残料。  
 1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆桶形，有盖，盖上有孔。装进煲灰，脚搁在上面取暖。  
+1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <small>/t͡ɕiɑʔ7 lu2/<sup>泰兴</sup></small> 昔时踏脚取暖的小铜炉。<sup>\[泰兴\]</sup>  
 1. 【[脚炉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv_r.md#脚炉<sub>儿</sub>)】`jiah7 lv2 r` <sup>[如皋]</sup> 冬天焐脚的大号铜炉子。  
 1. 【[脚面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min.md#脚面)】`jiah7 min6` <sup>[如皋]</sup> 旧时用石磨磨小麦，第四次磨出的面粉，色暗紫，称～，又称黑面。  
 1. 【[脚面上支锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min_shan_zhr.md#脚面上支锅腔)】`jiah7 min6 shan zhr1 gu1 qian1` <sup>[兴化]</sup> （喻）处于临时的、不稳定的地位：我是～的人，你一声不满意，我就要跑路。  
@@ -446,24 +454,27 @@
 1. 【[脚拇头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_mu_teu_r.md#脚拇头<sub>儿</sub>)】`jiah7 mu3 teu2 r` <sup>[如东]</sup> 脚趾尖。  
 1. 【[脚丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga.md#脚丫)】`jiah7 nga1` <sup>[东台]</sup> 脚趾头之间。  
 1. 【[脚丫巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga_ba_r.md#脚丫巴<sub>儿</sub>)】`jiah7 nga1 ba1 r` <sup>[泰县]</sup> 脚丫。  
-1. 【[脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga_r.md#脚丫<sub>儿</sub>)】`jiah7 nga1 r` ① 两只脚趾的中间，叫脚丫儿。<sup>\[如东\]</sup> ② 脚丫，脚趾<sup>\[泰州\]</sup>：打热水烫～。<sup>\[泰州\]</sup>  
+1. 【[脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_nga_r.md#脚丫<sub>儿</sub>)】`jiah7 nga1 r` <small>/t͡ɕiɑʔ7 ŋɑ˞1/<sup>泰兴</sup></small> ① 两只脚趾的中间<sup>\[如东\]</sup> ② 脚丫，脚趾<sup>\[泰州\]</sup>：打热水烫～。<sup>\[泰州\]</sup> ③ 脚趾之间。<sup>\[泰兴\]</sup>  
 1. 【[脚牛颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ngeu_jien.md#脚牛颈)】`jiah7 ngeu2 jien3` <sup>[东台]</sup> 脚脖子：不小心～闪吖。  
 1. 【[脚髈髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_pan_r.md#脚髈髈<sub>儿</sub>)】`jiah7 pan3 pan3 r` 小腿肚  
 1. 【[脚髈髈<sub>儿</sub>奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_pan_r.md#脚髈髈<sub>儿</sub>奘)】`jiah7 pan3 pan3 r zhuan3` 形容人脉广，路道粗。  
 1. 【[脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_r.md#脚髈<sub>儿</sub>)】`jiah7 pan3 r` <sup>[如东]</sup> 大腿。  
 1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <sup>[如皋]</sup> 腿。  
+1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <small>/t͡ɕiɑʔ7 pʰɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 小腿<sup>\[泰兴\]</sup>  
 1. 【[脚盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pen.md#脚盆)】`jiah7 pen2` <small>/t͡ɕiaʔ7 pʰəŋ2/<sup>如皋</sup>, /t͡ɕiɑʔ7 pʰəŋ2/<sup>泰兴</sup></small> 日常用具，一种盆\[如皋：旧时妇女专用的高脚反边的杉木盆，现在洗脚的盆统称～。\]\[如东：洗脚用的盆。一般比较大。\]\[泰兴：洗脚盆\]\[泰州：用来洗脚洗下身的盆，圆形，旧时平民多用木板以篾箍成，后来多用铜箍、铁箍，亦可用来洗衣、洗鞋。\]  
 1. 【[脚碰脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pon_jiah.md#脚碰脚)】`jiah7 pon5 jiah7` <sup>[兴化]</sup> ① 经常在一起厮混的人。 ② 同一辈的人：大家都是～的，有甚的事说不开呀？  
 1. 【[脚步站稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zhaen_ven.md#脚步站稳)】`jiah7 pv6 zhaen5 ven3` <sup>[泰州]</sup> 比喻打好立身基础，即拿定主张坚持原则，不给他人责难留下借口：别人贪污你管不了，你自己～就行。  
 1. 【[脚步子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zz.md#脚步子)】`jiah7 pv6 zz` <sup>[兴化]</sup> 为尔后留下的回旋余地：跟他办事先把～站起来，免得以后包包怨怨的。  
 1. 【[脚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qi.md#脚气)】`jiah7 qi5` <sup>[如东]</sup> 由于缺乏维生索B1而引起的疾病。症状是患者疲劳软弱，小腿沉重，肌肉疼痛萎缩，手足痉挛，头痛，失眠，下肢水肿，心力衰竭等。俗称脚癣、脚丫儿疯。  
+1. 【[脚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qi.md#脚气)】`jiah7 qi5` <small>/t͡ɕiɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 一种皮肤病。多发生于脚趾之间。症状为起水泡，痒，抓破后流水，严重的溃烂。<sup>\[泰兴\]</sup>  
 1. 【[脚轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qien.md#脚轻)】`jiah7 qien1` <sup>[如皋]</sup> 詈语。责多走、多跑。  
 1. 【[脚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qin.md#脚钱)】`jiah7 qin2` <sup>[兴化]</sup> 力资：把～。  
 1. 【[脚圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qiun_r.md#脚圈<sub>儿</sub>)】`jiah7 qiun1 r` <sup>[如皋]</sup> 猪前腿圈肉。  
 1. 【[脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_r.md#脚<sub>儿</sub>)】`jiah7 r` <small>/t͡ɕiaʔ7 ɚ/<sup>兴化</sup>, /t͡ɕia˞7/<sup>如皋</sup>, /t͡ɕiɑʔ7 ɚ/<sup>泰县</sup></small> ① 脚料：锅～、碗～。<sup>\[如皋\]</sup> ② 沉淀下的废物：水～、缸～。<sup>\[如皋\]</sup> ③ 下部、根部：树～、墙～。<sup>\[如皋\]</sup> ④ （贬）人，普通话作“角儿”<sup>\[兴化\]</sup>：这个～早就在这块转来转去的。<sup>\[兴化\]</sup> ⑤ 剩下的沉淀物：把这些滞～倒掉。<sup>\[泰县\]</sup>  
-1. 【[脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_seh.md#脚色)】`jiah7 seh7` <small>/t͡ɕiaʔ7 səʔ7/<sup>兴化</sup>, /t͡ɕiaʔ7 səʔ7/<sup>如皋</sup></small> ① 能干、厉害、有本领、出众的人<sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[如皋\]</sup>：这家伙也是个～，你嫑小瞧啊他。<sup>\[泰州\]</sup>｜他是个好～（含讽刺意味）。<sup>\[如东\]</sup> ② 男人。<sup>\[如东\]</sup>：来了一个～。<sup>\[如东\]</sup> ③ 人的身分、地位。<sup>\[如东\]</sup>：他是一个甚的～唃？<sup>\[如东\]</sup> ④ 同普通话“角色”。<sup>\[如皋\]</sup> ⑤ 对人的贬称<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这两个～专会吹牛。<sup>\[兴化\]</sup>｜这倒是个厉害的～。<sup>\[兴化\]</sup>｜他就是这种小人～。<sup>\[泰州\]</sup>  
+1. 【[脚色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_seh.md#脚色)】`jiah7 seh7` <small>/t͡ɕiaʔ7 səʔ7/<sup>兴化</sup>, /t͡ɕiaʔ7 səʔ7/<sup>如皋</sup>, /t͡ɕiɑʔ7 səʔ7/<sup>泰兴</sup></small> ① 能干、厉害、有本领、出众的人<sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[如皋\]</sup>：这家伙也是个～，你嫑小瞧啊他。<sup>\[泰州\]</sup>｜他是个好～（含讽刺意味）。<sup>\[如东\]</sup> ② 男人。<sup>\[如东\]</sup>：来了一个～。<sup>\[如东\]</sup> ③ 人的身分、地位。<sup>\[如东\]</sup>：他是一个甚的～唃？<sup>\[如东\]</sup> ④ 同普通话“角色”。<sup>\[如皋\]</sup> ⑤ 对人的贬称<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这两个～专会吹牛。<sup>\[兴化\]</sup>｜这倒是个厉害的～。<sup>\[兴化\]</sup>｜他就是这种小人～。<sup>\[泰州\]</sup> ⑥ 即角色。指演员。有时特指某种人物，含贬义。<sup>\[泰兴\]</sup>  
+1. 【[脚手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_sheu.md#脚手)】`jiah7 sheu` <small>/t͡ɕiɑʔ7 ɕiɤɯ/<sup>泰兴</sup></small> 施工时供高处操作的支架等。<sup>\[泰兴\]</sup>  
 1. 【[脚手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_sheu.md#脚手)】`jiah7 sheu3` <sup>[泰州]</sup> 高处干活时方便上下而搭的竹架或者木架、铁架：下午起墙，你俫上午把～搭咖好啊。  
-1. 【[脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_taeh_cha.md#脚踏车)】`jiah7 taeh cha1` <small>/t͡ɕiaʔ7 tʰeʔ t͡sʰa1/<sup>如皋</sup>, /t͡ɕiɑʔ7 tʰæʔ t͡sʰa1/<sup>泰县</sup></small> ① 自行车 ② 自行车。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
+1. 【[脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_taeh_cha.md#脚踏车)】`jiah7 taeh cha1` <small>/t͡ɕiaʔ7 tʰeʔ t͡sʰa1/<sup>如皋</sup>, /t͡ɕiɑʔ7 tʰæʔ t͡sʰɑ1/<sup>泰兴</sup>, /t͡ɕiɑʔ7 tʰæʔ t͡sʰa1/<sup>泰县</sup></small> ① 自行车 ② 自行车。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[脚踏车行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_taeh_cha_han.md#脚踏车行)】`jiah7 taeh cha1 han2` <sup>[如皋]</sup> 修理、出租自行车的店家。  
 1. 【[脚踏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_taeh.md#脚踏)】`jiah7 taeh8` <sup>[兴化]</sup> 床前、桌下搁脚用的板子或木架：……袭人便忙端了～来，莺儿还不敢坐。（《红楼梦》三五）‖置于床前的又称“踏板”。  
 1. 【[脚踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_taeh_cha.md#脚踏车)】`jiah7 taeh8 cha1` <small>/t͡ɕiaʔ7 tʰæʔ8 t͡sʰa1/<sup>兴化</sup></small> 自行车。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[东台：同钢丝车儿\]  
@@ -480,6 +491,7 @@
 1. 【[脚腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_tuei_zz.md#脚腿子)】`jiah7 tuei3 zz` <sup>[如东]</sup> 腿：～发软。  
 1. 【[脚腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ty_zz.md#脚腿子)】`jiah7 ty3 zz` <sup>[如皋]</sup> 腿。  
 1. 【[脚弯<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_vaen_r.md#脚弯<sub>儿</sub>)】`jiah7 vaen1 r` <sup>[如皋]</sup> 踝部前弯处，有趾伸肌腱通过。  
+1. 【[脚弯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_vaen_zz.md#脚弯子)】`jiah7 vaen1 zz` <small>/t͡ɕiɑʔ7 ʋɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 脚与胫连接处，腿肚下面的部分。脚面。<sup>\[泰兴\]</sup>  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_xia.md#脚下)】`jiah7 xia` ① 很快就到的意思<sup>\[东台\]</sup>：他已过拐弯口，～就到。<sup>\[东台\]</sup> ② 接在某个时节后面，表示期间、前后<sup>\[东台\]</sup>：清明～麦子拔节。<sup>\[东台\]</sup>  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_xia.md#脚下)】`jiah7 xia6` <sup>[兴化]</sup> ① 月前：～不要到那许去。 ② 临近：年～家家都忙。 ③ 脚底下：他～抹油（形容人爱游荡）。  
 1. 【[脚箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_xian.md#脚箱)】`jiah7 xian1` <sup>[如东]</sup> 木制，长方形，体积大，搁置在有四只脚的箱框上，称脚箱。  
@@ -492,7 +504,7 @@
 1. 【[脚爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zho_r.md#脚爪<sub>儿</sub>)】`jiah7 zho3 r` <sup>[如皋]</sup> 专指人脚趾。  
 1. 【[脚趾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zhr.md#脚趾)】`jiah7 zhr3` <sup>[如东]</sup> 脚前端的分支，有大拇趾、二拇指、三拇指、四拇趾、小拇趾（也称细拇趾）。  
 1. 【[脚爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zhua_zz.md#脚爪子)】`jiah7 zhua3 zz` <sup>[如皋]</sup> ① 动物的足部：鸡～会搜（seu2）。 ② 专指猪蹄儿。  
-1. 【[脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zz.md#脚子)】`jiah7 zz` <small>/t͡ɕiaʔ7 t͡sɿ/<sup>兴化</sup>, /t͡ɕiaʔ7 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑʔ7 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiɑʔ7 t͡se/<sup>泰县</sup></small> ① 沉淀物。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：水缸里有不少～。<sup>\[如东\]</sup>｜缸～<sup>\[兴化\]</sup>｜油～。<sup>\[兴化\]</sup>｜你把杯子里头的茶叶～倒掉。<sup>\[泰州\]</sup> ② 残渣。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：还剩下一点儿～。<sup>\[如东\]</sup>｜茶叶～。<sup>\[泰县\]</sup> ③ ［喻］质量最差的部分，下脚，脚料<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>\[泰州：经过挑选剩下的\]：拣到最后的～只好贱卖。<sup>\[兴化\]</sup>｜好菜都卖掉啊唻，就剩吖这点儿～，随便你把几个钱。<sup>\[泰州\]</sup>｜锅里就滞啊这点儿～。<sup>\[泰州\]</sup>  
+1. 【[脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zz.md#脚子)】`jiah7 zz` <small>/t͡ɕiaʔ7 t͡sɿ/<sup>兴化</sup>, /t͡ɕiaʔ7 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑʔ7 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiɑʔ7 t͡se/<sup>泰县</sup></small> ① 沉淀物、残渣<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup>：水缸里有不少～。<sup>\[如东\]</sup>｜缸～<sup>\[兴化\]</sup>｜油～。<sup>\[兴化\]</sup>｜你把杯子里头的茶叶～倒掉。<sup>\[泰州\]</sup>｜还剩下一点儿～。<sup>\[如东\]</sup>｜茶叶～。<sup>\[泰县\]</sup> ② ［喻］质量最差的部分，下脚，脚料<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>\[泰州：经过挑选剩下的\]：拣到最后的～只好贱卖。<sup>\[兴化\]</sup>｜好菜都卖掉啊唻，就剩吖这点儿～，随便你把几个钱。<sup>\[泰州\]</sup>｜锅里就滞啊这点儿～。<sup>\[泰州\]</sup> ③ 因脚疾致成走路不便的人。<sup>\[泰兴\]</sup>  
 1. 【[脚子货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_zz_hu.md#脚子货)】`jiah7 zz hu5` <sup>[兴化]</sup> 挑剩或卖剩的东西。  
 1. 【[雀斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#雀斑)】`jiah7 baen1` 面部生的黑褐色或黄褐色斑点。<sup>\[泰州\]</sup>  
 1. 【[雀脸斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lin_baen.md#雀脸斑)】`jiah7 lin3 baen1` <small>/t͡ɕiaʔ7 liɪ̃3 pɛ̃1/<sup>兴化</sup></small> ① 又叫“雀卵斑”，面部的褐色小斑点，像喜鹊蛋上的斑纹。<sup>\[东台\]</sup> ② 雀斑。也称“雀儿斑”。<sup>\[兴化\]</sup>  

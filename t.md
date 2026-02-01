@@ -2063,12 +2063,13 @@
 1. 【[脱不开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_beh_kae.md#脱不开)】`tuh7 beh7 kae1` <sup>[如东]</sup> 离不开：这里工作太忙，我～呀！  
 1. 【[脱不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_beh_tio.md#脱不掉)】`tuh7 beh7 tio` <sup>[如东]</sup> 穿在身上的服装脱不下来。比喻推脱不了责任：这件事，王二～关系。  
 1. 【[脱俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_coh.md#脱俗)】`tuh7 coh8` <sup>[如东]</sup> 经过学习或修炼，使人摆脱庸俗的思想习气：超凡～。  
-1. 【[脱单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_daen.md#脱单)】`tuh7 daen1` <small>/tʰuʔ7 tɛ̃1/<sup>兴化</sup>, /tʰʊʔ7 tẽ1/<sup>如皋</sup>, /tʰʊʔ7 tɛ̃1/<sup>泰县</sup></small> ① 春暖后脱去冬衣，改穿夹、单衣。<sup>\[如皋\]</sup> ② 清明以后，气温逐渐升高，人们脱去棉衣，换上夹衣、单衣，称脱单。<sup>\[如东\]</sup> ③ 气候转暖，脱去御寒的棉衣<sup>\[东台\]</sup>：～时节穿春秋衫就行吖。<sup>\[东台\]</sup> ④ 春暖时脱去棉农，逐次换穿夹衣、单衣<sup>\[兴化\]</sup>：天气暖吖，要～吖。<sup>\[兴化\]</sup> ⑤ 春未夏初，脱去棉衣换上夹衣。<sup>\[泰县\]</sup> ⑥ 天气转热之时，脱掉棉衣换上单衣<sup>\[泰州\]</sup>：你这件衣裳留啊～的时候穿。<sup>\[泰州\]</sup>  
+1. 【[脱单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_daen.md#脱单)】`tuh7 daen1` <small>/tʰuʔ7 tɛ̃1/<sup>兴化</sup>, /tʰʊʔ7 tẽ1/<sup>如皋</sup>, /tʰʊʔ7 tɛ̃1/<sup>泰兴</sup>, /tʰʊʔ7 tɛ̃1/<sup>泰县</sup></small> ① 春暖后脱去冬衣，改穿夹、单衣。<sup>\[如皋\]</sup> ② 清明以后，气温逐渐升高，人们脱去棉衣，换上夹衣、单衣，称脱单。<sup>\[如东\]</sup> ③ 气候转暖，脱去御寒的棉衣<sup>\[东台\]</sup>：～时节穿春秋衫就行吖。<sup>\[东台\]</sup> ④ 春暖时脱去棉农，逐次换穿夹衣、单衣<sup>\[兴化\]</sup>：天气暖吖，要～吖。<sup>\[兴化\]</sup> ⑤ 春未夏初，脱去棉衣换上夹衣。<sup>\[泰县\]</sup> ⑥ 天气转热之时，脱掉棉衣换上单衣<sup>\[泰州\]</sup>：你这件衣裳留啊～的时候穿。<sup>\[泰州\]</sup> ⑦ 谓天气热了，换穿单衣。<sup>\[泰兴\]</sup>  
 1. 【[脱当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_dan.md#脱当)】`tuh7 dan1` <sup>[如皋]</sup> 空缺期：这种货～。  
 1. 【[脱寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_gua.md#脱寡)】`tuh7 gua3` <sup>[东台]</sup> 什么也没弄到，空手而归。  
 1. 【[脱骨疽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_gueh_jy.md#脱骨疽)】`tuh7 gueh7 jy1` <sup>[如皋]</sup> 能使骨节脱落的毒疮。  
 1. 【[脱货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_hu.md#脱货)】`tuh7 hu5` <sup>[东台]</sup> 商店里商品缺货脱销。  
 1. 【[脱货求财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_hu_qieu_cae.md#脱货求财)】`tuh7 hu5 qieu2 cae2` <sup>[兴化]</sup> 卖掉手中货物，加速资金周转：拉倒，贱卖就卖吧，我是～！  
+1. 【[脱衣剥裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_i_bah_shan.md#脱衣剥裳)】`tuh7 i1 bah7 shan2` <small>/tʰʊʔ7 ʝ1 pɑʔ7 sɑŋ2/<sup>泰兴</sup></small> 脱去身上的衣服，准备大干的样子。<sup>\[泰兴\]</sup>  
 1. 【[脱节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_jih.md#脱节)】`tuh7 jih7` 两个骨节衔接之处分离<sup>\[泰州\]</sup>：他的膀子捱撞吖～，抬不起来唻。<sup>\[泰州\]</sup>  
 1. 【[脱壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_kah.md#脱壳)】`tuh7 kah7` <sup>[如东]</sup> 许多节肢动物和爬行动物，生长期间脱掉老皮，生长新皮，称脱壳。每脱壳一次身体长大一些。通称蜕皮。比喻人企图长生不老：你会～吤，你不会死的。  
 1. 【[脱空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_kon.md#脱空)】`tuh7 kon1` 因落空而中断<sup>\[泰州\]</sup>：他天天下午一把澡，不曾～过一天。<sup>\[泰州\]</sup>  
@@ -2089,8 +2090,7 @@
 1. 【[脱手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_sheu.md#脱手)】`tuh7 sheu3` <sup>[如东]</sup> 商品卖出去，叫脱手。  
 1. 【[脱水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_shuei.md#脱水)】`tuh7 shuei3` <sup>[如东]</sup> 使潮湿的东西干燥起来。  
 1. 【[脱体](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_ti.md#脱体)】`tuh7 ti3` <small>/tʰuʔ7 tʰəi3/<sup>兴化</sup>, /tʰʊʔ7 tʰʝ3/<sup>如皋</sup></small> ① 痊愈<sup>\[如皋\]</sup>：你不要性急，等～啊再出医院。<sup>\[如皋\]</sup> ② 疾病离身，这个病缠身，几年不曾～。<sup>\[兴化\]</sup> ③ 摆脱干系<sup>\[兴化\]</sup>：这件事好容易才～，覅再把我扯进去。<sup>\[兴化\]</sup>  
-1. 【[脱孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_xio.md#脱孝)】`tuh7 xio` <sup>[兴化]</sup> 除孝：“……叫他们预备香蜡，我要～了……”（《三十年目睹之怪现状》八九）  
-1. 【[脱孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_xio.md#脱孝)】`tuh7 xio5` <small>/tʰuʔ7 ɕiɔ5/<sup>兴化</sup>, /tʰʊʔ7 ɕiɔ5/<sup>如皋</sup></small> ① 出孝。守孝期满。<sup>\[如皋\]</sup> ② 一种民俗。长辈死后晚辈要戴孝。一般经过三年，举行一定的纪念仪式，表示不再戴孝，叫做脱孝。<sup>\[如东\]</sup> ③ 守孝期满，除去丧服。<sup>\[东台\]</sup> ④ 见“除孝”。<sup>\[兴化\]</sup> ⑤ 服丧期满，脱去丧服<sup>\[泰州\]</sup>：你家里不曾放鞭，人家怎吖晓得你家～㖸。<sup>\[泰州\]</sup>  
+1. 【[脱孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_xio.md#脱孝)】`tuh7 xio5` <small>/tʰuʔ7 ɕiɔ/<sup>兴化</sup>, /tʰʊʔ7 ɕiɔ5/<sup>如皋</sup>, /tʰʊʔ7 ɕiɔ5/<sup>泰兴</sup></small> ① 出孝。守孝期满。<sup>\[如皋\]</sup> ② 一种民俗。长辈死后晚辈要戴孝。一般经过三年，举行一定的纪念仪式，表示不再戴孝，叫做脱孝。<sup>\[如东\]</sup> ③ 守孝期满，除去丧服。<sup>\[东台\]</sup> ④ 见“除孝”。<sup>\[兴化\]</sup> ⑤ 服丧期满，脱去丧服<sup>\[泰州\]</sup>：你家里不曾放鞭，人家怎吖晓得你家～㖸。<sup>\[泰州\]</sup> ⑥ 指丧事期满，脱去孝衣。旧时常有一定的仪式。<sup>\[泰兴\]</sup>  
 1. 【[脱榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_xyen.md#脱榫)】`tuh7 xyen3` <sup>[兴化]</sup> ① 木器的榫头松动，离开卯眼：椅子～，不能再坐啊。 ② 俗谓骨头脱位。  
 1. 【[夺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh.md#夺)】`tuh8` <small>/tʰʊʔ8/<sup>如皋</sup></small> ① 用石磨磨粮，磨完不筛再磨一次，儘眼淌，称一磨一～。<sup>\[如皋\]</sup> ② 石磨磨粮，磨完了不筛，再磨一次，称夺。<sup>\[如东\]</sup>  
 1. 【[夺台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tuh_tae.md#夺台)】`tuh8 tae2` <sup>[如东]</sup> 房屋的一种结构形式。两排房屋的前后檐连在一起，称夺台。  
