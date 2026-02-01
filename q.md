@@ -1037,6 +1037,7 @@
 1. 【[轻巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qio.md#轻巧)】`qien1 qio3` ① 轻便小巧。<sup>\[如东\]</sup>：这把锄头～。<sup>\[如东\]</sup> ② 重量小而灵巧。<sup>\[东台\]</sup> ③ 轻松灵巧<sup>\[东台\]</sup>：动作～。<sup>\[东台\]</sup> ④ 简单容易<sup>\[东台\]</sup>：说得倒～。<sup>\[东台\]</sup>  
 1. 【[轻巧话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_qio_hua.md#轻巧话)】`qien1 qio3 hua6` <sup>[东台]</sup> 把难事说成轻而易举的事：见人挑担不吃力，还站吖旁边说～，哿像话？  
 1. 【[轻饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ro.md#轻饶)】`qien1 ro2` <sup>[兴化]</sup> 轻易放过，不再追究或报复：你得罪啊他，决不会～你。｜世人度量狭窄，心术刻薄……莫说犯出不是来，他肯～了你！（《古今小说》六）也说“轻卖”。  
+1. 【[轻省](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#轻省)】`qien1 shen` <small>/t͡ɕʰiŋ1 səŋ/<sup>泰兴</sup></small> 轻松<sup>\[泰兴\]</sup>：我箇回的工作虽然钱不多，但是～<sup>\[泰兴\]</sup>｜他不肯我问他的事，我落得～<sup>\[泰兴\]</sup>  
 1. 【[轻神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#轻神)】`qien1 shen2` <small>/t͡ɕʰiəŋ1 səŋ2/<sup>如皋</sup></small> ① 轻浮、撒娇。<sup>\[如皋\]</sup> ② 举止轻佻。<sup>\[如东\]</sup>  
 1. 【[轻神货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen_hu.md#轻神货)】`qien1 shen2 hu5` <sup>[如皋]</sup> ① 詈语或昵语。指不庄重的人。 ② 指爱撒娇的人。  
 1. 【[轻手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_sheu.md#轻手)】`qien1 sheu3` <small>/t͡ɕʰiŋ1 ɕiɤɯ3/<sup>泰兴</sup></small> 动不动就以手击人或乱拿不应拿的东西。<sup>\[泰兴\]</sup>  
@@ -1156,7 +1157,7 @@
 1. 【[请菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_pv_saeh.md#请菩萨)】`qien3 pv2 saeh` <small>/t͡ɕʰiŋ3 pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 多指春节前购买有菩萨形象的图片。加“请”字以示恭敬。<sup>\[泰兴\]</sup>  
 1. 【[请人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ren.md#请人)】`qien3 ren2` 设宴邀请他人喝酒吃饭<sup>\[泰州\]</sup>：今朝晚上家里要～，你早点儿家来。<sup>\[泰州\]</sup>  
 1. 【[请升](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#请升)】`qien3 shen1` <small>/t͡ɕʰin3 sən1/<sup>兴化</sup></small> ① 走路的隐语。旧时抬轿者轿杠上肩站立谓“升轿”，接着便行走<sup>\[兴化\]</sup>：你再胡铜立即～！<sup>\[兴化\]</sup> ② 求你登轿走吧，是“请走”的委婉说法。旧时坐轿者登轿后轿即抬走，故云<sup>\[泰州\]</sup>：这块没得人听你说这些梦话，你～吧。<sup>\[泰州\]</sup>  
-1. 【[请身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#请身)】`qien3 shen1` <small>/t͡ɕʰiəŋ3 səŋ1/<sup>如皋</sup></small> ① 贬指使离开：你开交点儿钱，打发他～。<sup>\[如皋\]</sup> ② 催人动身的客气说法。说得粗野是“死开去”、“死啊走”。<sup>\[东台\]</sup>  
+1. 【[请身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen.md#请身)】`qien3 shen1` <small>/t͡ɕʰiəŋ3 səŋ1/<sup>如皋</sup></small> ① 贬指使离开<sup>\[如皋\]</sup>：你开交点儿钱，打发他～。<sup>\[如皋\]</sup> ② 催人动身的客气说法。说得粗野是“死开去”、“死啊走”。<sup>\[东台\]</sup>  
 1. 【[请神容易送神难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shen_ion_i.md#请神容易送神难)】`qien3 shen2 ion2 i6 son5 shen2 naen2` <sup>[东台]</sup> 请有身份或有影响的人物进来不难，但打发是费事的。  
 1. 【[请士用将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_shr_ion_jian.md#请士用将)】`qien3 shr6 ion6 jian5` <sup>[兴化]</sup> 有事找亲友帮忙：以后有事雇人来做，免得～的，欠人家情。  
 1. 【[请喜笺对子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xi_jin_duei_zz.md#请喜笺对子)】`qien3 xi3 jin duei5 zz` <small>/t͡ɕʰiŋ3 ɕʝ3 t͡ɕĩ təɪ5 t͡sɿ/<sup>泰兴</sup></small> 购买喜笺、对联。<sup>\[泰兴\]</sup>  
