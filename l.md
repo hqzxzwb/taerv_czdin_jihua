@@ -1464,7 +1464,7 @@
 1. 【[脸白咖渣啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_poh_ga_zha.md#脸白咖渣啊)】`lin3 poh8 ga zha1 a` <sup>[如皋]</sup> 脸色苍白，毫无血色，表示病重或十分恐怖。  
 1. 【[脸盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_pun_zz.md#脸盘子)】`lin3 pun2 zz` <small>/liɪ̃3 pʰũ2 t͡sɿ/<sup>兴化</sup>, /lĩ3 pʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 脸，面孔。 ② 脸。<sup>\[兴化\]</sup> ③ 脸，脸蛋。<sup>\[泰兴\]</sup>  
 1. 【[脸像山猴屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qian_shaen_heu.md#脸像山猴屁股)】`lin3 qian6 shaen1 heu2 pi5 gu` <sup>[东台]</sup> 形容人脸因为受热或者惶恐而红彤彤的样子。  
-1. 【[脸<sub>儿</sub>老老肚<sub>儿</sub>饱饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_r_lo_lo.md#脸<sub>儿</sub>老老肚<sub>儿</sub>饱饱)】`lin3 r lo3 lo3 tv6 r bo3 bo3` <sup>[东台]</sup> 老着脸皮吃白大，也比喻老着脸皮拿别人心爱的东西。  
+1. 【[脸<sub>儿</sub>老老肚<sub>儿</sub>饱饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_r_lo_lo.md#脸<sub>儿</sub>老老肚<sub>儿</sub>饱饱)】`lin3 r lo3 lo3 dv3 r bo3 bo3` <sup>[东台]</sup> 老着脸皮吃白大，也比喻老着脸皮拿别人心爱的东西。  
 1. 【[脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_seh.md#脸色)】`lin3 seh7` <sup>[如东]</sup> ① 人面部的血色。 ② 人脸上的表情：～难看。  
 1. 【[脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_seh.md#脸色)】`lin3 seh7` <small>/lĩ3 səʔ7/<sup>泰兴</sup></small> 脸上的表情、气色。<sup>\[泰兴\]</sup>：人看～，瓜看皮色。<sup>\[泰兴\]</sup>  
 1. 【[脸色发闭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_seh_faeh_bi.md#脸色发闭)】`lin3 seh7 faeh7 bi5` <sup>[如皋]</sup> 见“脸色发滞”。  

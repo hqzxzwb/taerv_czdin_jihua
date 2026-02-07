@@ -772,6 +772,8 @@
 1. 【[墒沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_geu.md#墒沟)】`shan1 geu1` <small>/saŋ1 kɤ1/<sup>兴化</sup></small> ① 田间排水的沟槽。<sup>\[如东\]</sup> ② 在田间开挖的排灌沟渠。<sup>\[兴化\]</sup>  
 1. 【[墒口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_keu.md#墒口)】`shan1 keu3` <sup>[东台]</sup> 农田里行水的沟，在两畈田中间。也叫墒沟。  
 1. 【[墒口<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_keu_r.md#墒口<sub>儿</sub>)】`shan1 keu3 r` <sup>[如皋]</sup> 墙沟，畦间排灌用的水槽。  
+1. 【[□不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_beh_chv.md#□不住)】`shan2 beh7 chv6` <small>/sã2 pəʔ7 t͡sʰu1/<sup>如皋</sup></small> 没注意、一不小心<sup>\[如皋\]</sup>  
+1. 【[□住里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_chv_lii.md#□住里)】`shan2 chv6 lii` 索性<sup>\[如东\]</sup>  
 1. 【[偿命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_mien.md#偿命)】`shan2 mien6` <sup>[如东]</sup> 抵命：打死人是要～的。  
 1. 【[尝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#尝)】`shan2` ① 品尝 ② 少许吃一点儿，品品滋味。<sup>\[如东\]</sup>  
 1. 【[尝味水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_vei_shuei.md#尝味水)】`shan2 vei6 shuei3` <sup>[如皋]</sup> 第一次碰了某人的钉子，知道他的为人之道。变体“尝……味水”：尝过他的味水、尝尝他的味水。  
