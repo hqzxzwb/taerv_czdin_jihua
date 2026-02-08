@@ -830,8 +830,8 @@
 1. 【[昧瞒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_mun.md#昧瞒)】`mei6 mun` <sup>[东台]</sup> 私吞财物。  
 1. 【[焖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#焖)】`men1` ① 一种烹调方法。把肉、鳖等菜肴配好作料放在砂锅里，加盖，用文火<sup>\[如东\]</sup> ② 煮熟。<sup>\[如东\]</sup> ③ 一种烹饪方法，关火以后，盖紧锅盖，利用余热使食物煮透或者保热<sup>\[泰州\]</sup>：饭煮啊好啊唻，再～个盹儿就好吃咖。<sup>\[泰州\]</sup>  
 1. 【[焖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_zz.md#焖子)】`men1 zz` <sup>[如东]</sup> 大砂锅。  
-1. 【[瘟六宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_loh_gon.md#瘟六宫)】`men1 loh8 gon1` <sup>[如皋]</sup> 不开口，不交谈的孤僻性格。  
 1. 【[闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#闷)】`men1` <small>/mən1/<sup>兴化</sup></small> ① 隐匿：他上次的风流事捱科长～掉啊。｜单位撤并的时候，小金库的钱捱头头跟会计～下去啊。<sup>\[兴化\]</sup> ② 纤维制品因受潮或放置时间长而变脆：这框麻绳～掉啊。<sup>\[兴化\]</sup> ③ 沉默不语<sup>\[泰州\]</sup>：他个人在旁边～起头来吃酒。<sup>\[泰州\]</sup> ④ 待在家中不与外界接触<sup>\[泰州\]</sup>：退啊休，他就一直～在家里写书。<sup>\[泰州\]</sup> ⑤ 在密闭狭小空间，因空气流通不畅而引起的感觉<sup>\[泰州\]</sup>：上浴室洗澡，～的时间不能太长。<sup>\[泰州\]</sup> ⑥ 自己的想法或知道的情况藏在心中，不告诉他人<sup>\[泰州\]</sup>：有话老是～吖心里对身体不好。<sup>\[泰州\]</sup> ⑦ 暗中侵吞他人财物<sup>\[泰州\]</sup>：人家让他带的香烟捱他～掉一条。<sup>\[泰州\]</sup>  
+1. 【[闷六公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_loh_gon.md#闷六公)】`men1 loh8 gon1` <small>/məŋ1 lɔʔ kɔŋ1/<sup>如皋</sup>, /məŋ1 lɔʔ8 kɔŋ1/<sup>泰兴</sup>, /məŋ1 nɔʔ7 koŋ1/<sup>泰县</sup></small> ① 不开口，不交谈的孤僻性格。<sup>\[如皋\]</sup> ② 不轻易开口，但工于心计<sup>\[东台\]</sup>：他好主意在肚里，是个～。<sup>\[东台\]</sup> ③ 性格内向的人。<sup>\[泰县\]</sup> ④ 性格内向、内心不善于外露但很有心计的人。<sup>\[泰兴\]</sup>：他箇个～，肚里名堂不小睐。<sup>\[泰兴\]</sup>  
 1. 【[闷鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_pieh_zz.md#闷鼻子)】`men1 pieh8 zz` <sup>[泰州]</sup> 比喻收到斥责或者羞辱而又不便发作：他在领导那块吃咖个～，心里着实不泻意。  
 1. 【[闷骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_so.md#闷骚)】`men1 so1` <sup>[泰州]</sup> 将性的欲望深藏在心里而不显露。  
 1. 【[闷汤□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_ih.md#闷汤□)】`men1 tan1 ih8` <small>/məŋ1 tʰɑŋ1 iʔ8/<sup>泰兴</sup></small> 微热不烫（另见ven1 tan1 ih8）<sup>\[泰兴\]</sup>  
@@ -954,8 +954,6 @@
 1. 【[闷厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_in.md#闷厌)】`men6 in5` <sup>[兴化]</sup> 小孩外表沉静，而背地里却十分顽皮：你覅看他表面老实，骨里～。  
 1. 【[闷酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_jieu.md#闷酒)】`men6 jieu3` <small>/məŋ1 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 一人或者数人一言不发喝酒<sup>\[泰州\]</sup>：一个人在家里喝～没得意思。<sup>\[泰州\]</sup> ② 烦闷时喝酒曰闷酒。<sup>\[泰兴\]</sup>  
 1. 【[闷苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_kv.md#闷苦)】`men6 kv3` <sup>[兴化]</sup> 被暗中作弄。见“暗苦”。  
-1. 【[闷六公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_loh_gon.md#闷六公)】`men6 loh8 gon1` <small>/məŋ1 lɔʔ8 kɔŋ1/<sup>泰兴</sup>, /məŋ1 nɔʔ8 koŋ1/<sup>泰县</sup></small> ① 性格内向的人。<sup>\[泰县\]</sup> ② 性格内向、内心不善于外露但很有心计的人。<sup>\[泰兴\]</sup>：他箇个～，肚里名堂不小睐。<sup>\[泰兴\]</sup>  
-1. 【[闷碌公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_loh_gon.md#闷碌公)】`men6 loh8 gon1` <sup>[东台]</sup> 不轻易开口，但工于心计：他好主意在肚里，是个～。  
 1. 【[闷雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_luei.md#闷雷)】`men6 luei2` <sup>[如东]</sup> 声音低沉的雷。比喻暗地里遭受到打击：他吃咖个～。  
 1. 【[闷雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ly.md#闷雷)】`men6 ly2` <sup>[如皋]</sup> 远而沉闷的雷声。  
 1. 【[闷屁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_pi.md#闷屁)】`men6 pi5` <sup>[如东]</sup> 自己遭受了窝囊气而又不好对外说。  
