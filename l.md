@@ -1581,7 +1581,7 @@
 1. 【[料张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zhan.md#料张)】`lio6 zhan1` <small>/liɔ1 t͡sɑŋ1/<sup>泰兴</sup></small> 准备采用的材料，多指半成品的木料。<sup>\[泰兴\]</sup>  
 1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /liɔ1 t͡sɿ/<sup>泰兴</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup> ⑦ 布料或其它准备制作成品的材料。<sup>\[泰兴\]</sup>  
 1. 【[𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#𩻻)】`lio6` <sup>[东台]</sup> 䱗鱼：白～。  
-1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，了。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
+1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，相当于现代汉语“了2”。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
 1. 【[恅愺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_co.md#恅愺)】`lo1 co` <sup>[如皋]</sup> 物品脏而混杂。  
 1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <small>/lɔ1/<sup>兴化</sup>, /lɔ1/<sup>泰兴</sup></small> ① 顺手拿<sup>\[兴化\]</sup>：她到婆婆家见甚的～甚的！<sup>\[兴化\]</sup> ② 不正当取得，偷窃、贪污等<sup>\[泰兴\]</sup>：箇个人块块～<sup>\[泰兴\]</sup>  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo1 ieu2 shuei` <sup>[兴化]</sup> 用不正当手段取得钱财：他趁房屋拆迁～，捱拆迁户举报。  
@@ -2285,8 +2285,9 @@
 1. 【[罗躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#罗躁)】`lu2 zo5` <sup>[泰县]</sup> 找麻烦：你不要～人。  
 1. 【[罗躁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo_ren.md#罗躁人)】`lu2 zo5 ren2` <sup>[东台]</sup> 提出很多麻烦事，令人烦躁。  
 1. 【[脶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#脶)】`lu2` <small>/lo2/<sup>兴化</sup></small> 手指纹，特指螺旋形手指纹。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[如东：或脚趾、脚掌上的圆形纹路。脶歌：“一脶巧，二脶拙，三脶骑马看田案，四脶中，五脶空，六脶帮人做长工，七脶会烧盐，八脶会种田，九脶捏金锁，十脶十𡊄箕，到老不正气。”\]：儿歌：一～巧，二～拙，三～四～扒笔算……<sup>\[兴化\]</sup>｜两个手上八个～。<sup>\[泰州\]</sup>  
-1. 【[脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ien.md#脶印)】`lu2 ien5` <small>/lo2 in5/<sup>兴化</sup>, /no2 iŋ5/<sup>泰县</sup></small> ① 手指纹留在纸面上的痕迹。也刚手印。<sup>\[如东\]</sup>：合同上有～。<sup>\[如东\]</sup> ② 用手指头上脶纹沾印泥盖的印，有时可代私章用。<sup>\[东台\]</sup> ③ 手印。<sup>\[兴化\]</sup> ④ 指印。<sup>\[泰县\]</sup> ⑤ 指纹印记，画押时常用拇指或食指蘸印油在文件上按下，以代替本人印章<sup>\[泰州\]</sup>：捺～。<sup>\[泰州\]</sup>  
+1. 【[脶印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ien.md#脶印)】`lu2 ien5` <small>/lo2 in5/<sup>兴化</sup>, /lɤɯ2 iŋ5/<sup>泰兴</sup>, /no2 iŋ5/<sup>泰县</sup></small> ① 手指纹留在纸面上的痕迹。也叫手印。<sup>\[如东\]</sup>：合同上有～。<sup>\[如东\]</sup> ② 用手指头上脶纹沾印泥盖的印，有时可代私章用。<sup>\[东台\]</sup> ③ 手印。<sup>\[兴化\]</sup> ④ 手指印。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup> ⑤ 指纹印记，画押时常用拇指或食指蘸印油在文件上按下，以代替本人印章<sup>\[泰州\]</sup>：捺～。<sup>\[泰州\]</sup>  
 1. 【[脶记](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ji.md#脶记)】`lu2 ji5` <sup>[兴化]</sup> 即手印。  
+1. 【[脶心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_xien.md#脶心)】`lu2 xien1` <small>/lɤɯ2 ɕiŋ1/<sup>泰兴</sup></small> 手指头指纹的中心。<sup>\[泰兴\]</sup>  
 1. 【[萝藦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_mu.md#萝藦)】`lu2 mu2` <sup>[如东]</sup> 萝藦科植物萝藦，多年生蔓性草本。  
 1. 【[萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh.md#萝卜)】`lu2 poh` <sup>[如东]</sup> 十字花科植物莱菔，一年生或二年生草本。  
 1. 【[萝卜饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_poh_faen.md#萝卜饭)】`lu2 poh faen6` <small>/lɤɯ2 pʰɔʔ fɛ̃1/<sup>泰兴</sup></small> 以胡萝卜为主加人少量的米作成的饭。<sup>\[泰兴\]</sup>  

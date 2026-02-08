@@ -2103,8 +2103,10 @@
 1. 【[族住块<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_chv_kuae_r.md#族住块<sub>儿</sub>)】`coh8 chv6 kuae5 r` <sup>[如皋]</sup> 聚集在一起。  
 1. 【[族族的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_coh_dii.md#族族的)】`coh8 coh8 dii` <sup>[泰州]</sup> 许多人或者物聚集在一起的样子：西瓜开啊不吃掉，丢啊桌上苍蝇～。｜上班的时候，望啊信访局大门口人～，不晓得为的甚的事。  
 1. 【[族谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_pv.md#族谱)】`coh8 pv3` <sup>[东台]</sup> 家族或宗族记载本族世系和重要人物的文书。  
+1. 【[族谱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_pv.md#族谱)】`coh8 pv3` <small>/t͡sʰɔʔ8 pʰu3/<sup>泰兴</sup></small> 家谱。记载家族或家族谱系的书册。<sup>\[泰兴\]</sup>  
 1. 【[族蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_qy_zz.md#族蛆子)】`coh8 qy1 zz` <small>/t͡sʰɔʔ8 t͡ɕʰy1 t͡sɿ/<sup>如皋</sup></small> ① 见“拱蛆子”。<sup>\[如皋\]</sup> ② 聚结，集中、拱动。<sup>\[如皋\]</sup> ③ 形容人多拥挤秩序差。<sup>\[东台\]</sup>  
 1. 【[族长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhan.md#族长)】`coh8 zhan3` <sup>[东台]</sup> 旧时宗法家族的首领，通常由家族中辈分高有权威的男性担任，裁决族内争端。  
+1. 【[族长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhan.md#族长)】`coh8 zhan3` <small>/t͡sʰɔʔ8 t͡sɑŋ3/<sup>泰兴</sup></small> 旧时家族的头头。<sup>\[泰兴\]</sup>：公亲～<sup>\[泰兴\]</sup>  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh8` <small>/t͡sʰɔʔ8/<sup>兴化</sup>, /t͡sʰɔʔ8/<sup>如皋</sup></small> ① 在纸上凿刻<sup>\[如皋\]</sup>：～喜笺、～毛丈。<sup>\[如皋\]</sup> ② 在木板上雕花<sup>\[兴化\]</sup>：～花板子。<sup>\[兴化\]</sup> ③ 在纸上镂刻图案或文字。《集韵·屋的》昨木切：“～，缕也”。俗作“镞”。<sup>\[兴化\]</sup>：～花边纸。<sup>\[兴化\]</sup> ④ 雕刻（纸）。<sup>\[如东\]</sup>：～喜钱。<sup>\[如东\]</sup>  
 1. 【[聪明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_mien.md#聪明)】`con1 mien2` <sup>[如东]</sup> 智商高，理解力强，记忆力强：小明从小就～。  
 1. 【[葱果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r.md#葱果<sub>儿</sub>)】`con1 gu3 r` <sup>[如皋]</sup> 葱的地下茎。  

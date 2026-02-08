@@ -809,6 +809,7 @@
 1. 【[嚎丧狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu_zz.md#嚎丧狗子)】`ho2 san1 geu3 zz` <sup>[泰县]</sup> 大喊大叫的人：你这个～不要叫。  
 1. 【[毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#毫)】`ho2` <sup>[如皋]</sup> 中、老年男性的痣、眉、耳鼻等处特长的毛。  
 1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <sup>[如皋]</sup> 传说人体的生物光。男性～大，女性～小，少年人～大，老人～小，有道行的人大，产妇没～。大可以辟邪、驱鬼。  
+1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <small>/xɔ2 kuɑŋ1/<sup>泰兴</sup></small> 光芒四射的样子；光亮，光点。<sup>\[泰兴\]</sup>：～冲天<sup>\[泰兴\]</sup>  
 1. 【[毫毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo.md#毫毛)】`ho2 mo2` <sup>[如东]</sup> ① 生长在人体皮肤表面的细毛。也称猴毛、寒毛，通称汗毛。 ② 比喻极小：碰伤几根～。  
 1. 【[毫毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo_y.md#毫毛鱼)】`ho2 mo2 y2` <sup>[如东]</sup> 鲱科动物斑鰶。体长约16厘米。  
 1. 【[毫䋟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qi.md#毫䋟)】`ho2 qi6` <sup>[如皋]</sup> ① 秤纽。 ② 昆虫的触角。  
