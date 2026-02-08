@@ -993,9 +993,9 @@
 1. 【[□塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan.md#□塘)】`ven tan2` <sup>[如东]</sup> 水面上出现的一种漩涡，波纹向四面扩散：这条鱼不小，泛起这吖大的～。  
 1. 【[温柔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_reu.md#温柔)】`ven1 reu2` <sup>[如东]</sup> 脾气柔和。  
 1. 【[温顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_shuen.md#温顺)】`ven1 shuen6` <sup>[如东]</sup> 脾气好，懂道理：她是一个～的女伢儿。  
-1. 【[温汤热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_rih.md#温汤热)】`ven1 tan rih8` <sup>[兴化]</sup> 温度适中，不冷不热：这杯茶～，正合口。  
+1. 【[温汤□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_ih.md#温汤□)】`ven1 tan ih8` <sup>[兴化]</sup> 温度适中，不冷不热：这杯茶～，正合口。  
 1. 【[温汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_shuei.md#温汤水)】`ven1 tan shuei3` <sup>[兴化]</sup> 即“温暾水”，不冷不热的水。  
-1. 【[温汤热<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_rih_r.md#温汤热<sub>儿</sub>)】`ven1 tan1 rih8 r` <sup>[泰州]</sup> 汤汁、水的温度不凉不热，适宜饮用或洗澡：趁这一刻儿盆里的水～，你俫抓紧时间同宝宝洗澡。  
+1. 【[温汤□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_ih_r.md#温汤□<sub>儿</sub>)】`ven1 tan1 ih8 r` <sup>[泰州]</sup> 汤汁、水的温度不凉不热，适宜饮用或洗澡：趁这一刻儿盆里的水～，你俫抓紧时间同宝宝洗澡。  
 1. 【[温汤水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tan_shuei.md#温汤水)】`ven1 tan1 shuei3` <sup>[如东]</sup> 不冷不热的水。  
 1. 【[温暾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_ten_r.md#温暾<sub>儿</sub>)】`ven1 ten1 r` <sup>[如皋]</sup> 微热：～水。  
 1. 【[瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#瘟)】`ven1` <small>/uən1/<sup>兴化</sup>, /ʋəŋ1/<sup>如皋</sup></small> ① 副词，表脏、臭的程度深<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：～脏的、～臭的、～屎烂脏的、～屎烂臭的。<sup>\[如皋\]</sup>｜～臭。<sup>\[兴化\]</sup> ② 修饰动词时，与“狠狠地”相似<sup>\[兴化\]</sup>：一顿～骂<sup>\[兴化\]</sup>｜一泡～𪨊。<sup>\[兴化\]</sup> ③ 加在名词前，表示程度深<sup>\[兴化\]</sup>：“你这倒运鬼放着这样大财不发，还在这里受～罪。”（《儒林外史》十三）<sup>\[兴化\]</sup>  

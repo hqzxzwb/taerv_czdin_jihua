@@ -834,6 +834,7 @@
 1. 【[闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men.md#闷)】`men1` <small>/mən1/<sup>兴化</sup></small> ① 隐匿：他上次的风流事捱科长～掉啊。｜单位撤并的时候，小金库的钱捱头头跟会计～下去啊。<sup>\[兴化\]</sup> ② 纤维制品因受潮或放置时间长而变脆：这框麻绳～掉啊。<sup>\[兴化\]</sup> ③ 沉默不语<sup>\[泰州\]</sup>：他个人在旁边～起头来吃酒。<sup>\[泰州\]</sup> ④ 待在家中不与外界接触<sup>\[泰州\]</sup>：退啊休，他就一直～在家里写书。<sup>\[泰州\]</sup> ⑤ 在密闭狭小空间，因空气流通不畅而引起的感觉<sup>\[泰州\]</sup>：上浴室洗澡，～的时间不能太长。<sup>\[泰州\]</sup> ⑥ 自己的想法或知道的情况藏在心中，不告诉他人<sup>\[泰州\]</sup>：有话老是～吖心里对身体不好。<sup>\[泰州\]</sup> ⑦ 暗中侵吞他人财物<sup>\[泰州\]</sup>：人家让他带的香烟捱他～掉一条。<sup>\[泰州\]</sup>  
 1. 【[闷鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_pieh_zz.md#闷鼻子)】`men1 pieh8 zz` <sup>[泰州]</sup> 比喻收到斥责或者羞辱而又不便发作：他在领导那块吃咖个～，心里着实不泻意。  
 1. 【[闷骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_so.md#闷骚)】`men1 so1` <sup>[泰州]</sup> 将性的欲望深藏在心里而不显露。  
+1. 【[闷汤□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_ih.md#闷汤□)】`men1 tan1 ih8` <small>/məŋ1 tʰɑŋ1 iʔ8/<sup>泰兴</sup></small> 微热不烫（另见ven1 tan1 ih8）<sup>\[泰兴\]</sup>  
 1. 【[闷头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu.md#闷头)】`men1 teu2` <sup>[如东]</sup> 低头。  
 1. 【[明朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_do.md#明朝)】`men2 do` <sup>[泰州]</sup> 明天。  
 1. 【[明朝会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_do_huei.md#明朝会)】`men2 do huei6` <sup>[如皋]</sup> 再见、明天见。  
@@ -911,7 +912,7 @@
 1. 【[门生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门生)】`men2 shen1` <sup>[泰兴]</sup> 学生，或称学生的学生。  
 1. 【[门神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门神)】`men2 shen2` <sup>[如东]</sup> 守门之神。左为神荼，右为郁垒，后世改为秦叔宝和尉迟恭。  
 1. 【[门闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shuaen.md#门闩)】`men2 shuaen1` <sup>[如东]</sup> 条形的木板或铁棍，关门后插在门伏手中，可以把门关死。  
-1. 【[门堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan.md#门堂)】`men2 tan2` <small>/mən2 tʰaŋ2/<sup>兴化</sup>, /məŋ2 tʰã2/<sup>如皋</sup></small> ① 宅、院门的过道房：大～、二～。<sup>\[如皋\]</sup> ② 旧称妓院。<sup>\[兴化\]</sup>  
+1. 【[门堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan.md#门堂)】`men2 tan2` <small>/mən2 tʰaŋ2/<sup>兴化</sup>, /məŋ2 tʰã2/<sup>如皋</sup></small> ① 宅、院门的过道房<sup>\[如皋\]</sup>：大～、二～。<sup>\[如皋\]</sup> ② 旧称妓院。<sup>\[兴化\]</sup>  
 1. 【[门荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan.md#门荡)】`men2 tan6` <sup>[如东]</sup> 大门通道。  
 1. 【[门荡使用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_shr_ion.md#门荡使用)】`men2 tan6 shr3 ion6` <sup>[如东]</sup> 用于亲戚朋友的开支：现在的～不小。  
 1. 【[门荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_zz.md#门荡子)】`men2 tan6 zz` <sup>[如东]</sup> 安装大门的位置，包括高与宽。  
@@ -970,8 +971,7 @@
 1. 【[闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shuei.md#闷水)】`men6 shuei3` <sup>[兴化]</sup> 暗中侵占公共的或他人的利益：这批药品的回扣捱院长走啊～。  
 1. 【[闷骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_so.md#闷骚)】`men6 so1` <sup>[东台]</sup> （贬）表面不动声色，内心情欲旺盛。  
 1. 【[闷台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tae.md#闷台)】`men6 tae2` <sup>[兴化]</sup> ① 俗指戏曲中在幕后演唱的部分：唱～。 ② （喻）有话当面不说，而在背后发话。  
-1. 【[闷汤因<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_ien_r.md#闷汤因<sub>儿</sub>)】`men6 tan1 ien1 r` <sup>[泰县]</sup> 不冷不热。  
-1. 【[闷汤烟<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_in_r.md#闷汤烟<sub>儿</sub>)】`men6 tan1 in1 r` <sup>[东台]</sup> ［同音］本指稍微有点热气。喻指热情不高劲头不足。  
+1. 【[闷汤□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_in_r.md#闷汤□<sub>儿</sub>)】`men6 tan1 in1 r` <small>/məŋ1 tʰɑŋ1 iɪ̃1 ɚ/<sup>泰县</sup></small> 微热，不冷不热<sup>\[泰县\]</sup>\[东台：喻指热情不高劲头不足\]  
 1. 【[闷头壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_hv.md#闷头壶)】`men6 teu2 hv2` <sup>[泰县]</sup> 不善于言谈的人。  
 1. 【[闷头虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_hv.md#闷头虎)】`men6 teu2 hv3` <sup>[兴化]</sup> 沉默寡言的人：吴三像个～，坐啊房门口半天不则声。  
 1. 【[闷头闷脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_men_no.md#闷头闷脑)】`men6 teu2 men6 no3` <sup>[兴化]</sup> 形容人反应迟钝，不声不响：他成天～的，不晓得想甚的心思。  
