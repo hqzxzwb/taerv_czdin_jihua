@@ -1192,13 +1192,11 @@
 1. 【[临死骚三脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_sz_so_saen.md#临死骚三脚)】`lien2 sz3 so1 saen1 jiah7` <sup>[东台]</sup> 就是垂死挣扎，死不悔改。  
 1. 【[临帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tih.md#临帖)】`lien2 tih7` <sup>[东台]</sup> 模仿字帖练习写字。  
 1. 【[伶牙俐齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_nga_li_chr.md#伶牙俐齿)】`lien2 nga2 li6 chr3` <sup>[如东]</sup> ① 形容口齿伶俐：这个姑娘～的，真聪明。 ② 形容说话尖刻。  
-1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7, lien2 tah7` ［凌凙］冰凌，屋檐下的冰柱。  
-1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7` <sup>[如东]</sup> 冬天，屋檐或其他物体上由滴水结成的冰锥。也称冰挂。  
-1. 【[凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#凌𪞝)】`lien2 dah7` <small>/liŋ2 tɑʔ7/<sup>泰兴</sup></small> 冰梭，冰锥。<sup>\[泰兴\]</sup>  
+1. 【[冷𪞝/凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_dah.md#冷𪞝/凌𪞝)】`lien2 dah7` <small>/liŋ2 tɑʔ7/<sup>泰兴</sup></small> 冷天滴水形成的冰梭，冰锥。常见于屋檐下。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
+1. 【[冷𪞝/凌𪞝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#冷𪞝/凌𪞝)】`lien2 tah` <small>/liɪ̃2 tʰaʔ/<sup>兴化</sup>, /liəŋ2 tʰaʔ/<sup>如皋</sup></small> ① 冰锥儿。多见于雪后晴的檐下。长胡子上也偶见。<sup>\[如皋\]</sup> ② 冰锥<sup>\[兴化\]</sup>：而今天气变暖，屋檐口好多年没得～咖。<sup>\[兴化\]</sup>  
 1. 【[凌环](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_kuaen.md#凌环)】`lien2 kuaen3` <sup>[如皋]</sup> 地名通名。雪岸乡有冒家～。  
 1. 【[凌肉碎剐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_suei_gua.md#凌肉碎剐)】`lien2 roh8 suei5 gua3` <small>/liŋ2 ɻɔʔ8 suəɪ5 kuɑ3/<sup>泰兴</sup></small> 骂人语。谓遭受极刑。<sup>\[泰兴\]</sup>  
 1. 【[凌辱罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_cuei.md#凌辱罪)】`lien2 roh8 cuei6` <sup>[兴化]</sup> 在精神上、肉体上长时间受折磨：细伢儿遇到狠心的晚娘，～难受㖸！｜我要是被他抓过去……先把～把我受够了，然后才能让我死。（《火烧赤壁》九）  
-1. 【[凌凙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_tah.md#凌凙)】`lien2 tah` <small>/liɪ̃2 tʰaʔ/<sup>兴化</sup>, /liəŋ2 tʰaʔ/<sup>如皋</sup></small> ① 冰锥儿。多见于雪后晴的檐下。长胡子上也偶见。<sup>\[如皋\]</sup> ② 冰锥<sup>\[兴化\]</sup>：而今天气变暖，屋檐口好多年没得～咖。<sup>\[兴化\]</sup>  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2, lien1` 提  
 1. 【[拎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#拎)】`lien2` <small>/liɪ̃2/<sup>兴化</sup>, /liŋ2/<sup>泰兴</sup></small> ① 提。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～篮子。<sup>\[如东\]</sup>｜～水、～篮子。<sup>\[兴化\]</sup> ② （借）概括<sup>\[兴化\]</sup>：把问题～起来谈。<sup>\[兴化\]</sup>  
 1. 【[拎包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_bo.md#拎包)】`lien2 bo1` <small>/liɪ̃2 pɔ1/<sup>兴化</sup>, /liŋ2 pɔ1/<sup>泰兴</sup></small> 手提包<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：老周从～里拿出介绍信。<sup>\[兴化\]</sup>  
