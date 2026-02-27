@@ -490,7 +490,7 @@
 1. 【[箇朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do.md#箇朝)】`geh7 do` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[箇朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_do_zz.md#箇朝子)】`geh7 do zz` <sup>[如皋]</sup> 见“这朝”。  
 1. 【[箇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_gu.md#箇个)】`geh7 gu9` <small>/kəʔ7 kɤɯ1/<sup>泰兴</sup></small> 这个<sup>\[泰兴\]</sup>  
-1. 【[箇许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_hae.md#箇许)】`geh7 hae` ① 这里 ② 这个地方。<sup>\[如东\]</sup>：把东西放吖～。<sup>\[如东\]</sup>  
+1. 【[箇许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_hae.md#箇许)】`geh7 hae` <small>/kəʔ7 xɛ/<sup>兴化</sup>, /kəʔ7 xɛ/<sup>如皋</sup>, /kəʔ7 kʰɛ1/<sup>泰兴</sup>, /kəʔ7 xe/<sup>泰县</sup></small> 这里<sup>\[泰兴\]</sup>：把杲子放吖～。  
 1. 【[箇一刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_ieh_keh.md#箇一刻)】`geh7 ieh7 keh` 现在  
 1. 【[箇境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jien.md#箇境)】`geh7 jien` 这边，这面，这里  
 1. 【[箇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_keh_r.md#箇刻<sub>儿</sub>)】`geh7 keh9 r` 现在  

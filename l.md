@@ -93,7 +93,7 @@
 1. 【[哪个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu.md#哪个)】`la3 gu5` <small>/la3 ko5/<sup>兴化</sup>, /la3 kʊ5/<sup>如皋</sup>, /lɑ3 kɤɯ/<sup>泰兴</sup>, /na3 ko/<sup>泰县</sup></small> 哪一个；谁<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>：你说的是～？<sup>\[如东\]</sup>｜这是～说的？<sup>\[兴化\]</sup>｜到啊庄上，认不得～？<sup>\[兴化\]</sup>｜他是～？<sup>\[泰县\]</sup>  
 1. 【[哪个晓得啋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gu_xio_deh.md#哪个晓得啋)】`la3 gu5 xio3 deh7 cae` <sup>[如皋]</sup> 叹息语，哪个知道会这样呢：他才在这许好好儿的，家去就死啊，～！  
 1. 【[哪下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ha.md#哪下)】`la3 ha5` <sup>[兴化]</sup> 疑问，相当于哪儿、哪里：这位先生是～的？他上～去啊？  
-1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae` <small>/na3 xe/<sup>泰县</sup></small> ① 什么地方，哪里。<sup>\[如东\]</sup> ② 哪里。<sup>\[如东\]</sup>：～有水？<sup>\[如东\]</sup> ③ 哪里、哪儿。也叫“哪块”。口语懒音la3 ae。<sup>\[东台\]</sup> ④ 哪里<sup>\[泰县\]</sup>：泰州在～？<sup>\[泰县\]</sup>  
+1. 【[哪许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae.md#哪许)】`la3 hae` <small>/lɑ3 xɛ/<sup>泰兴</sup>, /na3 xe/<sup>泰县</sup></small> 什么地方，哪里，哪儿<sup>\[如东\]</sup><sup>\[如东\]</sup><sup>\[泰县\]</sup>\[东台：也叫“哪块”。口语懒音la3 ae。\]\[泰兴：又音la3 hae3，la3 kae\]：～有水？<sup>\[如东\]</sup>｜泰州在～？<sup>\[泰县\]</sup>  
 1. 【[哪许沉船哪许捞锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_chen_chun.md#哪许沉船哪许捞锅腔)】`la3 hae chen2 chun2 la3 hae lo2 gu1 qian1` <sup>[东台]</sup> 哪里跌倒或者受损就在哪里补救。  
 1. 【[哪许点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_din_r.md#哪许点<sub>儿</sub>)】`la3 hae din3 r` <sup>[如皋]</sup> 哪里。  
 1. 【[哪许说哪许了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_hae_shuh_la.md#哪许说哪许了)】`la3 hae shuh7 la3 hae lio3` <sup>[兴化]</sup> 要求对谈话内容不外传，也不必深究：这件事我俫两个人晓得就好啊，～。  
@@ -114,7 +114,7 @@
 1. 【[哪境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_jien.md#哪境)】`la3 jien` 哪边  
 1. 【[哪刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_keh_r.md#哪刻<sub>儿</sub>)】`la3 keh9 r` <small>/la3 kʰə˞9/<sup>如皋</sup></small> ① 什么时候。<sup>\[如皋\]</sup> ② 什么时候。<sup>\[如东\]</sup>：我俫～动身？<sup>\[如东\]</sup>  
 1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae` <sup>[泰县]</sup> ① 哪里。 ② 不是：我～上他家去。  
-1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae5` <small>/la3 kʰuɛ5/<sup>兴化</sup>, /lɑ3 kʰuɛ5/<sup>泰兴</sup></small> 什么地方，哪里。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：你家住啊～？<sup>\[兴化\]</sup>  
+1. 【[哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae.md#哪块)】`la3 kuae5` <small>/la3 kʰuɛ5/<sup>兴化</sup></small> 什么地方，哪里。<sup>\[如东\]</sup><sup>\[兴化\]</sup>：你家住啊～？<sup>\[兴化\]</sup>  
 1. 【[哪块料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_kuae_lio.md#哪块料)】`la3 kuae5 lio6` <sup>[如东]</sup> 什么东西：不是～。  
 1. 【[哪麻亮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma_lian_r.md#哪麻亮<sub>儿</sub>)】`la3 ma2 lian6 r` <sup>[兴化]</sup> （南乡语）哪儿：你住啊～？  
 1. 【[哪码](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ma.md#哪码)】`la3 ma3` <sup>[泰县]</sup> 哪里：这事～通～。  
@@ -2331,7 +2331,7 @@
 1. 【[那](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#那)】`lu5` 远指代词  
 1. 【[那个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_gu.md#那个)】`lu5 gu` <sup>[东台]</sup> 某件事或某种态度的代词：～事要注意｜你这个人太～（太不像话），别怪我～（不客气）。  
 1. 【[那个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_gu.md#那个)】`lu5 gu5` <sup>[如东]</sup> 那个。  
-1. 【[那许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hae.md#那许)】`lu5 hae` <small>/lʊ5 xɛ/<sup>如皋</sup></small> ① 那里。<sup>\[如东\]</sup>：不要在～种花生。<sup>\[如东\]</sup> ② 那儿，那里。<sup>\[如皋\]</sup> ③ 那里。<sup>\[如皋\]</sup> ④ 那里。<sup>\[如东\]</sup>  
+1. 【[那许](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hae.md#那许)】`lu5 hae` <small>/lʊ5 xɛ/<sup>如皋</sup>, /lɤɯ1 kʰɛ/<sup>泰兴</sup></small> 那儿，那里。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：不要在～种花生。<sup>\[如东\]</sup>  
 1. 【[那许点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_hae_din_r.md#那许点<sub>儿</sub>)】`lu5 hae din3 r` <small>/lʊ5 xɛ ti˞3/<sup>如皋</sup></small> ① 在那儿、在那里。<sup>\[如皋\]</sup> ② 那里。<sup>\[如皋\]</sup>  
 1. 【[那回子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_huei_zz.md#那回子)】`lu5 huei2 zz` <sup>[如皋]</sup> 那一回，那一次。  
 1. 【[那样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_ian.md#那样)】`lu5 ian6` <sup>[如东]</sup> 那个样子。  
