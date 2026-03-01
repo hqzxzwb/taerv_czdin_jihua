@@ -1,5 +1,6 @@
 # 转场
-zhun3 chan3
+zhun3 chan2
+tz,xh:zhun3 chan3
 + 暂停争执，使气氛缓和
   * 兴化方言词典
   - 你不要硬顶，转个场再说。
