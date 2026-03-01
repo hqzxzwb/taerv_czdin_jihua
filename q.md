@@ -192,7 +192,6 @@
 1. 【[气得只喖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_deh_zheh_kv.md#气得只喖)】`qi5 deh7 zheh7 kv2` <sup>[如皋]</sup> 很生气。生气到极点。  
 1. 【[气灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_den.md#气灯)】`qi5 den1` <sup>[如东]</sup> 一种灯。把煤油装在一只密封的容器里，通过加气压，使喷头喷出来的煤油雾化，洒在纱罩上，燃烧发光。  
 1. 【[气福倓寿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_foh_taen_sheu.md#气福倓寿的)】`qi5 foh7 taen2 sheu6 dii` <sup>[如皋]</sup> 体态丰满，满面红光、有福长寿的样子。  
-1. 【[气锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_shuei.md#气锅水)】`qi5 gun shuei3` <sup>[泰州]</sup> 蒸汽锅中的蒸气形成的水，引申泛指热气冷却之后凝结成的水。  
 1. 【[气管<sub>儿</sub>炎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_r_in.md#气管<sub>儿</sub>炎)】`qi5 gun3 r in2` <sup>[如东]</sup> ① 支气管发炎。 ② 比喻妻子管束严厉，害怕妻子。  
 1. 【[气咕唠叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do.md#气咕唠叨)】`qi5 gv lo2 do1` <small>/t͡ɕʰi5 ku lɔ2 tɔ1/<sup>兴化</sup>, /t͡ɕʰʝ5 ku lɔ2 tɔ1/<sup>泰兴</sup></small> ① 由于生气而呼吸急促，口中不停念叨的样子<sup>\[兴化\]</sup>：不晓得为甚的事，他一早起就～的。<sup>\[兴化\]</sup> ② 由于生气而喋喋不休。<sup>\[泰兴\]</sup>：一天到夜～的让人嫌烦。<sup>\[泰兴\]</sup>  
 1. 【[气咕唠叨的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gv_lo_do.md#气咕唠叨的)】`qi5 gv lo2 do1 dii` <sup>[如皋]</sup> 很生气的样子。  
@@ -251,6 +250,7 @@
 1. 【[汽车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cha.md#汽车)】`qi5 cha1` <sup>[如东]</sup> 以内燃机为动力的车辆，通常有四只或四只以上轮子。运载人或物。  
 1. 【[汽车路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_cha_lv.md#汽车路)】`qi5 cha1 lv6` <sup>[如皋]</sup> 马路、公路。  
 1. 【[汽锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_shuei.md#汽锅水)】`qi5 gu1 shuei3` <sup>[如东]</sup> 由水蒸汽凝结成的水珠。  
+1. 【[汽□水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_shuei.md#汽□水)】`qi5 gun shuei3` <small>/t͡ɕʰʝ5 kʊ̃ suəɪ3/<sup>泰兴</sup></small> 冷凝水，常见于冬日窗户内侧、浴室墙壁等处<sup>\[泰兴\]</sup>\[东台：也叫汽炣水。热的水蒸气遇到冷的物品，在其表面凝结而成的水。\]\[泰州：蒸汽锅中的蒸气形成的水，引申泛指热气冷却之后凝结成的水。\]  
 1. 【[汽𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#汽𠖫)】`qi5 gun3` <sup>[如皋]</sup> 蒸笼下方的集汽板，方形，中有洞，置锅上，下垫笼圈。  
 1. 【[汽吙水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_shuei.md#汽吙水)】`qi5 hu shuei3` <small>/t͡ɕʰʝ5 xʊ suei3/<sup>如皋</sup></small> ① 水汽凝在盖子、玻璃等上面形成的水珠。<sup>\[如皋\]</sup> ② 同“汽涴水”<sup>\[东台\]</sup>  
 1. 【[汽吙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hu_teu.md#汽吙头)】`qi5 hu teu2` <sup>[如皋]</sup> 头部易出汗，冒热气。  
@@ -258,7 +258,6 @@
 1. 【[汽汗水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_hun_shuei.md#汽汗水)】`qi5 hun6 shuei3` <sup>[兴化]</sup> 水蒸汽凝成的水滴：（他）把脸靠在笼上熏，熏得满脸的～……（《皮五辣子》四）。  
 1. 【[汽油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu.md#汽油)】`qi5 ieu2` <sup>[如东]</sup> 碳氢化合物的混合液体，是分馏石油时，沸点范围大约在40°-200°之间所取得的馏分，易挥发燃点很低供做内燃机燃料、溶剂等。  
 1. 【[汽油灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ieu_den.md#汽油灯)】`qi5 ieu2 den1` <small>/t͡ɕʰi5 iɤ2 tən1/<sup>兴化</sup>, /t͡ɕʰʝ5 yʊ2 təŋ1/<sup>如皋</sup>, /t͡ɕʰʝ5 iɤɯ2 təŋ1/<sup>泰兴</sup></small> ① 通过装置将煤油汽化喷燃的灯，亮度极高，旧时广场、戏园多采用。<sup>\[如皋\]</sup> ② 汽灯，白热照明灯具的一种。也作“气油灯”。<sup>\[兴化\]</sup> ③ 昔时以汽油、煤油燃料的灯，光亮耀眼。<sup>\[泰兴\]</sup>  
-1. 【[汽涴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_un_shuei.md#汽涴水)】`qi5 un shuei3` <sup>[东台]</sup> 也叫汽炣水。热的水蒸气遇到冷的物品，在其表面凝结而成的水。  
 1. 【[砌造](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_co.md#砌造)】`qi5 co6` <sup>[如东]</sup> 盖房子：下半年～。  
 1. 【[剂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#剂子)】`qi6 zz` <sup>[兴化]</sup> （喻）出手：他就是这吖大的～，大发不起来。  
 1. 【[妓院](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_iun.md#妓院)】`qi6 iun6` <sup>[如东]</sup> 妓女卖淫的住所。  
@@ -438,7 +437,7 @@
 1. 【[腔口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_keu.md#腔口)】`qian1 keu3` <sup>[兴化]</sup> 说话时的神情、语调：他这种高高在上的～真叫人受不了。｜“……若说起俗来……却又不敢想他那像貌、～。”（《岐路灯》九）  
 1. 【[𪉨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#𪉨)】`qian1` <sup>[泰州]</sup> 一种烹调方法，凉拌虾蟹等：～几个萝卜把他俫喝酒｜把虾ㄦ拿酒～啊子。  
 1. 【[㩖帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ban.md#㩖帮)】`qian2 ban` 帮助他人做某事<sup>\[泰州\]</sup>：你在家里没得事，～她洗个碗也是好的。<sup>\[泰州\]</sup>  
-1. 【[㩖忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_man.md#㩖忙)】`qian2 man` ① （和㩖帮疑为同一个词）<sup>\[泰州\]</sup> ② 支持、帮助他人做事<sup>\[泰州\]</sup>：你俫去～他把家里打扫啊子。<sup>\[泰州\]</sup>｜今朝中上的饭不是李奶奶过来～吖弄，根本就来不及。<sup>\[泰州\]</sup>  
+1. 【[㩖忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_man.md#㩖忙)】`qian2 man` <small>/t͡ɕʰiaŋ2 maŋ/<sup>兴化</sup></small> ① （另见“㩖帮”） ② 支持、帮助他人做事<sup>\[泰州\]</sup>：你俫去～他把家里打扫啊子。<sup>\[泰州\]</sup>｜今朝中上的饭不是李奶奶过来～吖弄，根本就来不及。<sup>\[泰州\]</sup> ③ 帮忙\[兴化：也说“强门”。\]：我～你弄饭。<sup>\[兴化\]</sup>｜～你家栽秧。<sup>\[兴化\]</sup>  
 1. 【[墙巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ba_zz.md#墙巴子)】`qian2 ba1 zz` <sup>[如皋]</sup> 加固墙体用的铁巴子。旧式庙宇、殿堂的山墙上常见。  
 1. 【[墙板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_baen.md#墙板)】`qian2 baen3` <sup>[如东]</sup> 房间两边的板。棺材两边的板。  
 1. 【[墙塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bon_r.md#墙塴<sub>儿</sub>)】`qian2 bon5 r` <sup>[如皋]</sup> 墙角内、夹墙间。两墙相夹的暗处。  
@@ -458,7 +457,6 @@
 1. 【[强不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_beh_ta_xia.md#强不他下)】`qian2 beh ta1 xia6` <sup>[如皋]</sup> 不能以理由、气势战胜、镇慑住他：这个伢儿太邪，我～。  
 1. 【[强饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_faen.md#强饭)】`qian2 faen6` <sup>[东台]</sup> 水分少，很干的饭。  
 1. 【[强告化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_go_hua.md#强告化)】`qian2 go5 hua5` <sup>[兴化]</sup> 强要别人钱财的乞丐。  
-1. 【[强忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_man.md#强忙)】`qian2 man` <sup>[兴化]</sup> 帮忙：我～你弄饭。｜～你家栽秧。也说“强门”。  
 1. 【[强门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_men.md#强门)】`qian2 men` <sup>[兴化]</sup> 帮忙。见“强忙”。  
 1. 【[强扭的瓜不甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nieu_dii_gua.md#强扭的瓜不甜)】`qian2 nieu3 dii gua1 beh7 tin2` <sup>[东台]</sup> 强行撮合双方关系都不会有好的结果。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#强如)】`qian2 rv` <small>/t͡ɕʰiaŋ2 lu/<sup>兴化</sup></small> ① 当做<sup>\[兴化\]</sup>：你做你的，我～不曾看见。<sup>\[兴化\]</sup> ② 胜于<sup>\[兴化\]</sup>：“……再者，家里也无什么事，你到长辛店当铺内管点事，～闲着。”（《施公案》一四七）也作“强于”。<sup>\[兴化\]</sup>｜谚曰：淡笑强于哭。<sup>\[兴化\]</sup> ③ 当作，视作<sup>\[泰州\]</sup>：你无论如何都要帮他这个忙，就～帮我的忙。<sup>\[泰州\]</sup>｜你就不要再提这种不讲理的新妇唻，我就～没得这个新妇的。<sup>\[泰州\]</sup>  
@@ -1771,6 +1769,7 @@
 1. 【[圈浪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan_r.md#圈浪<sub>儿</sub>)】`qiun1 lan r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈零)】`qiun1 lien2` <sup>[如东]</sup> 来回一趟，称为一个圈零：我跑啊几个～。  
 1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> 来回：跑～、转～、一个～。  
+1. 【[圈盘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_tuei.md#圈盘腿)】`qiun1 pun tuei3` <small>/t͡ɕʰyʊ̃1 pʰʊ̃ tʰəɪ3/<sup>泰兴</sup></small> 罗圈腿。<sup>\[泰兴\]</sup>  
 1. 【[圈盘腿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_ty_r.md#圈盘腿<sub>儿</sub>)】`qiun1 pun ty3 r` <sup>[如皋]</sup> “o”型腿。幼年缺鈣造成的畸型腿。  
 1. 【[圈圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_qiun_r.md#圈圈<sub>儿</sub>)】`qiun1 qiun1 r` <sup>[如东]</sup> ① 在一个地方旋转：打～ ② 一种圆形的箍：推～。  
 1. 【[圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_r.md#圈<sub>儿</sub>)】`qiun1 r` <small>/t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 耳环及其他环状物。<sup>\[如皋\]</sup> ② 太阳月亮周围的光圈<sup>\[泰州\]</sup>：亮月子边上有个～。<sup>\[泰州\]</sup>  
@@ -1787,7 +1786,6 @@
 1. 【[全家福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jia_foh.md#全家福)】`qiun2 jia1 foh7` <sup>[东台]</sup> ① 地方名菜。鸡汤清炖鱼肚、玉兰片，内有鱼圆、肉圆、虾圆，如加海参，则为“戴帽子～”。 ② 全家合影。  
 1. 【[全扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pa.md#全扒)】`qiun2 pa2` <small>/t͡ɕʰyʊ̃2 pʰa2/<sup>如皋</sup></small> ① 见“肚全”。<sup>\[如皋\]</sup> ② 猪内脏心肺肝肾胃大肠一副。<sup>\[如皋\]</sup> ③ 猪的一副内脏，包括心、肺、肝、肾、胃、肠。<sup>\[如东\]</sup>  
 1. 【[全手全脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_sheu_qiun_jiah.md#全手全脚)】`qiun2 sheu3 qiun2 jiah7` <sup>[如皋]</sup> 肢体健全。  
-1. 【[圈盘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pun_tuei.md#圈盘腿)】`qiun2 pun tuei3` <small>/t͡ɕʰyʊ̃2 pʰʊ̃ tʰəɪ3/<sup>泰兴</sup></small> 罗圈腿。<sup>\[泰兴\]</sup>  
 1. 【[拳不离手，曲不离口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_beh_li_sheu.md#拳不离手，曲不离口)】`qiun2 beh7 li2 sheu3 qioh7 beh7 li2 keu3` <sup>[如皋]</sup> 凡事经常演用，不会疏失。  
 1. 【[拳打脚踢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_da_jiah_tieh.md#拳打脚踢)】`qiun2 da3 jiah7 tieh7` <sup>[东台]</sup> 形容痛打，手脚并用的样子。  
 1. 【[拳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_teu.md#拳头)】`qiun2 teu` <small>/t͡ɕʰyũ2 tʰɤ/<sup>兴化</sup>, /t͡ɕʰyʊ̃2 tʰei/<sup>如皋</sup></small> ① 门窗上装小铁环处的凸起。<sup>\[如皋\]</sup> ② 固定在门窗上与转搭相配套的小铁环。<sup>\[兴化\]</sup>  

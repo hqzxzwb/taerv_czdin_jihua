@@ -1130,7 +1130,7 @@
 1. 【[韭菜炖蛋——算葱（充）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_den_taen.md#韭菜炖蛋——算葱（充）)】`jieu3 cae5 den5 taen6 sun5 con1 （chon1）` <sup>[东台]</sup>   
 1. 【[韭菜黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_cae_huan.md#韭菜黄)】`jieu3 cae5 huan2` <sup>[兴化]</sup> 冬季在室内培育的韭菜，浅黄黄色，味淡而鲜。也作“韭黄”。  
 1. 【[韭黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_huan.md#韭黄)】`jieu3 huan2` <small>/t͡ɕiɤɯ3 xuɑŋ2/<sup>泰兴</sup></small> ① 冬天在温室内培育出的韭菜嫩苗，颜色浅黄。<sup>\[泰州\]</sup> ② 冬季培育的韭菜，颜色浅黄，嫩而味美。<sup>\[泰兴\]</sup>  
-1. 【[□鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_y.md#□鱼)】`jieu5 y2` <sup>[泰县]</sup> 鲫鱼。  
+1. 【[□鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_y.md#□鱼)】`jieu5 y2` <small>/t͡ɕiɤɯ5 ɻy2/<sup>泰县</sup></small> 鲫鱼。<sup>\[泰县\]</sup>\[泰州：淡水鱼，本地主要河鲜，体侧扁而中部稍高，头尖而尾部窄，背面青褐色，腹面银灰色。\]  
 1. 【[㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#㾭)】`jieu5` <small>/t͡ɕiɤ5/<sup>兴化</sup>, /t͡ɕyʊ5/<sup>如皋</sup>, /t͡ɕiɤɯ5/<sup>泰县</sup></small> ① 收缩<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：蚂蜞爬起来一伸一～的。<sup>\[如皋\]</sup>｜脸上的皮都～起来啊。<sup>\[泰县\]</sup> ② 缩<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：衣服～得一塌糊涂。<sup>\[东台\]</sup>｜离化工厂老远，他的鼻子就～起来啊。那个气味真的呛人！<sup>\[东台\]</sup>｜化纤的东西，热水一烫就～起来啊。<sup>\[兴化\]</sup>｜他刚才说得好好的，这刻儿话又～掉啊。<sup>\[泰县\]</sup> ③ 中途退却<sup>\[东台\]</sup>：大家说咖好啊的事，不能随意往后～。<sup>\[东台\]</sup> ④ 卷曲<sup>\[兴化\]</sup>：冻吖～起来<sup>\[兴化\]</sup> ⑤ 腿部痉挛弯曲无法伸直<sup>\[泰州\]</sup>：～筋<sup>\[泰州\]</sup>｜水太烫吖唻，你把腿子～起来。<sup>\[泰州\]</sup> ⑥ 收缩，缩短<sup>\[泰州\]</sup>：真丝衣裳不能用开水烫，一烫就～得不像样子唻。<sup>\[泰州\]</sup>｜这两天他老是～啊一副脸。<sup>\[泰州\]</sup> ⑦ 往后退，往回收<sup>\[泰州\]</sup>：刚刚还答应请客的，现在有～起来啊唻。<sup>\[泰州\]</sup>｜不要望他嘴上凶，真动到手他就望后～唻。<sup>\[泰州\]</sup>  
 1. 【[㾭啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_a_ga_lii.md#㾭啊家里)】`jieu5 a ga1 lii` <sup>[如东]</sup> 躲在家里不出来。  
 1. 【[㾭巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_ba_ba.md#㾭巴巴)】`jieu5 ba1 ba1` <small>/t͡ɕiɤɯ5 pɑ1 pɑ1/<sup>泰兴</sup></small> 皱纹多，不光滑平整。<sup>\[泰兴\]</sup>  
@@ -1158,7 +1158,6 @@
 1. 【[救性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_xien.md#救性)】`jieu5 xien` <sup>[兴化]</sup> ① 危重病人尚可救治：“谢天地！恁的时还有～！”（《水浒传》五四）。 ② （借）染有恶习的人尚可教育挽救：他有～没～，就看他自己哿有决心！  
 1. 【[救性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_xien.md#救性)】`jieu5 xien5` <sup>[如皋]</sup> 挽救的可能性：病太重吖，没～吖。  
 1. 【[疚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#疚)】`jieu5` <sup>[东台]</sup> 由于自己的过失而产生不安或惭愧的心情：内～｜负～。  
-1. 【[鲫鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_y.md#鲫鱼)】`jieu5 y2` <sup>[泰州]</sup> 淡水鱼，本地主要河鲜，体侧扁而中部稍高，头尖而尾部窄，背面青褐色，腹面银灰色。  
 1. 【[劫财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_cae_shen.md#劫财神)】`jih7 cae2 shen2` <sup>[泰县]</sup> 土匪把富人劫走。  
 1. 【[劫难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_naen.md#劫难)】`jih7 naen6` <sup>[东台]</sup> 指宿世恶业所带来的灾难。后泛指灾难。  
 1. 【[劫抢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_qian.md#劫抢)】`jih7 qian3` <sup>[兴化]</sup> “抢劫”的逆序词：歹徒拦路～。  
