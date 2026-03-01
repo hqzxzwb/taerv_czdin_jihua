@@ -2462,6 +2462,7 @@
 1. 【[水大椒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_da_jio.md#水大椒)】`shuei3 da6 jio1` <sup>[泰州]</sup> 磨成稀糊状的辣椒，含水较多。  
 1. 【[水凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_den.md#水凳)】`shuei3 den5` <small>/suəɪ3 təŋ5/<sup>泰兴</sup>, /ɕyəɪ3 təŋ5/<sup>泰县</sup></small> ① 用于下河淘米洗菜的水边小木凳，通常一头伸在水中。<sup>\[东台\]</sup> ② 河边淘米洗菜用的凳子。<sup>\[泰县\]</sup> ③ 泰州城特有的安在河边深水中的长木凳，凳面长约为普通大凳的2倍至2.5倍，宽约为普通大凳的1倍至2倍，凳的一端两根约两米长的凳腿扎进河底泥土之中、一端没有凳腿搁于河岸之上，此凳可随河水涨落移动，始终保持凳面略高水面，居民蹲在凳面之上在水深处淘米、洗菜、汏洗衣物、打水等等。<sup>\[泰州\]</sup> ④ 水边以石板、木板架起的供洗涤用的长条形凳状设施。<sup>\[泰兴\]</sup>  
 1. 【[水滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_dieh_dieh_dii.md#水滴滴的)】`shuei3 dieh7 dieh7 dii` <sup>[如皋]</sup> 因含水过多，拿起来时不住滴水。  
+1. 【[水点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_din_zz.md#水点子)】`shuei3 din3 zz` <small>/suəɪ3 tĩ3 t͡sɿ/<sup>泰兴</sup></small> 水珠、水滴<sup>\[泰兴\]</sup>  
 1. 【[水貂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_dio.md#水貂)】`shuei3 dio1` <sup>[如东]</sup> 哺乳动物。身体细长，四肢短，趾间有蹼，毛暗黑色，密而柔软，有光泽。善于潜入水底捕食鱼类和蛙等。  
 1. 【[水耳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_er_teu.md#水耳头)】`shuei3 er3 teu` <sup>[兴化]</sup> 东说东好，西说西好，缺乏主见的人。  
 1. 【[水发蹄筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_faeh_ti_jien.md#水发蹄筋)】`shuei3 faeh7 ti2 jien1` <sup>[如皋]</sup> 将猪蹄筋干货用温水发开。其营养保存较多。  
