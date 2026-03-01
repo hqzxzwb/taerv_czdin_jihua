@@ -365,7 +365,7 @@
 1. 【[嗓子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz_ngaen_r.md#嗓子眼<sub>儿</sub>)】`san3 zz ngaen3 r` <sup>[如皋]</sup> 咽喉区的气管和食管：千不怕，万不怕，就怕～𧰵坝！  
 1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup>｜老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup>  
 1. 【[搡拾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_sheh_ren.md#搡拾人)】`san3 sheh8 ren2` <sup>[如东]</sup> 用恶言骂人：你不～。  
-1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <small>/sã3 kʰʊ1/<sup>如皋</sup></small> ① 柱下石。<sup>\[如皋\]</sup> ② 填在房屋柱杆底部的石墩，圆形。<sup>\[如东\]</sup>  
+1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <small>/sã3 kʰʊ1/<sup>如皋</sup>, /sɑŋ3 kʰɤɯ/<sup>泰兴</sup></small> 柱下石礅<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[磉窠墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku_den_r.md#磉窠墩<sub>儿</sub>)】`san3 ku1 den1 r` <sup>[如皋]</sup> 见“磉窠”。  
 1. 【[丧德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_deh.md#丧德)】`san5 deh7` <small>/sɑŋ5 təʔ7/<sup>泰县</sup></small> ① 缺德。<sup>\[如东\]</sup>：他做这种～的事，捱万人骂。<sup>\[如东\]</sup> ② 缺乏道德。<sup>\[泰县\]</sup>  
 1. 【[丧良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_lian_xien.md#丧良心)】`san5 lian2 xien` <sup>[泰州]</sup> 丧失内心对是非善恶的正确认识：老领导对你不差，你再说老领导的坏话就～唻。  

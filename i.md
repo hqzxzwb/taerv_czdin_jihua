@@ -315,7 +315,7 @@
 1. 【[约莫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mah.md#约莫)】`iah7 mah` <small>/iɑʔ7 mɑʔ/<sup>泰兴</sup></small> 估计；大概。<sup>\[泰兴\]</sup>  
 1. 【[岳父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_fv.md#岳父)】`iah8 fv6` <sup>[如东]</sup> 妻子的父亲。也称岳丈、丈人。  
 1. 【[岳母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_mu.md#岳母)】`iah8 mu3` <sup>[如东]</sup> 妻子的母亲。  
-1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <small>/iɑʔ8/<sup>泰县</sup></small> ① 毒杀 ② 毒杀<sup>\[泰县\]</sup>：～老鼠。<sup>\[泰县\]</sup> ③ 设下全套诱人上当<sup>\[泰州\]</sup>：他说的话你不能听，他是～你的。<sup>\[泰州\]</sup>｜这小伙太老卵，你～他啊子。<sup>\[泰州\]</sup>  
+1. 【[药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah.md#药)】`iah8` <small>/iaʔ8/<sup>兴化</sup>, /iaʔ8/<sup>如皋</sup>, /iɑʔ8/<sup>泰兴</sup>, /iɑʔ8/<sup>泰县</sup></small> ① （用毒来）毒：～老鼠｜～杀咖 ② 设下全套诱人上当<sup>\[泰州\]</sup>：他说的话你不能听，他是～你的。<sup>\[泰州\]</sup>｜这小伙太老卵，你～他啊子。<sup>\[泰州\]</sup>  
 1. 【[药本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_ben.md#药本)】`iah8 ben3` <sup>[兴化]</sup> 药剂的成本：他替穷人看病，只收～，不收诊金。  
 1. 【[药饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_bien_r.md#药饼<sub>儿</sub>)】`iah8 bien3 r` <small>/iaʔ8 piɪ̃3 ɚ/<sup>兴化</sup>, /iɑʔ8 piŋ3 ɚ/<sup>泰县</sup></small> 药片<sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰县：今吖不打针，要吃～。\]  
 1. 【[药单子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iah_daen_zz.md#药单子)】`iah8 daen1 zz` <sup>[兴化]</sup> 中医处方：拿～上街打药。  
