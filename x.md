@@ -93,7 +93,7 @@
 1. 【[喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shr.md#喜事)】`xi3 shr6` <sup>[如东]</sup> 因为结婚、寿诞等举办的庆祝活动，称喜事。  
 1. 【[喜树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shv.md#喜树)】`xi3 shv6` <sup>[如东]</sup> 珙桐科植物喜树，落叶乔木。高约30米。树皮浅灰色。叶互生，纸质椭圆状披针形。头状花序。花绿白色，无梗。瘦果窄矩圆形，褐色。路边或庭园种植。木材轻软，易翘裂，可供造纸、板料、火柴杆等用。根及果实含喜树碱。  
 1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup></small> ① 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。<sup>\[如东\]</sup> ② 煮熟并染红的鸡蛋。民俗，生孩子的人家用来向外婆家报喜，并分送亲友。<sup>\[兴化\]</sup>  
-1. 【[喜喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#喜喜<sub>儿</sub>)】`xi3 xi3 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。见“喜庆”“喜签”“喜钱”。  
+1. 【[喜喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#喜喜<sub>儿</sub>)】`xi3 xi3 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。见“喜签”“喜钱”。  
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
 1. 【[喜孜孜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz_zz.md#喜孜孜)】`xi3 zz1 zz1` <sup>[兴化]</sup> 形容心里很欢喜：王氏～回来，向曹氏说了一遍。（《岐路灯》三）  
@@ -129,12 +129,12 @@
 1. 【[洗澡手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_sheu_jien.md#洗澡手巾)】`xi3 zo3 sheu3 jien1` <sup>[如皋]</sup> 浴巾。  
 1. 【[洗澡堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_tan_zz.md#洗澡堂子)】`xi3 zo3 tan2 zz` <small>/ɕʝ3 t͡sɔ3 tʰã2 t͡sɿ/<sup>如皋</sup>, /ɕʝ3 t͡sɔ3 tʰɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 公共浴室。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[蟢蟢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#蟢蟢)】`xi3 xi` <sup>[东台]</sup> 蜘蛛的一种。又叫蟢蟢蛛儿。因“蟢”与“喜”谐音，旧时常当作喜庆的征兆。  
-1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi zhv1 r` <small>/ɕi3 ɕi t͡su1 ɚ/<sup>兴化</sup></small> ① 同“蟢蟢”<sup>\[东台\]</sup> ② 蜘蛛。<sup>\[兴化\]</sup>  
-1. 【[蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#蟢蟢<sub>儿</sub>)】`xi3 xi3 r` <small>/ɕʝ3 ɕʝ˞3/<sup>如皋</sup></small> ① 蜘蛛 ② 蜘蛛。<sup>\[如皋\]</sup> ③ 圆网蛛科动物大腹圆网蛛，体圆形或椭圆形，头胸部被有背甲1枚。口小，适于吮吸。单眼4对。头胸部下有附肢6对，第1对为钳角，似大颚，呈单螯状，通毒腺。第2对为脚须，似触角，雄性末端膨大成交配器。其余4对为步足，中间丛生细毛，跗节末端有钩爪2枚。腹部圆大而软。腹后端有疣状纺锤突3对，通纺绩腺，能分泌一种粘液，凝结成丝而结网。常结网于树间、檐下。<sup>\[如东\]</sup>  
+1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi zhv1 r` <small>/ɕi3 ɕi t͡su1 ɚ/<sup>兴化</sup></small> 蜘蛛<sup>\[东台\]</sup><sup>\[兴化\]</sup>  
+1. 【[蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#蟢蟢<sub>儿</sub>)】`xi3 xi3 r` <small>/ɕʝ3 ɕʝ˞3/<sup>如皋</sup></small> 蜘蛛<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[蟢蟢<sub>儿</sub>打架——活缠丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r_da.md#蟢蟢<sub>儿</sub>打架——活缠丝)】`xi3 xi3 r da3 jia5——huh8 chin6 sz1` <sup>[如皋]</sup> 事情前头万绪，纷乱繁杂，越理越乱。  
-1. 【[蟢蟢<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r_van.md#蟢蟢<sub>儿</sub>网)】`xi3 xi3 r van3` <small>/ɕʝ3 ɕʝ˞3 ʋã3/<sup>如皋</sup></small> ① 蜘蛛网。<sup>\[如皋\]</sup> ② 圆网蛛科动物大腹圆网蛛网丝。<sup>\[如东\]</sup>  
+1. 【[蟢蟢<sub>儿</sub>网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r_van.md#蟢蟢<sub>儿</sub>网)】`xi3 xi3 r van3` <small>/ɕʝ3 ɕʝ˞3 ʋã3/<sup>如皋</sup></small> 蜘蛛网。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[蟢蟢<sub>儿</sub>网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r_van.md#蟢蟢<sub>儿</sub>网<sub>儿</sub>)】`xi3 xi3 r van3 r` <sup>[如皋]</sup> 蜘蛛网。  
-1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi3 zhv1 r` <small>/sɿ3 sɿ3 t͡su1 ɚ/<sup>泰县</sup></small> ① 蜘蛛。<sup>\[泰县\]</sup> ② “蟢蛛”的生动形式。亦作“喜喜蛛子”，一种身体细长、暗褐色的长脚蜘蛛。坊间以为此虫上身，是好兆头<sup>\[泰州\]</sup>：你身上趜咖个～，你家家里这两天有甚的好事来啊？<sup>\[泰州\]</sup>  
+1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi3 zhv1 r` <small>/sɿ3 sɿ3 t͡su1 ɚ/<sup>泰县</sup></small> 蜘蛛。<sup>\[泰县\]</sup>\[泰州：“蟢蛛”的生动形式。亦作“蟢蟢蛛子”，一种身体细长、暗褐色的长脚蜘蛛。坊间以为此虫上身，是好兆头\]：你身上趜咖个～，你家家里这两天有甚的好事来啊？<sup>\[泰州\]</sup>  
 1. 【[铣床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_chuan.md#铣床)】`xi3 chuan2` <sup>[如东]</sup> 切削金属用的一种机床，装有棒状或盘状的多刃刀具，用来加工平面、曲面和各种凹槽。工作时，刀具旋转，工件移动着跟刀具接触。种类很多，如立式铣床、万能卧式铣床等。  
 1. 【[铣工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gon.md#铣工)】`xi3 gon1` <sup>[如东]</sup> 工种的一种。以操纵铣床为职业的工人。  
 1. 【[戏（细）吹戏（细）打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_chuei_xi_da.md#戏（细）吹戏（细）打)】`xi5 chuei1 xi5 da3` <sup>[如皋]</sup> 器乐合奏。细，配合周密。  
