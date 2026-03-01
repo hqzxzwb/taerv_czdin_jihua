@@ -616,8 +616,11 @@
 1. 【[养猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zhv.md#养猪)】`ian3 zhv` <small>/iɑŋ3 t͡su/<sup>泰兴</sup></small> 小苗猪。买回来饲养的小猪。<sup>\[泰兴\]</sup>：捉两只～家来<sup>\[泰兴\]</sup>  
 1. 【[养子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_zz.md#养子)】`ian3 zz3` <sup>[东台]</sup> 领养的儿子。  
 1. 【[痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#痒)】`ian3` <sup>[如东]</sup> 皮肤受到轻微刺激时而引起的想挠的感觉。  
+1. 【[痒疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuan.md#痒疮)】`ian3 chuan1` <small>/iɑŋ3 t͡sʰuɑŋ1/<sup>泰兴</sup></small> 疥疮。一种皮肤病。<sup>\[泰兴\]</sup>  
 1. 【[痒疮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_chuan_r.md#痒疮<sub>儿</sub>)】`ian3 chuan1 r` <sup>[如皋]</sup> 疥疮。  
 1. 【[痒撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_cuh_cuh.md#痒撮撮)】`ian3 cuh7 cuh7` <sup>[东台]</sup> 也作痒挠挠，形容痒得难受忍不住要抓挠。  
+1. 【[痒痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ian.md#痒痒)】`ian3 ian` <small>/iɑŋ3 iɑŋ/<sup>泰兴</sup></small> 身上发痒。<sup>\[泰兴\]</sup>  
+1. 【[痒痒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ian_tan.md#痒痒塘)】`ian3 ian tan2` <small>/iɑŋ3 iɑŋ tʰɑŋ2/<sup>泰兴</sup></small> 触及后令人忍不住发笑的地方。多指夹肢窝。<sup>\[泰兴\]</sup>  
 1. 【[痒□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jieu.md#痒□)】`ian3 jieu1` <sup>[泰县]</sup> 发痒。  
 1. 【[痒□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_jieu.md#痒□)】`ian3 jieu5` ① 鼻孔堵塞欲打喷嚏之时发痒。<sup>\[泰州\]</sup> ② 泛指身体表层部位作痒<sup>\[泰州\]</sup>：几天不曾洗澡，身上～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[痒喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_xi_r.md#痒喜<sub>儿</sub>)】`ian3 xi3 r` <sup>[如东]</sup> 皮肤痒  

@@ -159,9 +159,11 @@
 1. 【[界岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un.md#界岸)】`gae5 un6` <sup>[如东]</sup> ① 土地周边分界的堤岸。 ② 田块周边的小堤。 ③ 田埂。  
 1. 【[界岸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un_r.md#界岸<sub>儿</sub>)】`gae5 un6 r` <sup>[兴化]</sup> ① 田间小路。 ② 也指不同业主田地之间分界的小土埂。  
 1. 【[界址](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhr.md#界址)】`gae5 zhr3` <small>/kɛ5 t͡sɿ3/<sup>泰兴</sup></small> 土地分界之处的标志。<sup>\[泰兴\]</sup>  
+1. 【[盖戳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chuah_zz.md#盖戳子)】`gae5 chuah7 zz` <small>/kɛ5 t͡sʰuɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 盖章。<sup>\[泰兴\]</sup>  
 1. 【[盖戳子，拿角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chuah_zz_na.md#盖戳子，拿角子)】`gae5 chuah7 zz na2 gah7 zz` <sup>[东台]</sup> 指过去盖印章领工资。  
 1. 【[盖住盒子摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_chv_huh_zz.md#盖住盒子摇)】`gae5 chv huh8 zz io2` <sup>[兴化]</sup> 不让事态扩大，而在一定范围内悄悄处理：“……你若是验出来，我包管是个死命，我劝你不如～，便宜你许多呢！”（《广陵潮五》）  
 1. 【[盖烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_faen.md#盖烦)】`gae5 faen2` <small>/kɛ5 fẽ2/<sup>如皋</sup>, /ke5 fɛ̃2/<sup>泰县</sup></small> ① 帮着掩盖、打掩护。<sup>\[如皋\]</sup> ② 巧妙地掩饰<sup>\[东台\]</sup>：妈妈见小伙惹新妇生吖气，连忙～说“他是开玩笑的，不要当真！”<sup>\[东台\]</sup> ③ 掩盖<sup>\[泰县\]</sup>：你不要～吖。<sup>\[泰县\]</sup>  
+1. 【[盖粪塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_fen_tan.md#盖粪塘)】`gae5 fen5 tan2` <small>/kɛ5 fəŋ5 tʰɑŋ2/<sup>泰兴</sup></small> 以土遮盖刚施的粪肥。<sup>\[泰兴\]</sup>  
 1. 【[盖一](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_ieh.md#盖一)】`gae5 ieh7` <sup>[兴化]</sup> 第一、最好：她的唱功全团～。  
 1. 【[盖浇饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jio_faen.md#盖浇饭)】`gae5 jio1 faen6` ① 大米饭做好后，盛在碗或盒中，上面再加肉菜等。<sup>\[如东\]</sup> ② 20世纪六七十年代前的一种流行快餐，在装有米饭的碗上加上浇头。泰州稻河边上沿河居民多有从事卖盖浇饭职业，主要供应对象为下河地区划船进城卖菜、卖瓜的农民。<sup>\[泰州\]</sup>  
 1. 【[盖浇面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_jio_min.md#盖浇面)】`gae5 jio1 min6` ① 面条煮熟盛在碗里，上面再加肉和菜。<sup>\[如东\]</sup> ② 一种面食，把炒菜（即“浇头”）加在下好的面上。<sup>\[东台\]</sup>  
@@ -175,14 +177,16 @@
 1. 【[盖屋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_oh_qian.md#盖屋匠)】`gae5 oh7 qian6` <sup>[如皋]</sup> 专盖草屋屋面的工匠。  
 1. 【[盖被](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_pi.md#盖被)】`gae5 pi6` 睡觉时盖在身上的被子  
 1. 【[盖起盒子摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_qi_huh_zz.md#盖起盒子摇)】`gae5 qi3 huh8 zz io2` <sup>[东台]</sup> 对外封锁消息，有什么问题都在内部解决。  
+1. 【[盖起盒子来摇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_qi_huh_zz.md#盖起盒子来摇)】`gae5 qi3 huh8 zz lae2 io2` <small>/kɛ5 t͡ɕʰʝ3 xʊʔ8 t͡sɿ lɛ2 iɔ2/<sup>泰兴</sup></small> 喻不公开真实内容，让别人去猜测。做事不透明。<sup>\[泰兴\]</sup>  
 1. 【[盖塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_tan.md#盖塘)】`gae5 tan2` <sup>[兴化]</sup> 种植玉米、豆类等作物，先挖塘，下种后再用土把塘盖上：走到田里，大家分了工，打塘的，下种的，～的，兴高采烈地干起来了……（马春阳《二十斤玉米》）  
 1. 【[盖塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_tan_r.md#盖塘<sub>儿</sub>)】`gae5 tan2 r` <sup>[如皋]</sup> 田间点播、点施肥料要扦塘儿，做完后要～  
 1. 【[盖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_tin.md#盖天)】`gae5 tin1` <sup>[如皋]</sup> 牛交配。  
 1. 【[盖垫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_tin_r.md#盖垫<sub>儿</sub>)】`gae5 tin6 r` <sup>[如东]</sup> 牛交配，叫做盖垫儿。  
 1. 【[盖碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_un_r.md#盖碗<sub>儿</sub>)】`gae5 un3 r` <small>/kɛ5 ũ3 ɚ/<sup>兴化</sup>, /kɛ5 ʊ˞3/<sup>如皋</sup></small> ① 有盖无把的柱形稍大的茶具。清茶馆用以泡“碗儿茶”卖。<sup>\[如皋\]</sup> ② 即“茶碗”<sup>\[如皋\]</sup> ③ 带盖的碗，下面有托子，用来沏茶。<sup>\[兴化\]</sup>  
-1. 【[盖瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_va.md#盖瓦)】`gae5 va3` <small>/kɛ5 ua3/<sup>兴化</sup>, /kɛ5 ʋa3/<sup>如皋</sup></small> ① 瓦屋上瓦背朝上的瓦，称盖瓦。<sup>\[如东\]</sup> ② 牡瓦，即瓦背向上盖在上层的瓦。<sup>\[如皋\]</sup> ③ 给屋面覆瓦。<sup>\[如皋\]</sup> ④ 在屋面上铺瓦。<sup>\[兴化\]</sup> ⑤ （喻）初秋天空中云斑一块接着一块<sup>\[兴化\]</sup>：天上～，马上要起风吖。<sup>\[兴化\]</sup>  
+1. 【[盖瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_va.md#盖瓦)】`gae5 va3` <small>/kɛ5 ua3/<sup>兴化</sup>, /kɛ5 ʋa3/<sup>如皋</sup>, /kɛ5 uɑ3/<sup>泰兴</sup></small> ① 牡瓦，即瓦背向上盖在上层的瓦。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 给屋面覆瓦。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup> ③ （喻）初秋天空中云斑一块接着一块<sup>\[兴化\]</sup>：天上～，马上要起风吖。<sup>\[兴化\]</sup>  
 1. 【[盖种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhon.md#盖种)】`gae5 zhon3` <small>/kɛ5 t͡soŋ3/<sup>兴化</sup>, /kɛ5 t͡sɔŋ3/<sup>如皋</sup></small> ① 播种后覆土。<sup>\[如皋\]</sup> ② 一种农活，即用土把点播的作物种子盖起来。<sup>\[兴化\]</sup>  
 1. 【[盖众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhon.md#盖众)】`gae5 zhon5` <sup>[如皋]</sup> ① 说话狂妄，得罪大家。 ② 技艺、本领超过一般人。 ③ 见“压众”。  
+1. 【[盖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zz.md#盖子)】`gae5 zz` <small>/kɛ5 t͡sɿ/<sup>泰兴</sup></small> 器物顶部起遮盖作用的东西。<sup>\[泰兴\]</sup>  
 1. 【[芥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_cae.md#芥菜)】`gae5 cae5` <small>/kɛ5 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 蔬菜的一种，茎有软刺，多腌制后食用。<sup>\[泰兴\]</sup>  
 1. 【[唊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#唊)】`gaeh7` <sup>[泰州]</sup> 妄语，多言：你不要听她嘴里瞎～。  
 1. 【[夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#夹)】`gaeh7` <sup>[如东]</sup> 从两个相对的方面施加压力，使物体固定不动：～毛竹。  

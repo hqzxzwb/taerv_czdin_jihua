@@ -1846,6 +1846,7 @@
 1. 【[苫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#苫)】`shin5` <small>/ɕiɪ̃5/<sup>泰县</sup></small> ① 给草屋添补或铺上草<sup>\[东台\]</sup>：～草屋。<sup>\[东台\]</sup> ② 用席、布等遮盖<sup>\[东台\]</sup>：起天色咖，快点儿把场上的麦～好。<sup>\[东台\]</sup> ③ 用东西遮盖：快点儿把场上的豆儿～起来。<sup>\[泰县\]</sup>  
 1. 【[骟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#骟)】`shin5` ① 阉割 ② 除去牲畜的睾丸或卵巢。<sup>\[东台\]</sup> ③ 割除动物睾丸<sup>\[泰州\]</sup>：～公猪<sup>\[泰州\]</sup>  
 1. 【[骟猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zhv.md#骟猪)】`shin5 zhv1` <sup>[如东]</sup> 割掉猪的睾丸或卵巢。  
+1. 【[骟猪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zhv_zz.md#骟猪子)】`shin5 zhv1 zz` <small>/ɕĩ5 t͡su1 t͡sɿ/<sup>泰兴</sup></small> 阉割猪的睾丸或卵巢。<sup>\[泰兴\]</sup>  
 1. 【[善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#善)】`shin6` <sup>[东台]</sup> 动词，如银杏嫁接叫～白果，瓜类人工授粉叫～瓜，都是为了改良品种或提高坐果率。  
 1. 【[善和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_hu.md#善和)】`shin6 hu` <sup>[兴化]</sup> 形容性情温和：“……其实，俺妈在这里头算是顶～的哩……”（《老残游记》十三）  
 1. 【[善门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men.md#善门)】`shin6 men2` <sup>[东台]</sup> ［喻］行善开了口子，有了先例：这个～一开许多人受益，但也可能引起攀比。  

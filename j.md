@@ -1326,7 +1326,7 @@
 1. 【[剪绺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lieu.md#剪绺)】`jin3 lieu3` <sup>[兴化]</sup> 小偷：这次出差，捱～的掏去三百多块。  
 1. 【[剪门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_men.md#剪门)】`jin3 men2` <sup>[兴化]</sup> 商店关门，停止营业：晚上九点，大部分饭店都剪吖门。  
 1. 【[剪手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sheu.md#剪手)】`jin3 sheu3` <sup>[东台]</sup> ① 帮助处理未尽事宜。 ② 从此不干某事：～不干。  
-1. 【[剪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#剪头)】`jin3 teu2` <small>/t͡ɕiɪ̃3 tʰɤ2/<sup>兴化</sup>, /t͡ɕĩ3 tʰei2/<sup>如皋</sup></small> ① 理发 ② 理发，与“剃头”相对。<sup>\[如皋\]</sup> ③ 理发。<sup>\[东台\]</sup> ④ 理发<sup>\[兴化\]</sup>：明朝休息，你去～洗澡。<sup>\[兴化\]</sup>  
+1. 【[剪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#剪头)】`jin3 teu2` <small>/t͡ɕiɪ̃3 tʰɤ2/<sup>兴化</sup>, /t͡ɕĩ3 tʰei2/<sup>如皋</sup>, /t͡ɕĩ3 tʰəɪ2/<sup>泰兴</sup></small> ① 理发 ② 理发，与“剃头”相对。<sup>\[如皋\]</sup> ③ 理发。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：明朝休息，你去～洗澡。<sup>\[兴化\]</sup> ④ 剃头，理发。<sup>\[泰兴\]</sup>  
 1. 【[剪头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_dii.md#剪头的)】`jin3 teu2 dii` <sup>[如皋]</sup> ① 理髮师。 ② 待理髮者。  
 1. 【[剪掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_tio_a.md#剪掉啊)】`jin3 tio6 a` <sup>[如皋]</sup> 丢失了，没有了：伢儿跑啊～。  
 1. 【[剪作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zah.md#剪作)】`jin3 zah7` <sup>[兴化]</sup> 工匠收工：木匠师傅～，准备回家。  

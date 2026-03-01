@@ -563,7 +563,7 @@
 1. 【[绰头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_teu.md#绰头)】`chah7 teu2` <small>/t͡sʰaʔ7 tʰɤ2/<sup>兴化</sup>, /t͡sʰaʔ7 tʰei2/<sup>如皋</sup>, /t͡sʰɑʔ7 tʰɤɯ2/<sup>泰县</sup></small> ① 梳头。<sup>\[东台\]</sup> ② 梳理头发。<sup>\[如皋\]</sup> ③ 梳头。兴化词典作“珿”，《集韵·觉韵》侧角切，《博雅》齐也。<sup>\[兴化\]</sup> ④ 梳头。<sup>\[泰县\]</sup> ⑤ 用梳子将头发梳理整齐<sup>\[泰州\]</sup>：忙得连～的工夫都没得。<sup>\[泰州\]</sup>  
 1. 【[绰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_zz.md#绰子)】`chah7 zz` <sup>[东台]</sup> 梳子。小的叫绰儿。  
 1. 【[辵辵<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_chah_r_han.md#辵辵<sub>儿</sub>行)】`chah7 chah7 r han2` <sup>[兴化]</sup> 旧时无固定经营场所，专事小额商品中介的业者，见“八怪”  
-1. 【[着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#着)】`chah8` <small>/t͡sʰaʔ8/<sup>兴化</sup>, /t͡sʰɑʔ8/<sup>泰兴</sup></small> ① 燃烧<sup>\[东台\]</sup><sup>\[泰州\]</sup>：～火<sup>\[东台\]</sup>｜（歇后语）光光堂儿烧木柴——当～不～。<sup>\[东台\]</sup> ② 入睡<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：一上床就～咖。<sup>\[兴化\]</sup>｜睡得～呼呼的。<sup>\[兴化\]</sup>｜睡不～。<sup>\[泰州\]</sup> ③ 使燃烧，燃起<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～炭炉子。<sup>\[泰州\]</sup>  
+1. 【[着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#着)】`chah8` <small>/t͡sʰaʔ8/<sup>兴化</sup>, /t͡sʰɑʔ8/<sup>泰兴</sup></small> ① 燃烧<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～火<sup>\[东台\]</sup>｜（歇后语）光光堂儿烧木柴——当～不～。<sup>\[东台\]</sup>｜～火<sup>\[泰兴\]</sup> ② 入睡<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：一上床就～咖。<sup>\[兴化\]</sup>｜睡得～呼呼的。<sup>\[兴化\]</sup>｜睡不～。<sup>\[泰州\]</sup> ③ 使燃烧，燃起<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～炭炉子。<sup>\[泰州\]</sup>  
 1. 【[着床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_chuan.md#着床)】`chah8 chuan2` <small>/t͡sʰaʔ8 t͡sʰuaŋ2/<sup>兴化</sup></small> ① 因为病重而卧床不起。<sup>\[如东\]</sup>：王老太已经着咖床。<sup>\[如东\]</sup> ② 因病重而卧床不起<sup>\[兴化\]</sup>：老太太这次病吖～吖。<sup>\[兴化\]</sup>  
 1. 【[着咖床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_ga_chuan.md#着咖床)】`chah8 ga chuan2` <small>/t͡sʰaʔ8 ka t͡sʰuã2/<sup>如皋</sup></small> ① 病很重，起不了床：病吖～。<sup>\[如皋\]</sup> ② 重病卧床，再不能起来。<sup>\[东台\]</sup>  
 1. 【[着杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_gan.md#着杠)】`chah8 gan5` <sup>[如东]</sup> 可靠，实在：不要不～。  
@@ -2336,6 +2336,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv.md#□)】`cv1` <sup>[泰县]</sup> 送：他把钱～到我手上。  
 1. 【[粗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv.md#粗)】`cv1` <small>/t͡sʰu1/<sup>兴化</sup>, /t͡sʰu1/<sup>如皋</sup></small> ① 用衣袖或其他东西将字或脏物擦掉。<sup>\[如东\]</sup>：黑板上的字，～掉再写。<sup>\[如东\]</sup> ② 用粗鄙的话触犯人<sup>\[如皋\]</sup>：他拿话～你下子你就受不了。<sup>\[如皋\]</sup> ③ 动词，擦<sup>\[如皋\]</sup>：鼻子滴黄齈就拿衣袖一～，邋遢死啊。<sup>\[如皋\]</sup> ④ 揩、擦<sup>\[兴化\]</sup>：拿据布把桌子～啊子。<sup>\[兴化\]</sup>  
 1. 【[粗巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_ba_la_ha.md#粗巴拉哈)】`cv1 ba la ha1` <sup>[如东]</sup> 粗糙：这种面料～的。  
+1. 【[粗巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_ba_la_ha.md#粗巴拉哈)】`cv1 ba la ha1` <small>/t͡sʰu1 pɑ lɑ xɑ1/<sup>泰兴</sup></small> 粗糙，不细。<sup>\[泰兴\]</sup>  
 1. 【[粗巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_ba_laeh_saeh.md#粗巴擸𢶍)】`cv1 ba laeh8 saeh` <sup>[兴化]</sup> 形容很粗糙。也说“粗巴肏猴”。  
 1. 【[粗巴肏猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_ba_reh_heu.md#粗巴肏猴)】`cv1 ba reh8 heu2` <sup>[兴化]</sup> 见“粗巴擸𢶍”。  
 1. 【[粗巴糙瘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_ba_co_laeh.md#粗巴糙瘌)】`cv1 ba1 co5 laeh8` <sup>[如皋]</sup> 形容表面很粗糙。  
@@ -2351,7 +2352,7 @@
 1. 【[粗花子盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_hua_zz_in.md#粗花子盐)】`cv1 hua1 zz in2` <sup>[如皋]</sup> 未精炼的粗盐。  
 1. 【[粗糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_kan.md#粗糠)】`cv1 kan1` <small>/t͡sʰu1 kʰã1/<sup>如皋</sup></small> ① 稻谷脱壳的外壳，称粗糠。<sup>\[如东\]</sup> ② 即“大糠”。<sup>\[如皋\]</sup> ③ 稻壳。<sup>\[如皋\]</sup> ④ 见“砻糠”。<sup>\[如皋\]</sup>  
 1. 【[粗糠搓绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_kan_cu_shen.md#粗糠搓绳)】`cv1 kan1 cu1 shen2` <sup>[兴化]</sup> ① （喻）凡事起头总比较困难：俗语～一开头难也。 ② 也指根本不可能的事。  
-1. 【[粗匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_kuan.md#粗匡)】`cv1 kuan1` <small>/t͡sʰu1 kʰuaŋ1/<sup>兴化</sup></small> 大略地估算<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：秦熹算计已定，请来工匠～了一下，造一座阁天楼，要花三万两银子（扬二《大闹秦相府》）<sup>\[兴化\]</sup>｜你家儿子结婚，～下子也要三十桌人。<sup>\[泰州\]</sup>  
+1. 【[粗匡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_kuan.md#粗匡)】`cv1 kuan1` <small>/t͡sʰu1 kʰuaŋ1/<sup>兴化</sup>, /t͡sʰu1 kʰuɑŋ1/<sup>泰兴</sup></small> 大略地估算<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：秦熹算计已定，请来工匠～了一下，造一座阁天楼，要花三万两银子（扬二《大闹秦相府》）<sup>\[兴化\]</sup>｜你家儿子结婚，～下子也要三十桌人。<sup>\[泰州\]</sup>  
 1. 【[粗粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_lian.md#粗粮)】`cv1 lian2` <sup>[如东]</sup> 元麦、大麦、玉米、高粱、蚕豆等谷物，称粗粮（相对大米）。  
 1. 【[粗料锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_lio_jy.md#粗料锯)】`cv1 lio6 jy5` <sup>[如东]</sup> 工具。锯条长，锯齿粗，锯木料的速度快，一般用以锯较粗的木料。  
 1. 【[粗皮糙裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_pi_co_lih.md#粗皮糙裂)】`cv1 pi2 co5 lih8` <sup>[如东]</sup> ① 皮肤不够细腻柔软：王二的小腿～的。 ② 表面粗糙：粟树皮～的，当心拉伤皮肤。  
@@ -2359,6 +2360,7 @@
 1. 【[粗食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_sheh.md#粗食)】`cv1 sheh8` <sup>[如皋]</sup> 粗饲料。  
 1. 【[粗声粗气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_shen_cv_qi.md#粗声粗气)】`cv1 shen1 cv1 qi5` ① 说话语气粗鲁。<sup>\[如东\]</sup>：请你对老人不要～。<sup>\[如东\]</sup> ② 形容人说话嗓门大，也指男孩子发育阶段声调变粗了。<sup>\[东台\]</sup>  
 1. 【[粗手粗脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_sheu_cv_jiah.md#粗手粗脚)】`cv1 sheu3 cv1 jiah7` <sup>[东台]</sup> 手脚粗壮，做事不利索。  
+1. 【[粗手笨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_sheu_pen_jiah.md#粗手笨脚)】`cv1 sheu3 pen5 jiah7` <small>/t͡sʰu1 ɕiɤɯ3 pʰəŋ5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 手脚不爽利，不灵活，做事笨拙。<sup>\[泰兴\]</sup>  
 1. 【[粗手笨脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_sheu_pen_jiah.md#粗手笨脚)】`cv1 sheu3 pen6 jiah7` <sup>[泰州]</sup> 手脚动作笨拙的样子：这是细巧活技，他～的弄不好。  
 1. 【[粗针大麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_zhen_da_ma.md#粗针大麻线)】`cv1 zhen1 da6 ma2 xin5` <sup>[兴化]</sup> 形容缝补的针脚稀疏，做工不精细。  
 1. 【[粗针麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cv_zhen_ma_xin.md#粗针麻线)】`cv1 zhen1 ma2 xin5` <sup>[东台]</sup> ［喻］指手脚粗笨，不善于做细巧活儿。  

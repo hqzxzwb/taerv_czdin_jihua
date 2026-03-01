@@ -659,6 +659,7 @@
 1. 【[廊檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in.md#廊檐)】`lan2 in` <sup>[泰县]</sup> 走廊。  
 1. 【[廊檐台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae.md#廊檐台)】`lan2 in tae2` <sup>[泰州]</sup> 房屋前檐伸出部分下的石台（砖台），旧时房屋地基较高，廊檐部分用长方形石板铺成。  
 1. 【[廊檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in.md#廊檐)】`lan2 in2` <small>/lã2 ĩ2/<sup>如皋</sup></small> ① 屋檐 ② 屋檐伸出前墙外边的部分。<sup>\[如东\]</sup> ③ 走廊上披屋檐。<sup>\[如皋\]</sup> ④ 指走廊：走马～。<sup>\[如皋\]</sup> ⑤ 房屋前檐伸出部分所覆盖的地面<sup>\[泰州\]</sup>：把鞋子放吖～上晒。<sup>\[泰州\]</sup>  
+1. 【[廊檐脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_jiah_ha.md#廊檐脚下)】`lan2 in2 jiah7 ha` <small>/lɑŋ2 ĩ2 t͡ɕiɑʔ7 xɑ/<sup>泰兴</sup></small> 屋檐下面。<sup>\[泰兴\]</sup>  
 1. 【[廊檐台<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae_r.md#廊檐台<sub>儿</sub>)】`lan2 in2 tae2 r` <sup>[如皋]</sup> 上下走廊用的台阶。  
 1. 【[廊檐台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_in_tae_zz.md#廊檐台子)】`lan2 in2 tae2 zz` <sup>[兴化]</sup> 屋檐下高出天井的台阶。  
 1. 【[榔桠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lan_nga.md#榔桠)】`lan2 nga1` <sup>[如东]</sup> 帆船金头上的两根木柱。  
