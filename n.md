@@ -1547,6 +1547,7 @@
 1. 【[趼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#趼)】`nin5` <sup>[如皋]</sup> 提踵即提起脚跟。又作踮。  
 1. 【[黏𪐏𪐏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh_dii.md#黏𪐏𪐏的)】`nin5 deh7 deh7 dii` <sup>[东台]</sup> 形容黏度很大。  
 1. 【[黏叽哇沙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_va_sha.md#黏叽哇沙的)】`nin5 ji1 va1 sha1 dii` <sup>[东台]</sup> 黏糊糊的，叫人讨厌而又不容易甩开。  
+1. 【[念](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#念)】`nin6` <small>/liɪ̃6/<sup>兴化</sup>, /nĩ1/<sup>如皋</sup>, /nĩ1/<sup>泰兴</sup>, /niɪ̃1/<sup>泰县</sup></small> ① 出声读：～书｜～经｜～吖把我听 ② 指把一件事反复讲<sup>\[泰兴\]</sup>：～（某人的）好/指知恩识好<sup>\[泰兴\]</sup>｜人差他两个钱，他～吖一世<sup>\[泰兴\]</sup>  
 1. 【[念鼠<sub>儿</sub>经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chv_r_jien.md#念鼠<sub>儿</sub>经)】`nin6 chv3 r jien1` <sup>[如皋]</sup> ① 猫常有的腹内呜呜声。 ② 喻低声啰唆不停。  
 1. 【[念佛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_feh.md#念佛)】`nin6 feh8` <sup>[如东]</sup> 念诵佛经。比喻一个劲地说好话：她到处～。  
 1. 【[念鬼唧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_guei_jieh_zz.md#念鬼唧子)】`nin6 guei3 jieh7 zz` <sup>[如东]</sup> 一个人偷偷地自言自语。  
