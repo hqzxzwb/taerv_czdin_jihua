@@ -2248,8 +2248,9 @@
 1. 【[啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su.md#啰唆)】`lu1 su1` <sup>[如东]</sup> ① 言语琐碎。 ② 繁杂。  
 1. 【[啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su.md#啰唆)】`lu1 su1` <small>/lɤɯ1 sɤɯ1/<sup>泰兴</sup></small> 说话重复，不简洁。或说“啰啰唆唆”。<sup>\[泰兴\]</sup>  
 1. 【[啰唆嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su_jy.md#啰唆嘴)】`lu1 su1 jy3` <sup>[如皋]</sup> 人说话啰唆不停。  
-1. 【[螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#螺螺)】`lu1 lu` <sup>[兴化]</sup> 即螺蛳。  
+1. 【[螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#螺螺)】`lu1 lu` <small>/lo1 lo/<sup>兴化</sup>, /lɤɯ1 lɤɯ/<sup>泰兴</sup></small> 螺蛳<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[螺<sub>儿</sub>糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_r_zo.md#螺<sub>儿</sub>糟)】`lu1 r zo1` <sup>[如东]</sup> 食品。海螺或河螺肉加面粉、酒糟混合烹调而成，色淡味鲜，营养丰富。  
+1. 【[螺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zz.md#螺子)】`lu1 zz` <small>/lɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 螺蛳<sup>\[泰兴\]</sup>  
 1. 【[啰啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#啰啰)】`lu2 lu2` <sup>[如皋]</sup> 唤猪声。  
 1. 【[啰唣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#啰唣)】`lu2 zo5` ① 吵闹骚扰<sup>\[泰州\]</sup>：妈妈岁数大啊，吃不消你俫～唻。<sup>\[泰州\]</sup> ② 内心烦躁不安的状态<sup>\[泰州\]</sup>：他这两天心里～得很，做事𠫓头落尾的。<sup>\[泰州\]</sup>  
 1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <sup>[如东]</sup> 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。  

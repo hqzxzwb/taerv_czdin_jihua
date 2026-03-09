@@ -2312,6 +2312,7 @@
 1. 【[袁丛韩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_con_hun.md#袁丛韩)】`iun2 con2 hun2` <sup>[如皋]</sup> 地名，如皋江防乡三洞口村的一个组。因三姓同时迁来而得名。  
 1. 【[袁大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_da_teu.md#袁大头)】`iun2 da6 teu2` <sup>[东台]</sup> 指民国初年发行的铸有袁世凯头像的银元。  
 1. 【[辕绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_shen.md#辕绳)】`iun2 shen2` <sup>[如皋]</sup> 将“牛辕”中段与“犁辕”端部系联起来的短绳。又名“七寸扣儿”。  
+1. 【[远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun.md#远)】`iun3` <small>/yʊ̃3/<sup>泰兴</sup></small> ① 空间距离大 ② （宗族关系或亲戚关系）远<sup>\[泰兴\]</sup>：～门房<sup>\[泰兴\]</sup>｜他是佤的个老亲，到箇一代已经～下去了<sup>\[泰兴\]</sup>  
 1. 【[远房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_fan.md#远房)】`iun3 fan2` <small>/yʊ̃3 fɑŋ2/<sup>泰兴</sup></small> 血统较远的宗族<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～兄弟。<sup>\[东台\]</sup>  
 1. 【[远约近还](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_iah_qien_huaen.md#远约近还)】`iun3 iah7 qien6 huaen2` <small>/yũ3 iaʔ7 t͡ɕʰin6 xuɛ̃2/<sup>兴化</sup>, /yʊ̃3 iɑʔ7 t͡ɕʰiŋ1 xuɛ̃2/<sup>泰兴</sup></small> ① 提前兑现承诺<sup>\[兴化\]</sup>：只要资金到位，保证让你俫按时搬进新居，争取～，越早越好。<sup>\[兴化\]</sup> ② 谓讲求诚信，提前实施以前答应的话。<sup>\[泰兴\]</sup>  
 1. 【[远来香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_lae_xian.md#远来香)】`iun3 lae2 xian1` <sup>[兴化]</sup> 指亲友间居住地距离远，平常接触少，见面时更有亲切感。俗语：亲戚家～。  

@@ -1188,6 +1188,7 @@
 1. 【[尽头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_hua.md#尽头话)】`qien6 teu hua6` <sup>[兴化]</sup> 决绝的话：两口子都说咖～，恐怕再也好不起来啊。  
 1. 【[尽头路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_teu_lv.md#尽头路)】`qien6 teu lv6` <sup>[兴化]</sup> 路的终点：匪首况小九子在受害百姓的群攻之下走上吖～。《西游记》第四十七回有“罢了！来到～了！”  
 1. 【[尽兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_xien.md#尽兴)】`qien6 xien5` <sup>[东台]</sup> 兴趣得到尽量满足。  
+1. 【[近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#近)】`qien6` 空间距离小  
 1. 【[近臭远香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cheu_iun_xian.md#近臭远香)】`qien6 cheu5 iun3 xian1` <sup>[东台]</sup> ［文］亲人之间常在一起难免有不愉快的事，保持一定距离反而感到亲热、吃香。  
 1. 【[近理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_li.md#近理)】`qien6 li3` <sup>[兴化]</sup> 有道理、符合情理：老校长见他说得～，沉吟了一会，即表示同意了。  
 1. 【[近路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_lv.md#近路)】`qien6 lv6` <sup>[如东]</sup> 距离最短的路。比喻做事简捷爽利，不绕弯子，不搞繁琐：走～。  

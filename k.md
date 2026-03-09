@@ -924,6 +924,7 @@
 1. 【[磕头作揖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_teu_zah_ieh.md#磕头作揖)】`kuh7 teu2 zah7 ieh7` <sup>[兴化]</sup> ① （借）表示感激之情：王医生救活咖这个伢儿的命，全家人～的表示感谢。 ② 苦苦哀求：当初他～的求人帮忙，现在忘得一干二净。｜他刚才还跳上跳下的骂人，这刻儿又～的打招呼。  
 1. 【[磕响头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_xian_teu.md#磕响头)】`kuh7 xian3 teu2` <sup>[泰州]</sup> ① 磕头时额头使劲触地发出声响，表示虔诚。 ② 表示由衷表示感谢：你同他把这桩事情办吖成吖的话，他全家都要同你～。  
 1. 【[磕糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_xyeh.md#磕糏)】`kuh7 xyeh7` <sup>[如东]</sup> 用碓把糯米、高粱或穄子舂成粉末，叫做磕糏。  
+1. 【[阔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh.md#阔)】`kuh7` 宽度大，普通话“宽”  
 1. 【[阔绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_chah.md#阔绰)】`kuh7 chah7` <sup>[东台]</sup> 排场大，生活奢侈。  
 1. 【[阔敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_chan.md#阔敞)】`kuh7 chan3` <sup>[泰州]</sup> 奢侈而不注意：一件衣裳就花掉5000多块钱，你嫌～唻。｜他这个省吖没得命的人，请你吃个排挡就算是～唻。  
 1. 【[阔佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_lo.md#阔佬)】`kuh7 lo3` <sup>[东台]</sup> 指有钱有势的人。  
