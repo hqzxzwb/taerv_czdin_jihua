@@ -729,8 +729,8 @@
 1. 【[相验](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_in.md#相验)】`xian5 in` <sup>[如皋]</sup> 官方验尸。  
 1. 【[相脚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jiah_teu.md#相脚头)】`xian5 jiah7 teu` <sup>[兴化]</sup> 盗贼察看路径，窥探动静，准备作案：史进喝道｜“李吉！张我庄内做甚么？莫不来～？”（《水浒传》二）  
 1. 【[相见](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_jin.md#相见)】`xian5 jin5` ① 看见 ② 看见。<sup>\[如东\]</sup>  
-1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup>, /ɕiɑŋ5 miŋ1/<sup>泰兴</sup></small> ① （借）根据事理推断。<sup>\[兴化\]</sup> ② 算命；预测命运。<sup>\[泰兴\]</sup>  
-1. 【[相面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_min.md#相面)】`xian5 min6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup></small> ① 观察人的相貌推测祸福。<sup>\[如东\]</sup>：王二是一个～先生。<sup>\[如东\]</sup> ② （借）根据事理推断<sup>\[兴化\]</sup>：我跟你～，你这碗饭怕吃不长吖。‖也作“相命”。<sup>\[兴化\]</sup>  
+1. 【[相命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mien.md#相命)】`xian5 mien6` <small>/ɕiaŋ5 miɪ̃6/<sup>兴化</sup>, /ɕiɑŋ5 miŋ1/<sup>泰兴</sup></small> ① 算命；预测命运。<sup>\[泰兴\]</sup> ② 借指根据事理推断，笃定知道未来的情况<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：我跟你～，你这碗饭怕吃不长吖。<sup>\[兴化\]</sup>｜我同你相吖命，你今朝要挨打<sup>\[泰兴\]</sup>  
+1. 【[相面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_min.md#相面)】`xian5 min6` 观察人的相貌推测祸福。<sup>\[如东\]</sup>：王二是一个～先生。<sup>\[如东\]</sup>  
 1. 【[相貌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_mo.md#相貌)】`xian5 mo6` <sup>[如东]</sup> 人的容貌。  
 1. 【[相吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga.md#相吖)】`xian5 nga` <small>/ɕiaŋ5 ŋəʔ/<sup>兴化</sup></small> ① 看着，相当于明明是，后面接转折意<sup>\[东台\]</sup>：这许～干净，他却嫌脏。<sup>\[东台\]</sup> ② 明明的<sup>\[兴化\]</sup>：这个钱～是他拿啊去的，现在不承认，想赖哪个？<sup>\[兴化\]</sup>  
 1. 【[相吖脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_nga_jiah_dii.md#相吖脚的)】`xian5 nga jiah7 dii` <sup>[东台]</sup> 提醒走路时脚下小心。  
@@ -1295,7 +1295,7 @@
 1. 【[现成媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_chen_mei_ren.md#现成媒人)】`xin6 chen2 mei2 ren` <sup>[兴化]</sup> 男女双方婚约已定，应聘参与各种礼仪活动的媒人。  
 1. 【[现搭现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_daeh_xin.md#现搭现)】`xin6 daeh7 xin6` <sup>[如东]</sup> 在交易时，货款当场兑现：今朝买鱼要～。  
 1. 【[现沰现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_dah_xin.md#现沰现)】`xin6 dah7 xin6` <sup>[泰县]</sup> 立即兑现。泰县方言志写“鲜耷鲜”。  
-1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> ① 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup> ② 多用于贵备女人爱打扮<sup>\[泰兴\]</sup>  
+1. 【[现贩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#现贩)】`xin6 faen5` <small>/ɕĩ1 fɛ̃5/<sup>泰兴</sup></small> 骂人语。谓过于炫耀自己的才能、衣着等。<sup>\[泰兴\]</sup>  
 1. 【[现刮现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_guaeh_xin.md#现刮现)】`xin6 guaeh7 xin6` <small>/ɕiɪ̃6 kuæʔ7 ɕiɪ̃6/<sup>兴化</sup></small> ① 就是当场兑现，不欠账<sup>\[东台\]</sup>：他收到货，立即给钱，～！<sup>\[东台\]</sup> ② 赌现钱，不共赌账。<sup>\[兴化\]</sup> ③ （借）现金交易，不赊欠<sup>\[兴化\]</sup>：我俫～，概不悬欠。也说“现沰现”。<sup>\[兴化\]</sup> ④ 按照约定，钱货两清，当场兑现，不赊不欠<sup>\[泰州\]</sup>：现场促销，买二赠一，～。<sup>\[泰州\]</sup>｜晚上打牌来钱，输掉当场就把钱，～，没得钱的不要来。<sup>\[泰州\]</sup>  
 1. 【[现搳现](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huaeh_xin.md#现搳现)】`xin6 huaeh7 xin6` <small>/ɕĩ1 xueʔ7 ɕĩ1/<sup>如皋</sup>, /ɕĩ1 xuæʔ7 ɕĩ1/<sup>泰兴</sup></small> ① 兑现，不欠账。<sup>\[如皋\]</sup> ② 谓当场兑现，不欠账；现金交易。<sup>\[泰兴\]</sup>  
 1. 【[现魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huen.md#现魂)】`xin6 huen2` <small>/ɕĩ1 xuəŋ2/<sup>如皋</sup>, /ɕĩ1 xuəŋ2/<sup>泰兴</sup></small> ① 责备稍一显现就消失了<sup>\[如皋\]</sup>：来就来过几天，不要来～！<sup>\[如皋\]</sup> ② 现眼；丢人。<sup>\[泰兴\]</sup>  

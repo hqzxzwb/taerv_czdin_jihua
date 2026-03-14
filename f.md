@@ -931,6 +931,7 @@
 1. 【[麸皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_pi.md#麸皮)】`fv1 pi2` <small>/fʋ1 pʰʝ2/<sup>泰兴</sup></small> 小麦磨成面筛过后剩下的麦皮和碎屑。<sup>\[泰兴\]</sup>  
 1. 【[麸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zz.md#麸子)】`fv1 zz` ① 通常指小麦磨面筛过后剩下的麦皮和碎屑。<sup>\[如东\]</sup> ② 通常指小麦磨成面，筛过后剩下的麦皮和碎屑，也称麸皮。<sup>\[东台\]</sup>  
 1. 【[㾰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv.md#㾰)】`fv2` <sup>[如皋]</sup> 儿语，指疼。另音hu2。  
+1. 【[扶重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_chon.md#扶重)】`fv2 chon6` <sup>[东台]</sup> 专门帮助人家收敛尸体，并负责将棺柩抬往墓地安葬的人。亦称“脚班子”。现发展为丧事一条龙服务。《东台方言词典》记音fv2 zon1，实际调查得fv2 con1。对照“围重”。  
 1. 【[扶犁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_li.md#扶犁)】`fv2 li2` <sup>[如东]</sup> 操纵犁梢耕田。  
 1. 【[扶娘巧气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_nian_qio_qi.md#扶娘巧气)】`fv2 nian2 qio3 qi5` <sup>[泰县]</sup> 矫滴滴：这伢儿～的，你要好好教育下子。  
 1. 【[扶墙倒壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_qian_do_bieh.md#扶墙倒壁)】`fv2 qian2 do3 bieh7` <sup>[如东]</sup> 因为体弱无力，扶着墙壁行走的样子。  
@@ -943,7 +944,6 @@
 1. 【[扶手<sub>儿</sub>不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_sheu_r_beh.md#扶手<sub>儿</sub>不动)】`fv2 sheu3 r beh7 ton6` <small>/fu2 sei˞3 pəʔ7 tʰɔŋ1/<sup>如皋</sup></small> 手相扶着，什么事也不做。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：一天到晚～。<sup>\[如东\]</sup>  
 1. 【[扶梯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_ti.md#扶梯)】`fv2 ti1` <small>/fu2 tʰəi1/<sup>兴化</sup></small> ① 梯子，多指带扶手的楼梯。<sup>\[兴化\]</sup> ② 有护栏、扶手的楼梯。<sup>\[泰州\]</sup>  
 1. 【[扶相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_xian.md#扶相)】`fv2 xian5` <sup>[如皋]</sup> ① 奉承、讨好。 ② 敷衍搪塞。 ③ 带贬义的支持。  
-1. 【[扶终](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhon.md#扶终)】`fv2 zhon1` <sup>[东台]</sup> 专门帮助人家收敛尸体，并负责将棺柩抬往墓地安葬的人。亦称“脚班子”。现发展为丧事一条龙服务。  
 1. 【[浮啊耷痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_dah_chr.md#浮啊耷痴)】`fv2 a dah7 chr1` <sup>[东台]</sup> 不用心了解实情掌握知识，糊里糊涂的样子。  
 1. 【[浮啊马二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_ma_er.md#浮啊马二)】`fv2 a ma3 er6` <sup>[东台]</sup> 形容心态浮躁，作风飘浮，干什么事都马虎，满不在乎，意为浮大老爷和马大哈的弟弟：这事要踏踏实实，不能～。  
 1. 【[浮啊通吖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_a_ton_nga.md#浮啊通吖天)】`fv2 a ton1 nga tin1` <sup>[东台]</sup> 形容作风飘浮到极点。  

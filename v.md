@@ -898,6 +898,7 @@
 1. 【[危急](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_jieh.md#危急)】`vei2 jieh7` <sup>[东台]</sup> 危险、紧急。  
 1. 【[唯最](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_zuei.md#唯最)】`vei2 zuei` 唯有这点最是重要<sup>\[泰州\]</sup>：他家提的所有条件都可以商量，～孙子跟他家姓这一条提都不要提。<sup>\[泰州\]</sup>  
 1. 【[回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei.md#回)】`vei2` <sup>[兴化]</sup> ① 寻购：这种药医院、药房全没得，只好上人家去～。 ② 匀：“主人家……你便自家吃的肉食，也～些与我吃了……”（《水浒传》三二） ③ （引）花大价钱买。谚曰：饭店里～葱。  
+1. 【[围重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_chon.md#围重)】`vei2 chon6` <small>/ʋəɪ2 t͡sʰɔŋ1/<sup>泰兴</sup></small> 丧礼中收殓遗体、抬灵柩的工作<sup>\[泰兴\]</sup>  
 1. 【[围兜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_deu_r.md#围兜<sub>儿</sub>)】`vei2 deu1 r` <sup>[如东]</sup> 围在肚脐上的一块方布，以红色为多，常绣各种花纹。起保暖作用。  
 1. 【[围加](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围加)】`vei2 ga1` <sup>[泰县]</sup> 兜儿。  
 1. 【[围袈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vei_ga.md#围袈)】`vei2 ga1` <sup>[东台]</sup> 理发师或厨师用的罩在衣服上的布。  

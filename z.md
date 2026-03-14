@@ -1190,7 +1190,7 @@
 1. 【[筑仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_cheu.md#筑仇)】`zhoh7 cheu2` <small>/t͡sɔʔ7 t͡sʰei2/<sup>如皋</sup></small> ① 结成仇恨<sup>\[如皋\]</sup>：你不能得罪他，他要同你～！<sup>\[如皋\]</sup> ② 制造仇恨。<sup>\[如东\]</sup>：不能～。<sup>\[如东\]</sup> ③ 记仇。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
 1. 【[篫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#篫)】`zhoh7` <small>/t͡sɔʔ7/<sup>兴化</sup></small> 以手在物体表面划弄，梳理。《集韵·屋韵》张六切“～，以手～物”。<sup>\[兴化\]</sup>：他用手指～头发。<sup>\[兴化\]</sup>｜用手把皮毛、絮棉～～。<sup>\[兴化\]</sup>  
 1. 【[篫里篫气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lii_zhoh_qi.md#篫里篫气)】`zhoh7 lii zhoh7 qi5` <sup>[东台]</sup> 说话的口吻不和顺。  
-1. 【[粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#粥)】`zhoh7` <sup>[如东]</sup> 用粮食煮成半流汁，多在早餐食用。  
+1. 【[粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh.md#粥)】`zhoh7` <small>/t͡sɔʔ7/<sup>泰兴</sup></small> ① 粥 ② 常指本地常见的𪎉子粥，如指“米粥”则需额外交代<sup>\[泰兴\]</sup>  
 1. 【[粥巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_ba_zz.md#粥巴子)】`zhoh7 ba1 zz` <small>/t͡sɔʔ7 pa1 t͡sɿ/<sup>如皋</sup></small> ① 粥汁干后的残迹，锅、碗、衣服上常见。<sup>\[如皋\]</sup> ② 粘在锅上的粥液干结物。<sup>\[如东\]</sup>  
 1. 【[粥墩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_den_zz.md#粥墩子)】`zhoh7 den1 zz` <sup>[如东]</sup> 粥里比较浓厚的部分：捞～。  
 1. 【[粥浮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_fv_zz.md#粥浮子)】`zhoh7 fv2 zz` <sup>[如东]</sup> 浮在粥上面的一层薄膜，叫做粥浮子。  
