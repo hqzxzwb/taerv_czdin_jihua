@@ -1110,7 +1110,7 @@
 1. 【[侄媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_xieh.md#侄媳)】`chih8 xieh7` <sup>[如东]</sup> 同胞兄弟儿子的媳妇称侄媳，嫡亲兄弟儿子的媳妇，称嫡亲侄媳妇。叔伯兄弟儿子的媳妇，称叔伯侄媳妇。“侄”念避讳音。  
 1. 【[侄新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_xien_fv.md#侄新妇)】`chih8 xien fv` <small>/t͡ɕʰiʔ8 ɕiŋ fʋ/<sup>泰兴</sup></small> 侄子的妻子。<sup>\[泰兴\]</sup>  
 1. 【[侄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_zz.md#侄子)】`chih8 zz` <small>/t͡ɕʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 兄弟的儿子<sup>\[泰兴\]</sup>\[如东：也称侄儿。嫡亲兄弟的儿子称嫡亲侄子。叔伯兄弟的儿子，称叔伯侄子。\]  
-1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#缠)】`chih8` <small>/t͡sʰiʔ8/<sup>如皋</sup>, /t͡ɕʰiɪʔ8/<sup>泰县</sup></small> ① 促化音。纠缠<sup>\[如皋\]</sup>：～事、打啊～起来呀。<sup>\[如皋\]</sup> ② 纠缠在一起，“缠”促化：这两个人～咖一起。<sup>\[泰县\]</sup> ③ 促化音。骚扰，纠缠<sup>\[泰州\]</sup>：这两年我就～她～的咖够煞咖。<sup>\[泰州\]</sup>  
+1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#缠)】`chih8` <small>/t͡sʰiʔ8/<sup>如皋</sup>, /t͡ɕʰiɪʔ8/<sup>泰县</sup></small> 促化音。纠缠<sup>\[如皋\]</sup><sup>\[泰县\]</sup>\[泰州：骚扰，纠缠\]：～事、打啊～起来呀。<sup>\[如皋\]</sup>｜这两个人～咖一起。<sup>\[泰县\]</sup>｜这两年我就～她～的咖够煞咖。<sup>\[泰州\]</sup>  
 1. 【[缠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_ren.md#缠人)】`chih8 ren2` 促化音。因被纠缠而感到厌烦<sup>\[泰州\]</sup>：小区的这些杂事不晓得多～唻。<sup>\[泰州\]</sup>  
 1. 【[缠事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_shr.md#缠事)】`chih8 shr6` <small>/t͡ɕʰiɪʔ8 sɿ1/<sup>泰县</sup></small> 闹事，纠缠不罢休，“缠”促化<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：你不要～，过刻儿再说。<sup>\[泰县\]</sup>｜主任这两天忙，你不要去～。<sup>\[泰州\]</sup>  
 1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin2` <sup>[兴化]</sup> 应付：这个人难～，好说丑说都不行。  

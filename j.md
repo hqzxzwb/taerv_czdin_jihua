@@ -1481,7 +1481,7 @@
 1. 【[蛟水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_shuei.md#蛟水)】`jio1 shuei3` <sup>[如皋]</sup> 长江发的大水。旧传常能见蛟，而以为即蛟所为。  
 1. 【[谯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#谯)】`jio1` <sup>[泰州]</sup> 讥讽：你心里没得数啊，人家～你都不晓得。  
 1. 【[谯话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hua.md#谯话)】`jio1 hua6` <sup>[泰州]</sup> 含有挖苦意味的话：他同你说的是～，你不曾听得出来？人家心情方方不好，你还在旁边说～，真没得意思。  
-1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup>, /t͡ɕiɔ3/<sup>如皋</sup></small> ① 缝合<sup>\[如皋\]</sup> ② 把手工织物的各部分连缀起来。<sup>\[东台\]</sup> ③ 用大针脚缝<sup>\[兴化\]</sup>：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup> ④ 缝<sup>\[泰州\]</sup>：你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
+1. 【[敽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#敽)】`jio3` <small>/t͡ɕiɔ3/<sup>兴化</sup>, /t͡ɕiɔ3/<sup>如皋</sup></small> 缝合<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[东台：把手工织物的各部分连缀起来。\]\[兴化：用大针脚缝\]：这个小伙把衣服脱下，姑娘接过来，随手拿了根针……就这么三针两针～好了。（扬一《扬州劫法场》）<sup>\[兴化\]</sup>｜你帮他把衣裳～两针就是唻。<sup>\[泰州\]</sup>  
 1. 【[敽赖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lae_zz.md#敽赖子)】`jio3 lae6 zz` <sup>[泰州]</sup> 接受工作任务是以他人为借口推辞工作，或者要挟他人也要承担同样的工作任务：就这点儿事情，你做掉就是，不要再～唻。｜这小伙多吃点儿苦都不行，叫他做到事就～。  
 1. 【[狡辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz.md#狡辞)】`jio3 cz2` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡辞重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz_chon.md#狡辞重)】`jio3 cz2 chon6` <sup>[如皋]</sup> 会说狡辩话且歪理多。  

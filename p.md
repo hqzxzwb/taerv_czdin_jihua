@@ -732,6 +732,7 @@
 1. 【[飘逸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_ieh.md#飘逸)】`pio1 ieh` <sup>[东台]</sup> ① 举止潇洒，动作轻快：他身材苗条，走起路来蛮～的。 ② 神态超凡脱俗：这尊塑像情致～，栩栩如生。  
 1. 【[飘檐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_in.md#飘檐)】`pio1 in2` <sup>[如东]</sup> 建筑材料，泥制，似瓦，头部翘起，呈弧形，覆盖在瓦棱下端上部，起镇压作用。  
 1. 【[飘撇撇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_pih_pih_r.md#飘撇撇<sub>儿</sub>)】`pio1 pih7 pih7 r` <sup>[如皋]</sup> 游戏。将瓦片近水平旋转抛出，在水面不断跳动前进，激起一串涟漪。  
+1. 【[飘飘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_pio_r.md#飘飘<sub>儿</sub>)】`pio1 pio1 r` <small>/pʰiɔ1 pʰiɔ˞1/<sup>如皋</sup>, /pʰiɔ1 pʰiɔ˞1/<sup>泰兴</sup></small> 做事不稳重的人<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
 1. 【[飘球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_qieu.md#飘球)】`pio1 qieu2` <sup>[如皋]</sup> 打乒乓球、排球的一种技法，飘忽前进。  
 1. 【[飘扇骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_shin_gueh.md#飘扇骨)】`pio1 shin gueh7` <sup>[泰兴]</sup> 肩胛骨。或与肩胛骨一起售卖的猪肉。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#□)】`pio2` <sup>[泰县]</sup> 牙齿外露：牙齿～啊外头。  
