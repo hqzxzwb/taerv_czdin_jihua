@@ -819,6 +819,7 @@
 1. 【[精高啊有劲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_a_ieu.md#精高啊有劲的)】`jien1 go1 a ieu3 jien5 dii` <sup>[东台]</sup> 兴致很高，劲头十足的样子。  
 1. 【[精高有劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_ieu_jien.md#精高有劲)】`jien1 go1 ieu3 jien5` <sup>[泰州]</sup> 做自己有兴趣的事非常起劲的样子：他俫几个人打牌打得～的，哪块有心肠陪你上街买东西。｜老吴家大小伙后朝结婚，老两口儿这两天忙得～的。  
 1. 【[精高劲的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_go_jien_dii.md#精高劲的)】`jien1 go1 jien5 dii` <small>/t͡ɕiəŋ1 kɔ1 t͡ɕiəŋ5 tei/<sup>如皋</sup>, /t͡ɕiŋ1 kɔ1 t͡ɕiŋ5 təɪ/<sup>泰兴</sup></small> 精神饱满、兴致正浓、兴趣十足<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他一直～<sup>\[如皋\]</sup>｜他听得～<sup>\[如皋\]</sup>  
+1. 【[精𠞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_gon.md#精𠞖)】`jien1 gon1` <small>/t͡ɕiŋ1 kɔŋ1/<sup>泰兴</sup></small> 精明，心机多，善于算计<sup>\[泰兴\]</sup>  
 1. 【[精光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_guan.md#精光)】`jien1 guan1` <sup>[东台]</sup> 一点也不剩。也叫“精大光”：他把袋儿里的钱输得～。  
 1. 【[精胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_hv_zz.md#精胡子)】`jien1 hv2 zz` <sup>[兴化]</sup> （戏）“京胡子”的谐音，指平时神经兮兮，但从来不吃亏的人：他是个～，没得错账算！  
 1. 【[精样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ian.md#精样)】`jien1 ian6` <sup>[如皋]</sup> 精巧细緻。  
@@ -836,13 +837,10 @@
 1. 【[精神力气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_lieh_qi.md#精神力气)】`jien1 shen lieh8 qi` <small>/t͡ɕin1 sən liɪʔ8 t͡ɕʰi/<sup>兴化</sup>, /t͡ɕiŋ1 səŋ liʔ8 t͡ɕʰʝ/<sup>泰兴</sup></small> ① 精力和兴致<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：我才没得～管你俫闲事唻。<sup>\[兴化\]</sup> ② 泛指人的精力体力<sup>\[泰州\]</sup>：我这一刻儿没得～同你说，等你家老子家来再同你算账！<sup>\[泰州\]</sup>  
 1. 【[精神头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_teu_zz.md#精神头子)】`jien1 shen teu2 zz` <sup>[东台]</sup> 表现出来的活力和劲头：～上来啊。  
 1. 【[精神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen.md#精神)】`jien1 shen2` <sup>[如东]</sup> ① 人的活力：～好。 ② 人的意识、思维活动和心理状态：～面貌。 ③ 宗旨，主要意义：贯彻大会～。  
-1. 【[精算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sun.md#精算)】`jien1 sun` <sup>[东台]</sup> 见“精钻”。  
 1. 【[精算鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sun_guei.md#精算鬼)】`jien1 sun guei3` <sup>[东台]</sup> 戏称精明、不肯吃亏的人。  
 1. 【[精豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teu_r.md#精豆<sub>儿</sub>)】`jien1 teu6 r` <sup>[兴化]</sup> （戏）心眼多，精于计算的人：他是个～，跌个跟头还要抓把泥唻！  
 1. 【[精心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_xien.md#精心)】`jien1 xien1` <sup>[如东]</sup> 仔细，认真：做事要～。  
 1. 【[精装书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhuan_shv.md#精装书)】`jien1 zhuan1 shv1` <sup>[如东]</sup> 书籍的精美装订！一般指封面和书脊上的包布、烫金等（区别于平装书）。  
-1. 【[精钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zun.md#精钻)】`jien1 zun1, jien1 sun` <sup>[东台]</sup> 聪明；机灵；善于钻研、算计，故又称“精算”：他很～。  
-1. 【[精钻看一眼，呆子相到晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zun_kun_ieh.md#精钻看一眼，呆子相到晚)】`jien1 zun1 kun5 ieh7 ngaen3 dae1 zz xian5 do5 vaen3` <sup>[东台]</sup> 聪明人悟性好，不必卖呆。  
 1. 【[经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien.md#经)】`jien1` <sup>[如皋]</sup> 耐，承受。另见“见 jin5”：～用，～吃，～打。  
 1. 【[经不起来去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_beh_qi_lae.md#经不起来去)】`jien1 beh7 qi3 lae2 qy5` <sup>[如皋]</sup> 禁受不起一点波折、变化、打击。  
 1. 【[经长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_chan.md#经长)】`jien1 chan2` <sup>[如皋]</sup> 耐久：酒花不～，表示酒的度数低。  
@@ -1280,9 +1278,8 @@
 1. 【[尖声怪气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_guae_qi.md#尖声怪气)】`jin1 shen1 guae5 qi5` <sup>[如东]</sup> 尖着嗓子怪叫：这个婆娘～的叫甚的？  
 1. 【[尖声挖气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_vaeh_qi.md#尖声挖气)】`jin1 shen1 vaeh7 qi5` <sup>[泰县]</sup> 尖着嗓子叫：你～的召甚的？  
 1. 【[尖声嗀气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_shen_vah_qi.md#尖声嗀气)】`jin1 shen1 vah7 qi5` <sup>[泰州]</sup> 说话声音尖锐刺耳带有怒气，多指女性或者声音类似女性的男人：老远的就听吖她～的，不晓得是为的甚的事。｜在主任门口说话～的男的，是哪块的人吖？  
-1. 【[尖算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sun.md#尖算)】`jin1 sun` <sup>[泰县]</sup> 聪明。  
+1. 【[尖算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sun.md#尖算)】`jin1 sun` <small>/t͡ɕiɪ̃1 sõ/<sup>泰县</sup></small> 聪明伶俐<sup>\[泰县\]</sup>\[东台：同“jin1 zun”\]\[泰州：泰州词典作尖酸，词源“尖䂎”\]：他家这小伙着实～，望见爹爹拿香烟，他就把洋火拿过来啊唻。<sup>\[泰州\]</sup>｜这个伢儿长得～，取的他家两口子的长处。<sup>\[泰州\]</sup>  
 1. 【[尖算宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sun_bo_r.md#尖算宝<sub>儿</sub>)】`jin1 sun bo3 r` <sup>[泰县]</sup> ① 聪明过分的入。 ② 见风使舵的人。  
-1. 【[尖算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sun.md#尖算)】`jin1 sun1` <sup>[泰州]</sup> ① （泰州词典作尖酸，词源“尖䂎”，酸为讹音） ② 聪明伶俐：他家这小伙着实～，望见爹爹拿香烟，他就把洋火拿过来啊唻。｜这个伢儿长得～，取的他家两口子的长处。  
 1. 【[尖酸宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_sun_bo_r.md#尖酸宝<sub>儿</sub>)】`jin1 sun1 bo3 r` <sup>[泰州]</sup> 专门想占他人便宜的人：你当吖大家都是呆子，就你个人是～。  
 1. 【[尖头刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_do_r.md#尖头刀<sub>儿</sub>)】`jin1 teu do1 r` 剔骨刀  
 1. 【[尖头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#尖头)】`jin1 teu2` <sup>[兴化]</sup> 爱占便宜的人：他是个～，哪许有好处望哪许拱。  
@@ -1295,8 +1292,9 @@
 1. 【[尖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xien.md#尖心)】`jin1 xien1` <sup>[如皋]</sup> 专心。  
 1. 【[尖嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zuei.md#尖嘴)】`jin1 zuei3` <sup>[兴化]</sup> ① 语言尖刻的人。 ② 爱议论他人长短的人。  
 1. 【[尖嘴钳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zuei_qin_zz.md#尖嘴钳子)】`jin1 zuei3 qin2 zz` <small>/t͡ɕĩ1 t͡suəɪ3 t͡ɕʰĩ2 t͡sɿ/<sup>泰兴</sup></small> 头部尖细的钳子。<sup>\[泰兴\]</sup>  
-1. 【[尖钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun.md#尖钻)】`jin1 zun1` <small>/t͡ɕiɪ̃1 t͡sũ1/<sup>兴化</sup>, /t͡ɕĩ1 t͡sʊ̃1/<sup>如皋</sup></small> ① 用心钻研。<sup>\[如皋\]</sup> ② 把握时机钻营。<sup>\[如皋\]</sup> ③ 形容人聪明、精明，特指小孩聪明、伶俐。<sup>\[兴化\]</sup>  
+1. 【[尖钻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun.md#尖钻)】`jin1 zun1` <small>/t͡ɕiɪ̃1 t͡sũ1/<sup>兴化</sup>, /t͡ɕĩ1 t͡sʊ̃1/<sup>如皋</sup></small> ① 用心钻研。<sup>\[如皋\]</sup> ② 把握时机钻营。<sup>\[如皋\]</sup> ③ 形容人聪明、精明，特指小孩聪明、伶俐。<sup>\[兴化\]</sup> ④ 聪明；机灵；善于钻研、算计\[东台：《东台方言词典》作“精钻”“精算”\]：他很～。<sup>\[东台\]</sup>  
 1. 【[尖钻宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun_bo_r.md#尖钻宝<sub>儿</sub>)】`jin1 zun1 bo3 r` <sup>[兴化]</sup> 聪明而有心机的人：他是～，吃苦的事轮不到他。  
+1. 【[尖钻看一眼，呆子相到晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun_kun_ieh.md#尖钻看一眼，呆子相到晚)】`jin1 zun1 kun5 ieh7 ngaen3 dae1 zz xian5 do5 vaen3` <sup>[东台]</sup> 聪明人悟性好，不必卖呆。  
 1. 【[尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#尖子)】`jin1 zz` <small>/t͡ɕĩ1 t͡sɿ/<sup>如皋</sup>, /t͡ɕĩ1 t͡sɿ/<sup>泰兴</sup></small> 拔尖人物<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他是我俫班级里的～。<sup>\[如皋\]</sup>｜在单位里头，她是个业务～，样样拿得出手。<sup>\[东台\]</sup>｜箇个伢儿从小就是班上的～。<sup>\[泰兴\]</sup>  
 1. 【[尖子生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz_shen.md#尖子生)】`jin1 zz shen1` <sup>[东台]</sup> 冒尖的学生：过分宠爱～，对他俫的成长不利。  
 1. 【[搛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#搛)】`jin1` <small>/t͡ɕiɪ̃1/<sup>兴化</sup></small> ① 用筷子夹 ② 用筷子夹<sup>\[东台\]</sup>：时下宾馆餐厅里专备公筷，便于～菜给客人。<sup>\[东台\]</sup> ③ 用筷子或火剪等夹取物品，《集韵·沾韵》坚嫌切<sup>\[兴化\]</sup>：“～，夹持也”。<sup>\[兴化\]</sup> ④ 用筷子夹起食物<sup>\[泰州\]</sup>：自己～吖吃，不要客气。<sup>\[泰州\]</sup>  
@@ -1489,7 +1487,7 @@
 1. 【[狡辞重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cz_chon.md#狡辞重)】`jio3 cz2 chon6` <sup>[如皋]</sup> 会说狡辩话且歪理多。  
 1. 【[狡戗理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian_li.md#狡戗理)】`jio3 qian li3` <sup>[如皋]</sup> 狡辩的理由。  
 1. 【[狡戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_qian.md#狡戗)】`jio3 qian1` <sup>[如皋]</sup> 狡辩。  
-1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>泰兴</sup></small> 玄学说法，有～、犯～即双方命理犯冲，对一方或双方命运不利。也比喻双方相处不合。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇门亲事他家妈妈不情愿，说的找人算吖的，两个人有～唻<sup>\[泰兴\]</sup>｜如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup>  
+1. 【[绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#绞)】`jio3` <small>/t͡ɕiɔ3/<sup>泰兴</sup></small> 玄学说法，有～、犯～即双方命理犯冲，对一方或双方命运不利。也比喻双方相处不合。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：箇门亲事他家妈妈不情愿，说的找人算吖的，两个人有～唻<sup>\[泰兴\]</sup>｜你同他有～唻哦？遇到就要淘气<sup>\[泰兴\]</sup>｜如果领导班子犯～，工作就搞不好。<sup>\[东台\]</sup>  
 1. 【[绞菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_cae.md#绞菜)】`jio3 cae5` <small>/t͡ɕiɔ3 t͡sʰɛ5/<sup>如皋</sup></small> ① 粗鲁地搛菜，大口地吃菜，不够文雅。<sup>\[如东\]</sup>：不要这样～。<sup>\[如东\]</sup> ② 粗鲁地搛菜、吃菜，不顾别人、不讲礼节。<sup>\[如皋\]</sup>  
 1. 【[绞肠痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_chan_sha.md#绞肠痧)】`jio3 chan2 sha1` <sup>[如东]</sup> 阑尾炎。  
 1. 【[绞关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_guaen.md#绞关)】`jio3 guaen1` <sup>[兴化]</sup> 土制绞盘，利用轮轴原理制成的起重设备：众当差的忙用～另绞一排连环船到曹操的官座对过停泊下来。（《火烧赤壁》七）  
@@ -1507,7 +1505,7 @@
 1. 【[饺<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_r_min.md#饺<sub>儿</sub>面)】`jio3 r min6` <small>/t͡ɕiɔ3 ɚ miɪ̃6/<sup>兴化</sup></small> ① 见“饺面”。<sup>\[兴化\]</sup> ② 面条和水饺一起煮的食物。<sup>\[泰州\]</sup>  
 1. 【[饺<sub>儿</sub>面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_r_min_din.md#饺<sub>儿</sub>面店)】`jio3 r min6 din5` <sup>[如皋]</sup> 专营水煮馄饨和水煮面条的饮食店。  
 1. 【[饺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#饺子)】`jio3 zz` <sup>[如东]</sup> 食品。面粉加工成较厚的圆形皮，将白菜肉泥、芹菜肉泥或荠莱肉泥等馅儿包起来，用手捏成半圆形，这种食品叫做饺子。然后放入开水中煮熟。一般不吃汤。  
-1. 【[𢄺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#𢄺)】`jio3` <sup>[泰兴]</sup> 擦拭：～台子/擦桌子  
+1. 【[𢄺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#𢄺)】`jio3` <small>/t͡ɕiɔ3/<sup>泰兴</sup></small> 擦拭，一般是为了清洁<sup>\[泰兴\]</sup>：～台子/擦桌子<sup>\[泰兴\]</sup>  
 1. 【[𢄺布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_bv.md#𢄺布)】`jio3 bv` <sup>[泰兴]</sup> 抹布  
 1. 【[叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#叫)】`jio5` <small>/t͡ɕiɔ5/<sup>如皋</sup></small> ① 旧俗称人受惊吓则魂魄失落而致病，把魂～回来病就好了<sup>\[如皋\]</sup>：伢儿捱吓咖，你替他～下子。<sup>\[如皋\]</sup> ② 渐裂有声\[如皋：也说“笑”。\]：熟西瓜，你拿刀一点，看吖望下～。<sup>\[如皋\]</sup>  
 1. 【[叫啊明吖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_a_mien_nga.md#叫啊明吖的)】`jio5 a mien2 nga dii` <sup>[如皋]</sup> 见“叫明”。  

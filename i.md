@@ -451,6 +451,7 @@
 1. 【[洋面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min.md#洋面)】`ian2 min6` <small>/iaŋ2 miɪ̃6/<sup>兴化</sup>, /iã2 mĩ1/<sup>如皋</sup>, /iɑŋ2 mĩ1/<sup>泰兴</sup></small> 机制小麦粉，机器加工的干面<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：旧时指机器磨出的面粉，机器从国外引进，故名。\]：～袋子。<sup>\[兴化\]</sup>  
 1. 【[洋面广](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_min_guan.md#洋面广)】`ian2 min6 guan3` <sup>[东台]</sup> 或作“洋文广”。不着边际的乱说。  
 1. 【[洋茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_muh_li.md#洋茉莉)】`ian2 muh8 li` <sup>[如皋]</sup> 香水草。  
+1. 【[洋奶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nae_zz.md#洋奶子)】`ian2 nae3 zz` <small>/iɑŋ2 nɛ3 t͡sɿ/<sup>泰兴</sup></small> 奶嘴<sup>\[泰兴\]</sup>  
 1. 【[洋鸦雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nga_jiah.md#洋鸦雀)】`ian2 nga1 jiah7` <sup>[如东]</sup> 鸦科动物灰喜鹊，也叫山喜鹊、马尾鹊。体长约40厘米。头部黑色，天蓝色的大尾巴。常在住宅旁活动，喜结群穿梭于林间。鸣叫声较为单调。爱吃昆虫，兼食浆果与种子。属益鸟。  
 1. 【[洋牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ngeu_r.md#洋牛<sub>儿</sub>)】`ian2 ngeu2 r` <sup>[如皋]</sup> 西洋牛，即荷兰牛。俗说：召起来像～，即叫声很响、很高。  
 1. 【[洋钮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_nieu_zz.md#洋钮子)】`ian2 nieu3 zz` <sup>[如皋]</sup> 机器制造的饼状钮子。与传统中服的布质纽扣儿、桃儿相对。  

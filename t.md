@@ -1602,7 +1602,7 @@
 1. 【[淘箩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_zz.md#淘箩子)】`to2 lu2 zz` <sup>[兴化]</sup> 用细竹篾编成的淘米的器具，有弧形的把子。  
 1. 【[淘米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi.md#淘米)】`to2 mi3` <sup>[如东]</sup> 将大米放在水中清洗干净。  
 1. 【[淘米水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi_shuei.md#淘米水)】`to2 mi3 shuei3` <sup>[如皋]</sup> 米泔水。  
-1. 【[淘气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi.md#淘气)】`to2 qi5` <small>/tʰɔ2 t͡ɕʰi5/<sup>兴化</sup>, /tʰɔ2 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 吵骂<sup>\[如皋\]</sup>：两个人在～，淘得凶哎。<sup>\[如皋\]</sup> ② 怄气争吵。<sup>\[如东\]</sup> ③ 生闲气、惹气<sup>\[兴化\]</sup>：好了，好了，你们别吵吧，免得带累我们～。（出处不明）<sup>\[兴化\]</sup>  
+1. 【[淘气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi.md#淘气)】`to2 qi5` <small>/tʰɔ2 t͡ɕʰi5/<sup>兴化</sup>, /tʰɔ2 t͡ɕʰʝ5/<sup>如皋</sup>, /tʰɔ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 吵骂，争吵<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>：两个人在～，淘得凶哎。<sup>\[如皋\]</sup> ② 生闲气、惹气<sup>\[兴化\]</sup>：好了，好了，你们别吵吧，免得带累我们～。<sup>\[兴化\]</sup>  
 1. 【[淘气𠵹丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi_gan_san.md#淘气𠵹丧)】`to2 qi5 gan1 san1` <sup>[如皋]</sup> 家庭或邻里间不和，经常争吵。  
 1. 【[淘气星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi_xien.md#淘气星)】`to2 qi5 xien1` <sup>[如皋]</sup> 爱与人争吵、淘气的人。  
 1. 【[淘屎板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_baen_zz.md#淘屎板子)】`to2 shr3 baen3 zz` <sup>[东台]</sup> ［喻］指非常淘气的孩子。  
