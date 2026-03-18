@@ -2790,7 +2790,7 @@
 1. 【[说嗙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pan.md#说嗙)】`shuh7 pan5` <sup>[如东]</sup> 说故事，吹牛皮。  
 1. 【[说屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pi_gu.md#说屁股)】`shuh7 pi5 gu` <sup>[如东]</sup> 背后说人坏话：不要～。  
 1. 【[说病话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pien_hua.md#说病话)】`shuh7 pien6 hua6` <small>/sʊʔ7 pʰiəŋ1 xua1/<sup>如皋</sup>, /sʊʔ7 pʰiŋ1 xuɑ1/<sup>泰兴</sup></small> ① 指编排别人、打笑别人的诙谐话。<sup>\[如皋\]</sup> ② 说一些阴阳怪气的话，打击别人，以此发泄嫉妒的心情。<sup>\[东台\]</sup> ③ 说胡话；说没有意义的话。<sup>\[泰兴\]</sup>  
-1. 【[说骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pin.md#说骗)】`shuh7 pin5` <sup>[兴化]</sup> 用谎言欺骗人：他靠～卖假药。｜（高赞）大骂尤辰无理，做这等欺三瞒四的媒人，～人家女儿。（《醒世恒言》七）》  
+1. 【[说骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pin.md#说骗)】`shuh7 pin5` <sup>[兴化]</sup> 用谎言欺骗人：他靠～卖假药。｜（高赞）大骂尤辰无理，做这等欺三瞒四的媒人，～人家女儿。（《醒世恒言》七）  
 1. 【[说飘飘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_pio_pio_r.md#说飘飘<sub>儿</sub>)】`shuh7 pio1 pio1 r` <sup>[泰县]</sup> 说话不负责任，随便：他经常说～。  
 1. 【[说奅话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_po_hua.md#说奅话)】`shuh7 po5 hua6` <small>/sʊʔ7 pʰɔ5 xuɑ1/<sup>泰兴</sup></small> ① 说大话骗人。也叫“喇奅”。（奅，音炮，大话骗人也。）<sup>\[东台\]</sup> ② 说大话<sup>\[泰兴\]</sup>：吃咖羊卵子～<sup>\[泰兴\]</sup>  
 1. 【[说白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuh_poh.md#说白)】`shuh7 poh8` <sup>[兴化]</sup> 讲故事：晚上乘凉，我～把你听。  
@@ -3018,7 +3018,7 @@
 1. 【[粟米泔汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_mi_gun_zheh.md#粟米泔汁)】`soh7 mi3 gun1 zheh7` <sup>[如东]</sup> 禾本科植物粟米淘洗的泔水。  
 1. 【[粟芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_nga.md#粟芽)】`soh7 nga2` <sup>[如东]</sup> 禾本科植物粟的发芽颖果。  
 1. 【[粟糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_tan.md#粟糖)】`soh7 tan2` <sup>[如东]</sup> 禾本科植物粟的种子经发糖化制成的糖。  
-1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住｜看紧）｜说～跑～（边说边走）。  
+1. 【[……续咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_ga.md#……续咖)】`soh7 ga` <sup>[东台]</sup> 接在动词后面，表示持续进行：相～（看住/看紧）｜说～跑～（边说边走）。  
 1. 【[续弦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_xin.md#续弦)】`soh7 xin2` ① 前妻死后，再取后妻，以生后代，称续弦。<sup>\[如东\]</sup> ② 丧妻再娶。<sup>\[东台\]</sup>  
 1. 【[缩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh.md#缩)】`soh7` <sup>[如皋]</sup> ① 变短、变小。 ② 指移栽时为防水分过量蒸发而剪去部分枝叶。  
 1. 【[缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#缩气)】`soh7 qi5` <sup>[如皋]</sup> 吸气。见“伸缩气”。  

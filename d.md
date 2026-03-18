@@ -53,7 +53,7 @@
 1. 【[打赤脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_jiah.md#打赤脚)】`da3 cheh7 jiah7` <sup>[兴化]</sup> 光着脚：下雨天，他不穿胶鞋就～。  
 1. 【[打直脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheh_jiah.md#打直脚)】`da3 cheh8 jiah7` <sup>[兴化]</sup> 借死人进行敲诈：田老四趁姑妈去世，到老表家～，敲去五千块才歇手。  
 1. 【[打秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chen.md#打秤)】`da3 chen5` <small>/ta3 t͡sʰən5/<sup>兴化</sup></small> 压秤。指物体重量大、有份量。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：山芋～，一篮子三十多斤哎！<sup>\[兴化\]</sup>｜芋头这个东西～，四级芋头只弄吖三个。<sup>\[泰州\]</sup>  
-1. 【[打抽丰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽丰)】`da3 cheu1 fon1` <sup>[泰州]</sup> 本作“打风“，假借各种名义向人索取财务：老李在老街开啊家饭店，几个初中老同学上老李店里去～，大家做块儿吃咖一顿饭。  
+1. 【[打抽丰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽丰)】`da3 cheu1 fon1` <sup>[泰州]</sup> 本作“打风”，假借各种名义向人索取财务：老李在老街开啊家饭店，几个初中老同学上老李店里去～，大家做块儿吃咖一顿饭。  
 1. 【[打抽风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_cheu_fon.md#打抽风)】`da3 cheu1 fon1` <sup>[泰县]</sup> 讹诈人。  
 1. 【[打冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chon_teu.md#打冲头)】`da3 chon5 teu` <sup>[如东]</sup> 用手突然打击对方的额头：当心我～。  
 1. 【[打滞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_chr.md#打滞)】`da3 chr5` <sup>[兴化]</sup> 用某些药物或食品消除积食，促进消化：锅巴茶能～。  
@@ -792,7 +792,7 @@
 1. 【[大人不计小人过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_beh_ji.md#大人不计小人过)】`da6 ren2 beh7 ji5 xio3 ren2 gu5` <small>/tɑ1 ɻəŋ2 pəʔ7 t͡ɕʝ5 ɕiɔ3 ɻəŋ2 kɤɯ5/<sup>泰兴</sup></small> 有修养有身份的人不计较其他人的过错。常用于谦敬，希望对方宽容自己或他人的过错。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[大人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_veh.md#大人物)】`da6 ren2 veh8` <sup>[泰兴]</sup> 指有地位有名望的人。  
 1. 【[大洒洒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sa_sa.md#大洒洒)】`da6 sa3 sa3` <sup>[兴化]</sup> 形容对钱财不计较、不在乎：他是～，对这几文不当回事。  
-1. 【[大散四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_saen_sz_kae.md#大散四开)】`da6 saen5 sz5 kae1` <sup>[兴化]</sup> 形容门户洞开：……女人总有些女人的事情，不能～，什么都展览着呀。（《汪曾祺《皮风山植房子》）  
+1. 【[大散四开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_saen_sz_kae.md#大散四开)】`da6 saen5 sz5 kae1` <sup>[兴化]</sup> 形容门户洞开：……女人总有些女人的事情，不能～，什么都展览着呀。（汪曾祺《皮风山植房子》）  
 1. 【[大蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sha.md#大蛇)】`da6 sha2` <sup>[兴化]</sup> ① （儿童语）蛇。 ② 蟒蛇。 ③ 龙：属～的，今年整六十。  
 1. 【[大山雀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_shaen_jiah.md#大山雀)】`da6 shaen1 jiah7` <sup>[如东]</sup> 鸟。头部羽毛蓝黑色，颊部白色。活动在树林中。食昆虫，对农业有益。  
 1. 【[大实话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_sheh_hua.md#大实话)】`da6 sheh8 hua6` <sup>[泰州]</sup> 坦率而又符合真实情况的话：你讲的虽然是～，不过人家听吖不高兴。  
@@ -903,7 +903,7 @@
 1. 【[呆串吖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_chun_nga_pi.md#呆串吖皮)】`dae1 chun5 nga pi2` <sup>[泰州]</sup> 被人剥皮也不知道，愚蠢到了极点：他对领导有意见自己不提，教你去提，你对领导又没得意见，你同他提甚的意见，你说你哿是～？  
 1. 【[呆呆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_dae_dii.md#呆呆的)】`dae1 dae1 dii` <sup>[如皋]</sup> 经常地：他～去赌钱。  
 1. 【[呆登登](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_den_den.md#呆登登)】`dae1 den1 den1` <sup>[泰县]</sup> 傻乎乎：这小子～的。  
-1. 【[呆等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_den.md#呆等)】`dae1 den3` <small>/tɛ1 tən3/<sup>兴化</sup></small> ① 不采取行动，也无把握地期待有关的人或事物出现<sup>\[兴化\]</sup>：他在里头胡混，让人呆等。「展爷在外～多时，总不见出来，一时性发，又敲又叫。（《侠五义》五三）<sup>\[兴化\]</sup> ② 傻等，坚持等待<sup>\[泰州\]</sup>：他今朝恐怕不得来唻，你就不要再～唻。<sup>\[泰州\]</sup>  
+1. 【[呆等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_den.md#呆等)】`dae1 den3` <small>/tɛ1 tən3/<sup>兴化</sup></small> ① 不采取行动，也无把握地期待有关的人或事物出现<sup>\[兴化\]</sup>：他在里头胡混，让人呆等。展爷在外～多时，总不见出来，一时性发，又敲又叫。（《三侠五义》五三）<sup>\[兴化\]</sup> ② 傻等，坚持等待<sup>\[泰州\]</sup>：他今朝恐怕不得来唻，你就不要再～唻。<sup>\[泰州\]</sup>  
 1. 【[呆儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_er_geu.md#呆儿狗)】`dae1 er2 geu3` <sup>[泰县]</sup> （禁忌语）男性呆子。  
 1. 【[呆根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gen_zz.md#呆根子)】`dae1 gen1 zz` <sup>[兴化]</sup> 时常发作的呆傻：“……你又知道他有个～，平白的哄他做什么？”（《红楼梦》五七）  
 1. 【[呆啯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_goh_zz.md#呆啯子)】`dae1 goh7 zz` <sup>[兴化]</sup> ① （戏）常在别人捉弄之下说傻话、干傻事的人：～，人家拿你开心，你就当真吖！ ② 对小孩的呢称。  
@@ -1229,7 +1229,7 @@
 1. 【[𠹥淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen.md#𠹥淡)】`dah7 taen6` <sup>[泰县]</sup> 搬弄是非。  
 1. 【[𠹥淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua.md#𠹥淡话)】`dah7 taen6 hua6` <sup>[泰州]</sup> 背后随意议论他人是非：听吖～的人说他家拆迁弄吖三套房子。  
 1. 【[𠹥淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua_r.md#𠹥淡话<sub>儿</sub>)】`dah7 taen6 hua6 r` <sup>[如皋]</sup> 闲谈中说是非话。  
-1. 【[𧩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𧩧)】`dah7` <sup>[泰州]</sup> 捏造事实诬陷他人。《泰县方言补·人部》：“无其事而以言栽害之曰～。泰以言诬栽曰～害人：这事不是人家做的，你就不能～人家！  
+1. 【[𧩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𧩧)】`dah7` <sup>[泰州]</sup> 捏造事实诬陷他人。《泰县方言补·人部》：“无其事而以言栽害之曰～。泰以言诬栽曰～害人。”：这事不是人家做的，你就不能～人家！  
 1. 【[𨃚咕𨃚咕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gv_dah_gv.md#𨃚咕𨃚咕的)】`dah7 gv1 dah7 gv1 dii` <sup>[东台]</sup> 形容走路慢、脚头很重。  
 1. 【[𨃚咕𨃚咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gv_dah_gv.md#𨃚咕𨃚咕)】`dah7 gv1 dah7 gv3` <sup>[泰县]</sup> 不利索。  
 1. 【[𨃚脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_jiah_r.md#𨃚脚<sub>儿</sub>)】`dah7 jiah7 r` <sup>[如皋]</sup> 跛足，尥脚儿。  
@@ -1899,7 +1899,7 @@
 1. 【[点电灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_din_den.md#点电灯)】`din3 din5 den1` <sup>[如皋]</sup> 使用电灯，开亮电灯。  
 1. 【[点刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do.md#点刀)】`din3 do1` ① 堤西民间对肉圆的代称。<sup>\[东台\]</sup> ② 将肉糜塞在鱼肚内所结成的肉丸或者肉块。<sup>\[泰州\]</sup>  
 1. 【[点到为知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为知)】`din3 do5 vei2 zhr1` <sup>[兴化]</sup> 只要稍加提示或启发，就明白了对方的意思：谚曰：光棍～。也作“点到为止”。  
-1. 【[点到为止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为止)】`din3 do5 vei2 zhr3` <small>/tĩ3 tɔ5 ʋəɪ2 t͡sɿ3/<sup>泰兴</sup></small> ① ［喻］讲话时稍微点到要害处，就不再往下说<sup>\[东台\]</sup>：你是个聪明人，今吖子～，明朝再细谈。<sup>\[东台\]</sup> ② 说话时只是轻轻触及话题的边缘,而不必深入谈论,但是已经让对方明了意图即可。<sup>\[泰州\]</sup> ③ 只说到这个分寸上，以下的不说。<sup>\[泰兴\]</sup>  
+1. 【[点到为止](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_do_vei_zhr.md#点到为止)】`din3 do5 vei2 zhr3` <small>/tĩ3 tɔ5 ʋəɪ2 t͡sɿ3/<sup>泰兴</sup></small> ① ［喻］讲话时稍微点到要害处，就不再往下说<sup>\[东台\]</sup>：你是个聪明人，今吖子～，明朝再细谈。<sup>\[东台\]</sup> ② 说话时只是轻轻触及话题的边缘，而不必深入谈论，但是已经让对方明了意图即可。<sup>\[泰州\]</sup> ③ 只说到这个分寸上，以下的不说。<sup>\[泰兴\]</sup>  
 1. 【[点粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_fen.md#点粪)】`din3 fen5` <sup>[如皋]</sup> 用料勺向定点处浇适量的粪肥。  
 1. 【[点杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_gun.md#点杆)】`din3 gun1` <sup>[如东]</sup> ① 支撑物体的杆子。 ② 帆船上测量水深的竹竿。  
 1. 【[点红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/din_hon.md#点红)】`din3 hon2` <small>/tĩ3 xɔŋ2/<sup>如皋</sup></small> ① 用刀刺猪、羊等牲畜的心血管使之出血死亡，叫做点红。<sup>\[如东\]</sup> ② 杀猪，用刀刺进猪心脏放血。<sup>\[如皋\]</sup>  
@@ -2338,7 +2338,7 @@
 1. 【[冻疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan.md#冻疮)】`don5 chuan1` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而发生溃烂，称冻疮。  
 1. 【[冻疮子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮子<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如东]</sup> 因为寒冷，皮肤局部组织血液循环障碍而出现红肿，尚未溃烂，称冻疮子儿。  
 1. 【[冻疮籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_chuan_zz_r.md#冻疮籽<sub>儿</sub>)】`don5 chuan1 zz3 r` <sup>[如皋]</sup> 冻伤处有小硬块，尤以身体回暖时痛、痒难受。  
-1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <small>/toŋ5 toŋ5 tiɪ̃1 ɚ/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup>, /toŋ5 toŋ5 tiŋ1 ɚ/<sup>泰县</sup></small> ① 向下挂的冰柱\[如皋：见“冷(凌)凙”。\]：老爹的胡子上挂～；檐头上挂～。<sup>\[如皋\]</sup> ② 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。<sup>\[东台\]</sup> ③ 融雪时屋檐滴水结成的冰凌<sup>\[兴化\]</sup>：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）》<sup>\[兴化\]</sup> ④ 冰锥儿。<sup>\[泰县\]</sup> ⑤ 冬季屋檐下凝结成的冰凌。<sup>\[泰州\]</sup>  
+1. 【[冻冻钉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_dien_r.md#冻冻钉<sub>儿</sub>)】`don5 don5 dien1 r` <small>/toŋ5 toŋ5 tiɪ̃1 ɚ/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 tiə˞1/<sup>如皋</sup>, /toŋ5 toŋ5 tiŋ1 ɚ/<sup>泰县</sup></small> ① 向下挂的冰柱\[如皋：见“冷(凌)凙”。\]：老爹的胡子上挂～；檐头上挂～。<sup>\[如皋\]</sup> ② 冬天雨、雪水沿屋檐下滴凝结成椎状冰柱，也称冰凌。<sup>\[东台\]</sup> ③ 融雪时屋檐滴水结成的冰凌<sup>\[兴化\]</sup>：腊月二十九日，雪后初晴，银光耀眼，屋檐下的～，促使……（兴文《误走盐城》）<sup>\[兴化\]</sup> ④ 冰锥儿。<sup>\[泰县\]</sup> ⑤ 冬季屋檐下凝结成的冰凌。<sup>\[泰州\]</sup>  
 1. 【[冻冻青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_qien.md#冻冻青)】`don5 don5 qien1` <small>/toŋ5 toŋ5 t͡ɕʰin1/<sup>兴化</sup>, /tɔŋ5 tɔŋ5 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 冬青树。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[冻冻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_don_zz.md#冻冻子)】`don5 don5 zz` <sup>[兴化]</sup> 一种黏稠的液体：屙红白～（痢疾）。  
 1. 【[冻耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/don_er.md#冻耳)】`don5 er3` <sup>[如皋]</sup> 熟猪耳冷冻成型，切块装盘冷食。  

@@ -52,7 +52,7 @@
 1. 【[瘕爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_dia.md#瘕爹)】`ha2 dia1` <sup>[兴化]</sup> 形容人傻乎乎的。  
 1. 【[瘕火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hu.md#瘕火)】`ha2 hu3` <sup>[兴化]</sup> 无名火：老周正在发～，骂人哎！  
 1. 【[瘕货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hu.md#瘕货)】`ha2 hu5` <sup>[兴化]</sup> 形容愚拙的人：这个～，这些丑事哿能够告诵人嗷？  
-1. 【[瘕话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hua.md#瘕话)】`ha2 hua6` <sup>[兴化]</sup> 愚蠢可笑的话：他动不动说～，把人弄得莫名其妙。｜「“老儿，莫说～。我们出家人，不走回头路”。（《西游记》二十）  
+1. 【[瘕话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hua.md#瘕话)】`ha2 hua6` <sup>[兴化]</sup> 愚蠢可笑的话：他动不动说～，把人弄得莫名其妙。｜“老儿，莫说～。我们出家人，不走回头路”。（《西游记》二十）  
 1. 【[瘕魔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_mu.md#瘕魔)】`ha2 mu2` <sup>[兴化]</sup> 形容人遇事过于认真：他领一次工资，几百块钱数啊又数，真是～。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` ① 撒尿。<sup>\[如东\]</sup> ② 比喻说不出好话来。<sup>\[如东\]</sup>：他在下～。<sup>\[如东\]</sup> ③ 傻瓜。<sup>\[如东\]</sup> ④ 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。<sup>\[东台\]</sup>  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
@@ -924,7 +924,7 @@
 1. 【[号头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu.md#号头)】`ho6 teu2` <small>/xɔ6 tʰɤ2/<sup>兴化</sup></small> ① 日历<sup>\[如东\]</sup> ② 号码，编号<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他一大早就过来排班唻，来的时候，～已经排到五十几号唻。<sup>\[泰州\]</sup> ③ 日期。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：记住～，按时去报到。<sup>\[兴化\]</sup>｜你怕的是把～弄吖讹错啊唻，我记得开学是8号。<sup>\[泰州\]</sup> ④ 月份<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他一个～五百多块养老金。<sup>\[兴化\]</sup>｜你家舅舅上个～去啊一趟上海。<sup>\[泰州\]</sup>  
 1. 【[号头鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_teu_ngaeh.md#号头鸭)】`ho6 teu2 ngaeh7` <sup>[兴化]</sup> ① 趟鸭中的头鸭。 ② （喻）爱出头露面的人：他是～，热闹场合总少不了他。  
 1. 【[号筒嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_ton_zuei_zz.md#号筒嘴子)】`ho6 ton zuei3 zz` <small>/xɔ1 tʰɔŋ t͡suəɪ3 t͡sɿ/<sup>泰兴</sup></small> 本指宣传工具、喉舌，今多作责人语，谓到处宣扬、传播（消息）。<sup>\[泰兴\]</sup>：她是个～<sup>\[泰兴\]</sup>  
-1. 【[号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz.md#号子)】`ho6 zz` <small>/xɔ1 t͡sɿ/<sup>泰兴</sup></small> 在劳动中使劲时为减轻疲劳而唱的歌。<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>｜筛花生～：天上淮河什么人来开？月中梭椤树什么人来栽？什么人把守三关口？什么人出家一去不回来？/天上淮河老龙王来开，月中梭椤树王母娘娘栽，杨六郎把守三关口，杨五郎一去不回来。”<sup>\[泰兴\]</sup>｜车水～<sup>\[泰兴\]</sup>｜栽秧～<sup>\[泰兴\]</sup>｜打夯～<sup>\[泰兴\]</sup>  
+1. 【[号子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz.md#号子)】`ho6 zz` <small>/xɔ1 t͡sɿ/<sup>泰兴</sup></small> 在劳动中使劲时为减轻疲劳而唱的歌。<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>｜筛花生～：天上淮河什么人来开？月中梭椤树什么人来栽？什么人把守三关口？什么人出家一去不回来？/天上淮河老龙王来开，月中梭椤树王母娘娘栽，杨六郎把守三关口，杨五郎一去不回来。<sup>\[泰兴\]</sup>｜车水～<sup>\[泰兴\]</sup>｜栽秧～<sup>\[泰兴\]</sup>｜打夯～<sup>\[泰兴\]</sup>  
 1. 【[号子里头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_zz_li_teu.md#号子里头的)】`ho6 zz li3 teu dii` <sup>[东台]</sup> 旧称敌伪特务机关，人们所说～即指敌伪时期的特务。  
 1. 【[㖪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#㖪)】`hoh7` <small>/xɔʔ7/<sup>如皋</sup></small> ① （借字，形声） ② 叫喊，鼓动，煽动。<sup>\[如东\]</sup>：他把这件事～起来啊。<sup>\[如东\]</sup> ③ 只图热闹，而不计花费<sup>\[如皋\]</sup>：他俫在这许吃咖，～咖，没几天就把钱总～掉啊。<sup>\[如皋\]</sup>  
 1. 【[㖪住气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_chv_qi.md#㖪住气)】`hoh7 chv qi5` <sup>[泰州]</sup> 大脑思维受阻，本应立即反应出来，却一时未反应过来：不谈唻，当时～唻，捱他多收啊两块钱去。｜真～唻，望吖你是个熟脸，你哿是姓周啊？  
@@ -1649,7 +1649,7 @@
 1. 【[还家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还家)】`huaen2 jia1` <small>/xuɛ̃2 t͡ɕiɑ1/<sup>泰兴</sup></small> 迷信说人死了之后不久灵魂回家看望，死者家属则虔诚祭祀。<sup>\[泰兴\]</sup>  
 1. 【[还价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_jia.md#还价)】`huaen2 jia5` <sup>[东台]</sup> 买方因嫌货价高而说出自己能够接受的价格。  
 1. 【[还口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_keu.md#还口)】`huaen2 keu3` <sup>[东台]</sup> 也叫还嘴，就是回嘴：面对不明真相的群众，执勤人员坚持骂不～，打不还手。  
-1. 【[还门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_men_qien.md#还门亲)】`huaen2 men2 qien1` <sup>[兴化]</sup> 旧时姑表兄妹结亲：宜华却暗打主意，很想做这个～—姑方女儿嫁给舅为媳。（马春阳：《月朗和她的如舅们》）  
+1. 【[还门亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_men_qien.md#还门亲)】`huaen2 men2 qien1` <sup>[兴化]</sup> 旧时姑表兄妹结亲：宜华却暗打主意，很想做这个～——姑方女儿嫁给舅为媳。（马春阳：《月朗和她的如舅们》）  
 1. 【[还娘席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_nian_qieh.md#还娘席)】`huaen2 nian2 qieh8` <sup>[如东]</sup> 姑娘出嫁时，赠送给娘一张草席，象征自己在幼年时期使用的席子，表示对娘的感谢。  
 1. 【[还戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qian.md#还戗)】`huaen2 qian5` <sup>[如东]</sup> 帆船向后转。词典作“还弶”。  
 1. 【[还手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_sheu.md#还手)】`huaen2 sheu3` ① 被人攻击后反过来回击对方<sup>\[东台\]</sup>：打不～。<sup>\[东台\]</sup> ② 被打或受到攻击而起来反击。<sup>\[如东\]</sup>  
@@ -1776,7 +1776,7 @@
 1. 【[黄麻果穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma_gu_qy.md#黄麻果穗)】`huan2 ma2 gu3 qy6` <sup>[如东]</sup> 桑科植物大麻雌株幼嫩果穗，又名麻黄。  
 1. 【[黄蟒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_man.md#黄蟒)】`huan2 man3` <sup>[如东]</sup> 蟒蛇的一种。背部的鳞片呈淡褐色，两侧的鳞片呈淡黄色或黄色。  
 1. 【[黄梅天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mei_tin.md#黄梅天)】`huan2 mei2 tin1` <sup>[如东]</sup> 春末夏初，芒种到夏至间，梅子黄熟的一段时间，我国长江中下游地区连绵阴雨，空气潮湿，衣物等容易长霉，称黄梅天。也称黄梅季。  
-1. 【[黄门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_men.md#黄门)】`huan2 men2` <sup>[泰州]</sup> ① 泰州民间俗称太谷学派，以其三传领袖是泰州人黄葆年而名。太谷学派是产生于清代嘉庆、道光年间的一个民间儒家学派，创始人为安徽石棣人周太谷，其学派既是我国传统儒家学派的终结，又是现代新儒学的开端。二传弟子张积中（北宗领袖）、李光炘（南宗领袖）。同治五年，北宗张积中在“黄崖教案”中遇难，李光炘遗命弟子黄葆年“ ② 承嗣北宗“，1898年到1900年间黄葆年完成南北合宗，1902年黄葆年在苏州创立归群草堂，设帐收徒，聚众讲学，一时徒众多达万余，影响之大为晚晴、民国罕见，成为太谷学派的三传领袖。  
+1. 【[黄门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_men.md#黄门)】`huan2 men2` <sup>[泰州]</sup> 泰州民间俗称太谷学派，以其三传领袖是泰州人黄葆年而名。太谷学派是产生于清代嘉庆、道光年间的一个民间儒家学派，创始人为安徽石棣人周太谷，其学派既是我国传统儒家学派的终结，又是现代新儒学的开端。二传弟子张积中（北宗领袖）、李光炘（南宗领袖）。同治五年，北宗张积中在“黄崖教案”中遇难，李光炘遗命弟子黄葆年“承嗣北宗”，1898年到1900年间黄葆年完成南北合宗，1902年黄葆年在苏州创立归群草堂，设帐收徒，聚众讲学，一时徒众多达万余，影响之大为晚晴、民国罕见，成为太谷学派的三传领袖。  
 1. 【[黄眉柳莺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mi_lieu_ien.md#黄眉柳莺)】`huan2 mi2 lieu3 ien1` <sup>[如东]</sup> 一种小型莺类。体长约9厘米，体色与叶相似，翼上有两道黄斑。生活在杨柳树上或其他树上，跳跃敏捷。常三五成群觅食，以昆虫为主。鸣叫声洪亮。属益鸟。  
 1. 【[黄明胶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_mien_jio.md#黄明胶)】`huan2 mien2 jio1` <sup>[如东]</sup> 牛科动物黄牛皮熬成的胶。  
 1. 【[黄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_min.md#黄面)】`huan2 min6, van2 min6` <small>/xuã2 mĩ1/<sup>如皋</sup></small> 见“大刀面”、“切面”。<sup>\[如皋\]</sup>  
@@ -2013,7 +2013,7 @@
 1. 【[会利](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_li.md#会利)】`huei6 li6` <small>/xuei1 lʝ1/<sup>如皋</sup></small> “请会”中先“得会”者于尔后“打会”时加付的利金，由后“得会”者加收。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qi.md#会期)】`huei6 qi1` <small>/xuei1 t͡ɕʰʝ1/<sup>如皋</sup></small> 每月定期打会的时间以及地点。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[会吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qieh.md#会吃)】`huei6 qieh7` <sup>[如皋]</sup> ① 指婴儿、小动物要吃、吃得多。 ② 指吃得技巧、吃得精巧吃得有“名堂”。懂得使用各种食料，做出各种可口的美味享用。  
-1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <small>/xuəi6 t͡ɕʰin1/<sup>兴化</sup>, /xuei1 t͡ɕʰiəŋ1/<sup>如皋</sup>, /xuəɪ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 婚俗，男女双方亲族聚会认亲\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23:“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[泰兴：民俗。子女婚后双方亲友相聚相会，今后作为亲戚往来，谓之“会亲”。\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
+1. 【[会亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien.md#会亲)】`huei6 qien1` <small>/xuəi6 t͡ɕʰin1/<sup>兴化</sup>, /xuei1 t͡ɕʰiəŋ1/<sup>如皋</sup>, /xuəɪ1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 婚俗，男女双方亲族聚会认亲\[如东：姑娘结婚后第三天，娘家人到婆家去认识亲戚，叫做会亲；第四天，婆家人到娘家去认识亲戚，叫做反会亲。也称双会亲。参加会亲的人，在新娘生小孩时都要送产妇礼。\]\[泰州：旧时传统婚礼喜日婚宴均由男方举办，女方父母、兄弟、姐妹以及相关亲戚都会回避。男方乃在婚后数日设下酒筵，宴请女方父母、兄弟、姐妹以及相关亲戚，双方互相“认亲”，称为会亲。《民国泰县志稿》卷之23：“会亲，婚后数日，女之伯叔兄弟临男宅视女曰看亲。男宅择日请岳家眷属及做朝之亲族，曰会亲。”\]\[泰兴：民俗。子女婚后双方亲友相聚相会，今后作为亲戚往来，谓之“会亲”。\]\[兴化：男女婚姻关系确立后，男方邀集双方主要亲戚聚会认亲\]\[如皋：结婚后，男家邀女家亲族赴宴，与男家亲族互相承认亲戚关系。赴宴者“不空手”须带礼物去，又“回半礼”带回。\]\[东台：结婚时男女双方各自置办宴席，请对方亲友见面。\]：新人上轿，冯老孺人也上轿，送到金家，……次日，杨家哥嫂多来～……（《二刻》九）<sup>\[兴化\]</sup>  
 1. 【[会亲酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qien_jieu.md#会亲酒)】`huei6 qien1 jieu3` <sup>[如东]</sup> 姑娘结婚后，亲戚相聚而举办的酒筵，称会亲酒。  
 1. 【[会钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_qin.md#会钱)】`huei6 qin2` <small>/xuei1 t͡ɕʰĩ2/<sup>如皋</sup></small> ① “请会”时收取的及以后定期“打会”的钱。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② “做会（如青苗会、土地会、龙王会、城隍会）”的份额钱。<sup>\[如皋\]</sup> ③ 结社（如工会、农会）成员交的“会费”。<sup>\[如皋\]</sup>  
 1. 【[会杀猪，还要会翻肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_shaeh_zhv_hae.md#会杀猪，还要会翻肠)】`huei6 shaeh7 zhv1 hae2 io5 huei6 faen1 chan2` <sup>[东台]</sup> 做了某件事就要处理好相关环节，不留后患。  
@@ -2091,7 +2091,7 @@
 1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <sup>[如皋]</sup> 见“混子”。  
 1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
 1. 【[混来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混来)】`huen5 lae2` <sup>[如东]</sup> 蛮干，乱干。  
-1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九》）  
+1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九）  
 1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men5` <small>/xuəŋ5 məŋ5/<sup>如皋</sup>, /xuəŋ5 məŋ5/<sup>泰县</sup></small> ① 受误解、受不公而抑郁。<sup>\[如皋\]</sup> ② 气恼，发闷。<sup>\[如皋\]</sup> ③ 有苦说不出<sup>\[泰县\]</sup>：他心里～，睡啊两天。<sup>\[泰县\]</sup>  
 1. 【[混闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_men.md#混闷)】`huen5 men6` <sup>[如东]</sup> 有苦说不出来：他不吃饭，心里～。  
 1. 【[混穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qion.md#混穷)】`huen5 qion2` <small>/xuən5 t͡ɕʰioŋ2/<sup>兴化</sup></small> 做小买卖或苦力活勉强维持生活。也用作某项职业的谦辞<sup>\[东台\]</sup><sup>\[兴化\]</sup>：我这工作没出息，只是～而已。<sup>\[东台\]</sup>｜我哪里是什么大老板，～罢了。<sup>\[兴化\]</sup>  

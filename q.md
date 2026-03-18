@@ -663,7 +663,7 @@
 1. 【[吃䜺<sub>儿</sub>粥还要图个门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chae_r_zhoh.md#吃䜺<sub>儿</sub>粥还要图个门面)】`qieh7 chae3 r zhoh7 hae2 io5 tv2 gu men2 min6` <sup>[东台]</sup> 事情再小也要办得体面。  
 1. 【[吃剩饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chen_faen_un.md#吃剩饭碗)】`qieh7 chen5 faen6 un3` <sup>[如皋]</sup> 代别人将吃剩的饭吃掉。  
 1. 【[吃秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chen.md#吃秤)】`qieh7 chen5` <sup>[如皋]</sup> 故意少秤，坑害顾客。  
-1. 【[吃冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon.md#吃冲)】`qieh7 chon5` <sup>[泰州]</sup> 麻将术语，别人听牌以后，打出的牌正好是别人所听的牌“他今吖的手局不好，老是～。  
+1. 【[吃冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon.md#吃冲)】`qieh7 chon5` <sup>[泰州]</sup> 麻将术语，别人听牌以后，打出的牌正好是别人所听的牌：他今吖的手局不好，老是～。  
 1. 【[吃冲羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon_gen.md#吃冲羹)】`qieh7 chon5 gen1` <sup>[东台]</sup> ［喻］受到顶撞、责怪。  
 1. 【[吃重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon.md#吃重)】`qieh7 chon6` <small>/t͡ɕʰiəʔ7 t͡sʰɔŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 t͡sʰɔŋ1/<sup>泰兴</sup></small> ① 负担沉重<sup>\[如皋\]</sup>：他这次还债蛮～。<sup>\[如皋\]</sup> ② 能以承重<sup>\[如皋\]</sup>：拖拉机能～，汽车不能～。<sup>\[如皋\]</sup> ③ 秤的称量大。<sup>\[如皋\]</sup> ④ 承担负担较重<sup>\[泰州\]</sup>：你教他出一千块人情，他有点～。<sup>\[泰州\]</sup> ⑤ 承受重压，负担重。<sup>\[泰兴\]</sup>  
 1. 【[吃滞饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chr_faen_un.md#吃滞饭碗)】`qieh7 chr5 faen6 un3` <sup>[如皋]</sup> 见“吃剩饭碗”。  
@@ -1782,7 +1782,7 @@
 1. 【[全福奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_nae_nae.md#全福奶奶)】`qiun2 foh7 nae3 nae` <small>/t͡ɕʰyʊ̃2 fɔʔ7 nɛ3 nɛ/<sup>泰兴</sup></small> 子孙满堂的奶奶辈。乡间多请其“搀新娘子”。<sup>\[泰兴\]</sup>  
 1. 【[全福太太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_tae_tae.md#全福太太)】`qiun2 foh7 tae5 tae` <sup>[泰州]</sup> 指本人夫妇健在且儿孙满堂的老年妇女，最全者为儿子、女儿、孙子、孙女、外孙子、外孙女齐全。简称“福太太”。民俗，新婚夫妇结婚前夕，须请全福太太用红线缝结婚用被、铺房、帮助新娘穿戴、护送新人进入洞房等等，希望能将“福太太”的好运过给新人：你家祖母在世的时候就是这条街上的～，家边邻居管他哪家办喜事，都要请她去缝被单、布置新娘房。  
 1. 【[全福之人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_foh_zhr_ren.md#全福之人)】`qiun2 foh7 zhr1 ren2` <sup>[东台]</sup> 指儿孙满堂、家庭幸福的长者。  
-1. 【[全花色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_hua_seh.md#全花色)】`qiun2 hua1 seh7` <small>/t͡ɕʰyũ2 xua1 səʔ7/<sup>兴化</sup></small> ① 花样齐全<sup>\[兴化\]</sup>：今早上茶馆，十个人花一百块，吃咖个～。<sup>\[兴化\]</sup>｜……却不晓得孙孝继在其泗州老家中，是个赌吃嫖遥～的玩角。（《皮五辣子》一）》<sup>\[兴化\]</sup> ② 种类齐全，多用于形容各种恶习俱全的人<sup>\[泰州\]</sup>：他现在是吃喝嫖赌～，你望吧，早晚有一天要出事。<sup>\[泰州\]</sup>  
+1. 【[全花色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_hua_seh.md#全花色)】`qiun2 hua1 seh7` <small>/t͡ɕʰyũ2 xua1 səʔ7/<sup>兴化</sup></small> ① 花样齐全<sup>\[兴化\]</sup>：今早上茶馆，十个人花一百块，吃咖个～。<sup>\[兴化\]</sup>｜……却不晓得孙孝继在其泗州老家中，是个赌吃嫖遥～的玩角。（《皮五辣子》一）<sup>\[兴化\]</sup> ② 种类齐全，多用于形容各种恶习俱全的人<sup>\[泰州\]</sup>：他现在是吃喝嫖赌～，你望吧，早晚有一天要出事。<sup>\[泰州\]</sup>  
 1. 【[全荤、全素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_huen_qiun_sv.md#全荤、全素)】`qiun2 huen1 qiun2 sv5` <sup>[如皋]</sup> 纸牌、麻将术语。  
 1. 【[全家福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_jia_foh.md#全家福)】`qiun2 jia1 foh7` <sup>[东台]</sup> ① 地方名菜。鸡汤清炖鱼肚、玉兰片，内有鱼圆、肉圆、虾圆，如加海参，则为“戴帽子～”。 ② 全家合影。  
 1. 【[全扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_pa.md#全扒)】`qiun2 pa2` <small>/t͡ɕʰyʊ̃2 pʰa2/<sup>如皋</sup></small> ① 见“肚全”。<sup>\[如皋\]</sup> ② 猪内脏心肺肝肾胃大肠一副。<sup>\[如皋\]</sup> ③ 猪的一副内脏，包括心、肺、肝、肾、胃、肠。<sup>\[如东\]</sup>  

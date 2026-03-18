@@ -256,7 +256,7 @@
 1. 【[细细的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_dii.md#细细的)】`xi5 xi5 dii` <sup>[泰州]</sup> 慢慢地，一点一点地：就这些菜，你～吃，吃掉就没得咖唻。  
 1. 【[细相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xian.md#细相)】`xi5 xian5` <sup>[如皋]</sup> ① 仔细地看。 ② 仔细看到的样子。  
 1. 【[细心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xien.md#细心)】`xi5 xien1` <sup>[如东]</sup> ① 仔细：绣这种花要～。 ② 小心：跟他这种人谈话要～。 ③ 耐心：除草要～。  
-1. 【[细小的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_dii.md#细小的)】`xi5 xio3 dii` <sup>[兴化]</sup> ① 小孩。也说“细的”“细儿儿”。 ② 子女：他又当爹又做娘……两个～领得滑滴滴的。（《中国民间文学集成·兴化市卷本）·“勤俭”二字不可分家》）  
+1. 【[细小的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_dii.md#细小的)】`xi5 xio3 dii` <sup>[兴化]</sup> ① 小孩。也说“细的”“细儿儿”。 ② 子女：他又当爹又做娘……两个～领得滑滴滴的。（《中国民间文学集成·兴化市卷本·“勤俭”二字不可分家》）  
 1. 【[细小侯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_heu.md#细小侯)】`xi5 xio3 heu` <sup>[如东]</sup> ① 小男孩。 ② 家中最小的一个儿子。  
 1. 【[细小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_hu.md#细小伙)】`xi5 xio3 hu` <sup>[兴化]</sup> 年幼的男孩：夫妻俩带着个六七岁的～……沿途乞讨到了南通（兴文《张文板》）。这是哪家的～，玩到这晚不归家？  
 1. 【[细小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xio_hu.md#细小伙)】`xi5 xio3 hu3` <sup>[如东]</sup> 小男孩。  
@@ -1636,7 +1636,7 @@
 1. 【[小气巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_ba.md#小气巴巴)】`xio3 qi5 ba1 ba1` <small>/ɕiɔ3 t͡ɕʰʝ5 pɑ1 pɑ1/<sup>泰兴</sup>, /ɕiɔ3 t͡sʰɿ5 pa1 pa1/<sup>泰县</sup></small> 吝啬，吝啬的样子<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[小气巴拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_la.md#小气巴拉)】`xio3 qi5 ba1 la1` <sup>[如东]</sup> 吝啬：不要～的。  
 1. 【[小气巴剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ba_laeh.md#小气巴剌)】`xio3 qi5 ba1 laeh` <small>/ɕiɔ3 t͡sʰɿ5 pa1 næʔ/<sup>泰县</sup></small> “小气”的生动形式<sup>\[泰县\]</sup><sup>\[东台\]</sup>：小王～的，请我俫看场电影也舍不得。<sup>\[泰县\]</sup>  
-1. 【[小气不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_beh_laeh.md#小气不剌)】`xio3 qi5 beh7 laeh` <sup>[泰州]</sup> ① “小气”的生动形式，胸襟非常狭隘:你大小是个领导，不能～的，为点儿小事就同部下不说话。 ② 出手非常吝啬：外甥子结婚，你这个姨妈不好～的，人情起码要出一千块。  
+1. 【[小气不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_beh_laeh.md#小气不剌)】`xio3 qi5 beh7 laeh` <sup>[泰州]</sup> ① “小气”的生动形式，胸襟非常狭隘：你大小是个领导，不能～的，为点儿小事就同部下不说话。 ② 出手非常吝啬：外甥子结婚，你这个姨妈不好～的，人情起码要出一千块。  
 1. 【[小气鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_guei.md#小气鬼)】`xio3 qi5 guei3` <small>/ɕiɔ3 t͡ɕʰʝ5 kuəɪ3/<sup>泰兴</sup></small> 吝啬的人。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[小气猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_mo_r.md#小气猫<sub>儿</sub>)】`xio3 qi5 mo2 r` <sup>[如东]</sup> 很吝啬的人，多指小孩：小东是个～。  
 1. 【[小气洞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qi_ton_r.md#小气洞<sub>儿</sub>)】`xio3 qi5 ton6 r` <sup>[如东]</sup> 非常吝啬的人。  
@@ -1802,7 +1802,7 @@
 1. 【[屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zz.md#屑子)】`xiuh7 zz` <small>/ɕyuʔ7 t͡sɿ/<sup>兴化</sup>, /ɕyʊʔ7 t͡sɿ/<sup>如皋</sup>, /ɕyʊʔ7 t͡se/<sup>泰县</sup></small> ① 小的不规则碎粒<sup>\[如皋\]</sup>：肉～、馒头～<sup>\[如皋\]</sup> ② 碎末<sup>\[兴化\]</sup>：铁～<sup>\[兴化\]</sup>｜木～<sup>\[兴化\]</sup>｜糖～。<sup>\[兴化\]</sup> ③ 正文以外的插话<sup>\[兴化\]</sup>：你有话干脆说，少玩～。<sup>\[兴化\]</sup> ④ 屑子：芝麻～。<sup>\[泰县\]</sup>  
 1. 【[屑子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_zz_hua.md#屑子话)】`xiuh7 zz hua6` <small>/ɕyʊʔ7 t͡sɿ xua1/<sup>如皋</sup>, /ɕyʊʔ7 t͡se xua1/<sup>泰县</sup></small> ① 开场白。<sup>\[如皋\]</sup> ② 啰嗦话，无关紧要的话。<sup>\[如皋\]</sup> ③ 引申描写细节的话。<sup>\[如皋\]</sup> ④ 无关紧要的话。<sup>\[泰县\]</sup> ⑤ 琐碎而无实际意义的话<sup>\[泰州\]</sup>：开会全是些～，把人听吖打瞌睡。<sup>\[泰州\]</sup>  
 1. 【[薛仁贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_ren_guei.md#薛仁贵)】`xiuh7 ren2 guei5` <sup>[如东]</sup> ① 薛仁贵是唐朝名将，身着白袍白铠。比喻孝子。 ② 比喻白跑：这趟生意是薛仁贵的服装，白袍（白跑）。  
-1. 【[血不归经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_beh_guei_jien.md#血不归经)】`xiuh7 beh7 guei1 jien1` <small>/ɕyʊʔ7 pəʔ7 kuei1 t͡ɕiəŋ1/<sup>如皋</sup>, /ɕyʊʔ7 pəʔ7 kuəɪ1 t͡ɕiŋ1/<sup>泰兴</sup></small> ① ［喻」形容一个人言行违反常规，令人讨厌。<sup>\[东台\]</sup> ② 见“血不归心”。<sup>\[如皋\]</sup> ③ 中医指血液不循经脉运行而溢于外的病理现象。<sup>\[泰州\]</sup> ④ 骂人行为不上正道，詈语<sup>\[泰州\]</sup>：你不好好的找个工作上班，成天在外栋同些痞子在做块儿鬼混，～，你哪天才能有个班上。<sup>\[泰州\]</sup> ⑤ 骂人语，谓不循道理，蛮七蛮八，或损人利己，为非作歹。<sup>\[泰兴\]</sup>：那个家伙从来不做好事，～<sup>\[泰兴\]</sup>  
+1. 【[血不归经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_beh_guei_jien.md#血不归经)】`xiuh7 beh7 guei1 jien1` <small>/ɕyʊʔ7 pəʔ7 kuei1 t͡ɕiəŋ1/<sup>如皋</sup>, /ɕyʊʔ7 pəʔ7 kuəɪ1 t͡ɕiŋ1/<sup>泰兴</sup></small> ① ［喻］形容一个人言行违反常规，令人讨厌。<sup>\[东台\]</sup> ② 见“血不归心”。<sup>\[如皋\]</sup> ③ 中医指血液不循经脉运行而溢于外的病理现象。<sup>\[泰州\]</sup> ④ 骂人行为不上正道，詈语<sup>\[泰州\]</sup>：你不好好的找个工作上班，成天在外栋同些痞子在做块儿鬼混，～，你哪天才能有个班上。<sup>\[泰州\]</sup> ⑤ 骂人语，谓不循道理，蛮七蛮八，或损人利己，为非作歹。<sup>\[泰兴\]</sup>：那个家伙从来不做好事，～<sup>\[泰兴\]</sup>  
 1. 【[血不归心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_beh_guei_xien.md#血不归心)】`xiuh7 beh7 guei1 xien1` <sup>[如皋]</sup> 喻不定神、飞扬浮躁。  
 1. 【[血奔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_ben_xien.md#血奔心)】`xiuh7 ben1 xien1` <sup>[泰州]</sup> 跑得满脸通红的样子：两个好佬早上起啊晏吖，溜得～似的赶到车站，好的好车子还不曾开，才算不曾误事。  
 1. 【[血本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_ben.md#血本)】`xiuh7 ben3` <sup>[如东]</sup> 经商的老本：这趟生意我把～都折掉啊。  
@@ -1884,7 +1884,7 @@
 1. 【[悬空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_gen_teu.md#悬空跟头)】`xiun2 kon1 gen1 teu` <sup>[如皋]</sup> 无支点翻跟头。  
 1. 【[悬空八只脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_kon_baeh_zheh.md#悬空八只脚)】`xiun2 kon5 baeh7 zheh jiah7` <small>/ɕyʊ̃2 kʰɔŋ5 pæʔ7 t͡səʔ t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓悬在空中，四处无靠。喻指没有根基、无依无靠者。<sup>\[泰兴\]</sup>  
 1. 【[悬天奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_tin_po_r.md#悬天奅<sub>儿</sub>)】`xiun2 tin1 po1 r` <sup>[如东]</sup> 比喻说大话说假话的人：王二是一个～。  
-1. 【[悬虚交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_xy_jio_ieh.md#悬虚交易)】`xiun2 xy1 jio1 ieh` <small>/ɕyʊ̃2 ɕy1 t͡ɕiɔ1 iʔ/<sup>泰兴</sup></small> 谓没有把握的事。<sup>\[泰兴\]</sup>：箇些~我不弄<sup>\[泰兴\]</sup>  
+1. 【[悬虚交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_xy_jio_ieh.md#悬虚交易)】`xiun2 xy1 jio1 ieh` <small>/ɕyʊ̃2 ɕy1 t͡ɕiɔ1 iʔ/<sup>泰兴</sup></small> 谓没有把握的事。<sup>\[泰兴\]</sup>：箇些～我不弄<sup>\[泰兴\]</sup>  
 1. 【[旋复花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_foh_hua.md#旋复花)】`xiun2 foh7 hua1` <sup>[如东]</sup> 菊科植物旋复花，多年生草本。有阔叶、线叶两种。阔叶旋复花，高约80厘米。茎具纵棱绿色或微带紫红色。叶互生，椭圆形椭圆状披针形或窄长椭圆形，全缘或具细锯齿，上面绿色，下面淡绿色。线叶旋复花高约60厘米，叶互生，线状披针形或线形，边缘反卷，下面淡绿色，被疏柔毛。头状花序少数或多数，顶生。花黄色。瘦果长椭圆形，冠毛白色。生长在路旁、田边。  
 1. 【[玄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#玄)】`xiun2` <sup>[如皋]</sup> ① 枵薄易坏：这种布～，不牢。 ② 软、皱、松：书捱盘吖～吖｜衣裳捱抟吖～吖｜他养得不壮，肉是～的 ③ 体弱欠神：他病得不轻，至今人还是～的。  
 1. 【[玄乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_hv.md#玄乎)】`xiun2 hv1` <sup>[东台]</sup> 玄虚，不可捉摸：到他张嘴里就越说越～！  

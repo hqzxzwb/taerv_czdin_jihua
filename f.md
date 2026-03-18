@@ -863,7 +863,7 @@
 1. 【[风㷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_sho.md#风㷹)】`fon1 sho5` <sup>[如皋]</sup> 干热风，使水分蒸发很快。  
 1. 【[风㷹天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_sho_tin.md#风㷹天)】`fon1 sho5 tin1` <sup>[如皋]</sup> ① 见“天㷹”。 ② 初夏，西南干热风天气，常因水分蒸发很快，麦子被逼死而减产。  
 1. 【[风水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shuei.md#风水)】`fon1 shuei3` <small>/foŋ1 suəi3/<sup>兴化</sup></small> ① 启动洋风车提水。<sup>\[兴化\]</sup> ② 管理运行中的洋风车<sup>\[兴化\]</sup>：下田～。<sup>\[兴化\]</sup>  
-1. 【[风水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shuei.md#风水)】`fon1 shuei3` <small>/fɔŋ1 suəɪ/<sup>泰兴</sup></small> ① 中国秦汉时期产生的风水学说。<sup>\[如东\]</sup> ② 指宅基地或坟地周围的地理、自然环境。迷信者认为，“风水”的好坏能决定宅主或葬者—家的祸福。风水学是一门学问。<sup>\[泰兴\]</sup>  
+1. 【[风水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shuei.md#风水)】`fon1 shuei3` <small>/fɔŋ1 suəɪ/<sup>泰兴</sup></small> ① 中国秦汉时期产生的风水学说。<sup>\[如东\]</sup> ② 指宅基地或坟地周围的地理、自然环境。迷信者认为，“风水”的好坏能决定宅主或葬者一家的祸福。风水学是一门学问。<sup>\[泰兴\]</sup>  
 1. 【[风水先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_shuei_xin_shen.md#风水先生)】`fon1 shuei3 xin1 shen1` <small>/fɔŋ1 suei3 ɕĩ1 səŋ1/<sup>如皋</sup>, /fɔŋ1 suəɪ3 ɕĩ1 səŋ1/<sup>泰兴</sup></small> 以观察风水为职业的人，堪舆术士。<sup>\[如皋\]</sup>\[如东：也叫阴阳先生。\]\[泰兴：指专为人看住宅基地和坟地等地理形势的人。\]  
 1. 【[风瘙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_so_zz.md#风瘙子)】`fon1 so5 zz` <sup>[如皋]</sup> 风吹引起的过敏性皮疹。  
 1. 【[风俗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fon_soh.md#风俗)】`fon1 soh` <small>/fɔŋ1 sɔʔ/<sup>泰兴</sup></small> 相沿积久而成的风气、习俗。<sup>\[泰兴\]</sup>：对你佼箇许的～，我只略知一二。<sup>\[泰兴\]</sup>  

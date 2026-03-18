@@ -44,7 +44,7 @@
 1. 【[家里人窝里鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_ren_u.md#家里人窝里鸡)】`ga1 lii ren2 u1 lii ji1` <sup>[东台]</sup> ［喻］指都是自家人，或者昵称家乡人，本单位的人。  
 1. 【[家里数老好，外头数不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_shv_lo.md#家里数老好，外头数不到)】`ga1 lii shv3 lo3 ho3 vae6 teu shv3 beh7 do5` <sup>[如皋]</sup> 在家里数一数二，在外边排不上号。  
 1. 【[家里凶，外头𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_lii_xion_vae.md#家里凶，外头𪨊)】`ga1 lii xion1 vae6 teu son2` <sup>[如皋]</sup> 在家里凶强、独大，在外边畏缩，无用。  
-1. 【[家门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_men_keu.md#家门口)】`ga1 men2 keu3` <sup>[兴化]</sup> ① 住所的附近：“这不都是～的人吗？快全叫回去……”（《淮河边上的儿女》一三）》 ② 此概念可扩大到邻庄、邻县、邻省市：在～捱人家欺负，真想不通。  
+1. 【[家门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_men_keu.md#家门口)】`ga1 men2 keu3` <sup>[兴化]</sup> ① 住所的附近：“这不都是～的人吗？快全叫回去……”（《淮河边上的儿女》一三） ② 此概念可扩大到邻庄、邻县、邻省市：在～捱人家欺负，真想不通。  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qi.md#家去)】`ga1 qi` 回家去。  
 1. 【[家前屋后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qin_oh_heu.md#家前屋后)】`ga1 qin2 oh7 heu6` <small>/kɑ1 t͡ɕʰĩ2 ɔʔ7 xəɪ1/<sup>泰兴</sup></small> 房屋的前后。<sup>\[泰兴\]</sup>  
 1. 【[家去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_qy.md#家去)】`ga1 qy` <small>/ka1 t͡ɕʰy/<sup>兴化</sup>, /ka1 t͡ɕʰy/<sup>如皋</sup>, /kɑ1 t͡ɕʰy/<sup>泰兴</sup></small> 从外边回家。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“……我因为前日病了几天，～了……”（《红楼梦》三七）‖家——动趋兼表。<sup>\[兴化\]</sup>｜他十点钟就～啊唻。<sup>\[泰州\]</sup>  
@@ -923,7 +923,7 @@
 1. 【[窖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#窖子)】`go5 zz` <sup>[兴化]</sup> 收藏东西的地洞或坑：地～；粮食～。  
 1. 【[膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#膏)】`go5` <sup>[泰州]</sup> ① 给机器上油使之润滑：这把锁锈啊唻，～点ㄦ油就好开唻。 ② 给油灯注油，使灯芯燃烧发光：汽油灯要～点ㄦ油。  
 1. 【[膏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_cha.md#膏车)】`go5 cha1` <sup>[如东]</sup> 给牛车轴承掭油，使之润滑。  
-1. 【[膏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu.md#膏油)】`go5 ieu2` <small>/kɔ5 yʊ2/<sup>如皋</sup></small> 添油（给油灯添油、给器件添润滑油等等——<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：给脚踏车～<sup>\[东台\]</sup>  
+1. 【[膏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu.md#膏油)】`go5 ieu2` <small>/kɔ5 yʊ2/<sup>如皋</sup></small> 添油（给油灯添油、给器件添润滑油等等）<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：给脚踏车～<sup>\[东台\]</sup>  
 1. 【[膏雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xiuh.md#膏雪)】`go5 xiuh7` <sup>[如皋]</sup> 下大雪。  
 1. 【[觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#觉)】`go5` <small>/kɔ5/<sup>兴化</sup>, /kɔ5/<sup>如皋</sup>, /kɔ5/<sup>泰兴</sup>, /kɔ5/<sup>泰县</sup></small> 一段睡眠：一～到天亮  
 1. 【[觉睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei.md#觉睡)】`go5 shuei` <sup>[如皋]</sup> 睡眠的深度和长度或欲望：年轻人足，能睡。老年人～少，只要睏四个钟头。  

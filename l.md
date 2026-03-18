@@ -138,7 +138,7 @@
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <small>/la3 pa tʰɤ2 t͡sɿ/<sup>兴化</sup>, /na3 pa tʰɤɯ2 t͡se/<sup>泰县</sup></small> ① 扬声器的俗称。<sup>\[兴化\]</sup> ② 广播喇叭。<sup>\[泰县\]</sup>  
 1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#藞挂)】`la3 gua` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[藞䕢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zha.md#藞䕢)】`la3 zha3` <sup>[如皋]</sup> 见“拉瓜”。  
-1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴一般用“jio“：我～｜你～｜他～。  
+1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴一般用“jio”：我～｜你～｜他～。  
 1. 【[唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#唻)】`lae` <sup>[泰州]</sup> ① 助词，相当于“了”。 ② 表示动作行为终结：你就不要讲～，领导心里有数的。｜退啊休，就不要再做～。 ③ 用于句末，表示肯定：事情老早就办好啊唻。  
 1. 【[来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#来)】`lae2` <sup>[泰州]</sup> 特指赌博：小的没得意思，要～就～大的。  
 1. 【[来啊阵仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_a_chen_chan.md#来啊阵仗)】`lae2 a chen6 chan6` <sup>[如皋]</sup> 见“来啊天色”。  
@@ -2035,7 +2035,7 @@
 1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3 zo3` <small>/lɔ3 t͡sɔ3/<sup>如皋</sup></small> ① 从前，很早。<sup>\[如东\]</sup>：这个土墩～就有啊。<sup>\[如东\]</sup> ② 很久以前。不确指<sup>\[如皋\]</sup>：他～死掉啊啦，三年多啊<sup>\[如皋\]</sup>｜他～去上班吖啦，你不要等吖咾。<sup>\[如皋\]</sup>  
 1. 【[老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo.md#老早)】`lo3-2 zo3` <small>/lɔ3 t͡sɔ3/<sup>泰兴</sup></small> 很早；久前<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他今朝早上～就起来啊（一大早）<sup>\[泰州\]</sup>｜下午三点钟才开会，他～就去啊唻。（早于通常、预期、规定的时间）<sup>\[泰州\]</sup>｜你说的这些事他～就晓得咖唻。（距离说话以前几个星期、几个月甚至几年时间）<sup>\[泰州\]</sup>｜他～就上吖上海咾<sup>\[泰兴\]</sup>  
 1. 【[老早八早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_baeh_zo.md#老早八早)】`lo3 zo3 baeh7 zo3` <sup>[泰县]</sup> 很早：他～就到李秋家。  
-1. 【[老早不早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_beh_zo.md#老早不早)】`lo3 zo3 beh7 zo3` <sup>[泰州]</sup> ① 早晨开始之前很早一段时间:在北京的时候，为啊看升国旗，你家这个在家里睡懒觉的竟然也～的就起来啊。丨年纪大的习惯吖唻，天天～的就上泰山公园去锻炼唻。 ② 大大早于通常、预期、规定的时间：晚上七点钟的电影，他～的就去占位子。｜他～就到啊火车站，哪晓得火车晚吖点。 ③ 距离说话以前的好几年时间：厂长～就想把他换掉唻。｜为啊考文工团，他家家里～就同他请吖辅导老师。  
+1. 【[老早不早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_beh_zo.md#老早不早)】`lo3 zo3 beh7 zo3` <sup>[泰州]</sup> ① 早晨开始之前很早一段时间：在北京的时候，为啊看升国旗，你家这个在家里睡懒觉的竟然也～的就起来啊。丨年纪大的习惯吖唻，天天～的就上泰山公园去锻炼唻。 ② 大大早于通常、预期、规定的时间：晚上七点钟的电影，他～的就去占位子。｜他～就到啊火车站，哪晓得火车晚吖点。 ③ 距离说话以前的好几年时间：厂长～就想把他换掉唻。｜为啊考文工团，他家家里～就同他请吖辅导老师。  
 1. 【[老灶泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zo_ni.md#老灶泥)】`lo3 zo5 ni2` <sup>[如皋]</sup> ① 多年的灶泥。 ② 中药名，学名“伏龙肝”煎水服，可止呕。  
 1. 【[老子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zz.md#老子)】`lo3 zz` <small>/lɔ3 t͡sɿ/<sup>如皋</sup>, /lɔ3 t͡sɿ/<sup>泰兴</sup>, /nɔ3 t͡se/<sup>泰县</sup></small> ① 父亲。<sup>\[如东\]</sup> ② 骄傲人的自称。<sup>\[如东\]</sup>：～甚的都不怕。<sup>\[如东\]</sup> ③ 指称父亲。有不敬或亲切色彩。<sup>\[如皋\]</sup> ④ 父亲。<sup>\[泰县\]</sup> ⑤ 父亲的俗称。<sup>\[泰兴\]</sup>  
 1. 【[老滋老味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_zz_lo_vei.md#老滋老味)】`lo3 zz1 lo3 vei6` ① 比喻卖老资格。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 故意摆老资格，拿架子。<sup>\[东台\]</sup>  

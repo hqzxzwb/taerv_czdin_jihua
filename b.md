@@ -242,7 +242,7 @@
 1. 【[八八<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_r_li.md#八八<sub>儿</sub>理)】`baeh7 baeh7 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理，蛮理。八，古义相背。  
 1. 【[八板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baen.md#八板)】`baeh7 baen3` <sup>[如皋]</sup> 状呆板，不知变通：老～。  
 1. 【[八标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bio.md#八标)】`baeh7 bio1` <sup>[如东]</sup> 形容很远很远：他离这许还有～远哎！  
-1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` <small>/pæʔ7 pɔ3 fɛ̃1/<sup>泰兴</sup></small> ① 饭食的一种。各地用料不一样。掘港为:糯米加莲子、红枣、橘饼、桂园、桂花、豆沙、白糖、脂油以及青红丝等原料做成,味香色美。<sup>\[如东\]</sup> ② 一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。<sup>\[泰兴\]</sup>  
+1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` <small>/pæʔ7 pɔ3 fɛ̃1/<sup>泰兴</sup></small> ① 饭食的一种。各地用料不一样。掘港为：糯米加莲子、红枣、橘饼、桂园、桂花、豆沙、白糖、脂油以及青红丝等原料做成，味香色美。<sup>\[如东\]</sup> ② 一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。<sup>\[泰兴\]</sup>  
 1. 【[八百个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_gu.md#八百个)】`baeh7 boh gu5` <sup>[兴化]</sup> 格斗时将拇指和食指岔开，卡对方喉部：弄他一个～。  
 1. 【[八百世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_shr.md#八百世)】`baeh7 boh7 shr5` <sup>[泰兴]</sup> 极言时间很长。  
 1. 【[八百岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_xy.md#八百岁)】`baeh7 boh7 xy5` <sup>[泰州]</sup> 民俗，小儿打喷嚏时，长辈就会拍其后背，同时口呼“八百岁”，意谓小孩打过喷嚏，可以活八百岁。  
@@ -1416,7 +1416,7 @@
 1. 【[宝塔菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_cae.md#宝塔菜)】`bo3 taeh7 cae5` <small>/pɔ3 tʰæʔ7 t͡sʰɛ5/<sup>兴化</sup>, /pɔ3 tʰeʔ7 t͡sʰɛ5/<sup>如皋</sup></small> ① 甘露子即蜗螺儿菜。<sup>\[如皋\]</sup> ② 宝塔菜。<sup>\[如皋\]</sup> ③ 草石蚕，唇形科，多年生草本。<sup>\[兴化\]</sup> ④ 特指用这种植物的块茎腌制的酱菜。也称“螺丝菜”。<sup>\[兴化\]</sup>  
 1. 【[宝塔湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_vaen.md#宝塔湾)】`bo3 taeh7 vaen1` <small>/pɔ3 tʰæʔ7 ʋɛ̃1/<sup>泰兴</sup></small> 地名，位于县城西侧。建有庆云寺，为江北著名风景区。<sup>\[泰兴\]</sup>  
 1. 【[宝塔猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_taeh_zhv.md#宝塔猪)】`bo3 taeh7 zhv1` <sup>[泰县]</sup> 一个圈中行大中小三类猪。  
-1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <small>/pɔ3/<sup>兴化</sup>, /pɔ3/<sup>如皋</sup></small> ① 秤的称量足<sup>\[如皋\]</sup>：称得～～的。<sup>\[如皋\]</sup> ② 起<sup>\[如皋\]</sup>：～起来啊。<sup>\[如皋\]</sup> ③ 胃中气<sup>\[如皋\]</sup>：䬵～。<sup>\[如皋\]</sup> ④ 籽粒饱满。<sup>\[如皋\]</sup> ⑤ 因超过忍受限度而反感<sup>\[兴化\]</sup>：……·他是）出名的花花公子，人称徐大少。说句不好听的话，郑板桥看到这种人就～了。（《郑板桥说·玉盎金盆徒自望》）<sup>\[兴化\]</sup> ⑥ 泛指充分满足<sup>\[泰州\]</sup>：捱他气～啊。<sup>\[泰州\]</sup> ⑦ 豆类植物的荚饱满<sup>\[泰州\]</sup>：才上市的蚕豆儿嫩是嫩，就是不曾长得˜。<sup>\[泰州\]</sup> ⑧ 皮球、轮胎之类物体充气很满<sup>\[泰州\]</sup>：脚踏车的后盘～啊，不能再打气啊。<sup>\[泰州\]</sup>  
+1. 【[饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#饱)】`bo3` <small>/pɔ3/<sup>兴化</sup>, /pɔ3/<sup>如皋</sup></small> ① 秤的称量足<sup>\[如皋\]</sup>：称得～～的。<sup>\[如皋\]</sup> ② 起<sup>\[如皋\]</sup>：～起来啊。<sup>\[如皋\]</sup> ③ 胃中气<sup>\[如皋\]</sup>：䬵～。<sup>\[如皋\]</sup> ④ 籽粒饱满。<sup>\[如皋\]</sup> ⑤ 因超过忍受限度而反感<sup>\[兴化\]</sup>：……（他是）出名的花花公子，人称徐大少。说句不好听的话，郑板桥看到这种人就～了。（《郑板桥说·玉盎金盆徒自望》）<sup>\[兴化\]</sup> ⑥ 泛指充分满足<sup>\[泰州\]</sup>：捱他气～啊。<sup>\[泰州\]</sup> ⑦ 豆类植物的荚饱满<sup>\[泰州\]</sup>：才上市的蚕豆儿嫩是嫩，就是不曾长得˜。<sup>\[泰州\]</sup> ⑧ 皮球、轮胎之类物体充气很满<sup>\[泰州\]</sup>：脚踏车的后盘～啊，不能再打气啊。<sup>\[泰州\]</sup>  
 1. 【[饱啊饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_a_faen.md#饱啊饭)】`bo3 a faen6` <sup>[如皋]</sup> ① 康复到饭量正常了。 ② 见“上吖食”。  
 1. 【[饱啊眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_a_ngaen.md#饱啊眼)】`bo3 a ngaen3` <sup>[如皋]</sup> 满足后的味感：他吃螃蟹吃咖～，再吃就不香。  
 1. 【[饱肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_dv_zz.md#饱肚子)】`bo3 dv3 zz` <sup>[如东]</sup> 吃饭之后，称饱肚子。  
@@ -1565,7 +1565,7 @@
 1. 【[蹦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#蹦)】`bon5` <sup>[如东]</sup> 两脚并拢，向前跳：这条河不宽，我俫～过去。  
 1. 【[蹦瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_gua.md#蹦瓜)】`bon5 gua1` <sup>[兴化]</sup> 香瓜。  
 1. 【[蹦白果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_poh_gu.md#蹦白果)】`bon5 poh8 gu3` <sup>[泰州]</sup> 一种男性儿童游戏，双方以一截麦秆为统一标尺（麦秆具体长度根据双方事先约定，一般15厘米左右），双方通过划拳（石头、剪刀、布或者枪、老虎、人）来决定谁先蹦；先手甲方先将一只白果置于地上，乙方也将一只白果置于地上，两只白果间的距离由双方约定，甲方两脚内侧夹住白果，蹦向乙方白果，双方白果距离小于、等于麦秆长度为胜，对方白果就归己方；对方再置白果于地，甲方再蹦，直至双方白果距离大于麦秆长度之时，改由乙方两脚内侧夹住白果，蹦向甲方白果，规则同前。例如：你家小五子这几天在家门口蹦白果，已经输啊有几十个白果啊唻。  
-1. 【[迸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#迸)】`bon5` <sup>[泰州]</sup> ① 喷射,溅射：黄豆滨掉啊，地下迸得块块是的。 ② 在人不知晓的情况下，突然从某物体中冒出、跳出：你这小伙也不啧声，冒里冒失的从旁边迸出来，把人吓咖一跳！  
+1. 【[迸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon.md#迸)】`bon5` <sup>[泰州]</sup> ① 喷射，溅射：黄豆滨掉啊，地下迸得块块是的。 ② 在人不知晓的情况下，突然从某物体中冒出、跳出：你这小伙也不啧声，冒里冒失的从旁边迸出来，把人吓咖一跳！  
 1. 【[迸脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bon_cuei.md#迸脆)】`bon5 cuei5` <sup>[兴化]</sup> ① 很脆：“这～的是甚么东西？倒好吃……”（《儒林外史》二八） ② 声音清脆：这铃声～的，很好听。字亦作“嘣”。  
 1. 【[波罗盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu_gae_r.md#波罗盖<sub>儿</sub>)】`bu1 lu gae5 r` <sup>[泰县]</sup> 膝盖。  
 1. 【[波罗盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu_gae.md#波罗盖)】`bu1 lu2 gae5` <sup>[兴化]</sup> 膝盖的俗称。  

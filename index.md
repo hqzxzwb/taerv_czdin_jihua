@@ -720,7 +720,7 @@
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qin.md#余钱)】`y2 qin2` 攒钱<sup>\[泰州\]</sup>：老两口儿拼命～，准备同儿子买房子。<sup>\[泰州\]</sup>  
 1. 【[余外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_vae.md#余外)】`y2 vae6` <sup>[兴化]</sup> 除此之外：“上头除掉姑老爷，就是于舅太爷一位，～的人都越不过我的头去。”（《官场现形记》五九）  
-1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）》  
+1. 【[余蓄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_xioh.md#余蓄)】`y2 xioh7` <sup>[兴化]</sup> 积存的钱财：老恒财家手底好，除了放债，做粮行的资金外，还有～……（马春阳《陈大年一家人》）  
 1. 【[围袈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ga_r.md#围袈<sub>儿</sub>)】`y2 ga1 r` <small>/y2 ka˞1/<sup>如皋</sup></small> ① 系在胸前、腰部的护脏布。<sup>\[如皋\]</sup> ② 小孩用的围嘴。<sup>\[如皋\]</sup>  
 1. 【[围腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_io_r.md#围腰<sub>儿</sub>)】`y2 io1 r` <sup>[如皋]</sup> 系在腰部护脏的布兜。  
 1. 【[围裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qyen.md#围裙)】`y2 qyen2` <sup>[如皋]</sup> 围裙。  

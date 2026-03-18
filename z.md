@@ -961,7 +961,7 @@
 1. 【[诌起来嚼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_qi_lae_qiah.md#诌起来嚼)】`zheu1 qi lae qiah8` <sup>[如皋]</sup> 詈语。胡言乱语。嚼，嚼舌头、嚼蛆子。  
 1. 【[㤘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#㤘)】`zheu2` <small>/t͡sɤ2/<sup>兴化</sup></small> ① 执拗，不讲理。<sup>\[东台\]</sup> ② 性情执拗，不听劝说<sup>\[兴化\]</sup>：你有短处在人家手上，哿还能～？<sup>\[兴化\]</sup>  
 1. 【[㤘筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_jien.md#㤘筋)】`zheu2 jien1` <sup>[兴化]</sup> 性情固执，不听劝说的人。  
-1. 【[㤘头六怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_teu_loh_guae.md#㤘头六怪)】`zheu3 teu2 loh8 guae5` <sup>[泰州]</sup> 指不服从或不配合的行为举止：王妈回嘴：“不高兴洗。跟强氏验不验嘴不嘴的。小六子更调皮，教他包糖他包盐，教他打酱油他打醋，㤘头六怪的。（注：㤘头六怪，性格、态度执拗不驯服。”（余又春《皮五辣子》《过年·冤枉官司》）｜这小伙～的，甚的事情都同你唱反调！  
+1. 【[㤘头六怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_teu_loh_guae.md#㤘头六怪)】`zheu3 teu2 loh8 guae5` <sup>[泰州]</sup> 指不服从或不配合的行为举止：王妈回嘴：“不高兴洗。跟强氏验不验嘴不嘴的。小六子更调皮，教他包糖他包盐，教他打酱油他打醋，㤘头六怪的。（注：㤘头六怪，性格、态度执拗不驯服。）”（余又春《皮五辣子》《过年·冤枉官司》）｜这小伙～的，甚的事情都同你唱反调！  
 1. 【[肘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#肘)】`zheu3` <sup>[如皋]</sup> ① 手拐儿。 ② 宰猪后切下的一只从股到脚完整的后腿。  
 1. 【[咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu.md#咒)】`zheu5` <small>/t͡ɕiɤɯ5/<sup>泰兴</sup></small> 诅咒；咒骂<sup>\[泰兴\]</sup>  
 1. 【[咒语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheu_y.md#咒语)】`zheu5 y3` <sup>[东台]</sup> 某些宗教或巫术，自称可以消灾降福的口诀：念～。  
@@ -1198,7 +1198,7 @@
 1. 【[粥膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_mah_zz.md#粥膜子)】`zhoh7 mah8 zz` <small>/t͡sɔʔ7 maʔ8 t͡sɿ/<sup>如皋</sup></small> ① 锅边上、碗边上粥汤乾后形成的膜子。<sup>\[如皋\]</sup> ② 粥冷却后上面凝结成的一层薄膜。也叫“米油”、“粥油”。<sup>\[东台\]</sup>  
 1. 【[粥面子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_min_zz.md#粥面子)】`zhoh7 min6 zz` <sup>[如皋]</sup> 粥的最上层。  
 1. 【[粥汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tan.md#粥汤)】`zhoh7 tan1` <sup>[如东]</sup> 很稀的粥：喝～。  
-1. 【[中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#中)】`zhon1` <small>/t͡sɔŋ1/<sup>泰兴</sup></small> ① 犹言可、行、成<sup>\[泰兴\]</sup>：箇桩事教他去办恐怕不～。<sup>\[泰兴\]</sup> ② 中午、日中的时候。<sup>\[泰兴\]</sup>：日中时辰磨豆腐，中中着（中饭的菜）。”<sup>\[泰兴\]</sup>  
+1. 【[中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon.md#中)】`zhon1` <small>/t͡sɔŋ1/<sup>泰兴</sup></small> ① 犹言可、行、成<sup>\[泰兴\]</sup>：箇桩事教他去办恐怕不～。<sup>\[泰兴\]</sup> ② 中午、日中的时候。<sup>\[泰兴\]</sup>：日中时辰磨豆腐，中中着（中饭的菜）。<sup>\[泰兴\]</sup>  
 1. 【[中班同事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_baen_ton_shr.md#中班同事)】`zhon1 baen1 ton2 shr` <sup>[兴化]</sup> 旧谓刚满师的青年店员：他儿子在布店学生意刚满师，现在当～。  
 1. 【[中半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_bun_shan.md#中半上)】`zhon1 bun shan6` <small>/t͡sɔŋ1 pʊ̃ sã1/<sup>如皋</sup></small> ① 中午。<sup>\[如皋\]</sup> ② 近中午时分。<sup>\[如皋\]</sup>  
 1. 【[中半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhon_bun_tin.md#中半天)】`zhon1 bun tin1` <sup>[兴化]</sup> 中午前后的一段时间。  
@@ -1800,7 +1800,7 @@
 1. 【[珠花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_hua.md#珠花)】`zhv1 hua1` <sup>[东台]</sup> 一种用珠宝精工细琢的发簪。旧时台城女性头饰。  
 1. 【[诸葛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_guh_cae.md#诸葛菜)】`zhv1 guh7 cae5` <sup>[如皋]</sup> 二月蓝。  
 1. 【[诸泡交易诸泡怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨)】`zhv1 po1 jio1 i6 zhv1 po1 iun5` <sup>[东台]</sup> 每个行业都有难处，干久了都会产生疲劳感厌倦感。  
-1. 【[诸泡交易诸泡怨，窑子里婊子怕讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨，窑子里婊子怕讨汉)】`zhv1 po1 jio1 i6 zhv1 po1 iun5 io2 zz lii bio3 zz pa5 to3 hun5` <sup>[东台]</sup> 什么活儿千多了都会产生厌倦情绪。  
+1. 【[诸泡交易诸泡怨，窑子里婊子怕讨汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_po_jio_i.md#诸泡交易诸泡怨，窑子里婊子怕讨汉)】`zhv1 po1 jio1 i6 zhv1 po1 iun5 io2 zz lii bio3 zz pa5 to3 hun5` <sup>[东台]</sup> 什么活儿干多了都会产生厌倦情绪。  
 1. 【[诸亲六眷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_qien_loh_jiun.md#诸亲六眷)】`zhv1 qien1 loh8 jiun5` <small>/t͡su1 t͡ɕʰin1 lɔʔ8 t͡ɕyũ5/<sup>兴化</sup>, /t͡su1 t͡ɕʰiŋ1 lɔʔ8 t͡ɕyʊ̃5/<sup>泰兴</sup></small> 泛指各方面亲戚<sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：所有的亲眷、门房。\]：过了三日，王德、王仁果然到严家来写了几十副贴子，遍请……（《儒林外史》五）<sup>\[兴化\]</sup>｜他家家里～中没得一个人当干部的。<sup>\[泰州\]</sup>  
 1. 【[诸债临门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_zhae_lien_men.md#诸债临门)】`zhv1 zhae5 lien2 men2` <sup>[兴化]</sup> 各方面债权人登门讨债：他为何要卖这个宅子呢？因一，生活不得过了……（《扬州说书选·戴宗巧计请萧止》）  
 1. 【[主家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_ga.md#主家)】`zhv3 ga` <sup>[如皋]</sup> 主方、主人。  
