@@ -1123,6 +1123,7 @@
 1. 【[裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae_zz.md#裤腰带子)】`kv5 io1 dae5 zz` <sup>[如皋]</sup> 系裤子的带子。  
 1. 【[裤漉裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤漉裆)】`kv5 loh dan1` <sup>[东台]</sup> 两条裤腿相连的地方，也指人的阴部。  
 1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <sup>[泰州]</sup> 裤裆。  
+1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> 裤裆<sup>\[泰兴\]</sup>  
 1. 【[裤头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu.md#裤头)】`kv5 teu2` <sup>[东台]</sup> 短裤。也叫裩子。  
 1. 【[裤头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_r.md#裤头<sub>儿</sub>)】`kv5 teu2 r` <small>/kʰu5 tʰei˞2/<sup>如皋</sup></small> ① 内裤。<sup>\[如皋\]</sup> ② 贴身短裤。<sup>\[泰州\]</sup>  
 1. 【[裤头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_zz.md#裤头子)】`kv5 teu2 zz` <sup>[兴化]</sup> 裤权：许褚这一刻忘形了……小褂子也脱了，底下穿一条～……（《火烧赤壁》九）  

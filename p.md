@@ -1146,13 +1146,15 @@
 1. 【[甏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#甏<sub>儿</sub>)】`pon6 r` <sup>[如皋]</sup> 坛儿。  
 1. 【[坡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#坡子)】`pu1 zz` <small>/pʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 斜坡，倾斜的土坡。<sup>\[泰兴\]</sup>  
 1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <sup>[如皋]</sup> 指称丈夫的母亲。  
+1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <small>/pʰɤɯ2/<sup>泰兴</sup></small> 丈夫的母亲。<sup>\[泰兴\]</sup>  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia` <small>/pʰo2 tia1 tia/<sup>兴化</sup>, /pʰo2 tia1 tia/<sup>泰县</sup></small> 外祖父。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia1` <small>/pʰʊ2 tia1 tia1/<sup>如皋</sup></small> ① 称母亲的父亲，外祖父。<sup>\[如皋\]</sup> ② 外祖父，也叫外公。<sup>\[东台\]</sup>  
+1. 【[婆家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_ga.md#婆家)】`pu2 ga1` <small>/pʰɤɯ2 kɑ1/<sup>泰兴</sup></small> 丈夫的家。<sup>\[泰兴\]</sup>  
 1. 【[婆里婆气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_lii_pu_qi.md#婆里婆气)】`pu2 lii pu2 qi5` <sup>[东台]</sup> 同“婆婆腔”。  
 1. 【[婆老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_lo_tae.md#婆老太)】`pu2 lo tae5` <sup>[兴化]</sup> 父亲或母亲的外祖母。也称“婆太太”。  
 1. 【[婆老太](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_lo_tae.md#婆老太)】`pu2 lo3 tae5` <small>/pʰʊ2 lɔ3 tʰɛ5/<sup>如皋</sup></small> ① 丈夫的母亲。<sup>\[如皋\]</sup> ② 丈夫的母亲。<sup>\[如东\]</sup>  
+1. 【[婆奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nae_nae.md#婆奶奶)】`pu2 nae3 nae, pu2 nae0 nae` <sup>[如皋]</sup> 丈夫的母亲。  
 1. 【[婆奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nae_nae.md#婆奶奶)】`pu2 nae3 nae` <small>/pʰo2 lɛ3 lɛ/<sup>兴化</sup>, /pʰʊ2 nɛ3 nɛ/<sup>如皋</sup>, /pʰɤɯ2 nɛ3 nɛ/<sup>泰兴</sup>, /pʰo2 ne3 ne/<sup>泰县</sup></small> 外祖母。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
-1. 【[婆奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nae_nae.md#婆奶奶)】`pu2 nae3 nae3` <sup>[如皋]</sup> 丈夫的母亲。  
 1. 【[婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nian.md#婆娘)】`pu2 nian` <small>/pʰo2 liaŋ/<sup>兴化</sup>, /pʰʊ2 niã/<sup>如皋</sup></small> ① 妻子，老婆；泛指妇女 ② 贬称妻。<sup>\[如皋\]</sup> ③ 贬称女人：恶～、拙～、懒～。<sup>\[如皋\]</sup> ④ 女人。丈夫对妻子的称呼。<sup>\[如东\]</sup>：我家～。<sup>\[如东\]</sup> ⑤ 泛指已婚妇女<sup>\[兴化\]</sup>：“……打紧这～极不贤，只要调拨他丈夫行不仁的事……”（《水浒传》三三）<sup>\[兴化\]</sup> ⑥ 妻<sup>\[兴化\]</sup>：“昨日才出门的，就像几年未见～的样子……”（《绿牡丹》三七）<sup>\[兴化\]</sup>  
 1. 【[婆娘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nian_hua.md#婆娘话)】`pu2 nian hua6` <sup>[如东]</sup> 说话不算数：你不要说～吧。胡乱纠缠。  
 1. 【[婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nian.md#婆娘)】`pu2 nian2` <sup>[东台]</sup> ① 已婚的妇女。 ② 妻子。  
@@ -1163,12 +1165,14 @@
 1. 【[婆婆腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_qian.md#婆婆腔)】`pu2 pu qian1` <sup>[兴化]</sup> （讽）男人而似女人般的腔调：他一个大男人家，说话尖声细气、扭头刮颈的，一副～。也作“婆子气”。  
 1. 【[婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu.md#婆婆)】`pu2 pu2` <sup>[如皋]</sup> 母亲的母亲，外祖母。  
 1. 【[婆婆嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_jy.md#婆婆嘴)】`pu2 pu2 jy3` <sup>[东台]</sup> ［喻］说话絮叨。又作“婆子嘴”。  
+1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu2 ma1 ma1` <small>/pʰɤɯ2 pʰɤɯ2 mɑ1 mɑ1/<sup>泰兴</sup></small> 指拘泥旧俗而缺乏知识的老年妇女。比喻啰啰嗦嗦。<sup>\[泰兴\]</sup>  
 1. 【[婆婆纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_nuh.md#婆婆纳)】`pu2 pu2 nuh8` <small>/pʰʊ2 pʰʊ2 nʊʔ8/<sup>如皋</sup></small> ① 玄参科。野草，可喂猪。<sup>\[如皋\]</sup> ② 玄参科植物婆婆纳，又名婆布纳，一年生草本。茎自基部分枝成丛，下部偃伏地面，斜上，高约20厘米。单叶，茎下部对生，茎上部互生，叶片卵圆形，边缘具圆齿。花单生于叶腋，淡红紫色。蒴果圆球形。种子长圆形。生长在路边田间。<sup>\[如东\]</sup>  
 1. 【[婆婆腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_qian.md#婆婆腔)】`pu2 pu2 qian1` <sup>[东台]</sup> 形容男人说话办事像女人一样柔情，缺乏阳刚之气。  
 1. 【[婆婆香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_xian.md#婆婆香)】`pu2 pu2 xian1` <sup>[东台]</sup> 一种绿色的下肢可屈可伸的昆虫：（童谣）～，～，你磕头，我烧香。  
 1. 【[婆婆指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_zheh_kaeh.md#婆婆指甲)】`pu2 pu2 zheh7 kaeh7` <sup>[东台]</sup> 一种可以染（包）红指甲的花朵。（指甲读阴入）  
 1. 【[婆孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_suen.md#婆孙)】`pu2 suen1` <sup>[如皋]</sup> 外婆与外孙辈间的关系称谓。  
 1. 【[婆太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_tae_i.md#婆太爷)】`pu2 tae5 i` <sup>[兴化]</sup> 父亲或母亲的外祖父。  
+1. 【[婆媳亲，家业兴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xieh_qien_jia.md#婆媳亲，家业兴)】`pu2 xieh qien1 jia1 ih8 xien1` <small>/pʰɤɯ2 ɕiʔ t͡ɕʰiŋ1 t͡ɕiɑ1 iʔ8 ɕiŋ1/<sup>泰兴</sup></small> 谓婆媳之间关系和谐，家业就会兴旺。<sup>\[泰兴\]</sup>  
 1. 【[婆媳睡一床——没公夫（功夫）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_xieh_shuei_ieh.md#婆媳睡一床——没公夫（功夫）)】`pu2 xieh7 shuei5 ieh7 chuan2 meh8 gon1 fv1` <sup>[东台]</sup>   
 1. 【[婆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#婆子)】`pu2 zz` <sup>[兴化]</sup> 中老年妇女，且常指仆妇：就是王纪先有两个待妾，在后面居住，有几个丫头～。（《续小五义》）  
 1. 【[婆子气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz_qi.md#婆子气)】`pu2 zz qi5` <sup>[兴化]</sup> 见“婆婆腔”。  

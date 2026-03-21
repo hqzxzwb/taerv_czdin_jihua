@@ -1495,8 +1495,9 @@
 1. 【[拈草掐蔬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_co_kaeh_shv.md#拈草掐蔬)】`nin2 co3 kaeh7 shv1` <small>/nĩ2 t͡sʰɔ3 kʰæʔ7 su1/<sup>泰兴</sup></small> 喻占小便宜。<sup>\[泰兴\]</sup>  
 1. 【[拈斤掐两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jien_kaeh_lian.md#拈斤掐两)】`nin2 jien1 kaeh7 lian3` <small>/nĩ2 t͡ɕiŋ1 kʰæʔ7 liɑŋ3/<sup>泰兴</sup></small> 犹言斤斤计较。<sup>\[泰兴\]</sup>  
 1. 【[拈阄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_jieu.md#拈阄)】`nin2 jieu1` <small>/nĩ2 t͡ɕiɤɯ1/<sup>泰兴</sup></small> 抓阄<sup>\[泰兴\]</sup>  
+1. 【[粘和沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu_dah_dah.md#粘和沰沰)】`nin2 hu2 dah7 dah7` <small>/nĩ2 xɤɯ2 tɑʔ7 tɑʔ7/<sup>泰兴</sup></small> 粘和。<sup>\[泰兴\]</sup>  
 1. 【[鲇滑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_r.md#鲇滑<sub>儿</sub>)】`nin2 huaeh8 r` <sup>[如东]</sup> 胡子鲇科动物胡子鲇，长约14厘米。  
-1. 【[鲶滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vaeh_zz.md#鲶滑子)】`nin2 vaeh zz` <sup>[泰州]</sup> “鲶鱼”俗称，本地产淡水鱼，周身无鳞，身体表面布满黏液，头扁口阔，上下颌有四根胡须，味道鲜美。  
+1. 【[鲶滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_vaeh_zz.md#鲶滑子)】`nin2 vaeh zz` <small>/nĩ2 ʋæʔ t͡sɿ/<sup>泰兴</sup></small> 鲶鱼<sup>\[泰兴\]</sup>\[泰州：本地产淡水鱼，周身无鳞，身体表面布满黏液，头扁口阔，上下颌有四根胡须，味道鲜美。\]  
 1. 【[黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#黏)】`nin2` <sup>[如皋]</sup> 亲热、怜爱、笼络：你这吖～他，他的心更加忆咖你这许。  
 1. 【[黏饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien.md#黏饼)】`nin2 bien3` 中秋节日食品之一。用糯米粉加水调制面团，芝麻碾碎炒熟拌糖做馅，包成大元宵状压扁，成为直径五至六厘米的小饼，锅中放少许油，煎至焦黄。晾干以后，可以存放较长时间，以糯米粉性黏，故名。<sup>\[泰州\]</sup>  
 1. 【[黏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien_r.md#黏饼<sub>儿</sub>)】`nin2 bien3 r` <sup>[如皋]</sup> 多为糯米粉做的有馅饼。  
@@ -1506,13 +1507,14 @@
 1. 【[黏耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏耷耷)】`nin2 dah7 dah7` <sup>[泰县]</sup> 物汁粘连不断：银耳汤～。  
 1. 【[黏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh.md#黏𪐏)】`nin2 deh7` <sup>[如皋]</sup> 有黏性，汤汁黏稠：紫玉米棒头儿吃起来是～的；大麦片煮的粥饮汤～。  
 1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <sup>[如东]</sup> 液体浓厚很有黏性：这种米酒好，喝咖嘴上～的。  
-1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` 黏性十足<sup>\[东台\]</sup>：这粽子～的<sup>\[东台\]</sup>  
+1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <small>/nĩ2 təʔ7 təʔ7/<sup>泰兴</sup></small> 黏性十足<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这粽子～的<sup>\[东台\]</sup>  
 1. 【[黏𪐏𪐏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh_dii.md#黏𪐏𪐏的)】`nin2 deh7 deh7 dii` <sup>[如皋]</sup> 见“黏𪐏”。  
 1. 【[黏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_fon.md#黏缝)】`nin2 fon6` <sup>[如东]</sup> 黏匠用石灰、桐油、麻丝把船体上的缝隙堵死，使之密封不漏水。  
 1. 【[黏浃浃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gaeh_gaeh_dii.md#黏浃浃的)】`nin2 gaeh7 gaeh7 dii` <sup>[如皋]</sup> 胯下、腋下黏湿状。  
 1. 【[黏糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_go.md#黏糕)】`nin2 go1` <small>/nĩ2 kɔ1/<sup>如皋</sup></small> ① 用糯米粉烫酵做成条状小块，蒸或炸成的点心。<sup>\[如皋\]</sup> ② 具有黏性的糕点。<sup>\[如东\]</sup>  
 1. 【[黏蠚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hah.md#黏蠚)】`nin2 hah7` <small>/liɪ̃2 xaʔ7/<sup>兴化</sup>, /nĩ2 xaʔ7/<sup>如皋</sup></small> ① 喻关系亲密<sup>\[如皋\]</sup>：他俫处得～。<sup>\[如皋\]</sup> ② 热情地亲近<sup>\[东台\]</sup>：这姑娘蛮～的，妈妈和婆婆都欢喜她。<sup>\[东台\]</sup> ③ 形容关系密切<sup>\[兴化\]</sup>：他跟几位舅舅蛮～的。<sup>\[兴化\]</sup> ④ 主动团结人<sup>\[兴化\]</sup>：他会～人。<sup>\[兴化\]</sup> ⑤ 紧贴，比喻关系非常亲密<sup>\[泰州\]</sup>：你加新妇同婆妈妈多～。<sup>\[泰州\]</sup>｜小王人多～咖，回回望见你，老远的就叫人。<sup>\[泰州\]</sup>  
 1. 【[黏和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#黏和)】`nin2 hu` <sup>[如皋]</sup> 稠和。  
+1. 【[黏和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hu.md#黏和)】`nin2 hu2` <small>/nĩ2 xɤɯ2/<sup>泰兴</sup></small> 多谓饭粥可口，粘而爽口。<sup>\[泰兴\]</sup>  
 1. 【[黏滑虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_chon_r.md#黏滑虫<sub>儿</sub>)】`nin2 huaeh8 chon2 r, nin2 guaeh7 chon2 r` 蛞蝓，鼻涕虫，像去壳的蜗牛。  
 1. 【[黏滑虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_huaeh_chon_r.md#黏滑虫<sub>儿</sub>)】`nin2 huaeh8 chon2 r` <sup>[如东]</sup> 蛞蝓科动物蛞蝓，又名蜒蚰虫、鼻涕虫儿。  
 1. 【[黏乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_hv.md#黏乎)】`nin2 hv` <sup>[如皋]</sup> 汤汁黏稠。  
@@ -1524,7 +1526,7 @@
 1. 【[黏谩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_maen.md#黏谩)】`nin2 maen2` <sup>[泰县]</sup> 黏液：猪肚子上有～。  
 1. 【[黏吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_nga.md#黏吖)】`nin2 nga` <sup>[如皋]</sup> 变质发黏了。  
 1. 【[黏匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_qian.md#黏匠)】`nin2 qian` <sup>[如东]</sup> 为船舶黏合木缝的小手工业者。  
-1. 【[黏食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sheh.md#黏食)】`nin2 sheh8` <small>/nĩ2 səʔ8/<sup>如皋</sup></small> ① 有黏性的食品。<sup>\[如皋\]</sup> ② 以糯米粉为主的黏性食品。<sup>\[如东\]</sup>  
+1. 【[黏食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sheh.md#黏食)】`nin2 sheh8` <small>/nĩ2 səʔ8/<sup>如皋</sup>, /nĩ2 səʔ8/<sup>泰兴</sup></small> ① 有黏性的食品。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 以糯米粉为主的黏性食品。<sup>\[如东\]</sup>  
 1. 【[黏烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_sho_bien.md#黏烧饼)】`nin2 sho1 bien3` <sup>[兴化]</sup> 用糯米粉做成的小饼，在油锅中烤熟。  
 1. 【[黏涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xiun.md#黏涎)】`nin2 xiun2` <small>/nĩ2 ɕyʊ̃2/<sup>如皋</sup></small> ① 鱼、螺、蚰蜓等体表的黏液。<sup>\[如皋\]</sup> ② 鱼体外表的黏液。<sup>\[如东\]</sup>  
 1. 【[黏䐈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zhr.md#黏䐈)】`nin2 zhr3` <sup>[如东]</sup> 黏性很强的汁液：这种玉米好，煮熟咖，～交关长。  

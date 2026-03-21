@@ -1115,6 +1115,7 @@
 1. 【[妹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#妹子)】`mi6 zz` <small>/mʝ1 t͡sɿ/<sup>如皋</sup>, /mɿ1 t͡se/<sup>泰县</sup></small> ① 妹妹。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup> ② 泛称小于自己的女人。<sup>\[如皋\]</sup>  
 1. 【[昧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#昧)】`mi6` <sup>[泰州]</sup> 暗中吞没他人财物：最后还多啊几千块钱，捱他～掉啊。  
 1. 【[昧良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lian_xien.md#昧良心)】`mi6 lian2 xien1` <sup>[泰州]</sup> 违背良心说话、做事：你不能～说瞎话。  
+1. 【[谜谜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#谜谜)】`mi6 mi6` <small>/mʝ1 mʝ1/<sup>泰兴</sup></small> 谜语。暗射事物或文字等供人猜测的隐语。<sup>\[泰兴\]</sup>：猜～<sup>\[泰兴\]</sup>  
 1. 【[乜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#乜)】`mia1` ① 斜视 ② 眯着眼睛斜视。<sup>\[如东\]</sup>：他站吖外面～啊一眼。<sup>\[如东\]</sup>  
 1. 【[乜虎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia_hv_ngaen.md#乜虎眼)】`mia1 hv3 ngaen3` <sup>[如东]</sup> 眼睛斜视。比喻把事物看偏了：打～。  
 1. 【[𥄲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mia.md#𥄲)】`mia1` <sup>[如皋]</sup> ～乎：瞌睡、睡。  

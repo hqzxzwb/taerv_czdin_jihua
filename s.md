@@ -1288,6 +1288,7 @@
 1. 【[深造](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_co.md#深造)】`shen1 co5` <sup>[东台]</sup> 进一步的学习和研究：杨爹把女儿送到北京～去啊。  
 1. 【[深更半夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_gen_bun_ia.md#深更半夜)】`shen1 gen1 bun5 ia6` <sup>[东台]</sup> 夜已很深，到了子时左右。  
 1. 【[深潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_tun.md#深潭)】`shen1 tun2` <sup>[如皋]</sup> ① 很深的漏斗状水塘。 ② 水下的深塘。  
+1. 【[深文大义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ven_da_i.md#深文大义)】`shen1 ven2 da6 i6` <small>/səŋ1 ʋəŋ2 tɑ1 ʝ1/<sup>泰兴</sup></small> 深奥的大道理。<sup>\[泰兴\]</sup>：箇篇文章没得什的～<sup>\[泰兴\]</sup>  
 1. 【[牲豕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_shr.md#牲豕)】`shen1 shr` <small>/sən1 sɿ/<sup>兴化</sup>, /səŋ1 sɿ/<sup>如皋</sup>, /səŋ1 sɿ/<sup>泰兴</sup></small> 兽类，牲口<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰兴：谓家养的各种动物。非家养的则谓之“野牲豕”。\]：他家成吖动物园，家～、野～总有。<sup>\[如皋\]</sup>｜夜里要起来喂～。<sup>\[兴化\]</sup>  
 1. 【[生不带来，死不带走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_dae_lae.md#生不带来，死不带走)】`shen1 beh7 dae5 lae2 sz3 beh7 dae5 zeu3` <sup>[东台]</sup> 人要豁达，想开，不要为一己私利斤斤计较。  
 1. 【[生不犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_beh_qian.md#生不犟)】`shen1 beh7 qian6` <sup>[如东]</sup> 脾气固执，不听劝说：你不要～。  
@@ -1695,6 +1696,7 @@
 1. 【[首尾/手尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_vei.md#首尾/手尾)】`sheu3 vei` <sup>[兴化]</sup> 手续、事宜：我小儿子不曾结婚，还有一桩～不曾了。也作“手尾”｜《二十年目睹之怪现状》第四十六回有“我们……彼此没了手尾”句。  
 1. 【[首尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_vei.md#首尾)】`sheu3 vei3` <small>/sɤ3 uəi3/<sup>兴化</sup>, /sei3 ʋei3/<sup>如皋</sup></small> ① 引指家庭长辈的责任、义务：把子女的婚事料理完，他的～也尽吖。<sup>\[如皋\]</sup> ② 往来、勾结<sup>\[兴化\]</sup>：“原来县吏都是与西门庆有～的……”（《水浒传》二六）<sup>\[兴化\]</sup> ③ 头绪<sup>\[兴化\]</sup>：……运司汪承爵到任也才三个月，都不知这事的～……（《梼杌闲评》三九）<sup>\[兴化\]</sup> ④ 苟且行为<sup>\[兴化\]</sup>：“……你既与那妇人没甚～，却如何与他同行同宿……”（《京本通俗小说·错斩崔宁》）<sup>\[兴化\]</sup>  
 1. 【[兽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu.md#兽头)】`sheu5 teu2` <small>/sei5 tʰei2/<sup>如皋</sup></small> ① 殿堂檐脊上的砖雕饰物。<sup>\[如皋\]</sup> ② 安装在屋脊两端像怪兽一样的装饰物。<sup>\[如东\]</sup>  
+1. 【[兽头钢爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_teu_gan_zho.md#兽头钢爪)】`sheu5 teu2 gan1 zho3` <small>/ɕiɤɯ5 tʰəɪ2 kɑŋ1 t͡sɔ3/<sup>泰兴</sup></small> 屋脊两头的装饰品。据称能趋吉避邪，同时又能显示主人的身份。<sup>\[泰兴\]</sup>  
 1. 【[瘦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu.md#瘦)】`sheu5` <sup>[泰州]</sup> 细：你去拿根～竹子过来㫰衣裳。  
 1. 【[瘦不拉叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_beh_la_ji.md#瘦不拉叽)】`sheu5 beh7 la1 ji1` <sup>[东台]</sup> 形容瘦弱的样子。  
 1. 【[瘦孱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_chaen.md#瘦孱)】`sheu5 chaen` <sup>[兴化]</sup> 身体瘦弱、单薄：她的身体～。  
@@ -2648,6 +2650,8 @@
 1. 【[睡中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zhon_go.md#睡中觉)】`shuei5 zhon1 go5` <sup>[东台]</sup> 中午睡觉。  
 1. 【[睡早觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_go.md#睡早觉)】`shuei5 zo3 go5` <sup>[兴化]</sup> 贪睡，起身迟：他喜欢～，八点多钟还躺吖在床上！  
 1. 【[睡早曦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuei_zo_xi.md#睡早曦)】`shuei5 zo3 xi` <sup>[东台]</sup> 早上睡懒觉，迟迟不起床：最近事情多，不能～。  
+1. 【[淳和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#淳和)】`shuen2 hu2` <small>/suəŋ2 xɤɯ2/<sup>泰兴</sup></small> 质朴温和。<sup>\[泰兴\]</sup>  
+1. 【[淳淑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_shoh.md#淳淑)】`shuen2 shoh` <small>/suəŋ2 sɔʔ/<sup>泰兴</sup></small> 仁厚善良。<sup>\[泰兴\]</sup>  
 1. 【[纯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#纯和)】`shuen2 hu` <small>/suən2 xo/<sup>兴化</sup>, /suəŋ2 xɤɯ/<sup>泰兴</sup></small> ① 柔软、纯熟<sup>\[兴化\]</sup>：新稻草戳人，要捶捶铺床才～。<sup>\[兴化\]</sup>｜“咦喂，这个新稻草不～啊，戳人呀……”（《武松》六）<sup>\[兴化\]</sup> ② 纯朴和顺。多指性格或气质。<sup>\[泰兴\]</sup>  
 1. 【[醇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen.md#醇)】`shuen2` <sup>[泰州]</sup> 酒质醇厚：这两瓶梅兰春酒～，口感蛮好。  
 1. 【[醇和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shuen_hu.md#醇和)】`shuen2 hu` <sup>[兴化]</sup> 形容人淳朴、和善：这个人性子蛮～的。｜……马琼琼见朱廷之生性～……几次央浼姐姐与杨谦说，要与朱廷之相处。（《西湖二集》十一）  

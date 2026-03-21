@@ -320,15 +320,17 @@
 1. 【[淡巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_laeh_saeh.md#淡巴擸𢶍)】`taen6 ba laeh8 saeh` <sup>[兴化]</sup> 指菜肴淡而无味：把菜烧得～的，有甚的吃头！‖也说“淡叽挖撒”。  
 1. 【[淡巴呀些](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_ia_xia.md#淡巴呀些)】`taen6 ba1 ia1 xia1` <sup>[东台]</sup> 淡而无味。可以指菜肴，也可以指文章或话语。  
 1. 【[淡巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ba_laeh_saeh.md#淡巴擸𢶍)】`taen6 ba1 laeh8 saeh7` <sup>[东台]</sup> 同“淡巴呀些”。也说“淡叽挖煞”。  
+1. 【[淡而滑之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_er_vaeh_zhr.md#淡而滑之)】`taen6 er vaeh8 zhr1` <small>/tʰɛ̃1 ɚ ʋæʔ8 t͡sɿ1/<sup>泰兴</sup></small> 谓菜肴无味，不能引起食欲；喻人讲的话没有意义，无可取之处。<sup>\[泰兴\]</sup>  
 1. 【[淡而无味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_er_v_vei.md#淡而无味)】`taen6 er2 v2 vei6` <sup>[如东]</sup> 清淡而没有滋味：大豆～的，不好吃。  
 1. 【[淡寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_gua_gua_dii.md#淡寡寡的)】`taen6 gua3 gua3 dii` <sup>[如皋]</sup> ① 味淡；冬瓜汤放盐少，～不好吃。 ② 冷淡无趣：他一个人坐啊那许，～没意思。  
 1. 【[淡刮刮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_guaeh_guaeh_dii.md#淡刮刮的)】`taen6 guaeh7 guaeh7 dii` <sup>[如皋]</sup> 形容味道过淡。  
-1. 【[淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hua.md#淡话)】`taen6 hua6` <small>/tʰɛ̃6 xua6/<sup>兴化</sup>, /tʰẽ1 xua1/<sup>如皋</sup></small> ① 闲聊之语 ② 责语。指是非话。<sup>\[如皋\]</sup> ③ 无关紧要的话：～少说，快谈正事吧！｜“只是一句～，改日说罢。”（《岐路灯》三七）<sup>\[兴化\]</sup> ④ 与己无关但会伤害他人的话，贬义<sup>\[泰州\]</sup>：这些～你说咖做甚的，人家听吖不高兴。<sup>\[泰州\]</sup> ⑤ 多余而无实际意义的话<sup>\[泰州\]</sup>：同她在做块儿真的没得话说，只好说两句～敷衍她下子。<sup>\[泰州\]</sup>  
+1. 【[淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hua.md#淡话)】`taen6 hua6` <small>/tʰɛ̃6 xua6/<sup>兴化</sup>, /tʰẽ1 xua1/<sup>如皋</sup>, /tʰɛ1 xuɑ1/<sup>泰兴</sup></small> ① 闲聊之语 ② 责语。指是非话。<sup>\[如皋\]</sup> ③ 无关紧要的话<sup>\[兴化\]</sup>：～少说，快谈正事吧！<sup>\[兴化\]</sup>｜“只是一句～，改日说罢。”（《岐路灯》三七）<sup>\[兴化\]</sup> ④ 与己无关但会伤害他人的话，贬义<sup>\[泰州\]</sup>：这些～你说咖做甚的，人家听吖不高兴。<sup>\[泰州\]</sup> ⑤ 多余而无实际意义的话<sup>\[泰州\]</sup>：同她在做块儿真的没得话说，只好说两句～敷衍她下子。<sup>\[泰州\]</sup> ⑥ 不相干的话；闲谈的话；无关紧要的话。<sup>\[泰兴\]</sup>：喥～<sup>\[泰兴\]</sup>  
 1. 【[淡话卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hua_lun_zz.md#淡话卵子)】`taen6 hua6 lun3 zz` <sup>[东台]</sup> ［喻］专门说闲话，搬弄是非的人。也作“淡话篓子”。  
 1. 【[淡话<sub>儿</sub>连天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hua_r_lin.md#淡话<sub>儿</sub>连天)】`taen6 hua6 r lin2 tin1` <sup>[如皋]</sup> 责语。指很会说且说了许多是非话。  
 1. 【[淡糊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hv_r.md#淡糊<sub>儿</sub>)】`taen6 hv2 r` <sup>[泰县]</sup> ① 不值得一提：这个人～。 ② 没有结果。  
 1. 【[淡叽叽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ji_ji_dii.md#淡叽叽的)】`taen6 ji1 ji1 dii` <sup>[如皋]</sup> 味道较淡。  
 1. 【[淡叽哇糟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ji_va_zo.md#淡叽哇糟的)】`taen6 ji1 va zo1 dii` <sup>[如皋]</sup> 形容味道过淡。  
+1. 【[淡叽滑煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ji_vaeh_shaeh.md#淡叽滑煞)】`taen6 ji1 vaeh8 shaeh7` <small>/tʰɛ̃1 t͡ɕʝ1 ʋæʔ8 ɕiæʔ7/<sup>泰兴</sup></small> 犹淡而无味。\[泰兴：泰兴方言辞典作“淡地滑煞”\]  
 1. 【[淡叽滑煞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_ji_vaeh_shaeh.md#淡叽滑煞的)】`taen6 ji1 vaeh8 shaeh7 dii` <sup>[如皋]</sup> 状味道过淡。  
 1. 【[淡嘴薄舌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_jy_pah_shih.md#淡嘴薄舌的)】`taen6 jy3 pah8 shih8 dii` <sup>[如皋]</sup> 责话多而不当。见“寡嘴”。  
 1. 【[淡里不煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_lii_beh_shaeh.md#淡里不煞)】`taen6 lii beh7 shaeh7` <sup>[泰州]</sup> “淡煞”的生动形式，食物之中所含盐分极少：她哪怕炒个青菜都怕放盐，～的，吃咖嘴里点点儿味道都没得。  
@@ -342,6 +344,7 @@
 1. 【[淡滑滑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_vaeh_vaeh_dii.md#淡滑滑的)】`taen6 vaeh8 vaeh8 dii` <sup>[如皋]</sup> 形容味道过淡。  
 1. 【[淡性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xien.md#淡性)】`taen6 xien5` <sup>[如皋]</sup> 淡泊，看破、寡欲。读阴去声时表示性情由激烈、激昂转变为淡泊、看破。  
 1. 【[淡笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xio.md#淡笑)】`taen6 xio5` <small>/tʰɛ̃6 ɕiɔ5/<sup>兴化</sup></small> ① 无味的、尴尬的笑<sup>\[兴化\]</sup>：他被大家说得哑口无言，只是～。<sup>\[兴化\]</sup>｜谚曰：～强于哭。<sup>\[兴化\]</sup> ② 为掩饰尴尬而发出的笑<sup>\[泰州\]</sup>：他捱人说得没得口开，只好抐住鼻子～。<sup>\[泰州\]</sup>  
+1. 【[淡笑强如哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xio_qia_rv_koh.md#淡笑强如哭)】`taen6 xio5 qia2 rv2 koh7` <small>/tʰɛ̃1 ɕiɔ5 t͡ɕʰiɑ2 ɻu2 kʰɔʔ7/<sup>泰兴</sup></small> 谓自我解嘲，装出笑的样子，实质上比哭还难受。<sup>\[泰兴\]</sup>  
 1. 【[淡竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zhoh.md#淡竹)】`taen6 zhoh7` <sup>[如东]</sup> 禾本科植物淡竹，多年生常绿乔木或灌木。高约18米。秆圆筒形，绿色，无毛，分枝之一侧节间有纵槽，秆环及箨环均甚隆起。主枝三棱形或微作四方形，具白色蜡粉。叶鞘淡绿色或稻草色，叶舌短，叶片膜质，狭披针形，边缘一侧平滑，一侧具小锯齿，表面深绿色，无毛，背面较淡，基部具微毛。穗状花序小枝排列成覆瓦状圆锥花序；花枝有叶，顶生小穗，顶生花退化。庭园栽培。竹苗，通称竹笋。  
 1. 【[淡竹根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zhoh_gen.md#淡竹根)】`taen6 zhoh7 gen1` <sup>[如东]</sup> 禾本科植物淡竹根茎。  
 1. 【[淡竹叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zhoh_ih.md#淡竹叶)】`taen6 zhoh7 ih8` <small>/tʰẽ1 t͡sɔʔ7 iʔ8/<sup>如皋</sup></small> ① 一种禾本科植物，叶似竹，开蓝色小花，可节节生根。本地常采嫩头泡作清凉饮料。<sup>\[如皋\]</sup> ② 禾本科植物淡竹叶，也称竹叶。<sup>\[如东\]</sup>  
@@ -1601,16 +1604,19 @@
 1. 【[淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#淘)】`to2` <sup>[东台]</sup> 用器物盛东西，放在水里搅动，除去杂质和灰尘：～米｜～黄豆。  
 1. 【[淘海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hae.md#淘海)】`to2 hae3` <sup>[东台]</sup> 汤匙。渔民避讳语。因汤与荡谐音，荡的方音若汤，故避讳。  
 1. 【[淘井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jien.md#淘井)】`to2 jien3` <small>/tʰɔ2 t͡ɕiŋ3/<sup>泰兴</sup></small> 取出井中的污泥浊水，清理井底。<sup>\[泰兴\]</sup>  
+1. 【[淘渌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_loh.md#淘渌)】`to2 loh8` <small>/tʰɔ2 lɔʔ8/<sup>泰兴</sup></small> 销蚀；掏摸；掏取。多指色欲伤身。<sup>\[泰兴\]</sup>  
 1. 【[淘碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_loh.md#淘碌)】`to2 loh8` <sup>[泰县]</sup> 无意义地乱动。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu1` <sup>[如东]</sup> 容器。竹篾编成，缝口细密，圆柿形，无盖，有环。淘米用。  
 1. 【[淘箩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_r.md#淘箩<sub>儿</sub>)】`to2 lu1 r` <sup>[如皋]</sup> 篾制有系淘米篮子。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <sup>[东台]</sup> 淘米用具，多用细竹篾制成，缝隙较小，有提梁竹柄。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2-3` 竹篾编的专供淘米过滤水用的半球形小篮子。<sup>\[泰州\]</sup>  
+1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <small>/tʰɔ2 lɤɯ2/<sup>泰兴</sup></small> 有提手的小竹箩，多作淘米用，故名。<sup>\[泰兴\]</sup>  
 1. 【[淘箩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_zz.md#淘箩子)】`to2 lu2 zz` <sup>[兴化]</sup> 用细竹篾编成的淘米的器具，有弧形的把子。  
 1. 【[淘米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi.md#淘米)】`to2 mi3` <sup>[如东]</sup> 将大米放在水中清洗干净。  
 1. 【[淘米水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi_shuei.md#淘米水)】`to2 mi3 shuei3` <sup>[如皋]</sup> 米泔水。  
 1. 【[淘气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi.md#淘气)】`to2 qi5` <small>/tʰɔ2 t͡ɕʰi5/<sup>兴化</sup>, /tʰɔ2 t͡ɕʰʝ5/<sup>如皋</sup>, /tʰɔ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 吵骂，争吵<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>：两个人在～，淘得凶哎。<sup>\[如皋\]</sup> ② 生闲气、惹气<sup>\[兴化\]</sup>：好了，好了，你们别吵吧，免得带累我们～。<sup>\[兴化\]</sup>  
 1. 【[淘气𠵹丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi_gan_san.md#淘气𠵹丧)】`to2 qi5 gan1 san1` <sup>[如皋]</sup> 家庭或邻里间不和，经常争吵。  
+1. 【[淘气喝声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi_huh_shen.md#淘气喝声)】`to2 qi5 huh7 shen1` <small>/tʰɔ2 t͡ɕʰʝ5 xʊʔ7 səŋ1/<sup>泰兴</sup></small> 犹吵嘴，吵架。<sup>\[泰兴\]</sup>  
 1. 【[淘气星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qi_xien.md#淘气星)】`to2 qi5 xien1` <sup>[如皋]</sup> 爱与人争吵、淘气的人。  
 1. 【[淘屎板子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_shr_baen_zz.md#淘屎板子)】`to2 shr3 baen3 zz` <sup>[东台]</sup> ［喻］指非常淘气的孩子。  
 1. 【[逃啊跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_a_po.md#逃啊跑)】`to2 a po2` <sup>[如东]</sup> 迅速地向前跑。偷偷地出走。  

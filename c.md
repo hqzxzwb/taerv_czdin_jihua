@@ -1327,7 +1327,7 @@
 1. 【[冲床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_chuan.md#冲床)】`chon5 chuan2` <sup>[如东]</sup> 用冲压方法使金属板成形或在金属板上冲孔的加工机床。也叫冲压床或压力机。  
 1. 【[冲你（他）个万斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nii_gu_vaen.md#冲你（他）个万斤)】`chon5 nii3（ta1） gu vaen6 jien1` <sup>[东台]</sup> 狠狠地冲（回击）对方。  
 1. 【[冲人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren_zz.md#冲人子)】`chon5 ren zz` <sup>[如皋]</sup> 见“冲头”。如皋词典写上声。  
-1. 【[冲人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#冲人)】`chon5 ren2` <small>/t͡sʰoŋ5 ɻəŋ2/<sup>泰县</sup></small> ① 呛鼻子。<sup>\[如东\]</sup>：打开酒瓶，酒气～。<sup>\[如东\]</sup> ② 顶撞人。<sup>\[泰县\]</sup> ③ 大声训斥他人<sup>\[泰州\]</sup>：老钱好～，你同他说话注意点儿。<sup>\[泰州\]</sup>  
+1. 【[冲人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ren.md#冲人)】`chon5 ren2` <small>/t͡sʰɔŋ5 ɻəŋ2/<sup>泰兴</sup>, /t͡sʰoŋ5 ɻəŋ2/<sup>泰县</sup></small> ① 呛鼻子。<sup>\[如东\]</sup>：打开酒瓶，酒气～。<sup>\[如东\]</sup> ② 顶撞人。<sup>\[泰县\]</sup> ③ 大声训斥他人<sup>\[泰州\]</sup>：老钱好～，你同他说话注意点儿。<sup>\[泰州\]</sup> ④ 责备人；批评人。<sup>\[泰兴\]</sup>  
 1. 【[冲头雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_teu_y.md#冲头雨)】`chon5 teu y3` <sup>[兴化]</sup> 骤然而降的阵雨：一场～把场上的粮食全沰潮啊。  
 1. 【[冲头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_teu.md#冲头)】`chon5 teu2` <small>/t͡sʰoŋ5 tʰɤ2/<sup>兴化</sup>, /t͡sʰɔŋ5 tʰei2/<sup>如皋</sup></small> ① 气味刺激头脑而不适或玄晕。<sup>\[如皋\]</sup> ② 过头<sup>\[兴化\]</sup>：这个房价出咖～，其实不值这吖多钱。<sup>\[兴化\]</sup>  
 1. 【[……冲掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_tio.md#……冲掉)】`chon5 tio` <sup>[东台]</sup> 接在动词后面作补语，意思是没有把握好，做过了头。  
@@ -2248,6 +2248,7 @@
 1. 【[村学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xiah_tan.md#村学堂)】`cuen1 xiah8 tan2` <sup>[泰州]</sup> 乡村学堂，旧时多指乡村私塾。  
 1. 【[村长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#村长)】`cuen1 zhan3` <sup>[东台]</sup> 本指一村之长，也戏称或特指喜欢说村话的人：你这个老～，就是欢喜开玩笑！  
 1. 【[皴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#皴)】`cuen1` <small>/t͡sʰuəŋ1/<sup>如皋</sup></small> 皮肤冻裂<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：皮肤坼裂，皮肤因受冻、风吹等而呈干裂粗糙样子\]\[如皋：皮肤轻度龟裂\]：～手。<sup>\[如东\]</sup>｜冬天冷风吹，脸上容易～<sup>\[如皋\]</sup>｜她天再冷还要天天下冷水洗，手上怎吖得不～！<sup>\[泰州\]</sup>｜他在工地上一冬天做下来，两只手上～吖像橘子皮。<sup>\[泰州\]</sup>｜冬天我的手～吖。<sup>\[东台\]</sup>  
+1. 【[皴裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_lih.md#皴裂)】`cuen1 lih8` <small>/t͡sʰuəŋ1 liʔ8/<sup>泰兴</sup></small> 冬天因寒气侵袭手脚，皮肤出现裂痕。<sup>\[泰兴\]</sup>  
 1. 【[存后手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_heu_sheu.md#存后手)】`cuen2 heu6 sheu3` <sup>[如皋]</sup> 为以后作准备。  
 1. 【[存吖个心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_nga_gu_xien.md#存吖个心眼<sub>儿</sub>)】`cuen2 nga gu xien1 ngaen3 r` <sup>[东台]</sup> 指暗暗做好应急准备：为啊防止对方死不认账，我～，把谈判过程录咖相。  
 1. 【[存神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_shen.md#存神)】`cuen2 shen2` <small>/t͡sʰuən2 sən2/<sup>兴化</sup>, /t͡sʰuəŋ2 səŋ2/<sup>如皋</sup>, /t͡ɕʰyəŋ2 səŋ2/<sup>泰县</sup></small> 留神、当心、注意<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：出门要～。<sup>\[如东\]</sup>｜他平常说话非常～，惟恐得罪啊人。<sup>\[兴化\]</sup>｜这件事你～。<sup>\[泰县\]</sup>｜你同这种心术不正的人共事要～。<sup>\[泰州\]</sup>  
