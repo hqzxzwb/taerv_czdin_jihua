@@ -320,7 +320,7 @@
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv` <small>/t͡ɕiɑ3 fʋ/<sup>泰兴</sup></small> 姐姐的丈夫。<sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[姐夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_fv.md#姐夫)】`jia3 fv1` <sup>[如东]</sup> 姐姐的丈夫。  
 1. 【[姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_jia.md#姐姐)】`jia3 jia3` ① 同胞和亲戚中同辈而年龄比自己大的女子，称姐姐。根据血缘和亲属关系，分嫡亲姐姐、叔伯姐姐、堂姐姐、表姐姐。<sup>\[如东\]</sup> ② 称呼比自己年长的同辈女子。<sup>\[泰州\]</sup>  
-1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` <small>/t͡ɕia3 liɤ/<sup>兴化</sup>, /t͡ɕiɑ3 ləɪ/<sup>泰兴</sup>, /t͡ɕia3 niɤɯ/<sup>泰县</sup></small> 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[如东：黑蚱蝉\]  
+1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu.md#姐䗜)】`jia3 lieu` <small>/t͡ɕia3 liɤ/<sup>兴化</sup>, /t͡ɕiɑ3 ləɪ/<sup>泰兴</sup>, /t͡ɕia3 niɤɯ/<sup>泰县</sup></small> 蝉<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[如东：黑蚱蝉\]\[泰州：（泰州词典作蠽蟟）\]  
 1. 【[姐䗜衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_i.md#姐䗜衣)】`jia3 lieu i1` <sup>[如东]</sup> 蝉科昆虫黑蚱蝉的壳，又名蝉蜕、蝉衣。  
 1. 【[姐䗜壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_r.md#姐䗜壳<sub>儿</sub>)】`jia3 lieu kah7 r` <sup>[泰县]</sup> （中药）蝉衣。  
 1. 【[姐䗜壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_lieu_kah_zz.md#姐䗜壳子)】`jia3 lieu kah7 zz` <sup>[兴化]</sup> 蝉蜕，可入药。  
@@ -396,7 +396,6 @@
 1. 【[简慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_maen.md#简慢)】`jiaen3 maen6` <sup>[东台]</sup> 怠慢，招待的规格程序简单化。通常是主人的谦词。也称“塌化”。  
 1. 【[间或不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiaen_hoh_beh_do.md#间或不到)】`jiaen5 hoh beh7 do5` <sup>[如皋]</sup> 不经常。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah.md#□)】`jiah7` <sup>[兴化]</sup> 疑问代词，“怎啊”二出字急读的合音：今朝是你值班吖～？覅闹！一一～！（意为闹又怎么样？）  
-1. 【[姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lieu.md#姐䗜)】`jiah7 lieu` <sup>[泰州]</sup> ① （泰州词典作蠽蟟） ② 蝉的俗称。  
 1. 【[脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah.md#脚)】`jiah7` <small>/t͡ɕiaʔ7/<sup>如皋</sup></small> ① 泛指腿跟脚 ② 令牛注意脚下的喝声。<sup>\[如皋\]</sup> ③ 剩余的、质差的、渣：～料、～货、下～。<sup>\[如皋\]</sup>  
 1. 【[脚巴掌心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ba_zhan_xien.md#脚巴掌心)】`jiah7 ba1 zhan xien1` <sup>[如皋]</sup> 足心凹处。  
 1. 【[脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#脚班)】`jiah7 baen1` <small>/t͡ɕiaʔ7 pɛ̃1/<sup>兴化</sup>, /t͡ɕiaʔ7 pẽ1/<sup>如皋</sup>, /t͡ɕiɑʔ7 pɛ̃1/<sup>泰县</sup></small> ① 搬运工人。<sup>\[如皋\]</sup> ② 为死人扶终的服务队伍。<sup>\[东台\]</sup> ③ 旧时搬运业行会。<sup>\[兴化\]</sup> ④ 旧称搬运工人<sup>\[兴化\]</sup>：以前，他家上人做～。<sup>\[兴化\]</sup> ⑤ 搬运工人。<sup>\[泰县\]</sup>  
@@ -900,7 +899,7 @@
 1. 【[金铃子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lien_zz_r.md#金铃子<sub>儿</sub>)】`jien1 lien2 zz3 r` <sup>[兴化]</sup> 一种小昆虫，形似蟋蟀而小。雄虫翅膀磨擦发出金属声。学名“双带拟蛉蟋”。  
 1. 【[金镏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lieu_zz.md#金镏子)】`jien1 lieu5 zz` <sup>[兴化]</sup> 金戒指。戏称“金老三”  
 1. 【[金老三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_lo_saen.md#金老三)】`jien1 lo3 saen1` <small>/t͡ɕiŋ1 lɔ3 ɕiɛ̃1/<sup>泰兴</sup></small> 金首饰。黄金。<sup>\[泰兴\]</sup>  
-1. 【[金膜螐蚅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mah_v_eh.md#金膜螐蚅)】`jien1 mah v1 eh7` <sup>[泰州]</sup> 金龟子。  
+1. 【[金膜呜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_mah_v_r.md#金膜呜<sub>儿</sub>)】`jien1 mah v1 r` <sup>[泰州]</sup> 金龟子。  
 1. 【[金门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_men.md#金门)】`jien1 men2` <sup>[如东]</sup> 帆船舵螯上供舵杆上下滑动的口。  
 1. 【[金门箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_men_gv.md#金门箍)】`jien1 men2 gv1` <sup>[如东]</sup> 帆船金门两边的木板，固定在船尾板上。  
 1. 【[金箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pah.md#金箔)】`jien1 pah8` <sup>[如东]</sup> ① 金薄片，多用以贴饰佛像、家具。 ② 涂上金属粉末的纸，民间用来折元宝祭祖。  

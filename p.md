@@ -1161,11 +1161,11 @@
 1. 【[婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu.md#婆婆)】`pu2 pu` <small>/pʰo2 pʰo/<sup>兴化</sup></small> ① 外婆 ② 母亲的母亲。也称外婆。丈夫的母亲。<sup>\[如东\]</sup> ③ 丈夫的母亲。也叫奶奶。<sup>\[东台\]</sup> ④ 外祖母，外婆。<sup>\[东台\]</sup> ⑤ ［喻］有权管自己的人。<sup>\[东台\]</sup> ⑥ 外祖母。<sup>\[兴化\]</sup>  
 1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma` <sup>[东台]</sup> 戏称男人言谈举止扭扭捏捏，感情脆弱，性格像女人。  
 1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma1` <sup>[如东]</sup> 比喻说话啰唆，办事拖拉：不要～的。  
+1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma1` <small>/pʰɤɯ2 pʰɤɯ mɑ1 mɑ1/<sup>泰兴</sup></small> 指拘泥旧俗而缺乏知识的老年妇女。比喻啰啰嗦嗦。<sup>\[泰兴\]</sup>  
 1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma3 ma` <sup>[泰州]</sup> ① 贬称未读过书而特别关心琐事的中老年女性：这些～没得事就在做块儿𠹥淡话。 ② 讥称男性言行就像未读过书而特别关心琐事的中、老年女性一样：你这小伙就不要再～的吧，不同意你就说，哭咖做甚的唦？  
 1. 【[婆婆腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_qian.md#婆婆腔)】`pu2 pu qian1` <sup>[兴化]</sup> （讽）男人而似女人般的腔调：他一个大男人家，说话尖声细气、扭头刮颈的，一副～。也作“婆子气”。  
 1. 【[婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu.md#婆婆)】`pu2 pu2` <sup>[如皋]</sup> 母亲的母亲，外祖母。  
 1. 【[婆婆嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_jy.md#婆婆嘴)】`pu2 pu2 jy3` <sup>[东台]</sup> ［喻］说话絮叨。又作“婆子嘴”。  
-1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu2 ma1 ma1` <small>/pʰɤɯ2 pʰɤɯ2 mɑ1 mɑ1/<sup>泰兴</sup></small> 指拘泥旧俗而缺乏知识的老年妇女。比喻啰啰嗦嗦。<sup>\[泰兴\]</sup>  
 1. 【[婆婆纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_nuh.md#婆婆纳)】`pu2 pu2 nuh8` <small>/pʰʊ2 pʰʊ2 nʊʔ8/<sup>如皋</sup></small> ① 玄参科。野草，可喂猪。<sup>\[如皋\]</sup> ② 玄参科植物婆婆纳，又名婆布纳，一年生草本。茎自基部分枝成丛，下部偃伏地面，斜上，高约20厘米。单叶，茎下部对生，茎上部互生，叶片卵圆形，边缘具圆齿。花单生于叶腋，淡红紫色。蒴果圆球形。种子长圆形。生长在路边田间。<sup>\[如东\]</sup>  
 1. 【[婆婆腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_qian.md#婆婆腔)】`pu2 pu2 qian1` <sup>[东台]</sup> 形容男人说话办事像女人一样柔情，缺乏阳刚之气。  
 1. 【[婆婆香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_xian.md#婆婆香)】`pu2 pu2 xian1` <sup>[东台]</sup> 一种绿色的下肢可屈可伸的昆虫：（童谣）～，～，你磕头，我烧香。  
