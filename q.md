@@ -503,6 +503,7 @@
 1. 【[抢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_zuei.md#抢嘴)】`qian3 zuei3` <small>/t͡ɕʰiaŋ3 t͡suəi3/<sup>兴化</sup>, /t͡ɕʰiɑŋ3 t͡suəɪ3/<sup>泰兴</sup></small> ① 抢着吃。<sup>\[兴化\]</sup> ② 抢话说<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这个人喜欢～，不等人把话说完就插话。<sup>\[兴化\]</sup>｜细伢儿不要～<sup>\[泰兴\]</sup>  
 1. 【[弶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#弶)】`qian5` <sup>[如皋]</sup> 捉鸟的工具：落雪天，下～子能捉到许多鸟儿。  
 1. 【[弶港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_gan.md#弶港)】`qian5 gan3` <sup>[东台]</sup> 东台海边的渔港。  
+1. 【[弶网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_van.md#弶网)】`qian5 van3` <small>/t͡ɕʰiɑŋ5 uɑŋ3/<sup>泰兴</sup></small> 捕捉鱼或鸟兽的罗网。<sup>\[泰兴\]</sup>  
 1. 【[戗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#戗)】`qian5` <small>/t͡ɕʰiaŋ5/<sup>兴化</sup>, /t͡ɕʰiã5/<sup>如皋</sup>, /t͡ɕʰiɑŋ5/<sup>泰县</sup></small> ① 支持、支撑：他要跌，我～住啊他。～𥭚障挡风。<sup>\[如皋\]</sup> ② 增强：下酒～子。<sup>\[如皋\]</sup> ③ 硬挺：饭煮得～。这种布，手摸上去起～。<sup>\[如皋\]</sup> ④ 硬、挺<sup>\[兴化\]</sup>：～面<sup>\[兴化\]</sup>｜～饼<sup>\[兴化\]</sup>｜他说话～～的。‖字亦作“抢”，意为顶撞。《官场现形记》第三十一回有“生恐他两个人把话说抢”句。<sup>\[兴化\]</sup> ⑤ 支持庇护<sup>\[泰县\]</sup>：你哿是要～住他？<sup>\[泰县\]</sup> ⑥ 将一物斜靠一物<sup>\[泰州\]</sup>：他的篙子～吖在后头。<sup>\[泰州\]</sup>｜哪个把潮伞～吖房间的啊？<sup>\[泰州\]</sup>  
 1. 【[戗壁板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bieh_baen.md#戗壁板)】`qian5 bieh7 baen3` <sup>[如东]</sup> 装在堂板外边的木板。  
 1. 【[戗酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_go.md#戗酵)】`qian5 go5` <sup>[兴化]</sup> 面团含水少或掺进了干面粉，蒸或烙出的食物挺硬，耐阻嚼：人老啊，～的馒头咬起来费力。  

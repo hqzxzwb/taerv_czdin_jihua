@@ -864,6 +864,7 @@
 1. 【[坤棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_pan.md#坤棒)】`kuen1 pan` <sup>[兴化]</sup> 形容人身材魁梧、健壮：老马生得～，二三百斤的担子一挑就走。  
 1. 【[昆仲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_chon.md#昆仲)】`kuen1 chon6` <sup>[东台]</sup> 旧时指兄弟。长曰昆，次曰仲。  
 1. 【[昆通山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_ton_shaen.md#昆通山)】`kuen1 ton1 shaen1` <sup>[如东]</sup> 形容物体倒下时的巨大响声。  
+1. 【[裈裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kv.md#裈裤)】`kuen1 kv5` <small>/kʰuəŋ1 kʰu5/<sup>泰兴</sup></small> 短裤<sup>\[泰兴\]</sup>  
 1. 【[裈头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_teu_r.md#裈头<sub>儿</sub>)】`kuen1 teu2 r` <sup>[泰州]</sup> 贴身短裤。  
 1. 【[裩子/裈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zz.md#裩子/裈子)】`kuen1 zz` <small>/kʰuən1 t͡sɿ/<sup>兴化</sup>, /kʰuəŋ1 t͡se/<sup>泰县</sup></small> 短裤、裤衩<sup>\[泰县\]</sup>\[东台：也叫“裤头”\]\[兴化：又叫“褌头子”“裤头子”。\]：田径～<sup>\[东台\]</sup>｜三角～。<sup>\[东台\]</sup>｜西装～。<sup>\[兴化\]</sup>  
 1. 【[捆绑不成夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_ban_beh_chen.md#捆绑不成夫妻)】`kuen3 ban3 beh7 chen2 fv1 qi1` <sup>[东台]</sup> 以夫妻要情投意合喻指合作共事也不能强迫。  
@@ -884,7 +885,7 @@
 1. 【[睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go.md#睏觉)】`kuen5 go5` <small>/kʰuən5 kɔ5/<sup>兴化</sup>, /kʰuəŋ5 kɔ5/<sup>如皋</sup>, /kʰuəŋ5 kɔ5/<sup>泰县</sup></small> ① 睡觉。<sup>\[如东\]</sup> ② 指性行为。<sup>\[如东\]</sup> ③ 睡觉。<sup>\[如皋\]</sup> ④ 婚外性交。<sup>\[如皋\]</sup> ⑤ 睡觉。<sup>\[东台\]</sup> ⑥ 睡觉。<sup>\[兴化\]</sup> ⑦ 睡觉<sup>\[泰县\]</sup>：他～去啊。<sup>\[泰县\]</sup>  
 1. 【[睏觉拾咖个枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go_sheh_ga.md#睏觉拾咖个枕头)】`kuen5 go5 sheh8 ga gu zhen3 teu` <sup>[如皋]</sup> 再巧不过，再好不过。  
 1. 【[睏柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuei.md#睏柜)】`kuen5 kuei6` <small>/kʰuəŋ5 kʰuei1/<sup>如皋</sup></small> ① 柜的一种。木制，长方形，里面可以贮藏粮食或其他东西，上面可以睡人，这种柜叫做睏柜。<sup>\[如东\]</sup> ② 商店常用以存放钱物兼作床的柜门向上的矮木柜。<sup>\[如皋\]</sup>  
-1. 【[睏裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kv.md#睏裤)】`kuen5 kv5` <small>/kʰuən5 kʰu5/<sup>兴化</sup>, /kʰuəŋ5 kʰu5/<sup>泰县</sup></small> ① 睡裤，睡觉时连在身上的单裤。<sup>\[兴化\]</sup> ② 睡裤：这条～蛮合身的。<sup>\[泰县\]</sup>  
+1. 【[睏裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kv.md#睏裤)】`kuen5 kv5` <small>/kʰuən5 kʰu5/<sup>兴化</sup>, /kʰuəŋ5 kʰu5/<sup>泰县</sup></small> 睡裤<sup>\[泰县\]</sup>\[兴化：睡觉时连在身上的单裤。\]：这条～蛮合身的。<sup>\[泰县\]</sup>  
 1. 【[睏犁头尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_li_teu_jin.md#睏犁头尖<sub>儿</sub>)】`kuen5 li2 teu2 jin1 r` <sup>[如皋]</sup> 见“睏品字”。  
 1. 【[睏品字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_pien_cz.md#睏品字)】`kuen5 pien3 cz6` <sup>[如皋]</sup> 三人同床，头位分两端，呈“品”字形。  
 1. 【[睏㞗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏㞗)】`kuen5 qieu2` <sup>[兴化]</sup> 睡觉的粗俗说法：吃咖晚饭没事做，早点～。  

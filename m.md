@@ -1269,11 +1269,13 @@
 1. 【[眠牛<sub>儿</sub>竖脊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ngeu_r_shv.md#眠牛<sub>儿</sub>竖脊子)】`min2 ngeu2 r shv6 jieh zz` <sup>[如皋]</sup> 竖装在眠牛儿上的柱子。一副相配，可架上“踏车”用的“扶手”。  
 1. 【[眠水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shuei.md#眠水)】`min2 shuei3` <sup>[如皋]</sup> 见“眠牛儿”。  
 1. 【[眠枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zhen.md#眠枕)】`min2 zhen3` <sup>[如皋]</sup> 见“眠牛儿”。  
+1. 【[绵𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_haen.md#绵𢜩)】`min2 haen1` <small>/mĩ2 xɛ̃1/<sup>泰兴</sup></small> 运作缓慢；反应迟钝。<sup>\[泰兴\]</sup>：他耳朵～<sup>\[泰兴\]</sup>  
 1. 【[绵羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ian.md#绵羊)】`min2 ian2` <sup>[如东]</sup> 牛科动物绵羊。  
+1. 【[绵羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ian.md#绵羊)】`min2 ian2` <small>/mĩ2 iɑŋ2/<sup>泰兴</sup></small> 羊的一种。因其性温顺，常喻柔弱的人。<sup>\[泰兴\]</sup>  
 1. 【[绵联纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lin_zhr.md#绵联纸)】`min2 lin2 zhr3` <sup>[东台]</sup> 又叫“联史纸”，以竹木纤维为原料，产于赣闽一带。  
 1. 【[绵白糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_poh_tan.md#绵白糖)】`min2 poh8 tan2` <sup>[东台]</sup> 白糖中的一种，细白如绵。  
 1. 【[绵瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ran.md#绵瓤)】`min2 ran2` <sup>[如皋]</sup> 西瓜因放置过久不新鲜，打开后发软。  
-1. 【[绵软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_run.md#绵软)】`min2 run3` <small>/miɪ̃2 ɻõ3/<sup>泰县</sup></small> ① 柔软。<sup>\[如东\]</sup>：这种面料～。<sup>\[如东\]</sup> ② 柔软、舒服。<sup>\[东台\]</sup> ③ 柔软。<sup>\[东台\]</sup> ④ 松软。<sup>\[泰县\]</sup>  
+1. 【[绵软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_run.md#绵软)】`min2 run3` <small>/mĩ2 ɻʊ̃3/<sup>泰兴</sup>, /miɪ̃2 ɻõ3/<sup>泰县</sup></small> ① 柔软。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：这种面料～。<sup>\[如东\]</sup> ② 柔软、舒服。<sup>\[东台\]</sup> ③ 松软。<sup>\[泰县\]</sup>  
 1. 【[绵软的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_run_dii.md#绵软的)】`min2 run3 dii` <sup>[如皋]</sup> 柔软。  
 1. 【[绵霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shuan.md#绵霜)】`min2 shuan1` <sup>[如皋]</sup> 霜层很薄，不明显。  
 1. 【[苠田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_tin.md#苠田)】`min2 tin2` <sup>[如皋]</sup> 生长期过长。又作“赖田”。  

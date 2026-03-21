@@ -1471,11 +1471,11 @@
 1. 【[絾𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_den_zz.md#絾𧘸子)】`shen2 den5 zz` <sup>[东台]</sup> 缝棉袄。（见“𧘸子”）  
 1. 【[絾被单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_pi_daen.md#絾被单)】`shen2 pi6 daen1` <sup>[东台]</sup> 缝棉被。又称勾被子。  
 1. 【[絾被子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_pi_zz.md#絾被子)】`shen2 pi6 zz` <small>/səŋ2 pʰʝ1 t͡sɿ/<sup>泰兴</sup></small> 缝被。<sup>\[泰兴\]</sup>  
-1. 【[绳捆索绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuen_sah_ban.md#绳捆索绑)】`shen2 kuen3 sah7 ban3` <small>/səŋ2 kʰuəŋ3 saʔ7 pã3/<sup>如皋</sup></small> ① 捆绑得结实。<sup>\[如皋\]</sup> ② 喻被纠缠住，不得轻松自如<sup>\[如皋\]</sup> ③ 形容包扎得十分严密。<sup>\[东台\]</sup>  
+1. 【[绳捆索绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_kuen_sah_ban.md#绳捆索绑)】`shen2 kuen3 sah7 ban3` <small>/səŋ2 kʰuəŋ3 saʔ7 pã3/<sup>如皋</sup>, /səŋ2 kʰuəŋ3 sɑʔ7 pɑŋ3/<sup>泰兴</sup></small> ① 捆绑得结实。<sup>\[如皋\]</sup> ② 喻被纠缠住，不得轻松自如<sup>\[如皋\]</sup> ③ 形容包扎得十分严密。<sup>\[东台\]</sup> ④ 用绳子捆绑；很结实地捆绑。<sup>\[泰兴\]</sup>  
 1. 【[绳索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_sah.md#绳索)】`shen2 sah7` <sup>[如东]</sup> 条状物。有棉绳、麻绳、钢绳，塑料绳等多种。  
 1. 【[蹲下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ha_lae.md#蹲下来)】`shen2 ha lae2` <sup>[东台]</sup> 双腿弯曲到最大限度，臀部不着地。（“蹲门口”的“蹲”读chen2）  
 1. 【[婶妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_ma.md#婶妈)】`shen3 ma` <sup>[兴化]</sup> 婶母。背称“婶娘”。  
-1. 【[婶娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nian.md#婶娘)】`shen3 nian2` 叔母，对叔父之妻的称呼。<sup>\[泰州\]</sup>  
+1. 【[婶娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_nian.md#婶娘)】`shen3 nian2` <small>/səŋ3 niɑŋ2/<sup>泰兴</sup></small> 叔母，对叔父之妻的称呼。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[沈万三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen.md#沈万三)】`shen3 vaen6 saen1` <small>/səŋ3 ʋẽ1 sẽ1/<sup>如皋</sup></small> ① 富翁的代名词。<sup>\[如皋\]</sup> ② 元末明初苏州周庄的一个富商，后成为财主、富豪的代名词<sup>\[东台\]</sup>：～打死人——钱妨法。<sup>\[东台\]</sup> ③ 沈富，表字仲荣，俗称万三，元末明初江南第一富豪。<sup>\[泰州\]</sup>  
 1. 【[沈万三打煞人，钱偿命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen_da.md#沈万三打煞人，钱偿命)】`shen3 vaen6 saen1 da3 shaeh7 ren2 qin2 shan2 mien6` <small>/səŋ3 ʋɛ̃1 ɕiɛ̃1 tɑ3 ɕiæʔ7 ɻəŋ2 t͡ɕʰĩ2 sɑŋ2 miŋ1/<sup>泰兴</sup></small> 沈万三，传为明时江南富翁，富可敌国。谓天大的事儿只要有了钱就可以摆平。<sup>\[泰兴\]</sup>  
 1. 【[沈万三打死人——钱妨法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shen_vaen_saen_da.md#沈万三打死人——钱妨法)】`shen3 vaen6 saen1 da3 sz3 ren2 qin2 fan1 faeh7` <sup>[东台]</sup>   

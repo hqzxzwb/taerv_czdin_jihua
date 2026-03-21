@@ -1820,9 +1820,11 @@
 1. 【[滚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_zz.md#滚子)】`guen3 zz` <small>/kuən3 t͡sɿ/<sup>兴化</sup>, /kuəŋ3 t͡se/<sup>泰县</sup></small> ① 圆形物体。<sup>\[如东\]</sup>：轧花～。<sup>\[如东\]</sup> ② 一种小型的圆柱形石条，也叫石碌。用来碾稻谷和压土块。<sup>\[如东\]</sup> ③ 也叫碌碡，一种滚压农具。用石头凿刻而成。也做“磙子”。<sup>\[东台\]</sup> ④ 圆筒形物体<sup>\[兴化\]</sup>：木头～；橡皮～。<sup>\[兴化\]</sup> ⑤ 碌碡<sup>\[兴化\]</sup>：石～。<sup>\[兴化\]</sup> ⑥ 也作“石磙子”。<sup>\[兴化\]</sup> ⑦ 丸药。<sup>\[泰县\]</sup>  
 1. 【[緄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#緄)】`guen3` <sup>[如皋]</sup> 缝纫中的包边、包缝：～领子、～鞋口、～边。  
 1. 【[绲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#绲)】`guen3` <sup>[泰州]</sup> 一种缝纫方法，将布、绸镶在织品、衣服、毛毯的边缘：把衣裳～个边。  
+1. 【[绲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#绲)】`guen3` <small>/kuəŋ3/<sup>泰兴</sup></small> 缝纫用语。如“～边”、“～鞋口”。<sup>\[泰兴\]</sup>  
 1. 【[绲边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_bin.md#绲边)】`guen3 bin1` ① 用布条儿把衣服边或鞋帮口包裹着缝起来，叫绲边。<sup>\[如东\]</sup> ② 为衣服、鞋子的边缘缝上布条等，也写作滚边。章炳麟《新方言》：“凡织带皆可以为衣服缘边，故今称缘边曰～。”<sup>\[东台\]</sup>  
 1. 【[绲口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_keu.md#绲口)】`guen3 keu3` <sup>[兴化]</sup> 缝边：鞋子～。  
 1. 【[绲口条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_keu_tio_zz.md#绲口条子)】`guen3 keu3 tio2 zz` <sup>[兴化]</sup> 用作衣服、鞋帽绲边的布条。  
+1. 【[绲条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_tio.md#绲条)】`guen3 tio2` <small>/kuəŋ3 tʰiɔ2/<sup>泰兴</sup></small> 斜剪的狭长布条，用以绲边。<sup>\[泰兴\]</sup>  
 1. 【[婫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#婫)】`guen5` <small>/kuəŋ5/<sup>如皋</sup></small> ① 一种烹调方法。食物煮熟了，加盖再煮一会儿。<sup>\[如东\]</sup> ② 闷，闷热<sup>\[如皋\]</sup>：天气～。<sup>\[如皋\]</sup> ③ 表示天气很闷热<sup>\[东台\]</sup>：今吖～得很。<sup>\[东台\]</sup>  
 1. 【[婫阵头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_chen_teu.md#婫阵头)】`guen5 chen6 teu2` <sup>[如皋]</sup> 夏天，阵头云压下来，闷热无风，将雨。  
 1. 【[婫刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_keh_r.md#婫刻<sub>儿</sub>)】`guen5 keh9 r` <sup>[如皋]</sup> 闷一会儿，等待后熟。  

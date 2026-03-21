@@ -2124,6 +2124,7 @@
 1. 【[绿茵茵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_ien_ien_dii.md#绿茵茵的)】`loh8 ien1 ien1 dii` <sup>[东台]</sup> 形容颜色碧绿，十分喜人。  
 1. 【[绿膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_mah.md#绿膜)】`loh8 mah8` <sup>[兴化]</sup> 人临终前眼睛无光，仿佛蒙上一层绿色薄膜：（他）声气微续，已是不省人事。眼睛蒙上一层～，只管大睁着……（《广陵潮》十二）‖也作“蓝膜”。  
 1. 【[绿帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_mo_zz.md#绿帽子)】`loh8 mo6 zz` <sup>[如东]</sup> 暗指某人老婆与人通奸。  
+1. 【[绿帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_mo_zz.md#绿帽子)】`loh8 mo6 zz` <small>/lɔʔ8 mɔ1 t͡sɿ/<sup>泰兴</sup></small> 俗谓妻有外遇者戴～。<sup>\[泰兴\]</sup>  
 1. 【[绿豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_teu.md#绿豆)】`loh8 teu6` <sup>[如东]</sup> 豆科植物绿豆，一年生直立或末端缠绕草本。  
 1. 【[绿豆芽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_teu_nga.md#绿豆芽)】`loh8 teu6 nga2` <sup>[如东]</sup> 豆科植物绿豆种子发出的嫩芽。  
 1. 【[绿豆<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_teu_r_go.md#绿豆<sub>儿</sub>糕)】`loh8 teu6 r go1` <sup>[如皋]</sup> 用绿豆煮熟后洗成沙，加白糖、米粉、菜油、薄荷油等做成的清凉糕点。  

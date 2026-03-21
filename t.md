@@ -355,7 +355,7 @@
 1. 【[淡竹茹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zhoh_rv.md#淡竹茹)】`taen6 zhoh7 rv2` <sup>[如东]</sup> 禾本科植物淡竹基秆除去外皮后刮下中间层。  
 1. 【[蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#蛋)】`taen6` <small>/tʰẽ1/<sup>如皋</sup></small> ① 蛋 ② 卵，特指鸡蛋。其它蛋则冠专名：鸭～、鸽子～、乌鸡儿～、野鸡～、蛇～、龟～等。<sup>\[如皋\]</sup>  
 1. 【[蛋瘪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_bih_zz.md#蛋瘪子)】`taen6 bih7 zz` <small>/tʰẽ1 piʔ7 t͡sɿ/<sup>如皋</sup></small> ① 鸡蛋打破壳儿，整体放入水中煮熟，加糖，称蛋瘪子。<sup>\[如东\]</sup> ② 将鲜蛋分别去壳下到沸水中煮成的食品。加工称：“打～、烧蛋茶”。<sup>\[如皋\]</sup>  
-1. 【[蛋茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_cha.md#蛋茶)】`taen6 cha2` <small>/tʰẽ1 t͡sʰa2/<sup>如皋</sup></small> ① 见“蛋瘪子”。<sup>\[如皋\]</sup> ② 生鸡蛋破壳后，将里面的蛋直接倒进锅里的水中，加糖或盐煮熟，连水装碗即成，旧时亲戚、贵客上门用此招待<sup>\[泰州\]</sup>：人家头一回到你家来，你要打～招待。<sup>\[泰州\]</sup>  
+1. 【[蛋茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_cha.md#蛋茶)】`taen6 cha2` <small>/tʰẽ1 t͡sʰa2/<sup>如皋</sup>, /tʰɛ̃1 t͡sʰɑ2/<sup>泰兴</sup></small> ① 见“蛋瘪子”。<sup>\[如皋\]</sup> ② 生鸡蛋破壳后，将里面的蛋直接倒进锅里的水中，加糖或盐煮熟，连水装碗即成，旧时亲戚、贵客上门用此招待<sup>\[泰州\]</sup>：人家头一回到你家来，你要打～招待。<sup>\[泰州\]</sup> ③ 食品。即鸡蛋茶。<sup>\[泰兴\]</sup>  
 1. 【[蛋炒饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_cho_faen.md#蛋炒饭)】`taen6 cho3 faen6` <sup>[兴化]</sup> 加鸡蛋和葱花、盐末等炒的米饭。  
 1. 【[蛋膏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_go_r.md#蛋膏<sub>儿</sub>)】`taen6 go1 r` <sup>[如皋]</sup> 鸡蛋黄加淀粉和水调成糊，蒸熟成块，配菜用。  
 1. 【[蛋花<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hua_r_tan.md#蛋花<sub>儿</sub>汤)】`taen6 hua1 r tan1` <sup>[如皋]</sup> 蛋液漷匀后下于沸水中，并不断搅动做成的汤。  
@@ -368,7 +368,7 @@
 1. 【[蛋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qien.md#蛋青)】`taen6 qien1` <sup>[东台]</sup> 像青鸭蛋壳的颜色。  
 1. 【[蛋松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_son.md#蛋松)】`taen6 son1` <sup>[如皋]</sup> 蛋液下入沸水做成的的线状食品。  
 1. 【[蛋黄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_van_r.md#蛋黄<sub>儿</sub>)】`taen6 van2 r` <sup>[如皋]</sup> 喻刚出生的婴儿。  
-1. 【[蛋黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_van_zz.md#蛋黄子)】`taen6 van2 zz` <sup>[东台]</sup> 蛋中黄色胶状的物体，球形。  
+1. 【[蛋黄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_van_zz.md#蛋黄子)】`taen6 van2 zz` <small>/tʰɛ̃1 uɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 蛋黄<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[蛋黄子油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_van_zz_ieu.md#蛋黄子油)】`taen6 van2 zz ieu2` <sup>[如皋]</sup> 用煮熟的蛋黄熬出的油，药用。  
 1. 【[蛋子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_r.md#蛋子<sub>儿</sub>)】`taen6 zz3 r` <small>/tʰɛ̃6 t͡sɿ3 ɚ/<sup>兴化</sup>, /tʰẽ1 t͡sɿ˞3/<sup>如皋</sup></small> ① 从禽、龟等体内取出的卵黄。<sup>\[如皋\]</sup> ② 正在雌禽卵巢中形成尚未生出的蛋。<sup>\[兴化\]</sup> ③ 附着在雌禽卵巢中尚未生成蛋白、蛋壳的大小不一的黄色小蛋黄。<sup>\[泰州\]</sup>  
 1. 【[庹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#庹)】`tah7` <small>/tʰaʔ7/<sup>如皋</sup>, /tʰɑʔ7/<sup>泰兴</sup>, /tʰɑʔ7/<sup>泰县</sup></small> ① 量词，双臂横展的长度，相当于身高。<sup>\[如皋\]</sup> ② 动词：把绳儿～下子。<sup>\[如皋\]</sup> ③ 两臂左右伸直的长度，约合五尺，称为一庹。<sup>\[如东\]</sup> ④ （量词）两手臂左右平伸出的长度。<sup>\[泰县\]</sup> ⑤ 成人两臂左右平伸时两手之间的距离<sup>\[泰州\]</sup>：一～长的竹子<sup>\[泰州\]</sup> ⑥ 两臂左右平伸的长度。<sup>\[泰兴\]</sup>：一～长<sup>\[泰兴\]</sup>  
@@ -572,7 +572,7 @@
 1. 【[𠫓不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_beh_ha_lae.md#𠫓不下来)】`teh7 beh7 ha6 lae2` <sup>[东台]</sup> 形容某种商品十分畅销，供不应求：东台乳猪东南亚市场上～，吃香得很咧！  
 1. 【[𠫓膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bio.md#𠫓膘)】`teh7 bio1` <sup>[如东]</sup> 牲畜膘情下降。  
 1. 【[𠫓暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_bo.md#𠫓暴)】`teh7 bo5` <sup>[如皋]</sup> 寒潮浸袭。同“掉暴”。  
-1. 【[𠫓绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#𠫓绽)】`teh7 chaen6` <small>/tʰəʔ7 t͡sʰɛ̃6/<sup>兴化</sup>, /tʰəʔ7 t͡sʰẽ1/<sup>如皋</sup>, /tʰəʔ7 t͡sʰɛ̃1/<sup>泰县</sup></small> ① 线缝裂开。<sup>\[如皋\]</sup> ② 绱鞋的绳断裂，鞋帮鞋底分开。也说“掉绽”。<sup>\[兴化\]</sup>：鞋子～。<sup>\[兴化\]</sup> ③ 针线缝掉下来。<sup>\[泰县\]</sup> ④ 说话有漏洞。<sup>\[泰县\]</sup>  
+1. 【[𠫓绽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chaen.md#𠫓绽)】`teh7 chaen6` <small>/tʰəʔ7 t͡sʰɛ̃6/<sup>兴化</sup>, /tʰəʔ7 t͡sʰẽ1/<sup>如皋</sup>, /tʰəʔ7 t͡ɕʰiɛ̃1/<sup>泰兴</sup>, /tʰəʔ7 t͡sʰɛ̃1/<sup>泰县</sup></small> ① 线缝裂开。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 绱鞋的绳断裂，鞋帮鞋底分开。也说“掉绽”。<sup>\[兴化\]</sup>：鞋子～。<sup>\[兴化\]</sup> ③ 针线缝掉下来。<sup>\[泰县\]</sup> ④ 说话有漏洞。<sup>\[泰县\]</sup>  
 1. 【[𠫓场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_chan.md#𠫓场)】`teh7 chan2` <small>/tʰəʔ7 t͡sʰaŋ2/<sup>兴化</sup></small> ① 因差错或衔接不好丢了面子<sup>\[东台\]</sup>：那个节目没演好，真是～。<sup>\[东台\]</sup> ② 误场次。<sup>\[兴化\]</sup> ③ 演出时，动作、台词有错<sup>\[兴化\]</sup>：他今朝在台上～，观众直喝倒彩。<sup>\[兴化\]</sup>  
 1. 【[𠫓字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_cz.md#𠫓字)】`teh7 cz6` <sup>[如皋]</sup> 落字。  
 1. 【[𠫓单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teh_daen.md#𠫓单)】`teh7 daen1` <sup>[如皋]</sup> ① 单个离群（落单）：黑夜暗星的，大家一齐儿走，互相照应点儿，不要～。 ② 由成双配套变成单数：这是～的鞋子，重配一只。  
