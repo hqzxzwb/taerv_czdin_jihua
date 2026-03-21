@@ -1430,8 +1430,8 @@
 1. 【[镰刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_do.md#镰刀)】`lin2 do1` <sup>[如东]</sup> 割麦、稻等农作物的工具。刀营长，呈弧形，头尖，刃锋利。具短柄。  
 1. 【[镰钩刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_geu_do.md#镰钩刀)】`lin2 geu1 do1` <sup>[东台]</sup> 即镰刀，也称钩儿刀。收割庄稼、割草用的农具。  
 1. 【[鲢鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_y.md#鲢鱼)】`lin2 y2` <sup>[东台]</sup> 一种常见淡水鱼。因讨“年年有余”的口彩，成为民间过年过节常用菜肴。  
-1. 【[鲢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#鲢子)】`lin2 zz` <sup>[如皋]</sup> 鲢。或作“鲢子鱼”。  
-1. 【[鲢子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_y.md#鲢子鱼)】`lin2 zz y2` <sup>[泰州]</sup> “白鲢”俗称，亦作“鲢子”，头大鳞细，背青灰色，腹部白色，本地四大家鱼之一。  
+1. 【[鲢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#鲢子)】`lin2 zz` <small>/lĩ2 t͡sɿ/<sup>如皋</sup>, /lĩ2 t͡sɿ/<sup>泰兴</sup></small> 鲢鱼<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
+1. 【[鲢子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_y.md#鲢子鱼)】`lin2 zz y2` <small>/lĩ2 t͡sɿ y2/<sup>如皋</sup>, /lĩ2 t͡sɿ y2/<sup>泰兴</sup></small> 鲢鱼<sup>\[泰州\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[敛饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ji.md#敛饥)】`lin3 ji1` <sup>[如皋]</sup> 略吃点，暂抵饥饿。  
 1. 【[脸摆啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_bae_a_ha.md#脸摆啊下)】`lin3 bae3 a ha` <sup>[如皋]</sup> 见“死脸”。  
 1. 【[脸板吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_baen_nga_ha.md#脸板吖下)】`lin3 baen3 nga ha` <sup>[如皋]</sup> 脸部毫无表情，或过分严肃、带有怒色。  

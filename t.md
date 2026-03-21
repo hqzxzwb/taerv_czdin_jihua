@@ -25,7 +25,7 @@
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
 1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
-1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup> ④ 松垂的样子。<sup>\[如皋\]</sup> ⑤ 下垂。<sup>\[如东\]</sup>：绳索从树上～下来。<sup>\[如东\]</sup> ⑥ 向下垂。<sup>\[泰兴\]</sup>  
+1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂，松垂的样子<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup><sup>\[如东\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup>｜绳索从树上～下来。<sup>\[如东\]</sup> ④ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
 1. 【[𢪯黄龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_huan_lon.md#𢪯黄龙)】`tae1 huan2 lon` <sup>[如东]</sup> 脓性鼻涕从鼻孔里流出来。  
@@ -130,7 +130,7 @@
 1. 【[泰兴小唱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xien_xio_chan.md#泰兴小唱)】`tae5 xien xio3 chan5` <small>/tʰɛ5 ɕiŋ ɕiɔ3 t͡sʰɑŋ5/<sup>泰兴</sup></small> 乡间娱乐形式之一，不拘形式，有说有唱，生动活泼。<sup>\[泰兴\]</sup>  
 1. 【[泰州的灯笼，没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_dii_den.md#泰州的灯笼，没得影子)】`tae5 zheu1 dii den1 lon meh8 deh ien3 zz` <small>/tʰɛ5 t͡ɕiɤɯ1 təɪ təŋ1 lɔŋ məʔ8 təʔ iŋ3 t͡sɿ/<sup>泰兴</sup></small> 歇后语。谓泰州的灯笼质量高，点亮后周边没有阴影。比喻没有修养的人。<sup>\[泰兴\]</sup>  
 1. 【[泰州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_zheu_qien.md#泰州青)】`tae5 zheu1 qien1` <sup>[如皋]</sup> 青菜品种之一。见“碗儿青”。  
-1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <sup>[如皋]</sup> 替，以现金代物：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。  
+1. 【[代](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#代)】`tae6` <small>/tʰɛ1/<sup>如皋</sup></small> 替，以现金代物<sup>\[如皋\]</sup>：～奁（给新娘）、～墨（给新进学）、～箔（代纸箔）、～点（代供点）。<sup>\[如皋\]</sup>  
 1. 【[垈/岱/埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#垈/岱/埭)】`tae6` <small>/tʰɛ6/<sup>兴化</sup>, /tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup>, /tʰe1/<sup>泰县</sup></small> 地名通名，旧作埭，今泰兴多作岱或垈：姚家～  
 1. 【[埭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu.md#埭头)】`tae6 teu2` <small>/tʰɛ1 tʰəɪ2/<sup>泰兴</sup></small> 田块的长度<sup>\[泰兴\]</sup>：箇块田的～长ngae<sup>\[泰兴\]</sup>  
 1. 【[大锺垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_don_teu.md#大锺垛)】`tae6 don1 teu2` <sup>[如皋]</sup> 地名。今记作“岱东头”，是原戴庄乡政府驻地。当地《秦氏宗谱》记载“明初秦氏移民至此，时名‘大锺垛’读作‘岱东头’”。如皋词典记音tae1 den1 tei2。  
