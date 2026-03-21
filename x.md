@@ -798,7 +798,8 @@
 1. 【[兴时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr.md#兴时)】`xien1 shr2` <small>/ɕin1 sɿ2/<sup>兴化</sup>, /ɕiəŋ1 sɿ2/<sup>如皋</sup>, /ɕiŋ1 sɿ2/<sup>泰兴</sup></small> 时尚，时兴，流行<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今年春节，市面上～唐装。也作“习时”。<sup>\[兴化\]</sup>｜眼下唐装只叫个～<sup>\[泰兴\]</sup>  
 1. 【[兴头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_teu.md#兴头)】`xien1 teu2` <sup>[如皋]</sup> 带头发起，最先。  
 1. 【[心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien.md#心)】`xien1` <small>/ɕiəŋ1/<sup>如皋</sup>, /ɕiŋ1/<sup>泰兴</sup></small> ① 期间<sup>\[如皋\]</sup>：水～里（发大水期间）。<sup>\[如皋\]</sup> ② 日光下、月光下<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：太阳～里<sup>\[如皋\]</sup>｜凉月子～里<sup>\[如皋\]</sup> ③ 泛指物体中央<sup>\[泰州\]</sup>：船停吖江～里。<sup>\[泰州\]</sup>  
-1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` <small>/ɕiŋ1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 良心。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 用心；存心<sup>\[东台\]</sup>：～好。<sup>\[东台\]</sup> ③ 心术、品德<sup>\[东台\]</sup>：菩萨～。<sup>\[东台\]</sup> ④ 心思：这时候没～打扑克。<sup>\[泰县\]</sup>  
+1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` ① 良心。<sup>\[如东\]</sup>：她的～好。<sup>\[如东\]</sup> ② 用心；存心<sup>\[东台\]</sup>：～好。<sup>\[东台\]</sup> ③ 心术、品德<sup>\[东台\]</sup>：菩萨～。<sup>\[东台\]</sup>  
+1. 【[心肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chan.md#心肠)】`xien1 chan2` <small>/ɕiŋ1 t͡sʰɑŋ/<sup>泰兴</sup>, /ɕiŋ1 t͡sʰɑŋ2/<sup>泰县</sup></small> ① 心思，想做某事的心境<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这时候没～打扑克。<sup>\[泰县\]</sup> ② 心想<sup>\[泰兴\]</sup>：我～他明朝才来的<sup>\[泰兴\]</sup>  
 1. 【[心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chon.md#心重)】`xien1 chon6` <sup>[如东]</sup> 欲望大，要求高：不能～，要适可而止。  
 1. 【[心慈怜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cz_lin.md#心慈怜)】`xien1 cz2 lin2` <sup>[如皋]</sup> 心肠好，心肠软，富有同情心。  
 1. 【[心慈面软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_cz_min_run.md#心慈面软)】`xien1 cz2 min6 run3` <sup>[兴化]</sup> 心地善良，面目和善：祝老太平日～，就是遇见乞丐也是好言相待。  
@@ -871,6 +872,7 @@
 1. 【[心定自然凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tien_cz_rin.md#心定自然凉)】`xien1 tien6 cz6 rin2 lian2` <sup>[东台]</sup> 不管天气多热，只要把心神定下来，就能感到一丝凉意。也作“心静自然凉”。  
 1. 【[心跳肉举](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tio_roh_jy.md#心跳肉举)】`xien1 tio5 roh8 jy3` <sup>[东台]</sup> 形容心惊胆战，肉神不安。  
 1. 【[心动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ton.md#心动)】`xien1 ton6` <sup>[兴化]</sup> 因受外界刺激而产生心理波动：他忽听一阵脚步声，一时～，急忙出门观看。  
+1. 【[心肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_tv.md#心肚)】`xien1 tv6` <small>/ɕiŋ1 tʰu1/<sup>泰兴</sup></small> 心地，心肠<sup>\[泰兴\]</sup>：他～好，人有事找他，他总帮忙<sup>\[泰兴\]</sup>  
 1. 【[心心宁宁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_nien_nien.md#心心宁宁)】`xien1 xien1 nien5 nien5` <sup>[东台]</sup> 似睡非睡之状。又作“醒醒宁宁”。  
 1. 【[心心念念的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_nin_nin.md#心心念念的)】`xien1 xien1 nin6 nin6 dii` <sup>[如皋]</sup> 老是想着，不能忘怀。  
 1. 【[心雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xion.md#心雄)】`xien1 xion2` <small>/ɕin1 ɕioŋ2/<sup>兴化</sup>, /ɕiəŋ1 ɕiɔŋ2/<sup>如皋</sup></small> ① 同“心大”。<sup>\[如皋\]</sup> ② 想做力不能及的事：他病得这样子，还在下～，要上球场比赛。<sup>\[如皋\]</sup> ③ 有做大事的雄心和追求。<sup>\[东台\]</sup> ④ 指人心路大<sup>\[兴化\]</sup>：他想做的事倒不少，就是～力不壮。<sup>\[兴化\]</sup> ⑤ 思想上产生了更大抱负或者更大追求<sup>\[泰州\]</sup>：这小伙～得很，他的目标是清华。<sup>\[泰州\]</sup>  
