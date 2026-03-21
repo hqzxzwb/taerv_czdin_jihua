@@ -425,7 +425,7 @@
 1. 【[摉摉摸摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu_seu_mah_mah.md#摉摉摸摸)】`seu2 seu2 mah8 mah8` <sup>[如皋]</sup> 喻在家这样做做，那样做做，忙个不停。  
 1. 【[摉摉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu_seu_r.md#摉摉<sub>儿</sub>)】`seu2 seu2 r` <sup>[如皋]</sup> 鸡脚的谑称。如皋词典写“搜搜儿”表音。  
 1. 【[锼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/seu.md#锼)】`seu2` <sup>[兴化]</sup> 用钢（或铜）丝锯在木板上抽镂空花：～花板。  
-1. 【[㸺牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ngeu.md#㸺牛)】`sha1 ngeu2` <small>/sa1 ŋei2/<sup>如皋</sup></small> ① 母牛。<sup>\[如皋\]</sup> ② 母黄牛<sup>\[泰州\]</sup>：这条老～耕田不行唻。<sup>\[泰州\]</sup>  
+1. 【[㸺牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ngeu.md#㸺牛)】`sha1 ngeu2` <small>/sa1 ŋei2/<sup>如皋</sup>, /sɑ1 ŋəɪ2/<sup>泰兴</sup></small> ① 母牛。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 母黄牛<sup>\[泰州\]</sup>：这条老～耕田不行唻。<sup>\[泰州\]</sup>  
 1. 【[杉货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_hu.md#杉货)】`sha1 hu5` <sup>[兴化]</sup> 指竹编的篮子、笿子、淘箩、筛、蒸笼、火把等商品：～店。  
 1. 【[杉揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#杉揦子)】`sha1 laeh8 zz` <small>/sa1 læʔ8 t͡sɿ/<sup>兴化</sup>, /sa1 leʔ8 t͡sɿ/<sup>如皋</sup></small> ① 木制的粗大的城门栅。俗说<sup>\[如皋\]</sup>：（你）力气大，到西门城外去扛～。<sup>\[如皋\]</sup> ② 由杉木条做成的栅栏<sup>\[兴化\]</sup>：（李逵）睁圆怪眼，倒竖虎须……便把～撧葱般拔断……（《水浒传》七四）<sup>\[兴化\]</sup>  
 1. 【[栅揦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_laeh_zz.md#栅揦子)】`sha1 laeh8 zz` <small>/sɑ1 læʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 用竹片或木条编织起来的围墙。<sup>\[如东\]</sup> ② 栅栏。用竹子或芦苇编成的类似篙笆的东西。<sup>\[泰兴\]</sup>  

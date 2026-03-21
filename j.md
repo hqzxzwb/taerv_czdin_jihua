@@ -1318,6 +1318,7 @@
 1. 【[肩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu.md#肩头)】`jin1 teu` <sup>[如皋]</sup> 肩部。  
 1. 【[豜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#豜子)】`jin1 zz` <sup>[如东]</sup> 未骟的小公猪。  
 1. 【[俭朴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_poh.md#俭朴)】`jin3 poh7` <sup>[东台]</sup> 俭省朴素：生活～。  
+1. 【[剪包搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_bo_kah.md#剪包搉)】`jin3 bo1 kah7` <small>/t͡ɕĩ3 pɔ1 kʰɑʔ7/<sup>泰兴</sup></small> 儿童游戏。即剪刀、石头、布。<sup>\[泰兴\]</sup>  
 1. 【[剪红萝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hon_lu.md#剪红萝)】`jin3 hon2 lu2` <sup>[如皋]</sup> 剪夏萝。  
 1. 【[剪花样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_hua_ian.md#剪花样)】`jin3 hua1 ian6` <small>/t͡ɕĩ3 xua1 iã1/<sup>如皋</sup></small> ① 剪出绣花的花样，是一门剪纸艺术。<sup>\[如皋\]</sup> ② 民间工艺，用纸剪成花草，鸟兽的形象，供刺绣之用。<sup>\[东台\]</sup>  
 1. 【[剪绺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_lieu.md#剪绺)】`jin3 lieu3` <sup>[兴化]</sup> 小偷：这次出差，捱～的掏去三百多块。  

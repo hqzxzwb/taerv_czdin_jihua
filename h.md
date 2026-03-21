@@ -2038,7 +2038,7 @@
 1. 【[婚期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#婚期)】`huen1 qi1` <sup>[东台]</sup> 结婚的日期。  
 1. 【[婚丧红白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_san_hon_poh.md#婚丧红白)】`huen1 san1 hon2 poh8` <sup>[兴化]</sup> 与婚、丧、喜、庆有关的事宜：……或有～等事，王夫人贺吊迎送，应酬不暇……（《红楼梦》五五）  
 1. 【[昏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_go.md#昏觉)】`huen1 go5` <sup>[如皋]</sup> ① 熟睡难醒的样子。 ② 指“尿床”。  
-1. 【[昏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#昏话)】`huen1 hua6` <small>/xuəŋ1 xuɑ1/<sup>泰兴</sup></small> 犹胡话。没有根据或没有道理的话。<sup>\[泰兴\]</sup>  
+1. 【[昏话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#昏话)】`huen1 hua6` <small>/xuəŋ1 xuɑ1/<sup>泰兴</sup></small> ① 犹胡话。没有根据或没有道理的话。<sup>\[泰兴\]</sup> ② 乱说；胡说。<sup>\[泰兴\]</sup>  
 1. 【[昏里核登的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_heh_den.md#昏里核登的)】`huen1 lii heh8 den1 dii` <sup>[如皋]</sup> 头脑发昏。  
 1. 【[昏里昏懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_huen_don.md#昏里昏懂)】`huen1 lii huen1 don3` <sup>[兴化]</sup> 昏头昏脑，思辨不清：这个糊涂账把我查得～的。  
 1. 【[昏里六冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lii_loh_chon.md#昏里六冲)】`huen1 lii loh8 chon5` <small>/xuəŋ1 nɿ nɔʔ8 t͡sʰoŋ5/<sup>泰县</sup></small> 昏头昏脑<sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[东台：同“昏头六冲”。\]：你怎吖～的撞到我这许来啊？<sup>\[泰县\]</sup>｜处长刚才捱他俫几个人弄得～的，你的事明朝子再说吧。<sup>\[泰州\]</sup>｜他酒多啊，这一刻儿～的，这势子走，路上不安全。<sup>\[泰州\]</sup>  
@@ -2085,10 +2085,15 @@
 1. 【[魂飞魄散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_fei_poh_saen.md#魂飞魄散)】`huen2 fei1 poh7 saen5` <sup>[如东]</sup> 魂魄飞散了，表示受到极大的惊吓。  
 1. 【[魂落掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lah_tio_a.md#魂落掉啊)】`huen2 lah8 tio6 a` <sup>[如东]</sup> ① 魂灵已经失去，人快要死亡了。 ② 比喻人的头脑失去理智：～，那个教你做的！  
 1. 【[魂魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_poh.md#魂魄)】`huen2 poh7` <sup>[如东]</sup> 中医认为，魂是人体肝的神明，主理性，魄是人体肺的神明，主本能。魂魄之间相生相克。现代把魂引申为人的生命、一种脱离物质的精神，称灵魂。比喻一个组织、一种运动、一次会议的核心思想。魄引申为一种气量。  
+1. 【[混合面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huh_min.md#混合面)】`huen3 huh8 min6` <small>/xuəŋ3 xʊʔ8 mĩ1/<sup>泰兴</sup></small> 用不去皮壳的小麦轧成的面。<sup>\[泰兴\]</sup>  
 1. 【[混笼统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lon_ton.md#混笼统)】`huen3 lon2 ton3` <sup>[兴化]</sup> 形容含糊不清：你这些开支～子，最后怎吖结算？  
 1. 【[混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#混)】`huen5` <small>/xuəŋ5/<sup>泰兴</sup></small> 胡乱<sup>\[泰兴\]</sup>：～说/乱说<sup>\[泰兴\]</sup>｜～搝/乱来、乱搞<sup>\[泰兴\]</sup>｜～动/乱动<sup>\[泰兴\]</sup>  
+1. 【[混缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_chin.md#混缠)】`huen5 chin2` <small>/xuəŋ5 t͡ɕʰĩ2/<sup>泰兴</sup></small> 胡乱纠缠。<sup>\[泰兴\]</sup>  
+1. 【[混饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_qieh.md#混饭吃)】`huen5 faen6 qieh7` <small>/xuəŋ5 fɛ̃1 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 谓为谋生而工作。也作“混嘴”。<sup>\[泰兴\]</sup>  
 1. 【[混混<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen_r.md#混混<sub>儿</sub>)】`huen5 huen r` <sup>[兴化]</sup> 游手好闲的青皮无赖。也叫“混混子”。  
+1. 【[混混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen.md#混混)】`huen5 huen5` <small>/xuəŋ5 xuəŋ5/<sup>泰兴</sup></small> 苟且度日。<sup>\[泰兴\]</sup>  
 1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <sup>[如皋]</sup> 见“混子”。  
+1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <small>/xuəŋ5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 能言善辩，能把事情摆平的人。多作贬义。<sup>\[泰兴\]</sup>  
 1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
 1. 【[混来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混来)】`huen5 lae2` <sup>[如东]</sup> 蛮干，乱干。  
 1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九）  
@@ -2098,6 +2103,7 @@
 1. 【[混世虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_chon.md#混世虫)】`huen5 shr5 chon2` <sup>[泰州]</sup> 比喻胸无大志，成日无所事事，苟且度日的人：你就是个～，甚的事情都不想做。  
 1. 【[混世魔王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_shr_mu_van.md#混世魔王)】`huen5 shr5 mu2 van2` <sup>[东台]</sup> ［喻］扰乱世界、给人们带来严重危害的恶人：这个～终于捱执行吖死刑。  
 1. 【[混账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zhan.md#混账)】`huen5 zhan5` 言语行动无理无耻。<sup>\[如东\]</sup><sup>\[东台\]</sup>：他是一个～东西。<sup>\[如东\]</sup>｜那是～话<sup>\[东台\]</sup>｜这个～东西真坏。<sup>\[东台\]</sup>  
+1. 【[混嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zuei.md#混嘴)】`huen5 zuei3` <small>/xuəŋ5 t͡suəɪ3/<sup>泰兴</sup></small> 谓混饭吃，将就着生活下去。多作自谦语。<sup>\[泰兴\]</sup>  
 1. 【[混子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_zz.md#混子)】`huen5 zz` <small>/xuən5 t͡sɿ/<sup>兴化</sup>, /xuəŋ5 t͡sɿ/<sup>如皋</sup></small> ① 善与各种人、各种环境、各种复杂情况打交道的人。<sup>\[如皋\]</sup> ② 又称混脚，指游手好闲不务正业混日子的人。<sup>\[东台\]</sup> ③ 混迹于社会某阶层，某行业中的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这人是有名的～，专门抱粗腿，说二话。<sup>\[兴化\]</sup>｜这家伙是钢材市场出咖名的～。<sup>\[泰州\]</sup>  
 1. 【[溷/荤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen.md#溷/荤)】`huen5` 葱、蒜、韭等的辛味  
 1. 【[溷吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_nga.md#溷吖)】`huen5 nga` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  

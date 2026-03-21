@@ -468,6 +468,7 @@
 1. 【[搪弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lon.md#搪弄)】`tan2 lon6` <sup>[兴化]</sup> 搪塞、敷衍：他再来催促就拿好话～他下子。  
 1. 【[搪塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_seh.md#搪塞)】`tan2 seh7` <sup>[如东]</sup> 敷衍。  
 1. 【[搪相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xian.md#搪相)】`tan2 xian5` <sup>[如皋]</sup> 扶相、捧场。  
+1. 【[淌猫<sub>儿</sub>汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_zheh.md#淌猫<sub>儿</sub>汁)】`tan2 mo2 r zheh7` <small>/tʰɑŋ2 mɔ˞2 t͡səʔ7/<sup>泰兴</sup></small> 谑语。流泪。<sup>\[泰兴\]</sup>  
 1. 【[溏恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gon.md#溏恭)】`tan2 gon1` <sup>[兴化]</sup> 稀薄的不成形的大便。  
 1. 【[溏鸡屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ji_shr.md#溏鸡屎)】`tan2 ji1 shr3` <sup>[兴化]</sup> 稀薄的鸡粪。  
 1. 【[溏心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#溏心)】`tan2 xien1` ① 蛋煮过或腌过后，蛋黄没有完全凝固的地方。<sup>\[东台\]</sup> ② 蛋煮熟后蛋黄没有完全凝固<sup>\[泰州\]</sup>：～鸡蛋。<sup>\[泰州\]</sup>  
@@ -500,8 +501,10 @@
 1. 【[淌浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huen_shuei.md#淌浑水)】`tan3 huen2 shuei3` <sup>[如东]</sup> 乘混乱捞取好处。  
 1. 【[淌汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hun.md#淌汗)】`tan3 hun6` <small>/tʰã3 xʊ̃1/<sup>如皋</sup></small> ① 出大汗 ② 喻负担过重，支出过多，十分吃力。<sup>\[如皋\]</sup> ③ 状瓜菜腌出些许汁来。<sup>\[如皋\]</sup> ④ 流汗。<sup>\[如东\]</sup>：天热，浑身～。<sup>\[如东\]</sup>  
 1. 【[淌浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_jian.md#淌浆)】`tan3 jian1` <sup>[如东]</sup> 墙壁上往下淋水。没有用处了：这批货淌吖浆。  
+1. 【[淌来僧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lae_sen.md#淌来僧)】`tan3 lae2 sen1` <small>/tʰɑŋ3 lɛ2 səŋ1/<sup>泰兴</sup></small> 骂人语。谓不曾有父母生养的野种和尚。<sup>\[泰兴\]</sup>  
 1. 【[淌麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ma_ieu.md#淌麻油)】`tan3 ma2 ieu2` <sup>[兴化]</sup> （戏）流泪。  
 1. 【[淌猫<sub>儿</sub>屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_shr.md#淌猫<sub>儿</sub>屎)】`tan3 mo2 r shr3` <sup>[泰县]</sup> 流泪。  
+1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_suei.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r suei1` <small>/tʰɑŋ3 mɔ˞2 suəɪ1/<sup>泰兴</sup></small> 戏指流泪<sup>\[泰兴\]</sup>  
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_xy.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r xy1` <sup>[如皋]</sup> 詈语。指流泪。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_suei.md#淌猫尿)】`tan3 mo2 suei1` <sup>[兴化]</sup> （戏）流泪。也说“淌麻油”。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` 戏称淌眼泪<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你好好做，不然捱我熊吖还覅～！<sup>\[东台\]</sup>｜说咖急咖就～。<sup>\[泰州\]</sup>  
@@ -1327,8 +1330,11 @@
 1. 【[天作丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_cheu.md#天作丑)】`tin1 zah7 cheu3` <sup>[东台]</sup> 指晴好天气向阴雨天或恶劣气候转变的种种迹象。  
 1. 【[天长吖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zhan_nga_mo.md#天长吖毛)】`tin1 zhan3 nga mo2` <sup>[如皋]</sup> 天色混浊。  
 1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <sup>[兴化]</sup> 指生孩子（含头胎）：去年冬天，哥嫂～吖个儿子。  
+1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <small>/tʰĩ1/<sup>泰兴</sup></small> 增加。<sup>\[泰兴\]</sup>：再～点儿<sup>\[泰兴\]</sup>  
 1. 【[添茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha.md#添茶)】`tin1 cha2` <sup>[如东]</sup> 一种民俗。出殡时，亲友在死者经过的路上放一张桌子或凳子，上面摆四样茶点，表示对死者的尊敬、哀悼和饯行。  
 1. 【[添房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fan.md#添房)】`tin1 fan2` <small>/tʰiɪ̃1 faŋ2/<sup>兴化</sup></small> ① 嫁女时所送的礼物<sup>\[兴化\]</sup>：舅舅从外边寄回一万元，为外甥女～。<sup>\[兴化\]</sup>｜这张待诏有一般做花的相识，都来与女儿～……（《清平山堂话本·花灯轿莲女成佛记》）<sup>\[兴化\]</sup> ② 女子出嫁之前亲戚朋友们送给待嫁新娘的钱物。<sup>\[泰州\]</sup>  
+1. 【[添人不杀鸡，筷子摆摆稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ren_beh_shaeh.md#添人不杀鸡，筷子摆摆稀)】`tin1 ren2 beh7 shaeh7 ji1 kuae5 zz bae3 bae3 xi1` <small>/tʰĩ1 ɻəŋ2 pəʔ7 ɕiæʔ7 t͡ɕʝ1 kʰuɛ5 t͡sɿ pɛ3 pɛ3 ɕʝ1/<sup>泰兴</sup></small> 与“添人不添粮”义同。<sup>\[泰兴\]</sup>  
+1. 【[添人不添粮，捾子作作忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ren_beh_tin.md#添人不添粮，捾子作作忙)】`tin1 ren2 beh7 tin1 lian2 vaen3 zz zah7 zah7 man2` <small>/tʰĩ1 ɻəŋ2 pəʔ7 tʰĩ1 liɑŋ2 ʋɛ̃3 t͡sɿ t͡sɑʔ7 t͡sɑʔ7 mɑŋ2/<sup>泰兴</sup></small> 谓增加了人但不增加饭菜。<sup>\[泰兴\]</sup>  
 1. 【[添手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sheu.md#添手)】`tin1 sheu` <sup>[兴化]</sup> 以后追加的东西：所有材料全在这块，弄坏啊没得～。  
 1. 【[添寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sheu.md#添寿)】`tin1 sheu6` <small>/tʰĩ1 sei1/<sup>如皋</sup></small> ① 补寿。生日已过，友人补贺之。<sup>\[如皋\]</sup> ② 反话，咒人早死。<sup>\[如皋\]</sup> ③ 民俗，在过生日的当天，参加祝贺的亲友中午吃面、晚上吃酒，称为“中面晚酒”。中午吃面之时，每张桌子中间放置一个空的寿碗，碗中盛有红纸剪成的“寿”字，每个吃面的人都要在吃面前，先从自己碗中用筷子搛一根面条（面条根数不限，一般多搛1—2根）置于寿碗中，称为“添寿”。各桌寿碗中的“添寿”面条在席散时集中起来倒在屋上供鸟啄食。<sup>\[泰州\]</sup>  
 1. 【[添汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_tan.md#添汤)】`tin1 tan1` <sup>[兴化]</sup> 在锅中加水：饭锅中少水，快点儿～。｜……丫环使女不过是抹桌扫地、烧火～，叠被锦床……（《西湖二集》十九）  
@@ -1594,6 +1600,7 @@
 1. 【[桃子头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_zz_teu.md#桃子头)】`to2 zz teu2` <small>/tʰɔ2 t͡sɿ tʰəɪ2/<sup>泰兴</sup></small> 旧时男孩发型。前顶中央留一桃形，余皆剃光。蟠桃象征长寿，传可避邪延年。<sup>\[泰兴\]</sup>  
 1. 【[淘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to.md#淘)】`to2` <sup>[东台]</sup> 用器物盛东西，放在水里搅动，除去杂质和灰尘：～米｜～黄豆。  
 1. 【[淘海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_hae.md#淘海)】`to2 hae3` <sup>[东台]</sup> 汤匙。渔民避讳语。因汤与荡谐音，荡的方音若汤，故避讳。  
+1. 【[淘井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_jien.md#淘井)】`to2 jien3` <small>/tʰɔ2 t͡ɕiŋ3/<sup>泰兴</sup></small> 取出井中的污泥浊水，清理井底。<sup>\[泰兴\]</sup>  
 1. 【[淘碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_loh.md#淘碌)】`to2 loh8` <sup>[泰县]</sup> 无意义地乱动。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu1` <sup>[如东]</sup> 容器。竹篾编成，缝口细密，圆柿形，无盖，有环。淘米用。  
 1. 【[淘箩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_r.md#淘箩<sub>儿</sub>)】`to2 lu1 r` <sup>[如皋]</sup> 篾制有系淘米篮子。  
