@@ -1,6 +1,11 @@
 # 棒打出孝子，惯养忤逆儿
-pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r
+pan6 da3 chueh7 xio5 zz3 guaen5 ian3 v3 nieh8 er2
 + 严加教育能出人，溺爱只能害孩子。
   * 如皋方言词典
 + 严是爱，松是害，尤其不能溺爱。
   * 东台方言词典
+
+# 棒打出孝子
+pan6 da3 chueh7 xio5 zz3
++ 谓对子女要进行严格的教育，才能使其成才。不过体罚是不可取的。
+  * 泰兴方言辞典
