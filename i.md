@@ -1392,7 +1392,7 @@
 1. 【[饮食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_sheh.md#饮食)】`ien3 sheh8` <sup>[如东]</sup> 食物：～哿好？  
 1. 【[饮汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#饮汤)】`ien3 tan1` <small>/in3 tʰaŋ1/<sup>兴化</sup>, /iəŋ3 tʰã1/<sup>如皋</sup>, /iŋ3 tʰɑŋ1/<sup>泰兴</sup></small> ① 粥汤 ② 粥汁。<sup>\[如皋\]</sup> ③ 用大米或其他粮食熬的流汁。<sup>\[如东\]</sup> ④ 米汤。<sup>\[兴化\]</sup> ⑤ 煮饭煮粥时产生的米汤，坊间以为饮汤极富营养。<sup>\[泰州\]</sup> ⑥ 没有米粒的米汤。<sup>\[泰兴\]</sup>：米～<sup>\[泰兴\]</sup>  
 1. 【[饮汤粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan_zhoh.md#饮汤粥)】`ien3 tan1 zhoh7` <sup>[东台]</sup> 与“米饮汤”近义。东台词典此处用“影”字，出自扬州评话中“施恩派衙役送影汤粥饲喂武松”，大概是因粥太稀薄，可照见人影。  
-1. 【[印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#印)】`ien5` <small>/iəŋ5/<sup>如皋</sup></small> ① 印痕、痕迹：咬啊个牙子～。创口缝合后有百脚～、脚～、手～、折～。<sup>\[如皋\]</sup> ② 印刷：～书、油～。<sup>\[如皋\]</sup> ③ ［引］透，穿透<sup>\[东台\]</sup>：群众骂恬不知耻的人是“脸厚，三薄刀斫不～”。<sup>\[东台\]</sup>  
+1. 【[印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#印)】`ien5` <small>/iəŋ5/<sup>如皋</sup></small> ① 印痕、痕迹<sup>\[如皋\]</sup>：咬啊个牙子～。创口缝合后有百脚～、脚～、手～、折～。<sup>\[如皋\]</sup> ② 印刷<sup>\[如皋\]</sup>：～书、油～。<sup>\[如皋\]</sup> ③ ［引］透，穿透<sup>\[东台\]</sup>：群众骂恬不知耻的人是“脸厚，三薄刀斫不～”。<sup>\[东台\]</sup>  
 1. 【[印版](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_baen.md#印版)】`ien5 baen3` <sup>[兴化]</sup> 印刷用的木板：他俫两个人一个腔调，赛如一副～印出来的。  
 1. 【[印（癊）疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印（癊）疮)】`ien5 chuan1` <sup>[如皋]</sup> 久压引起的皮肤坏死。  
 1. 【[印疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuan.md#印疮)】`ien5 chuan1` <sup>[如东]</sup> 褥疮。  
@@ -1403,7 +1403,7 @@
 1. 【[印色油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh_ieu_zz.md#印色油子)】`ien5 seh ieu2 zz` <sup>[兴化]</sup> 印泥。  
 1. 【[印色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh.md#印色)】`ien5 seh7` <small>/iŋ5 səʔ7/<sup>泰兴</sup></small> 印泥<sup>\[泰兴\]</sup>：把～盒子拿得来，我要盖脶印。<sup>\[泰兴\]</sup>  
 1. 【[印堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#印堂)】`ien5 tan2` <sup>[东台]</sup> 指额部两眉之间：我看他～发黑，必有重病。  
-1. 【[印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#印子)】`ien5 zz` <small>/iəŋ5 t͡sɿ/<sup>如皋</sup></small> ① 印痕，痕迹。<sup>\[如皋\]</sup> ② 痕迹。<sup>\[如东\]</sup>：脚在地上足闹啊个～。<sup>\[如东\]</sup>  
+1. 【[印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#印子)】`ien5 zz` <small>/iəŋ5 t͡sɿ/<sup>如皋</sup>, /iŋ5 t͡sɿ/<sup>泰兴</sup></small> 印痕，痕迹。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：脚在地上⻊闹啊个～。<sup>\[如东\]</sup>  
 1. 【[印子钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz_qin.md#印子钱)】`ien5 zz qin2` <small>/iŋ5 t͡sɿ t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 高利贷的一种。约定期限，由债务人分期偿还，每还一期，在折子上盖印为记。<sup>\[东台\]</sup> ② 旧时的一种高利贷。放债人以高利放出贷款，限借债人分期偿还，每次还款，都在预立的折子上加盖一印为记，故名。<sup>\[泰兴\]</sup>  
 1. 【[应酬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu.md#应酬)】`ien5 cheu` <sup>[如东]</sup> 交际往来：经常要去～。  
 1. 【[应酬故事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu_gv_shr.md#应酬故事)】`ien5 cheu gv5 shr` <sup>[如皋]</sup> 敷衍。  

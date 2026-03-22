@@ -3144,7 +3144,6 @@
 1. 【[锁壳<sub>儿</sub>房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_r_fan.md#锁壳<sub>儿</sub>房子)】`su3 kah7 r fan2 zz` <sup>[如皋]</sup> 老式房屋，是堂屋前有走廊，左、右房前出，形似旧式锁外壳的样子。  
 1. 【[锁壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_zz.md#锁壳子)】`su3 kah7 zz` <sup>[兴化]</sup> （喻）三间两厢房屋的别称。由于两头前伸，形似老式铜锁，故名。  
 1. 【[锁口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_keu_zz.md#锁口子)】`su3 keu3 zz` <sup>[如皋]</sup> 见“脐带儿风”。  
-1. 【[𢱡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#𢱡)】`su3` <sup>[泰县]</sup> 洒：你替他把伤口上～些药。  
 1. 【[谇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suae.md#谇)】`suae5` <sup>[如皋]</sup> 怒嗔、唾面：你再不说我就～你！把你的脸～啊蓝吖！  
 1. 【[尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei.md#尿)】`suei1` <small>/suəɪ1/<sup>泰兴</sup></small> 尿，名词<sup>\[泰兴\]</sup>  
 1. 【[尿鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bih.md#尿鳖)】`suei1 bih7` <sup>[兴化]</sup> 即尿壶。男子接尿用的壶一样的器物，大口，有柄，形状象鳖。  
@@ -3204,7 +3203,7 @@
 1. 【[酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh.md#酸粥)】`sun1 zhoh7` <small>/sʊ̃1 t͡sɔʔ7/<sup>如皋</sup>, /sõ1 t͡sɔʔ7/<sup>泰县</sup></small> ① 掺了菜的糊糊儿面。<sup>\[如皋\]</sup> ② 菜粥。<sup>\[泰县\]</sup>  
 1. 【[酸粥嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh_jy.md#酸粥嘴)】`sun1 zhoh7 jy3` <sup>[泰县]</sup> 啰唆的人。  
 1. 【[酸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zz.md#酸子)】`sun1 zz` <sup>[如东]</sup> 挑拨是非的人。  
-1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <small>/sʊ̃3/<sup>如皋</sup>, /sʊ̃3/<sup>泰兴</sup></small> 细洒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <small>/sʊ̃3/<sup>如皋</sup>, /sʊ̃3/<sup>泰兴</sup>, /sõ3/<sup>泰县</sup></small> 细洒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰县：《泰县方言志》记音su3\]：你替他把伤口上～些药<sup>\[泰县\]</sup>  
 1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chae_r.md#糁䜺<sub>儿</sub>)】`sun3 chae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
 1. 【[算憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chon.md#算憃)】`sun5 chon5` <sup>[如皋]</sup> 见“算掼”。  
 1. 【[算倒账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒账)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算账，以索回应得的部分。  
