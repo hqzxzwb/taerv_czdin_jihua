@@ -140,8 +140,9 @@
 1. 【[开庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhuan.md#开庄)】`kae1 zhuan1` <sup>[兴化]</sup> 其他村庄：我庄上没得这个人，你到～找找看。  
 1. 【[开庄遗址](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhuan_i_zhr.md#开庄遗址)】`kae1 zhuan1 i2 zhr3` <sup>[东台]</sup> 位于溱东镇开庄。出土文物距今4700年左右，其文化性质为良渚文化类型。  
 1. 【[开早工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zo_gon.md#开早工)】`kae1 zo3 gon1` <sup>[如东]</sup> ① 早饭前下田做活计。 ② 提前上班。  
-1. 【[揩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#揩)】`kae1` <small>/kʰɛ1/<sup>兴化</sup></small> ① 擦、抹、拭<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～桌子。<sup>\[如东\]</sup>｜～汗；～梨子。<sup>\[兴化\]</sup>｜拿块布～～干净。<sup>\[泰州\]</sup> ② 洗<sup>\[兴化\]</sup>：～脸（用湿布擦脸和用水洗脸都说～脸）。<sup>\[兴化\]</sup>  
+1. 【[揩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#揩)】`kae1` <small>/kʰɛ1/<sup>兴化</sup>, /kʰɛ1/<sup>泰兴</sup></small> ① 擦、抹、拭<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～桌子。<sup>\[如东\]</sup>｜～汗；～梨子。<sup>\[兴化\]</sup>｜拿块布～～干净。<sup>\[泰州\]</sup> ② 洗<sup>\[兴化\]</sup>：～脸（用湿布擦脸和用水洗脸都说～脸）。<sup>\[兴化\]</sup>  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <sup>[如皋]</sup> 从中捞取好处。  
+1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <small>/kʰɛ1 iɤɯ2/<sup>泰兴</sup></small> 比喻占公家或别人的便宜。<sup>\[泰兴\]</sup>  
 1. 【[揩揩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_kae_r.md#揩揩<sub>儿</sub>)】`kae1 kae1 r` 橡皮擦  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <small>/kʰɛ2/<sup>兴化</sup>, /kʰɛ2/<sup>泰兴</sup>, /kʰe2/<sup>泰县</sup></small> 嗳气。消化系统中气体经口排出。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～饱。<sup>\[兴化\]</sup>｜才喝咖汽水，就～起来啊。<sup>\[泰县\]</sup>｜他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。<sup>\[泰州\]</sup>｜他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。<sup>\[泰州\]</sup>  
 1. 【[䬵饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bo.md#䬵饱)】`kae2 bo3` <small>/kʰɛ2 pɔ3/<sup>如皋</sup></small> ① 食后，胃中气自口出。<sup>\[如皋\]</sup> ② 打饱嗝，吃饱后嗳气。<sup>\[东台\]</sup>  

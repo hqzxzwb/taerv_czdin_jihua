@@ -351,7 +351,7 @@
 1. 【[便宜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_i.md#便宜)】`pi2 i2` <sup>[东台]</sup> ① 价格低。 ② 不当得利或感到精神上口头上讨巧：得咖～还卖乖。  
 1. 【[便<sub>宜</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#便<sub>宜</sub>)】`pi2` <sup>[兴化]</sup> “便宜”pin2 i2的合音，兴化城区口音：图～买老牛。  
 1. 【[啤酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_jieu.md#啤酒)】`pi2 jieu3` <sup>[如东]</sup> 酒的一种。以大麦为原料酿制而成，乙醇含量较低。  
-1. 【[琵琶骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_gueh.md#琵琶骨)】`pi2 pa2 gueh7` <sup>[兴化]</sup> 肩脚骨。  
+1. 【[琵琶骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_gueh.md#琵琶骨)】`pi2 pa2 gueh7` <small>/pʰi2 pʰa2 kuəʔ7/<sup>兴化</sup>, /pʰʝ2 pʰɑ2 kuəʔ7/<sup>泰兴</sup></small> 肩胛骨。<sup>\[泰兴\]</sup><sup>\[兴化\]</sup>  
 1. 【[琵琶扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_keu_r.md#琵琶扣<sub>儿</sub>)】`pi2 pa2 keu1 r` <sup>[如皋]</sup> 尾若琵琶的布纽扣儿。  
 1. 【[琵琶三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_saen.md#琵琶三)】`pi2 pa2 saen1` <sup>[兴化]</sup> 缩脚语：～——弦。弦、嫌同音，暗指讨嫌的人｜他有点～。  
 1. 【[琵琶断吖弦——弹（谈）不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_tun_nga.md#琵琶断吖弦——弹（谈）不得)】`pi2 pa2 tun6 nga xin2 taen2 beh7 deh7` <sup>[东台]</sup>   

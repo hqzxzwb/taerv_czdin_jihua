@@ -451,7 +451,7 @@
 1. 【[揽手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_sheu.md#揽手)】`laen3 sheu3` <sup>[兴化]</sup> 把事情承接过来：这件事我如果办不好，决不会～。  
 1. 【[揽韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_sho_do.md#揽韶叨)】`laen3 sho2 do1` <sup>[如东]</sup> 多管闲事。  
 1. 【[揽韶叨（儿）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_sho_do.md#揽韶叨（儿）)】`laen3 sho2 do1` <sup>[如皋]</sup> 招揽了杂七杂八的事。贬指自找麻烦：又不碍你的事，你去～做甚的？  
-1. 【[揽事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr.md#揽事)】`laen3 shr6` <small>/lɛ̃3 sɿ6/<sup>兴化</sup>, /lẽ3 sɿ1/<sup>如皋</sup></small> ① 把事情拉过来做。<sup>\[如皋\]</sup> ② 把与已无关的事硬往身上拉：他老婆最喜欢～，好得人家的谢礼。<sup>\[兴化\]</sup> ③ 招惹是非：伤弓之鸟，不敢～，且低着头只顾走。（《京本通俗小说·碾玉观音》）<sup>\[兴化\]</sup> ④ 惹事，自己主动来管本来可以不管的事情<sup>\[泰州\]</sup>：他这个人又没得个权，偏偏好～。<sup>\[泰州\]</sup>  
+1. 【[揽事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shr.md#揽事)】`laen3 shr6` <small>/lɛ̃3 sɿ6/<sup>兴化</sup>, /lẽ3 sɿ1/<sup>如皋</sup>, /lɛ̃3 sɿ1/<sup>泰兴</sup></small> ① 把事情拉过来做。<sup>\[如皋\]</sup> ② 把与已无关的事硬往身上拉：他老婆最喜欢～，好得人家的谢礼。<sup>\[兴化\]</sup> ③ 招惹是非：伤弓之鸟，不敢～，且低着头只顾走。（《京本通俗小说·碾玉观音》）<sup>\[兴化\]</sup> ④ 惹事，自己主动来管本来可以不管的事情<sup>\[泰州\]</sup>：他这个人又没得个权，偏偏好～。<sup>\[泰州\]</sup> ⑤ 惹事；管闲事。<sup>\[泰兴\]</sup>  
 1. 【[爁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#爁)】`laen3` <sup>[如皋]</sup> 碰到火即被燃着：他的头发捱蜡烛火～掉啊一块。  
 1. 【[爁火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu.md#爁火)】`laen3 hu3` <sup>[如皋]</sup> 容易被火燃着：木头朽啊，烧锅也不～。  
 1. 【[缆头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_teu_r.md#缆头<sub>儿</sub>)】`laen3 teu2 r` <sup>[如东]</sup> 破碎的布条儿：布～。  

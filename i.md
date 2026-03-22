@@ -2197,6 +2197,7 @@
 1. 【[越轨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_guei.md#越轨)】`iuh8 guei3` <sup>[东台]</sup> ① 超出规章制度的范围。 ② 做出不合伦常的事情。  
 1. 【[越穷越喝卤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_qion_iuh_huh.md#越穷越喝卤)】`iuh8 qion2 iuh8 huh7 lv3` <sup>[兴化]</sup> 厄运总是落在不幸者头上：他正为学费发愁，自行车又捱偷啊，真是～。  
 1. 【[越穷越喝卤，越冷越降风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_qion_iuh_huh.md#越穷越喝卤，越冷越降风)】`iuh8 qion2 iuh8 huh7 lv3 iuh8 len3 iuh8 gan5 fon1` <sup>[东台]</sup> ［喻］指人处于困顿窘迫之时，什么不顺心的事情都会接踵而至。与“越穷越尿”，“越穷越晦气”近义。  
+1. 【[越穷越见鬼，越冷越杠风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iuh_qion_iuh_jin.md#越穷越见鬼，越冷越杠风)】`iuh8 qion2 iuh8 jin5 guei3 iuh8 len3 iuh8 gan5 fon1` <small>/yʊʔ8 t͡ɕʰiɔŋ2 yʊʔ8 t͡ɕĩ5 kuəɪ3 yʊʔ8 ləŋ3 yʊʔ8 kɑŋ5 fɔŋ1/<sup>泰兴</sup></small> 喻穷会派生出越来越多的不愉快的事。<sup>\[泰兴\]</sup>  
 1. 【[冤大头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_da_teu.md#冤大头)】`iun1 da6 teu2` <sup>[泰州]</sup> 因受人欺骗而花了不该花的大额钱财的人。  
 1. 【[冤家宜解不宜结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ga_i_gae.md#冤家宜解不宜结)】`iun1 ga1 i2 gae3 beh7 i2 jih7` <sup>[东台]</sup> 要把过去的怨恨忘掉，不要老纠结在心中。  
 1. 【[冤鸡<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_ji_r_taen.md#冤鸡<sub>儿</sub>蛋)】`iun1 ji1 r taen6` <sup>[如皋]</sup> 炕坊孵鸡至第三周，已变鸡而死在壳内的蛋。可煮食。  

@@ -570,7 +570,7 @@
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup></small> ① 抲进<sup>\[如皋\]</sup>：望嘴里～棉花。<sup>\[如皋\]</sup> ② 用干的纸筋灰、油石灰、麻丝等物把木桶、木船的缝隙堵塞起来<sup>\[兴化\]</sup>：～桶；～𪳄子；～船板。<sup>\[兴化\]</sup>  
 1. 【[㗷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#㗷)】`sae` <sup>[兴化]</sup> 表示不耐烦的语气：快点走～！｜别吵～！  
 1. 【[塞包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_bo.md#塞包)】`sae1 bo1` <sup>[东台]</sup> 旧时亡人收敛时铺放在棺材底层的元书纸包裹，内装石灰等物吸附水分。后来人们把送走讨厌的东西叫送～。常作为发泄怨气的口头禅。  
-1. 【[揌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#揌)】`sae1` <small>/sɛ1/<sup>兴化</sup></small> ① 填充，填满，塞。 ② 把东西从缝隙中传递过去<sup>\[兴化\]</sup>：他把一封求救的信从板缝里～出去。<sup>\[兴化\]</sup> ③ 递给<sup>\[兴化\]</sup>：外婆～啊一百块线把我。<sup>\[兴化\]</sup>  
+1. 【[揌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#揌)】`sae1` <small>/sɛ1/<sup>兴化</sup>, /ɕiɛ1/<sup>泰兴</sup></small> ① 填充，填满，塞。 ② 把东西从缝隙中传递过去<sup>\[兴化\]</sup>：他把一封求救的信从板缝里～出去。<sup>\[兴化\]</sup> ③ 递给<sup>\[兴化\]</sup>：外婆～啊一百块线把我。<sup>\[兴化\]</sup> ④ 把东西从缝隙中穿递过去。<sup>\[泰兴\]</sup>  
 1. 【[揌肩包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_jin_bo_r.md#揌肩包<sub>儿</sub>)】`sae1 jin1 bo1 r` <sup>[如皋]</sup> 为稳定停在棺内的私人而揌在头、肩处的三合土纸包儿，个数与死者年龄同。  
 1. 【[揌钱包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_qin_bo_r.md#揌钱包<sub>儿</sub>)】`sae1 qin2 bo1 r` <sup>[如皋]</sup> 份外送礼金、贿赂。是一种不正当的行为。  
 1. 【[腮巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ba.md#腮巴)】`sae1 ba` <sup>[兴化]</sup> 即腮帮子，两颊的下半部。  

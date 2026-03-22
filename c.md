@@ -324,8 +324,9 @@
 1. 【[车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zz.md#车子)】`cha1 zz` <small>/t͡sʰɑ1 t͡sɿ/<sup>泰兴</sup></small> 泛指各种车辆。<sup>\[泰兴\]</sup>  
 1. 【[𠞊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#𠞊)】`cha1` <small>/t͡sʰa1/<sup>泰县</sup></small> ① 用工具举。<sup>\[如东\]</sup>：把草～起来。<sup>\[如东\]</sup> ② 除一般释义外，东台人指用筷子嫌菜频率快搛得多<sup>\[东台\]</sup>：豆腐吃吃肉～～<sup>\[东台\]</sup>｜好菜尽（jyen3）你～。<sup>\[东台\]</sup> ③ 用叉子挑东西<sup>\[泰县\]</sup>：～草。（《广韵》平声麻韵初牙切：“㔆物。”）<sup>\[泰县\]</sup> ④ 捞<sup>\[泰县\]</sup>：把面～起来。<sup>\[泰县\]</sup> ⑤ 俗多作叉。用叉刺取物体。又引伸出张开筷子大块搛菜<sup>\[泰州\]</sup>：他却问也不问，随即坐下，那双筷子儿又叉起来了（《续济公传》）。<sup>\[泰州\]</sup>｜你弄的这几个菜，量太少啊唻，哪块掌得往他俫这几个小伙头子～啊！<sup>\[泰州\]</sup>  
 1. 【[𠞊住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_chv.md#𠞊住)】`cha1 chv` <sup>[泰县]</sup> ① 挽住。 ② 说话时，中途有误，遭人指责。  
-1. 【[搽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#搽)】`cha2` ① 望脸上身上涂抹化妆品护肤霜之类 ② 将粉、膏、油之类均匀涂抹于皮肤、头发表面<sup>\[泰州\]</sup>：你手上的裂口子弄点油～啊子！<sup>\[泰州\]</sup>  
+1. 【[搽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#搽)】`cha2` <small>/t͡sʰɑ2/<sup>泰兴</sup></small> ① 望脸上身上涂抹化妆品护肤霜之类 ② 将粉、膏、油之类均匀涂抹于皮肤、头发表面<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你手上的裂口子弄点油～啊子！<sup>\[泰州\]</sup>  
 1. 【[搽粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fen.md#搽粉)】`cha2 fen3` <sup>[如东]</sup> 往脸上涂抹粉末状的化装品。  
+1. 【[搽粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fen.md#搽粉)】`cha2 fen3` <small>/t͡sʰɑ2 fəŋ3/<sup>泰兴</sup></small> 敷粉于脸。<sup>\[泰兴\]</sup>：吊杀鬼～，死要脸<sup>\[泰兴\]</sup>  
 1. 【[搽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu.md#搽头)】`cha2 teu2` <sup>[如皋]</sup> ① 给头发涂油或泡花儿水等定型剂。 ② 给头疮搽药。 ③ 比喻整治其人。  
 1. 【[搽透啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_teu_a.md#搽透啊)】`cha2 teu5 a` <sup>[如东]</sup> ① 物体表面全部搽到了。 ② 物体内部洇透了。  
 1. 【[查](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha.md#查)】`cha2` <sup>[兴化]</sup> 旧称到衣店或估衣店购衣服：～几件衣裳。  
@@ -500,6 +501,7 @@
 1. 【[插<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_r.md#插<sub>儿</sub>)】`chaeh7 r` <sup>[如皋]</sup> 衣料上补加的部分：这块布门面不够，裤档里要加～。  
 1. 【[插酥烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_sv_sho_bien.md#插酥烧饼)】`chaeh7 sv1 sho1 bien` <sup>[泰州]</sup> 将酥夹在生面团中制作成的烧饼，是泰州著名大众早点之一。  
 1. 【[插袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_tae.md#插袋)】`chaeh7 tae6` <sup>[如东]</sup> 上衣旁边的口袋。  
+1. 【[插销](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_xio.md#插销)】`chaeh7 xio1` <small>/t͡ɕʰiæʔ7 ɕiɔ1/<sup>泰兴</sup></small> 从门内插入的销子，使从外不可开。<sup>\[泰兴\]</sup>  
 1. 【[插子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh_zz.md#插子)】`chaeh7 zz` ① 房屋明间大门两侧的小间，或在前墙外侧增建一间，称插子。<sup>\[如东\]</sup> ② 衣料上补加的部分，称插子。<sup>\[如东\]</sup>：打个～。<sup>\[如东\]</sup> ③ 农村里对厕所蹲坑的俗称。一个蹲位即一个～。<sup>\[东台\]</sup>  
 1. 【[臿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#臿)】`chaeh7` <small>/t͡sʰeʔ7/<sup>如皋</sup></small> ① 用碓臼略舂，以打去粮食上的包裹物和泥灰<sup>\[如皋\]</sup>：～大麦皮。<sup>\[如皋\]</sup> ② 泛指去掉表层的皮<sup>\[泰州\]</sup>：跌咖个跟头，膀子上的皮～掉啊。<sup>\[泰州\]</sup>  
 1. 【[煠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaeh.md#煠)】`chaeh8` <small>/t͡sʰæʔ8/<sup>兴化</sup></small> ① 一种烹调方法。把食物放在沸油中煎熟。<sup>\[如东\]</sup>：～馓子。<sup>\[如东\]</sup> ② 油煎。（读若闸）烹调方法，把食物放在煮沸的油锅里炸<sup>\[东台\]</sup>：～花生<sup>\[东台\]</sup>｜～肉皮。<sup>\[东台\]</sup> ③ 油炸<sup>\[兴化\]</sup>：油～臭干儿<sup>\[兴化\]</sup>｜～春卷。<sup>\[兴化\]</sup>  
@@ -1454,6 +1456,7 @@
 1. 【[揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#揣)】`chuae1` <small>/t͡sʰuɛ1/<sup>兴化</sup></small> ① 揣在怀里。<sup>\[东台\]</sup> ② 藏<sup>\[兴化\]</sup>：～啊在内衣袋里的钱捱小偷摸去啊。<sup>\[兴化\]</sup>｜……剩下一脚狗腿，把来～在杯里。（《水浒传》四）<sup>\[兴化\]</sup> ③ 塞给<sup>\[兴化\]</sup>：奶奶悄悄～啊五百块钱把我。<sup>\[兴化\]</sup> ④ 藏于人不见处<sup>\[泰州\]</sup>：你把皮夹子～啊好啊，当心小偷。<sup>\[泰州\]</sup> ⑤ 塞进<sup>\[泰州\]</sup>：你把旅行包里顺啊子，里头还能再～两样东西进去。<sup>\[泰州\]</sup>  
 1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1, chuae5` 用手掌压、揉：～酵  
 1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1` <sup>[兴化]</sup> ① 拳打：～他几家伙。 ② 揉、扦：～酵（揉面团）。  
+1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1` <small>/t͡ɕʰyɛ1/<sup>泰兴</sup></small> ① 捶击<sup>\[泰兴\]</sup>：～他两拳头<sup>\[泰兴\]</sup> ② 往里塞。或比喻已经吃饱了，还要硬吃。<sup>\[泰兴\]</sup>：硬～<sup>\[泰兴\]</sup>  
 1. 【[搋冷墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_len_den_r.md#搋冷墩<sub>儿</sub>)】`chuae1 len3 den1 r` <sup>[泰县]</sup> 暗下毒手：这个人老欢喜～。  
 1. 【[搋屎棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_shr_pan.md#搋屎棒)】`chuae1 shr3 pan6` <sup>[如皋]</sup> 比喻受指使而得罪人的人。  
 1. 【[揣实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_sheh.md#揣实)】`chuae2 sheh8` <sup>[如皋]</sup> 如皋白蒲话，责骂：这个媚皮，才捱～咖的，又笑起来啊。  

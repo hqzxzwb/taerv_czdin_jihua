@@ -898,8 +898,10 @@
 1. 【[提蚕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cun_r.md#提蚕<sub>儿</sub>)】`ti2 cun2 r` <sup>[如皋]</sup> 给蚕床清除残叶蚕粪的过程。先覆蚕网喂叶引蚕上行，后提网清床。  
 1. 【[提货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_hu.md#提货)】`ti2 hu5` <sup>[如东]</sup> 到指定地点提取货物。  
 1. 【[提花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_hua.md#提花)】`ti2 hua1` <sup>[如皋]</sup> 织出立体感花纹。  
+1. 【[提盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_huh.md#提盒)】`ti2 huh8` <small>/t͡ɕʰʝ2 xʊʔ8/<sup>泰兴</sup></small> 旧时给人送饭送菜用的可提的篾编盒式小篮。<sup>\[泰兴\]</sup>  
 1. 【[提劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_jien.md#提劲)】`ti2 jien5` <sup>[如东]</sup> 加倍使用力气：我嘴唇儿伤吖，吃饭的时候要～。  
 1. 【[提梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian.md#提梁)】`ti2 lian2` <sup>[如东]</sup> 连接桶耳的横木，供提桶用。也称桶把儿。  
+1. 【[提𪳄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian.md#提𪳄)】`ti2 lian6` <small>/t͡ɕʰʝ2 liɑŋ1/<sup>泰兴</sup></small> 有提手的小水桶。<sup>\[泰兴\]</sup>  
 1. 【[提𪳄没把子——翻（饭）桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian_meh_ba.md#提𪳄没把子——翻（饭）桶)】`ti2 lian6 meh8 ba5 zz faen1 （faen6） ton3` <sup>[东台]</sup>   
 1. 【[提𪳄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lian_r.md#提𪳄<sub>儿</sub>)】`ti2 lian6 r` <small>/tʰʝ2 lia˞1/<sup>如皋</sup>, /t͡sʰɿ2 niɑŋ1 ɚ/<sup>泰县</sup></small> ① 提桶，木制，有提环、盖子的小桶。参见“𪳄子”。<sup>\[如皋\]</sup> ② 容器。木制，圆桶形，高25厘米，口直径22厘米，底直径20厘米。两边伸出两根木板称耳子。耳子中间一根横梁，叫提手。有的加盖，有的无盖。可以提水，也可以贮藏物资。<sup>\[如东\]</sup> ③ 小的提水桶<sup>\[泰县\]</sup>：你把～拿过来。<sup>\[泰县\]</sup>  
 1. 【[提笼㧟鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_lon_kuae_gv.md#提笼㧟鼓)】`ti2 lon2 kuae6 gv3` <sup>[兴化]</sup> 由于携带的东西多而行动不利索的样子：他上一次城，～的带许多零碎东西，连路也走不动。  
@@ -908,8 +910,10 @@
 1. 【[提盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pun.md#提盘)】`ti2 pun2` <sup>[如东]</sup> 提醒：你要～下子。  
 1. 【[提<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_r.md#提<sub>儿</sub>)】`ti2 r` <sup>[如皋]</sup> 小水桶。  
 1. 【[提人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ren_r_xi.md#提人<sub>儿</sub>戏)】`ti2 ren2 r xi5` <small>/tʰəi2 lən2 ɚ ɕi5/<sup>兴化</sup></small> ① 木偶戏的旧称。<sup>\[兴化\]</sup> ② 提线木偶戏。<sup>\[兴化\]</sup>  
+1. 【[提神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#提神)】`ti2 shen2` <small>/t͡ɕʰʝ2 səŋ2/<sup>泰兴</sup></small> 振奋精神。<sup>\[泰兴\]</sup>  
 1. 【[提手旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_sheu_pan.md#提手旁)】`ti2 sheu3 pan2` <sup>[兴化]</sup> 汉字的偏旁，形状是“扌”。  
 1. 【[提网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_van.md#提网)】`ti2 van3` <sup>[如皋]</sup> 一种单手提放的小渔网，另配三角竹架以惊鱼入网。  
+1. 【[提网子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_van_zz.md#提网子)】`ti2 van3 zz` <small>/t͡ɕʰʝ2 uɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 以手提的小鱼网。<sup>\[泰兴\]</sup>  
 1. 【[提戏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xi_r.md#提戏<sub>儿</sub>)】`ti2 xi5 r` <sup>[如皋]</sup> 用线提动表演的小型木偶戏。  
 1. 【[提醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xien.md#提醒)】`ti2 xien3` <sup>[如东]</sup> 采用某种方式引起对方关注。  
 1. 【[提鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_y.md#提鱼)】`ti2 y2` <sup>[如皋]</sup> 将鱼分类的过程。  
@@ -938,14 +942,16 @@
 1. 【[替](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti.md#替)】`ti5` <small>/tʰəi5/<sup>兴化</sup>, /tʰʝ5/<sup>如皋</sup></small> ① 连词“和、跟、同”<sup>\[如皋\]</sup>：我～你一齐儿去。<sup>\[如皋\]</sup> ② 介词“代、帮、给”<sup>\[如皋\]</sup>：你～他去还书。<sup>\[如皋\]</sup> ③ 动词“代替、协助”<sup>\[如皋\]</sup>：～手脚，找～身。<sup>\[如皋\]</sup> ④ 量词，相当“批”“次”<sup>\[兴化\]</sup>：你不在家，几～人寻过你啊。<sup>\[兴化\]</sup>｜“昨日所约如何？褚家又是三五～入我家来过了。”（《初刻》十三）<sup>\[兴化\]</sup>  
 1. 【[替差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cha.md#替差)】`ti5 cha1` <sup>[东台]</sup> 顶替别人做某件事。  
 1. 【[替打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_da.md#替打)】`ti5 da3` <sup>[兴化]</sup> 木工为投紧榫头，用间接受力的方法，敲击放在上面的小木方以防榫头被震断。这种小木方谓之～。  
+1. 【[替狗打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_da_sheh.md#替狗打食)】`ti5 geu3 da3 sheh8` <small>/t͡ɕʰʝ5 kəɪ3 tɑ3 səʔ8/<sup>泰兴</sup></small> 骂人语。谓为别人捞好处。<sup>\[泰兴\]</sup>  
 1. 【[替狗死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_sz.md#替狗死)】`ti5 geu3 sz3` <sup>[兴化]</sup> 指人死得无价值，犹“死有余辜”：当汉奸捱新四军打死，只能～。  
+1. 【[替狗死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_sz.md#替狗死)】`ti5 geu3 sz3` <small>/t͡ɕʰʝ5 kəɪ3 sɿ3/<sup>泰兴</sup></small> 骂人语。谓死了也不值一提，等于死了一条狗。<sup>\[泰兴\]</sup>  
 1. 【[替鬼忙财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guei_man_cae.md#替鬼忙财)】`ti5 guei3 man2 cae2` <sup>[东台]</sup> 帮别人的忙，自己没有一点好处，连一句好话都得不到。  
 1. 【[替古人担忧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_gv_ren_daen.md#替古人担忧)】`ti5 gv3 ren2 daen1 ieu1` <sup>[东台]</sup> ［喻］不必要的担心：你怕那个大企业没得实力，简直是～。  
 1. 【[替样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ian_zz.md#替样子)】`ti5 ian6 zz` <sup>[兴化]</sup> 按现成的图形或实物描、剪：你那双鞋子不丑，明吖我去～。  
 1. 【[替身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shen.md#替身)】`ti5 shen1` <sup>[如东]</sup> 代替别人的人，多指代替别人受罪的人：张三犯法，叫王二做～。  
 1. 【[替手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_sheu.md#替手)】`ti5 sheu3` <sup>[兴化]</sup> 代替别人（如父母、师傅等）做事：……金如松就做自己的～，帮爸行船……（马着阳《姐妹姻缘船迷传》）  
 1. 【[替手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_sheu_jiah.md#替手脚)】`ti5 sheu3 jiah` <sup>[兴化]</sup> 代替别人做事。见“替手”。  
-1. 【[替手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_sheu_jiah.md#替手脚)】`ti5 sheu3 jiah7` <small>/tʰʝ5 sei3 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 协助做事。<sup>\[如皋\]</sup> ② 协助做事。<sup>\[如东\]</sup>：兰兰可以帮你～。<sup>\[如东\]</sup>  
+1. 【[替手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_sheu_jiah.md#替手脚)】`ti5 sheu3 jiah7` <small>/tʰʝ5 sei3 t͡ɕiaʔ7/<sup>如皋</sup>, /t͡ɕʰʝ5 ɕiɤɯ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 协助做事。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：兰兰可以帮你～。<sup>\[如东\]</sup>｜伢儿大啊lo，有人～go<sup>\[泰兴\]</sup>  
 1. 【[替水做香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_shuei_zu_xian.md#替水做香)】`ti5 shuei3 zu5 xian1` <sup>[如皋]</sup> 粗略洗一下，并未洗浄。  
 1. 【[替头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_teu.md#替头)】`ti5 teu` <sup>[东台]</sup> 婚娶寿庆中蒸作的花馒寿桃。（这里“头”字轻读）  
 1. 【[替针洗屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zhen_xi_pi.md#替针洗屁股)】`ti5 zhen1 xi3 pi5 gu` <sup>[如皋]</sup> 指因原材料质差而无缝纫价值。  

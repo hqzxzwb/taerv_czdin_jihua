@@ -23,7 +23,7 @@
 1. 【[塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#塞)】`sa5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup></small> ① 抲进<sup>\[如皋\]</sup>：望嘴里～棉花。<sup>\[如皋\]</sup> ② 用干的纸筋灰、油石灰、麻丝等物把木桶、木船的缝隙堵塞起来<sup>\[兴化\]</sup>：～桶；～𪳄子；～船板。<sup>\[兴化\]</sup>  
 1. 【[㗷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#㗷)】`sae` <sup>[兴化]</sup> 表示不耐烦的语气：快点走～！｜别吵～！  
 1. 【[塞包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_bo.md#塞包)】`sae1 bo1` <sup>[东台]</sup> 旧时亡人收敛时铺放在棺材底层的元书纸包裹，内装石灰等物吸附水分。后来人们把送走讨厌的东西叫送～。常作为发泄怨气的口头禅。  
-1. 【[揌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#揌)】`sae1` <small>/sɛ1/<sup>兴化</sup></small> ① 填充，填满，塞。 ② 把东西从缝隙中传递过去<sup>\[兴化\]</sup>：他把一封求救的信从板缝里～出去。<sup>\[兴化\]</sup> ③ 递给<sup>\[兴化\]</sup>：外婆～啊一百块线把我。<sup>\[兴化\]</sup>  
+1. 【[揌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae.md#揌)】`sae1` <small>/sɛ1/<sup>兴化</sup>, /ɕiɛ1/<sup>泰兴</sup></small> ① 填充，填满，塞。 ② 把东西从缝隙中传递过去<sup>\[兴化\]</sup>：他把一封求救的信从板缝里～出去。<sup>\[兴化\]</sup> ③ 递给<sup>\[兴化\]</sup>：外婆～啊一百块线把我。<sup>\[兴化\]</sup> ④ 把东西从缝隙中穿递过去。<sup>\[泰兴\]</sup>  
 1. 【[揌肩包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_jin_bo_r.md#揌肩包<sub>儿</sub>)】`sae1 jin1 bo1 r` <sup>[如皋]</sup> 为稳定停在棺内的私人而揌在头、肩处的三合土纸包儿，个数与死者年龄同。  
 1. 【[揌钱包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_qin_bo_r.md#揌钱包<sub>儿</sub>)】`sae1 qin2 bo1 r` <sup>[如皋]</sup> 份外送礼金、贿赂。是一种不正当的行为。  
 1. 【[腮巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ba.md#腮巴)】`sae1 ba` <sup>[兴化]</sup> 即腮帮子，两颊的下半部。  
@@ -306,16 +306,19 @@
 1. 【[散手散脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheu_saen_jiah.md#散手散脚)】`saen3 sheu3 saen3 jiah7` <small>/sɛ̃3 sɤ3 sɛ̃3 t͡ɕiaʔ7/<sup>兴化</sup>, /sɛ̃3 sɤɯ3 sɛ̃3 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 摆脱了羁绊：伢儿由二老带啊走，我俫可以～的工作、学习咖。<sup>\[兴化\]</sup> ② 无牵挂，活动自由。<sup>\[泰县\]</sup>  
 1. 【[散松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son.md#散松)】`saen3 son` <sup>[如皋]</sup> 松爽，互不粘黏：头发～｜馒头吃口～。  
 1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <sup>[兴化]</sup> ① 物体干燥松软：稻草晒得～的。｜头发吹得～的。 ② 物体结构松散：晴雯先将里子拆开……再将破口四边用金刀刮的～的……（《红楼梦》五二）  
+1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <small>/ɕiɛ̃3 sɔŋ1 sɔŋ1/<sup>泰兴</sup></small> 疏松，不紧密。<sup>\[泰兴\]</sup>  
+1. 【[散黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_van.md#散黄)】`saen3 van2` <small>/ɕiɛ̃3 uɑŋ2/<sup>泰兴</sup></small> 谓蛋中的黄已散开，蛋已变质。<sup>\[泰兴\]</sup>  
 1. 【[馓䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_io_r.md#馓䌁<sub>儿</sub>)】`saen3 io5 r` <sup>[东台]</sup> 即馓子，因像草䌁故名。  
 1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#馓子)】`saen3 zz` 一种面制食品，小麦面粉做成条状，拉长拉细扭成环形栅状，油锅炸熟，可以直接食用，也可以用汤泡食。民俗，妇女生养后坐月子期间，亲友看望产妇，馓子乃是必送礼物之一。<sup>\[泰州\]</sup>  
 1. 【[散场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_chan.md#散场)】`saen5 chan2` <sup>[如东]</sup> 场活动的结束：大会已经～。  
-1. 【[散伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hu.md#散伙)】`saen5 hu3` ① 分开，分手。<sup>\[如东\]</sup> ② （团体、活动等）解散。<sup>\[东台\]</sup>  
+1. 【[散伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hu.md#散伙)】`saen5 hu3` <small>/ɕiɛ̃5 xɤɯ3/<sup>泰兴</sup></small> ① 分开，分手。<sup>\[如东\]</sup> ② （团体、活动等）解散。<sup>\[东台\]</sup> ③ 结束，停止。多指几个人在一起做的事结束后各奔东西。<sup>\[泰兴\]</sup>  
 1. 【[散花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_hua.md#散花)】`saen5 hua1` <sup>[如东]</sup> 花朵分散，表示破碎了。  
 1. 【[散黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_huan.md#散黄)】`saen5 huan1` <sup>[如东]</sup> 鸡蛋黄是粘在一起的。散黄表示鸡蛋已经坏了。比喻组织分裂了事情办坏了。  
 1. 【[散吖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_baen.md#散吖板)】`saen5 nga baen3` <sup>[泰州]</sup> ① 一个完整物体遭到外力破坏碎成多个：脚踏车捱他拆咖～，铺啊一地。 ② 比喻一个集体解散：他家两个老的一走，原来蛮好的个家就～。 ③ 比喻事情处于极其糟糕、不可收拾的状态：这件事捱他弄吖～，你又有甚的办法。  
 1. 【[散席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散席)】`saen5 qieh8` <sup>[如东]</sup> 结束酒筵。  
 1. 【[散集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散集)】`saen5 qieh8` <sup>[兴化]</sup> 农村集日的中午前后，赶集的农民和商贾陆续离开市场。  
 1. 【[散散心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_xien.md#散散心)】`saen5 saen5 xien1` <sup>[泰州]</sup> 使心情放松，派遣郁闷：你个人在家也无聊，不如旅游出去～。  
+1. 【[散散心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_xien.md#散散心)】`saen5 saen5 xien1` <small>/ɕiɛ̃5 ɕiɛ̃5 ɕiŋ1/<sup>泰兴</sup></small> 解闷，使心情舒畅。<sup>\[泰兴\]</sup>  
 1. 【[散时不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr_beh_do.md#散时不到)】`saen5 shr2 beh7 do5` <sup>[泰县]</sup> 偶尔。  
 1. 【[散暗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_un_r.md#散暗<sub>儿</sub>)】`saen5 un5 r` <sup>[东台]</sup> 傍晚。  
 1. 【[散喜茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xi_cha.md#散喜茶)】`saen5 xi3 cha2` <sup>[东台]</sup> （民俗）老人整寿诞或儿女婚庆，给亲友邻居送寿桃替头或糖果茶点。  
@@ -553,7 +556,7 @@
 1. 【[射㞠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_lio.md#射㞠)】`sha6 lio2` <small>/sa1 niɔ2/<sup>泰县</sup></small> ① （禁忌语）解小便<sup>\[泰县\]</sup> ② 詈语，骂人小便。<sup>\[泰州\]</sup>  
 1. 【[射动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ton.md#射动)】`sha6 ton` <sup>[如东]</sup> 飞快地跑动：他俫跑起来～。  
 1. 【[射血条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_xiuh_tio_zz.md#射血条子)】`sha6 xiuh7 tio2 zz` <sup>[如皋]</sup> 詈语。指排泄小便。  
-1. 【[筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#筛)】`shae1` <small>/sɛ1/<sup>如皋</sup></small> ① 用筛子筛，筛选。<sup>\[如皋\]</sup> ② 筛子经过来回摔动，把碎米或细谷筛落下去，保留大的米粒或大的谷子，这个过程称筛。比喻从混杂的东西中挑选好的。<sup>\[如东\]</sup>：～选。<sup>\[如东\]</sup>  
+1. 【[筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#筛)】`shae1` <small>/sɛ1/<sup>如皋</sup></small> 用筛子筛，筛选。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～选。<sup>\[如东\]</sup>  
 1. 【[筛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_co.md#筛草)】`shae1 co3` <sup>[如东]</sup> 莎草科植物筛草，多年生草本。匍匐根茎长。秆三棱，高20厘米。叶广线形，边缘具锐锯齿质强韧，有光泽。头状花序。小坚果。生长在沿海沙滩上。  
 1. 【[筛糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_kan.md#筛糠)】`shae1 kan1` <sup>[东台]</sup> ［喻］形容浑身发抖的样子。  
 1. 【[筛青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_qien.md#筛青)】`shae1 qien1` <small>/sɛ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> 用烟筛筛去烟土的水烟。<sup>\[如皋\]</sup>  
