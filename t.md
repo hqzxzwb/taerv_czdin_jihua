@@ -64,7 +64,7 @@
 1. 【[抬头看人低头斫肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu_kun_ren.md#抬头看人低头斫肉)】`tae2 teu2 kun5 ren2 di1 teu2 zhah7 roh8` <sup>[东台]</sup> 以看人卖肉讽喻势利、不公平现象。  
 1. 【[抬头婆娘低头汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_teu_pu_nian.md#抬头婆娘低头汉)】`tae2 teu2 pu2 nian2 di1 teu2 hun5` <sup>[东台]</sup> 走路时习惯抬头的女人和低头的男人都很有心机。  
 1. 【[抬箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_xian.md#抬箱)】`tae2 xian1` <sup>[如皋]</sup> 有底座的大箱子，供抬运。  
-1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <small>/tʰɛ3/<sup>如皋</sup></small> 大，不小<sup>\[如皋\]</sup><sup>\[东台\]</sup>：这个瓜多～！吃不下。<sup>\[东台\]</sup>  
+1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <small>/tʰɛ3/<sup>如皋</sup>, /tʰɛ3/<sup>泰兴</sup></small> 大，不小<sup>\[如皋\]</sup><sup>\[东台\]</sup>\[泰兴：东乡靠如皋、海安一带\]：这个瓜多～！吃不下。<sup>\[东台\]</sup>｜箇杲子多～啊<sup>\[泰兴\]</sup>  
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi5` 为人处事爽快不斤斤计较<sup>\[泰州\]</sup>：他这个人做事不～。<sup>\[泰州\]</sup>  
@@ -389,6 +389,7 @@
 1. 【[拓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#拓)】`tah7` <sup>[如皋]</sup> 复描：～花样、～片。  
 1. 【[喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#喥)】`tah8` <sup>[如皋]</sup> 言无度也：肚里有话，嘴里只～。  
 1. 【[喥奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_nae.md#喥奶)】`tah8 nae3` <sup>[如皋]</sup> 吃奶过饱而自口中流出。  
+1. 【[喥奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_nae.md#喥奶)】`tah8 nae3` <small>/tʰɑʔ8 nɛ3/<sup>泰兴</sup></small> 小儿吐奶<sup>\[泰兴\]</sup>  
 1. 【[喥喥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah_dii.md#喥喥的)】`tah8 tah8 dii` <small>/tʰaʔ8 tʰaʔ8 təi/<sup>兴化</sup>, /tʰaʔ8 tʰaʔ8 tei/<sup>如皋</sup></small> ① 足足的：我带的钱多，袋儿里～。<sup>\[如皋\]</sup> ② 满满的<sup>\[兴化\]</sup>：～的一碗鸡汤<sup>\[兴化\]</sup>｜会场上坐得～人。<sup>\[兴化\]</sup>  
 1. 【[度度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#度度)】`tah8 tah8` <sup>[泰县]</sup> 丰满到极限。  
 1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <small>/tʰɑʔ8/<sup>泰县</sup></small> ① 缓慢行走。<sup>\[如东\]</sup> ② 缓步前行：走步，～咖～的。<sup>\[泰县\]</sup> ③ 泛指走开<sup>\[泰州\]</sup>：领导的报告还不错做得好，他人就～咖走啊。<sup>\[泰州\]</sup>｜他人刚才还在这块的，这一刻ㄦ不晓得他又～咖哪块去啊唻。<sup>\[泰州\]</sup>  

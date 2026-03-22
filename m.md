@@ -1548,6 +1548,7 @@
 1. 【[冒早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zo.md#冒早)】`mo6 zo3` <sup>[兴化]</sup> 起得过早：今朝起个～，把院子里里外外扫啊一遍。  
 1. 【[冒钻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zun_r.md#冒钻<sub>儿</sub>)】`mo6 zun1 r` <sup>[如东]</sup> 种子发芽出土，芽尖儿像钻似的，这种形态叫冒钻儿。  
 1. 【[帽耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_dah_zz.md#帽耷子)】`mo6 dah7 zz` <sup>[东台]</sup> 帽沿左右下垂部分。  
+1. 【[帽花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_hua.md#帽花)】`mo6 hua1` <small>/mɔ1 xuɑ1/<sup>泰兴</sup></small> 帽徽<sup>\[泰兴\]</sup>  
 1. 【[帽檐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_in_zz.md#帽檐子)】`mo6 in2 zz` <sup>[东台]</sup> 帽四周突出的部分。  
 1. 【[帽勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_leh_zz.md#帽勒子)】`mo6 leh8 zz` <sup>[东台]</sup> 旧时老年妇女装饰，左右两片呈荷花瓣状，像箍一样系在头部，用翡翠或珍珠点缀。  
 1. 【[帽舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shih_zz.md#帽舌子)】`mo6 shih8 zz` <sup>[东台]</sup> 帽前沿遮阳的部分。  

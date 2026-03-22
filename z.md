@@ -354,6 +354,7 @@
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_jy.md#喳巴嘴)】`zha1 ba1 jy3` <sup>[东台]</sup> 说话随便，口无遮拦的人。（或作“奓巴嘴”，奓，张开。见《广韵》）  
 1. 【[喳巴喳巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴)】`zha1 ba1 zha1 ba1` <small>/t͡sa1 pa1 t͡sa1 pa1/<sup>兴化</sup></small> ① 形容旁若无人地乱说一气<sup>\[东台\]</sup>：那天他不该～的说咖不歇。<sup>\[东台\]</sup> ② 形容自充其能，喜欢说三道四的人<sup>\[兴化\]</sup>：这个婆娘了不得！到哪块只听她～的。<sup>\[兴化\]</sup>  
 1. 【[喳巴喳巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴的)】`zha1 ba1 zha1 ba1 dii` <sup>[如皋]</sup> 贬指多话。  
+1. 【[喳巴喳巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴的)】`zha1 ba1 zha1 ba1 dii` <small>/t͡sɑ1 pɑ1 t͡sɑ1 pɑ1 təɪ/<sup>泰兴</sup></small> 象声词。谓声音吵人，絮絮不休。<sup>\[泰兴\]</sup>  
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zuei.md#喳巴嘴)】`zha1 ba1 zuei3` <sup>[兴化]</sup> 喜欢随嘴乱说的人：他是～，芝麻到他嘴里能说成西瓜。  
 1. 【[奓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#奓)】`zha1` <small>/t͡sa1/<sup>兴化</sup>, /t͡sɑ1/<sup>泰兴</sup>, /t͡sa1/<sup>泰县</sup></small> 张开。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：衣裳角～开啊。<sup>\[如东\]</sup>｜鞋子前头～开来啊。《广韵·祃韵》陟加切“～，张也，开也”。<sup>\[兴化\]</sup>｜你把嘴～下来。<sup>\[泰县\]</sup>｜教他封炭炉子的，他把个炉门～啊一夜。<sup>\[泰州\]</sup>｜你把嘴～开来，让医生望啊子。<sup>\[泰州\]</sup>｜二十万不多？你嘴一～多容易啊。<sup>\[泰州\]</sup>｜把嘴～下来<sup>\[泰兴\]</sup>  
 1. 【[奓嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jy.md#奓嘴)】`zha1 jy3` <small>/t͡sa1 t͡ɕy3/<sup>如皋</sup></small> ① 张开嘴。<sup>\[如皋\]</sup> ② 嘴巴张开来。<sup>\[如东\]</sup>：天气太热，麻雀也～。<sup>\[如东\]</sup>  
@@ -2333,6 +2334,7 @@
 1. 【[梓树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_shv.md#梓树)】`zz3 shv6` <sup>[如东]</sup> 紫葳科植物梓树，又名臭梧桐，落叶乔木。高约10米。树皮灰褐色，纵裂。幼枝带紫色。单叶对生或3枚轮生，阔卵形，全缘，常带紫色。圆锥花序顶生。花黄白色。种子扁平。生长在河谷或湿润地方。韧皮，也称梓白皮，。  
 1. 【[籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#籽)】`zz3` <sup>[如皋]</sup> 虫、鱼之卵：苍蝇～、鱼～、散～、～虾儿、～蟹。  
 1. 【[紫巴倰僜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_ba_len_den.md#紫巴倰僜)】`zz3 ba len2 den1` <sup>[如皋]</sup> 灰暗的紫色。  
+1. 【[紫菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_cae.md#紫菜)】`zz3 cae` <small>/t͡sɿ3 t͡ɕʰiɛ/<sup>泰兴</sup></small> 一种可食用的浅海藻类植物。<sup>\[泰兴\]</sup>  
 1. 【[紫菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_cae.md#紫菜)】`zz3 cae5` <sup>[如东]</sup> 红毛菜科植物甘紫菜，也称坛紫菜。分叶、叶柄和固着器三部分。藻体扁平叶状，基部有盘状固着器。具短柄，由柄上长出的叶状体呈广披针形或椭圆形，长约20厘米，边缘波状。幼时粉红色，后逐渐转变为深紫色，衰老时为浅紫色。生长在海湾平静的中潮带岩石上或人工设置的固定物上。  
 1. 【[紫穗槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_cuei_huae.md#紫穗槐)】`zz3 cuei6 huae2` <sup>[如东]</sup> 豆科植物槐树，落叶乔木。羽状复叶，小叶卵形或椭圆形。总状花序。花小，蓝紫色。结荚果，短而弯。是绿化荒地、改良土壤的树木之一。  
 1. 【[紫浮芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_fv_y.md#紫浮芋)】`zz3 fv y6` <sup>[如皋]</sup> 一种芋头，叶及叶柄色紫，早熟高产，品质稍次。见“芋头”。  
@@ -2341,7 +2343,10 @@
 1. 【[紫光霞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_guan_xia_qi.md#紫光霞气)】`zz3 guan1 xia2 qi5` <sup>[兴化]</sup> ① 形容古建筑群的光气现象：远远望去，上方寺一片～。 ② （借）指人面部因水肿而发光发紫。  
 1. 【[紫鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_gv_r.md#紫鼓<sub>儿</sub>)】`zz3 gv3 r` <sup>[如东]</sup> 皮肤呈紫色的马虎，叫做紫鼓儿。  
 1. 【[紫河车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_cha.md#紫河车)】`zz3 hu2 cha1` <small>/t͡sɿ3 xʊ2 t͡sʰa1/<sup>如皋</sup></small> ① 即“胎盘”。<sup>\[如皋\]</sup> ② 健康人的胎盘。<sup>\[如东\]</sup>  
+1. 【[紫荷芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_y.md#紫荷芋)】`zz3 hu2 y6` <small>/t͡sɿ3 xɤɯ2 y1/<sup>泰兴</sup></small> 叶片、茎梗紫色的芋头。<sup>\[泰兴\]</sup>  
+1. 【[紫荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_zz.md#紫荷子)】`zz3 hu2 zz` <small>/t͡sɿ3 xɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 一种蔬菜名。<sup>\[泰兴\]</sup>  
 1. 【[紫荆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫荆)】`zz3 jien1` <sup>[如东]</sup> 豆科植物紫荆，落叶乔木或大灌木。高约15米。有多数皮孔。单叶互生，近圆形，全缘。花先叶开放，花萼钟状，花冠蝶形，紫红色。荚果，扁圆形，红紫色。种子圆而扁。生长在田野或庭园。  
+1. 【[紫荆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫荆)】`zz3 jien1` <small>/t͡sɿ3 t͡ɕiŋ1/<sup>泰兴</sup></small> 树名。多年生木本植物，花紫色，故名。<sup>\[泰兴\]</sup>  
 1. 【[紫堇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫堇)】`zz3 jien3` <sup>[如东]</sup> 罂粟科植物紫堇，一年生草本。高约30厘米。叶基生，三角形，羽状全裂，倒卵形。总状花序。花紫色。蒴果条形。种子黑色，扁球形。生长在沟边。  
 1. 【[紫堇花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien_hua.md#紫堇花)】`zz3 jien3 hua1` <sup>[如东]</sup> 罂粟科植物紫堇花。  
 1. 【[紫茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_muh_li.md#紫茉莉)】`zz3 muh8 li` <sup>[如东]</sup> 紫茉莉科植物紫茉莉，一年生草本。高约1米。块根纺锤形，肉质，表面棕黑色，内面白色。茎直立，有膨大节。叶对生，卵形，全缘。花生于枝顶，萼管细长，上部扩大成喇叭形，白色或紫红。果实狭长形，黑色。种子直立，内藏丰富的白色粉质胚乳。栽培。  

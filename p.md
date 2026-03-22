@@ -300,7 +300,9 @@
 1. 【[备细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_xi.md#备细)】`pei6 xi5` <sup>[兴化]</sup> 详细情形：他从外地洽谈生意回来，经理忙问～。  
 1. 【[喷狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_geu.md#喷狗)】`pen1 geu3` 指人说话声嘶力竭，詈词<sup>\[泰州\]</sup>：这小伙是个～，召起来不得命。<sup>\[泰州\]</sup>  
 1. 【[喷灌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_gun.md#喷灌)】`pen1 gun5` <sup>[东台]</sup> 利用机械设备将水喷射到田间作物上的一种灌溉方法。  
+1. 【[喷壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_hv.md#喷壶)】`pen1 hv2` <small>/pʰəŋ1 fʋ2/<sup>泰兴</sup></small> 喷水的壶。<sup>\[泰兴\]</sup>  
 1. 【[喷隆大开花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_lon_da_kae.md#喷隆大开花)】`pen1 lon2 da6 kae1 hua1` <sup>[兴化]</sup> 物体因故破裂：箍一断，澡桶～。｜棉花胎捱他蹬得～。  
+1. 【[喷屎螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_shr_lan.md#喷屎螂)】`pen1 shr lan` <small>/pʰəŋ1 sɿ lɑŋ/<sup>泰兴</sup></small> 蜣螂；屎壳螂。<sup>\[泰兴\]</sup>：乡谚：“人同人搭，鬼同鬼搭，～同屎搭。”<sup>\[泰兴\]</sup>  
 1. 【[喷天刮地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_tin_guaeh_ti.md#喷天刮地)】`pen1 tin1 guaeh7 ti6` <sup>[如东]</sup> ① 物品到处都有：稻谷～的，也不扫下子。 ② 说话时的凶丑相：他～的说起来。  
 1. 【[盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen.md#盆)】`pen2` <sup>[如东]</sup> 器皿。圆形，口大，有底。有各种规格。可以盛物，也可洗脸。  
 1. 【[盆菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_cae.md#盆菜)】`pen2 cae5` <sup>[兴化]</sup> ① 饭店或饭摊按份配好后出售的生菜，顾客购回后自己加调料烧炒。 ② 盒菜。  
@@ -317,6 +319,7 @@
 1. 【[喷嚏脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_ti_lin.md#喷嚏脸)】`pen5 ti5 lin3` <sup>[如东]</sup> 人在打喷嚏的时候，脸色十分难看，不讨人喜欢。比喻不讨人喜欢的人。厚脸皮，不怕丑：一张～，快滚开！  
 1. 【[喷天喷地的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_tin_pen_ti.md#喷天喷地的)】`pen5 tin1 pen5 ti6 dii` <sup>[如皋]</sup> 状说话时态度野，恶声恶气的样子。  
 1. 【[喷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_xian.md#喷香)】`pen5 xian1` ① 香味浓郁，也称喷喷香。<sup>\[东台\]</sup> ② 形容食物香气浓郁。<sup>\[泰州\]</sup>  
+1. 【[喷香的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_xian_dii.md#喷香的)】`pen5 xian1 dii` <small>/pʰəŋ5 ɕiɑŋ1 təɪ/<sup>泰兴</sup></small> 香气浓郁。<sup>\[泰兴\]</sup>  
 1. 【[喷浪头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_lan_teu_zz.md#喷浪头子)】`pen6 lan6 teu2 zz` <sup>[兴化]</sup> 圆柱体顶部粗大隆起的部分：他手拿麦克风，嘴对住～又说又唱。  
 1. 【[喷浪子<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_lan_zz_r.md#喷浪子<sub>儿</sub>)】`pen6 lan6 zz3 r` <sup>[兴化]</sup> （戏）小的人或物：这个～调皮得凶哎！  
 1. 【[坌屎虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pen_shr_chon_r.md#坌屎虫<sub>儿</sub>)】`pen6 shr3 chon2 r` <sup>[如皋]</sup> 蜣螂，屎壳郎。～有将粪便滚球推入巢中食用的习性。  

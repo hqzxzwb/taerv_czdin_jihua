@@ -2626,14 +2626,14 @@
 1. 【[赌场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_chan.md#赌场)】`dv3 chan2` <sup>[如东]</sup> 进行赌博的场所，称赌场。也称赌钱场。  
 1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don` <sup>[兴化]</sup> 用请客来打赌：我俫赌个东东，输的人请客。  
 1. 【[赌东东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_don.md#赌东东)】`dv3 don1 don1` <small>/tu3 toŋ1 toŋ1/<sup>泰县</sup></small> 打赌<sup>\[东台\]</sup><sup>\[泰县\]</sup>：你说今吖有雨，我说没得，不信我俫～。<sup>\[东台\]</sup>｜你不信，我俫来～。<sup>\[泰县\]</sup>  
-1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to` <small>/tu3 tɔŋ1 tʰɔ/<sup>如皋</sup></small> 双方比、争、打赌，输方作东。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他是肯定不得来，你要是不相信，我同你～，要是他来啊，明吖请你俫大家上富春吃早茶。<sup>\[泰州\]</sup>  
+1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to` <small>/tu3 tɔŋ1 tʰɔ/<sup>如皋</sup>, /tu3 tɔŋ1 tʰɔ/<sup>泰兴</sup></small> ① 双方比、争、打赌，输方作东。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他是肯定不得来，你要是不相信，我同你～，要是他来啊，明吖请你俫大家上富春吃早茶。<sup>\[泰州\]</sup> ② 用请客来打赌。<sup>\[泰兴\]</sup>  
 1. 【[赌东道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_don_to.md#赌东道)】`dv3 don1 to6` <sup>[如东]</sup> 打赌：你哿敢跟我～？  
 1. 【[赌稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ji.md#赌稽)】`dv3 ji1` <sup>[如皋]</sup> ① 见“稽品”。 ② 输了又要赖账，说过了又要否认。 ③ 不承认，赖账。  
 1. 【[赌酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_jieu.md#赌酒)】`dv3 jieu3` <sup>[如东]</sup> 以酒作赌注。  
 1. 【[赌赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_lae.md#赌赖)】`dv3 lae6` <sup>[如皋]</sup> ① 见“赌稽”。 ② 不承认，赖账。  
 1. 【[赌品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_pien.md#赌品)】`dv3 pien3` <small>/tu3 pʰiɪ̃3/<sup>兴化</sup>, /tu3 pʰiəŋ3/<sup>如皋</sup></small> ① 赌博的品德休养。<sup>\[如皋\]</sup> ② 参赌者的品性，指是否作弊、经得起输赢，尤指输了钱是否发急、耍赖<sup>\[兴化\]</sup>：张三～不丑，输得再多不起急。<sup>\[兴化\]</sup> ③ 赌博者的品行，特指不设机关、不偷牌、不欠债等所谓的品行<sup>\[泰州\]</sup>：这个家伙～不好，你喊他来，我就不打唻。<sup>\[泰州\]</sup>  
 1. 【[赌邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qia.md#赌邪)】`dv3 qia2` <sup>[泰县]</sup> 霸道：这个人～。  
-1. 【[赌吃嫖遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qieh_pio_io.md#赌吃嫖遥)】`dv3 qieh7 pio2 io2` <small>/tu3 t͡ɕʰiəʔ7 pʰiɔ2 iɔ2/<sup>如皋</sup></small> ① 赌博、大吃大喝、乱搞性关系，任性玩乐。<sup>\[如皋\]</sup> ② 吃喝嫖赌，逍遥法外<sup>\[东台\]</sup>：他终于改掉啊～的恶习。<sup>\[东台\]</sup> ③ 泛指各种丑陋行径<sup>\[泰州\]</sup>：这小伙不胎谐，～全花色。<sup>\[泰州\]</sup>  
+1. 【[赌吃嫖遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qieh_pio_io.md#赌吃嫖遥)】`dv3 qieh7 pio2 io2` <small>/tu3 t͡ɕʰiəʔ7 pʰiɔ2 iɔ2/<sup>如皋</sup>, /tu3 t͡ɕʰiəʔ7 pʰiɔ2 iɔ2/<sup>泰兴</sup></small> ① 赌博、大吃大喝、乱搞性关系，任性玩乐。<sup>\[如皋\]</sup> ② 吃喝嫖赌，逍遥法外<sup>\[东台\]</sup>：他终于改掉啊～的恶习。<sup>\[东台\]</sup> ③ 泛指各种丑陋行径<sup>\[泰州\]</sup>：这小伙不胎谐，～全花色。<sup>\[泰州\]</sup> ④ 泛指沾各种恶习于一身<sup>\[泰兴\]</sup>  
 1. 【[赌钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qin.md#赌钱)】`dv3 qin2` <sup>[如东]</sup> 用钱钞进行赌博活动。  
 1. 【[赌钱贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qin_ceh.md#赌钱贼)】`dv3 qin2 ceh8` <sup>[兴化]</sup> 对赌棍的鄙称：他是个～，到哪块要提防点儿。  
 1. 【[赌钱盘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qin_pun_r.md#赌钱盘<sub>儿</sub>)】`dv3 qin2 pun2 r` <sup>[兴化]</sup> 赌场：……这个混账王八蛋，一定是后街上丁二家～上的……（扬三《朱元璋贩卖乌梅》）  

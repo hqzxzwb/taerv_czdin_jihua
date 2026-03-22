@@ -71,6 +71,7 @@
 1. 【[涴鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_ji.md#涴鸡)】`u5 ji1` <sup>[泰县]</sup> 不守信誉：这个人打牌会～。  
 1. 【[涴蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_maen.md#涴蛮)】`u5 maen2` <small>/o5 mɛ̃2/<sup>泰县</sup></small> ① 胡闹<sup>\[泰县\]</sup>：你不要～，你家穷不穷我俫心里有数。<sup>\[泰县\]</sup> ② 小儿说的话使人听不清或者听不懂<sup>\[泰州\]</sup>：这细小伙嘴里～，不晓得说的甚的。<sup>\[泰州\]</sup> ③ 泛指语言表达能力差的人不能简要准确表达<sup>\[泰州\]</sup>：他老先生在这块～涴啊半天，大家都不曾弄得清他说的意思，他自己还作躁啊不得命。<sup>\[泰州\]</sup>  
 1. 【[祸害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_hae.md#祸害)】`u6 hae6` <small>/ʊ1 xɛ1/<sup>如皋</sup>, /ɤɯ1 xɛ1/<sup>泰兴</sup></small> ① 无用、无能、累及别人。<sup>\[如皋\]</sup> ② 指对社会和家庭无助的窝囊废<sup>\[东台\]</sup>：好人没长寿，～一千年，是对老天不公的一种叹息。<sup>\[东台\]</sup> ③ 恶人，坏人。<sup>\[泰兴\]</sup>  
+1. 【[喂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uae.md#喂)】`uae5` <small>/uɛ5/<sup>泰兴</sup></small> 叹词，用于打招呼（不是vae5）<sup>\[泰兴\]</sup>  
 1. 【[㷈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#㷈)】`uh7` <sup>[兴化]</sup> 火头被覆盖，燃烧不旺：火头～住啊。《集韵·合韵》遏合切“～，藏火也”。  
 1. 【[㷈火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_hu.md#㷈火)】`uh7 hu3` <sup>[如东]</sup> 用灰把火种掩盖起来，进行保存，叫做㷈火。  
 1. 【[㷈烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_in.md#㷈烟)】`uh7 in1` <sup>[如东]</sup> 用灰烬把火苗压住，烟雾微微冒出的状态。  

@@ -22,6 +22,7 @@
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
 1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
+1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <small>/t͡ɕʰiɛ2 ʝ1/<sup>泰兴</sup></small> 裁缝师傅<sup>\[泰兴\]</sup>  
 1. 【[裁衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i_din.md#裁衣店)】`cae2 i1 din5` <sup>[如皋]</sup> 称缝中服的店铺。  
 1. 【[裁弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_vaen_qy_cheh.md#裁弯取直)】`cae2 vaen1 qy3 cheh8` <sup>[兴化]</sup> 见“拿弯取直”。  
 1. 【[豺豺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cae_r.md#豺豺<sub>儿</sub>)】`cae2 cae r` <sup>[如东]</sup> 牙齿。  
@@ -154,11 +155,11 @@
 1. 【[凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah.md#凿)】`cah8` ① 用锐器在物体上往下打孔。<sup>\[如东\]</sup>：～坑。<sup>\[如东\]</sup> ② 将手攥成拳头，中指凸起猛击人的头部<sup>\[泰州\]</sup>：这小伙老卵，同他不要客气，～他的皮。<sup>\[泰州\]</sup>  
 1. 【[凿凿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_cah_r.md#凿凿<sub>儿</sub>)】`cah8 cah8 r` <sup>[泰县]</sup> 白食：专门在外面吃～。  
 1. 【[凿住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_chv_a.md#凿住啊)】`cah8 chv6 a` <sup>[如皋]</sup> 抓住不放：我只～他，别人我不管。  
-1. 【[凿刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_guaeh_zz.md#凿刮子)】`cah8 guaeh7 zz` <small>/t͡sʰaʔ8 kuæʔ7 t͡sɿ/<sup>兴化</sup>, /t͡sʰaʔ8 kueʔ7 t͡sɿ/<sup>如皋</sup>, /t͡sʰɑʔ8 kuæʔ7 t͡se/<sup>泰县</sup></small> ① 用手指打耳光。<sup>\[如东\]</sup>：你再调皮，当心我～。<sup>\[如东\]</sup> ② 用指关节凸起打人。同“凿生姜拐儿”。<sup>\[如皋\]</sup> ③ 将食指环起，用骨节打人头部<sup>\[兴化\]</sup>：再调皮凿你一刮子。<sup>\[兴化\]</sup> ④ 用手指环起来敲打。<sup>\[泰县\]</sup>  
+1. 【[凿刮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_guaeh_zz.md#凿刮子)】`cah8 guaeh7 zz` <small>/t͡sʰaʔ8 kuæʔ7 t͡sɿ/<sup>兴化</sup>, /t͡sʰaʔ8 kueʔ7 t͡sɿ/<sup>如皋</sup>, /t͡sʰɑʔ8 kuæʔ7 t͡sɿ/<sup>泰兴</sup>, /t͡sʰɑʔ8 kuæʔ7 t͡se/<sup>泰县</sup></small> ① 用手指打耳光。<sup>\[如东\]</sup>：你再调皮，当心我～。<sup>\[如东\]</sup> ② 用指关节凸起打人。同“凿生姜拐儿”。<sup>\[如皋\]</sup> ③ 将食指环起，用骨节打人头部<sup>\[兴化\]</sup>：再调皮凿你一刮子。<sup>\[兴化\]</sup> ④ 用手指环起来敲打。<sup>\[泰县\]</sup> ⑤ 曲手指击头<sup>\[泰兴\]</sup>  
 1. 【[凿骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_gueh_teu.md#凿骨头)】`cah8 gueh7 teu` <small>/t͡sʰɑʔ8 kuəʔ7 tʰɤɯ3/<sup>泰县</sup></small> ① 用工具凿骨头是非常难受的。比喻非常烦躁的声音。<sup>\[如东\]</sup>：你一天到晚～，咚咚响！<sup>\[如东\]</sup> ② （禁忌语）响声闹得左右不安宁。<sup>\[泰县\]</sup>  
 1. 【[凿眼珠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_ngaen_zhv_r.md#凿眼珠<sub>儿</sub>)】`cah8 ngaen3 zhv1 r` <sup>[如皋]</sup> 喻对人瞪眼怒视。  
 1. 【[凿生姜拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_shen_jian_guae.md#凿生姜拐<sub>儿</sub>)】`cah8 shen1 jian1 guae3 r` <sup>[如皋]</sup> 见“凿刮子”。  
-1. 【[凿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_zz.md#凿子)】`cah8 zz` ① 工具。铁制，长条形，前端有锋利的刃，用以打眼或挖槽。使用时，用斧头或锤子敲击后端的柄杆。<sup>\[如东\]</sup> ② 木工挖槽开洞的工具。<sup>\[东台\]</sup>  
+1. 【[凿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_zz.md#凿子)】`cah8 zz` <small>/t͡sʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 工具。铁制，长条形，前端有锋利的刃，用以打眼或挖槽。使用时，用斧头或锤子敲击后端的柄杆。<sup>\[如东\]</sup> ② 木工挖槽开洞的工具。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[昨朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_do.md#昨朝)】`cah8 do` <small>/t͡sʰaʔ8 tɔ/<sup>如皋</sup>, /t͡sʰɑʔ8 tɔ/<sup>泰县</sup></small> 昨天<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他是～晚上请的客。<sup>\[泰州\]</sup>  
 1. 【[昨朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_do_zz.md#昨朝子)】`cah8 do zz` <sup>[如皋]</sup> 昨天。  
 1. 【[昨咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cah_ga.md#昨咖)】`cah8 ga` 昨天。  
@@ -902,6 +903,7 @@
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan` <small>/t͡sʰən2 kuaŋ/<sup>兴化</sup>, /t͡sʰəŋ2 kuã/<sup>如皋</sup></small> ① 时间，时候。<sup>\[如东\]</sup>：甚的～来？<sup>\[如东\]</sup> ② 时间。<sup>\[如皋\]</sup> ③ 大约的时间、时候<sup>\[如皋\]</sup>：甚的～、有啊～。<sup>\[如皋\]</sup> ④ 时候<sup>\[兴化\]</sup>：在他吃酒～，过来两个小和尚……（《施耐庵的传说·酒菜活了》）<sup>\[兴化\]</sup>  
 1. 【[辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_guan.md#辰光)】`chen2 guan1` <small>/səŋ2 kuɑŋ1/<sup>泰兴</sup></small> ① 时候，时辰<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：甚的～走？<sup>\[东台\]</sup> ② 程度<sup>\[东台\]</sup>：企业亏到这个～，要赶快采取改革措施。<sup>\[东台\]</sup>  
 1. 【[鈂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#鈂)】`chen2` <sup>[如皋]</sup> 点播（播种）种子：～麦、～玉米、～黄豆。如皋词典写“𣜣”。  
+1. 【[鈂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#鈂)】`chen2` <small>/t͡sʰəŋ2/<sup>泰兴</sup></small> 种植方式之一。以锹挖浅塘将种子放入其中<sup>\[泰兴\]</sup>：～花生、～黄豆<sup>\[泰兴\]</sup>  
 1. 【[鈂麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_moh.md#鈂麦)】`chen2 moh8` <sup>[如东]</sup> 在田地里用铁锹摇开口子将麦种撒下去。  
 1. 【[鈂豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu.md#鈂豆)】`chen2 teu6` <sup>[泰州]</sup> ① （泰州词典作盛豆，乘豆） ② 种豆：下田去～。  
 1. 【[鈂豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_zz.md#鈂豆子)】`chen2 teu6 zz` <sup>[东台]</sup> 破土下豆种：我们这里霜降前后～，主要指蚕豆。  
@@ -969,7 +971,9 @@
 1. 【[趁风涨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风涨)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 价格飞涨。  
 1. 【[趁风长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_fon_zhan.md#趁风长)】`chen5 fon1 zhan3` <sup>[如皋]</sup> 状人、畜、禽初生，生长迅速。  
 1. 【[趁觉<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_go_r_dii.md#趁觉<sub>儿</sub>的)】`chen5 go5 r dii` <sup>[如皋]</sup> 睡梦中说话、脱袜子等行为。  
-1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <small>/t͡sʰən5 t͡ɕiaʔ7 t͡ɕʰiɔ1/<sup>兴化</sup>, /t͡sʰəŋ5 t͡ɕiaʔ7 t͡ɕʰiɔ1/<sup>如皋</sup></small> ① 贬指跟着哄抬<sup>\[如皋\]</sup>：他就会～。<sup>\[如皋\]</sup> ② 附和别人意见，推波助澜<sup>\[东台\]</sup>：要公正、务实，不能简单的～。<sup>\[东台\]</sup> ③ 随声附和他人言语<sup>\[兴化\]</sup>：他自己没主见，就喜欢～。<sup>\[兴化\]</sup>｜那八戒就趁脚儿跷道：“……不当人子！”（《西游记》二五）<sup>\[兴化\]</sup>  
+1. 【[趁火接犁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_hu_jih_li.md#趁火接犁头)】`chen5 hu3 jih7 li2 teu2` <small>/t͡sʰəŋ5 xɤɯ3 t͡ɕiʔ7 lʝ2 tʰəɪ2/<sup>泰兴</sup></small> 喻趁着有利条件的同时办好某事。<sup>\[泰兴\]</sup>  
+1. 【[趁脚跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_jiah_qio.md#趁脚跷)】`chen5 jiah7 qio1` <small>/t͡sʰən5 t͡ɕiaʔ7 t͡ɕʰiɔ1/<sup>兴化</sup>, /t͡sʰəŋ5 t͡ɕiaʔ7 t͡ɕʰiɔ1/<sup>如皋</sup>, /t͡sʰəŋ5 t͡ɕiɑʔ7 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 贬指跟着哄抬<sup>\[如皋\]</sup>：他就会～。<sup>\[如皋\]</sup> ② 附和别人意见，推波助澜<sup>\[东台\]</sup>：要公正、务实，不能简单的～。<sup>\[东台\]</sup> ③ 随声附和他人言语<sup>\[兴化\]</sup>：他自己没主见，就喜欢～。<sup>\[兴化\]</sup>｜那八戒就趁脚儿跷道：“……不当人子！”（《西游记》二五）<sup>\[兴化\]</sup> ④ 犹落井下石。趁着形势对他人不利的时候推波助澜。<sup>\[泰兴\]</sup>  
+1. 【[趁手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_sheu.md#趁手)】`chen5 sheu3` <small>/t͡sʰəŋ5 ɕiɤɯ3/<sup>泰兴</sup></small> 谓趁着各方面的有利条件顺便办理某事。<sup>\[泰兴\]</sup>  
 1. 【[趁熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shoh.md#趁熟)】`chen5 shoh8` <sup>[兴化]</sup> 逃荒，到丰收之地谋生：几年前外省闹水灾，好多灾民到这块～。  
 1. 【[趁水淌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_shuei_tan.md#趁水淌)】`chen5 shuei3 tan3` <sup>[如东]</sup> 比喻跟着走：他就欢喜～。  
 1. 【[趁早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zo.md#趁早)】`chen5 zo3` <sup>[如皋]</sup> 宜早不宜迟，要抓紧：要走～走｜做力气活要一来～，二来趁饱。  

@@ -135,7 +135,9 @@
 1. 【[哪歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_keh_r.md#哪歇刻<sub>儿</sub>)】`la3 xih7 keh9 r` <sup>[如皋]</sup> 什么时候？  
 1. 【[哪晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xio_deh.md#哪晓得)】`la3 xio3 deh7` <sup>[如皋]</sup> 难以预测：他才在这许耍子的，家去就死啊，～啋！  
 1. 【[哪早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zo_vaen.md#哪早晚)】`la3 zo3 vaen3` <small>/la3 t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /na3 t͡sɔ3 ʋɛ̃3/<sup>泰县</sup></small> ① 什么时候<sup>\[兴化\]</sup>：上海来的班车～到？<sup>\[兴化\]</sup> ② 什么时候：～他要来的？<sup>\[泰县\]</sup>  
+1. 【[喇叭花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_hua.md#喇叭花)】`la3 ba hua1` <small>/lɑ3 pɑ xuɑ1/<sup>泰兴</sup></small> 牵牛花的别名。花似喇叭，故称。<sup>\[泰兴\]</sup>  
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <small>/la3 pa tʰɤ2 t͡sɿ/<sup>兴化</sup>, /na3 pa tʰɤɯ2 t͡se/<sup>泰县</sup></small> ① 扬声器的俗称。<sup>\[兴化\]</sup> ② 广播喇叭。<sup>\[泰县\]</sup>  
+1. 【[喇叭筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_ton_zz.md#喇叭筒子)】`la3 ba ton3 zz` <small>/lɑ3 pɑ tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 话筒的俗称。<sup>\[泰兴\]</sup>  
 1. 【[藞挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_gua.md#藞挂)】`la3 gua` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[藞䕢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zha.md#藞䕢)】`la3 zha3` <sup>[如皋]</sup> 见“拉瓜”。  
 1. 【[俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#俫)】`lae` <small>/lɛ/<sup>兴化</sup>, /lɛ/<sup>如皋</sup>, /lɛ/<sup>泰兴</sup>, /ne/<sup>泰县</sup></small> 人称复数，相当于“们”。泰兴一般用“jio”：我～｜你～｜他～。  
@@ -1347,6 +1349,7 @@
 1. 【[猎狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_geu.md#猎狗)】`lih8 geu3` ① 受过训练，能够帮助打猎的一种狗。<sup>\[如东\]</sup> ② 受过训练，帮助打猎的狗。<sup>\[东台\]</sup>  
 1. 【[猎枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_qian.md#猎枪)】`lih8 qian1` <sup>[东台]</sup> 打猎用的枪。  
 1. 【[裂坼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_cheh.md#裂坼)】`lih8 cheh7` <sup>[如东]</sup> ① 田地因为干旱而裂缝：一个月没下雨，田里已经～。 ② 皮肤因为缺少脂肪儿皴裂。  
+1. 【[裂坼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_cheh_zz.md#裂坼子)】`lih8 cheh7 zz` <small>/liʔ8 t͡sʰəʔ7 t͡sɿ/<sup>泰兴</sup></small> 手脚因受风寒而裂口<sup>\[泰兴\]</sup>  
 1. 【[裂轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_choh.md#裂轴)】`lih8 choh8` <sup>[如皋]</sup> 帮工踏水的人对主家不满，用转速不均的办法使踏车轴撕裂。  
 1. 【[裂痕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_hen.md#裂痕)】`lih8 hen2` <sup>[东台]</sup> ① 器物破裂的痕迹。 ② 喻指感情破裂或意见分歧表现出来的迹象。  
 1. 【[裂花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lih_hua.md#裂花)】`lih8 hua` <sup>[兴化]</sup> 因膨胀而开裂：这西瓜长的太熟，皮子倒～开来啦！  

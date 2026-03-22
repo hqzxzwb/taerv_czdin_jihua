@@ -76,6 +76,7 @@
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
 1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
+1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <small>/t͡ɕʰiɛ2 ʝ1/<sup>泰兴</sup></small> 裁缝师傅<sup>\[泰兴\]</sup>  
 1. 【[裁衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i_din.md#裁衣店)】`cae2 i1 din5` <sup>[如皋]</sup> 称缝中服的店铺。  
 1. 【[裁弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_vaen_qy_cheh.md#裁弯取直)】`cae2 vaen1 qy3 cheh8` <sup>[兴化]</sup> 见“拿弯取直”。  
 1. 【[豺豺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cae_r.md#豺豺<sub>儿</sub>)】`cae2 cae r` <sup>[如东]</sup> 牙齿。  

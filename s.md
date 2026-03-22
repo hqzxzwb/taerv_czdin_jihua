@@ -3123,6 +3123,7 @@
 1. 【[梭子里没有线——空来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_lii_meh.md#梭子里没有线——空来往)】`su1 zz lii meh8 ieu3 xin5 kon1 lae2 van3` <sup>[东台]</sup>   
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1, su2` <sup>[如皋]</sup> 偷视、闪视：贼眼只～。又有斜视、目不正视等义。  
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <sup>[东台]</sup> 斜着眼睛看：拿眼睛一～，发现他啊躲在角落里。  
+1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <small>/sɤɯ1/<sup>泰兴</sup></small> 看；望。<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
 1. 【[蓑衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i.md#蓑衣)】`su1 i1` ① 一种雨具。用关草或棕丝编织而成，穿或披在身上可以挡雨。也叫下苫。<sup>\[如东\]</sup> ② 用龙须草制成的披在身上的避雨用具。<sup>\[东台\]</sup>  
 1. 【[蓑衣虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon.md#蓑衣虫)】`su1 i1 chon2` <small>/so1 i1 t͡sʰoŋ2/<sup>兴化</sup></small> ① 蛷螋。《说文·虫部》：“蛷，多足虫也。”《广雅疏证》卷十下，王念孙注：“……今扬州人谓之～……长可盈寸，行于壁上，往来甚捷。”<sup>\[兴化\]</sup> ② 蛷螋，一种昆虫，身多线状细足，似披蓑衣，故名。<sup>\[泰州\]</sup>  
 1. 【[蓑衣虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon_r.md#蓑衣虫<sub>儿</sub>)】`su1 i1 chon2 r` <sup>[如皋]</sup> 花蚰蜒。  
