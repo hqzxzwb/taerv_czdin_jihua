@@ -1839,7 +1839,6 @@
 1. 【[棍子路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_zz_lv.md#棍子路)】`guen5 zz lv6` <sup>[如皋]</sup> 水田的田埂，又狭又凸又硬又滑。  
 1. 【[琯俏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_qio.md#琯俏)】`guen5 qio` <sup>[兴化]</sup> 打扮入时。琯，《集韵·圂韵》古困切：治金玉使莹曰～：麻虽麻，麻得～  
 1. 【[𬦸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#𬦸)】`guen5` <sup>[兴化]</sup> 逃脱。兴化词典作“混”，《集韵·混韵》古本切。俗作“滚”：这次捱他～掉啊。｜你能从这块～掉就算你的本事！  
-1. 【[佮煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh.md#佮煞)】`guh1 shaeh` <sup>[泰兴]</sup> 怜惜，爱惜：他妈妈～他，不曾让他住校  
 1. 【[佮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh.md#佮)】`guh7` <small>/kuʔ7/<sup>兴化</sup>, /kʊʔ7/<sup>如皋</sup>, /kʊʔ7/<sup>泰兴</sup>, /kʊʔ7/<sup>泰县</sup></small> ① 共享；共用；共奉<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～用、～吃、～养上人。<sup>\[如皋\]</sup>｜你俫两个人～用一本书。<sup>\[泰县\]</sup>｜两个人～睏一张床。<sup>\[泰州\]</sup>｜车子大家～用。<sup>\[泰州\]</sup> ② 缝合<sup>\[如皋\]</sup>：～缝。<sup>\[如皋\]</sup> ③ 结交，如皋词典作“搿”<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：两家～得好。<sup>\[如皋\]</sup> ④ 合伙、合资、合作<sup>\[兴化\]</sup>：～做生意；～赌钱；～养性命。<sup>\[兴化\]</sup>｜～起来养鱼。<sup>\[兴化\]</sup> ⑤ 把多股纱线捻合成较粗的线<sup>\[兴化\]</sup>：～线。<sup>\[兴化\]</sup> ⑥ 按配方将多味中草药一起碾碎，制成药丸<sup>\[兴化\]</sup>：～一副丸药。<sup>\[兴化\]</sup> ⑦ 按方配合化学药剂<sup>\[兴化\]</sup>：“我家铎头平生最好弄火药，他也会～……”（《梼杌闲评》十四）<sup>\[兴化\]</sup> ⑧ 一升的十分之一<sup>\[泰兴\]</sup>：七～头的升子八～头的命，有了九～就生病。<sup>\[泰兴\]</sup> ⑨ 制作<sup>\[泰兴\]</sup>：～釜冠<sup>\[泰兴\]</sup>｜～箱子<sup>\[泰兴\]</sup>  
 1. 【[佮把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ba_zz.md#佮把子)】`guh7 ba3 zz` <sup>[泰州]</sup> 本指武打演员兵器道具对打之时，动作配合协调，比喻共事的人脾气、性格、志趣相近，相处融洽：他俫两个都是厚道人，在一起儿工作倒是蛮～的。｜这两个人不～，蹾住块儿弄不好。  
 1. 【[佮穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_chun.md#佮穿)】`guh7 chun1` <sup>[泰州]</sup> 多个人轮流穿一件衣服或者一双鞋子、袜子：小时候家里穷，我俫弟兄～一双球鞋，我同你家叔叔一递一个星期穿。  
@@ -1881,6 +1880,7 @@
 1. 【[割爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ngae.md#割爱)】`guh7 ngae5` <sup>[东台]</sup> 舍弃所爱。  
 1. 【[割青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_qien.md#割青)】`guh7 qien1` <sup>[如皋]</sup> 见“采青”。  
 1. 【[割人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_ren_zz.md#割人子)】`guh7 ren zz` <sup>[如皋]</sup> 见“割酸”。  
+1. 【[割煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh.md#割煞)】`guh7 shaeh` <small>/kʊʔ7 ɕiæʔ/<sup>泰兴</sup></small> 舍得<sup>\[泰兴\]</sup>：本来想吖把个鸡子杀掉的，想想又不曾～<sup>\[泰兴\]</sup>  
 1. 【[割杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh_guei.md#割杀鬼)】`guh7 shaeh7 guei3` <sup>[泰县]</sup> 互相吵闹的人（原文作“各杀鬼”，音不合）：你望这些～，没得一分钟的闲时。  
 1. 【[割酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_sun.md#割酸)】`guh7 sun1` <sup>[如皋]</sup> 胃中㽱酸水，难受。  
 1. 【[蛤蝼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_leu.md#蛤蝼)】`guh7 leu2-3` <sup>[东台]</sup> 青蛤的俗称。蛤蜊的一种。  
@@ -1889,6 +1889,7 @@
 1. 【[鸽子窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_zz_ku.md#鸽子窠)】`guh7 zz ku1` <small>/kuʔ7 t͡sɿ kʰo1/<sup>兴化</sup>, /kʊʔ7 t͡sɿ kʰɤɯ1/<sup>泰兴</sup></small> ① 指鸽子居住的窝棚。<sup>\[东台\]</sup> ② 一种砖墙结构，也喻指居住的环境窄小。<sup>\[东台\]</sup> ③ （喻）一种空心墙<sup>\[兴化\]</sup>：砌～的墙。<sup>\[兴化\]</sup> ④ （借）形容房舍窄小<sup>\[兴化\]</sup>：他俫几个人挤啊一间～里。<sup>\[兴化\]</sup> ⑤ 养鸽子的人为家鸽搭建的方格形小窝。<sup>\[泰州\]</sup> ⑥ 比喻居住之处狭小。<sup>\[泰州\]</sup> ⑦ 喻指许多人家居住在一个面积不大的显得很拥挤的地方。<sup>\[泰兴\]</sup>  
 1. 【[鸽子笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_zz_lon.md#鸽子笼)】`guh7 zz lon2` <small>/kʊʔ7 t͡sɿ lɔŋ2/<sup>泰兴</sup></small> 比喻窄小的房子。<sup>\[泰兴\]</sup>  
 1. 【[鸽子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_zz_ngaen.md#鸽子眼)】`guh7 zz ngaen3` <sup>[泰县]</sup> 玉米。  
+1. 【[不<sub>割</sub>煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guh_shaeh.md#不<sub>割</sub>煞)】`guh9 shaeh` <small>/kʊʔ1 ɕiæʔ/<sup>泰兴</sup></small> 舍不得<sup>\[泰兴\]</sup>：他妈妈～他，不曾让他住校<sup>\[泰兴\]</sup>  
 1. 【[冠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zz.md#冠子)】`gun1 zz` <small>/kʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 禽鸟类头上冠状突起物。多为红色。<sup>\[泰兴\]</sup>：鸡～<sup>\[泰兴\]</sup>  
 1. 【[官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#官)】`gun1` <sup>[兴化]</sup> 指公众的、较大的：～街；～巷；～河（干河）；～道（人道）。  
 1. 【[官不大，僚不小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_beh_da_lio.md#官不大，僚不小)】`gun1 beh7 da6 lio2 beh7 xio3` <sup>[东台]</sup> 指少数地位、级别并不十分高的官员的官僚主义作风。  

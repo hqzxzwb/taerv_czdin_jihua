@@ -1,6 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## I
+1. 【[□棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ku.md#□棵)】`i1 ku` <small>/ʝ1 kʰɤɯ/<sup>泰兴</sup></small> 标记田界的植株，一般是枸杞。同“界棵”。<sup>\[泰兴\]</sup>  
 1. 【[依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#依)】`i1` <sup>[如东]</sup> 靠：她～啊门框上。  
 1. 【[依啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#依啊)】`i1 a` <sup>[如东]</sup> 听从，顺从：～我你就去啊。  
 1. 【[依啊你，盐总卖啊馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nii_in.md#依啊你，盐总卖啊馊啊)】`i1 a nii3 in2 zon3 mae6 a seu1 a` <sup>[如皋]</sup> 按你的意思办，什么事都办糟了。  
@@ -1336,7 +1337,7 @@
 1. 【[银筷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kuae_r.md#银筷<sub>儿</sub>)】`ien2 kuae5 r` <sup>[如东]</sup> 筷的一种，以银为原料制成的筷儿，用于搛菜，并可以检测砒霜。  
 1. 【[银柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kuei.md#银柜)】`ien2 kuei6` <sup>[如东]</sup> ① 旧时贮存银元、铜钱等物的柜子，一般木制，方形，口在上面。 ② 收款结账的柜台。  
 1. 【[银楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_leu.md#银楼)】`ien2 leu2` <small>/iəŋ2 lei2/<sup>如皋</sup></small> ① 见“银匠店”。<sup>\[如皋\]</sup> ② 制造和经营金银饰品的工场。<sup>\[如东\]</sup>  
-1. 【[银膜螐蚅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_mah_v_eh.md#银膜螐蚅)】`ien2 mah v1 eh7` <sup>[泰州]</sup> 俗称“天牛”，黑色，体壳坚硬而有光泽、呈长圆形、头上有两根长触角。  
+1. 【[银膜呜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_mah_v_r.md#银膜呜<sub>儿</sub>)】`ien2 mah v1 r` <sup>[泰州]</sup> 俗称“天牛”，黑色，体壳坚硬而有光泽、呈长圆形、头上有两根长触角。  
 1. 【[银鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ngeu.md#银鸥)】`ien2 ngeu1` <sup>[如东]</sup> 鸥科动物银鸡，体长约60厘米。背腰及两翅复羽均深灰色，外侧飞羽黑褐而具白端，内侧飞羽为灰色，余羽纯白。眼淡黄。嘴黄。脚淡红。在沿海一带活动，亦见于内陆大湖。食鱼、虾及鼠。  
 1. 【[银箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_pah.md#银箔)】`ien2 pah8` <sup>[如东]</sup> 粘有锡薄片的纸。每逢节日，民间用以折成元宝祭祀祖先。  
 1. 【[银匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qian.md#银匠)】`ien2 qian` 以金银为主要材料制作饰物、器具的工具。<sup>\[泰州\]</sup>  

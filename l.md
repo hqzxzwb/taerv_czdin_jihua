@@ -2333,6 +2333,7 @@
 1. 【[锣鼓家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_gv_ga_hu.md#锣鼓家伙)】`lu2 gv3 ga1 hu` <sup>[兴化]</sup> 锣、鼓、镲钹及镗锣等打击乐器的总称。  
 1. 【[锣<sub>儿</sub>三钹<sub>儿</sub>四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_r_saen_buh.md#锣<sub>儿</sub>三钹<sub>儿</sub>四)】`lu2 r saen1 buh7 r sz5` <sup>[兴化]</sup> （贬）语言重复，说起来没完没了：老太婆成天～的，烦死啊！  
 1. 【[骡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zz.md#骡子)】`lu2 zz` <sup>[如东]</sup> 马科动物骡，是驴和马交配所生的杂种，比驴子大，毛多为黑色。寿命长，体力大。多用做力畜。一般不能生育。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tu.md#□□)】`lu3 tu` <small>/lɤɯ3 tʰɤɯ/<sup>泰兴</sup></small> 笨拙，能力低下，无法做好事情<sup>\[泰兴\]</sup>  
 1. 【[倮佗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_tu.md#倮佗)】`lu3 tu` <sup>[如皋]</sup> 衣饰不整状。倮，通“裸”；佗，《集韻》徒可切，音沱。被髮也。《史記·龜筴傳》醮酒佗髮。  
 1. 【[剆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#剆)】`lu3` <small>/lo3/<sup>兴化</sup>, /lʊ3/<sup>如皋</sup>, /lɤɯ3/<sup>泰兴</sup>, /no3/<sup>泰县</sup></small> ① 划，割 ② 用刀刃拉，锯切<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：钝刀切肉一一慢慢儿～。<sup>\[如皋\]</sup>｜他从挂啊下的猪肉上～啊二斤忙中饭菜。<sup>\[东台\]</sup>｜～一块肉不小心把手～开啊。《广韵·哿韵》来可切<sup>\[兴化\]</sup>｜“～，相击也，亦斫也。”<sup>\[兴化\]</sup>｜结巴太紧解不下来，拿个刀来～啊子。<sup>\[泰州\]</sup> ③ 纠缠。<sup>\[泰县\]</sup>  
 1. 【[剆劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#剆劲)】`lu3 jien5` <small>/no3 t͡ɕiŋ5/<sup>泰县</sup></small> 磨工<sup>\[泰县\]</sup>：～大<sup>\[泰县\]</sup>  

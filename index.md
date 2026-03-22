@@ -232,6 +232,7 @@
 1. 【[虾<sub>儿</sub>钳䶠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_qin_ngaen.md#虾<sub>儿</sub>钳䶠的)】`ha1 r qin2 ngaen2 dii` <sup>[如皋]</sup> 轻度骚扰、取闹：他欢喜～，一刻儿就碰你下子。  
 [更多...](./h.md)
 ## I
+1. 【[□棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ku.md#□棵)】`i1 ku` <small>/ʝ1 kʰɤɯ/<sup>泰兴</sup></small> 标记田界的植株，一般是枸杞。同“界棵”。<sup>\[泰兴\]</sup>  
 1. 【[依](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#依)】`i1` <sup>[如东]</sup> 靠：她～啊门框上。  
 1. 【[依啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a.md#依啊)】`i1 a` <sup>[如东]</sup> 听从，顺从：～我你就去啊。  
 1. 【[依啊你，盐总卖啊馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_a_nii_in.md#依啊你，盐总卖啊馊啊)】`i1 a nii3 in2 zon3 mae6 a seu1 a` <sup>[如皋]</sup> 按你的意思办，什么事都办糟了。  

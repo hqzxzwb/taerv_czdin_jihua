@@ -1672,6 +1672,7 @@
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_hu_r.md#懦货<sub>儿</sub>)】`nu6 hu5 r` <sup>[如东]</sup> 软弱无能的人：王二是个～。  
 1. 【[懦弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_rah.md#懦弱)】`nu6 rah8` <sup>[东台]</sup> 胆小怕事，软弱无能。  
+1. 【[懦善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_shin.md#懦善)】`nu6 shin6` <small>/nɤɯ1 ɕĩ1/<sup>泰兴</sup></small> 懦弱、不活泼<sup>\[泰兴\]</sup>  
 1. 【[糯米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi.md#糯米)】`nu6 mi3` <sup>[如东]</sup> 禾本科植物糯稻的种仁，也称茶米。黏性大，可以做糕酿酒。  
 1. 【[糯米陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_chen_jieu.md#糯米陈酒)】`nu6 mi3 chen2 jieu3` <sup>[如皋]</sup> 以糯米为主酿制的一种低度酒，浸以茵陈且库藏较久，故称“陈”。  
 1. 【[糯米泔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_gun.md#糯米泔)】`nu6 mi3 gun1` <sup>[如东]</sup> 糯米淘洗时第二次滤出的泔水。  
