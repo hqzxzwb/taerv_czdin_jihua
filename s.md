@@ -2855,7 +2855,6 @@
 1. 【[梳子板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_baen.md#梳子板)】`shv1 zz baen3` <sup>[如东]</sup> 帆船船底板下面的一块梳子形的木板。  
 1. 【[梳子肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_roh.md#梳子肉)】`shv1 zz roh8` <small>/su1 t͡sɿ ɻɔʔ8/<sup>如皋</sup></small> ① 跑油肉。<sup>\[如皋\]</sup> ② 炮油肉。<sup>\[如皋\]</sup> ③ 见“跑油肉”。<sup>\[如皋\]</sup>  
 1. 【[舒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_qy.md#舒趣)】`shv1 qy` <sup>[兴化]</sup> 舒服、偷快：今朝老友聚会谈天，心里蛮～的。  
-1. 【[舒手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_sheu_run_jiah.md#舒手软脚)】`shv1 sheu3 run3 jiah7` <sup>[如东]</sup> 形容浑身没有力气：今朝我～的，甚的事情都不想做。  
 1. 【[舒泰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_tae.md#舒泰)】`shv1 tae5` <sup>[如皋]</sup> 舒服、舒坦、安逸。  
 1. 【[舒坦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_taen.md#舒坦)】`shv1 taen` <sup>[兴化]</sup> ① 舒服、适意：劳动过后，到澡堂里泡他一个钟头，浑身～。黏食吃多了，胃子不～。 ② 高兴：看他虚情假意的样子，心里不～。  
 1. 【[舒心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_xien.md#舒心)】`shv1 xien1` <sup>[兴化]</sup> 心情舒畅、惬意：“唉，苦命啦！一辈子没过一日子，死还没落个好死！”（陈登科《淮河边上的儿女》一）  
@@ -3243,10 +3242,13 @@
 1. 【[苏州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zheu_qien.md#苏州青)】`sv1 zheu1 qien1` <sup>[东台]</sup> 一种蔬菜，颜色较一般青菜略淡。明“洪武赶散”时传入东台南园，后改良为短茎、粗瓢、矮株、扁棵的小青菜。  
 1. 【[酥/𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#酥/𣩷)】`sv1` <small>/su1/<sup>兴化</sup>, /su1/<sup>如皋</sup></small> ① 朽坏<sup>\[如皋\]</sup>：桌子脚～啊，一掐一块屑子。<sup>\[如皋\]</sup> ② 朽、烂<sup>\[兴化\]</sup>：这块砖头浸吖水里一冻全～啊。<sup>\[兴化\]</sup>｜这块木头已经烂吖泛～啊。<sup>\[兴化\]</sup> ③ 器物松软而不坚固<sup>\[泰州\]</sup>：岁数大啊唻，骨头发咖～，走路一跌就骨折。<sup>\[泰州\]</sup>｜这个房子年代久啊，砖头子都～啊，一碰就灰𠫓𠫓的。<sup>\[泰州\]</sup>  
 1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <sup>[如皋]</sup> 盘酵时加酥的面饼。  
+1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <small>/su1 piŋ3/<sup>泰兴</sup></small> 一种脆酥的烧饼。<sup>\[泰兴\]</sup>  
 1. 【[酥儿饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_er_bien.md#酥儿饼)】`sv1 er bien3` <sup>[东台]</sup> 古镇富安特有的传统茶点。又名千层酥。每年正月半后至清明节前为生产佳期，过时便失其脆酥。以精制面粉为主料，辅之以洗赤豆沙、鲜肉、蔗糖等佐料，内包甜、咸两种馅料，油煎而成。它形似菊花，层层起酥，疏松香脆，油而不腻，常令食者回味无穷，堪称东台一绝。  
 1. 【[酥瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_gua.md#酥瓜)】`sv1 gua1` <sup>[兴化]</sup> 甜瓜的一种，果实长筒形，皮深绿色，瓠果肉甜多汁，可生食解渴。  
 1. 【[酥饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jio.md#酥饺)】`sv1 jio3` <sup>[如皋]</sup> 一种茶食。饺皮擦油酥擀制。油炸。  
 1. 【[酥卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jiun_r.md#酥卷<sub>儿</sub>)】`sv1 jiun3 r` <sup>[如皋]</sup> 酥脆的卷状茶食。  
+1. 【[酥手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheu_run_jiah.md#酥手软脚)】`sv1 sheu3 run3 jiah7` <small>/su1 ɕiɤɯ3 ɻʊ̃3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓肢体软弱无力。<sup>\[泰兴\]</sup>  
+1. 【[酥手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheu_run_jiah.md#酥手软脚)】`sv1 sheu3 run3 jiah7` <sup>[如东]</sup> 形容浑身没有力气：今朝我～的，甚的事情都不想做。  
 1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如花生酥、董糖。  
 1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  

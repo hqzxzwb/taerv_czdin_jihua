@@ -1356,6 +1356,7 @@
 1. 【[联把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ba.md#联把)】`lin2 ba3` <small>/lĩ2 pa3/<sup>如皋</sup></small> ① 联手。<sup>\[如东\]</sup>：张三与王二是～的。<sup>\[如东\]</sup> ② 联合行动。<sup>\[如皋\]</sup> ③ 串通。<sup>\[如皋\]</sup>  
 1. 【[联鹤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_hah.md#联鹤)】`lin2 hah8` <sup>[泰县]</sup> 联络：小惠～人。  
 1. 【[联络](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_lah.md#联络)】`lin2 lah8` <sup>[如东]</sup> ① 彼此交往：我和他有～。 ② 接上关系。  
+1. 【[联手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_sheu.md#联手)】`lin2 sheu3` <small>/lĩ2 ɕiɤɯ3/<sup>泰兴</sup></small> 彼此合作。<sup>\[泰兴\]</sup>  
 1. 【[联系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_xi.md#联系)】`lin2 xi6` <sup>[如东]</sup> ① 交往。 ② 接头：他去～。  
 1. 【[臁疮腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_chuan_tuei.md#臁疮腿)】`lin2 chuan1 tuei3` <sup>[兴化]</sup> 小腿前部患有藏疮。又称“烂腿”。  
 1. 【[莲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#莲)】`lin2` <sup>[如东]</sup> 睡莲科植物莲，也叫荷花、芙蓉。  

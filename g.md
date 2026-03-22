@@ -863,6 +863,7 @@
 1. 【[搅和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_hu.md#搅和)】`go3 hu2` <sup>[兴化]</sup> ① 混合、掺杂：商城范围太大，真货、假货～在一起儿不好分辨。 ② 扰乱：好多事情有他一～就黄吖。  
 1. 【[搅浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_huen_shuei.md#搅浑水)】`go3 huen2 shuei3` <sup>[东台]</sup> ［喻］故意把事情弄复杂化，让人辨认不清。  
 1. 【[搅面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_min.md#搅面)】`go3 min6` <sup>[东台]</sup> 用机器制作面条，不同于用手工擀面。  
+1. 【[搅七捻三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieh_nin_saen.md#搅七捻三)】`go3 qieh7 nin3 saen1` <small>/kɔ3 t͡ɕʰiəʔ7 nĩ3 ɕiɛ̃1/<sup>泰兴</sup></small> 胡闹；乱七八糟。<sup>\[泰兴\]</sup>  
 1. 【[搅水棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shuei_guen.md#搅水棍)】`go3 shuei3 guen5` <sup>[东台]</sup> ［喻］指搅浑水，搬弄是非、制造不安定因素的人。  
 1. 【[搅头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_teu.md#搅头)】`go3 teu` <small>/kɔ3 tʰɤ/<sup>兴化</sup>, /kɔ3 tʰei/<sup>如皋</sup></small> ① 掺入的东西。参见“和头”。<sup>\[如皋\]</sup> ② 做菜辅料。<sup>\[东台\]</sup> ③ 在烹调中，主菜之外的配料<sup>\[兴化\]</sup>：肉丝炒虾仁，弄点洋葱做～。<sup>\[兴化\]</sup> ④ 一道菜中除主要原料之外的配套原料，多指与荤菜搭配的蔬菜，以其搅与荤菜，故名<sup>\[泰州\]</sup>：排骨里头多放点儿萝卜做～，才见吃吤。<sup>\[泰州\]</sup>  
 1. 【[搅粥锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhoh_gu.md#搅粥锅)】`go3 zhoh7 gu1` <sup>[如皋]</sup> 煮蜡儿粥时先随冷水下锅煮的少量米、豆等。米儿豇～。  
@@ -876,7 +877,7 @@
 1. 【[搞嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_jy.md#搞嘴)】`go3 jy3` <sup>[泰县]</sup> 吵架：邻居不能～。  
 1. 【[搞拉<sub>儿</sub>三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_la_r_saen.md#搞拉<sub>儿</sub>三)】`go3 la5 r saen1` <sup>[东台]</sup> （贬）搞的鬼花招：我初遇他，还弄不清他的～。  
 1. 【[搞唠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_lo.md#搞唠)】`go3 lo2` <small>/kɔ3 lɔ2/<sup>如皋</sup></small> ① 闹纠纷，闹别扭 ② 闹纠纷。<sup>\[如东\]</sup> ③ 淘蛮气，纠纷。<sup>\[如皋\]</sup>  
-1. 【[搞𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_mu.md#搞𣳠)】`go3 mu3` <small>/kɔ3 mʊ3/<sup>如皋</sup>, /kɔ3 mo3/<sup>泰县</sup></small> ① 胡说八道。<sup>\[如皋\]</sup> ② 多说<sup>\[泰县\]</sup>：这件事你不能～。<sup>\[泰县\]</sup>  
+1. 【[搞𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_mu.md#搞𣳠)】`go3 mu3` <small>/kɔ3 mʊ3/<sup>如皋</sup>, /kɔ3 mɤɯ3/<sup>泰兴</sup>, /kɔ3 mo3/<sup>泰县</sup></small> ① 胡说八道。<sup>\[如皋\]</sup> ② 多说<sup>\[泰县\]</sup>：这件事你不能～。<sup>\[泰县\]</sup> ③ 胡说；瞎说。<sup>\[泰兴\]</sup>  
 1. 【[搞脓滩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_non_taen_zz.md#搞脓滩子)】`go3 non2 taen1 zz` <sup>[如皋]</sup> 詈语。责胡说。  
 1. 【[搞七搞八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieh_go_baeh.md#搞七搞八)】`go3 qieh7 go3 baeh7` <small>/kɔ3 t͡ɕʰiəʔ7 kɔ3 peʔ7/<sup>如皋</sup></small> ① 胡搞蛮缠。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 胡搅蛮缠，不讲道理，事理错乱。<sup>\[如皋\]</sup> ③ 事情头绪多，理不清楚。<sup>\[东台\]</sup>  
 1. 【[搞七捻三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieh_nin_saen.md#搞七捻三)】`go3 qieh7 nin3 saen1` <sup>[泰州]</sup> 纠缠在一起：这小伙没得牢事，成天同这几个马马儿～的，也不怕人家说闲话。  
@@ -1525,6 +1526,7 @@
 1. 【[惯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz.md#惯子)】`guaen5 zz3` <sup>[兴化]</sup> 娇生惯养的独生子：不要看郑板桥从小生得又黑又瘦……他可是个～呢！（《郑板桥传说》）  
 1. 【[𠍿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#𠍿)】`guaen5` 吻。<sup>\[如东\]</sup><sup>\[东台\]</sup>：我想～你。<sup>\[如东\]</sup>｜她在下～宝宝。<sup>\[东台\]</sup>  
 1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <sup>[兴化]</sup> 在浮厝棺木外用砖砌筑的外壳：砌～  
+1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <small>/kuɑʔ7/<sup>泰兴</sup></small> 套在棺材外的大棺材。以墙体护棺的设施。<sup>\[泰兴\]</sup>：起～<sup>\[泰兴\]</sup>  
 1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“郭刀儿guah7 do1 r”：他又不晓得玩甚的～？  
 1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <sup>[如皋]</sup> ① 趣指愚笨者。 ② 对姓郭者的戏称。童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。  
 1. 【[郭呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz.md#郭呆子)】`guah7 dae1 zz` <sup>[如皋]</sup> 见“郭呆儿”。  
@@ -1972,12 +1974,14 @@
 1. 【[棺材本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ben.md#棺材本)】`gun1 cae ben3` <small>/kũ1 t͡sʰɛ pən3/<sup>兴化</sup></small> ① 老年人为自己预留的丧葬费用<sup>\[兴化\]</sup>：人们私下议论：侉奶奶不卖榆树，她是指着它当～哪。（汪曾祺：《故里杂记》）<sup>\[兴化\]</sup> ② 比喻老人为自己预存的用作丧葬的钱<sup>\[泰州\]</sup>：为啊孙子留学，老爹把～都拿出来啊。<sup>\[泰州\]</sup>  
 1. 【[棺材本<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ben_r.md#棺材本<sub>儿</sub>)】`gun1 cae ben3 r` <sup>[如皋]</sup> 丧葬费用。  
 1. 【[棺材钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_dien.md#棺材钉)】`gun1 cae dien1` <sup>[泰州]</sup> 用于固定棺材盖和棺材身的方锥形铁钉。  
+1. 【[棺材钉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_dien_zz.md#棺材钉子)】`gun1 cae dien1 zz` <small>/kʊ̃1 t͡ɕʰiɛ tiŋ1 t͡sɿ/<sup>泰兴</sup></small> 钉棺材用的钉子；桥丁鱼的俗称；此鱼小，两头尖，故名。<sup>\[泰兴\]</sup>  
 1. 【[棺材里伸手——死要钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_lii_shen.md#棺材里伸手——死要钱)】`gun1 cae lii shen1 sheu3 sz3 io5 qin2` <sup>[东台]</sup>   
+1. 【[棺材里伸手，死要钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_lii_shen.md#棺材里伸手，死要钱)】`gun1 cae lii shen1 sheu3 sz3 io5 qin2` <small>/kʊ̃1 t͡ɕʰiɛ ləɪ səŋ1 ɕiɤɯ3 sɿ3 iɔ5 t͡ɕʰĩ2/<sup>泰兴</sup></small> 歇后语。讥人嗜钱如命，只要有钱，什么都干。<sup>\[泰兴\]</sup>  
 1. 【[棺材脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_lin.md#棺材脸)】`gun1 cae lin3` <sup>[泰州]</sup> 比喻成天板着一副阴冷面孔：这家伙成天板吖一副～。  
 1. 【[棺材瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ran_zz.md#棺材瓤子)】`gun1 cae ran2 zz` <sup>[兴化]</sup> 骂年老多病者，谓其行将就木也。也称“棺材楦子”。  
 1. 【[棺材抬在街心里——讨人骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_tae_cae.md#棺材抬在街心里——讨人骂)】`gun1 cae tae2 cae6 gae1 xien1 lii to3 ren2 ma6` <sup>[东台]</sup>   
 1. 【[棺材头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_teu.md#棺材头)】`gun1 cae teu2` <small>/kũ1 t͡sʰɛ tʰɤ2/<sup>兴化</sup>, /kʊ̃1 t͡sʰɛ tʰei2/<sup>如皋</sup></small> ① 棺材的正前面，最高大的部分。<sup>\[如皋\]</sup> ② 一种蟋蟀名。<sup>\[如皋\]</sup> ③ 蟋蟀的一种，特点是头大身段小<sup>\[兴化\]</sup>：因为看到那只蟋蟀，不过是只又瘦又小的～。（扬说：《济公斗蟋蟀》）<sup>\[兴化\]</sup> ④ 一种蟋蟀，身黑，并且方形头部似棺材前部，故名。<sup>\[泰州\]</sup>  
-1. 【[棺材楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_xiun_zz.md#棺材楦子)】`gun1 cae xiun5 zz` <small>/kũ1 t͡sʰɛ ɕyũ5 t͡sɿ/<sup>兴化</sup>, /kʊ̃1 t͡sʰɛ ɕyʊ̃5 t͡sɿ/<sup>如皋</sup></small> ① 贬指老人，以为行将就木，是后辈的负担。<sup>\[如皋\]</sup> ② （詈语）戏指行将就木之人。<sup>\[东台\]</sup> ③ 见“棺材瓤子”。<sup>\[兴化\]</sup> ④ 詈词，咒骂老年人是要死的人。<sup>\[泰州\]</sup>  
+1. 【[棺材楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_xiun_zz.md#棺材楦子)】`gun1 cae xiun5 zz` <small>/kũ1 t͡sʰɛ ɕyũ5 t͡sɿ/<sup>兴化</sup>, /kʊ̃1 t͡sʰɛ ɕyʊ̃5 t͡sɿ/<sup>如皋</sup>, /kʊ̃1 t͡ɕʰiɛ ɕyʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 贬指老人，以为行将就木，是后辈的负担。<sup>\[如皋\]</sup> ② （詈语）戏指行将就木之人。<sup>\[东台\]</sup> ③ 见“棺材瓤子”。<sup>\[兴化\]</sup> ④ 詈词，咒骂老年人是要死的人。<sup>\[泰州\]</sup> ⑤ 骂人语，谓人快要死了<sup>\[泰兴\]</sup>  
 1. 【[棺材本<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ben_r.md#棺材本<sub>儿</sub>)】`gun1 cae2 ben3 r` <sup>[泰县]</sup> 最后的积蓄。  
 1. 【[棺材楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_xiun_zz.md#棺材楦子)】`gun1 cae2 xiun5 zz` <sup>[泰县]</sup> 快死的老人。  
 1. 【[泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shuei.md#泔水)】`gun1 shuei3` <sup>[如皋]</sup> 做豆腐的废水。  

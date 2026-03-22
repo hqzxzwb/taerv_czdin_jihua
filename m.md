@@ -1245,11 +1245,16 @@
 1. 【[棉花卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_lun_r.md#棉花卵<sub>儿</sub>)】`min2 hua1 lun3 r` <small>/mĩ2 xua1 lʊ˞3/<sup>如皋</sup></small> ① 陈旧的棉花胎。<sup>\[如东\]</sup> ② 破碎的棉花胎。<sup>\[如东\]</sup> ③ 不成形的、破败的絮棉。<sup>\[如皋\]</sup>  
 1. 【[棉花仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_ren.md#棉花仁)】`min2 hua1 ren2` <sup>[如东]</sup> 棉籽去壳后的肉。  
 1. 【[棉花胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tae.md#棉花胎)】`min2 hua1 tae1` <small>/mĩ2 xua1 tʰɛ1/<sup>如皋</sup></small> ① 作被子的絮棉。<sup>\[如皋\]</sup> ② 棉被里面的内胎，制作时用棉纱网住棉花而成。<sup>\[泰州\]</sup>  
+1. 【[棉花田里瞧不起瘌子来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_tin_lii.md#棉花田里瞧不起瘌子来)】`min2 hua1 tin2 lii qio2 beh7 qi3 laeh8 zz lae2` <small>/mĩ2 xuɑ1 tʰĩ2 ləɪ t͡ɕʰiɔ2 pəʔ7 t͡ɕʰʝ3 læʔ8 t͡sɿ lɛ2/<sup>泰兴</sup></small> 喻自高自大，看不起人。<sup>\[泰兴\]</sup>  
 1. 【[棉花桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_to.md#棉花桃)】`min2 hua1 to2` <sup>[如东]</sup> 棉苞的果实。  
 1. 【[棉花絮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_xy.md#棉花絮)】`min2 hua1 xy5` <sup>[如皋]</sup> 棉絮。  
 1. 【[棉花云](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_hua_yen.md#棉花云)】`min2 hua1 yen2` <sup>[如皋]</sup> 高空云景，似棉花朵朵均布。  
+1. 【[棉衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_i_shan.md#棉衣裳)】`min2 i1 shan` <small>/mĩ2 ʝ1 sɑŋ/<sup>泰兴</sup></small> 棉衣。絮了棉花的衣服。<sup>\[泰兴\]</sup>  
+1. 【[棉油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ieu.md#棉油)】`min2 ieu2` <small>/mĩ2 iɤɯ2/<sup>泰兴</sup></small> 用棉子榨成的油。<sup>\[泰兴\]</sup>  
 1. 【[棉裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kv.md#棉裤)】`min2 kv5` <sup>[泰州]</sup> 在夹层蓄有棉花的裤子。  
 1. 【[棉铃虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lien_chon.md#棉铃虫)】`min2 lien2 chon2` <sup>[如东]</sup> 昆虫。幼虫头黄色，有不明显的黄褐色斑点。体色变异很大，淡红色、黄白色、淡绿色、深绿色。主要危害棉花。  
+1. 【[棉毛裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_mo_kv.md#棉毛裤)】`min2 mo kv5` <small>/mĩ2 mɔ kʰu5/<sup>泰兴</sup></small> 一种较厚的棉织品内裤。<sup>\[泰兴\]</sup>  
+1. 【[棉毛衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_mo_shaen.md#棉毛衫)】`min2 mo shaen1` <small>/mĩ2 mɔ ɕiɛ̃1/<sup>泰兴</sup></small> 一种较厚的棉织品内衣。<sup>\[泰兴\]</sup>  
 1. 【[棉毛裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_mo_kv.md#棉毛裤)】`min2 mo2 kv5` <sup>[泰州]</sup> 一种由各种棉毛布料缝制的在天寒时贴身穿的中厚型长袖针织内衣裤子。  
 1. 【[棉毛衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_mo_shaen.md#棉毛衫)】`min2 mo2 shaen1` <sup>[泰州]</sup> 一种由各种棉毛布料缝制的在天寒时贴身穿的中厚型长袖针织内衣的上衣。  
 1. 【[棉仁饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ren_bien.md#棉仁饼)】`min2 ren2 bien3` <sup>[如东]</sup> 棉籽榨油后的渣滓，可作饲料和肥料。  

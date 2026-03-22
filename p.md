@@ -244,17 +244,21 @@
 1. 【[胖婆娘腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pu_nian_tuei.md#胖婆娘腿子)】`pan5 pu2 nian2 tuei3 zz` <sup>[如东]</sup> 豇豆的一种。果实长条形，淡白色，较胖。为普通蔬菜。酵条。  
 1. 【[胖枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_zo_r.md#胖枣<sub>儿</sub>)】`pan5 zo3 r` <small>/pʰã5 t͡sɔ˞3/<sup>如皋</sup></small> ① 状籽实未老熟或未干时胖大而软的样子：小麦还是～，不能收割。<sup>\[如皋\]</sup> ② 籽实没有老熟或没有晒干时的胖大柔软的状态。<sup>\[如东\]</sup>  
 1. 【[棒不打过头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_beh_da_gu.md#棒不打过头<sub>儿</sub>)】`pan6 beh7 da3 gu1 teu2 r` <sup>[如皋]</sup> ① 孩子大了，懂事了，不用打了。 ② 打也打不过了。  
+1. 【[棒不打好人，嘴不骂丑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_beh_da_ho.md#棒不打好人，嘴不骂丑人)】`pan6 beh7 da3 ho3 ren zuei3 beh7 ma6 cheu3 ren` <small>/pʰɑŋ1 pəʔ7 tɑ3 xɔ3 ɻəŋ t͡suəɪ3 pəʔ7 mɑ1 t͡ɕʰiɤɯ3 ɻəŋ/<sup>泰兴</sup></small> 谓坏人应受惩罚，好人不应受责备。<sup>\[泰兴\]</sup>  
 1. 【[棒冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_bien.md#棒冰)】`pan6 bien1` <small>/pʰaŋ6 piɪ̃1/<sup>兴化</sup></small> ① 冰棍。<sup>\[东台\]</sup> ② 冰棍。也称“冰棒”。<sup>\[兴化\]</sup>  
-1. 【[棒打出孝子，惯养忤逆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio.md#棒打出孝子，惯养忤逆<sub>儿</sub>)】`pan6 da3 chueh7 xio5 zz guaen5 ian3 v3 nieh8 r` <small>/pʰã1 ta3 t͡sʰuəʔ7 ɕiɔ5 t͡sɿ kuẽ5 iã3 ʋu3 niə˞8/<sup>如皋</sup></small> ① 严加教育能出人，溺爱只能害孩子。<sup>\[如皋\]</sup> ② 严是爱，松是害，尤其不能溺爱。<sup>\[东台\]</sup>  
+1. 【[棒打出孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio.md#棒打出孝子)】`pan6 da3 chueh7 xio5 zz3` <small>/pʰɑŋ1 tɑ3 t͡sʰuəʔ7 ɕiɔ5 t͡sɿ3/<sup>泰兴</sup></small> 谓对子女要进行严格的教育，才能使其成才。不过体罚是不可取的。<sup>\[泰兴\]</sup>  
+1. 【[棒打出孝子，惯养忤逆儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_da_chueh_xio.md#棒打出孝子，惯养忤逆儿)】`pan6 da3 chueh7 xio5 zz3 guaen5 ian3 v3 nieh8 er2` <small>/pʰã1 ta3 t͡sʰuəʔ7 ɕiɔ5 t͡sɿ3 kuẽ5 iã3 ʋu3 niəʔ8 ɚ2/<sup>如皋</sup></small> ① 严加教育能出人，溺爱只能害孩子。<sup>\[如皋\]</sup> ② 严是爱，松是害，尤其不能溺爱。<sup>\[东台\]</sup>  
+1. 【[棒棒糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_tan.md#棒棒糖)】`pan6 pan tan2` <small>/pʰɑŋ1 pʰɑŋ tʰɑŋ2/<sup>泰兴</sup></small> 粘在小棍上的一种糖果。<sup>\[泰兴\]</sup>  
 1. 【[棒棒菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_lien.md#棒棒菱)】`pan6 pan6 lien2` <sup>[泰县]</sup> 翻过的菱塘中浮在水面的菱。  
 1. 【[棒棒菱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_pan_lien_r.md#棒棒菱<sub>儿</sub>)】`pan6 pan6 lien2 r` <sup>[兴化]</sup> 因漏采漏拾而浮在水面的菱角。  
 1. 【[棒<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_r.md#棒<sub>儿</sub>)】`pan6 r` <small>/pʰa˞1/<sup>如皋</sup></small> ① 树枝、草茎等的俗称：枝～、红草～结实。<sup>\[如皋\]</sup> ② 棍子。<sup>\[如东\]</sup>：竹～。<sup>\[如东\]</sup> ③ 草茎。<sup>\[如东\]</sup>：茅草～。<sup>\[如东\]</sup>  
 1. 【[棒<sub>儿</sub>糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_r_tan.md#棒<sub>儿</sub>糖)】`pan6 r tan2` <sup>[兴化]</sup> 棒棒糖。  
-1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu` <small>/pʰaŋ6 tʰɤ/<sup>兴化</sup></small> ① 带果穗的玉米<sup>\[东台\]</sup>：到田里去扳几个～。俗称“棒棒儿”，市场上也写作“玉米棒”。<sup>\[东台\]</sup> ② 玉米。<sup>\[兴化\]</sup>  
+1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu` <small>/pʰaŋ6 tʰɤ/<sup>兴化</sup>, /pʰɑŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 带果穗的玉米<sup>\[东台\]</sup>：到田里去扳几个～。俗称“棒棒儿”，市场上也写作“玉米棒”。<sup>\[东台\]</sup> ② 玉米。<sup>\[兴化\]</sup> ③ 木棍，木棒，常指洗衣棒<sup>\[泰兴\]</sup>  
 1. 【[棒头䜺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_chae_zz.md#棒头䜺子)】`pan6 teu chae3 zz` <sup>[兴化]</sup> 玉米面。  
 1. 【[棒头架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_ga_zz.md#棒头架子)】`pan6 teu ga5 zz` <sup>[如皋]</sup> 惯会淘气、生事，经常挨打的小孩。  
 1. 【[棒头胡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_hv_r.md#棒头胡<sub>儿</sub>)】`pan6 teu hv2 r` <sup>[兴化]</sup> ① 玉米须子。 ② （借）不稳重的青少年：他是个～，你叫他办事十有九次办不成。也说“棒头胡子”。  
 1. 【[棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_r.md#棒头<sub>儿</sub>)】`pan6 teu r` <sup>[如皋]</sup> 指穗状花序：如玉米～、蒲～。  
+1. 【[棒头人<sub>儿</sub>戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_ren_r.md#棒头人<sub>儿</sub>戏)】`pan6 teu ren2 r xi5` <small>/pʰɑŋ1 tʰəɪ ɻə˞2 ɕʝ5/<sup>泰兴</sup></small> 木偶戏的俗称。<sup>\[泰兴\]</sup>  
 1. 【[棒头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_zz.md#棒头子)】`pan6 teu zz` <sup>[如皋]</sup> 用以责罚人的木棍。俗说“～作跳”，意为将要用棒打人。  
 1. 【[棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu.md#棒头)】`pan6 teu2-3` <sup>[泰县]</sup> 棒。  
 1. 【[棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pan_teu_r.md#棒头<sub>儿</sub>)】`pan6 teu2 r` <sup>[如东]</sup> 穗状花序：～花。植物的条形果穗。｜玉米～。  
@@ -1077,6 +1081,7 @@
 1. 【[棚墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qian.md#棚墙)】`pon2 qian2` <sup>[如皋]</sup> 树冠等的直径范围：白果树的～大。又作“棚阳”。  
 1. 【[棚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#棚<sub>儿</sub>)】`pon2 r` <sup>[如皋]</sup> ① 只有框架和顶，没有墙的屋：更～、酒～ ② 简易房：车～、草～、鸡窠～。  
 1. 【[棚糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_xih.md#棚糏)】`pon2 xih7` <sup>[如皋]</sup> 磨小麦、杂粮时，未飞扬的粒度极小的面粉。飞扬后刷下的称“飞面”。  
+1. 【[棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz.md#棚子)】`pon2 zz` <small>/pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 用竹木一类东西搭成的蓬架、简易小屋。<sup>\[泰兴\]</sup>  
 1. 【[篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#篷)】`pon2` <sup>[如东]</sup> 船帆。长方形。规格有大有小。是帆船利用风力推动前进的主要工具。  
 1. 【[篷篷车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_cha_r.md#篷篷车<sub>儿</sub>)】`pon2 pon2 cha1 r` <sup>[如皋]</sup> 手推式独轮车的一种，大轮，轮上有篷。又名“连篷车儿”。  
 1. 【[篷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_r.md#篷头<sub>儿</sub>)】`pon2 teu2 r` <sup>[泰县]</sup> 露天粮囤的顶篷。  

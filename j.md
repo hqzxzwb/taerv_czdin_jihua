@@ -973,7 +973,7 @@
 1. 【[紧靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ko.md#紧靠)】`jien3 ko5` <sup>[如皋]</sup> 很靠近。  
 1. 【[紧剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laeh.md#紧剌)】`jien3 laeh` <sup>[如皋]</sup> 指环境安排紧凑、不宽裕。  
 1. 【[紧剌剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laeh_laeh_dii.md#紧剌剌的)】`jien3 laeh laeh dii` <sup>[如皋]</sup> 指环境安排紧凑、不宽裕。  
-1. 【[紧身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_zz.md#紧身子)】`jien3 shen zz` <small>/t͡ɕiŋ3 səŋ t͡sɿ/<sup>泰兴</sup></small> 棉袄的俗称。<sup>\[泰兴\]</sup>  
+1. 【[紧身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_zz.md#紧身子)】`jien3 shen zz` <small>/t͡ɕiŋ3 səŋ t͡sɿ/<sup>泰兴</sup></small> 棉袄的俗称。<sup>\[泰兴\]</sup>：棉～<sup>\[泰兴\]</sup>  
 1. 【[紧身<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_r.md#紧身<sub>儿</sub>)】`jien3 shen1 r` <small>/t͡ɕiŋ3 səŋ1 ɚ/<sup>泰县</sup></small> ① 贴身的内衣。<sup>\[如东\]</sup> ② 贴身的内衣。<sup>\[泰县\]</sup>  
 1. 【[紧闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuaen.md#紧闩)】`jien3 shuaen1` <sup>[如东]</sup> 封闭：围墙上留这们大的门，不～。  
 1. 【[紧腾腾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten_dii.md#紧腾腾的)】`jien3 ten ten1 dii` <sup>[如皋]</sup> ① 状关闭很紧：城门关得～。 ② 包裹、填塞得满满的：天气冷，伢儿身上包得～。  

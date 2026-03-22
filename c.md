@@ -524,6 +524,7 @@
 1. 【[搀假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jia.md#搀假)】`chaen1 jia3` <sup>[东台]</sup> 把假的搀到真的里面，或把差的搀到好的里面。  
 1. 【[搀手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_sheu.md#搀手)】`chaen1 sheu3` <sup>[如东]</sup> ① 用自己的手搀扶对方的手。 ② 一种民俗。儿子死后，埋葬在父亲坟前，称搀手。长子埋葬在左前方，次子埋葬在右前方。  
 1. 【[搀水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_shuei.md#搀水)】`chaen1 shuei3` <sup>[兴化]</sup> （喻）说话的内容虚假，有水份：“我说真话，一点不～。”（马春阳：《门》）  
+1. 【[搀新娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_xien_nian_zz.md#搀新娘子)】`chaen1 xien1 nian zz` <small>/t͡ɕʰiɛ̃1 ɕiŋ1 niɑŋ t͡sɿ/<sup>泰兴</sup></small> 旧俗行婚礼时搀扶新娘。<sup>\[泰兴\]</sup>  
 1. 【[馋酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_jieu.md#馋酒)】`chaen2 jieu3` <sup>[兴化]</sup> 指酒量不大，也不在乎下酒菜，但经常要喝：他酒量不大，喝的～，不慌不忙，一口酒，一口鱼地细嚼着。（马春阳：《双灯照》）  
 1. 【[馋痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_lo.md#馋痨)】`chaen2 lo2` <sup>[兴化]</sup> 贪吃的人：先是～，后是渴痨。  
 1. 【[馋水<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chaen_shuei_r.md#馋水<sub>儿</sub>)】`chaen2 shuei3 r` <sup>[兴化]</sup> 口涎。  
@@ -1166,6 +1167,7 @@
 1. 【[超头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_teu.md#超头)】`cho1 teu2` <sup>[兴化]</sup> 抢在前头到达目的地：一个个直奔中军帐。有人～奔寝帐来摇醒曹操……（《火烧赤壁》五）也作“穿头”。  
 1. 【[钞票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_pio.md#钞票)】`cho1 pio5` <small>/t͡sʰɔ1 pʰiɔ5/<sup>泰兴</sup></small> 纸币。<sup>\[如东\]</sup>\[泰兴：或钱的通称。\]  
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` 针对  
+1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` <small>/t͡sʰɔ2/<sup>泰兴</sup></small> 谓人或物正对着某个方向<sup>\[泰兴\]</sup>：～东、～南<sup>\[泰兴\]</sup>｜～天<sup>\[泰兴\]</sup>  
 1. 【[朝贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu.md#朝贺)】`cho2 hu` <sup>[东台]</sup> 暗示要表示点（请客或送礼）的意思。  
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  
 1. 【[朝里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li.md#朝里)】`cho2 li3` <sup>[如皋]</sup> 不足，略少于。见“不到”：这一袋米在30斤～。  
@@ -1665,9 +1667,11 @@
 1. 【[吹嘘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_xy.md#吹嘘)】`chuei1 xy1` <sup>[泰州]</sup> 夸大其词，吹牛：他的工资没得他～的这吖高。｜他在外头块块～他是处长。  
 1. 【[炊事员行军——替人背黑锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_shr_iun_xien.md#炊事员行军——替人背黑锅)】`chuei1 shr6 iun2 xien2 jyen1 ti5 ren2 bei1 heh7 gu1` <sup>[东台]</sup>   
 1. 【[捶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei.md#捶)】`chuei2` <sup>[如东]</sup> 用拳头打人：你再调皮，当心我～你。  
-1. 【[捶背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_bei.md#捶背)】`chuei2 bei5` <small>/t͡sʰuəɪ2 pəɪ5/<sup>泰兴</sup></small> 敲打后背。<sup>\[泰兴\]</sup>  
+1. 【[捶背/搥背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_bei.md#捶背/搥背)】`chuei2 bei5` <small>/t͡sʰuəɪ2 pəɪ5/<sup>泰兴</sup></small> 敲打后背。<sup>\[泰兴\]</sup>  
 1. 【[捶衣棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_i_pan.md#捶衣棒)】`chuei2 i1 pan6` <small>/t͡sʰuei2 ʝ1 pʰã1/<sup>如皋</sup></small> ① 一根木棍，通过捶打，能够把湿衣服上的污垢去掉，这种棒，叫做捶衣棒。<sup>\[如东\]</sup> ② 专供洗衣、汰衣时捶打衣物用的木棒。体扁柄圆，形制不一。<sup>\[如皋\]</sup> ③ 一种专供洗衣服用的木棒，长约50厘米，前端扁平用于击打衣服，后端圆形便于手握。<sup>\[泰州\]</sup>  
+1. 【[搥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei.md#搥)】`chuei2` <small>/t͡sʰuəɪ2/<sup>泰兴</sup></small> 敲击。<sup>\[泰兴\]</sup>  
 1. 【[槌棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_pan.md#槌棒)】`chuei2 pan6` <sup>[东台]</sup> 用于捶打的木棒。  
+1. 【[槌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_zz.md#槌子)】`chuei2 zz` <small>/t͡sʰuəɪ2 t͡sɿ/<sup>泰兴</sup></small> 敲击的工具。如“鼓槌”。<sup>\[泰兴\]</sup>  
 1. 【[锤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_r.md#锤<sub>儿</sub>)】`chuei2 r` <sup>[如东]</sup> 工具。铁制，长条形或方锤形，有柄，用以敲击物体。也叫锤子。  
 1. 【[坠手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuei_sheu.md#坠手)】`chuei6 sheu3` <sup>[如皋]</sup> 小孩体重大，讳“重”改称～，“重”专称死人体重大。坠，chuei6。  
 1. 【[春饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuen_bien.md#春饼)】`chuen1 bien3` <sup>[东台]</sup> 一种薄饼，立春应节食品。  
@@ -2124,6 +2128,7 @@
 1. 【[嗾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu.md#嗾)】`cu1` <sup>[如皋]</sup> 令犬冲击。另音su1。  
 1. 【[搓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu.md#搓)】`cu1` ① 两手反复摩擦。<sup>\[如东\]</sup>：～手。<sup>\[如东\]</sup> ② 用手掌在别的物体上来回揉。<sup>\[如东\]</sup>：在身上～。<sup>\[如东\]</sup> ③ 以两掌夹物转动使之成圆柱形或者球形<sup>\[泰州\]</sup>： 今吖是正月十五，你去买点儿粉面家来～圆子。<sup>\[泰州\]</sup>｜落雨天，人歇咖在家里反正没得事，～点草绳吧。<sup>\[泰州\]</sup> ④ 两手各握纺织物的一端合在一处使纺织物摩擦<sup>\[泰州\]</sup>：他的脑油重吖没得命，洗他的衣裳，你要着实的～一～。<sup>\[泰州\]</sup> ⑤ 单手或者单手持物按于他物之上使劲摩擦<sup>\[泰州\]</sup>：他有个把月不洗澡唻，你要同他把身上的硍好好的～啊干净吖。<sup>\[泰州\]</sup>  
 1. 【[搓板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_baen.md#搓板)】`cu1 baen3` <small>/t͡sʰʊ1 pẽ3/<sup>如皋</sup></small> ① 一块刻着粗条纹的长方形木板，把湿衣放在上面搓动，去除污垢，这种板叫做搓板。<sup>\[如东\]</sup> ② 擀棉花条儿的工具。<sup>\[如皋\]</sup> ③ 打丝线的工具。<sup>\[如皋\]</sup> ④ 洗衣服用的搓衣板，正面是齿状横槽。<sup>\[泰州\]</sup>  
+1. 【[搓衣裳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_i_shan.md#搓衣裳)】`cu1 i1 shan` <small>/t͡sʰɤɯ1 ʝ1 sɑŋ/<sup>泰兴</sup></small> 洗衣。<sup>\[泰兴\]</sup>  
 1. 【[搓移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_i.md#搓移)】`cu1 i2` <sup>[兴化]</sup> 重合物体离开了原有位置：门～开来啊。  
 1. 【[搓硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_ken.md#搓硍)】`cu1 ken5` <sup>[如东]</sup> 用手把身体上的污垢搓下来。  
 1. 【[搓绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cu_shen.md#搓绳)】`cu1 shen2` <sup>[如东]</sup> 用两手把麻或草搓成绳子。  
