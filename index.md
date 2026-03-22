@@ -533,7 +533,7 @@
 1. 【[惹祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu_jien.md#惹祸精)】`ra3 hu6 jien1` <small>/ɻa3 xʊ1 t͡ɕiəŋ1/<sup>如皋</sup></small> 经常引起麻烦、祸端的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[惹坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_huae.md#惹坏)】`ra3 huae6` <sup>[如皋]</sup> 容易变坏：周围环境不好，～。  
 1. 【[惹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hv_zz.md#惹胡子)】`ra3 hv2 zz` <sup>[兴化]</sup> ① 形容人健忘。 ② 指人马马虎虎的：这个人～，同他说个事多记不得。  
-1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <small>/ɻa3 ĩ5/<sup>如皋</sup>, /ɻa3 iɪ̃5/<sup>泰县</sup></small> ① 贪玩。厌：玩。<sup>\[如皋\]</sup> ② 讨嫌。<sup>\[如皋\]</sup> ③ 讨厌：小孩～。<sup>\[泰县\]</sup>  
+1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <small>/ɻa3 ĩ5/<sup>如皋</sup>, /ɻɑ3 ĩ5/<sup>泰兴</sup>, /ɻa3 iɪ̃5/<sup>泰县</sup></small> ① 贪玩。厌：玩。<sup>\[如皋\]</sup> ② 讨嫌。<sup>\[如皋\]</sup> ③ 讨厌：小孩～。<sup>\[泰县\]</sup> ④ 令人讨厌；找麻烦。<sup>\[泰兴\]</sup>  
 1. 【[惹鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ji_zho_r.md#惹鸡爪<sub>儿</sub>风)】`ra3 ji1 zho3 r fon1` <sup>[如皋]</sup> 出现指（趾）痉挛。  
 1. 【[惹惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_jien.md#惹惊)】`ra3 jien1` <sup>[如皋]</sup> 小儿易惊风。  
 1. 【[惹哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_koh.md#惹哭)】`ra3 koh7` <small>/ɻa3 kʰɔʔ7/<sup>如皋</sup></small> ① 动不动就哭 ② 好哭、易哭。<sup>\[如皋\]</sup>  
@@ -544,12 +544,16 @@
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
 1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <sup>[东台]</sup> 醒目。容易引人嫉妒。  
+1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> 引人注目；显眼。<sup>\[泰兴\]</sup>  
 1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
+1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
 1. 【[惹吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh.md#惹吃)】`ra3 qieh7` <small>/ɻa3 t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 爱吃。<sup>\[如皋\]</sup> ② 使人爱吃。<sup>\[如皋\]</sup> ③ 嘴馋，贬指。<sup>\[如皋\]</sup> ④ 好吃。<sup>\[如东\]</sup>：这种饭～<sup>\[如东\]</sup> ⑤ 贪吃。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[惹吃宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh_bo_r.md#惹吃宝<sub>儿</sub>)】`ra3 qieh7 bo3 r` <sup>[如东]</sup> 比喻喜爱吃零食的孩子：狗狗是个～。  
 1. 【[惹人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ren.md#惹人)】`ra3 ren2` <sup>[如皋]</sup> 侵袭人。  
 1. 【[惹馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_seu.md#惹馊)】`ra3 seu1` <sup>[如皋]</sup> 容易馊。  
+1. 【[惹韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_sho_do.md#惹韶叨)】`ra3 sho2 do1` <small>/ɻɑ3 sɔ2 tɔ1/<sup>泰兴</sup></small> 啰嗦；惹话说；找麻烦。<sup>\[泰兴\]</sup>  
+1. 【[惹是非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shr_fei.md#惹是非)】`ra3 shr6 fei` <small>/ɻɑ3 sɿ1 fəɪ/<sup>泰兴</sup></small> 引起麻烦事。<sup>\[泰兴\]</sup>  
 [更多...](./r.md)
 ## S
 1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <small>/sa/<sup>兴化</sup></small> ① 语气词<sup>\[兴化\]</sup>：用于祈使句末尾<sup>\[兴化\]</sup>｜你快来～！<sup>\[兴化\]</sup>｜覅急，听我慢慢说一！<sup>\[兴化\]</sup> ② 在句中停顿处，表示比较强烈的语气<sup>\[兴化\]</sup>：快跑～！车子要开啦！<sup>\[兴化\]</sup> ③ 在句末表示疑问语气<sup>\[兴化\]</sup>：他的身世你哿清楚～？<sup>\[兴化\]</sup> ④ 语气词，表示轻微责备<sup>\[泰州\]</sup>：快点ㄦ说～。<sup>\[泰州\]</sup>｜教你不要说，你说咖做甚的～。<sup>\[泰州\]</sup> ⑤ 表示略微疑问<sup>\[泰州\]</sup>：不听你的～，你肯定不高兴，听你的～，就要得罪他。<sup>\[泰州\]</sup>  

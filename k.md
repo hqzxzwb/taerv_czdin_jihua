@@ -847,6 +847,7 @@
 1. 【[葵花托](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_tah.md#葵花托)】`kuei2 hua1 tah7` <sup>[如东]</sup> 菊科植物向日葵花托。  
 1. 【[葵花芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_y.md#葵花芋)】`kuei2 hua1 y6` <small>/kʰuei2 xua1 y1/<sup>如皋</sup></small> ① 菊芋。<sup>\[如皋\]</sup> ② 又名菊芋、魔芋、鬼子芋。叶像向日葵叶，但较细长，秋季顶头开黄花，地下结的块茎像生姜。多用于腌制酱菜，也可炒菜，入药可清热解毒。<sup>\[东台\]</sup>  
 1. 【[葵花劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_zaen_roh.md#葵花劗肉)】`kuei2 hua1 zaen1 roh8` <sup>[如东]</sup> 体积较大的肉圆。也称狮子头。  
+1. 【[葵花子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_zz.md#葵花子)】`kuei2 hua1 zz3` <small>/kʰuəɪ2 xuɑ1 t͡sɿ3/<sup>泰兴</sup></small> 葵花的子实。<sup>\[泰兴\]</sup>  
 1. 【[葵花籽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hua_zz_r.md#葵花籽<sub>儿</sub>)】`kuei2 hua1 zz3 r` <sup>[泰州]</sup> 葵花种子。  
 1. 【[魁蚶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_hun.md#魁蚶)】`kuei2 hun1` <sup>[如东]</sup> 蚶科动物魁蚶。  
 1. 【[魁首](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuei_sheu.md#魁首)】`kuei2 sheu3` <sup>[如东]</sup> ① 在同辈中才华居首位的人。 ② 比喻第一。  

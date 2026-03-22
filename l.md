@@ -535,7 +535,7 @@
 1. 【[烂雪填井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_xiuh_tin_jien.md#烂雪填井)】`laen6 xiuh7 tin2 jien3` <sup>[东台]</sup> ［喻］烂雪是容易融化的雪，用其填井永远填不满，比喻白费气力：扶贫要扶志，否则是～。  
 1. 【[烂忠厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_zhon_heu.md#烂忠厚)】`laen6 zhon1 heu6` <sup>[兴化]</sup> 指老实而无用的人：老人是个～，一世听人摆布。｜“……你是个～没用的人，所以这些话我不得不教导你，免得惹人笑话。”（《儒林外史》三）  
 1. 【[爁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#爁)】`laen6` <sup>[如东]</sup> 燃烧：头发被蜡烛～掉一块。  
-1. 【[乐得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_deh.md#乐得)】`lah8 deh` <small>/laʔ8 təʔ/<sup>兴化</sup></small> ① 事态发展于自己有利无害，顺其自然而获得自己满意的结果<sup>\[泰州\]</sup>：你不让他问事，他也正好～清闲。<sup>\[泰州\]</sup> ② 正合心意<sup>\[兴化\]</sup>：其他人没意见，我～做好人。<sup>\[兴化\]</sup>  
+1. 【[乐得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_deh.md#乐得)】`lah8 deh` <small>/laʔ8 təʔ/<sup>兴化</sup>, /lɑʔ8 təʔ/<sup>泰兴</sup></small> ① 事态发展于自己有利无害，顺其自然而获得自己满意的结果<sup>\[泰州\]</sup>：你不让他问事，他也正好～清闲。<sup>\[泰州\]</sup> ② 正合心意<sup>\[兴化\]</sup>：其他人没意见，我～做好人。<sup>\[兴化\]</sup> ③ 乐意；甘愿去做某事。某事正合自己心意，因而顺其自然。<sup>\[泰兴\]</sup>  
 1. 【[乐唐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐唐)】`lah8 tan2` <sup>[如东]</sup> 正合自己的心意而感到快乐。  
 1. 【[乐堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#乐堂)】`lah8 tan2` <sup>[兴化]</sup> 愉快、自如：他心里快活～。｜你心里～吖，其他人怎吖想㗁？  
 1. 【[乐心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xien.md#乐心)】`lah8 xien1` <small>/lɑʔ8 ɕiŋ1/<sup>泰兴</sup>, /nɑʔ8 ɕiŋ1/<sup>泰县</sup></small> ① 没有必要的想法和举动<sup>\[泰县\]</sup>：不要～。<sup>\[泰县\]</sup> ② 娱乐，使心情愉快。多谓小儿戏乐。<sup>\[泰兴\]</sup>：箇个伢儿一天到夜～<sup>\[泰兴\]</sup>  
@@ -549,7 +549,7 @@
 1. 【[络絮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xy.md#络絮)】`lah8 xy5` <sup>[如皋]</sup> 棉花胎（袋）破损的样子，喻人潦倒无神气或笨拙无为的样子。  
 1. 【[络絮形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xy_xien.md#络絮形)】`lah8 xy5 xien2` <sup>[如皋]</sup> 见“络絮”。  
 1. 【[络子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zz.md#络子)】`lah8 zz` <small>/laʔ8 t͡sɿ/<sup>如皋</sup></small> ① 工具。半圆形，中间结成网络或放置畚箕，用以装泥土等物。<sup>\[如东\]</sup> ② 建筑材料。在绳索上插进芦苇编成网络，覆盖在茅草屋屋面上，用以固定茅草。<sup>\[如东\]</sup> ③ 挑运的工具，有井字木底上串四根绳系。一副两只。<sup>\[如皋\]</sup>  
-1. 【[落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#落)】`lah8` <small>/laʔ8/<sup>兴化</sup>, /laʔ8/<sup>如皋</sup>, /nɑʔ8/<sup>泰县</sup></small> ① 掉。<sup>\[如东\]</sup>：～棉花桃子。<sup>\[如东\]</sup> ② 暗中克扣。<sup>\[如东\]</sup>：他是我的儿子，还～我的钱。<sup>\[如东\]</sup> ③ 捞好处。<sup>\[如皋\]</sup> ④ 见“断dun3”。<sup>\[如皋\]</sup> ⑤ 指克扣、贪污<sup>\[东台\]</sup>：上面给的工程款，他要是～点儿，那个是惹祸的。<sup>\[东台\]</sup> ⑥ 得到<sup>\[兴化\]</sup>：我不能为这不义之财～个坏名声。<sup>\[兴化\]</sup> ⑦ 积攒<sup>\[兴化\]</sup>：一年收入打去吃用，还～个万儿八千的。<sup>\[兴化\]</sup>｜“我也学了一身拳棒……以拳为业，一年半载也～他几两银子……”（《绿牡丹》二二）<sup>\[兴化\]</sup> ⑧ 暗中克扣<sup>\[泰县\]</sup>：他把衣料～咖去啊。<sup>\[泰县\]</sup>｜这钱捱他～咖去阿。<sup>\[泰县\]</sup>｜娘侠小的，小的敢～？（金瓶梅·21回）<sup>\[泰县\]</sup> ⑨ 下<sup>\[泰县\]</sup>：～雨。<sup>\[泰县\]</sup> ⑩ 淋<sup>\[泰县\]</sup>：把衣裳都～潮啊啦。<sup>\[泰县\]</sup> ⑪ 暗中克扣他人财、物<sup>\[泰州\]</sup>：他家这个保姆好，每天中上买菜，从来不～钱。<sup>\[泰州\]</sup>｜手艺人吖，漆匠～漆，铜匠～铜，白铁匠～人家白铁皮。<sup>\[泰州\]</sup> ⑫ 下雨雪冰雹<sup>\[泰州\]</sup>：～雪<sup>\[泰州\]</sup>｜～雨<sup>\[泰州\]</sup>  
+1. 【[落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah.md#落)】`lah8` <small>/laʔ8/<sup>兴化</sup>, /laʔ8/<sup>如皋</sup>, /lɑʔ8/<sup>泰兴</sup>, /nɑʔ8/<sup>泰县</sup></small> ① 掉。<sup>\[如东\]</sup>：～棉花桃子。<sup>\[如东\]</sup> ② 暗中克扣。<sup>\[如东\]</sup>：他是我的儿子，还～我的钱。<sup>\[如东\]</sup> ③ 捞好处。<sup>\[如皋\]</sup> ④ 见“断dun3”。<sup>\[如皋\]</sup> ⑤ 指克扣、贪污<sup>\[东台\]</sup>：上面给的工程款，他要是～点儿，那个是惹祸的。<sup>\[东台\]</sup> ⑥ 得到<sup>\[兴化\]</sup>：我不能为这不义之财～个坏名声。<sup>\[兴化\]</sup> ⑦ 积攒<sup>\[兴化\]</sup>：一年收入打去吃用，还～个万儿八千的。<sup>\[兴化\]</sup>｜“我也学了一身拳棒……以拳为业，一年半载也～他几两银子……”（《绿牡丹》二二）<sup>\[兴化\]</sup> ⑧ 暗中克扣<sup>\[泰县\]</sup>：他把衣料～咖去啊。<sup>\[泰县\]</sup>｜这钱捱他～咖去阿。<sup>\[泰县\]</sup>｜娘侠小的，小的敢～？（金瓶梅·21回）<sup>\[泰县\]</sup> ⑨ 淋<sup>\[泰县\]</sup>：把衣裳都～潮啊啦。<sup>\[泰县\]</sup> ⑩ 暗中克扣他人财、物<sup>\[泰州\]</sup>：他家这个保姆好，每天中上买菜，从来不～钱。<sup>\[泰州\]</sup>｜手艺人吖，漆匠～漆，铜匠～铜，白铁匠～人家白铁皮。<sup>\[泰州\]</sup> ⑪ 下（雨雪冰雹）<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～雨。<sup>\[泰县\]</sup>｜～雪<sup>\[泰州\]</sup>｜～雨<sup>\[泰州\]</sup>｜～冰雹<sup>\[泰兴\]</sup>  
 1. 【[落榜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ban_r.md#落榜<sub>儿</sub>)】`lah8 ban3 r` <sup>[如皋]</sup> 指称子女中最小的一个。落，又音laeh8。  
 1. 【[落冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_bien.md#落冰)】`lah8 bien1` <sup>[如皋]</sup> 下冰雹。  
 1. 【[落场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_chan.md#落场)】`lah8 chan` <small>/laʔ8 t͡sʰã/<sup>如皋</sup></small> ① 地方，场所 ② 地方。<sup>\[如皋\]</sup>  
@@ -558,19 +558,22 @@
 1. 【[落草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_co.md#落草)】`lah8 co3` <sup>[兴化]</sup> 婴儿降生：我的～是在早晨。（毕飞宇《慌乱的指头》）也作“落生”“落地”。  
 1. 【[落单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_daen.md#落单)】`lah8 daen1` <small>/laʔ8 tɛ̃1/<sup>兴化</sup></small> ① 指个人离开了群体<sup>\[兴化\]</sup>：科里有人下乡，有人出去开会，倒把老赵一个人～了。<sup>\[兴化\]</sup>｜余谦恐主人～，遂紧紧相随。（《绿牡丹》二四）也说“漏单”。<sup>\[兴化\]</sup> ② 与同伴脱离后剩下本人孤单一人<sup>\[泰州\]</sup>：你在这块等吖她，不能把她个人～。<sup>\[泰州\]</sup>  
 1. 【[落得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_deh.md#落得)】`lah8 deh` 与本人的意愿相反，最终只得到了某种坏的结果<sup>\[泰州\]</sup>：你为他俫操啊心，还不曾～一句好话。<sup>\[泰州\]</sup>  
-1. 【[落灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_den.md#落灯)】`lah8 den1` <small>/laʔ8 tən1/<sup>兴化</sup>, /laʔ8 təŋ1/<sup>如皋</sup></small> ① 阴历正月十八日晚，用面条供神供祖。庙桅上的灯笼放下来，称落灯。表示春节结束。民谣：“上灯圆子落灯面。”<sup>\[如东\]</sup> ② 一在正月十八，又称小落灯节，此晚兴灯结束；一在二月二，又称大落灯节，此晚收天灯（一串红）。<sup>\[如皋\]</sup> ③ 旧俗，农历正月十三上灯，十八落灯，标志新年头结束。<sup>\[东台\]</sup> ④ 民俗，元宵节前的正月十三日上灯，十八日～。<sup>\[兴化\]</sup> ⑤ 指农历正月十八日，从农历正月十三日开始的灯节至此日结束。是日晚上家家吃煮面条。<sup>\[泰州\]</sup>  
+1. 【[落灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_den.md#落灯)】`lah8 den1` <small>/laʔ8 tən1/<sup>兴化</sup>, /laʔ8 təŋ1/<sup>如皋</sup>, /lɑʔ8 təŋ1/<sup>泰兴</sup></small> ① 阴历正月十八日晚，用面条供神供祖。庙桅上的灯笼放下来，称落灯。表示春节结束。民谣：“上灯圆子落灯面。”<sup>\[如东\]</sup> ② 一在正月十八，又称小落灯节，此晚兴灯结束；一在二月二，又称大落灯节，此晚收天灯（一串红）。<sup>\[如皋\]</sup> ③ 旧俗，农历正月十三上灯，十八落灯，标志新年头结束。<sup>\[东台\]</sup> ④ 民俗，元宵节前的正月十三日上灯，十八日～。<sup>\[兴化\]</sup> ⑤ 指农历正月十八日，从农历正月十三日开始的灯节至此日结束。是日晚上家家吃煮面条。<sup>\[泰州\]</sup> ⑥ 民俗。乡人谓整个春节活动到正月十八落灯之日结束。<sup>\[泰兴\]</sup>  
 1. 【[落灯节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_den_jih.md#落灯节)】`lah8 den1 jih7` <sup>[如皋]</sup> 见“落灯”。  
 1. 【[落灯雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_den_y.md#落灯雨)】`lah8 den1 y3` <sup>[如皋]</sup> 此日下雨，称为“灯雨”。预示一段时间的阴雨天。谚云：“红灯落地四十五日阴。”  
 1. 【[落蒂桃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_di_to_zz.md#落蒂桃子)】`lah8 di5 to2 zz` <sup>[如东]</sup> 桃子是不会从桃蒂上脱落下来的。比如不可能实现的理想：休想吃～。  
 1. 【[落东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_don.md#落东)】`lah8 don1` 偏东  
+1. 【[落二落三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_er_lah_saen.md#落二落三)】`lah8 er6 lah8 saen1` <small>/lɑʔ8 ɚ1 lɑʔ8 ɕiɛ̃1/<sup>泰兴</sup></small> 谓衣履不整，令人望而生厌。<sup>\[泰兴\]</sup>  
 1. 【[落咖点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ga_din_r.md#落咖点<sub>儿</sub>)】`lah8 ga din3 r` <sup>[如皋]</sup> 剩下了一点点。  
 1. 【[落咖架（子）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ga_ga.md#落咖架（子）)】`lah8 ga ga5` <sup>[如皋]</sup> 剩下了骨架：房子捱烧啊～。  
 1. 【[落咖港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ga_gan.md#落咖港)】`lah8 ga gan3` <sup>[东台]</sup> ［喻］问题解决了或事情落实了。（同“下啊山”）  
 1. 【[落咖起啊烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ga_qi_a.md#落咖起啊烟)】`lah8 ga qi3 a in1` <small>/laʔ8 ka t͡ɕʰʝ3 a ĩ1/<sup>如皋</sup></small> ① 雨特别大。<sup>\[如皋\]</sup> ② 雨急，激起雨雾。<sup>\[如皋\]</sup>  
 1. 【[落架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ga.md#落架)】`lah8 ga5` <sup>[如皋]</sup> ① 给牛马等卸去工作架之类物件，让它休息。 ② 房屋的木架被拆下或倒下。  
 1. 【[落搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_gah.md#落搁)】`lah8 gah7` <sup>[兴化]</sup> 就绪、妥贴：这次贸易洽谈会筹备半年把才算～。｜他俫的婚事一波三折，直到最近才～。  
+1. 【[落搁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_gah.md#落搁)】`lah8 gah7` <small>/lɑʔ8 kɑʔ7/<sup>泰兴</sup></small> 结束。<sup>\[泰兴\]</sup>：“总算～咖lo。”<sup>\[泰兴\]</sup>  
 1. 【[落角锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_gah_jy.md#落角锯)】`lah8 gah7 jy5` <sup>[如东]</sup> 工具。锯条的一端嵌在锯粱上，用以锯家具的角。  
 1. 【[落谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_goh.md#落谷)】`lah8 goh7` <sup>[兴化]</sup> 在秧田里撒布稻种：全市百万亩早稻普遍～。  
+1. 【[落谷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_goh.md#落谷)】`lah8 goh7` <small>/lɑʔ8 kɔʔ7/<sup>泰兴</sup></small> 稻谷浸入小秧池以育苗。<sup>\[泰兴\]</sup>：小秧～<sup>\[泰兴\]</sup>  
 1. 【[落锅底<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_gu_di_r.md#落锅底<sub>儿</sub>)】`lah8 gu1 di3 r` <sup>[如东]</sup> 锅底破了。比如没有饭吃了。  
 1. 【[落干雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_gun_xiuh.md#落干雪)】`lah8 gun1 xiuh7` <sup>[如皋]</sup> 下雪，无雨，易堆积。  
 1. 【[落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ha.md#落下)】`lah8 ha6` 距离街市或者市中心较远，靠近郊区或者乡下。  
@@ -581,7 +584,9 @@
 1. 【[落魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_huen.md#落魂)】`lah8 huen2` <sup>[如皋]</sup> 魂灵掉落了。  
 1. 【[落魂桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_huen_qio.md#落魂桥)】`lah8 huen2 qio2` <sup>[如皋]</sup> 旧时如皋雁桥西、章家祠一带遍布妓院（明娼、暗娼）。故称雁桥为落魂桥。  
 1. 【[落叶松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_ih_son.md#落叶松)】`lah8 ih8 son1` <sup>[如东]</sup> 落叶乔木，叶子针状，条形，雄花黄色，雌花绿褐色。果实卵圆形，表面有鳞片。木材坚硬致密，可以做枕木。油脂可以做松节油。  
+1. 【[落脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hu.md#落脚货)】`lah8 jiah hu5` <small>/lɑʔ8 t͡ɕiɑʔ xɤɯ5/<sup>泰兴</sup></small> 卖剩的质量很差的货物。<sup>\[泰兴\]</sup>  
 1. 【[落脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah.md#落脚)】`lah8 jiah7` <sup>[如东]</sup> 临时停留或暂住。  
+1. 【[落脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah.md#落脚)】`lah8 jiah7` <small>/lɑʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 停留；住宿。<sup>\[泰兴\]</sup>  
 1. 【[落脚蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hae.md#落脚蟹)】`lah8 jiah7 hae3` <sup>[如东]</sup> 比喻没有用的人。  
 1. 【[落脚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_hu.md#落脚货)】`lah8 jiah7 hu5` <small>/laʔ8 t͡ɕiaʔ7 xo5/<sup>兴化</sup></small> ① 挑剩下的<sup>\[兴化\]</sup>：你把好的一拣，～卖把哪个？<sup>\[兴化\]</sup>｜他已是三十岁的大青年，相等年龄的姑娘难找，纵有也是刷下来的～……（马春阳《月朗和她的娘舅们》）‖也称“落脚子”。<sup>\[兴化\]</sup> ② 挑剩下的质量差的货物<sup>\[泰州\]</sup>：他穿的衣裳都是温泰市场的～。<sup>\[泰州\]</sup>  
 1. 【[落脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jiah_r.md#落脚<sub>儿</sub>)】`lah8 jiah7 r` <small>/laʔ8 t͡ɕia˞7/<sup>如皋</sup>, /nɑʔ8 t͡ɕiɑʔ7 ɚ/<sup>泰县</sup></small> ① 人的脚断了一节，叫落脚儿。<sup>\[如东\]</sup> ② 剩下来的一点点东西。<sup>\[如东\]</sup>：送把你的是一点儿～。<sup>\[如东\]</sup> ③ 挑选后剩下的。<sup>\[如皋\]</sup> ④ 剩下来的货物，次品。也称落脚货。<sup>\[东台\]</sup> ⑤ 搭的脚手架。<sup>\[东台\]</sup> ⑥ 最后一名。<sup>\[泰县\]</sup>  
@@ -606,27 +611,30 @@
 1. 【[落前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_qin.md#落前)】`lah8 qin2` <small>/laʔ8 t͡ɕʰĩ2/<sup>如皋</sup></small> ① 在这之前。<sup>\[如东\]</sup>：～点儿。<sup>\[如东\]</sup> ② 往前。<sup>\[如东\]</sup>：还要～。<sup>\[如东\]</sup> ③ 靠前；时空位置相对在前。<sup>\[如皋\]</sup>  
 1. 【[落钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_qin.md#落钱)】`lah8 qin2` <sup>[如皋]</sup> 中饱私囊。  
 1. 【[落轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_qio.md#落轿)】`lah8 qio6` <sup>[如东]</sup> 把轿子放下来，叫做落轿。  
-1. 【[落色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_seh.md#落色)】`lah8 seh7` <small>/laʔ8 səʔ7/<sup>如皋</sup></small> 掉色、退色。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：这件衣裳穿吖有一年多，还不曾～。<sup>\[泰州\]</sup>  
+1. 【[落色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_seh.md#落色)】`lah8 seh7` <small>/laʔ8 səʔ7/<sup>如皋</sup>, /lɑʔ8 səʔ7/<sup>泰兴</sup></small> 掉色、退色。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这件衣裳穿吖有一年多，还不曾～。<sup>\[泰州\]</sup>  
 1. 【[落沙灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sha_huei.md#落沙灰)】`lah8 sha1 huei1` <sup>[如皋]</sup> 大风天，黄沙灰尘滚滚而来，铺天盖地落下。  
 1. 【[落𩴇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shae.md#落𩴇)】`lah8 shae5` <small>/laʔ8 sɛ5/<sup>如皋</sup></small> ① 民间认为，𩴇是人的魄，为一个淡红色的小火球。𩴇走了，表示人快要死亡了。<sup>\[如东\]</sup> ② 迷信者称人死则灵魂飞走，称～。<sup>\[如皋\]</sup>  
 1. 【[落上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shan.md#落上)】`lah8 shan6` <sup>[如皋]</sup> 偏于上部。  
 1. 【[落实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sheh.md#落实)】`lah8 sheh8` <sup>[兴化]</sup> 心情安稳、踏实：伢儿第一次出远门，我心里总不大～。  
 1. 【[落生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shen.md#落生)】`lah8 shen1` <sup>[兴化]</sup> 婴儿出生。  
 1. 【[落身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shen.md#落身)】`lah8 shen1` <sup>[如东]</sup> 物体的重量：这种木料～重。  
-1. 【[落手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sheu.md#落手)】`lah8 sheu3` <small>/laʔ8 sei3/<sup>如皋</sup></small> ① 人搬东西时候所使出力气的大小。<sup>\[如东\]</sup>：～重。<sup>\[如东\]</sup> ② 经手。<sup>\[如皋\]</sup> ③ 经办。<sup>\[如皋\]</sup>  
+1. 【[落手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sheu.md#落手)】`lah8 sheu3` <small>/laʔ8 sei3/<sup>如皋</sup>, /lɑʔ8 ɕiɤɯ3/<sup>泰兴</sup></small> ① 人搬东西时候所使出力气的大小。<sup>\[如东\]</sup>：～重。<sup>\[如东\]</sup> ② 经手。<sup>\[如皋\]</sup> ③ 经办。<sup>\[如皋\]</sup> ④ 落到自己手中；得到。多作贬义。<sup>\[泰兴\]</sup>  
 1. 【[落手<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sheu_r.md#落手<sub>儿</sub>)】`lah8 sheu3 r` <sup>[如东]</sup> ① 人的胳膊断了，叫落手儿。 ② 比喻人做事不利落：他像个～样的。  
 1. 【[落手爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_sheu_zhua_r.md#落手爪<sub>儿</sub>)】`lah8 sheu3 zhua3 r` <sup>[如东]</sup> 手指掉了。比喻不能做活计：我应该自己做，我又不曾～。  
 1. 【[落市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shr.md#落市)】`lah8 shr6` <sup>[兴化]</sup> ① 某些瓜果蔬菜过了节令：过啊重阳，冬瓜早落咖市。 ② 市场过了交易时间：鲜货市场老早落咖市，你怎吖才来的啦？  
 1. 【[落刷屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuaeh_oh.md#落刷屋)】`lah8 shuaeh7 oh7` <sup>[如东]</sup> 房屋的一种结构形式。正梁两头不到山墙，中间高，四檐低，像龟壳一样，这种结构的房屋称落刷屋。主要为了防风。  
 1. 【[落栓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuaen.md#落栓)】`lah8 shuaen1` <sup>[泰县]</sup> 落实：这事～。  
 1. 【[落䨛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuah.md#落䨛)】`lah8 shuah7` <sup>[如皋]</sup> 降“丁”状霰，极冷而味咸，伤稼禾。如皋1950年初发生一次，麦减产。  
+1. 【[落水管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuei_gun_zz.md#落水管子)】`lah8 shuei gun3 zz` <small>/lɑʔ8 suəɪ kʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 把檐头的水引到地面的水管。<sup>\[泰兴\]</sup>  
 1. 【[落水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuei.md#落水)】`lah8 shuei3` <sup>[如东]</sup> ① 退潮。 ② 落水管。  
+1. 【[落水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuei.md#落水)】`lah8 shuei3` <small>/lɑʔ8 suəɪ3/<sup>泰兴</sup></small> 下水，向下排水<sup>\[泰兴\]</sup>：～管子<sup>\[泰兴\]</sup>  
 1. 【[落水鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuei_guei_r.md#落水鬼<sub>儿</sub>)】`lah8 shuei3 guei3 r` <sup>[如东]</sup> ① 淹死的人。 ② 比喻面疙瘩：今天晚上吃～。  
 1. 【[落水管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_shuei_gun.md#落水管)】`lah8 shuei3 gun3` <sup>[如东]</sup> 把屋面上的水引到地面上的水管，一般用铁皮、塑料或水泥制成。也称落水。  
+1. 【[落台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tae.md#落台)】`lah8 tae2` <small>/lɑʔ8 tʰɛ2/<sup>泰兴</sup></small> 收场；下台。结束；告一段落。<sup>\[泰兴\]</sup>：她不放ngei～。<sup>\[泰兴\]</sup>  
 1. 【[落淌阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan_chen.md#落淌阵)】`lah8 tan chen6` <sup>[如皋]</sup> 阵雨急，一会儿就有大量积水流淌。不久雨停。  
 1. 【[落汤鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan_ji.md#落汤鸡)】`lah8 tan1 ji1` <sup>[如东]</sup> 鸡掉在热水中，羽毛会浸湿。比喻人受雨淋以后浑身湿透的情形。  
 1. 【[落塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tan.md#落塘)】`lah8 tan2` <sup>[如东]</sup> 眼窝凹陷下去了：老头病吖不轻，眼睛已经～吖。  
-1. 【[落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_teu.md#落头)】`lah8 teu` <small>/laʔ8 tʰei/<sup>如皋</sup></small> ① 地方。<sup>\[如东\]</sup>：青菜种吖在甚的～？<sup>\[如东\]</sup> ② 室内、院内、宅周等小范围的地方<sup>\[如皋\]</sup>：这块～不小。<sup>\[如皋\]</sup>  
+1. 【[落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_teu.md#落头)】`lah8 teu` <small>/laʔ8 tʰei/<sup>如皋</sup>, /lɑʔ8 tʰəɪ/<sup>泰兴</sup></small> ① 地方。<sup>\[如东\]</sup>：青菜种吖在甚的～？<sup>\[如东\]</sup> ② 室内、院内、宅周等小范围的地方<sup>\[如皋\]</sup>：这块～不小。<sup>\[如皋\]</sup> ③ 地方；地点。<sup>\[泰兴\]</sup>：“你住啊哪个～？”<sup>\[泰兴\]</sup>  
 1. 【[落头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_teu.md#落头)】`lah8 teu2` <sup>[如东]</sup> 靠前：口子开啊嫌～。  
 1. 【[落头发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_teu_faeh.md#落头发)】`lah8 teu2 faeh` <sup>[如皋]</sup> 头发脱落。  
 1. 【[落头落脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_teu_lah_lin.md#落头落脸)】`lah8 teu2 lah8 lin3` <small>/laʔ8 tʰɤ2 laʔ8 liɪ̃3/<sup>兴化</sup>, /nɑʔ8 tʰɤɯ2 nɑʔ8 niɪ̃3/<sup>泰县</sup></small> ① 脸色非常严肃。<sup>\[如东\]</sup>：我～的说咖他几句。<sup>\[如东\]</sup> ② 狠狠地，不留情面地<sup>\[兴化\]</sup>：这个损人利己的家伙，捱大家～的骂啊一顿。<sup>\[兴化\]</sup> ③ 不顾情面：小龙捱父亲～骂啊一顿。<sup>\[泰县\]</sup>  
@@ -637,8 +645,8 @@
 1. 【[落天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tin.md#落天)】`lah8 tin1` <small>/lɑʔ8 tʰĩ1/<sup>泰兴</sup></small> 雨天<sup>\[泰兴\]</sup>  
 1. 【[落肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_tv.md#落肚)】`lah8 tv6` <sup>[兴化]</sup> 指饮食下肚：他三杯酒～，话渐渐多起来。｜“我们三日不曾有饭～，那里讨饭与你吃”。（《水浒传》六）  
 1. 【[落尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_vei.md#落尾)】`lah8 vei3` <sup>[如东]</sup> 靠后：结扣儿嫌～。  
-1. 【[落乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xian.md#落乡)】`lah8 xian1` <small>/laʔ8 ɕiaŋ1/<sup>兴化</sup>, /laʔ8 ɕiã1/<sup>如皋</sup></small> ① 离城镇较远、离乡村较近的郊区。与“靠街”相对。<sup>\[如皋\]</sup> ② 距离城镇较远的乡村<sup>\[兴化\]</sup>：他家住啊安丰～施家桥。<sup>\[兴化\]</sup>｜“……我是河南彰德府人，在东关外～居住……”（《儿女英雄传》七）<sup>\[兴化\]</sup> ③ 距离城市较远，靠近乡村<sup>\[泰州\]</sup>：这个地方的房子好是好，就是有点儿～。<sup>\[泰州\]</sup>  
-1. 【[落雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xiuh.md#落雪)】`lah8 xiuh7` ① 下雪。<sup>\[如东\]</sup> ② 下雪。<sup>\[东台\]</sup>  
+1. 【[落乡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xian.md#落乡)】`lah8 xian1` <small>/laʔ8 ɕiaŋ1/<sup>兴化</sup>, /laʔ8 ɕiã1/<sup>如皋</sup>, /lɑʔ8 ɕiɑŋ1/<sup>泰兴</sup></small> ① 离城镇较远、离乡村较近的郊区。与“靠街”相对。<sup>\[如皋\]</sup> ② 距离城镇较远的乡村<sup>\[兴化\]</sup>：他家住啊安丰～施家桥。<sup>\[兴化\]</sup>｜“……我是河南彰德府人，在东关外～居住……”（《儿女英雄传》七）<sup>\[兴化\]</sup> ③ 距离城市较远，靠近乡村<sup>\[泰州\]</sup>：这个地方的房子好是好，就是有点儿～。<sup>\[泰州\]</sup> ④ 偏僻、交通不便而又离城镇较远<sup>\[泰兴\]</sup>  
+1. 【[落雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xiuh.md#落雪)】`lah8 xiuh7` <small>/lɑʔ8 ɕiʔ7/<sup>泰兴</sup></small> 下雪。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[落碎<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_xy_r.md#落碎<sub>儿</sub>)】`lah8 xy5 r` <sup>[如东]</sup> ① 剩下的东西。 ② 比喻一点点儿东西：这个是一点～。  
 1. 【[落羽杉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_y_shaen.md#落羽杉)】`lah8 y3 shaen1` <sup>[如东]</sup> 落叶乔木，树冠幼年呈圆锥形，老年则成伞形。树干尖削度大，基部常膨大而有屈膝状之呼吸根，树皮长条状剥落。叶条状，扁平，先端尖，淡绿色，秋季凋落前变暗红褐色。球果圆球形或卵圆形，成熟时淡褐黄色，种子褐色。木材纹理直，硬度适中，耐腐，可供建筑、造船、制作家具等用。  
 1. 【[落雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_y.md#落雨)】`lah8 y3` <small>/lɑʔ8 y3/<sup>泰兴</sup></small> 下雨。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
@@ -646,7 +654,7 @@
 1. 【[落雨神巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_y_shen_ba.md#落雨神巴)】`lah8 y3 shen2 ba1` <sup>[如东]</sup> 小雨连绵：～的，非常潮湿。  
 1. 【[落雨神天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_y_shen_tin.md#落雨神天)】`lah8 y3 shen2 tin1` <sup>[如东]</sup> 阴雨连绵：～的，懒得出门。  
 1. 【[落雨天放风筝——实（湿）骨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_y_tin_fan.md#落雨天放风筝——实（湿）骨子)】`lah8 y3 tin1 fan5 fon1 zhen1 sheh8 （sheh7） gueh7 zz` <sup>[东台]</sup>   
-1. 【[落葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zan.md#落葬)】`lah8 zan5` <small>/laʔ8 t͡sã5/<sup>如皋</sup></small> ① 将棺材放入坟坑中，叫做落葬。<sup>\[如东\]</sup> ② 棺木入土。<sup>\[如皋\]</sup>  
+1. 【[落葬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zan.md#落葬)】`lah8 zan5` <small>/laʔ8 t͡sã5/<sup>如皋</sup>, /lɑʔ8 t͡sɑŋ5/<sup>泰兴</sup></small> ① 将棺材放入坟坑中，叫做落葬。<sup>\[如东\]</sup> ② 棺木入土。<sup>\[如皋\]</sup> ③ 下葬。<sup>\[泰兴\]</sup>  
 1. 【[落帐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zhan_zz.md#落帐子)】`lah8 zhan5 zz` <small>/laʔ8 t͡sã5 t͡sɿ/<sup>如皋</sup></small> ① 人在床上死了，马上把蚊帐的一角拉下来，叫做落帐子，表示人已死了。<sup>\[如东\]</sup> ② 殡葬习俗之一。人将死，须先将蚊帐落下，平时只说卸帐子而不能说～。<sup>\[如皋\]</sup>  
 1. 【[落指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zheh_r.md#落指<sub>儿</sub>)】`lah8 zheh7 r` <sup>[如东]</sup> 人的手指断了一节，叫落指儿。  
 1. 【[落枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_zhen.md#落枕)】`lah8 zhen3` <sup>[如东]</sup> 人的颈部因受某种因素的作用而发生病变，表现为疼痛，僵硬，医学上称落枕。  

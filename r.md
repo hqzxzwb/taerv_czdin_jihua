@@ -15,7 +15,7 @@
 1. 【[惹祸精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hu_jien.md#惹祸精)】`ra3 hu6 jien1` <small>/ɻa3 xʊ1 t͡ɕiəŋ1/<sup>如皋</sup></small> 经常引起麻烦、祸端的人。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[惹坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_huae.md#惹坏)】`ra3 huae6` <sup>[如皋]</sup> 容易变坏：周围环境不好，～。  
 1. 【[惹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_hv_zz.md#惹胡子)】`ra3 hv2 zz` <sup>[兴化]</sup> ① 形容人健忘。 ② 指人马马虎虎的：这个人～，同他说个事多记不得。  
-1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <small>/ɻa3 ĩ5/<sup>如皋</sup>, /ɻa3 iɪ̃5/<sup>泰县</sup></small> ① 贪玩。厌：玩。<sup>\[如皋\]</sup> ② 讨嫌。<sup>\[如皋\]</sup> ③ 讨厌：小孩～。<sup>\[泰县\]</sup>  
+1. 【[惹厌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_in.md#惹厌)】`ra3 in5` <small>/ɻa3 ĩ5/<sup>如皋</sup>, /ɻɑ3 ĩ5/<sup>泰兴</sup>, /ɻa3 iɪ̃5/<sup>泰县</sup></small> ① 贪玩。厌：玩。<sup>\[如皋\]</sup> ② 讨嫌。<sup>\[如皋\]</sup> ③ 讨厌：小孩～。<sup>\[泰县\]</sup> ④ 令人讨厌；找麻烦。<sup>\[泰兴\]</sup>  
 1. 【[惹鸡爪<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ji_zho_r.md#惹鸡爪<sub>儿</sub>风)】`ra3 ji1 zho3 r fon1` <sup>[如皋]</sup> 出现指（趾）痉挛。  
 1. 【[惹惊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_jien.md#惹惊)】`ra3 jien1` <sup>[如皋]</sup> 小儿易惊风。  
 1. 【[惹哭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_koh.md#惹哭)】`ra3 koh7` <small>/ɻa3 kʰɔʔ7/<sup>如皋</sup></small> ① 动不动就哭 ② 好哭、易哭。<sup>\[如皋\]</sup>  
@@ -26,18 +26,22 @@
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
 1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <sup>[东台]</sup> 醒目。容易引人嫉妒。  
+1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> 引人注目；显眼。<sup>\[泰兴\]</sup>  
 1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
+1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
 1. 【[惹吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh.md#惹吃)】`ra3 qieh7` <small>/ɻa3 t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 爱吃。<sup>\[如皋\]</sup> ② 使人爱吃。<sup>\[如皋\]</sup> ③ 嘴馋，贬指。<sup>\[如皋\]</sup> ④ 好吃。<sup>\[如东\]</sup>：这种饭～<sup>\[如东\]</sup> ⑤ 贪吃。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[惹吃宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh_bo_r.md#惹吃宝<sub>儿</sub>)】`ra3 qieh7 bo3 r` <sup>[如东]</sup> 比喻喜爱吃零食的孩子：狗狗是个～。  
 1. 【[惹人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ren.md#惹人)】`ra3 ren2` <sup>[如皋]</sup> 侵袭人。  
 1. 【[惹馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_seu.md#惹馊)】`ra3 seu1` <sup>[如皋]</sup> 容易馊。  
+1. 【[惹韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_sho_do.md#惹韶叨)】`ra3 sho2 do1` <small>/ɻɑ3 sɔ2 tɔ1/<sup>泰兴</sup></small> 啰嗦；惹话说；找麻烦。<sup>\[泰兴\]</sup>  
+1. 【[惹是非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shr_fei.md#惹是非)】`ra3 shr6 fei` <small>/ɻɑ3 sɿ1 fəɪ/<sup>泰兴</sup></small> 引起麻烦事。<sup>\[泰兴\]</sup>  
 1. 【[惹是生非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shr_shen_fei.md#惹是生非)】`ra3 shr6 shen1 fei1` <sup>[如东]</sup> 由于自己说话或处事不妥当而造成纠纷：不要～。  
 1. 【[惹睡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shuei.md#惹睡)】`ra3 shuei5` <sup>[如东]</sup> 爱睡：这些时候我～。  
 1. 【[惹头风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_teu_fon.md#惹头风)】`ra3 teu2 fon1` <sup>[如皋]</sup> 患上了久治难愈的偏头痛。  
 1. 【[惹瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ven.md#惹瘟)】`ra3 ven1` <small>/ɻa3 ʋəŋ1/<sup>如皋</sup>, /ɻa3 ʋəŋ1/<sup>泰县</sup></small> ① 詈语，骂牲畜或者小孩子。 ② 指禽兽得了传染病。<sup>\[如皋\]</sup> ③ 昵称或怒指禽兽。这～会生蛋。<sup>\[如皋\]</sup> ④ 詈语，用来骂人。<sup>\[如皋\]</sup> ⑤ 得了瘟病。发煪，不听话。<sup>\[如东\]</sup>：这个伢儿今朝又～。<sup>\[如东\]</sup> ⑥ 得了瘟病。<sup>\[泰县\]</sup> ⑦ 不听使唤的禽畜。<sup>\[泰县\]</sup>  
 1. 【[惹腥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_xien.md#惹腥)】`ra3 xien1` <sup>[东台]</sup> ① 犹言“现世”、出丑：让我儿子当厂长，也真～。 ② 多指女性卖弄风骚。  
-1. 【[惹嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_xin.md#惹嫌)】`ra3 xin2` <small>/ɻa3 ɕĩ2/<sup>如皋</sup></small> ① 可恶。就是“讨嫌”“犯嫌”。<sup>\[如皋\]</sup> ② 讨厌。<sup>\[如皋\]</sup>  
+1. 【[惹嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_xin.md#惹嫌)】`ra3 xin2` <small>/ɻa3 ɕĩ2/<sup>如皋</sup>, /ɻɑ3 ɕĩ2/<sup>泰兴</sup></small> ① 可恶。就是“讨嫌”“犯嫌”。<sup>\[如皋\]</sup> ② 讨厌。<sup>\[如皋\]</sup> ③ 令人嫌<sup>\[泰兴\]</sup>  
 1. 【[惹笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_xio.md#惹笑)】`ra3 xio5` <small>/ɻa3 ɕiɔ5/<sup>如皋</sup></small> ① 引人发笑 ② 容易发笑的个性<sup>\[如皋\]</sup>：这伢儿～，你一引，他就笑啊漷起来啊。<sup>\[如皋\]</sup> ③ 可笑；你说这种话，～吧。<sup>\[如皋\]</sup> ④ 喜爱笑。出洋相。<sup>\[如东\]</sup>  
 1. 【[惹脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_zan.md#惹脏)】`ra3 zan1` <small>/la3 t͡saŋ1/<sup>兴化</sup></small> ① 指白色或其他浅色衣物沾上灰尘、油渍等比较显，眼。<sup>\[兴化\]</sup> ② 某些工种操作时容易弄脏身体或衣服。<sup>\[兴化\]</sup> ③ 浅色衣服容易沾灰发黑<sup>\[泰州\]</sup>：他这个人的脑油重，穿白颜色的衣裳～。<sup>\[泰州\]</sup>  
 1. 【[惹喠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_zhon.md#惹喠)】`ra3 zhon3` 馋嘴，贪吃  

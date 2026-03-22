@@ -1011,7 +1011,7 @@
 1. 【[抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽签)】`cheu1 qin1` <sup>[泰州]</sup> ① 指人遇到事情犹豫不决，难下决策：你到底是去，还是不去，不要～。 ② 事物发展过程变化无常，始终没有结果：他本来答应帮忙的，后来说没得工夫，只好请老王，老王又说家里有事，你说哿～吖。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
 1. 【[抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_r.md#抽<sub>儿</sub>)】`cheu1 r` 抽屉  
-1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren` <small>/t͡sʰei1 ɻəŋ/<sup>如皋</sup></small> 烟、气味熏人难受。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这股烟～哎。<sup>\[如东\]</sup>  
+1. 【[抽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren.md#抽人)】`cheu1 ren` <small>/t͡sʰei1 ɻəŋ/<sup>如皋</sup>, /t͡ɕʰiɤɯ1 ɻəŋ/<sup>泰兴</sup></small> 烟、气味熏人难受。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这股烟～哎。<sup>\[如东\]</sup>  
 1. 【[抽人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_ren_zz.md#抽人子)】`cheu1 ren zz` <sup>[如皋]</sup> 见“抽人”。  
 1. 【[抽身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_shen.md#抽身)】`cheu1 shen1` <small>/t͡sʰei1 səŋ1/<sup>如皋</sup></small> ① 腾出空来。<sup>\[如东\]</sup>：再忙我也要～过来一趟。<sup>\[如东\]</sup> ② 死者人棺前，抽出胯下护葬布。也称抽布。<sup>\[如东\]</sup> ③ 殡验程序之一。下棺材前，抽出死者挎下护脏布（抽身布）。<sup>\[如皋\]</sup>  
 1. 【[抽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_teu.md#抽头)】`cheu1 teu2` <small>/t͡ɕʰiɤɯ1 tʰəɪ2/<sup>泰兴</sup></small> 设局邀人聚赌，抽取头钱；商品交易或办事中的回扣。<sup>\[泰兴\]</sup>  
@@ -1170,6 +1170,7 @@
 1. 【[朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho.md#朝)】`cho2` <small>/t͡sʰɔ2/<sup>泰兴</sup></small> 谓人或物正对着某个方向<sup>\[泰兴\]</sup>：～东、～南<sup>\[泰兴\]</sup>｜～天<sup>\[泰兴\]</sup>  
 1. 【[朝贺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_hu.md#朝贺)】`cho2 hu` <sup>[东台]</sup> 暗示要表示点（请客或送礼）的意思。  
 1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <sup>[如东]</sup> 向着太阳的地方或方向。  
+1. 【[朝阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_ian.md#朝阳)】`cho2 ian2` <small>/t͡sʰɔ2 iɑŋ2/<sup>泰兴</sup></small> 向阳，多指朝南方向。<sup>\[泰兴\]</sup>  
 1. 【[朝里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li.md#朝里)】`cho2 li3` <sup>[如皋]</sup> 不足，略少于。见“不到”：这一袋米在30斤～。  
 1. 【[朝里不朝外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_li_beh_cho.md#朝里不朝外)】`cho2 li3 beh7 cho2 vae6` <sup>[如皋]</sup> 少于，不多于。  
 1. 【[朝外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cho_vae.md#朝外)】`cho2 vae6` <sup>[如皋]</sup> 估计略多于：这一袋米有30斤～。  
@@ -2118,6 +2119,7 @@
 1. 【[聪明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_mien.md#聪明)】`con1 mien2` <sup>[如东]</sup> 智商高，理解力强，记忆力强：小明从小就～。  
 1. 【[葱果<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r.md#葱果<sub>儿</sub>)】`con1 gu3 r` <sup>[如皋]</sup> 葱的地下茎。  
 1. 【[葱果<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_gu_r_pieh.md#葱果<sub>儿</sub>鼻子)】`con1 gu3 r pieh8 zz` <sup>[如皋]</sup> 俊美若葱头的鼻子。  
+1. 【[葱花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_hua_r.md#葱花<sub>儿</sub>)】`con1 hua1 r` <small>/t͡sʰɔŋ1 xuɑ˞1/<sup>泰兴</sup></small> 切碎的葱。作调味品。<sup>\[泰兴\]</sup>  
 1. 【[葱油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_ieu.md#葱油)】`con1 ieu2` <sup>[如皋]</sup> 馅料品名。用葱花儿加荤（素）油和盐制成，味香。常用以做～卷儿、～饼、～烧饼。  
 1. 【[葱油烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/con_ieu_sho_bien.md#葱油烧饼)】`con1 ieu2 sho1 bien` <sup>[泰州]</sup> 最常见的烧饼品种之一，馅儿用葱花、猪油渣制成。  
 1. 【[从](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/ｃon.md#从)】`con2` <sup>[兴化]</sup> 以某为师、师从：“……汤父母……细细问他～的先生是哪个……”（《儒林外史》四）｜洛钟两个儿子，都已上学，却好～的先生便是自家的舅舅……（《广陵潮》三）  

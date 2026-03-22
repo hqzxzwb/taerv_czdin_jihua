@@ -77,22 +77,27 @@
 1. 【[喜容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ion.md#喜容)】`xi3 ion2` <sup>[如皋]</sup> 家中用的标准像。  
 1. 【[喜容形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ion_xien.md#喜容形)】`xi3 ion2 xien2` <sup>[泰州]</sup> 人的容貌生就快乐讨喜的样子：他这个人天生的一副～，待人有热情，真的是适合去开个小店做生意。  
 1. 【[喜酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jieu.md#喜酒)】`xi3 jieu3` <sup>[如东]</sup> 因儿女婚事而举办的筵席。也称喜筵、婚筵。喜酒菜要有红枣（早生贵子）、莲子（连生贵子）、圆子（团团圆圆）、粽子（种子）、对子鱼（成双成对。头朝里摆放，不吃）。数量要双数（四冷四热，八碗八碟）。  
+1. 【[喜酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jieu.md#喜酒)】`xi3 jieu3` <small>/ɕʝ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 结婚时招待宾客的酒席。<sup>\[泰兴\]</sup>  
 1. 【[喜妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma.md#喜妈)】`xi3 ma1` <sup>[兴化]</sup> 见“伴妈”。  
 1. 【[喜娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nian.md#喜娘)】`xi3 nian2` <sup>[如皋]</sup> 旧称陪伴新娘的姑娘。  
 1. 【[喜棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pon.md#喜棚)】`xi3 pon2` 民间操办婚宴时搭的酒宴棚。  
 1. 【[喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah.md#喜鹊)】`xi3 qiah7` <sup>[如东]</sup> 鸦科动物喜鹊，也叫鸦鹊。民间有听见喜鹊叫将有喜事来临的传说，所以叫喜鹊。体长约45厘米。嘴尖，黑色。虹膜黑褐色。头、颈、背部中央、尾上覆羽均为黑色，腹部有一块灰白斑，肩羽洁白。尾长，黑色。下腹中央黑色余部洁白。脚及爪黑色。生活在庭院原野，多成对活动，叫声嘈杂，以昆虫为食。  
+1. 【[喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah.md#喜鹊)】`xi3 qiah7` <small>/ɕʝ3 t͡ɕʰiɑʔ7/<sup>泰兴</sup></small> 民间传说鹊能报喜，故称喜鹊。<sup>\[泰兴\]</sup>  
 1. 【[喜鹊斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_baen.md#喜鹊斑)】`xi3 qiah7 baen1` <sup>[如皋]</sup> 见“哑子砖”。  
 1. 【[喜鹊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_jio.md#喜鹊叫)】`xi3 qiah7 jio5` <sup>[如皋]</sup> ① 有人（客）到。 ② 遇喜事。  
 1. 【[喜鹊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_teu.md#喜鹊头)】`xi3 qiah7 teu2` <sup>[如皋]</sup> 婴儿胎发只有几大块，状若喜鹊。相传此兑多磨难。  
+1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜笺)】`xi3 qin, xi3 jin` <small>/ɕʝ3 t͡ɕʰĩ/<sup>泰兴</sup></small> 春节或家中有大喜事时张贴于门窗上的红色刻纸笺，表示喜庆。<sup>\[泰兴\]</sup>  
 1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin` <sup>[如东]</sup> 一块长方形的纸红色，中间雕花刻字飞金，下沿飘须。春节贴在大门、房门、耳门门楣以及照明方上，表示吉庆。如果当年有人去世，则贴紫色的喜钱，表示悼念。俗称过儿。  
 1. 【[喜签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜签)】`xi3 qin1` <sup>[东台]</sup> 贴春联时贴在门楣上、房梁上或者窗户上边框的一种刻纸。也叫“花签”“花钱”。  
-1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin2` <small>/ɕʝ3 t͡ɕʰĩ2/<sup>如皋</sup></small> ① 逢喜庆事给的赏钱，常用红纸包裹。<sup>\[如皋\]</sup> ② 办喜事时发的红包。<sup>\[东台\]</sup>  
+1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin2` <small>/ɕʝ3 t͡ɕʰĩ2/<sup>如皋</sup>, /ɕʝ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 逢喜庆事给的赏钱，常用红纸包裹。<sup>\[如皋\]</sup> ② 办喜事时发的红包。<sup>\[东台\]</sup> ③ 有喜庆之事时，给人的赏钱。<sup>\[泰兴\]</sup>  
 1. 【[喜钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin_r.md#喜钱<sub>儿</sub>)】`xi3 qin2 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。  
+1. 【[喜日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_rih.md#喜日)】`xi3 rih8` <small>/ɕʝ3 iʔ8/<sup>泰兴</sup></small> 婚嫁之日。<sup>\[泰兴\]</sup>  
 1. 【[喜上心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shan_xien.md#喜上心)】`xi3 shan6 xien1` <sup>[如东]</sup> 内心感到非常高兴。  
 1. 【[喜神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shen.md#喜神)】`xi3 shen2` 祖先遗像<sup>\[泰州\]</sup>：家里老祖宗的～都在破四旧的时候烧掉啊。<sup>\[泰州\]</sup>  
 1. 【[喜事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shr.md#喜事)】`xi3 shr6` <sup>[如东]</sup> 因为结婚、寿诞等举办的庆祝活动，称喜事。  
 1. 【[喜树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shv.md#喜树)】`xi3 shv6` <sup>[如东]</sup> 珙桐科植物喜树，落叶乔木。高约30米。树皮浅灰色。叶互生，纸质椭圆状披针形。头状花序。花绿白色，无梗。瘦果窄矩圆形，褐色。路边或庭园种植。木材轻软，易翘裂，可供造纸、板料、火柴杆等用。根及果实含喜树碱。  
-1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup></small> ① 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。<sup>\[如东\]</sup> ② 煮熟并染红的鸡蛋。民俗，生孩子的人家用来向外婆家报喜，并分送亲友。<sup>\[兴化\]</sup>  
+1. 【[喜蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#喜蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup>, /ɕʝ3 tʰɛ̃1/<sup>泰兴</sup></small> ① 妇女生小孩后，把鸡蛋煮熟，染成红色，赠送给亲友，表示喜庆，这种蛋叫做喜蛋。<sup>\[如东\]</sup> ② 煮熟并染红的鸡蛋。民俗，生孩子的人家用来向外婆家报喜，并分送亲友。<sup>\[兴化\]</sup> ③ 女子生孩子后馈送亲友的鸡蛋，外壳染成红色，以示喜庆。<sup>\[泰兴\]</sup>  
+1. 【[喜糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_tan.md#喜糖)】`xi3 tan2` <small>/ɕʝ3 tʰɑŋ2/<sup>泰兴</sup></small> 结婚时招待宾客或分送亲友的糖果。<sup>\[泰兴\]</sup>  
 1. 【[喜喜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#喜喜<sub>儿</sub>)】`xi3 xi3 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。见“喜签”“喜钱”。  
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
@@ -128,7 +133,7 @@
 1. 【[洗澡盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_pen.md#洗澡盆)】`xi3 zo3 pen2` <sup>[如皋]</sup> 洗澡用的长盆，前低后高。见“澡盆”。现已少见。  
 1. 【[洗澡手巾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_sheu_jien.md#洗澡手巾)】`xi3 zo3 sheu3 jien1` <sup>[如皋]</sup> 浴巾。  
 1. 【[洗澡堂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zo_tan_zz.md#洗澡堂子)】`xi3 zo3 tan2 zz` <small>/ɕʝ3 t͡sɔ3 tʰã2 t͡sɿ/<sup>如皋</sup>, /ɕʝ3 t͡sɔ3 tʰɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 公共浴室。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
-1. 【[蟢蟢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#蟢蟢)】`xi3 xi` <sup>[东台]</sup> 蜘蛛的一种。又叫蟢蟢蛛儿。因“蟢”与“喜”谐音，旧时常当作喜庆的征兆。  
+1. 【[蟢蟢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi.md#蟢蟢)】`xi3 xi` <small>/ɕʝ3 ɕʝ/<sup>泰兴</sup></small> 一种蜘蛛\[泰兴：一种长脚的小蜘蛛。又称蟢蟢、喜虫。乡人遇其挂在门上、堂中，视为有喜事、亲朋临门。\]\[东台：又叫蟢蟢蛛儿。因“蟢”与“喜”谐音，旧时常当作喜庆的征兆。\]  
 1. 【[蟢蟢蛛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_zhv_r.md#蟢蟢蛛<sub>儿</sub>)】`xi3 xi zhv1 r` <small>/ɕi3 ɕi t͡su1 ɚ/<sup>兴化</sup></small> 蜘蛛<sup>\[东台\]</sup><sup>\[兴化\]</sup>  
 1. 【[蟢蟢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r.md#蟢蟢<sub>儿</sub>)】`xi3 xi3 r` <small>/ɕʝ3 ɕʝ˞3/<sup>如皋</sup></small> 蜘蛛<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[蟢蟢<sub>儿</sub>打架——活缠丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_r_da.md#蟢蟢<sub>儿</sub>打架——活缠丝)】`xi3 xi3 r da3 jia5——huh8 chin6 sz1` <sup>[如皋]</sup> 事情前头万绪，纷乱繁杂，越理越乱。  
