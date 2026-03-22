@@ -11,3 +11,8 @@ zha1 ba1 zha1 ba1
 zha1 ba1 zha1 ba1 dii
 > 如皋方言词典
 - 贬指多话。
+
+# 喳巴喳巴的
+zha1 ba1 zha1 ba1 dii
++ 象声词。谓声音吵人，絮絮不休。
+  * 泰兴方言辞典
