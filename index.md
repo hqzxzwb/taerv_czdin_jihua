@@ -125,15 +125,15 @@
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
 1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <small>/ɚ2 t͡sʰaŋ2/<sup>兴化</sup>, /ɚ2 t͡sʰã2/<sup>如皋</sup></small> ① 阴道。<sup>\[如东\]</sup> ② 内生殖器总称。<sup>\[如皋\]</sup> ③ 特指动物输卵管，是阉割的部分。<sup>\[如皋\]</sup> ④ 也有指男性输精管的。<sup>\[如皋\]</sup> ⑤ 女子或雌性哺乳动物的输卵管。‖也称“子肠”。<sup>\[兴化\]</sup>  
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
-1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <sup>[泰兴]</sup> 谓子女多，做母亲的非常辛苦。  
+1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <small>/ɚ2 tɤɯ1 mɤɯ3 ɕiɤɯ1 kʰu3/<sup>泰兴</sup></small> 谓子女多，做母亲的非常辛苦。<sup>\[泰兴\]</sup>  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
 1. 【[儿狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_geu.md#儿狗)】`er2 geu3` <small>/ɚ2 kɤ3/<sup>兴化</sup>, /ɚ2 kei3/<sup>如皋</sup>, /ɚ2 kəɪ3/<sup>泰兴</sup></small> 公狗。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[儿花女花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_hua_ny_hua.md#儿花女花)】`er2 hua1 ny3 hua1` <small>/ɚ2 xua1 ly3 xua1/<sup>兴化</sup></small> 儿女<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老奶奶孤寡一人，～没得一个。<sup>\[兴化\]</sup>｜“俺衙内老爹身边，～没有，好不单径……”（《金瓶梅词话》九一）<sup>\[兴化\]</sup>  
-1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <sup>[泰兴]</sup> 对儿女要加强教育，做子女的要孝顺。  
+1. 【[儿要教，子要孝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_io_jio_zz.md#儿要教，子要孝)】`er2 io5 jio5 zz3 io5 xio5` <small>/ɚ2 iɔ5 t͡ɕiɔ5 t͡sɿ3 iɔ5 ɕiɔ5/<sup>泰兴</sup></small> 对儿女要加强教育，做子女的要孝顺。<sup>\[泰兴\]</sup>  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <small>/ɚ2 ly3 t͡ɕʰin5 t͡ɕia/<sup>兴化</sup></small> ① 两家儿女相婚配的亲戚关系。<sup>\[兴化\]</sup> ② 称儿子的岳父、岳母或女儿的公公、婆婆。<sup>\[兴化\]</sup> ③ 因子女相婚配而形成的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
-1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <sup>[泰兴]</sup> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”  
+1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <small>/ɚ2 suəŋ1 t͡sʰɿ1 iɤɯ3 ɚ2 suəŋ1 fɔʔ7/<sup>泰兴</sup></small> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”<sup>\[泰兴\]</sup>  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
@@ -148,6 +148,10 @@
 1. 【[耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh.md#耳搭)】`er3 daeh7` <sup>[兴化]</sup> 汉字偏旁。形状是卩（巳）一一硬～；阝（在左）、⻏（在右）一一 软～。  
 1. 【[耳搭帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_daeh_ban.md#耳搭帮)】`er3 daeh7 ban1` <sup>[如皋]</sup> ① 单耳搭：印即卸。 ② 双耳搭：邵郎郸；阶附陶。  
 1. 【[耳刀根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_gen.md#耳刀根)】`er3 do gen1` <sup>[泰州]</sup> 耳朵根部：脸红到～。  
+1. 【[耳刀毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_mo.md#耳刀毛)】`er3 do mo2` <sup>[泰州]</sup> 建国初期流行女子发型之一，发短，一般头发剪与耳垂平齐。  
+1. 【[耳刀软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_do_run.md#耳刀软)】`er3 do run3` <sup>[泰州]</sup> 容易被他人说动而改变原来想法：你家这位领导～，掌不住他俫惑。  
+1. 【[耳东陈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_don_chen.md#耳东陈)】`er3 don1 chen2` <small>/ɚ3 tɔŋ1 t͡sʰəŋ2/<sup>泰兴</sup></small> 陈字的别称。乡人读“陈”、“程”、“成”为一个音，为有所区别，故有“禾旁程”、“跷脚成”、“耳东陈”一说。<sup>\[泰兴\]</sup>  
+1. 【[耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du.md#耳朵)】`er3 du` <sup>[东台]</sup> 耳朵。口语中念“r3 do”。  
 [更多...](./e.md)
 ## F
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh.md#□)】`faeh7` <sup>[泰县]</sup> 腐朽变质：饭～咖。  
