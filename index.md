@@ -72,7 +72,7 @@
 1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <small>/t͡ɕʰiɛ2 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 刚才<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他～还在这块的，不曾走远。<sup>\[东台\]</sup>  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <small>/t͡sʰɛ2 t͡ɕiaŋ1 ɚ/<sup>兴化</sup>, /t͡sʰɛ2 t͡ɕia˞1/<sup>如皋</sup></small> 刚才。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup>：老吴～走的。<sup>\[兴化\]</sup>  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
-1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <sup>[泰兴]</sup> 才能和学问：他的个～大。  
+1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <small>/t͡ɕʰiɛ2 ɕiɑʔ/<sup>泰兴</sup></small> 才能和学问。<sup>\[泰兴\]</sup>：他的个～大。<sup>\[泰兴\]</sup>  
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
 1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
@@ -82,6 +82,7 @@
 1. 【[豺豺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cae_r.md#豺豺<sub>儿</sub>)】`cae2 cae r` <sup>[如东]</sup> 牙齿。  
 1. 【[豺吊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#豺吊<sub>儿</sub>)】`cae2 dio5 r` <sup>[如东]</sup> 牙齿。  
 1. 【[财担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_daen.md#财担)】`cae2 daen` <sup>[兴化]</sup> 开支：个人砌房子～太大。  
+1. 【[财东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_don.md#财东)】`cae2 don1` <sup>[如东]</sup> 企业或财物的所有者，通称老板：陈宝珠是大～。  
 [更多...](./c.md)
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  

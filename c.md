@@ -18,7 +18,7 @@
 1. 【[才将](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian.md#才将)】`cae2 jian1` <small>/t͡ɕʰiɛ2 t͡ɕiɑŋ1/<sup>泰兴</sup></small> 刚才<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他～还在这块的，不曾走远。<sup>\[东台\]</sup>  
 1. 【[才将<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_jian_r.md#才将<sub>儿</sub>)】`cae2 jian1 r` <small>/t͡sʰɛ2 t͡ɕiaŋ1 ɚ/<sup>兴化</sup>, /t͡sʰɛ2 t͡ɕia˞1/<sup>如皋</sup></small> 刚才。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup>：老吴～走的。<sup>\[兴化\]</sup>  
 1. 【[才些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xia_r.md#才些<sub>儿</sub>)】`cae2 xia1 r` <sup>[如皋]</sup> 刚才、刚刚。  
-1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <sup>[泰兴]</sup> 才能和学问：他的个～大。  
+1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <small>/t͡ɕʰiɛ2 ɕiɑʔ/<sup>泰兴</sup></small> 才能和学问。<sup>\[泰兴\]</sup>：他的个～大。<sup>\[泰兴\]</sup>  
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
 1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
@@ -230,7 +230,7 @@
 1. 【[叉话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_hua.md#叉话)】`cha1 hua6` <sup>[兴化]</sup> 插嘴：我俫说周正事，你不要～。  
 1. 【[叉鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji.md#叉鸡)】`cha1 ji1` <small>/t͡sʰa1 t͡ɕi1/<sup>兴化</sup>, /t͡sʰɑ1 t͡ɕʝ1/<sup>泰兴</sup></small> ① 偷鸡<sup>\[兴化\]</sup>：哪块来的“桃子”？这是～的给鸡起的别名。～，……叫做“崩桃子”。（扬二《时迁偷鸡》）<sup>\[兴化\]</sup> ② 骂人语。谓作贼盗窃。或谓叉鸡贼。<sup>\[泰兴\]</sup>  
 1. 【[叉鸡贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_ceh.md#叉鸡贼)】`cha1 ji1 ceh8` <small>/t͡sʰa1 t͡ɕi1 t͡sʰəʔ8/<sup>兴化</sup>, /t͡sʰa1 t͡ɕʝ1 t͡sʰəʔ8/<sup>如皋</sup>, /t͡sʰɑ1 t͡ɕʝ1 t͡sʰəʔ8/<sup>泰兴</sup></small> ① 小偷；专门偷鸡的贼。也有人称“叉鸡”，骂人语。<sup>\[泰兴\]</sup> ② 从路边偷鸡的贼。<sup>\[如皋\]</sup> ③ 专门偷鸡的人。<sup>\[兴化\]</sup> ④ 泛指有偷摸行为的人。<sup>\[兴化\]</sup>  
-1. 【[叉鸡鹱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_vah_zz.md#叉鸡鹱子)】`cha1 ji1 vah7 zz` <sup>[泰兴]</sup> 鹞鹰。能从空中俯冲下来啄食体小动物。  
+1. 【[叉鸡鹱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ji_vah_zz.md#叉鸡鹱子)】`cha1 ji1 vah7 zz` <small>/t͡sʰɑ1 t͡ɕʝ1 uɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 鹞鹰。能从空中俯冲下来啄食体小动物。<sup>\[泰兴\]</sup>  
 1. 【[叉交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jio_i.md#叉交易)】`cha1 jio1 i` <sup>[如皋]</sup> 把同行的顾客拉过来。这是经商的大忌。  
 1. 【[叉口袋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_tae.md#叉口袋)】`cha1 keu3 tae6` <sup>[如皋]</sup> 一种特大的布袋，袋口分衩，方底。  
 1. 【[叉老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_lo.md#叉老)】`cha1 lo3` <sup>[泰县]</sup> 扯铃（空竹）。  
@@ -406,7 +406,7 @@
 1. 【[扯得动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_ton.md#扯得动)】`cha3 deh ton6` <sup>[兴化]</sup> 意为有办法，资金上挪移得开：“……他总觉若你太尊上海地方面子大，～，一个电报去，自然有几十万汇下来……”（《官场现形记》三五）  
 1. 【[扯得恶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_ngah.md#扯得恶)】`cha3 deh7 ngah7` <sup>[如皋]</sup> 见“扯得凶”。  
 1. 【[扯得凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_deh_xion.md#扯得凶)】`cha3 deh7 xion1` <sup>[如皋]</sup> 胡扯，东拉两扯：她家～哎，向我借啊把雨伞不曾还，又借啊把乡下的二哥，二哥又借啊把他家女婿，总不晓得这把伞扯啊哪许去啊。  
-1. 【[扯风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fon.md#扯风)】`cha3 fon1` <sup>[泰兴]</sup> 承接风，承接气流：箇个落头扯到风，不热  
+1. 【[扯风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_fon.md#扯风)】`cha3 fon1` <small>/t͡sʰɑ3 fɔŋ1/<sup>泰兴</sup></small> 承接风，承接气流<sup>\[泰兴\]</sup>：箇个落头扯到风，不热<sup>\[泰兴\]</sup>  
 1. 【[扯寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_gua.md#扯寡)】`cha3 gua3` <small>/t͡sʰa3 kua3/<sup>如皋</sup></small> ① 说闲话。<sup>\[如东\]</sup>：我俫在下～。<sup>\[如东\]</sup> ② 随意、随便地跟人漫淡。<sup>\[如皋\]</sup> ③ 插话。<sup>\[如皋\]</sup>  
 1. 【[扯下脸来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ha_lin_lae.md#扯下脸来)】`cha3 ha lin3 lae` <sup>[如皋]</sup> 不作掩饰，不讲情面。  
 1. 【[扯下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ha_lae.md#扯下来)】`cha3 ha6 lae` <sup>[东台]</sup> 平均算起来：这个店每月纯收入～也有五千多。  
@@ -470,7 +470,7 @@
 1. 【[岔枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr.md#岔枝)】`cha5 zhr1` <small>/t͡sʰɑ5 t͡sɿ1/<sup>泰兴</sup></small> ① 分枝。<sup>\[如东\]</sup> ② 比喻由一个问题引申出另一个问题。<sup>\[如东\]</sup>：王明一来就出咖～。<sup>\[如东\]</sup> ③ 节外生枝。<sup>\[泰兴\]</sup>  
 1. 【[岔枝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zhr_r.md#岔枝<sub>儿</sub>)】`cha5 zhr1 r` <small>/t͡sʰa5 t͡sɿ1 ɚ/<sup>兴化</sup>, /t͡sʰa5 t͡sɿ˞1/<sup>如皋</sup></small> ① 长出的分枝。<sup>\[如皋\]</sup> ② 树木的分枝<sup>\[兴化\]</sup>：打～。<sup>\[兴化\]</sup> ③ （喻）节外生枝<sup>\[兴化\]</sup>：合作的条款谈得好好的，想不到又生～。<sup>\[兴化\]</sup>  
 1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3, cha5 jy3` <sup>[如东]</sup> 插话：他说话，你不要～。  
-1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3` <sup>[泰兴]</sup> 插话，多嘴。  
+1. 【[岔嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zuei.md#岔嘴)】`cha5 zuei3` <small>/t͡sʰɑ5 t͡suəɪ3/<sup>泰兴</sup></small> 插话，多嘴。<sup>\[泰兴\]</sup>  
 1. 【[岔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_zz.md#岔子)】`cha5 zz` <sup>[东台]</sup> 意外事故：路上出咖～，耽误啊半天时间。  
 1. 【[杈巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ba_r.md#杈巴<sub>儿</sub>)】`cha5 ba3 r` <sup>[东台]</sup> 植物的分枝。  
 1. 【[茬口布局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_keu_bv_qioh.md#茬口布局)】`cha5 keu3 bv5 qioh8` <sup>[东台]</sup> 对农业种植计划的安排。  
@@ -582,7 +582,7 @@
 1. 【[着地<sub>儿</sub>趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_ti_r_su.md#着地<sub>儿</sub>趖)】`chah8 ti6 r su1` <sup>[如皋]</sup> 贴近地面快跑：老鼠～；矮子走路～。  
 1. 【[着定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_tien.md#着定)】`chah8 tien6` <sup>[如皋]</sup> ① 决定了、认定了。 ② 宰定了、咬定了。  
 1. 【[着躁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_zo.md#着躁)】`chah8 zo5` <sup>[兴化]</sup> 发急：不要～，有话慢慢说。｜先生～地说：“……快替我把他喊上来！”（兴文《吴生生的故事》）  
-1. 【[伥神鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_guei.md#伥神鬼)】`chan1 shen guei3` <sup>[泰兴]</sup> 传说中身材高大的鬼，讥人个子太高。  
+1. 【[伥神鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen_guei.md#伥神鬼)】`chan1 shen guei3` <small>/t͡sʰɑŋ1 səŋ kuəɪ3/<sup>泰兴</sup></small> 传说中身材高大的鬼，讥人个子太高。<sup>\[泰兴\]</sup>  
 1. 【[伥神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_shen.md#伥神)】`chan1 shen2` <sup>[兴化]</sup> 传说中长腿长臂的鬼神：他1.85的瘦高个儿，长得像个～。  
 1. 【[猖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo.md#猖毛)】`chan1 mo2` <sup>[如东]</sup> ① 毛羽张开来了。 ② 犯脾气：你把他弄～啊。  
 1. 【[猖毛狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mo_geu.md#猖毛狗)】`chan1 mo2 geu3` <sup>[如东]</sup> ① 狗的一种。身上生长着蓬松的毛。 ② 比喻人的头发蓬乱：头发像～一样的。 ③ 此喻人穿的衣服褴褛：穿得像～一样。  
@@ -703,9 +703,8 @@
 1. 【[丈尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_cheh.md#丈尺)】`chan6 cheh7` <sup>[如东]</sup> 测量土地的一种工具。有丈杆和弓尺两种。  
 1. 【[丈二的和尚——摸不着头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_er_dii_hu.md#丈二的和尚——摸不着头脑)】`chan6 er6 dii hu2 shan mah8 beh7 chah8 teu2 no3` <sup>[东台]</sup>   
 1. 【[丈杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_gun.md#丈杆)】`chan6 gun` <small>/t͡sʰɑŋ1 kʊ̃/<sup>泰兴</sup></small> ① 一根木杆或竹竿，用来丈量土地。也叫丈尺。<sup>\[如东\]</sup> ② 很长的大木尺。<sup>\[泰兴\]</sup>  
-1. 【[丈量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lian.md#丈量)】`chan6 lian2` <sup>[泰兴]</sup> 测量  
 1. 【[丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu.md#丈母)】`chan6 mu` <small>/t͡sʰɑŋ1 mɤɯ/<sup>泰兴</sup></small> 妻子的母亲；岳母。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[东台：也称丈母娘\]  
-1. 【[丈母见女婿，拿刀杀母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_jin_ny.md#丈母见女婿，拿刀杀母鸡)】`chan6 mu jin5 ny3 xy na2 do1 shaeh7 mu3 ji` <sup>[泰兴]</sup> 乡谚。谓岳母对女婿非常喜欢，连自己最心爱的东西都舍得（给他）。  
+1. 【[丈母见女婿，拿刀杀母鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_jin_ny.md#丈母见女婿，拿刀杀母鸡)】`chan6 mu jin5 ny3 xy na2 do1 shaeh7 mu3 ji` <small>/t͡sʰɑŋ1 mɤɯ t͡ɕĩ5 ny3 ɕy nɑ2 tɔ1 ɕiæʔ7 mɤɯ3 t͡ɕʝ/<sup>泰兴</sup></small> 乡谚。谓岳母对女婿非常喜欢，连自己最心爱的东西都舍得（给他）。<sup>\[泰兴\]</sup>  
 1. 【[丈母娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian.md#丈母娘)】`chan6 mu nian2` <sup>[泰州]</sup> 岳母。  
 1. 【[丈母娘看女婿——越看越欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mu_nian_kun.md#丈母娘看女婿——越看越欢喜)】`chan6 mu3 nian2 kun5 ny3 xy5 iuh8 kun5 iuh8 hun1 xi3` <sup>[东台]</sup>   
 1. 【[丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ren.md#丈人)】`chan6 ren` <small>/t͡sʰɑŋ1 ɻəŋ/<sup>泰兴</sup></small> 妻子的父亲；岳父。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[东台：也称丈人佬儿\]  
@@ -1102,7 +1101,7 @@
 1. 【[彻趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tan.md#彻趟)】`chih7 tan5` <sup>[如东]</sup> 利索彻底：这个问题处理得～。  
 1. 【[慑惧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_jy.md#慑惧)】`chih7 jy5` <sup>[如皋]</sup> 敬畏、害怕：他～你，见到你就躲。  
 1. 【[撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih.md#撤)】`chih7` <sup>[兴化]</sup> ① 搬开：把堂屋里桌椅～掉。｜把桌上剩菜～掉。 ② 清除液体中沉淀物：～缸脚子｜～油脚子。  
-1. 【[撤撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih.md#撤撤)】`chih7 chih7` <sup>[泰兴]</sup> 簸箕  
+1. 【[撤撤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih.md#撤撤)】`chih7 chih7` <small>/t͡ɕʰiʔ7 t͡ɕʰiʔ7/<sup>泰兴</sup></small> 簸箕<sup>\[泰兴\]</sup>  
 1. 【[撤撤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_chih_r.md#撤撤<sub>儿</sub>)】`chih7 chih7-3 r` <sup>[如皋]</sup> 较浅的一类𡊄箕。  
 1. 【[撤盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_pun_zz.md#撤盘子)】`chih7 pun2 zz` <sup>[如东]</sup> 把菜盘、菜碗从酒桌上拿走，表示酒席结束。  
 1. 【[撤跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chih_tio.md#撤跳)】`chih7 tio5` <sup>[兴化]</sup> 搬开搭在岸上的跳板：汽笛一响，水手连忙解缆，～开船。  
@@ -2273,7 +2272,7 @@
 1. 【[存账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#存账)】`cuen2 zhan5` <sup>[如东]</sup> 把资金存人账户。  
 1. 【[寸骨寸伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_gueh_cuen_shan.md#寸骨寸伤)】`cuen5 gueh7 cuen5 shan1` <small>/t͡sʰuən5 kuəʔ7 t͡sʰuən5 saŋ1/<sup>兴化</sup></small> ① 伤筋断骨。<sup>\[如东\]</sup>：何必动手，打得～的。<sup>\[如东\]</sup> ② 形容遍体鳞伤<sup>\[兴化\]</sup>：那两旁边妇人一齐答应，一齐乱打，打得二人～。（《八窍珠》九）<sup>\[兴化\]</sup>  
 1. 【[寸金糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_jien_tan.md#寸金糖)】`cuen5 jien1 tan2` <small>/t͡sʰuən5 t͡ɕin1 tʰaŋ2/<sup>兴化</sup>, /t͡sʰuəŋ5 t͡ɕiəŋ1 tʰã2/<sup>如皋</sup></small> ① 用糖稀做成的糖棍。其内包桂花糖、芝麻屑儿，外裹芝麻，色泽金黄，长约寸许。<sup>\[如皋\]</sup> ② 一种糖果，寸把长，外滚芝麻。<sup>\[东台\]</sup> ③ 由饴糖做成的小棍，内包砂糖、芝麻屑等，外沾艺麻，长寸许，酥甜可口。<sup>\[兴化\]</sup>  
-1. 【[寸麦吃尺水，尺麦怕寸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_moh_qieh_cheh.md#寸麦吃尺水，尺麦怕寸水)】`cuen5 moh8 qieh7 cheh7 shuei3 cheh7 moh8 pa5 cuen5 shuei3` <sup>[泰兴]</sup> 农谚。谓麦苗小的时候不怕潮湿，一尺多高的时候怕受涝渍。  
+1. 【[寸麦吃尺水，尺麦怕寸水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_moh_qieh_cheh.md#寸麦吃尺水，尺麦怕寸水)】`cuen5 moh8 qieh7 cheh7 shuei3 cheh7 moh8 pa5 cuen5 shuei3` <small>/t͡sʰuəŋ5 mɔʔ8 t͡ɕʰiəʔ7 t͡sʰəʔ7 suəɪ3 t͡sʰəʔ7 mɔʔ8 pʰɑ5 t͡sʰuəŋ5 suəɪ3/<sup>泰兴</sup></small> 农谚。谓麦苗小的时候不怕潮湿，一尺多高的时候怕受涝渍。<sup>\[泰兴\]</sup>  
 1. 【[𧺘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#𧺘)】`cuen5` <small>/t͡sʰuən5/<sup>兴化</sup>, /t͡sʰuəŋ5/<sup>如皋</sup>, /t͡ɕʰyəŋ5/<sup>泰县</sup></small> ① 作动词，表探摸、探步<sup>\[如皋\]</sup>：肚子肚里～到一个硬块<sup>\[如皋\]</sup>｜他走路～吖～的。<sup>\[如皋\]</sup> ② 探索、探测<sup>\[兴化\]</sup>：（黑夜里）皮五辣子～着步子往前走，两手平起来向前摸着……（《皮五辣子》二）<sup>\[兴化\]</sup>｜拿篙子～～前边有多深。<sup>\[兴化\]</sup>｜～鸡屁股，看多晚能生蛋。<sup>\[兴化\]</sup> ③ 轻手轻脚地<sup>\[兴化\]</sup>：（吴大郎）不敢惊动他，轻松地脱了衣服，吹熄了灯，～（衬）进被窝里来。（《初刻》二）<sup>\[兴化\]</sup> ④ 小心慢走、边走边试探。东台词典作“夋”，《说文·夂部》：“夋，行夋夋也，一曰倨也。从夂，允声。七伦切。”反切不合。<sup>\[东台\]</sup>：前头一段路不平，请你小心点儿，～吖脚走。<sup>\[东台\]</sup> ⑤ 试探<sup>\[泰县\]</sup>：用脚～～。<sup>\[泰县\]</sup> ⑥ 试探着（行动）<sup>\[泰州\]</sup>：（吴大郎）轻轻的脱了衣服，吹息了灯，衬进被窝里来，滴珠叹了一口气，缩做一团。（《拍案惊奇》）<sup>\[泰州\]</sup>｜你弄根树枝儿慢慢～进去，望吖这个洞里哿有螃蟹？<sup>\[泰州\]</sup>｜“皮五辣子寸着步子往前走，两手平起来向前摸着，嘴里叽咕着：‘伸手不见掌，听到鬼抓痒。怎么这么黑的？’……”（《皮五辣子》）<sup>\[泰州\]</sup>｜天太黑咖唻，你下台阶时脚底下要～住点儿走！<sup>\[泰州\]</sup>  
 1. 【[撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh.md#撮)】`cuh7` <small>/t͡sʰuʔ7/<sup>兴化</sup></small> ① 举，托。<sup>\[如东\]</sup>：你把米箩～上肩。<sup>\[如东\]</sup> ② 用力向上猛一托<sup>\[东台\]</sup>：帮我把这一箩稻子～上肩。<sup>\[东台\]</sup> ③ 用手或工具将细碎的东西聚拢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：把场上小麦～起来。<sup>\[兴化\]</sup>｜原来那里两扇石门被火气化成灰烬，门里边有几个小妖，正然扫地撮灰。（《西游记》）<sup>\[泰州\]</sup>｜（女子）在那枯树下～黄叶、摘枯枝为薪。（《东度记》）<sup>\[泰州\]</sup>｜（春梅）走到前边，～了一筐草，到印子舖门首叫门。（《金瓶梅词话》）<sup>\[泰州\]</sup>｜你去拿个畚斗儿把地下的灰～掉。<sup>\[泰州\]</sup> ④ 量词<sup>\[兴化\]</sup>：一～子芝麻<sup>\[兴化\]</sup>｜一～盐。<sup>\[兴化\]</sup> ⑤ 帮人把重物搭上肩<sup>\[兴化\]</sup>：～笆斗<sup>\[兴化\]</sup>｜一～就上肩。<sup>\[兴化\]</sup> ⑥ 一人或者多人用力以手托起人或物<sup>\[泰州\]</sup>：曹操得命，西北而走，至江岸，众人撮曹公上马。（《三国志平话》）<sup>\[泰州\]</sup>｜哥哥，不消商量，我们到那没梆铃，不防卫处，撮着师父爬过墙去罢。（《西游记》）<sup>\[泰州\]</sup>｜这袋米有一百多斤，你帮他～上肩，把它扛家去！<sup>\[泰州\]</sup>  
 1. 【[撮撮忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuh_cuh_man.md#撮撮忙)】`cuh7 cuh7 man2` <small>/t͡sʰʊʔ7 t͡sʰʊʔ7 mɑŋ2/<sup>泰兴</sup></small> 帮帮忙。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：我忙不过来，请你～。<sup>\[如东\]</sup>｜你活技多，我来～。<sup>\[东台\]</sup>  
