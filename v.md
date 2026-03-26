@@ -598,8 +598,7 @@
 1. 【[捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#捾子)】`vaen3 zz` <small>/uɛ̃3 t͡sɿ/<sup>兴化</sup>, /ʋẽ3 t͡sɿ/<sup>如皋</sup>, /ʋɛ̃3 t͡sɿ/<sup>泰兴</sup>, /ʋɛ̃3 t͡se/<sup>泰县</sup></small> ① 有短竖柄的大号舀器，柄端朝内<sup>\[如皋\]</sup>：水～。<sup>\[如皋\]</sup> ② 一种小型笆斗。<sup>\[如东\]</sup> ③ 旧时农村舀水的木质器具，比面盆略小，有手柄。<sup>\[东台\]</sup> ④ 柳斗。兴化词典作“䩩”，《广韵·阮韵》於阮切：～量物之一也。\[兴化：二斗～\] ⑤ 木制水舀。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[晚辈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bei.md#晚辈)】`vaen3 bei5` <sup>[如东]</sup> 在血缘或宗族关系上属于下一辈分的人，称晚辈。  
 1. 【[晚半上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_shan.md#晚半上)】`vaen3 bun5 shan` <small>/ʋẽ3 pʊ̃5 sã/<sup>如皋</sup>, /ʋɛ̃3 pʊ̃5 sɑŋ/<sup>泰兴</sup></small> ① 黄昏时分。<sup>\[如皋\]</sup> ② 晚上，晚间。<sup>\[泰兴\]</sup>  
-1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <sup>[兴化]</sup> 临近黄昏的一段时间：你～来，他一定在家里。｜“相公来得不巧，我们太爷出门去了，要到～回来。”（《续小五义》四八）  
-1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <small>/ʋɛ̃3 pʊ̃5 tʰĩ1/<sup>泰兴</sup></small> 晚上；下午。<sup>\[泰兴\]</sup>  
+1. 【[晚半天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_bun_tin.md#晚半天)】`vaen3 bun5 tin1` <small>/uɛ̃3 pũ5 tʰiɪ̃1/<sup>兴化</sup>, /ʋɛ̃3 pʊ̃5 tʰĩ1/<sup>泰兴</sup></small> ① 临近黄昏的一段时间：你～来，他一定在家里。｜“相公来得不巧，我们太爷出门去了，要到～回来。”（《续小五义》四八）<sup>\[兴化\]</sup> ② 晚上；下午。<sup>\[泰兴\]</sup>  
 1. 【[晚茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha.md#晚茶)】`vaen3 cha2` <small>/uɛ̃3 t͡sʰa2/<sup>兴化</sup>, /ʋẽ3 t͡sʰa2/<sup>如皋</sup>, /ʋɛ̃3 t͡sʰɑ2/<sup>泰兴</sup></small> ① 下午的加餐，一指下午卖的点心。<sup>\[如皋\]</sup> ② 下午进茶馆饮茶，可进加餐点心。<sup>\[如皋\]</sup> ③ 下午加餐，称晚茶。<sup>\[如东\]</sup> ④ 午餐和晚餐之间的便餐：农忙时下田的人都要吃一。城里人也说“中茶”。<sup>\[兴化\]</sup> ⑤ 指中、晚饭之间的一顿小餐。多在夏日昼长夜短期间。<sup>\[泰兴\]</sup>  
 1. 【[晚茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha_shr_heu.md#晚茶时候)】`vaen3 cha2 shr2 heu` <sup>[如皋]</sup> 下午茶时分。  
 1. 【[晚茶时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_cha_shr_heu.md#晚茶时候)】`vaen3 cha2 shr2 heu6` <sup>[如皋]</sup> 向晚。  
@@ -619,8 +618,7 @@
 1. 【[晚秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_qieu.md#晚秋)】`vaen3 qieu1` <sup>[如东]</sup> 秋季的最后一个月，称晚秋：～作物。  
 1. 【[晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shan.md#晚上)】`vaen3 shan` ① 太阳落山以后的一段时间。<sup>\[如东\]</sup> ② 晚上，日落后，夜里<sup>\[泰州\]</sup>：～早点过来吃夜饭。<sup>\[泰州\]</sup>  
 1. 【[晚上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shan.md#晚上)】`vaen3 shan6` 夜晚  
-1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <sup>[如皋]</sup> 下午或晚上的营业。  
-1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <small>/ʋɛ̃3 sɿ1/<sup>泰兴</sup></small> 傍晚或晚间的集市。<sup>\[泰兴\]</sup>  
+1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <small>/ʋẽ3 sɿ1/<sup>如皋</sup>, /ʋɛ̃3 sɿ1/<sup>泰兴</sup></small> ① 下午或晚上的营业。<sup>\[如皋\]</sup> ② 傍晚或晚间的集市。<sup>\[泰兴\]</sup>  
 1. 【[晚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xien.md#晚心)】`vaen3 xien1` 晚上  
 1. 【[晚𫽐太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xio_tae_ian.md#晚𫽐太阳)】`vaen3 xio tae5 ian` <small>/ʋɛ̃3 ɕiɔ tʰɛ5 iɑŋ/<sup>泰兴</sup></small> 谓白天阴或雨，傍晚天晴朗日。<sup>\[泰兴\]</sup>  
 1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <small>/ʋɛ̃3 t͡sɔ1/<sup>泰兴</sup></small> 晚上；傍晚，或黄昏时分。同“下晚”。<sup>\[泰兴\]</sup>  
@@ -832,8 +830,7 @@
 1. 【[望起爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qi_pa.md#望起爬)】`van6 qi pa2` <sup>[如皋]</sup> 由卧、伏、坐、跪等开始爬起来。  
 1. 【[望前抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_qin_cho.md#望前抄)】`van6 qin2 cho1` <sup>[如皋]</sup> 向前翘起：他的下齿包上齿，下巴～。  
 1. 【[望上抄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shan_cho.md#望上抄)】`van6 shan6 cho1` <sup>[如皋]</sup> 向上翘起：他的帽叶子～。  
-1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <sup>[如东]</sup> 希望：这趟生意可能有～。  
-1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <sup>[兴化]</sup> 指望、盼头：她儿子考上大学，往后日子有～啊。  
+1. 【[望头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_teu.md#望头)】`van6 teu` <small>/uaŋ6 tʰɤ/<sup>兴化</sup></small> ① 希望。<sup>\[如东\]</sup>：这趟生意可能有～。<sup>\[如东\]</sup> ② 指望、盼头<sup>\[兴化\]</sup>：她儿子考上大学，往后日子有～啊。<sup>\[兴化\]</sup>  
 1. 【[望天收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_tin_sheu.md#望天收)】`van6 tin1 sheu1` ① 种田人只种不管，收多收少，全由老天爷做主。<sup>\[东台\]</sup> ② 播种以后不进行任何田间管理，如果风调雨顺，收成就会好些，否则就不太好乃至绝收<sup>\[泰州\]</sup>：哿有一家像你种田不追肥、不薅草的，全靠～，秋后怎吖得有个好收成？<sup>\[泰州\]</sup>  
 1. 【[望外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_vae.md#望外)】`van6 vae6` <sup>[如皋]</sup> 以外：他有三十岁开外。  
 1. 【[望想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_xian.md#望想)】`van6 xian3` <sup>[兴化]</sup> 指望：等到今朝没通知来，录取怕没得～吖。  
@@ -841,8 +838,7 @@
 1. 【[望朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zho.md#望朝)】`van6 zho1` <sup>[兴化]</sup> 农村婚俗：在蜜月中，女方亲属择吉日去男家看望新娘。  
 1. 【[望子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zz.md#望子)】`van6 zz` <sup>[东台]</sup> 幌子，店铺门口悬挂的标志，在远处就能看见：酒～；豆腐～。  
 1. 【[𥭚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_baen.md#𥭚板)】`van6 baen3` <sup>[东台]</sup> 铺在椽子上的木板。  
-1. 【[𥭚箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#𥭚箔)】`van6 pah8` <sup>[兴化]</sup> 铺在椽子上的芦帘或竹席，上面铺油毡盖瓦。  
-1. 【[𥭚箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#𥭚箔)】`van6 pah8` 建筑草屋用的材料之一，一种用芦苇秆和草绳编成的加宽帘子，建草房时覆盖在椽子上以承受麦草。<sup>\[泰州\]</sup>  
+1. 【[𥭚箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_pah.md#𥭚箔)】`van6 pah8` <small>/uaŋ6 pʰaʔ8/<sup>兴化</sup></small> ① 铺在椽子上的芦帘或竹席，上面铺油毡盖瓦。<sup>\[兴化\]</sup> ② 建筑草屋用的材料之一，一种用芦苇秆和草绳编成的加宽帘子，建草房时覆盖在椽子上以承受麦草。<sup>\[泰州\]</sup>  
 1. 【[𥭚障](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zhan.md#𥭚障)】`van6 zhan5` <small>/ʋã1 t͡sã5/<sup>如皋</sup></small> ① 用芦柴茎编成的板状物，作建材。<sup>\[如皋\]</sup> ② 芦柴、岸草等编成的板状物，可用于造草屋顶、墙，作卧具等。<sup>\[如皋\]</sup> ③ 铺在椽子上的障笆。多用芦柴编成。<sup>\[东台\]</sup>  
 1. 【[𥭚障泥灰墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zhan_ni_huei.md#𥭚障泥灰墙)】`van6 zhan5 ni2 huei1 qian2` <sup>[如皋]</sup> 长江边上常用的，一种以𥭚障为骨抹泥而成的墙壁  
 1. 【[𥭚砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_zhun.md#𥭚砖)】`van6 zhun1` <small>/uaŋ6 t͡sũ1/<sup>兴化</sup>, /ʋã1 t͡sʊ̃1/<sup>如皋</sup></small> ① 屋顶上铺设的以承瓦的扁砖。<sup>\[如皋\]</sup> ② 搁在屋顶木椽上铺瓦的长方形薄砖。<sup>\[如东\]</sup> ③ 铺在椽子上的薄砖。用以承受瓦片，阻挡瓦楞中漏下的雨水和防止通风落尘，并使室内的顶面外观平整。<sup>\[东台\]</sup> ④ 铺在椽子上面的薄砖片，其上盖瓦。<sup>\[兴化\]</sup> ⑤ 建筑瓦屋用的材料之一，一种薄砖，平铺在椽子上以承受瓦片，阻挡瓦楞漏下雨水，防止透风落尘。<sup>\[泰州\]</sup>  

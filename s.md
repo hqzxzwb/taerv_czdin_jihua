@@ -305,8 +305,7 @@
 1. 【[散神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shen.md#散神)】`saen3 shen2` <sup>[兴化]</sup> ① 精神不集中：开车的时候千万不能～。 ② 神经兴奋，不能抑制：晚上看电视看吖～，好长时间睏不着觉。  
 1. 【[散手散脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_sheu_saen_jiah.md#散手散脚)】`saen3 sheu3 saen3 jiah7` <small>/sɛ̃3 sɤ3 sɛ̃3 t͡ɕiaʔ7/<sup>兴化</sup>, /sɛ̃3 sɤɯ3 sɛ̃3 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 摆脱了羁绊：伢儿由二老带啊走，我俫可以～的工作、学习咖。<sup>\[兴化\]</sup> ② 无牵挂，活动自由。<sup>\[泰县\]</sup>  
 1. 【[散松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son.md#散松)】`saen3 son` <sup>[如皋]</sup> 松爽，互不粘黏：头发～｜馒头吃口～。  
-1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <sup>[兴化]</sup> ① 物体干燥松软：稻草晒得～的。｜头发吹得～的。 ② 物体结构松散：晴雯先将里子拆开……再将破口四边用金刀刮的～的……（《红楼梦》五二）  
-1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <small>/ɕiɛ̃3 sɔŋ1 sɔŋ1/<sup>泰兴</sup></small> 疏松，不紧密。<sup>\[泰兴\]</sup>  
+1. 【[散松松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_son_son.md#散松松)】`saen3 son1 son1` <small>/sɛ̃3 soŋ1 soŋ1/<sup>兴化</sup>, /ɕiɛ̃3 sɔŋ1 sɔŋ1/<sup>泰兴</sup></small> ① 物体干燥松软：稻草晒得～的。｜头发吹得～的。<sup>\[兴化\]</sup> ② 物体结构松散：晴雯先将里子拆开……再将破口四边用金刀刮的～的……（《红楼梦》五二）<sup>\[兴化\]</sup> ③ 疏松，不紧密。<sup>\[泰兴\]</sup>  
 1. 【[散黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_van.md#散黄)】`saen3 van2` <small>/ɕiɛ̃3 uɑŋ2/<sup>泰兴</sup></small> 谓蛋中的黄已散开，蛋已变质。<sup>\[泰兴\]</sup>  
 1. 【[馓䌁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_io_r.md#馓䌁<sub>儿</sub>)】`saen3 io5 r` <sup>[东台]</sup> 即馓子，因像草䌁故名。  
 1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_zz.md#馓子)】`saen3 zz` 一种面制食品，小麦面粉做成条状，拉长拉细扭成环形栅状，油锅炸熟，可以直接食用，也可以用汤泡食。民俗，妇女生养后坐月子期间，亲友看望产妇，馓子乃是必送礼物之一。<sup>\[泰州\]</sup>  
@@ -317,8 +316,7 @@
 1. 【[散吖板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_nga_baen.md#散吖板)】`saen5 nga baen3` <sup>[泰州]</sup> ① 一个完整物体遭到外力破坏碎成多个：脚踏车捱他拆咖～，铺啊一地。 ② 比喻一个集体解散：他家两个老的一走，原来蛮好的个家就～。 ③ 比喻事情处于极其糟糕、不可收拾的状态：这件事捱他弄吖～，你又有甚的办法。  
 1. 【[散席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散席)】`saen5 qieh8` <sup>[如东]</sup> 结束酒筵。  
 1. 【[散集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_qieh.md#散集)】`saen5 qieh8` <sup>[兴化]</sup> 农村集日的中午前后，赶集的农民和商贾陆续离开市场。  
-1. 【[散散心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_xien.md#散散心)】`saen5 saen5 xien1` <sup>[泰州]</sup> 使心情放松，派遣郁闷：你个人在家也无聊，不如旅游出去～。  
-1. 【[散散心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_xien.md#散散心)】`saen5 saen5 xien1` <small>/ɕiɛ̃5 ɕiɛ̃5 ɕiŋ1/<sup>泰兴</sup></small> 解闷，使心情舒畅。<sup>\[泰兴\]</sup>  
+1. 【[散散心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_saen_xien.md#散散心)】`saen5 saen5 xien1` <small>/ɕiɛ̃5 ɕiɛ̃5 ɕiŋ1/<sup>泰兴</sup></small> ① 使心情放松，派遣郁闷<sup>\[泰州\]</sup>：你个人在家也无聊，不如旅游出去～。<sup>\[泰州\]</sup> ② 解闷，使心情舒畅。<sup>\[泰兴\]</sup>  
 1. 【[散时不到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_shr_beh_do.md#散时不到)】`saen5 shr2 beh7 do5` <sup>[泰县]</sup> 偶尔。  
 1. 【[散暗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_un_r.md#散暗<sub>儿</sub>)】`saen5 un5 r` <sup>[东台]</sup> 傍晚。  
 1. 【[散喜茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_xi_cha.md#散喜茶)】`saen5 xi3 cha2` <sup>[东台]</sup> （民俗）老人整寿诞或儿女婚庆，给亲友邻居送寿桃替头或糖果茶点。  
@@ -1897,8 +1895,7 @@
 1. 【[烧腊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh.md#烧腊)】`sho1 laeh` <small>/sɔ1 læʔ/<sup>泰兴</sup></small> 卤菜。<sup>\[泰兴\]</sup>  
 1. 【[烧腊肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh_roh.md#烧腊肉)】`sho1 laeh8 roh8` <small>/sɔ1 leʔ8 ɻɔʔ8/<sup>如皋</sup></small> ① 用老汁煮的猪头肉等。<sup>\[如皋\]</sup> ② “腊肉”本指冬天腌制后风干的肉。本地泛指零碎切卖的熟猪头肉、酱肉、口条、猪耳等。也称“烧腊子”。<sup>\[东台\]</sup> ③ 省作“烧腊”，以猪肉为食材加配方作料而红烧成的腌制、卤制食品。<sup>\[泰州\]</sup>  
 1. 【[烧腊摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_laeh_taen_r.md#烧腊摊<sub>儿</sub>)】`sho1 laeh8 taen1 r` <sup>[如皋]</sup> 煮、售猪头肉等的摊儿。  
-1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <sup>[如东]</sup> 商店开业时举行的祭祀活动，称烧利市。表示大吉大利。给鬼神烧香祭祀。给当权人物送礼。  
-1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <small>/sɔ1 lʝ1 sɿ1/<sup>泰兴</sup></small> 旧时商店开张，迷信者烧纸祭神，以求吉利或感谢神的保佑，称为“烧利市”。<sup>\[泰兴\]</sup>  
+1. 【[烧利市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_li_shr.md#烧利市)】`sho1 li6 shr6` <small>/sɔ1 lʝ1 sɿ1/<sup>泰兴</sup></small> ① 商店开业时举行的祭祀活动，称烧利市。表示大吉大利。给鬼神烧香祭祀。给当权人物送礼。<sup>\[如东\]</sup> ② 旧时商店开张，迷信者烧纸祭神，以求吉利或感谢神的保佑，称为“烧利市”。<sup>\[泰兴\]</sup>  
 1. 【[烧萝卜烫嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lu_poh_tan.md#烧萝卜烫嘴)】`sho1 lu2 poh tan5 zuei3` <small>/sɔ1 lɤɯ2 pʰɔʔ tʰɑŋ5 t͡suəɪ3/<sup>泰兴</sup></small> 喻语言表达速度极快；抢话说。<sup>\[泰兴\]</sup>  
 1. 【[烧卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mae.md#烧卖)】`sho1 mae6` <small>/sɔ1 mɛ1/<sup>泰兴</sup></small> ① 是一种以烫面为皮，裹馅上笼蒸熟的小吃。顶端蓬松束折如花。北方叫烧麦。见“抓抓儿”。<sup>\[东台\]</sup> ② 一种点心，以不发酵的小麦粉制成薄皮，以煮熟的糯米做馅，包成包子形状，顶端收口如花，上笼蒸熟即可。<sup>\[泰州\]</sup> ③ 食品名。用不发酵的面粉制成很薄的皮，包馅，顶上捏成皱儿，蒸熟即食。<sup>\[泰兴\]</sup>  
 1. 【[烧冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_mien_sheu.md#烧冥寿)】`sho1 mien2 sheu6` <sup>[如东]</sup> 每逢死者的生日举行纪念活动，叫做烧冥寿。  
@@ -2848,10 +2845,8 @@
 1. 【[梳梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_lian.md#梳梁)】`shv1 lian2` <sup>[如东]</sup> 在排五柱中间的横梁。  
 1. 【[梳头妈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_teu_ma_zz.md#梳头妈子)】`shv1 teu2 ma1 zz` <sup>[兴化]</sup> 旧时，以给富婆和老、病、残妇女梳头为业的女性。  
 1. 【[梳桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuah.md#梳桌)】`shv1 zhuah7` <small>/su1 t͡suaʔ7/<sup>兴化</sup>, /su1 t͡suaʔ7/<sup>如皋</sup></small> ① 旧时房间内的长桌，供梳妆用。<sup>\[如皋\]</sup> ② 梳妆用的长条桌，有抽屉。<sup>\[兴化\]</sup> ③ 妇女化妆用的桌子，上面有梳子、镜子、粉盒、胭脂盒等化妆用品。<sup>\[泰州\]</sup>  
-1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <sup>[如东]</sup> 一种小型木盒，外边饰有花纹，十分精致。搁在梳妆台上，放置化妆品。  
-1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <small>/su1 t͡suɑŋ1 xʊʔ8/<sup>泰兴</sup></small> 旧时妇女装梳妆用品的小盒。<sup>\[泰兴\]</sup>  
-1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <sup>[如东]</sup> 放置梳妆用品的桌子，一般长方形，有的上面设有镜、盒等装置。  
-1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <small>/su1 t͡suɑŋ1 tʰɛ2/<sup>泰兴</sup></small> 旧时妇女梳妆时用的桌子。<sup>\[泰兴\]</sup>  
+1. 【[梳妆盒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_huh.md#梳妆盒)】`shv1 zhuan1 huh8` <small>/su1 t͡suɑŋ1 xʊʔ8/<sup>泰兴</sup></small> ① 一种小型木盒，外边饰有花纹，十分精致。搁在梳妆台上，放置化妆品。<sup>\[如东\]</sup> ② 旧时妇女装梳妆用品的小盒。<sup>\[泰兴\]</sup>  
+1. 【[梳妆台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zhuan_tae.md#梳妆台)】`shv1 zhuan1 tae2` <small>/su1 t͡suɑŋ1 tʰɛ2/<sup>泰兴</sup></small> ① 放置梳妆用品的桌子，一般长方形，有的上面设有镜、盒等装置。<sup>\[如东\]</sup> ② 旧时妇女梳妆时用的桌子。<sup>\[泰兴\]</sup>  
 1. 【[梳子板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_baen.md#梳子板)】`shv1 zz baen3` <sup>[如东]</sup> 帆船船底板下面的一块梳子形的木板。  
 1. 【[梳子肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_zz_roh.md#梳子肉)】`shv1 zz roh8` <small>/su1 t͡sɿ ɻɔʔ8/<sup>如皋</sup></small> ① 跑油肉。<sup>\[如皋\]</sup> ② 炮油肉。<sup>\[如皋\]</sup> ③ 见“跑油肉”。<sup>\[如皋\]</sup>  
 1. 【[舒趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_qy.md#舒趣)】`shv1 qy` <sup>[兴化]</sup> 舒服、偷快：今朝老友聚会谈天，心里蛮～的。  
@@ -3117,13 +3112,11 @@
 1. 【[梭床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_chuan.md#梭床)】`su1 chuan2` <sup>[如皋]</sup> 织布机上让梭子来去滑动的木槽。  
 1. 【[梭钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_qin.md#梭钱)】`su1 qin2` <sup>[兴化]</sup> 旧时的一种儿童游戏：一块整砖支起一斜坡，参与者高举铜板向砖面落下，滚在前的砸后边的，砸到为赢。  
 1. 【[梭梭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_su_r.md#梭梭<sub>儿</sub>)】`su1 su1 r` <sup>[东台]</sup> 旧时儿童玩的一种滚铁环的游戏。  
-1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <sup>[如皋]</sup> 手工结网的器具。  
-1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <small>/sɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 织布用的梭。<sup>\[泰兴\]</sup>  
+1. 【[梭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz.md#梭子)】`su1 zz` <small>/sʊ1 t͡sɿ/<sup>如皋</sup>, /sɤɯ1 t͡sɿ/<sup>泰兴</sup></small> ① 手工结网的器具。<sup>\[如皋\]</sup> ② 织布用的梭。<sup>\[泰兴\]</sup>  
 1. 【[梭子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_hae.md#梭子蟹)】`su1 zz hae3` ① 蝤蛑科动物三疣梭子蟹，也叫尖子蟹、蓝蟹。头胸甲长约8厘米。全体被坚硬的甲壳。头胸甲呈梭形稍隆起表面有3个显著的疣状突起，个在胃区，2个在心区。两前侧缘各具9个锯齿，第9锯齿特别长大，向左右伸延。额缘具4枚小齿。额部两侧有1对能转动的带柄复眼。雄蟹背面茶绿色，雌蟹紫色，腹面均为灰白色。胸足5对，第1对为强大的螯足长节呈棱柱开拓，内缘具钝齿；第2-4对，长而扁圆，末端爪状，适于爬行；最后1对末节扇平而宽薄如桨，适于游泳。腹部（俗称蟹脐）扁平，雄者呈三角形，雌者呈圆形。无尾节及尾肢，腹肢退化，藏于腹内侧，雌者4对，雄者2对。生活在近海水域。<sup>\[如东\]</sup> ② 一种海蟹。<sup>\[东台\]</sup>  
 1. 【[梭子里没有线——空来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_lii_meh.md#梭子里没有线——空来往)】`su1 zz lii meh8 ieu3 xin5 kon1 lae2 van3` <sup>[东台]</sup>   
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1, su2` <sup>[如皋]</sup> 偷视、闪视：贼眼只～。又有斜视、目不正视等义。  
-1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <sup>[东台]</sup> 斜着眼睛看：拿眼睛一～，发现他啊躲在角落里。  
-1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <small>/sɤɯ1/<sup>泰兴</sup></small> 看；望。<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
+1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <small>/sɤɯ1/<sup>泰兴</sup></small> ① 斜着眼睛看<sup>\[东台\]</sup>：拿眼睛一～，发现他啊躲在角落里。<sup>\[东台\]</sup> ② 看；望。<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
 1. 【[蓑衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i.md#蓑衣)】`su1 i1` ① 一种雨具。用关草或棕丝编织而成，穿或披在身上可以挡雨。也叫下苫。<sup>\[如东\]</sup> ② 用龙须草制成的披在身上的避雨用具。<sup>\[东台\]</sup>  
 1. 【[蓑衣虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon.md#蓑衣虫)】`su1 i1 chon2` <small>/so1 i1 t͡sʰoŋ2/<sup>兴化</sup></small> ① 蛷螋。《说文·虫部》：“蛷，多足虫也。”《广雅疏证》卷十下，王念孙注：“……今扬州人谓之～……长可盈寸，行于壁上，往来甚捷。”<sup>\[兴化\]</sup> ② 蛷螋，一种昆虫，身多线状细足，似披蓑衣，故名。<sup>\[泰州\]</sup>  
 1. 【[蓑衣虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon_r.md#蓑衣虫<sub>儿</sub>)】`su1 i1 chon2 r` <sup>[如皋]</sup> 花蚰蜒。  
@@ -3172,8 +3165,7 @@
 1. 【[糂饭/酸饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_faen.md#糂饭/酸饭)】`sun1 faen6` 用青菜或茼蒿之类蔬菜与米和在一起煮成的饭。<sup>\[泰州\]</sup>  
 1. 【[糂面/酸面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_min.md#糂面/酸面)】`sun1 min6` 用青菜或者茼蒿之类蔬菜与面条混煮成的食物。<sup>\[泰州\]</sup>  
 1. 【[糂粥/酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh.md#糂粥/酸粥)】`sun1 zhoh7` 用青菜或茼蒿之类蔬菜与米和在一起煮成的粥。<sup>\[泰州\]</sup>  
-1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> 肌肉隐隐胀痛的感觉：上吖一趟泰山，腿子都爬啊～吖。  
-1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` <sup>[泰州]</sup> ① 产生嫉妒的情绪：你一同她开玩笑，老王又要～唻。 ② 人之话语阴阳怪气：他说话太～，单位上没得一个人同他啰唆。  
+1. 【[酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#酸)】`sun1` ① 肌肉隐隐胀痛的感觉<sup>\[泰州\]</sup>：上吖一趟泰山，腿子都爬啊～吖。<sup>\[泰州\]</sup> ② 产生嫉妒的情绪<sup>\[泰州\]</sup>：你一同她开玩笑，老王又要～唻。<sup>\[泰州\]</sup> ③ 人之话语阴阳怪气<sup>\[泰州\]</sup>：他说话太～，单位上没得一个人同他啰唆。<sup>\[泰州\]</sup>  
 1. 【[酸巴拉西的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_xi.md#酸巴拉西的)】`sun1 ba la1 xi1 dii` <sup>[如皋]</sup> 有酸味，不适口。  
 1. 【[酸巴拉哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_ha.md#酸巴拉哈)】`sun1 ba1 la1 ha` <sup>[如东]</sup> 一种酸味：豆腐～的，不好吃。  
 1. 【[酸巴拉兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ba_la_xi.md#酸巴拉兮)】`sun1 ba1 la1 xi` <sup>[如东]</sup> 有些酸味：这些米酒～的，不好喝。  
@@ -3241,14 +3233,12 @@
 1. 【[苏铁花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tih_hua.md#苏铁花)】`sv1 tih7 hua1` <sup>[如东]</sup> 苏铁科植物苏铁花。  
 1. 【[苏州青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_zheu_qien.md#苏州青)】`sv1 zheu1 qien1` <sup>[东台]</sup> 一种蔬菜，颜色较一般青菜略淡。明“洪武赶散”时传入东台南园，后改良为短茎、粗瓢、矮株、扁棵的小青菜。  
 1. 【[酥/𣩷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#酥/𣩷)】`sv1` <small>/su1/<sup>兴化</sup>, /su1/<sup>如皋</sup></small> ① 朽坏<sup>\[如皋\]</sup>：桌子脚～啊，一掐一块屑子。<sup>\[如皋\]</sup> ② 朽、烂<sup>\[兴化\]</sup>：这块砖头浸吖水里一冻全～啊。<sup>\[兴化\]</sup>｜这块木头已经烂吖泛～啊。<sup>\[兴化\]</sup> ③ 器物松软而不坚固<sup>\[泰州\]</sup>：岁数大啊唻，骨头发咖～，走路一跌就骨折。<sup>\[泰州\]</sup>｜这个房子年代久啊，砖头子都～啊，一碰就灰𠫓𠫓的。<sup>\[泰州\]</sup>  
-1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <sup>[如皋]</sup> 盘酵时加酥的面饼。  
-1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <small>/su1 piŋ3/<sup>泰兴</sup></small> 一种脆酥的烧饼。<sup>\[泰兴\]</sup>  
+1. 【[酥饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_bien.md#酥饼)】`sv1 bien3` <small>/su1 piəŋ3/<sup>如皋</sup>, /su1 piŋ3/<sup>泰兴</sup></small> ① 盘酵时加酥的面饼。<sup>\[如皋\]</sup> ② 一种脆酥的烧饼。<sup>\[泰兴\]</sup>  
 1. 【[酥儿饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_er_bien.md#酥儿饼)】`sv1 er bien3` <sup>[东台]</sup> 古镇富安特有的传统茶点。又名千层酥。每年正月半后至清明节前为生产佳期，过时便失其脆酥。以精制面粉为主料，辅之以洗赤豆沙、鲜肉、蔗糖等佐料，内包甜、咸两种馅料，油煎而成。它形似菊花，层层起酥，疏松香脆，油而不腻，常令食者回味无穷，堪称东台一绝。  
 1. 【[酥瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_gua.md#酥瓜)】`sv1 gua1` <sup>[兴化]</sup> 甜瓜的一种，果实长筒形，皮深绿色，瓠果肉甜多汁，可生食解渴。  
 1. 【[酥饺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jio.md#酥饺)】`sv1 jio3` <sup>[如皋]</sup> 一种茶食。饺皮擦油酥擀制。油炸。  
 1. 【[酥卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_jiun_r.md#酥卷<sub>儿</sub>)】`sv1 jiun3 r` <sup>[如皋]</sup> 酥脆的卷状茶食。  
-1. 【[酥手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheu_run_jiah.md#酥手软脚)】`sv1 sheu3 run3 jiah7` <small>/su1 ɕiɤɯ3 ɻʊ̃3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 谓肢体软弱无力。<sup>\[泰兴\]</sup>  
-1. 【[酥手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheu_run_jiah.md#酥手软脚)】`sv1 sheu3 run3 jiah7` <sup>[如东]</sup> 形容浑身没有力气：今朝我～的，甚的事情都不想做。  
+1. 【[酥手软脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_sheu_run_jiah.md#酥手软脚)】`sv1 sheu3 run3 jiah7` <small>/su1 ɕiɤɯ3 ɻʊ̃3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 谓肢体软弱无力。<sup>\[泰兴\]</sup> ② 形容浑身没有力气。<sup>\[如东\]</sup>：今朝我～的，甚的事情都不想做。<sup>\[如东\]</sup>  
 1. 【[酥糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_tan.md#酥糖)】`sv1 tan2` <sup>[如皋]</sup> 酥松可口的糖果，如花生酥、董糖。  
 1. 【[嗉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv.md#嗉)】`sv5` <sup>[东台]</sup> 鸟类食管下端盛食物的囊。  
 1. 【[塑料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sv_lio.md#塑料)】`sv5 lio6` <sup>[如东]</sup> 树脂等高分子化合物与配料混合，再经加热加压而形成的具有一定形状的材料。在常温下不再变形。种类很多，如电木、赛璐珞、聚氯乙烯等。一般有质轻、绝缘耐腐蚀耐磨等特点。广泛应用于飞机、车辆、船舶电机、机械、化学建筑等工业，也用来制造各种日用品。  

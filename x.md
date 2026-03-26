@@ -76,13 +76,11 @@
 1. 【[喜药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_iah.md#喜药)】`xi3 iah8` <small>/ɕi3 iaʔ8/<sup>兴化</sup>, /sɿ3 iɑʔ8/<sup>泰县</sup></small> ① 固胎药<sup>\[兴化\]</sup>：你家新妇没得病，弄一两帖～吃吃就好啊。<sup>\[兴化\]</sup> ② 妇女怀孕后吃的中药。<sup>\[泰县\]</sup>  
 1. 【[喜容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ion.md#喜容)】`xi3 ion2` <sup>[如皋]</sup> 家中用的标准像。  
 1. 【[喜容形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ion_xien.md#喜容形)】`xi3 ion2 xien2` <sup>[泰州]</sup> 人的容貌生就快乐讨喜的样子：他这个人天生的一副～，待人有热情，真的是适合去开个小店做生意。  
-1. 【[喜酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jieu.md#喜酒)】`xi3 jieu3` <sup>[如东]</sup> 因儿女婚事而举办的筵席。也称喜筵、婚筵。喜酒菜要有红枣（早生贵子）、莲子（连生贵子）、圆子（团团圆圆）、粽子（种子）、对子鱼（成双成对。头朝里摆放，不吃）。数量要双数（四冷四热，八碗八碟）。  
-1. 【[喜酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jieu.md#喜酒)】`xi3 jieu3` <small>/ɕʝ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 结婚时招待宾客的酒席。<sup>\[泰兴\]</sup>  
+1. 【[喜酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jieu.md#喜酒)】`xi3 jieu3` <small>/ɕʝ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 因儿女婚事而举办的筵席。也称喜筵、婚筵。喜酒菜要有红枣（早生贵子）、莲子（连生贵子）、圆子（团团圆圆）、粽子（种子）、对子鱼（成双成对。头朝里摆放，不吃）。数量要双数（四冷四热，八碗八碟）。<sup>\[如东\]</sup> ② 结婚时招待宾客的酒席。<sup>\[泰兴\]</sup>  
 1. 【[喜妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ma.md#喜妈)】`xi3 ma1` <sup>[兴化]</sup> 见“伴妈”。  
 1. 【[喜娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_nian.md#喜娘)】`xi3 nian2` <sup>[如皋]</sup> 旧称陪伴新娘的姑娘。  
 1. 【[喜棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pon.md#喜棚)】`xi3 pon2` 民间操办婚宴时搭的酒宴棚。  
-1. 【[喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah.md#喜鹊)】`xi3 qiah7` <sup>[如东]</sup> 鸦科动物喜鹊，也叫鸦鹊。民间有听见喜鹊叫将有喜事来临的传说，所以叫喜鹊。体长约45厘米。嘴尖，黑色。虹膜黑褐色。头、颈、背部中央、尾上覆羽均为黑色，腹部有一块灰白斑，肩羽洁白。尾长，黑色。下腹中央黑色余部洁白。脚及爪黑色。生活在庭院原野，多成对活动，叫声嘈杂，以昆虫为食。  
-1. 【[喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah.md#喜鹊)】`xi3 qiah7` <small>/ɕʝ3 t͡ɕʰiɑʔ7/<sup>泰兴</sup></small> 民间传说鹊能报喜，故称喜鹊。<sup>\[泰兴\]</sup>  
+1. 【[喜鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah.md#喜鹊)】`xi3 qiah7` <small>/ɕʝ3 t͡ɕʰiɑʔ7/<sup>泰兴</sup></small> ① 鸦科动物喜鹊，也叫鸦鹊。民间有听见喜鹊叫将有喜事来临的传说，所以叫喜鹊。体长约45厘米。嘴尖，黑色。虹膜黑褐色。头、颈、背部中央、尾上覆羽均为黑色，腹部有一块灰白斑，肩羽洁白。尾长，黑色。下腹中央黑色余部洁白。脚及爪黑色。生活在庭院原野，多成对活动，叫声嘈杂，以昆虫为食。<sup>\[如东\]</sup> ② 民间传说鹊能报喜，故称喜鹊。<sup>\[泰兴\]</sup>  
 1. 【[喜鹊斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_baen.md#喜鹊斑)】`xi3 qiah7 baen1` <sup>[如皋]</sup> 见“哑子砖”。  
 1. 【[喜鹊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_jio.md#喜鹊叫)】`xi3 qiah7 jio5` <sup>[如皋]</sup> ① 有人（客）到。 ② 遇喜事。  
 1. 【[喜鹊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_teu.md#喜鹊头)】`xi3 qiah7 teu2` <sup>[如皋]</sup> 婴儿胎发只有几大块，状若喜鹊。相传此兑多磨难。  
@@ -1114,8 +1112,7 @@
 1. 【[绣花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_hua.md#绣花)】`xieu5 hua1` <sup>[如东]</sup> 用彩线在绸缎、布等织物上绣制花纹。也称参花。  
 1. 【[绣花枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_hua_zhen_teu.md#绣花枕头)】`xieu5 hua1 zhen3 teu` <sup>[如皋]</sup> 喻外表好看，内在素质差，或指人。  
 1. 【[绣球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu.md#绣球)】`xieu5 qieu2` <sup>[如东]</sup> 用绸缎结成的球形装饰物。  
-1. 【[绣球风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球风)】`xieu5 qieu2 fon1` <sup>[兴化]</sup> 阴囊皮炎的俗称：他的肾囊上面生着许多顽癣……这个毛病叫做～。（《四杰传》二六）  
-1. 【[绣球风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球风)】`xieu5 qieu2 fon1` <sup>[泰州]</sup> 男性阴囊湿疹。  
+1. 【[绣球风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_fon.md#绣球风)】`xieu5 qieu2 fon1` <small>/ɕiɤ5 t͡ɕʰiɤ2 foŋ1/<sup>兴化</sup></small> ① 阴囊皮炎的俗称<sup>\[兴化\]</sup>：他的肾囊上面生着许多顽癣……这个毛病叫做～。（《四杰传》二六）<sup>\[兴化\]</sup> ② 男性阴囊湿疹。<sup>\[泰州\]</sup>  
 1. 【[绣球花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_hua.md#绣球花)】`xieu5 qieu2 hua1` <sup>[如东]</sup> 景天科植物景天，多年生草本。块根胡萝卜状。茎直立，高约70厘米，不分枝。叶对生，短圆形，边缘有疏锯齿。伞房花序顶生。花密生，白色至浅红色。庭园栽培。  
 1. 【[绣球<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_qieu_r_fon.md#绣球<sub>儿</sub>风)】`xieu5 qieu2 r fon1` <sup>[如皋]</sup> 阴囊湿疹。  
 1. 【[袖管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xieu_gun.md#袖管)】`xieu5 gun3` <sup>[兴化]</sup> 即袖子：～子嫌长。“袖”本音qieu6。  
@@ -1333,8 +1330,7 @@
 1. 【[消遣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qin.md#消遣)】`xio1 qin3` <sup>[兴化]</sup> 戏弄人、捉弄人：有甚的对不起你的地方就直说，不必跑来～人。｜“……且不要慌，老娘慢慢地～你！”（《水浒传》二一）  
 1. 【[消停](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tien.md#消停)】`xio1 tien2` <small>/ɕiɔ1 tʰiɪ̃2/<sup>兴化</sup></small> ① 安闲、宁静<sup>\[兴化\]</sup>：（因）说明停车一日，故晚间各事自觉格外～了。（《老残游记》二·一）<sup>\[兴化\]</sup> ② 安宁，安稳<sup>\[泰州\]</sup>：自打他来啊，这个单位就不曾有一天～。<sup>\[泰州\]</sup>  
 1. 【[消天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_tin.md#消天)】`xio1 tin1` <sup>[如东]</sup> 由阴天转变为晴天：上午就开始～。  
-1. 【[消闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen.md#消闲)】`xio1 xiaen2` <sup>[兴化]</sup> 闲暇：这早晚～，下盘棋打打岔。  
-1. 【[消闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen.md#消闲)】`xio1 xiaen2` <small>/ɕiɔ1 ɕiɛ̃2/<sup>泰兴</sup></small> 消除空闲（时间）；享受空闲时间。<sup>\[泰兴\]</sup>：买点瓜子回来消消闲<sup>\[泰兴\]</sup>  
+1. 【[消闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen.md#消闲)】`xio1 xiaen2` <small>/ɕiɔ1 ɕiɛ̃2/<sup>兴化</sup>, /ɕiɔ1 ɕiɛ̃2/<sup>泰兴</sup></small> ① 闲暇<sup>\[兴化\]</sup>：这早晚～，下盘棋打打岔。<sup>\[兴化\]</sup> ② 消除空闲（时间）；享受空闲时间。<sup>\[泰兴\]</sup>：买点瓜子回来消消闲<sup>\[泰兴\]</sup>  
 1. 【[消闲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_xiaen_r.md#消闲<sub>儿</sub>)】`xio1 xiaen2 r` <small>/ɕiɔ1 ɕie˞2/<sup>如皋</sup></small> ① 零食。<sup>\[如皋\]</sup> ② 比喻吃零食。<sup>\[如东\]</sup>：他拿馒头干儿～。<sup>\[如东\]</sup>  
 1. 【[消肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhon.md#消肿)】`xio1 zhon3` <sup>[如东]</sup> ① 肌肤里的肿胀病状消减或消失：毛毛的大腿上已经～。 ② 比喻机构的臃肿状况改善。  
 1. 【[硝镪水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_qian_shuei.md#硝镪水)】`xio1 qian shuei3` <sup>[泰州]</sup> 强酸。  
@@ -1856,8 +1852,7 @@
 1. 【[雪花落在地上——一声不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_lah_cae.md#雪花落在地上——一声不响)】`xiuh7 hua1 lah8 cae6 ti6 shan ieh7 shen1 beh7 xian3` <sup>[东台]</sup>   
 1. 【[雪花乳糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_hua_rv_tan.md#雪花乳糖)】`xiuh7 hua1 rv3 tan2` <sup>[如皋]</sup> 一种软糖，无牙者能吃。系用石花菜熬胶，加蔗糖、香精做成。  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li hon2` <sup>[东台]</sup> 芥菜的变种，是冬令普通的蔬菜，一般腌后食用。  
-1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon2` <sup>[泰州]</sup> 一年生的草本植物，芥菜变种，叶长圆形，有锐锯齿，花鲜黄色，种子褐色，雪天诸菜冻损，此菜独青，故名。茎、叶可腌制咸菜，可炒，也可以做汤。  
-1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon2` <small>/ɕiʔ7 lʝ3 xɔŋ2/<sup>泰兴</sup></small> 一年生草本植物，茎和叶子经腌制可食用。雪天诸菜冻损，此菜独青，故名。或称雪菜。<sup>\[泰兴\]</sup>  
+1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon2` <small>/ɕiʔ7 lʝ3 xɔŋ2/<sup>泰兴</sup></small> ① 一年生的草本植物，芥菜变种，叶长圆形，有锐锯齿，花鲜黄色，种子褐色，雪天诸菜冻损，此菜独青，故名。茎、叶可腌制咸菜，可炒，也可以做汤。<sup>\[泰州\]</sup> ② 一年生草本植物，茎和叶子经腌制可食用。雪天诸菜冻损，此菜独青，故名。或称雪菜。<sup>\[泰兴\]</sup>  
 1. 【[雪里蕻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_li_hon.md#雪里蕻)】`xiuh7 li3 hon5` <sup>[如东]</sup> 一年生草本植物，芥菜的变种，叶子长圆形，花鲜黄色。茎和叶子是普通蔬菜。  
 1. 【[雪片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_pin_zz.md#雪片子)】`xiuh7 pin5 zz` <sup>[如皋]</sup> 雪花在飘落中连成片状。其大可称桃花片子、鹅毛片子。  
 1. 【[雪白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiuh_poh.md#雪白)】`xiuh7 poh8` <sup>[如东]</sup> 洁白：这块布～。  

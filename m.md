@@ -140,8 +140,7 @@
 1. 【[麻症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zhen.md#麻症)】`ma2 zhen5` <sup>[兴化]</sup> ① 霍乱的俗称。 ② 骂人的话，意为得急病的。多针对青少年，但无多大恶意。  
 1. 【[麻爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zhua.md#麻爪)】`ma2 zhua3` <small>/mɑ2 t͡suɑ3/<sup>泰兴</sup></small> 吓蒙了而不知所措；麻木。<sup>\[泰兴\]</sup>  
 1. 【[麻爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zhua_zz.md#麻爪子)】`ma2 zhua3 zz` <sup>[兴化]</sup> ① 形容惊惶失措的样子：（孙家失盗）孙孝继如同猴子吃大蒜一麻了爪子。（《皮五辣子》四） ② 坏极：这个家伙坏得～。  
-1. 【[麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#麻子)】`ma2 zz` <sup>[如东]</sup> 脸上有麻点的人。  
-1. 【[麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#麻子)】`ma2 zz` <small>/mɑ2 t͡sɿ/<sup>泰兴</sup></small> 出天花或水痘在面部留下的瘢痕。<sup>\[泰兴\]</sup>  
+1. 【[麻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz.md#麻子)】`ma2 zz` <small>/mɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 脸上有麻点的人。<sup>\[如东\]</sup> ② 出天花或水痘在面部留下的瘢痕。<sup>\[泰兴\]</sup>  
 1. 【[麻子亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_lian.md#麻子亮)】`ma2 zz lian6` <sup>[如东]</sup> 蒙蒙亮：天刚～就出去啊。  
 1. 【[麻子塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_tan_r.md#麻子塘<sub>儿</sub>)】`ma2 zz tan2 r` <sup>[如皋]</sup> 指天花疤痕的凹处。  
 1. 【[麻滋滋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_zz_zz.md#麻滋滋)】`ma2 zz1 zz1` <sup>[如皋]</sup> ① 有点辣的味道。 ② 轻微知觉迟钝。  
@@ -793,8 +792,7 @@
 1. 【[梅露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_lv.md#梅露)】`mei2 lv6` <sup>[如东]</sup> 蔷薇科植物梅花蕾的蒸馏液  
 1. 【[梅片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_pin.md#梅片)】`mei2 pin5` <sup>[东台]</sup> 中药冰片中的一种，原产印尼，可内外通用，去腐生肌。  
 1. 【[梅豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_teu_r.md#梅豆<sub>儿</sub>)】`mei2 teu6 r` <sup>[如东]</sup> 石首鱼科动物黑鳃梅童鱼，也称鲥豆儿。  
-1. 【[梅雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_y.md#梅雨)】`mei2 y3` <sup>[东台]</sup> 初夏出现于我国江淮流域一段较长时间的连续阴雨天气，正值江南梅子黄熟，故名。  
-1. 【[梅雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_y.md#梅雨)】`mei2 y3` <small>/məɪ2 y3/<sup>泰兴</sup></small> 初夏持续较长的阴雨天气。因时值梅子黄熟，故称梅雨。<sup>\[泰兴\]</sup>  
+1. 【[梅雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_y.md#梅雨)】`mei2 y3` <small>/məɪ2 y3/<sup>泰兴</sup></small> ① 初夏出现于我国江淮流域一段较长时间的连续阴雨天气，正值江南梅子黄熟，故名。<sup>\[东台\]</sup> ② 初夏持续较长的阴雨天气。因时值梅子黄熟，故称梅雨。<sup>\[泰兴\]</sup>  
 1. 【[煤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu.md#煤油)】`mei2 ieu2` <sup>[如东]</sup> 从石油中分馏出来的燃料用油，挥发性比汽油低，比柴油高，无色液体。也叫洋油、火油。  
 1. 【[煤油炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ieu_lv.md#煤油炉)】`mei2 ieu2 lv2` <sup>[东台]</sup> 又叫“火油炉”（五更机），以煤油为燃料，多头捻子的炊具，用以方便个人饮食。  
 1. 【[煤炭圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_taen_iun_zz.md#煤炭圆子)】`mei2 taen5 iun2 zz` <sup>[东台]</sup> 一种机制的类似于汤圆形状的煤粉燃料。  
@@ -1087,8 +1085,7 @@
 1. 【[米<sub>儿</sub>豇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_r_gan.md#米<sub>儿</sub>豇)】`mi3 r gan1` <sup>[如皋]</sup> 豇豆的一种，以老熟豆粒供食用。豆科。  
 1. 【[米筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shae.md#米筛)】`mi3 shae1` <sup>[如东]</sup> 筛的一种。方孔比较大，米粒能够抖漏下去。  
 1. 【[米渗笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_shen_lah_r.md#米渗笿<sub>儿</sub>)】`mi3 shen lah8 r` <sup>[如皋]</sup> 方底圆口浅帮有竹系的小篮。用精制薄竹篾十字交叉翘二编成。稀网眼，可渗米粒。  
-1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <sup>[如皋]</sup> 熟米粒、饭粒。  
-1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <small>/mi3 sũ/<sup>兴化</sup>, /mʝ3 sʊ̃/<sup>泰兴</sup></small> ① 饭、粥中的米粒<sup>\[东台\]</sup>：一个～七斤四两水，劳动成果要珍惜咖！<sup>\[东台\]</sup> ② 米饭粒儿\[兴化：也称“饭米糁。”\] ③ 熟饭粒。<sup>\[泰兴\]</sup>  
+1. 【[米糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun.md#米糁)】`mi3 sun` <small>/mi3 sũ/<sup>兴化</sup>, /mʝ3 sʊ̃/<sup>如皋</sup>, /mʝ3 sʊ̃/<sup>泰兴</sup></small> ① 熟米粒、饭粒。<sup>\[如皋\]</sup> ② 饭、粥中的米粒<sup>\[东台\]</sup>：一个～七斤四两水，劳动成果要珍惜咖！<sup>\[东台\]</sup> ③ 米饭粒儿\[兴化：也称“饭米糁。”\] ④ 熟饭粒。<sup>\[泰兴\]</sup>  
 1. 【[米糁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_sun_r.md#米糁<sub>儿</sub>)】`mi3 sun3 r` <sup>[泰州]</sup> 饭粒。  
 1. 【[米汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan.md#米汤)】`mi3 tan1` <sup>[兴化]</sup> （喻）甜言蜜语、用好话取悦于人：灌～。  
 1. 【[米汤盆里洗澡——糊里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_tan_pen_lii.md#米汤盆里洗澡——糊里糊涂)】`mi3 tan1 pen2 lii xi3 zo3 hv2 lii hv2 tv2` <sup>[东台]</sup>   
@@ -1275,8 +1272,7 @@
 1. 【[眠水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_shuei.md#眠水)】`min2 shuei3` <sup>[如皋]</sup> 见“眠牛儿”。  
 1. 【[眠枕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_zhen.md#眠枕)】`min2 zhen3` <sup>[如皋]</sup> 见“眠牛儿”。  
 1. 【[绵𢜩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_haen.md#绵𢜩)】`min2 haen1` <small>/mĩ2 xɛ̃1/<sup>泰兴</sup></small> 运作缓慢；反应迟钝。<sup>\[泰兴\]</sup>：他耳朵～<sup>\[泰兴\]</sup>  
-1. 【[绵羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ian.md#绵羊)】`min2 ian2` <sup>[如东]</sup> 牛科动物绵羊。  
-1. 【[绵羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ian.md#绵羊)】`min2 ian2` <small>/mĩ2 iɑŋ2/<sup>泰兴</sup></small> 羊的一种。因其性温顺，常喻柔弱的人。<sup>\[泰兴\]</sup>  
+1. 【[绵羊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ian.md#绵羊)】`min2 ian2` <small>/mĩ2 iɑŋ2/<sup>泰兴</sup></small> ① 牛科动物绵羊。<sup>\[如东\]</sup> ② 羊的一种。因其性温顺，常喻柔弱的人。<sup>\[泰兴\]</sup>  
 1. 【[绵联纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lin_zhr.md#绵联纸)】`min2 lin2 zhr3` <sup>[东台]</sup> 又叫“联史纸”，以竹木纤维为原料，产于赣闽一带。  
 1. 【[绵白糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_poh_tan.md#绵白糖)】`min2 poh8 tan2` <sup>[东台]</sup> 白糖中的一种，细白如绵。  
 1. 【[绵瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_ran.md#绵瓤)】`min2 ran2` <sup>[如皋]</sup> 西瓜因放置过久不新鲜，打开后发软。  
@@ -1460,13 +1456,11 @@
 1. 【[猫<sub>儿</sub>肉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_roh_zz.md#猫<sub>儿</sub>肉子)】`mo2 r roh8 zz` <sup>[兴化]</sup> （喻）形容未成熟的西瓜口感酸而起腻。  
 1. 【[猫<sub>儿</sub>食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_sheh.md#猫<sub>儿</sub>食)】`mo2 r sheh8` <small>/mɔ2 ɚ səʔ8/<sup>兴化</sup>, /mɔ˞2 səʔ8/<sup>泰兴</sup></small> ① （喻）食量小，随时零吃<sup>\[兴化\]</sup>：“我说你是～。虽然如此，也该上去陪他们，多少应个景儿。”（《红楼梦》六二）<sup>\[兴化\]</sup> ② 比喻食无定时，随时吃饭，但是每次的量很少<sup>\[泰州\]</sup>：你弄点儿东西把小丫头吃咖子，不要弄多少，她就是个～，哪天下午不要吃个三四顿吖。<sup>\[泰州\]</sup> ③ 谓只有很少的一点食物。<sup>\[泰兴\]</sup>  
 1. 【[猫<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_teu.md#猫<sub>儿</sub>头)】`mo2 r teu2` <small>/mɔ˞2 tʰei2/<sup>如皋</sup></small> ① 建筑材料，泥制，似瓦，形状像猫头，安装在瓦棱下端，起收拢作用。也叫滴水。<sup>\[如东\]</sup> ② 瓦当，又分阴、阳两种。<sup>\[如皋\]</sup> ③ 一称独轮车车头的横木。<sup>\[如皋\]</sup>  
-1. 【[猫<sub>儿</sub>洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_ton.md#猫<sub>儿</sub>洞)】`mo2 r ton6` <sup>[东台]</sup> 民宅堂屋门槛旁边墙上留有猫进出的洞口。  
-1. 【[猫<sub>儿</sub>洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_ton.md#猫<sub>儿</sub>洞)】`mo2 r ton6` <small>/mɔ˞2 tʰɔŋ1/<sup>泰兴</sup></small> 大门侧畔留的小洞，供猫出入<sup>\[泰兴\]</sup>  
+1. 【[猫<sub>儿</sub>洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_ton.md#猫<sub>儿</sub>洞)】`mo2 r ton6` <small>/mɔ˞2 tʰɔŋ1/<sup>泰兴</sup></small> ① 民宅堂屋门槛旁边墙上留有猫进出的洞口。<sup>\[东台\]</sup> ② 大门侧畔留的小洞，供猫出入<sup>\[泰兴\]</sup>  
 1. 【[猫<sub>儿</sub>屙屎自己盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_u_shr.md#猫<sub>儿</sub>屙屎自己盖)】`mo2 r u1 shr3 cz6 ji3 gae5` <sup>[东台]</sup> 自己对自己的行为后果负责。  
 1. 【[猫<sub>儿</sub>屙屎盖脚印](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_u_shr.md#猫<sub>儿</sub>屙屎盖脚印)】`mo2 r u1 shr3 gae5 jiah7 ien5` <sup>[东台]</sup> ［喻］干了坏事之后将事实真相掩盖得干干净净。  
 1. 【[猫<sub>儿</sub>洗脸，亲戚到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_xi_lin.md#猫<sub>儿</sub>洗脸，亲戚到)】`mo2 r xi3 lin3 qien1 qieh7 do5` <sup>[东台]</sup> 民间有人认为，这是好的兆头，祥瑞之事。  
-1. 【[猫<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_y.md#猫<sub>儿</sub>鱼)】`mo2 r y2` <sup>[如东]</sup> 喂猫的小鱼。  
-1. 【[猫<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_y.md#猫<sub>儿</sub>鱼)】`mo2 r y2` <small>/mɔ˞2 y2/<sup>泰兴</sup></small> 小鱼。<sup>\[泰兴\]</sup>  
+1. 【[猫<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_r_y.md#猫<sub>儿</sub>鱼)】`mo2 r y2` <small>/mɔ˞2 y2/<sup>泰兴</sup></small> ① 喂猫的小鱼。<sup>\[如东\]</sup> ② 小鱼。<sup>\[泰兴\]</sup>  
 1. 【[猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_suei.md#猫尿)】`mo2 suei1` <sup>[兴化]</sup> ① 酒的贬义说法：他不吃饭无所谓，一天两顿～不能少。 ② （戏）眼泪：淌～。  
 1. 【[猫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#猫头)】`mo2 teu2` <sup>[泰州]</sup> 去掉竹梢部分的毛竹。20世纪八十年代以前农村用来盖猪圈、牛棚，经济困难家庭用来替代木料做梁建筑草屋。  
 1. 【[猫头鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu_ien.md#猫头鹰)】`mo2 teu2 ien1` <sup>[如东]</sup> 鸱鸮科动物鸮，有长耳鸮、短耳鸮、红角鸮等品种。  

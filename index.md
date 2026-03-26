@@ -75,14 +75,14 @@
 1. 【[才学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_xiah.md#才学)】`cae2 xiah` <small>/t͡ɕʰiɛ2 ɕiɑʔ/<sup>泰兴</sup></small> 才能和学问。<sup>\[泰兴\]</sup>：他的个～大。<sup>\[泰兴\]</sup>  
 1. 【[裁房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fan_zz.md#裁房子)】`cae2 fan2 zz` <sup>[如东]</sup> 用铡刀将茅屋屋檐杂草剪平，使之整齐好看。  
 1. 【[裁缝划线——齐这许剪（禁）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_fon_hua_xin.md#裁缝划线——齐这许剪（禁）)】`cae2 fon hua2 xin5 qi2 zha5 hae jin3 （jien5）` <sup>[东台]</sup>   
-1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <sup>[如皋]</sup> 旧时称手工缝纫中服的师傅或职业。  
-1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <small>/t͡ɕʰiɛ2 ʝ1/<sup>泰兴</sup></small> 裁缝师傅<sup>\[泰兴\]</sup>  
+1. 【[裁衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i.md#裁衣)】`cae2 i1` <small>/t͡sʰɛ2 ʝ1/<sup>如皋</sup>, /t͡ɕʰiɛ2 ʝ1/<sup>泰兴</sup></small> ① 旧时称手工缝纫中服的师傅或职业。<sup>\[如皋\]</sup> ② 裁缝师傅<sup>\[泰兴\]</sup>  
 1. 【[裁衣店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_i_din.md#裁衣店)】`cae2 i1 din5` <sup>[如皋]</sup> 称缝中服的店铺。  
 1. 【[裁弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_vaen_qy_cheh.md#裁弯取直)】`cae2 vaen1 qy3 cheh8` <sup>[兴化]</sup> 见“拿弯取直”。  
 1. 【[豺豺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_cae_r.md#豺豺<sub>儿</sub>)】`cae2 cae r` <sup>[如东]</sup> 牙齿。  
 1. 【[豺吊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_dio_r.md#豺吊<sub>儿</sub>)】`cae2 dio5 r` <sup>[如东]</sup> 牙齿。  
 1. 【[财担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_daen.md#财担)】`cae2 daen` <sup>[兴化]</sup> 开支：个人砌房子～太大。  
 1. 【[财东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_don.md#财东)】`cae2 don1` <sup>[如东]</sup> 企业或财物的所有者，通称老板：陈宝珠是大～。  
+1. 【[财发精神长，人穷瞌睡多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cae_faeh_jien_shen.md#财发精神长，人穷瞌睡多)】`cae2 faeh7 jien1 shen zhan3 ren2 qion2 kuh7 shuei du1` <sup>[东台]</sup> 形容物质条件或机遇影响人的精神状态。  
 [更多...](./c.md)
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
@@ -405,8 +405,7 @@
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
 1. 【[拿班做腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_qian.md#拿班做腔)】`na2 baen1 zu5 qian1` <small>/nɑ2 pɛ̃1 t͡sɤɯ5 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 装腔作势，摆架子<sup>\[泰兴\]</sup>  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ② 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ③ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/la2 pəʔ t͡sʰuəʔ7 sɤ3/<sup>兴化</sup>, /nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 因付出太少，感到面子上难堪<sup>\[兴化\]</sup>：新姑爷上门，这点见面礼怕～。<sup>\[兴化\]</sup> ② 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ③ 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ④ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
 1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <small>/la2 pəʔ7 uən3/<sup>兴化</sup></small> 吃不准、没有把握<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他心里怎吖想，我到现在～。<sup>\[兴化\]</sup>｜这件事要是～，怎吖敢同你说大话。<sup>\[泰州\]</sup>  
@@ -430,6 +429,7 @@
 1. 【[拿棍子唤狗——越叫越远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_guen_zz_hun.md#拿棍子唤狗——越叫越远)】`na2 guen5 zz hun5 geu3 iuh8 jio5 iuh8 iun3` <sup>[东台]</sup>   
 1. 【[拿和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hu.md#拿和)】`na2 hu2` <sup>[兴化]</sup> 劝和：“……你我弟兄多年……当真的弄这么个过节儿，最好～吧。”（扬一《风雏理事》）  
 1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /nɑ2 xuəŋ2/<sup>泰兴</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup> ⑧ 起主要作用<sup>\[泰兴\]</sup>：我佼小组就靠他～<sup>\[泰兴\]</sup>  
+1. 【[拿汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_hun.md#拿汗)】`na2 hun6` <sup>[如东]</sup> 由于使用力气大，身上会出汗。比喻非常吃劲：做这种活技，～。  
 [更多...](./n.md)
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <small>/ɔ/<sup>泰兴</sup></small> 助词。表示催促。读音因前字韵尾而不同。<sup>\[泰兴\]</sup>：快点走～（o）。<sup>\[泰兴\]</sup>  
@@ -518,13 +518,13 @@
 1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺软怕硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run_pa_ngen.md#欺软怕硬)】`qi1 run3 pa5 ngen6` <small>/t͡ɕʰʝ1 ɻʊ̃3 pʰɑ5 ŋəŋ1/<sup>泰兴</sup></small> 欺负软弱的；惧怕强硬的。<sup>\[泰兴\]</sup>  
-1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  
-1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <small>/t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> 欺负新来者；牛马等对不常役使它的人不驯服。<sup>\[泰兴\]</sup>  
+1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <small>/t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> ① 排斥、欺负新来的人<sup>\[东台\]</sup>：你才去，人家有点儿～，马上就好啊。<sup>\[东台\]</sup> ② 欺负新来者；牛马等对不常役使它的人不驯服。<sup>\[泰兴\]</sup>  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
 1. 【[其门如市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_men_rv_shr.md#其门如市)】`qi2 men2 rv2 shr6` <sup>[兴化]</sup> 形容交际往来的人多，门口和庭院里热闹得像街市一样：（钝秀才）夫妻衣锦还乡……宾朋一向疏失者，此日奔走～，（《警世通言》十七）  
 1. 【[其时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shr.md#其时)】`qi2 shr2` <sup>[兴化]</sup> 那个时候：“……他到～，先白花花的送你贤丈二十块洋线……”（《广陵潮》四六）  
+1. 【[奇里八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae.md#奇里八怪)】`qi2 lii baeh7 guae5` <sup>[东台]</sup> 同“蹊跷八怪”。  
 [更多...](./q.md)
 ## R
 1. 【[<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/r.md#<sub>儿</sub>)】`r` <sup>[东台]</sup> 儿缀的口语音。（原文作“子”，音不合）：⼤红枣〜；⿊枣〜；草稿〜；小摊〜；茄〜｜你这把调〜，要考⼤学还需要好好努⼒。  
@@ -551,8 +551,7 @@
 1. 【[惹镣入封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_lio_reh_fon.md#惹镣入封)】`ra3 lio2 reh8 fon1` <sup>[如东]</sup> 自己给自己找来灾难。  
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
-1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <sup>[东台]</sup> 醒目。容易引人嫉妒。  
-1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> 引人注目；显眼。<sup>\[泰兴\]</sup>  
+1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 醒目。容易引人嫉妒。<sup>\[东台\]</sup> ② 引人注目；显眼。<sup>\[泰兴\]</sup>  
 1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
 1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
@@ -562,6 +561,7 @@
 1. 【[惹馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_seu.md#惹馊)】`ra3 seu1` <sup>[如皋]</sup> 容易馊。  
 1. 【[惹韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_sho_do.md#惹韶叨)】`ra3 sho2 do1` <small>/ɻɑ3 sɔ2 tɔ1/<sup>泰兴</sup></small> 啰嗦；惹话说；找麻烦。<sup>\[泰兴\]</sup>  
 1. 【[惹是非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shr_fei.md#惹是非)】`ra3 shr6 fei` <small>/ɻɑ3 sɿ1 fəɪ/<sup>泰兴</sup></small> 引起麻烦事。<sup>\[泰兴\]</sup>  
+1. 【[惹是生非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_shr_shen_fei.md#惹是生非)】`ra3 shr6 shen1 fei1` <sup>[如东]</sup> 由于自己说话或处事不妥当而造成纠纷：不要～。  
 [更多...](./r.md)
 ## S
 1. 【[唦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa.md#唦)】`sa` <small>/sa/<sup>兴化</sup></small> ① 语气词<sup>\[兴化\]</sup>：用于祈使句末尾<sup>\[兴化\]</sup>｜你快来～！<sup>\[兴化\]</sup>｜覅急，听我慢慢说一！<sup>\[兴化\]</sup> ② 在句中停顿处，表示比较强烈的语气<sup>\[兴化\]</sup>：快跑～！车子要开啦！<sup>\[兴化\]</sup> ③ 在句末表示疑问语气<sup>\[兴化\]</sup>：他的身世你哿清楚～？<sup>\[兴化\]</sup> ④ 语气词，表示轻微责备<sup>\[泰州\]</sup>：快点ㄦ说～。<sup>\[泰州\]</sup>｜教你不要说，你说咖做甚的～。<sup>\[泰州\]</sup> ⑤ 表示略微疑问<sup>\[泰州\]</sup>：不听你的～，你肯定不高兴，听你的～，就要得罪他。<sup>\[泰州\]</sup>  

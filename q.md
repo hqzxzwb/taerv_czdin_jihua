@@ -22,8 +22,7 @@
 1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺软怕硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run_pa_ngen.md#欺软怕硬)】`qi1 run3 pa5 ngen6` <small>/t͡ɕʰʝ1 ɻʊ̃3 pʰɑ5 ŋəŋ1/<sup>泰兴</sup></small> 欺负软弱的；惧怕强硬的。<sup>\[泰兴\]</sup>  
-1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <sup>[东台]</sup> 排斥、欺负新来的人：你才去，人家有点儿～，马上就好啊。  
-1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <small>/t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> 欺负新来者；牛马等对不常役使它的人不驯服。<sup>\[泰兴\]</sup>  
+1. 【[欺生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_shen.md#欺生)】`qi1 shen1` <small>/t͡ɕʰʝ1 səŋ1/<sup>泰兴</sup></small> ① 排斥、欺负新来的人<sup>\[东台\]</sup>：你才去，人家有点儿～，马上就好啊。<sup>\[东台\]</sup> ② 欺负新来者；牛马等对不常役使它的人不驯服。<sup>\[泰兴\]</sup>  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah` <sup>[兴化]</sup> 瞧不起人：你覅～人，你说的那个我也懂。  
 1. 【[欺削](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xiah.md#欺削)】`qi1 xiah7` <sup>[东台]</sup> 欺负人，以势压人。  
 1. 【[欺心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_xien.md#欺心)】`qi1 xien1` <sup>[兴化]</sup> 昧着良心：“他有这个～的事，我也不饶他……”（《金瓶梅词话》二五）｜谚曰：养性须行善，～莫吃斋。  
@@ -969,8 +968,7 @@
 1. 【[清当当的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dan_dan_dii.md#清当当的)】`qien1 dan5 dan5 dii` <sup>[如皋]</sup> ① 状家中很空旷。 ② 印象清晰：他在世的样子我～记得。  
 1. 【[清锅冷灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gu_len_zo.md#清锅冷灶)】`qien1 gu1 len3 zo5` <small>/t͡ɕʰin1 ko1 lən3 t͡sɔ5/<sup>兴化</sup>, /t͡ɕʰiŋ1 kɤɯ1 ləŋ3 t͡sɔ5/<sup>泰兴</sup></small> ① 形容冷落凋零的样子<sup>\[兴化\]</sup>：走到计氏院内，只见～，一物也无。（《醒世姻缘传》三）也作“清灰冷灶”。<sup>\[兴化\]</sup> ② 见“冰锅冷灶”。<sup>\[泰州\]</sup> ③ 谓待人不热情；没吃没喝。也常用以形容贫穷冷清的景象。<sup>\[泰兴\]</sup>  
 1. 【[清归清，楚归楚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_guei_qien_chv.md#清归清，楚归楚)】`qien1 guei1 qien1 chv3 guei1 chv3` <small>/t͡ɕʰiŋ1 kuəɪ1 t͡ɕʰiŋ1 t͡sʰu3 kuəɪ1 t͡sʰu3/<sup>泰兴</sup></small> 谓两部分分开，互不牵扯。清清楚楚，明明白白。<sup>\[泰兴\]</sup>  
-1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun.md#清官难断家务事)】`qien1 gun1 naen2 dun5 jia1 v shr6` <sup>[东台]</sup> 家庭的矛盾很难说谁是谁非，最好和为贵。  
-1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun.md#清官难断家务事)】`qien1 gun1 naen2 dun5 jia1 v shr6` <small>/t͡ɕʰiŋ1 kʊ̃1 nɛ̃2 tʊ̃5 t͡ɕiɑ1 ʋ sɿ1/<sup>泰兴</sup></small> 谓家务事错综复杂，虽廉洁公正的官吏亦难论断其是非。<sup>\[泰兴\]</sup>  
+1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun.md#清官难断家务事)】`qien1 gun1 naen2 dun5 jia1 v shr6` <small>/t͡ɕʰiŋ1 kʊ̃1 nɛ̃2 tʊ̃5 t͡ɕiɑ1 ʋ sɿ1/<sup>泰兴</sup></small> ① 家庭的矛盾很难说谁是谁非，最好和为贵。<sup>\[东台\]</sup> ② 谓家务事错综复杂，虽廉洁公正的官吏亦难论断其是非。<sup>\[泰兴\]</sup>  
 1. 【[清火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu.md#清火)】`qien1 hu3` <small>/t͡ɕʰin1 xo3/<sup>兴化</sup></small> ① 某些食品性凉，食之可去除体内火气<sup>\[兴化\]</sup>：煮熟的荸荠是～的。也作“去火”。<sup>\[兴化\]</sup> ② 中医术语，去除体内火气。<sup>\[泰州\]</sup>  
 1. 【[清火汏凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_tae_lian.md#清火汏凉)】`qien1 hu3 tae6 lian2` <sup>[兴化]</sup> 去除火气，降低体温：开一剂～的方子，让病人吃下去睡一觉。  
 1. 【[清火淡凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_taen_lian.md#清火淡凉)】`qien1 hu3 taen6 lian2` <small>/t͡ɕʰiŋ1 xɤɯ3 tʰɛ̃1 liɑŋ2/<sup>泰兴</sup></small> 消除热闷之气、炎症，恢复正常，舒畅愉快。<sup>\[泰兴\]</sup>  
@@ -1157,8 +1155,7 @@
 1. 【[请](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien.md#请)】`qien3` <sup>[东台]</sup> 除一般释义外，指对神圣物品的购买，说“买”便是大不敬，只能说“请”：～香。  
 1. 【[请不得先生告不得娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_beh_deh_xin.md#请不得先生告不得娘)】`qien3 beh7 deh7 xin1 shen1 go5 beh7 deh7 nian2` <sup>[东台]</sup> 由于某种原因，有苦说不出，不好请别人帮忙，只能由自己顶着。（先生可指医生）  
 1. 【[请财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_cae_shen.md#请财神)】`qien3 cae2 shen2` <small>/t͡ɕʰin3 t͡sʰɛ2 sən2/<sup>兴化</sup></small> ① 本指请（买）财神像。<sup>\[东台\]</sup> ② 喻指请能人帮助发展经济。<sup>\[东台\]</sup> ③ 旧时是绑票的隐语。<sup>\[东台\]</sup> ④ 旧指土匪绑票<sup>\[兴化\]</sup>：朱成谦原是老于江湖的人，知道这是实行～的格局……（《广陵潮》九八）也说“抬财神”。<sup>\[兴化\]</sup>  
-1. 【[请春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_zhr.md#请春卮)】`qien3 chuen1 zhr` <sup>[如皋]</sup> 春节间互相邀请吃酒。  
-1. 【[请春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_zhr.md#请春卮)】`qien3 chuen1 zhr` <small>/t͡ɕʰiŋ3 t͡sʰuəŋ1 t͡sɿ/<sup>泰兴</sup></small> 民俗。过春节后，宴请亲朋好友。<sup>\[泰兴\]</sup>  
+1. 【[请春卮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_chuen_zhr.md#请春卮)】`qien3 chuen1 zhr` <small>/t͡ɕʰiəŋ3 t͡sʰuəŋ1 t͡sɿ/<sup>如皋</sup>, /t͡ɕʰiŋ3 t͡sʰuəŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 春节间互相邀请吃酒。<sup>\[如皋\]</sup> ② 民俗。过春节后，宴请亲朋好友。<sup>\[泰兴\]</sup>  
 1. 【[请赌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_dv.md#请赌)】`qien3 dv3` <small>/t͡ɕʰiəŋ3 tu3/<sup>如皋</sup></small> ① 邀人玩牌等赌博，并招待，以拿“头儿钱”。<sup>\[如皋\]</sup> ② 请人过来打牌，叫做请赌。有这样几种情形：家里来了亲戚，请几个朋友过来打牌陪赌；家里有人生重病，或者死了人，请几个朋友打牌守夜；遇有特殊困难，请几个朋友赌博抽头等。<sup>\[如东\]</sup>  
 1. 【[请会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_huei.md#请会)】`qien3 huei6` <small>/t͡ɕʰiəŋ3 xuei1/<sup>如皋</sup>, /t͡ɕʰiŋ3 xuəɪ1/<sup>泰兴</sup></small> 民间流行的一种集资办法。<sup>\[如皋\]</sup>\[泰兴：一种邀请他人参加的小型贷款形式。也称打会。\]\[如东：也称打会、做会。主会人发起，并主持始终。邀请若干会员参加。确定总金额和份额。每个会员出一份。份额资金一般为10或12。定于某月某日，请会者与出会者都带一份会钱打会，以抽签的方法摇会。得会者，获得全部资金。先得会者，打会时加息，直到终会。得会越迟加息越多。轮流进行，直至每个会员轮上一次为止。\]\[泰州：有急缺资金者发起，约定会期（半年6人，1年12人，等等）、会款（每人每月50元、100元，等等），参加的人每月按时交纳会款，每月会款集中起来称为会钱，交给参会人中一人使用，首次会钱一般为发起人“会头”使用，依次轮完结束。\]\[东台：由一人发起，每人按约定出钱，按期轮流归一人所得。头会由发起人收取，其余人均以此递增利息，凭个人信誉所为，但容易引起经济纠纷。\]  
 1. 【[请叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_jio.md#请叫)】`qien3 jio5` <small>/t͡ɕʰin3 t͡ɕiɔ5/<sup>兴化</sup></small> ① 称呼人、叫人<sup>\[兴化\]</sup>：云麟走过来～了一声，晋芳也是有意无意的答应者……（《广陵潮》四九）<sup>\[兴化\]</sup>｜也作“尊叫”。<sup>\[兴化\]</sup> ② 晚辈、下级登门对长辈、上级带有请安、问好性质的致意<sup>\[泰州\]</sup>：最近忙，也不曾有工夫去～你老人家。<sup>\[泰州\]</sup>  
@@ -1779,8 +1776,7 @@
 1. 【[绝子绝孙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_zz_qiuh_suen.md#绝子绝孙)】`qiuh8 zz3 qiuh8 suen1` ① （詈语）指子孙断绝。<sup>\[东台\]</sup> ② 断绝子孙，骂人所做事情极其缺德，詈词<sup>\[泰州\]</sup>：这是哪个～的人做的缺德事啊！<sup>\[泰州\]</sup>  
 1. 【[绝子绝孙绝房门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_zz_qiuh_suen.md#绝子绝孙绝房门)】`qiuh8 zz3 qiuh8 suen1 qiuh8 fan2 men2` <sup>[如皋]</sup> 詈语。指后代断绝，房族断绝。  
 1. 【[𥏘头<sub>儿</sub>砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiuh_teu_r_zhun.md#𥏘头<sub>儿</sub>砖)】`qiuh8 teu2 r zhun1` <sup>[如东]</sup> 断了的砖头。也叫砖头头儿、砖头佬儿。  
-1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <sup>[如皋]</sup> 见“圈令”。  
-1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <small>/t͡ɕʰyʊ̃1 lɑŋ/<sup>泰兴</sup></small> 圈（形状）<sup>\[泰兴\]</sup>  
+1. 【[圈浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan.md#圈浪)】`qiun1 lan` <small>/t͡ɕʰyʊ̃1 lã/<sup>如皋</sup>, /t͡ɕʰyʊ̃1 lɑŋ/<sup>泰兴</sup></small> ① 见“圈令”。<sup>\[如皋\]</sup> ② 圈（形状）<sup>\[泰兴\]</sup>  
 1. 【[圈浪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lan_r.md#圈浪<sub>儿</sub>)】`qiun1 lan r` <sup>[如皋]</sup> 圈套。  
 1. 【[圈零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈零)】`qiun1 lien2` <sup>[如东]</sup> 来回一趟，称为一个圈零：我跑啊几个～。  
 1. 【[圈令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_lien.md#圈令)】`qiun1 lien6` <sup>[如皋]</sup> 来回：跑～、转～、一个～。  

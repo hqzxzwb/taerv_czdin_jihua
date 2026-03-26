@@ -157,8 +157,7 @@
 1. 【[作料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_lio.md#作料)】`zah7 lio` <small>/t͡saʔ7 liɔ/<sup>如皋</sup>, /t͡sɑʔ7 liɔ/<sup>泰兴</sup>, /t͡sɑʔ7 niɔ/<sup>泰县</sup></small> 调味品、调味材料。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：烧鲢子鱼要多放点儿～。<sup>\[泰州\]</sup>  
 1. 【[作撂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_lio.md#作撂)】`zah7 lio6` <sup>[泰县]</sup> 浪费。  
 1. 【[作料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_lio.md#作料)】`zah7 lio6` <small>/t͡saʔ7 liɔ1/<sup>如皋</sup></small> ① 浪费材料。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：就这几样家具有两桶漆足够唻，买三桶肯定要～唻。<sup>\[泰州\]</sup>｜这吖好的刀鱼，把你不会烧的人来烧，也太～唻。<sup>\[泰州\]</sup> ② 比喻优秀人才没有发挥作用<sup>\[泰州\]</sup>：你把个博士生弄吖办公室去搞接待，不～啊？<sup>\[泰州\]</sup>  
-1. 【[作忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_man.md#作忙)】`zah7 man2` <sup>[如东]</sup> 急忙：不要～。  
-1. 【[作忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_man.md#作忙)】`zah7 man2` <small>/t͡sɑʔ7 mɑŋ2/<sup>泰兴</sup></small> 着慌；着急。<sup>\[泰兴\]</sup>  
+1. 【[作忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_man.md#作忙)】`zah7 man2` <small>/t͡sɑʔ7 mɑŋ2/<sup>泰兴</sup></small> ① 急忙。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ② 着慌；着急。<sup>\[泰兴\]</sup>  
 1. 【[作闷气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_men_qi.md#作闷气)】`zah7 men5 qi5` <sup>[如皋]</sup> 生气而不外露。  
 1. 【[作难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_naen.md#作难)】`zah7 naen2` <small>/t͡saʔ7 lɛ̃2/<sup>兴化</sup></small> ① 遇到复杂的问题，感觉很难处理。<sup>\[如东\]</sup>：他在下～。<sup>\[如东\]</sup> ② 为难，也指故意刁难。<sup>\[东台\]</sup> ③ 感到为难<sup>\[兴化\]</sup>：你这吖一闹，反而叫帮你的人～。<sup>\[兴化\]</sup> ④ 故意留难<sup>\[兴化\]</sup>：“……他们不知我的心事，还疑惑我有意～……”（《广陵潮》三三）<sup>\[兴化\]</sup>  
 1. 【[作泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ni.md#作泥)】`zah7 ni2` <small>/t͡saʔ7 nʝ2/<sup>如皋</sup>, /t͡sɑʔ7 nʝ2/<sup>泰兴</sup></small> ① 儿童调泥玩耍。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你家细小伙在田里～。<sup>\[泰州\]</sup> ② 建筑调拌泥浆。<sup>\[如皋\]</sup> ③ 将泥土加水调和。<sup>\[如东\]</sup> ④ 用手脚或工具搅拌泥土。<sup>\[泰州\]</sup>  
@@ -176,8 +175,7 @@
 1. 【[作人来疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_ren_lae_fon.md#作人来疯)】`zah7 ren2 lae2 fon1` <small>/t͡saʔ7 ɻəŋ2 lɛ2 fɔŋ1/<sup>如皋</sup>, /t͡sɑʔ7 ɻəŋ2 lɛ2 fɔŋ1/<sup>泰兴</sup>, /t͡sɑʔ7 ɻəŋ2 ne2 foŋ1/<sup>泰县</sup></small> ① 小孩在来客后的颠狂行为。<sup>\[如皋\]</sup> ② 某些人的过急行为。<sup>\[如皋\]</sup> ③ 同“作佯形”和“人来疯”。<sup>\[东台\]</sup> ④ 在客人面前故意撒娇：这个伢儿有点～。<sup>\[泰县\]</sup> ⑤ 多指小孩在客人面前胡搅蛮缠，哭闹不停。<sup>\[泰兴\]</sup>  
 1. 【[作如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_rv.md#作如)】`zah7 rv` <sup>[如皋]</sup> 假定是、作为是。  
 1. 【[作三四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_saen_sz.md#作三四)】`zah7 saen1 sz5` <sup>[如东]</sup> 一个人发脾气：他又在下～。  
-1. 【[作勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shah.md#作勺)】`zah7 shah8` <sup>[泰县]</sup> 大勺子。  
-1. 【[作勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shah.md#作勺)】`zah7 shah8` <small>/t͡sɑʔ7 sɑʔ8/<sup>泰兴</sup></small> 喂猪用的较大的铁勺。<sup>\[泰兴\]</sup>  
+1. 【[作勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shah.md#作勺)】`zah7 shah8` <small>/t͡sɑʔ7 sɑʔ8/<sup>泰兴</sup>, /t͡sɑʔ7 sɑʔ8/<sup>泰县</sup></small> ① 大勺子。<sup>\[泰县\]</sup> ② 喂猪用的较大的铁勺。<sup>\[泰兴\]</sup>  
 1. 【[作瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shen.md#作瘆)】`zah7 shen5` <sup>[兴化]</sup> ① 惨状令人惊恐。 ② （引）嫌别人所赠菲薄：舍不得就不要送，覅～！  
 1. 【[作时节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr_jih.md#作时节)】`zah7 shr2 jih7` <small>/t͡saʔ7 sɿ2 t͡ɕiɪʔ7/<sup>兴化</sup>, /t͡sɑʔ7 sɿ2 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 指交节令时天气变化。<sup>\[兴化\]</sup> ② 逢时过节家庭成员间发生摩擦<sup>\[兴化\]</sup>：他一到节下就要～，你俫别理他。<sup>\[兴化\]</sup> ③ 逢到时节就产生矛盾。<sup>\[泰兴\]</sup>  
 1. 【[作世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_shr.md#作世)】`zah7 shr5` <small>/t͡saʔ7 sɿ5/<sup>如皋</sup>, /t͡sɑʔ7 sɿ5/<sup>泰兴</sup>, /t͡sɑʔ7 sɿ5/<sup>泰县</sup></small> ① 责语，指槽蹋、浪费<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他一买多少，吃不了就倒掉，真～啊！<sup>\[如皋\]</sup>｜才买家来，就被他～作掉啊<sup>\[泰兴\]</sup> ② 令人作呕<sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：烂污糟糟真～。<sup>\[泰县\]</sup>  
@@ -197,8 +195,7 @@
 1. 【[作头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_teu.md#作头)】`zah7 teu` <small>/t͡saʔ7 tʰɤ/<sup>兴化</sup>, /t͡sɑʔ7 tʰɤɯ/<sup>泰县</sup></small> 无用的部分；边角料；择菜剔除的部分<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：小青菜～大。<sup>\[兴化\]</sup>｜原木～大，木方～小。<sup>\[兴化\]</sup>｜清砂没～，混砂～大。<sup>\[兴化\]</sup>｜这个青菜虽然便宜，但是～多。<sup>\[泰县\]</sup>｜这吖大的一块布才裁啊一条裤子，～太大。<sup>\[泰州\]</sup>｜你这个菜太老啊唻，～太大，哿能便宜点儿卖。<sup>\[泰州\]</sup>  
 1. 【[作头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_teu.md#作头)】`zah7 teu2` <sup>[兴化]</sup> 旧称工头或工场的领班人：那次建大庙木工～姓孙。｜不一刻，将水木～传到，不见魏川。（《八窍珠》三八）  
 1. 【[作天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin.md#作天)】`zah7 tin1` <small>/t͡sɑʔ7 tʰiɪ̃1/<sup>泰县</sup></small> ① 天气变坏。<sup>\[泰县\]</sup> ② 小孩哭闹。<sup>\[泰县\]</sup> ③ 胡乱折腾<sup>\[泰州\]</sup>：你指望他这个大少爷烧饭，不要～吧。<sup>\[泰州\]</sup>｜这个东西不喊木匠就弄得起来啊，你就歇歇神吧，不要～哿好？<sup>\[泰州\]</sup> ④ 已经痊愈的伤口以及风湿性关节炎之类患者因阴雨天气而疼痛<sup>\[泰州\]</sup>：他身上的刀口子～，一落雨就疼。<sup>\[泰州\]</sup>｜天不好，这条老寒腿～，有疼起来啊唻。<sup>\[泰州\]</sup>  
-1. 【[作天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin_seh.md#作天色)】`zah7 tin1 seh7` <sup>[如东]</sup> ① 天气变坏：这些日子～。 ② 小孩哭闹：这个伢儿～，老是哭。  
-1. 【[作天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin_seh.md#作天色)】`zah7 tin1 seh7` <small>/t͡sɑʔ7 tʰĩ1 səʔ7/<sup>泰兴</sup></small> 因天气变化而感到身体不适；天气变化将要下雨的样子。<sup>\[泰兴\]</sup>  
+1. 【[作天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tin_seh.md#作天色)】`zah7 tin1 seh7` <small>/t͡sɑʔ7 tʰĩ1 səʔ7/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如东\]</sup>：这些日子～。<sup>\[如东\]</sup> ② 小孩哭闹。<sup>\[如东\]</sup>：这个伢儿～，老是哭。<sup>\[如东\]</sup> ③ 因天气变化而感到身体不适；天气变化将要下雨的样子。<sup>\[泰兴\]</sup>  
 1. 【[作掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio.md#作掉)】`zah7 tio` 因胡乱折腾而浪费<sup>\[泰州\]</sup>：你弄到最后连个二本都不曾有得上，家里人把钱都用吖～啊唻。<sup>\[泰州\]</sup>  
 1. 【[作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio_a.md#作掉啊)】`zah7 tio a` <small>/t͡saʔ7 tʰiɔ a/<sup>如皋</sup>, /t͡sɑʔ7 tʰiɔ a/<sup>泰兴</sup></small> ① 失去了，浪费了<sup>\[如皋\]</sup>：他把个好机会～。<sup>\[如皋\]</sup> ② 浪费，糟蹋。\[泰兴：（泰兴口语又“作掉lei”）\]：箇们好的饭把狗子吃，不是～啦？<sup>\[泰兴\]</sup>  
 1. 【[作跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zah_tio.md#作跳)】`zah7 tio5` <sup>[如皋]</sup> 警告：你不要疯，竹棒儿在～！（表示要用它打你。）  
@@ -353,8 +350,7 @@
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_jy.md#喳巴嘴)】`zha1 ba jy3` <sup>[泰县]</sup> 不了解事实就乱说的人：这个人是个～，到啊那许只听他一个人的。  
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_jy.md#喳巴嘴)】`zha1 ba1 jy3` <sup>[东台]</sup> 说话随便，口无遮拦的人。（或作“奓巴嘴”，奓，张开。见《广韵》）  
 1. 【[喳巴喳巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴)】`zha1 ba1 zha1 ba1` <small>/t͡sa1 pa1 t͡sa1 pa1/<sup>兴化</sup></small> ① 形容旁若无人地乱说一气<sup>\[东台\]</sup>：那天他不该～的说咖不歇。<sup>\[东台\]</sup> ② 形容自充其能，喜欢说三道四的人<sup>\[兴化\]</sup>：这个婆娘了不得！到哪块只听她～的。<sup>\[兴化\]</sup>  
-1. 【[喳巴喳巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴的)】`zha1 ba1 zha1 ba1 dii` <sup>[如皋]</sup> 贬指多话。  
-1. 【[喳巴喳巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴的)】`zha1 ba1 zha1 ba1 dii` <small>/t͡sɑ1 pɑ1 t͡sɑ1 pɑ1 təɪ/<sup>泰兴</sup></small> 象声词。谓声音吵人，絮絮不休。<sup>\[泰兴\]</sup>  
+1. 【[喳巴喳巴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zha_ba.md#喳巴喳巴的)】`zha1 ba1 zha1 ba1 dii` <small>/t͡sa1 pa1 t͡sa1 pa1 tei/<sup>如皋</sup>, /t͡sɑ1 pɑ1 t͡sɑ1 pɑ1 təɪ/<sup>泰兴</sup></small> ① 贬指多话。<sup>\[如皋\]</sup> ② 象声词。谓声音吵人，絮絮不休。<sup>\[泰兴\]</sup>  
 1. 【[喳巴嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ba_zuei.md#喳巴嘴)】`zha1 ba1 zuei3` <sup>[兴化]</sup> 喜欢随嘴乱说的人：他是～，芝麻到他嘴里能说成西瓜。  
 1. 【[奓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#奓)】`zha1` <small>/t͡sa1/<sup>兴化</sup>, /t͡sɑ1/<sup>泰兴</sup>, /t͡sa1/<sup>泰县</sup></small> 张开。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：衣裳角～开啊。<sup>\[如东\]</sup>｜鞋子前头～开来啊。《广韵·祃韵》陟加切“～，张也，开也”。<sup>\[兴化\]</sup>｜你把嘴～下来。<sup>\[泰县\]</sup>｜教他封炭炉子的，他把个炉门～啊一夜。<sup>\[泰州\]</sup>｜你把嘴～开来，让医生望啊子。<sup>\[泰州\]</sup>｜二十万不多？你嘴一～多容易啊。<sup>\[泰州\]</sup>｜把嘴～下来<sup>\[泰兴\]</sup>  
 1. 【[奓嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jy.md#奓嘴)】`zha1 jy3` <small>/t͡sa1 t͡ɕy3/<sup>如皋</sup></small> ① 张开嘴。<sup>\[如皋\]</sup> ② 嘴巴张开来。<sup>\[如东\]</sup>：天气太热，麻雀也～。<sup>\[如东\]</sup>  
@@ -756,8 +752,7 @@
 1. 【[汁浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_jian.md#汁浆)】`zheh7 jian1` <sup>[如东]</sup> 植物体内营养物质的含量：秋天，银杏叶内的～最多。  
 1. 【[汁水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_shuei.md#汁水)】`zheh7 shuei` <small>/t͡səʔ7 suəi/<sup>兴化</sup>, /t͡səʔ7 suəɪ/<sup>泰兴</sup></small> ① 某些物质里所含液体<sup>\[兴化\]</sup>：（进忠）将药俱洗净了，揉去～，放在篮内……（《梼杌闲评》十九）<sup>\[兴化\]</sup> ② 植物内部黏稠汁液，多指水果汁液<sup>\[泰州\]</sup>：梨子放的时间长吖，没得甚的～唻。<sup>\[泰州\]</sup> ③ 汁液，汤水。<sup>\[泰兴\]</sup>  
 1. 【[窄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窄)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup></small> ① 汤量小。与“野”汤相对。<sup>\[如皋\]</sup>：红烧鱼～～儿的汤。<sup>\[如皋\]</sup> ② 狭小、逼仄<sup>\[泰兴\]</sup>  
-1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <sup>[东台]</sup> 空间狭小，狭窄。  
-1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> 狭窄、狭小。或比喻心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
+1. 【[窄狭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_haeh.md#窄狭)】`zheh7 haeh` <small>/t͡səʔ7 xæʔ/<sup>泰兴</sup></small> ① 空间狭小，狭窄。<sup>\[东台\]</sup> ② 狭窄、狭小。或比喻心胸不宽广。<sup>\[泰兴\]</sup>：家里房子小，～。<sup>\[泰兴\]</sup>  
 1. 【[窄窄哝哝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_non_non.md#窄窄哝哝)】`zheh7 zheh7 non2 non2` <small>/t͡səʔ7 t͡səʔ7 loŋ2 loŋ2/<sup>兴化</sup>, /t͡səʔ7 t͡səʔ7 noŋ2 noŋ2/<sup>泰县</sup></small> ① 行动不灵活。<sup>\[泰县\]</sup> ② 同“折折哝哝”。<sup>\[东台\]</sup> ③ 吞吞吐吐，欲言又止<sup>\[兴化\]</sup>：他说话～的。<sup>\[兴化\]</sup> ④ 欲与难舍的样子<sup>\[兴化\]</sup>：她要把钱，又～的舍不得。<sup>\[兴化\]</sup>  
 1. 【[窄窄<sub>儿</sub>汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh_r_tan.md#窄窄<sub>儿</sub>汤)】`zheh7 zheh7 r tan1` <sup>[东台]</sup> 烧菜时放少量的水，使菜肴的汤汁可口。（汤多称宽汤）  
 1. 【[窒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#窒)】`zheh7` <small>/t͡səʔ7/<sup>泰县</sup></small> 堵塞<sup>\[东台\]</sup><sup>\[泰县\]</sup>：泥门～洞。<sup>\[东台\]</sup>｜把瓶口～起来。<sup>\[泰县\]</sup>  
@@ -887,8 +882,7 @@
 1. 【[枕头芯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_xien_zz.md#枕头芯子)】`zhen3 teu xien1 zz` <sup>[如皋]</sup> 枕内衬物。  
 1. 【[枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu.md#枕头)】`zhen3 teu2` <sup>[如东]</sup> 人睡觉时垫在头颈下面的一只长条形的物体，多数是布料做成的，也有籐条、木板、陶瓷制作的。  
 1. 【[枕头套子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_teu_to_zz.md#枕头套子)】`zhen3 teu2 to5 zz` <small>/t͡səŋ3 tʰəɪ2 tʰɔ5 t͡sɿ/<sup>泰兴</sup></small> ① 罩在枕头外面的布套。<sup>\[东台\]</sup> ② 枕套。<sup>\[泰兴\]</sup>  
-1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <sup>[东台]</sup> 皮肤病变，由外感刺激所致，有风～，湿～之分。  
-1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <small>/t͡səŋ3 t͡sɿ/<sup>泰兴</sup></small> 皮肤上生的小疙瘩。<sup>\[泰兴\]</sup>  
+1. 【[疹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#疹子)】`zhen3 zz` <small>/t͡səŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 皮肤病变，由外感刺激所致，有风～，湿～之分。<sup>\[东台\]</sup> ② 皮肤上生的小疙瘩。<sup>\[泰兴\]</sup>  
 1. 【[紾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#紾)】`zhen3` <sup>[泰州]</sup> 两手紧握织品，分别向相反方向用力，使织物收紧，挤出其中的水：你去～个手巾把子上来给爷爷揩脸。｜衣裳汏啊好啊唻，你把衣裳～吖干吖㫰起来。  
 1. 【[紾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz.md#紾子)】`zhen3 zz` <sup>[东台]</sup> 线条状物体缠绞、扭拧形成的螺旋式纹路：搓绳就要上～，拆绳就要放～。  
 1. 【[怔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#怔)】`zhen5` <sup>[兴化]</sup> 发愣、发呆：听说老刘突然去世，我登时～住啊。｜他没得事就在门口～～的站吖下。  
@@ -1060,8 +1054,7 @@
 1. 【[朝年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nin_zz.md#朝年子)】`zho1 nin zz` <sup>[如皋]</sup> 过去的年份。  
 1. 【[朝年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_nin.md#朝年)】`zho1 nin2` <sup>[东台]</sup> 以往正常年景：～这时候要穿棉袄。今年子天暖不需要。  
 1. 【[朝起三光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_qi_saen_guan.md#朝起三光)】`zho1 qi3 saen1 guan1` <sup>[东台]</sup> 朝通早，“三光”即日、月、星辰，意思是说早起可见，诸事可做；后半句为“晏起三荒”，即晚起床荒心、荒事、荒食，心思怠惰，诸事荒废。（也说“三慌”，即慌慌张张）  
-1. 【[朝日家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_rih_ga.md#朝日家)】`zho1 rih ga` <sup>[如皋]</sup> 以往的日子、以前的时候。有时说成zhoh7 ga。  
-1. 【[朝日家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_rih_ga.md#朝日家)】`zho1 rih ga` <small>/t͡sɔ1 iʔ kɑ/<sup>泰兴</sup></small> 往日；以前。<sup>\[泰兴\]</sup>  
+1. 【[朝日家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_rih_ga.md#朝日家)】`zho1 rih ga` <small>/t͡sɔ1 ɻiʔ ka/<sup>如皋</sup>, /t͡sɔ1 iʔ kɑ/<sup>泰兴</sup></small> ① 以往的日子、以前的时候。有时说成zhoh7 ga。<sup>\[如皋\]</sup> ② 往日；以前。<sup>\[泰兴\]</sup>  
 1. 【[朝日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_rih_zz.md#朝日子)】`zho1 rih zz` <sup>[如皋]</sup> 见“朝日家”。  
 1. 【[朝日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_rih.md#朝日)】`zho1 rih8` <sup>[如东]</sup> 从前：～穷吖！  
 1. 【[朝朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zho.md#朝朝)】`zho1 zho1` <small>/t͡sɔ1 t͡sɔ1/<sup>如皋</sup>, /t͡sɔ1 t͡sɔ1/<sup>泰兴</sup></small> ① 每天、每日<sup>\[如皋\]</sup> ② 天天。<sup>\[东台\]</sup> ③ 以往，过去<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：以往通常情况\]：～他早就来啊，怎吖今吖不曾来？<sup>\[东台\]</sup>｜他～不是这样子的，现在不晓得怎吖就变吖势。<sup>\[泰州\]</sup>｜～他家的条件还不丑，这两年望吖像不行吖唻。<sup>\[泰州\]</sup>  
@@ -1834,8 +1827,7 @@
 1. 【[蛀𧚅裆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_lan_dan_r.md#蛀𧚅裆<sub>儿</sub>)】`zhv5 lan3 dan1 r` <sup>[如皋]</sup> 蛀虫吐丝缠住蛀屑形成的长串。  
 1. 【[蛀毛癣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_mo_xiun.md#蛀毛癣)】`zhv5 mo2 xiun3` <small>/t͡su5 mɔ2 ɕyũ3/<sup>兴化</sup>, /t͡su5 mɔ2 ɕyʊ̃3/<sup>如皋</sup></small> ① 头癣，有银屑，可致秃发。<sup>\[如皋\]</sup> ② 秃疮。<sup>\[兴化\]</sup>  
 1. 【[蛀牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga.md#蛀牙)】`zhv5 nga2` <sup>[东台]</sup> 龋齿。  
-1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <sup>[如东]</sup> 龋齿。  
-1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <small>/t͡su5 ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> 龋齿的俗称。<sup>\[泰兴\]</sup>  
+1. 【[蛀牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_nga_zz.md#蛀牙子)】`zhv5 nga2 zz` <small>/t͡su5 ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 龋齿。<sup>\[如东\]</sup> ② 龋齿的俗称。<sup>\[泰兴\]</sup>  
 1. 【[蛀屑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv_xih_zz.md#蛀屑子)】`zhv5 xih7 zz` <small>/t͡su5 ɕiʔ7 t͡sɿ/<sup>泰兴</sup></small> 喻指陈旧的观点。<sup>\[泰兴\]</sup>：搉～<sup>\[泰兴\]</sup>  
 1. 【[𣥼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhv.md#𣥼)】`zhv5` <small>/t͡su5/<sup>如皋</sup>, /t͡su5/<sup>泰兴</sup></small> 盛物于器<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：拿袋儿～米<sup>\[如皋\]</sup>｜把饭～啊淘箩儿里<sup>\[如皋\]</sup>｜把粮食～起来<sup>\[泰兴\]</sup>  
 1. 【[糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo.md#糟)】`zo1` ① 酿酒剩下的渣滓。<sup>\[如东\]</sup> ② 酒酿<sup>\[东台\]</sup>：酒～、<sup>\[东台\]</sup> ③ 用酒糟腌制的鱼<sup>\[东台\]</sup>：～鱼。<sup>\[东台\]</sup> ④ 酒糟类食物<sup>\[东台\]</sup>：酒～蛋<sup>\[东台\]</sup>｜酒～天竺果子。<sup>\[东台\]</sup>  
@@ -2021,8 +2013,7 @@
 1. 【[做呆事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_dae_shr.md#做呆事)】`zu5 dae1 shr6` <sup>[如皋]</sup> 见“做笨事”。  
 1. 【[做呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_dae_zz.md#做呆子)】`zu5 dae1 zz` <sup>[如皋]</sup> ① 故意忍让。 ② 在游戏“打呆子”中做被打者。  
 1. 【[做电灯泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_din_den_po.md#做电灯泡)】`zu5 din5 den1 po1` <sup>[东台]</sup> 男女谈情说爱，另有一人不知趣地待在一旁。  
-1. 【[做倒头梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_do_teu_mon.md#做倒头梦)】`zu5 do3 teu2 mon6` <sup>[东台]</sup> （詈语）同“做大梦”，但语气更重，也作“做大头梦”。  
-1. 【[做倒头梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_do_teu_mon.md#做倒头梦)】`zu5 do3 teu2 mon6` <small>/t͡sɤɯ5 tɔ3 tʰəɪ2 mɔŋ1/<sup>泰兴</sup></small> 做梦。骂人语。<sup>\[泰兴\]</sup>  
+1. 【[做倒头梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_do_teu_mon.md#做倒头梦)】`zu5 do3 teu2 mon6` <small>/t͡sɤɯ5 tɔ3 tʰəɪ2 mɔŋ1/<sup>泰兴</sup></small> ① （詈语）同“做大梦”，但语气更重，也作“做大头梦”。<sup>\[东台\]</sup> ② 做梦。骂人语。<sup>\[泰兴\]</sup>  
 1. 【[做东](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don.md#做东)】`zu5 don1` <small>/t͡sʊ5 tɔŋ1/<sup>如皋</sup>, /t͡sɤɯ5 tɔŋ1/<sup>泰兴</sup></small> 请客，做东道主。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[做东道主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_don_to_zhv.md#做东道主)】`zu5 don1 to6 zhv3` <sup>[如皋]</sup> 见“惠东”。  
 1. 【[做对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_duei.md#做对)】`zu5 duei5` <sup>[兴化]</sup> 跟人为难，做对头：“听说同你～的那个许道权也在其列……”（《广陵潮》七七）  
@@ -2041,8 +2032,7 @@
 1. 【[做杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_go_zz.md#做杲子)】`zu5 go3 zz` <sup>[如东]</sup> 做活计：我的身体好啊，能够～啊。  
 1. 【[做怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guae.md#做怪)】`zu5 guae5` <small>/t͡sʊ5 kuɛ5/<sup>如皋</sup>, /t͡sɤɯ5 kuɛ5/<sup>泰兴</sup></small> ① 昵嗔作客者拘谨、不大方。即“丢怪”。<sup>\[如皋\]</sup> ② 装着难为情的样子。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ③ 故意做出格式给别人看。<sup>\[东台\]</sup> ④ 玩耍；做游戏。多指小孩玩耍。<sup>\[泰兴\]</sup>  
 1. 【[做关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guaen_moh.md#做关目)】`zu5 guaen1 moh` <small>/t͡sʊ5 kuẽ1 mɔʔ/<sup>如皋</sup></small> ① 婴儿的下意识的表情。<sup>\[如皋\]</sup> ② 贬指装腔作势的样子。<sup>\[如皋\]</sup> ③ 进行一些带有巫术、迷信意味的活动<sup>\[泰州\]</sup>：这块落头（地方）老早枪毙过人，后来大楼开工，特地请吖人～。<sup>\[泰州\]</sup>  
-1. 【[做关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guaen_moh_saen.md#做关目三)】`zu5 guaen1 moh saen1` <sup>[如皋]</sup> 指装腔作势的样子。  
-1. 【[做关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guaen_moh_saen.md#做关目三)】`zu5 guaen1 moh saen1` <small>/t͡sɤɯ5 kuɛ̃1 mɔʔ ɕiɛ̃1/<sup>泰兴</sup></small> 做手势；做格式。暗中做手脚。<sup>\[泰兴\]</sup>  
+1. 【[做关目三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guaen_moh_saen.md#做关目三)】`zu5 guaen1 moh saen1` <small>/t͡sʊ5 kuẽ1 mɔʔ sẽ1/<sup>如皋</sup>, /t͡sɤɯ5 kuɛ̃1 mɔʔ ɕiɛ̃1/<sup>泰兴</sup></small> ① 指装腔作势的样子。<sup>\[如皋\]</sup> ② 做手势；做格式。暗中做手脚。<sup>\[泰兴\]</sup>  
 1. 【[做关目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guaen_moh.md#做关目)】`zu5 guaen1 moh8` <sup>[如东]</sup> 手或眼示意一种信息，多指婴儿的某些下意识的动作：亮亮已经会做～。  
 1. 【[做鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guei.md#做鬼)】`zu5 guei3` <small>/t͡sʊ5 kuei3/<sup>如皋</sup>, /t͡sɤɯ5 kuəɪ3/<sup>泰兴</sup></small> ① 不大方。<sup>\[如皋\]</sup> ② 假装。<sup>\[如皋\]</sup> ③ 假装。<sup>\[如东\]</sup>：他在下～。<sup>\[如东\]</sup> ④ 装模作样；<sup>\[东台\]</sup> ⑤ 小气、吝啬。<sup>\[东台\]</sup> ⑥ 装佯；装假；亦称“做格式”。<sup>\[泰兴\]</sup>  
 1. 【[做鬼脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_guei_lin.md#做鬼脸)】`zu5 guei3 lin3` <sup>[泰州]</sup> 挤眉弄眼，龇牙咧嘴扮出滑稽或者丑恶表情讥笑他人：你不要同我～，我马上就来收拾你。  
@@ -2083,13 +2073,11 @@
 1. 【[做弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_lon.md#做弄)】`zu5 lon6` <sup>[如东]</sup> 出坏主意戏弄人。  
 1. 【[做买卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mae_mae.md#做买卖)】`zu5 mae3 mae6` <sup>[如东]</sup> 做生意。  
 1. 【[做忙月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_man_iuh.md#做忙月)】`zu5 man2 iuh8` <small>/t͡so5 maŋ2 yuʔ8/<sup>兴化</sup>, /t͡so5 mɑŋ2 yʊʔ8/<sup>泰县</sup></small> ① 农忙时节帮助人家做工。<sup>\[如东\]</sup> ② 今称家政服务。<sup>\[兴化\]</sup> ③ 忙时帮人家做工。<sup>\[泰县\]</sup>  
-1. 【[做媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mei.md#做媒)】`zu5 mei2` <sup>[如东]</sup> 介绍婚姻：请王二～。  
-1. 【[做媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mei.md#做媒)】`zu5 mei2` <small>/t͡sɤɯ5 məɪ2/<sup>泰兴</sup></small> 给人介绍对象。<sup>\[泰兴\]</sup>  
+1. 【[做媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mei.md#做媒)】`zu5 mei2` <small>/t͡sɤɯ5 məɪ2/<sup>泰兴</sup></small> ① 介绍婚姻。<sup>\[如东\]</sup>：请王二～。<sup>\[如东\]</sup> ② 给人介绍对象。<sup>\[泰兴\]</sup>  
 1. 【[做闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_men_shuei.md#做闷水)】`zu5 men1 shuei3` <sup>[如东]</sup> 游泳的一种方式。人体潜入水中，手划脚蹬，推动身体前进。也叫潜泳、潜水、扎猛子。  
 1. 【[做媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mi.md#做媒)】`zu5 mi2` <sup>[东台]</sup> 做婚姻介绍人。  
 1. 【[做梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mon.md#做梦)】`zu5 mon6` <small>/t͡sʊ5 mɔŋ1/<sup>如皋</sup></small> ① 对对方的言论表示不屑，带嘲讽的口吻。 ② 隐指男女交合。<sup>\[如皋\]</sup> ③ 婉言责怪、欺侮：你不要光是同他～，我实在看不下去！<sup>\[如皋\]</sup> ④ 不屑于：送吖这吖点儿杲子啊，～哎！<sup>\[如皋\]</sup> ⑤ 睡眠时局部大脑皮层没有完全停止活动而引起的脑中的表象活动。<sup>\[如东\]</sup> ⑥ 比喻事情不可能成功。<sup>\[如东\]</sup>：这种想法是～。<sup>\[如东\]</sup> ⑦ 没有事做。<sup>\[如东\]</sup>：我在家里～。<sup>\[如东\]</sup> ⑧ 本指入睡后大脑皮层未完全抑制，脑海中出现各种奇幻情景。<sup>\[东台\]</sup> ⑨ ［喻］不切实际的空想。<sup>\[东台\]</sup>  
-1. 【[做满月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mun_iuh.md#做满月)】`zu5 mun3 iuh8` <sup>[如东]</sup> 妇女产后一个月，身体基本恢复，请亲友喝酒，称做满月。  
-1. 【[做满月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mun_iuh.md#做满月)】`zu5 mun3 iuh8` <small>/t͡sɤɯ5 mʊ̃3 yʊʔ8/<sup>泰兴</sup></small> 在婴儿出生满一个月时，举行某种仪式或庆祝活动，称为“做满月”。<sup>\[泰兴\]</sup>  
+1. 【[做满月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_mun_iuh.md#做满月)】`zu5 mun3 iuh8` <small>/t͡sɤɯ5 mʊ̃3 yʊʔ8/<sup>泰兴</sup></small> ① 妇女产后一个月，身体基本恢复，请亲友喝酒，称做满月。<sup>\[如东\]</sup> ② 在婴儿出生满一个月时，举行某种仪式或庆祝活动，称为“做满月”。<sup>\[泰兴\]</sup>  
 1. 【[做獃人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_ren.md#做獃人)】`zu5 ngae2 ren2` <sup>[如皋]</sup> 不予通融，因之得罪于人。  
 1. 【[做矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae_zz.md#做矮子)】`zu5 ngae3 zz` <small>/t͡so5 ɛ3 t͡sɿ/<sup>兴化</sup>, /t͡sʊ5 ŋɛ3 t͡sɿ/<sup>如皋</sup>, /t͡sɤɯ5 ŋɛ3 t͡sɿ/<sup>泰兴</sup></small> ① 交往攀比中被矮化下来<sup>\[如皋\]</sup>：他家办喜事，我不曾去应酬，～啦！<sup>\[如皋\]</sup> ② 做事低人一等，感到没面子<sup>\[东台\]</sup>：前天老母生日，弟兄几个我出钱最少，真是～。<sup>\[东台\]</sup> ③ 不参与请客送礼活动<sup>\[兴化\]</sup>：他俫给头儿送礼贺寿，我怎吖好～？<sup>\[兴化\]</sup> ④ 充当等级、地位或者经济条件低下而无尊严的人<sup>\[泰州\]</sup>：老周家儿子结婚，大家都出1000块，你也不好～，也是1000块吧。<sup>\[泰州\]</sup> ⑤ 不参与要自己花钱的活动。<sup>\[泰兴\]</sup>  
 1. 【[做碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_ngae.md#做碍)】`zu5 ngae6` <small>/t͡sʊ5 ŋɛ1/<sup>如皋</sup>, /t͡sɤɯ5 ŋɛ1/<sup>泰兴</sup></small> ① 起纠纷，闹别扭，多指小孩 ② 指小孩间闹矛盾。<sup>\[如皋\]</sup> ③ 若称青年间闹矛盾为～，就表示看轻，不作一回事，起劝慰、化解作用。<sup>\[如皋\]</sup> ④ 小孩吵嘴打架。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ⑤ 小孩玩耍、调皮。<sup>\[泰兴\]</sup>  
@@ -2126,13 +2114,10 @@
 1. 【[做生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_rih.md#做生日)】`zu5 shen1 rih8` <sup>[泰州]</sup> 举办筵席以及其他活动庆贺生日。一般家庭做逢十的大生日；女儿出门前的小生日亦做，以其是在娘家做的最后一个生日之故；生日之前，邀请亲朋好友，客人要送肉、鱼、面条、馒头、爆竹或者红包等；中午吃面，晚上吃酒，称为“中面晚酒”；中午吃面之时，每个客人要从自已面碗之中挟出一根面条放进专用寿碗之中，此面由寿星享用，称为“添寿”；未邀请的街坊邻居家家都要送一碗带有“浇头”的面，以示共同庆贺之意；七十、八十、九十以上老人做大生日，要回赠每个客人一只寿碗。  
 1. 【[做甚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shen_nii.md#做甚的)】`zu5 shen2 nii` ① 做什么。<sup>\[如东\]</sup>：你在下～？<sup>\[如东\]</sup> ② 干什么，询问目的，或者什么事<sup>\[泰州\]</sup>：这吖晚来，你来～的？<sup>\[泰州\]</sup>｜你说这些没得用的话～？<sup>\[泰州\]</sup>  
 1. 【[做手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#做手)】`zu5 sheu3` <sup>[兴化]</sup> 制作的技术和质量：这件上装布料一般，～蛮好。  
-1. 【[做手艺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_i.md#做手艺)】`zu5 sheu3 i` <sup>[兴化]</sup> 做手工工匠：你是～的人，寻这几个钱不容易。  
-1. 【[做手艺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_i.md#做手艺)】`zu5 sheu3 i` <small>/t͡sɤɯ5 ɕiɤɯ3 ʝ/<sup>泰兴</sup></small> 做手工活；做技术活。<sup>\[泰兴\]</sup>  
+1. 【[做手艺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_i.md#做手艺)】`zu5 sheu3 i` <small>/t͡so5 sɤ3 i/<sup>兴化</sup>, /t͡sɤɯ5 ɕiɤɯ3 ʝ/<sup>泰兴</sup></small> ① 做手工工匠<sup>\[兴化\]</sup>：你是～的人，寻这几个钱不容易。<sup>\[兴化\]</sup> ② 做手工活；做技术活。<sup>\[泰兴\]</sup>  
 1. 【[做手脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_jiah.md#做手脚)】`zu5 sheu3 jiah7` <small>/t͡sɤɯ5 ɕiɤɯ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 暗中搞鬼，做小动作。<sup>\[东台\]</sup> ② 为达到某种目的而在暗中采取不正当措施<sup>\[泰州\]</sup>：这件事要保密，防止有人从中做手脚。<sup>\[泰州\]</sup> ③ 施展手段；暗中耍花样。<sup>\[泰兴\]</sup>  
-1. 【[做手续](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_soh.md#做手续)】`zu5 sheu3 soh` <sup>[兴化]</sup> 签订协议，办理有关文书：“……你愿意，我们就～；不愿意，就拉倒……”（《皮五辣子》一）  
-1. 【[做手续](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_soh.md#做手续)】`zu5 sheu3 soh` <small>/t͡sɤɯ5 ɕiɤɯ3 sɔʔ/<sup>泰兴</sup></small> 办理手续。<sup>\[泰兴\]</sup>  
-1. 【[做寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#做寿)】`zu5 sheu6` <sup>[东台]</sup> 举行寿庆仪式，宴请亲友。  
-1. 【[做寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#做寿)】`zu5 sheu6` <small>/t͡sɤɯ5 ɕiɤɯ1/<sup>泰兴</sup></small> 庆贺生目。多指为上了年纪的人贺寿。<sup>\[泰兴\]</sup>  
+1. 【[做手续](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu_soh.md#做手续)】`zu5 sheu3 soh` <small>/t͡so5 sɤ3 sɔʔ/<sup>兴化</sup>, /t͡sɤɯ5 ɕiɤɯ3 sɔʔ/<sup>泰兴</sup></small> ① 签订协议，办理有关文书<sup>\[兴化\]</sup>：“……你愿意，我们就～；不愿意，就拉倒……”（《皮五辣子》一）<sup>\[兴化\]</sup> ② 办理手续。<sup>\[泰兴\]</sup>  
+1. 【[做寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sheu.md#做寿)】`zu5 sheu6` <small>/t͡sɤɯ5 ɕiɤɯ1/<sup>泰兴</sup></small> ① 举行寿庆仪式，宴请亲友。<sup>\[东台\]</sup> ② 庆贺生目。多指为上了年纪的人贺寿。<sup>\[泰兴\]</sup>  
 1. 【[做势向](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shr_xian.md#做势向)】`zu5 shr5 xian5` <sup>[如东]</sup> 做准备：她早就在下～。  
 1. 【[做事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_shr.md#做事)】`zu5 shr6` <sup>[如皋]</sup> 操办红白喜事。  
 1. 【[做祀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_sz.md#做祀)】`zu5 sz6` <sup>[如东]</sup> 利用佛教和道教祭祀祖宗。  
@@ -2345,8 +2330,7 @@
 1. 【[紫河车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_cha.md#紫河车)】`zz3 hu2 cha1` <small>/t͡sɿ3 xʊ2 t͡sʰa1/<sup>如皋</sup></small> ① 即“胎盘”。<sup>\[如皋\]</sup> ② 健康人的胎盘。<sup>\[如东\]</sup>  
 1. 【[紫荷芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_y.md#紫荷芋)】`zz3 hu2 y6` <small>/t͡sɿ3 xɤɯ2 y1/<sup>泰兴</sup></small> 叶片、茎梗紫色的芋头。<sup>\[泰兴\]</sup>  
 1. 【[紫荷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_hu_zz.md#紫荷子)】`zz3 hu2 zz` <small>/t͡sɿ3 xɤɯ2 t͡sɿ/<sup>泰兴</sup></small> 一种蔬菜名。<sup>\[泰兴\]</sup>  
-1. 【[紫荆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫荆)】`zz3 jien1` <sup>[如东]</sup> 豆科植物紫荆，落叶乔木或大灌木。高约15米。有多数皮孔。单叶互生，近圆形，全缘。花先叶开放，花萼钟状，花冠蝶形，紫红色。荚果，扁圆形，红紫色。种子圆而扁。生长在田野或庭园。  
-1. 【[紫荆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫荆)】`zz3 jien1` <small>/t͡sɿ3 t͡ɕiŋ1/<sup>泰兴</sup></small> 树名。多年生木本植物，花紫色，故名。<sup>\[泰兴\]</sup>  
+1. 【[紫荆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫荆)】`zz3 jien1` <small>/t͡sɿ3 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 豆科植物紫荆，落叶乔木或大灌木。高约15米。有多数皮孔。单叶互生，近圆形，全缘。花先叶开放，花萼钟状，花冠蝶形，紫红色。荚果，扁圆形，红紫色。种子圆而扁。生长在田野或庭园。<sup>\[如东\]</sup> ② 树名。多年生木本植物，花紫色，故名。<sup>\[泰兴\]</sup>  
 1. 【[紫堇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien.md#紫堇)】`zz3 jien3` <sup>[如东]</sup> 罂粟科植物紫堇，一年生草本。高约30厘米。叶基生，三角形，羽状全裂，倒卵形。总状花序。花紫色。蒴果条形。种子黑色，扁球形。生长在沟边。  
 1. 【[紫堇花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_jien_hua.md#紫堇花)】`zz3 jien3 hua1` <sup>[如东]</sup> 罂粟科植物紫堇花。  
 1. 【[紫茉莉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_muh_li.md#紫茉莉)】`zz3 muh8 li` <sup>[如东]</sup> 紫茉莉科植物紫茉莉，一年生草本。高约1米。块根纺锤形，肉质，表面棕黑色，内面白色。茎直立，有膨大节。叶对生，卵形，全缘。花生于枝顶，萼管细长，上部扩大成喇叭形，白色或紫红。果实狭长形，黑色。种子直立，内藏丰富的白色粉质胚乳。栽培。  

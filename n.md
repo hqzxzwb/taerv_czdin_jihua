@@ -5,8 +5,7 @@
 1. 【[拿班<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_r.md#拿班<sub>儿</sub>)】`na2 baen1 r` <sup>[兴化]</sup> 装模作样，摆架子：“都这们扭扭捏捏的拿班儿，把好事都弄裂败了……”（《西游记》二三）  
 1. 【[拿班做腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_qian.md#拿班做腔)】`na2 baen1 zu5 qian1` <small>/nɑ2 pɛ̃1 t͡sɤɯ5 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> 装腔作势，摆架子<sup>\[泰兴\]</sup>  
 1. 【[拿班做势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_baen_zu_shr.md#拿班做势)】`na2 baen1 zu5 shr5` <sup>[兴化]</sup> 装模作样，摆架子：（他）原是一个娼家女子，模样也只中中，却是～，不肯轻易见客。（《二刻》三三）  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <sup>[兴化]</sup> 因付出太少，感到面子上难堪：新姑爷上门，这点见面礼怕～。  
-1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ② 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ③ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
+1. 【[拿不出手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_chueh_sheu.md#拿不出手)】`na2 beh chueh7 sheu3` <small>/la2 pəʔ t͡sʰuəʔ7 sɤ3/<sup>兴化</sup>, /nɑ2 pəʔ t͡sʰuəʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 因付出太少，感到面子上难堪<sup>\[兴化\]</sup>：新姑爷上门，这点见面礼怕～。<sup>\[兴化\]</sup> ② 自感礼物过于轻微，不好意思拿出送人<sup>\[泰州\]</sup>：外甥结婚，你做舅舅的只出二百块钱人情，恐怕拿不出手。<sup>\[泰州\]</sup> ③ 泛指造诣、水平远不及人而不好意思显示于人<sup>\[泰州\]</sup>：我写的这些文章是弄吖玩的，实在拿不出手！<sup>\[泰州\]</sup> ④ 谓自感（礼物）轻微或不如人，不好意思拿出去。<sup>\[泰兴\]</sup>  
 1. 【[拿不他下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ta_xia.md#拿不他下)】`na2 beh7 ta1 xia6` <sup>[如皋]</sup> 不能压住他的气势，不能使他屈服。此为宋、元白话语之一。又作“拿他不下”。  
 1. 【[拿不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_tio.md#拿不掉)】`na2 beh7 tio6` <sup>[如皋]</sup> 詈语。阴司来捉拿也捉不到，比喻此人十分厉害。  
 1. 【[拿不稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_beh_ven.md#拿不稳)】`na2 beh7 ven3` <small>/la2 pəʔ7 uən3/<sup>兴化</sup></small> 吃不准、没有把握<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他心里怎吖想，我到现在～。<sup>\[兴化\]</sup>｜这件事要是～，怎吖敢同你说大话。<sup>\[泰州\]</sup>  
@@ -45,8 +44,7 @@
 1. 【[拿老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lo.md#拿老)】`na2 lo3` <small>/la2 lɔ3/<sup>兴化</sup></small> ① 摆老资格，老相。<sup>\[东台\]</sup> ② 有所恃而态度强硬<sup>\[兴化\]</sup>：“沈姑娘，你也太～了……都像你这一毛不拔，我们喝西北风！”（《儒林外史》四一）<sup>\[兴化\]</sup>  
 1. 【[拿老保](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lo_bo.md#拿老保)】`na2 lo3 bo3` <sup>[兴化]</sup> 轻率地许诺：这件事难成功，你覅忙～。  
 1. 【[拿龙头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_teu.md#拿龙头)】`na2 lon2 teu2` <sup>[泰县]</sup> 领头。  
-1. 【[拿龙捉虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_zhuah_hv.md#拿龙捉虎)】`na2 lon2 zhuah7 hv3` <sup>[东台]</sup> ［喻］生龙活虎，能力很强：这几条汉子，个个都能～。  
-1. 【[拿龙捉虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_zhuah_hv.md#拿龙捉虎)】`na2 lon2 zhuah7 hv3` <small>/nɑ2 lɔŋ2 t͡suɑʔ7 fʋ3/<sup>泰兴</sup></small> 谓身强力壮，能适应艰苦的体力劳动。办事有朝气。<sup>\[泰兴\]</sup>  
+1. 【[拿龙捉虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_lon_zhuah_hv.md#拿龙捉虎)】`na2 lon2 zhuah7 hv3` <small>/nɑ2 lɔŋ2 t͡suɑʔ7 fʋ3/<sup>泰兴</sup></small> ① ［喻］生龙活虎，能力很强<sup>\[东台\]</sup>：这几条汉子，个个都能～。<sup>\[东台\]</sup> ② 谓身强力壮，能适应艰苦的体力劳动。办事有朝气。<sup>\[泰兴\]</sup>  
 1. 【[拿麻筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ma_jien.md#拿麻筋)】`na2 ma2 jien1` <sup>[如皋]</sup> ① 推拿一法，抓捏筋肉。 ② 抓住了关节点。  
 1. 【[拿门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_men.md#拿门)】`na2 men2` <sup>[如东]</sup> 绝招：这项手艺是他的～。  
 1. 【[拿摩瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mo_ven.md#拿摩瘟)】`na2 mo ven1` <sup>[如东]</sup> 比喻温顺、无用的老头：他是一个～，一天到晚不说话。  
@@ -62,8 +60,7 @@
 1. 【[拿乔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_qio.md#拿乔)】`na2 qio2` <small>/na2 t͡ɕʰiɔ2/<sup>如皋</sup>, /nɑ2 t͡ɕʰiɔ2/<sup>泰兴</sup>, /na2 t͡ɕʰiɔ2/<sup>泰县</sup></small> 摆架子刁难，能干而不干，抬高身价、要求更多利益<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：谈判中，一方越是急需，另一方越是～。<sup>\[如皋\]</sup>｜你不要～。<sup>\[如东\]</sup>｜能帮忙而不帮忙，是故意～。<sup>\[东台\]</sup>｜你不要～。<sup>\[泰县\]</sup>｜人家也是没得办法才来找你的，你要是能办的话就同他俫办啊子，不要再～唻。<sup>\[泰州\]</sup>  
 1. 【[拿人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren.md#拿人)】`na2 ren2` <small>/la2 lən2/<sup>兴化</sup>, /na2 ɻəŋ2/<sup>如皋</sup>, /na2 ɻəŋ2/<sup>泰县</sup></small> ① 使……过度……<sup>\[如皋\]</sup>：这场病真～，看吖瘦下去啊；服侍老爹真～，没日没夜的不歇劲。<sup>\[如皋\]</sup> ② 有吸引力，引人注意<sup>\[兴化\]</sup>：王少堂的“武十回”～。也说“拿得住人”。<sup>\[兴化\]</sup> ③ 不容易，难做到：这事有点儿～。<sup>\[泰县\]</sup>  
 1. 【[拿人开心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ren_kae_xien.md#拿人开心)】`na2 ren2 kae1 xien1` <sup>[泰州]</sup> 戏弄、取笑别人以使自己快乐：钱捱你俫赢吖走啊，就不要再拿人开心唻！  
-1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <sup>[兴化]</sup> 指用各种借口推托：谁请他一点事情，他有得～唻！  
-1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <small>/nɑ2 ɕiɛ̃1 t͡sɤɯ5 sɿ5/<sup>泰兴</sup></small> 借口推托；拿架子。<sup>\[泰兴\]</sup>  
+1. 【[拿三做四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zu_sz.md#拿三做四)】`na2 saen1 zu5 sz5` <small>/la2 sɛ̃1 t͡so5 sɿ5/<sup>兴化</sup>, /nɑ2 ɕiɛ̃1 t͡sɤɯ5 sɿ5/<sup>泰兴</sup></small> ① 指用各种借口推托<sup>\[兴化\]</sup>：谁请他一点事情，他有得～唻！<sup>\[兴化\]</sup> ② 借口推托；拿架子。<sup>\[泰兴\]</sup>  
 1. 【[拿三阻四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_saen_zv_sz.md#拿三阻四)】`na2 saen1 zv3 sz5` <sup>[东台]</sup> 再三再四找借口不答应。  
 1. 【[拿痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_sha.md#拿痧)】`na2 sha1` <sup>[如皋]</sup> 用按摩治理痧症：他用劲抐住咖算盘珠两旁边的奘筋，拿啊软吖，痧就退掉啊。  
 1. 【[拿食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_sheh.md#拿食)】`na2 sheh8` <sup>[如皋]</sup> 食欲旺：这一把小猪儿～吭，顿顿总把食槽儿里吃得精大光。  
@@ -82,12 +79,10 @@
 1. 【[拿舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tu.md#拿舵)】`na2 tu6` <small>/la2 tʰo6/<sup>兴化</sup>, /nɑ2 tʰɤɯ1/<sup>泰兴</sup>, /na2 tʰo1/<sup>泰县</sup></small> ① 行船时掌舵<sup>\[兴化\]</sup>：后面火舱里是一个十八九岁的妇人在里边～……（《儒林外史》五一）<sup>\[兴化\]</sup> ② （借）掌握方向<sup>\[兴化\]</sup>：“……二姑娘是我的老姑娘，不能随随便便，要让我来～”。（马春阳《访亲》）<sup>\[兴化\]</sup> ③ 掌舵。<sup>\[泰县\]</sup> ④ 掌握大局<sup>\[泰州\]</sup>：你一把手是～的人，这件事要慎重。<sup>\[泰州\]</sup> ⑤ 比喻把握大势、控制前进方向<sup>\[泰兴\]</sup>  
 1. 【[拿腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_tuei.md#拿腿)】`na2 tuei3` <sup>[兴化]</sup> 死亡的隐语：“对的，妖怪是个鱼精，被老猪一钉钯……拿了腿，打死了……”（扬一《通天河》）  
 1. 【[拿弯取直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_vaen_qy_cheh.md#拿弯取直)】`na2 vaen1 qy3 cheh8` <sup>[兴化]</sup> ① 将弯曲的道路，河流理成直线，以缩短里程，便利通行。 ② 将木料上弯曲部分削去，使之平直。  
-1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <sup>[如皋]</sup> 判定：门响吖，我～是儿子家来的，原来是风。  
-1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <small>/nɑ2 ʋəŋ3/<sup>泰兴</sup></small> 有把握；成功的可能性大。<sup>\[泰兴\]</sup>：我～吖他要走箇许过<sup>\[泰兴\]</sup>  
+1. 【[拿稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_ven.md#拿稳)】`na2 ven3` <small>/na2 ʋəŋ3/<sup>如皋</sup>, /nɑ2 ʋəŋ3/<sup>泰兴</sup></small> ① 判定<sup>\[如皋\]</sup>：门响吖，我～是儿子家来的，原来是风。<sup>\[如皋\]</sup> ② 有把握；成功的可能性大。<sup>\[泰兴\]</sup>：我～吖他要走箇许过<sup>\[泰兴\]</sup>  
 1. 【[拿现的，博赊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_xin_dii_bah.md#拿现的，博赊的)】`na2 xin6 dii bah7 sha1 dii` <small>/nɑ2 ɕĩ1 təɪ pɑʔ7 sɑ1 təɪ/<sup>泰兴</sup></small> 谓拿现成的东西换成欠的东西。<sup>\[泰兴\]</sup>  
 1. 【[拿准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zhuen.md#拿准)】`na2 zhuen3` <sup>[如东]</sup> 把问题弄准确：这件事你要～。  
-1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <sup>[兴化]</sup> 抓总、全面负责：镇长外出学习，镇里的工作由副镇长～。也说“抓总”。  
-1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <small>/nɑ2 t͡sɔŋ3/<sup>泰兴</sup></small> 负责全面工作<sup>\[泰兴\]</sup>  
+1. 【[拿总](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zon.md#拿总)】`na2 zon3` <small>/la2 t͡soŋ3/<sup>兴化</sup>, /nɑ2 t͡sɔŋ3/<sup>泰兴</sup></small> ① 抓总、全面负责<sup>\[兴化\]</sup>：镇长外出学习，镇里的工作由副镇长～。也说“抓总”。<sup>\[兴化\]</sup> ② 负责全面工作<sup>\[泰兴\]</sup>  
 1. 【[拿捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zuen.md#拿捘)】`na2 zuen5` <sup>[如东]</sup> 绳索上捘之后，拉力就大了。比喻得力：他就是这一手～。  
 1. 【[拿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_zz.md#拿子)】`na2 zz` <small>/la2 t͡sɿ/<sup>兴化</sup>, /na2 t͡sɿ/<sup>如皋</sup></small> ① 夹具。<sup>\[如皋\]</sup> ② 刁难别人、制服别人的借口或手段<sup>\[东台\]</sup>：这个老板～真大！<sup>\[东台\]</sup> ③ 架子<sup>\[兴化\]</sup>：玩～（摆架子）；～不小。<sup>\[兴化\]</sup>  
 1. 【[那摩文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_mu_ven.md#那摩文)】`na5 mu ven2` <sup>[东台]</sup> number one的变音。原指工头，现多指头一个、第一名：谈到唱歌，他竖起大拇指说，小王在全班是～！  
@@ -658,8 +653,7 @@
 1. 【[眼睛一眨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhaeh.md#眼睛一眨)】`ngaen3 jien ieh7 zhaeh7` <sup>[如皋]</sup> 状时间极短，变化极快：～，母鸡变雄鸭。  
 1. 【[眼睛一眨，老母鸡变雄鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhaeh.md#眼睛一眨，老母鸡变雄鸭)】`ngaen3 jien ieh7 zhaeh7 lo3 mu3 ji1 bin5 ion2 ngaeh7` <sup>[东台]</sup> 形容情况变化很快，出人意料。  
 1. 【[眼睛一睁，忙到熄灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ieh_zhen.md#眼睛一睁，忙到熄灯)】`ngaen3 jien ieh7 zhen1 man2 do5 xieh7 den1` <small>/ŋɛ̃3 t͡ɕiŋ iʔ7 t͡səŋ1 mɑŋ2 tɔ5 ɕiʔ7 təŋ1/<sup>泰兴</sup></small> 形容一天到晚忙忙碌碌。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
-1. 【[眼睛尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_jin.md#眼睛尖)】`ngaen3 jien jin1` <sup>[如东]</sup> ① 眼光锐利：他的～，马上就看透啊。 ② 看得远：这个伢儿的～，老早就看见吖。  
-1. 【[眼睛尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_jin.md#眼睛尖)】`ngaen3 jien jin1` <small>/ŋɛ̃3 t͡ɕiŋ t͡ɕĩ1/<sup>泰兴</sup></small> 视觉或眼光敏锐。<sup>\[泰兴\]</sup>  
+1. 【[眼睛尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_jin.md#眼睛尖)】`ngaen3 jien jin1` <small>/ŋɛ̃3 t͡ɕiŋ t͡ɕĩ1/<sup>泰兴</sup></small> ① 眼光锐利。<sup>\[如东\]</sup>：他的～，马上就看透啊。<sup>\[如东\]</sup> ② 看得远。<sup>\[如东\]</sup>：这个伢儿的～，老早就看见吖。<sup>\[如东\]</sup> ③ 视觉或眼光敏锐。<sup>\[泰兴\]</sup>  
 1. 【[眼睛靠鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ko_pieh.md#眼睛靠鼻子)】`ngaen3 jien ko5 pieh8 zz` <small>/ɛ̃3 t͡ɕin kʰɔ5 pʰiɪʔ8 t͡sɿ/<sup>兴化</sup>, /ŋɛ̃3 t͡ɕiŋ kʰɔ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> 极言靠得很近<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：两家人～，生吖话就难相处啊。<sup>\[兴化\]</sup>  
 1. 【[眼睛快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuae.md#眼睛快)】`ngaen3 jien kuae5` <sup>[如东]</sup> 观察问题迅速：还是他的～，马上就看清爽吖。  
 1. 【[眼睛蓝吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_laen_nga.md#眼睛蓝吖)】`ngaen3 jien laen2 nga` <sup>[如东]</sup> ① 眼球上长出一种蓝翳，遮蔽光线，看不清东西。 ② 比喻看不清问题。 ③ 比喻人快要死亡：他～。  
@@ -696,8 +690,7 @@
 1. 【[眼睛箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_gv_zz.md#眼睛箍子)】`ngaen3 jien1 gv1 zz` <sup>[东台]</sup> 上眼睑。  
 1. 【[眼睛好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_ho.md#眼睛好)】`ngaen3 jien1 ho3` <sup>[如皋]</sup> 视觉好（辨识力强）。  
 1. 【[眼睛尖灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_jin_lien.md#眼睛尖灵)】`ngaen3 jien1 jin1 lien2` <sup>[如皋]</sup> 目力好，视觉识辨力、记忆力强：伢儿～，一眼就认出我啊。  
-1. 【[眼睛眶子大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuan_zz.md#眼睛眶子大)】`ngaen3 jien1 kuan1 zz da6` <sup>[东台]</sup> 眼角高；瞧不起人。  
-1. 【[眼睛眶子大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuan_zz.md#眼睛眶子大)】`ngaen3 jien1 kuan1 zz da6` <small>/ŋɛ̃3 t͡ɕiŋ1 kʰuɑŋ1 t͡sɿ tɑ1/<sup>泰兴</sup></small> 谓自以为了不起，看不起人。<sup>\[泰兴\]</sup>  
+1. 【[眼睛眶子大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuan_zz.md#眼睛眶子大)】`ngaen3 jien1 kuan1 zz da6` <small>/ŋɛ̃3 t͡ɕiŋ1 kʰuɑŋ1 t͡sɿ tɑ1/<sup>泰兴</sup></small> ① 眼角高；瞧不起人。<sup>\[东台\]</sup> ② 谓自以为了不起，看不起人。<sup>\[泰兴\]</sup>  
 1. 【[眼睛眶子小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_kuan_zz.md#眼睛眶子小)】`ngaen3 jien1 kuan1 zz xio3` <sup>[东台]</sup> ① 见识少； ② 小心眼，容不得人。  
 1. 【[眼睛塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_tan.md#眼睛塘)】`ngaen3 jien1 tan2` <sup>[泰州]</sup> 眼窝：他发咖几天热，～都𠫓咖去啊唻。  
 1. 【[眼睛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_jien_teu.md#眼睛头)】`ngaen3 jien1 teu2` <sup>[泰州]</sup> 眼的前面，目光随时可以看到之处：你不要葬吖他～，他望见你就来气。  
@@ -730,8 +723,7 @@
 1. 【[眼泪债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ly_zhae.md#眼泪债)】`ngaen3 ly6 zhae5` <sup>[如皋]</sup> 因亲密者死去而久久伤心落泪：一提到儿子她就哭，死掉十年吖啦，真真还不清的～！  
 1. 【[眼面前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_min_qin.md#眼面前)】`ngaen3 min6 qin2` <small>/ɛ̃3 miɪ̃6 t͡ɕʰiɪ̃2/<sup>兴化</sup></small> ① 跟前，眼见到的地方<sup>\[兴化\]</sup>：东西放吖在～你都看不到。<sup>\[兴化\]</sup> ② 目前<sup>\[兴化\]</sup>：我俫先把～的困难解决咖，以后的事再说。<sup>\[兴化\]</sup> ③ 距离很近的地方或时间<sup>\[泰州\]</sup>：东西就在你～。<sup>\[泰州\]</sup>｜你还不抓紧时间复习，今年子高考是～的事。<sup>\[泰州\]</sup>  
 1. 【[眼毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_mo.md#眼毛)】`ngaen3 mo2` ① 睫毛 ② 眼睫毛。<sup>\[如东\]</sup>  
-1. 【[眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_moh.md#眼目)】`ngaen3 moh8` <sup>[如东]</sup> ① 视觉：落人～。 ② 为人暗中察看情况并通风报信的人：王二是张三的～。  
-1. 【[眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_moh.md#眼目)】`ngaen3 moh8` <small>/ŋɛ̃3 mɔʔ8/<sup>泰兴</sup></small> 体面，面目<sup>\[泰兴\]</sup>  
+1. 【[眼目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_moh.md#眼目)】`ngaen3 moh8` <small>/ŋɛ̃3 mɔʔ8/<sup>泰兴</sup></small> ① 视觉。<sup>\[如东\]</sup>：落人～。<sup>\[如东\]</sup> ② 为人暗中察看情况并通风报信的人。<sup>\[如东\]</sup>：王二是张三的～。<sup>\[如东\]</sup> ③ 体面，面目<sup>\[泰兴\]</sup>  
 1. 【[眼目下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_moh_xia.md#眼目下)】`ngaen3 moh8 xia6` <small>/ɛ̃3 mɔʔ8 ɕia6/<sup>兴化</sup></small> ① 目前，眼前的事。<sup>\[东台\]</sup> ② 目下、说话的时候：我～资金周转不灵，特地请你帮个忙。<sup>\[兴化\]</sup>  
 1. 【[眼眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ngaen.md#眼眼)】`ngaen3 ngaen` <small>/ŋɛ̃3 ŋɛ̃/<sup>泰兴</sup></small> 一点点；很少的一点。如“一眼眼”。<sup>\[泰兴\]</sup>  
 1. 【[眼眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_ngaen_r.md#眼眼<sub>儿</sub>)】`ngaen3 ngaen r` <small>/ŋẽ3 ŋe˞/<sup>如皋</sup></small> 状一点点儿<sup>\[如皋\]</sup>  
@@ -739,8 +731,7 @@
 1. 【[眼皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi.md#眼皮)】`ngaen3 pi2` <sup>[东台]</sup> 眼睑。  
 1. 【[眼（睛）皮打架](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_da_jia.md#眼（睛）皮打架)】`ngaen3 pi2 da3 jia5` <sup>[如皋]</sup> 开始打瞌睡。  
 1. 【[眼（睛）皮耷咖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_dah_ga.md#眼（睛）皮耷咖下)】`ngaen3 pi2 dah7 ga ha` <sup>[如皋]</sup> 眼微睁。  
-1. 【[眼皮底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_di_ha.md#眼皮底下)】`ngaen3 pi2 di3 ha` <sup>[泰州]</sup> 眼睛下面，即就在自己眼前：东西就在你～。  
-1. 【[眼皮底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_di_ha.md#眼皮底下)】`ngaen3 pi2 di3 ha` <small>/ŋɛ̃3 pʰʝ2 t͡ɕʝ3 xɑ/<sup>泰兴</sup></small> 眼前；身边。<sup>\[泰兴\]</sup>  
+1. 【[眼皮底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_di_ha.md#眼皮底下)】`ngaen3 pi2 di3 ha` <small>/ŋɛ̃3 pʰʝ2 t͡ɕʝ3 xɑ/<sup>泰兴</sup></small> ① 眼睛下面，即就在自己眼前<sup>\[泰州\]</sup>：东西就在你～。<sup>\[泰州\]</sup> ② 眼前；身边。<sup>\[泰兴\]</sup>  
 1. 【[眼（睛）皮发重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_faeh_chon.md#眼（睛）皮发重)】`ngaen3 pi2 faeh7 chon6` <sup>[如皋]</sup> 有了睡意。  
 1. 【[眼（睛）皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_zz.md#眼（睛）皮子)】`ngaen3 pi2 zz` <sup>[如皋]</sup> 眼睑。  
 1. 【[眼皮子跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_pi_zz_tio.md#眼皮子跳)】`ngaen3 pi2 zz tio5` <small>/ŋɛ̃3 pʰʝ2 t͡sɿ tʰiɔ5/<sup>泰兴</sup></small> 眼跳。旧时迷信，以为凶兆。<sup>\[泰兴\]</sup>  
@@ -915,8 +906,7 @@
 1. 【[硬棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_pan.md#硬棒)】`ngen6 pan6` <sup>[如东]</sup> ① 物体坚硬。 ② 比喻身体健壮：他老人家身体还蛮～的。  
 1. 【[硬币](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_pi.md#硬币)】`ngen6 pi6` <sup>[如东]</sup> 金属货币。  
 1. 【[硬碰硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_pon_ngen.md#硬碰硬)】`ngen6 pon5 ngen6` <small>/ŋəŋ1 pɔŋ5 ŋəŋ1/<sup>泰兴</sup></small> ① 用强硬的态度对待强硬的态度。比喻谈不拢。<sup>\[如东\]</sup>：你不能跟他～，态度要和气一点儿。<sup>\[如东\]</sup> ② 凭借自身过硬能力解决困难而取得的成功<sup>\[泰州\]</sup>：他是凭真本事～考上吖公务员的。<sup>\[泰州\]</sup> ③ 以强力对付强力；用真功夫与顽强的对手较量。<sup>\[泰兴\]</sup>  
-1. 【[硬器家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qi_ga_hu.md#硬器家伙)】`ngen6 qi ga1 hu` <sup>[如皋]</sup> 指大件家具、武器。  
-1. 【[硬器家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qi_ga_hu.md#硬器家伙)】`ngen6 qi ga1 hu` <small>/ŋəŋ1 t͡ɕʰʝ kɑ1 xɤɯ/<sup>泰兴</sup></small> 多谓陪嫁的主要的家具。<sup>\[泰兴\]</sup>  
+1. 【[硬器家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qi_ga_hu.md#硬器家伙)】`ngen6 qi ga1 hu` <small>/ŋəŋ1 t͡ɕʰʝ ka1 xʊ/<sup>如皋</sup>, /ŋəŋ1 t͡ɕʰʝ kɑ1 xɤɯ/<sup>泰兴</sup></small> ① 指大件家具、武器。<sup>\[如皋\]</sup> ② 多谓陪嫁的主要的家具。<sup>\[泰兴\]</sup>  
 1. 【[硬气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qi.md#硬气)】`ngen6 qi` <sup>[兴化]</sup> 刚强、有骨气：四姑娘～，再困难也不向人开口。  
 1. 【[硬犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qian.md#硬犟)】`ngen6 qian6` <small>/ŋəŋ1 t͡ɕʰiã1/<sup>如皋</sup>, /ŋəŋ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup>, /əŋ1 t͡ɕʰiɑŋ1/<sup>泰县</sup></small> ① 坚持见，强词夺理。<sup>\[如皋\]</sup> ② 脾气倔强，坚持己见，不听劝说：外头冷死啊，你死啊命的不肯加衣裳，～有甚的好处！<sup>\[如皋\]</sup> ③ 固执己见，与人争执时毫不退让<sup>\[东台\]</sup>：这事你错了，不要～。<sup>\[东台\]</sup> ④ 固执已见。<sup>\[泰县\]</sup> ⑤ 执拗地辩解；固执己见。<sup>\[泰兴\]</sup>  
 1. 【[硬吃刳瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngen_qieh_kua_gua.md#硬吃刳瓜)】`ngen6 qieh7 kua2 gua1` <sup>[如皋]</sup> 强制行动：借不借，要自愿，不好～的借。你越是～的，我越是不借！  
@@ -1510,8 +1500,7 @@
 1. 【[黏沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏沰沰)】`nin2 dah7 dah7` <sup>[兴化]</sup> 形容黏糊：糯米糍巴～的。  
 1. 【[黏耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏耷耷)】`nin2 dah7 dah7` <sup>[泰县]</sup> 物汁粘连不断：银耳汤～。  
 1. 【[黏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh.md#黏𪐏)】`nin2 deh7` <sup>[如皋]</sup> 有黏性，汤汁黏稠：紫玉米棒头儿吃起来是～的；大麦片煮的粥饮汤～。  
-1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <sup>[如东]</sup> 液体浓厚很有黏性：这种米酒好，喝咖嘴上～的。  
-1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <small>/nĩ2 təʔ7 təʔ7/<sup>泰兴</sup></small> 黏性十足<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这粽子～的<sup>\[东台\]</sup>  
+1. 【[黏𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh.md#黏𪐏𪐏)】`nin2 deh7 deh7` <small>/nĩ2 təʔ7 təʔ7/<sup>泰兴</sup></small> ① 液体浓厚很有黏性。<sup>\[如东\]</sup>：这种米酒好，喝咖嘴上～的。<sup>\[如东\]</sup> ② 黏性十足<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：这粽子～的<sup>\[东台\]</sup>  
 1. 【[黏𪐏𪐏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh_dii.md#黏𪐏𪐏的)】`nin2 deh7 deh7 dii` <sup>[如皋]</sup> 见“黏𪐏”。  
 1. 【[黏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_fon.md#黏缝)】`nin2 fon6` <sup>[如东]</sup> 黏匠用石灰、桐油、麻丝把船体上的缝隙堵死，使之密封不漏水。  
 1. 【[黏浃浃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_gaeh_gaeh_dii.md#黏浃浃的)】`nin2 gaeh7 gaeh7 dii` <sup>[如皋]</sup> 胯下、腋下黏湿状。  
@@ -1542,8 +1531,7 @@
 1. 【[捻线砣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_xin_tu_zz.md#捻线砣子)】`nin3 xin5 tu2 zz` <sup>[如皋]</sup> 猪或牛髈骨中段横穿铁钩做成的捻线工具。  
 1. 【[捻棕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zon.md#捻棕)】`nin3 zon1` <sup>[如皋]</sup> 将棕毛捻成线，留作他用。  
 1. 【[捻捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zuen.md#捻捘)】`nin3 zuen5` <small>/nĩ3 t͡suəŋ5/<sup>如皋</sup></small> ① 见“上捘”。<sup>\[如皋\]</sup> ② 上捘。<sup>\[如皋\]</sup>  
-1. 【[捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#捻子)】`nin3 zz` <sup>[如皋]</sup> 引火线。  
-1. 【[捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#捻子)】`nin3 zz` <small>/nĩ3 t͡sɿ/<sup>泰兴</sup></small> 用纸、纱等做成的条形或带状物，多作点火或引火用。<sup>\[泰兴\]</sup>：纸～<sup>\[泰兴\]</sup>  
+1. 【[捻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#捻子)】`nin3 zz` <small>/nĩ3 t͡sɿ/<sup>如皋</sup>, /nĩ3 t͡sɿ/<sup>泰兴</sup></small> ① 引火线。<sup>\[如皋\]</sup> ② 用纸、纱等做成的条形或带状物，多作点火或引火用。<sup>\[泰兴\]</sup>：纸～<sup>\[泰兴\]</sup>  
 1. 【[撵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#撵)】`nin3` <sup>[兴化]</sup> 追赶：他跑得快，我～好半天才截住他。  
 1. 【[碾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#碾)】`nin3` <sup>[如皋]</sup> 用脚搓：药工用双脚踏住碾盘的轴，在碾槽里～药；把烟头～熄。  
 1. 【[碾场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chan.md#碾场)】`nin3 chan2` <sup>[如皋]</sup> ① 在大场上用滚子碾压脱粒。 ② 做场时压实土层。  
@@ -1577,10 +1565,8 @@
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ny.md#□□)】`nio3 ny` <sup>[如皋]</sup> 唤猪声。  
 1. 【[嬲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#嬲)】`nio3` <sup>[如东]</sup> 戏弄。纠缠。  
 1. 【[嬲刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_dio.md#嬲刁)】`nio3 dio1` <sup>[如东]</sup> 挑剔，纠缠：这个伢儿～。  
-1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <sup>[如东]</sup> 摇摆着向前推进：脚指向前～。  
-1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <small>/niɔ3/<sup>泰兴</sup></small> 缠绕。微动不停。<sup>\[泰兴\]</sup>  
-1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <sup>[如东]</sup> 形容走路摇摇摆摆的样子：她走起路来～。  
-1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <small>/niɔ3 tʰɔŋ/<sup>泰兴</sup></small> 颤动，抖动，摆动。<sup>\[泰兴\]</sup>：蛇头在～<sup>\[泰兴\]</sup>  
+1. 【[袅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#袅)】`nio3` <small>/niɔ3/<sup>泰兴</sup></small> ① 摇摆着向前推进。<sup>\[如东\]</sup>：脚指向前～。<sup>\[如东\]</sup> ② 缠绕。微动不停。<sup>\[泰兴\]</sup>  
+1. 【[袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_ton.md#袅动)】`nio3 ton` <small>/niɔ3 tʰɔŋ/<sup>泰兴</sup></small> ① 形容走路摇摇摆摆的样子。<sup>\[如东\]</sup>：她走起路来～。<sup>\[如东\]</sup> ② 颤动，抖动，摆动。<sup>\[泰兴\]</sup>：蛇头在～<sup>\[泰兴\]</sup>  
 1. 【[鸟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio.md#鸟)】`nio3` <small>/niɔ3/<sup>如皋</sup></small> ① 爱挑剔、精明过分。<sup>\[如皋\]</sup> ② 脊椎动物的一纲，体温恒定，卵生，嘴内无齿，全身有羽毛，胸部有龙骨突起，前肢变成翼，后肢能行走。一般的鸟都会飞翔，也有的两翼退化，不能飞行。麻雀、鹰、鸭、驼鸟等都属于鸟类。<sup>\[如东\]</sup>  
 1. 【[鸟船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_chun.md#鸟船)】`nio3 chun2` <sup>[如东]</sup> 帆船的一种。船底尖，船头狭，两侧有突出的眼睛，似鸟眼。适宜于在浙江沿海等深水海区航行与停泊。  
 1. 【[鸟话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nio_hua.md#鸟话)】`nio3 hua6` <sup>[如皋]</sup> 挑剔性、抱怨性的话。  

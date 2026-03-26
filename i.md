@@ -43,8 +43,7 @@
 1. 【[姨丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan.md#姨丈)】`i2 chan6` <small>/ɿ2 t͡sʰɑŋ3/<sup>泰县</sup></small> ① 姨娘的丈夫。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup> ② 姨父，母亲的妹妹的丈夫。<sup>\[泰州\]</sup>  
 1. 【[姨丈母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan_mu.md#姨丈母)】`i2 chan6 mu` <sup>[兴化]</sup> 岳母的姐妹。  
 1. 【[姨丈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chan_ren.md#姨丈人)】`i2 chan6 ren` <sup>[兴化]</sup> 岳父的连襟。  
-1. 【[姨侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih.md#姨侄)】`i2 chih8` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的儿子。  
-1. 【[姨侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih.md#姨侄)】`i2 chih8` （女性的）姊妹的儿子，或妻子的姨侄  
+1. 【[姨侄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih.md#姨侄)】`i2 chih8` ① 姨兄弟、姨姐妹所生的儿子。<sup>\[如东\]</sup> ② （女性的）姊妹的儿子，或妻子的姨侄  
 1. 【[姨侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih_ny.md#姨侄女)】`i2 chih8 ny` <sup>[如东]</sup> 姨兄弟、姨姐妹所生的女儿。  
 1. 【[姨侄女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chih_ny.md#姨侄女)】`i2 chih8 ny3` （女性的）姊妹的女儿，或妻子的姨侄女  
 1. 【[姨爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_dia.md#姨爹)】`i2 dia1` <small>/ʝ2 tiɑ1/<sup>泰兴</sup></small> 姨父<sup>\[泰兴\]</sup>  
@@ -215,8 +214,7 @@
 1. 【[野韭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jieu_cae.md#野韭菜)】`ia3 jieu3 cae5` <small>/iɑ3 t͡ɕiɤɯ3 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种多年生草木植物，多植于墙脚等处或绿化景观处。其状若韭菜，故名。<sup>\[泰兴\]</sup>  
 1. 【[野菊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_jioh.md#野菊)】`ia3 jioh7` <sup>[如东]</sup> 菊科植物野菊，多年生草本。高约60厘米。顶部的枝通常被白色柔毛，有香气。叶互生，长圆状卵形，有羽状深裂片。头状花序顶生，数个排列成伞房花序。舌状花淡黄色。瘦果。生长在路边、丘陵荒地和林缘：～花  
 1. 【[野绿豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_loh_teu.md#野绿豆)】`ia3 loh8 teu6` <sup>[如东]</sup> 豆科植物鹿藿，多年生缠绕草本。各部密被淡黄色软毛。茎蔓长。3出羽状复叶；侧生小叶阔卵形，纸质。总态花序顶生。花黄色。荚果短矩形，红紫色。有2颗黑色有光的种子。生长在杂草中。  
-1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <sup>[东台]</sup> 不上规矩，没有拘束的人。  
-1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <small>/iɑ3 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> 不上规矩的人；游手好闲、不务正业的人。<sup>\[泰兴\]</sup>  
+1. 【[野驴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_ly_zz.md#野驴子)】`ia3 ly2 zz` <small>/iɑ3 ləɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 不上规矩，没有拘束的人。<sup>\[东台\]</sup> ② 不上规矩的人；游手好闲、不务正业的人。<sup>\[泰兴\]</sup>  
 1. 【[野猫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_zz.md#野猫子)】`ia3 mo2 zz` <sup>[兴化]</sup> ① 无人豢养的猫。 ② 摇篮曲中虚拟的怪物：～，你去吧，我家宝宝睡觉啦！  
 1. 【[野茅缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_mo_gan.md#野茅缸)】`ia3 mo2 gan1` <sup>[如东]</sup> ① 旷野中的厕所，外人可以登缸。 ② 比喻女人生活作风不好，外人可以随便占有：她是个～。  
 1. 【[野苜蓿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ia_moh_soh.md#野苜蓿)】`ia3 moh8 soh7` <sup>[如东]</sup> 豆科植物黄花苜蓿，多年生草本。高约70厘米。茎直立或匍匐，稍有毛，多分枝。三出复叶，小叶长圆状倒卵形，边缘具刺。总状花序腋生。花冠蝶形，黄色。荚果扁，矩形，弯曲成半月形，光滑，褐色。生长在原野沟边。  
@@ -1763,8 +1761,7 @@
 1. 【[烟油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ieu.md#烟油)】`in1 ieu2` ① 陈旧旱烟竿内积存的黑色膏油。<sup>\[如东\]</sup> ② 附着在烟枪、烟袋、香烟嘴管壁上的油垢。<sup>\[泰州\]</sup>  
 1. 【[烟油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ieu_zz.md#烟油子)】`in1 ieu2 zz` <sup>[兴化]</sup> 烟嘴或烟袋里积下的油垢。  
 1. 【[烟叶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ih_zz.md#烟叶子)】`in1 ih8 zz` <small>/ĩ1 iʔ8 t͡sɿ/<sup>泰兴</sup></small> 烟草的叶子。<sup>\[泰兴\]</sup>  
-1. 【[烟酒不分家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jieu_beh_fen.md#烟酒不分家)】`in1 jieu3 beh7 fen1 jia1` <sup>[东台]</sup> （俗语）作为交际物的烟酒共同享受，不分彼此。  
-1. 【[烟酒不分家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jieu_beh_fen.md#烟酒不分家)】`in1 jieu3 beh7 fen1 jia1` <small>/ĩ1 t͡ɕiɤɯ3 pəʔ7 fəŋ1 t͡ɕiɑ1/<sup>泰兴</sup></small> 谓抽烟饮酒大家一起享受<sup>\[泰兴\]</sup>：～，吃掉lei再去抓<sup>\[泰兴\]</sup>  
+1. 【[烟酒不分家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jieu_beh_fen.md#烟酒不分家)】`in1 jieu3 beh7 fen1 jia1` <small>/ĩ1 t͡ɕiɤɯ3 pəʔ7 fəŋ1 t͡ɕiɑ1/<sup>泰兴</sup></small> ① （俗语）作为交际物的烟酒共同享受，不分彼此。<sup>\[东台\]</sup> ② 谓抽烟饮酒大家一起享受<sup>\[泰兴\]</sup>：～，吃掉lei再去抓<sup>\[泰兴\]</sup>  
 1. 【[烟焦火辣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jio_hu_laeh.md#烟焦火辣)】`in1 jio1 hu3 laeh8` <small>/iɪ̃1 t͡ɕiɔ1 xo3 læʔ8/<sup>兴化</sup></small> ① 被烟尘及油酱等熏后产生的糊味<sup>\[兴化\]</sup>：“……我这衣服，熏得香扑扑的，难道还可以下厨办菜，惹得浑身～气味……”（《广陵潮》大九）<sup>\[兴化\]</sup> ② 经过烟熏火烤而沾上的难闻气味<sup>\[泰州\]</sup>：他才在厨房里忙吖，衣裳上有股～的味道。<sup>\[泰州\]</sup>  
 1. 【[烟柜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_kuei_zz.md#烟柜子)】`in1 kuei6 zz` <small>/ĩ1 kʰuei1 t͡sɿ/<sup>如皋</sup></small> ① 见“灶柜子”。<sup>\[如皋\]</sup> ② 灶门上方的集烟处。<sup>\[如皋\]</sup>  
 1. 【[烟末子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_muh_zz.md#烟末子)】`in1 muh8 zz` <sup>[东台]</sup> 碎烟叶，用于抽旱烟，过去商店里按斤两出售。  
@@ -1905,8 +1902,7 @@
 1. 【[厣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_zz.md#厣子)】`in3 zz` <small>/ĩ3 t͡sɿ/<sup>泰兴</sup></small> 螺类介壳口圆片状的盖；蟹腹下面的薄盖。<sup>\[泰兴\]</sup>  
 1. 【[掩扯<sub>儿</sub>摸鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_cha_r_mah.md#掩扯<sub>儿</sub>摸鼻子)】`in3 cha3 r mah8 pieh8 zz` <sup>[东台]</sup> 通过一些下意识的小动作分散别人注意力，回避某些事情。  
 1. 【[掩嘴<sub>儿</sub>笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jy_r_xio.md#掩嘴<sub>儿</sub>笑)】`in3 jy3 r xio5` <sup>[如东]</sup> 用手帕遮住嘴唇而微笑，多指女孩子。  
-1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <sup>[如东]</sup> 把门拉拢，不加闩锁：你走的时侯要～。  
-1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <small>/ĩ3 məŋ2/<sup>泰兴</sup></small> 将门关上，但不关紧或不加锁。<sup>\[泰兴\]</sup>：把门掩起来<sup>\[泰兴\]</sup>  
+1. 【[掩门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men.md#掩门)】`in3 men2` <small>/ĩ3 məŋ2/<sup>泰兴</sup></small> ① 把门拉拢，不加闩锁。<sup>\[如东\]</sup>：你走的时侯要～。<sup>\[如东\]</sup> ② 将门关上，但不关紧或不加锁。<sup>\[泰兴\]</sup>：把门掩起来<sup>\[泰兴\]</sup>  
 1. 【[掩门方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_men_fan.md#掩门方)】`in3 men2 fan1` <sup>[如东]</sup> 门栊。  
 1. 【[掩密](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mieh.md#掩密)】`in3 mieh8` <sup>[兴化]</sup> 隐蔽不外露：你囥钱的地方不～，露啊白。｜“你们做事也该放～一些，怎么就都睡着了，使老爹看见……”（《梼杌闲评》十五）  
 1. 【[掩人耳目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ren_er_moh.md#掩人耳目)】`in3 ren2 er3 moh8` <sup>[东台]</sup> ［喻］以假象蒙骗别人  
@@ -2015,11 +2011,9 @@
 1. 【[摇桶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ton_r.md#摇桶<sub>儿</sub>)】`io2 ton3 r` <sup>[如皋]</sup> 木桶式摇篮。  
 1. 【[摇网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_van.md#摇网)】`io2 van3` <sup>[如东]</sup> 一种捕鱼网具。片形，长6米，宽2米。麻线或尼龙线结成。作业时，通常把10片网或更多的网片连接起来，放在海洋里捕鱼。  
 1. 【[窑钵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_buh_r.md#窑钵<sub>儿</sub>)】`io2 buh7 r` <sup>[如皋]</sup> 一种粗制陶碗。  
-1. 【[窑货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu.md#窑货)】`io2 hu5` <sup>[兴化]</sup> 多指陶器：胡家还有一条大商船，雇方小二家包做～生意。（马春阳《姐妹姻缘船迷传》）  
-1. 【[窑货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu.md#窑货)】`io2 hu5` <small>/iɔ2 xɤɯ5/<sup>泰兴</sup></small> 陶瓷类货物。<sup>\[泰兴\]</sup>  
+1. 【[窑货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu.md#窑货)】`io2 hu5` <small>/iɔ2 xo5/<sup>兴化</sup>, /iɔ2 xɤɯ5/<sup>泰兴</sup></small> ① 多指陶器<sup>\[兴化\]</sup>：胡家还有一条大商船，雇方小二家包做～生意。（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup> ② 陶瓷类货物。<sup>\[泰兴\]</sup>  
 1. 【[窑货店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_din.md#窑货店)】`io2 hu5 din5` <sup>[如皋]</sup> 专卖陶器的商店。  
-1. 【[窑货行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_han.md#窑货行)】`io2 hu5 han2` <sup>[如皋]</sup> 专卖陶器的商店。  
-1. 【[窑货行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_han.md#窑货行)】`io2 hu5 han2` <small>/iɔ2 xɤɯ5 xɑŋ2/<sup>泰兴</sup></small> 出售陶瓷品的商行。<sup>\[泰兴\]</sup>  
+1. 【[窑货行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_hu_han.md#窑货行)】`io2 hu5 han2` <small>/iɔ2 xʊ5 xã2/<sup>如皋</sup>, /iɔ2 xɤɯ5 xɑŋ2/<sup>泰兴</sup></small> ① 专卖陶器的商店。<sup>\[如皋\]</sup> ② 出售陶瓷品的商行。<sup>\[泰兴\]</sup>  
 1. 【[窑匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qian.md#窑匠)】`io2 qian` <sup>[如皋]</sup> 烧窑师傅。  
 1. 【[窑上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shan.md#窑上)】`io2 shan` <sup>[如皋]</sup> 指窑或窑主。  
 1. 【[谣音](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ien.md#谣音)】`io2 ien1` <sup>[东台]</sup> 谣言：不要轻信那些～！  

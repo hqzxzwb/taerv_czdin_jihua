@@ -808,8 +808,7 @@
 1. 【[嚎丧狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu.md#嚎丧狗)】`ho2 san1 geu3` <sup>[如东]</sup> 比喻大叫大喊的人。  
 1. 【[嚎丧狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_san_geu_zz.md#嚎丧狗子)】`ho2 san1 geu3 zz` <sup>[泰县]</sup> 大喊大叫的人：你这个～不要叫。  
 1. 【[毫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho.md#毫)】`ho2` <sup>[如皋]</sup> 中、老年男性的痣、眉、耳鼻等处特长的毛。  
-1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <sup>[如皋]</sup> 传说人体的生物光。男性～大，女性～小，少年人～大，老人～小，有道行的人大，产妇没～。大可以辟邪、驱鬼。  
-1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <small>/xɔ2 kuɑŋ1/<sup>泰兴</sup></small> 光芒四射的样子；光亮，光点。<sup>\[泰兴\]</sup>：～冲天<sup>\[泰兴\]</sup>  
+1. 【[毫光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_guan.md#毫光)】`ho2 guan1` <small>/xɔ2 kuã1/<sup>如皋</sup>, /xɔ2 kuɑŋ1/<sup>泰兴</sup></small> ① 传说人体的生物光。男性～大，女性～小，少年人～大，老人～小，有道行的人大，产妇没～。大可以辟邪、驱鬼。<sup>\[如皋\]</sup> ② 光芒四射的样子；光亮，光点。<sup>\[泰兴\]</sup>：～冲天<sup>\[泰兴\]</sup>  
 1. 【[毫毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo.md#毫毛)】`ho2 mo2` <sup>[如东]</sup> ① 生长在人体皮肤表面的细毛。也称猴毛、寒毛，通称汗毛。 ② 比喻极小：碰伤几根～。  
 1. 【[毫毛鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_mo_y.md#毫毛鱼)】`ho2 mo2 y2` <sup>[如东]</sup> 鲱科动物斑鰶。体长约16厘米。  
 1. 【[毫䋟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ho_qi.md#毫䋟)】`ho2 qi6` <sup>[如皋]</sup> ① 秤纽。 ② 昆虫的触角。  
@@ -933,8 +932,7 @@
 1. 【[㖪㖪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_hoh_r.md#㖪㖪<sub>儿</sub>)】`hoh7 hoh7 r` <sup>[如皋]</sup> 爱吵嚷、生事的人。  
 1. 【[㖪事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_shr.md#㖪事)】`hoh7 shr6` <sup>[如皋]</sup> 煽动生事或扩大事态：他就专门欢喜～而不是息（搨taeh7）事。  
 1. 【[㖪痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_taen.md#㖪痰)】`hoh7 taen2` <sup>[如皋]</sup> ① 使劲喀出痰液。 ② 重病人或临危病人的痰鸣音。如皋词典写“嗀”。  
-1. 【[㖪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_ton.md#㖪动)】`hoh7 ton` <sup>[如皋]</sup> 吵嚷、怂恿：大家不要～，先听吖我说几句。  
-1. 【[㖪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_ton.md#㖪动)】`hoh7 ton` <small>/xɔʔ7 tʰɔŋ/<sup>泰兴</sup></small> 许多人一起哄吵；哄动。<sup>\[泰兴\]</sup>  
+1. 【[㖪动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_ton.md#㖪动)】`hoh7 ton` <small>/xɔʔ7 tʰɔŋ/<sup>如皋</sup>, /xɔʔ7 tʰɔŋ/<sup>泰兴</sup></small> ① 吵嚷、怂恿：大家不要～，先听吖我说几句。<sup>\[如皋\]</sup> ② 许多人一起哄吵；哄动。<sup>\[泰兴\]</sup>  
 1. 【[㖪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh_zz.md#㖪子)】`hoh7 zz` <sup>[如皋]</sup> 爱吵嚷、生事的人。  
 1. 【[䦝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#䦝)】`hoh7` <small>/xɔʔ7/<sup>兴化</sup></small> ① 用力关门<sup>\[兴化\]</sup>：他把门一～，锁起来啊。<sup>\[兴化\]</sup>｜风把门～起来。<sup>\[兴化\]</sup> ② 开门或关门时的声音。<sup>\[泰州\]</sup> ③ 突然使劲关门或开门<sup>\[泰州\]</sup>：他气啊斢过头把门一～，拔腿就走。<sup>\[泰州\]</sup>｜你有话好好说，～门做甚的唦？<sup>\[泰州\]</sup>  
 1. 【[掝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hoh.md#掝)】`hoh7` <small>/xɔʔ7/<sup>兴化</sup></small> ① 掀、抛<sup>\[东台\]</sup>：听到闹钟响，他被单一～就起啊床。<sup>\[东台\]</sup>｜垃圾要入箱，不能块块～！<sup>\[东台\]</sup> ② 用力泼<sup>\[兴化\]</sup>：～水；～泥。<sup>\[兴化\]</sup>｜谚曰：嫁出门的女儿，～出门的水。<sup>\[兴化\]</sup> ③ 用手将覆盖在上面的物体猛地掀开<sup>\[泰州\]</sup>：你慢吖点ㄦ哉，不要把塑料布～咖坏啊。<sup>\[泰州\]</sup>｜他把被单一～，人就爬起来啊。<sup>\[泰州\]</sup>  
@@ -1742,8 +1740,7 @@
 1. 【[黄泔水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gun_shuei.md#黄泔水)】`huan2 gun1 shuei3` <sup>[兴化]</sup> 生产豆腐过程中的废水：他磨好豆浆，连豆渣和～，分别装在两只粪桶里……（马春阳《父女双婚事》）  
 1. 【[黄姑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_gv_y.md#黄姑鱼)】`huan2 gv1 y2` <sup>[如东]</sup> 石首科动物黄姑鱼，体长约31厘米。  
 1. 【[黄蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hae.md#黄蟹)】`huan2 hae3` <sup>[如东]</sup> 海产品。八月以后，梭子蟹卵巢成熟，消化腺丰腴，煮熟后，蟹黄结块，呈橘红色，味鲜醉人。也叫姑娘蟹。  
-1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <sup>[如皋]</sup> 金、金饰品。  
-1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <small>/xuɑŋ2 xɤɯ5/<sup>泰兴</sup></small> 指黄金或黄金饰物。<sup>\[泰兴\]</sup>  
+1. 【[黄货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hu.md#黄货)】`huan2 hu5` <small>/xuã2 xʊ5/<sup>如皋</sup>, /xuɑŋ2 xɤɯ5/<sup>泰兴</sup></small> ① 金、金饰品。<sup>\[如皋\]</sup> ② 指黄金或黄金饰物。<sup>\[泰兴\]</sup>  
 1. 【[黄花脑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_no_zz.md#黄花脑子)】`huan2 hua no3 zz` <sup>[兴化]</sup> 脑浆：他一个大跟头，把～都栽出来啊。  
 1. 【[黄花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua.md#黄花)】`huan2 hua1` <sup>[如皋]</sup> 色黄、质次的棉花。  
 1. 【[黄花菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_hua_cae.md#黄花菜)】`huan2 hua1 cae5` 萱草属的一种植物，又名金针菜<sup>\[如东\]</sup><sup>\[东台\]</sup>  
@@ -2093,8 +2090,7 @@
 1. 【[混饭吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen_qieh.md#混饭吃)】`huen5 faen6 qieh7` <small>/xuəŋ5 fɛ̃1 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 谓为谋生而工作。也作“混嘴”。<sup>\[泰兴\]</sup>  
 1. 【[混混<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen_r.md#混混<sub>儿</sub>)】`huen5 huen r` <sup>[兴化]</sup> 游手好闲的青皮无赖。也叫“混混子”。  
 1. 【[混混](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huen.md#混混)】`huen5 huen5` <small>/xuəŋ5 xuəŋ5/<sup>泰兴</sup></small> 苟且度日。<sup>\[泰兴\]</sup>  
-1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <sup>[如皋]</sup> 见“混子”。  
-1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <small>/xuəŋ5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 能言善辩，能把事情摆平的人。多作贬义。<sup>\[泰兴\]</sup>  
+1. 【[混脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah.md#混脚)】`huen5 jiah7` <small>/xuəŋ5 t͡ɕiaʔ7/<sup>如皋</sup>, /xuəŋ5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 见“混子”。<sup>\[如皋\]</sup> ② 能言善辩，能把事情摆平的人。多作贬义。<sup>\[泰兴\]</sup>  
 1. 【[混脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_jiah_r.md#混脚<sub>儿</sub>)】`huen5 jiah7 r` <sup>[兴化]</sup> 在外混世的人：他是～，跟在头头后边三年不到，由临时工混上副总。  
 1. 【[混来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混来)】`huen5 lae2` <sup>[如东]</sup> 蛮干，乱干。  
 1. 【[混赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lae.md#混赖)】`huen5 lae6` <sup>[兴化]</sup> ① 抵赖：他明明借啊王二的钱，到期不还想～。 ② 骗取、冒认：才把解珍、解宝押到厅前，不由分说，捆翻便打，定要他两个招做“～大虫……”。（《水浒传》四九）  

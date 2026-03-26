@@ -141,8 +141,7 @@
 1. 【[开庄遗址](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zhuan_i_zhr.md#开庄遗址)】`kae1 zhuan1 i2 zhr3` <sup>[东台]</sup> 位于溱东镇开庄。出土文物距今4700年左右，其文化性质为良渚文化类型。  
 1. 【[开早工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_zo_gon.md#开早工)】`kae1 zo3 gon1` <sup>[如东]</sup> ① 早饭前下田做活计。 ② 提前上班。  
 1. 【[揩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#揩)】`kae1` <small>/kʰɛ1/<sup>兴化</sup>, /kʰɛ1/<sup>泰兴</sup></small> ① 擦、抹、拭<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～桌子。<sup>\[如东\]</sup>｜～汗；～梨子。<sup>\[兴化\]</sup>｜拿块布～～干净。<sup>\[泰州\]</sup> ② 洗<sup>\[兴化\]</sup>：～脸（用湿布擦脸和用水洗脸都说～脸）。<sup>\[兴化\]</sup>  
-1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <sup>[如皋]</sup> 从中捞取好处。  
-1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <small>/kʰɛ1 iɤɯ2/<sup>泰兴</sup></small> 比喻占公家或别人的便宜。<sup>\[泰兴\]</sup>  
+1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_ieu.md#揩油)】`kae1 ieu2` <small>/kʰɛ1 yʊ2/<sup>如皋</sup>, /kʰɛ1 iɤɯ2/<sup>泰兴</sup></small> ① 从中捞取好处。<sup>\[如皋\]</sup> ② 比喻占公家或别人的便宜。<sup>\[泰兴\]</sup>  
 1. 【[揩揩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_kae_r.md#揩揩<sub>儿</sub>)】`kae1 kae1 r` 橡皮擦  
 1. 【[䬵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae.md#䬵)】`kae2` <small>/kʰɛ2/<sup>兴化</sup>, /kʰɛ2/<sup>泰兴</sup>, /kʰe2/<sup>泰县</sup></small> 嗳气。消化系统中气体经口排出。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～饱。<sup>\[兴化\]</sup>｜才喝咖汽水，就～起来啊。<sup>\[泰县\]</sup>｜他今吖子喝咖多啊唻，嘴里就起一直～啊不歇。<sup>\[泰州\]</sup>｜他昨咖晚上吃咖伤吖，早上嘴里还在下～馊味。<sup>\[泰州\]</sup>  
 1. 【[䬵饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kae_bo.md#䬵饱)】`kae2 bo3` <small>/kʰɛ2 pɔ3/<sup>如皋</sup></small> ① 食后，胃中气自口出。<sup>\[如皋\]</sup> ② 打饱嗝，吃饱后嗳气。<sup>\[东台\]</sup>  
@@ -755,8 +754,7 @@
 1. 【[掼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen.md#掼)】`kuaen6` <small>/kʰuɛ̃6/<sup>兴化</sup>, /kʰuẽ1/<sup>如皋</sup>, /kʰuɛ̃1/<sup>泰兴</sup></small> ① 掷、扔、撂、摔、砸<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：把死猫儿～掉<sup>\[如东\]</sup>｜～手榴弹<sup>\[如皋\]</sup>｜他手举砖块向前方～去。<sup>\[兴化\]</sup>｜（那老妈子）也是吓了一个坐蹬，烛台～在一旁。（《八窍珠》二七）<sup>\[兴化\]</sup>｜隔壁两口子吵事～茶瓶。<sup>\[泰州\]</sup> ② 丢下<sup>\[如皋\]</sup>：他来啊气把事情～下来家去啊。<sup>\[如皋\]</sup> ③ 旧式脱粒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～麦、～稻。<sup>\[如皋\]</sup>｜～小麦<sup>\[泰兴\]</sup> ④ 失去<sup>\[东台\]</sup> ⑤ 摔倒、使摔倒<sup>\[兴化\]</sup>：他把手一抬，“咚”的一声就把对方～吖一个跟头。<sup>\[兴化\]</sup>｜（田焕）刚刚将身子抬起，又早“扑通”一声～倒在青草地上，只是哼唤。（《广陵潮》二一）<sup>\[兴化\]</sup> ⑥ 丢下、耽搁<sup>\[兴化\]</sup>：谚曰：不怕慢，只怕～<sup>\[兴化\]</sup> ⑦ 向人炫耀自己能力强，钱财多<sup>\[泰州\]</sup>：你不要听他～，他工资没得这吖高。<sup>\[泰州\]</sup>｜他就喜欢在人家跟前～他的本事大。<sup>\[泰州\]</sup> ⑧ 白白浪费<sup>\[泰兴\]</sup>：买啊～掉啊/买了但没起作用，白买了<sup>\[泰兴\]</sup>｜好啊点的搞子，把你～掉啊/好好的东西，被你浪费了<sup>\[泰兴\]</sup>  
 1. 【[掼把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_ba.md#掼把)】`kuaen6 ba3` <small>/kʰuɛ̃6 pa3/<sup>兴化</sup></small> ① 一种稻麦脱粒方法：高举谷把将穗头摔向碌碡等坚硬的物体，使谷粒落下。也称“摵把”。<sup>\[兴化\]</sup> ② 在脱粒机械出现前，一种常见的稻、麦脱粒办法，双手高举稻把或者麦把根部，将有穗的头部使劲对着石头或者其他坚硬物体之上猛砸，而使稻粒或者麦粒与草分离。<sup>\[泰州\]</sup>  
 1. 【[掼床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_chuan.md#掼床)】`kuaen6 chuan2` <small>/kʰuẽ1 t͡sʰuã2/<sup>如皋</sup></small> ① 农具。木制，长方形，四只脚，面排竹片或木条。用以脱谷。<sup>\[如东\]</sup> ② 旧式手工脱粒农具，形似矮方桌，桌面隆起，装有整排的竹竿。<sup>\[如皋\]</sup>  
-1. 【[掼担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_daen_zz.md#掼担子)】`kuaen6 daen5 zz` <sup>[兴化]</sup> （喻）丢下工作和应负的责任：老林受到批评，一气之下就～，出去养病吖。  
-1. 【[掼担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_daen_zz.md#掼担子)】`kuaen6 daen5 zz` <small>/kʰuɛ̃1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> 扔下工作不干。多指因气愤、不满而甩手不干。<sup>\[泰兴\]</sup>：见到不好弄的事，他就～<sup>\[泰兴\]</sup>  
+1. 【[掼担子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_daen_zz.md#掼担子)】`kuaen6 daen5 zz` <small>/kʰuɛ̃6 tɛ̃5 t͡sɿ/<sup>兴化</sup>, /kʰuɛ̃1 tɛ̃5 t͡sɿ/<sup>泰兴</sup></small> ① （喻）丢下工作和应负的责任：老林受到批评，一气之下就～，出去养病吖。<sup>\[兴化\]</sup> ② 扔下工作不干。多指因气愤、不满而甩手不干。<sup>\[泰兴\]</sup>：见到不好弄的事，他就～<sup>\[泰兴\]</sup>  
 1. 【[掼东西](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_don_xi.md#掼东西)】`kuaen6 don1 xi` <sup>[泰州]</sup> 人在愤怒时摔东西以发泄：大家有话好好说，不作兴～。  
 1. 【[掼风汛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_fon_xien.md#掼风汛)】`kuaen6 fon1 xien5` <sup>[兴化]</sup> ① 见“调风汛”。 ② 进入深秋以后，因寒潮入侵引起的大风、降温天气。也称“撂风汛”。  
 1. 【[掼跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuaen_gen_teu.md#掼跟头)】`kuaen6 gen1 teu` <sup>[兴化]</sup> 跌交：雪后路滑，当心～。  
@@ -963,8 +961,7 @@
 1. 【[看门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_men_keu.md#看门口)】`kun1 men2 keu3` <sup>[如皋]</sup> 看守门户。  
 1. 【[看青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_qien.md#看青)】`kun1 qien1` <small>/kʰʊ̃1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 看守即将收获的农作物。<sup>\[泰兴\]</sup>  
 1. 【[看尸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_shr.md#看尸)】`kun1 shr1` <sup>[如东]</sup> ① 看守死尸。 ② 死守住不走：你在家里不出门，～啊！  
-1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <sup>[如皋]</sup> 敬祖宗、神佛用的殿堂式木龛。  
-1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <small>/kʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 供奉神佛或神主的小阁子。<sup>\[泰兴\]</sup>：菩萨～<sup>\[泰兴\]</sup>  
+1. 【[龛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#龛子)】`kun1 zz` <small>/kʰʊ̃1 t͡sɿ/<sup>如皋</sup>, /kʰʊ̃1 t͡sɿ/<sup>泰兴</sup></small> ① 敬祖宗、神佛用的殿堂式木龛。<sup>\[如皋\]</sup> ② 供奉神佛或神主的小阁子。<sup>\[泰兴\]</sup>：菩萨～<sup>\[泰兴\]</sup>  
 1. 【[冚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun.md#冚)】`kun3` <small>/kʰũ3/<sup>兴化</sup>, /kʰʊ̃3/<sup>如皋</sup>, /kʰʊ̃3/<sup>泰兴</sup>, /kʰõ3/<sup>泰县</sup></small> 口朝下倒置，盖，扣。或指戴帽。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：拿罩儿把碗～起来。<sup>\[如皋\]</sup>｜把菜～起来。<sup>\[泰县\]</sup>｜把菜～起来，防止苍蝇叮。<sup>\[东台\]</sup>｜把碗～过来。<sup>\[兴化\]</sup>｜用缸～吖上头。<sup>\[兴化\]</sup>｜“女婿大喜回家，你不知女儿正～上愁帽哩！”（《醒世烟缘传》九一）<sup>\[兴化\]</sup>｜把帽子望头上一～就出去啊唻。<sup>\[泰州\]</sup>｜他把酒杯ㄦ～吖桌上不把你倒酒。<sup>\[泰州\]</sup>｜你弄盘子把中上滞的两碗菜～吖好啊，留啊晚上吃。<sup>\[泰州\]</sup>｜把碗～下来<sup>\[泰兴\]</sup>  
 1. 【[冚盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gae_r.md#冚盖<sub>儿</sub>)】`kun3 gae5 r` <sup>[如皋]</sup> 有帮子的盖子。  
 1. 【[冚锅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gu_r.md#冚锅<sub>儿</sub>)】`kun3 gu1 r` <sup>[如皋]</sup> 高帮子的锅盖。  
@@ -976,8 +973,7 @@
 1. 【[坎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#坎子)】`kun3 zz` <small>/kʰʊ̃3 t͡sɿ/<sup>如皋</sup>, /kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 河岸、土堆的斜坡。参见“沟坎儿”。<sup>\[如皋\]</sup> ② 沟边坡状废地。<sup>\[泰兴\]</sup>：十边～<sup>\[泰兴\]</sup>  
 1. 【[款式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_sheh.md#款式)】`kun3 sheh7` <sup>[东台]</sup> 规格、样式：这套服装，～不坏，蛮时髦的。  
 1. 【[款待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_tae.md#款待)】`kun3 tae6` <sup>[东台]</sup> 亲切优厚地招待（东台方音kun3 dae5）：这次受到你俫热情～，非常感谢。  
-1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <sup>[如东]</sup> 资金。  
-1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <small>/kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> 钱，钱款。<sup>\[泰兴\]</sup>：亏空一笔～<sup>\[泰兴\]</sup>  
+1. 【[款子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_zz.md#款子)】`kun3 zz` <small>/kʰʊ̃3 t͡sɿ/<sup>泰兴</sup></small> ① 资金。<sup>\[如东\]</sup> ② 钱，钱款。<sup>\[泰兴\]</sup>：亏空一笔～<sup>\[泰兴\]</sup>  
 1. 【[砍价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jia.md#砍价)】`kun3 jia5` <sup>[东台]</sup> 尽量压低商品的销售价。  
 1. 【[砍头疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_chuan.md#砍头疮)】`kun3 teu2 chuan1` <small>/kʰʊ̃3 tʰəɪ2 t͡sʰuɑŋ1/<sup>泰兴</sup></small> ① 通常指生在脖子后部的痈。此痈生在敏感部位，死亡率较高，故有此名。<sup>\[东台\]</sup> ② 两肩之间、背上部的痈疽。<sup>\[泰兴\]</sup>  
 1. 【[砍头刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_teu_do.md#砍头刀)】`kun3 teu2 do1` <sup>[如皋]</sup> 詈语。意为第一个被杀头。  
@@ -1126,8 +1122,7 @@
 1. 【[裤腰带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae.md#裤腰带)】`kv5 io1 dae5` <sup>[泰州]</sup> 裤带，腰带。  
 1. 【[裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae_zz.md#裤腰带子)】`kv5 io1 dae5 zz` <sup>[如皋]</sup> 系裤子的带子。  
 1. 【[裤漉裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤漉裆)】`kv5 loh dan1` <sup>[东台]</sup> 两条裤腿相连的地方，也指人的阴部。  
-1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <sup>[泰州]</sup> 裤裆。  
-1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> 裤裆<sup>\[泰兴\]</sup>  
+1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> ① 裤裆。<sup>\[泰州\]</sup> ② 裤裆<sup>\[泰兴\]</sup>  
 1. 【[裤头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu.md#裤头)】`kv5 teu2` <sup>[东台]</sup> 短裤。也叫裩子。  
 1. 【[裤头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_r.md#裤头<sub>儿</sub>)】`kv5 teu2 r` <small>/kʰu5 tʰei˞2/<sup>如皋</sup></small> ① 内裤。<sup>\[如皋\]</sup> ② 贴身短裤。<sup>\[泰州\]</sup>  
 1. 【[裤头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_zz.md#裤头子)】`kv5 teu2 zz` <sup>[兴化]</sup> 裤权：许褚这一刻忘形了……小褂子也脱了，底下穿一条～……（《火烧赤壁》九）  

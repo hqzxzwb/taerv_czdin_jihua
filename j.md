@@ -236,8 +236,7 @@
 1. 【[家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu.md#家伙)】`jia1 hu3` <sup>[如东]</sup> ① 工具：挖泥的～。 ② 武器：他俫有～。 ③ 东西：这是甚的～？ ④ 指人：小～。  
 1. 【[家伙脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu_lin_r.md#家伙脸<sub>儿</sub>)】`jia1 hu3 lin3 r` 面具  
 1. 【[家寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hun.md#家寒)】`jia1 hun2` <small>/t͡ɕia1 xũ2/<sup>兴化</sup></small> ① 家境贫穷<sup>\[兴化\]</sup>：他从小～上不起学。<sup>\[兴化\]</sup>｜“既是大爷可怜见，孩儿也是造化的。但只是～，没备办的。”（《金瓶梅词话》三七）<sup>\[兴化\]</sup> ② 家境贫穷<sup>\[泰州\]</sup>：他小时候～，上到小学毕业就不上唻。<sup>\[泰州\]</sup>  
-1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <sup>[如东]</sup> 家庭财产。  
-1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <small>/t͡ɕiɑ1 iʔ8/<sup>泰兴</sup></small> 家产；家庭生计。<sup>\[泰兴\]</sup>  
+1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <small>/t͡ɕiɑ1 iʔ8/<sup>泰兴</sup></small> ① 家庭财产。<sup>\[如东\]</sup> ② 家产；家庭生计。<sup>\[泰兴\]</sup>  
 1. 【[家燕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_in.md#家燕)】`jia1 in5` <sup>[如东]</sup> 燕科动物燕子的通称。翅膀尖而长，尾巴分开像剪刀。捕食昆虫，对农业有益。  
 1. 【[家计货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#家计货)】`jia1 ji hu5` <sup>[东台]</sup> 结实耐用的家用器具。  
 1. 【[家机布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_bv.md#家机布)】`jia1 ji1 bv5` <sup>[泰州]</sup> 以手工所纺棉线为材料，用木制织布机手工织的布。  
@@ -259,8 +258,7 @@
 1. 【[家书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_shv.md#家书)】`jia1 shv1` <sup>[如东]</sup> 家庭成员之间互相来往的信件。也称家信。  
 1. 【[家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_sz.md#家私)】`jia1 sz1` <small>/t͡ɕia1 sɿ/<sup>兴化</sup>, /t͡ɕiɑ1 sɿ/<sup>泰兴</sup>, /t͡ɕia1 sɿ1/<sup>泰县</sup></small> ① 家庭财产。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[泰兴：常指家具\]\[东台：狭义指家具，广义指家产。\]：这是他苦起来的～。<sup>\[如东\]</sup>｜这个人家～不少。<sup>\[泰县\]</sup>｜他家的绝后代的～，你切切不能得。<sup>\[泰州\]</sup>｜他家～大<sup>\[泰兴\]</sup> ② 家庭私密。<sup>\[东台\]</sup>  
 1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan` <sup>[如皋]</sup> 见“库”。  
-1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan2` <sup>[如皋]</sup> ① 家中供奉神祇、祖先的房屋。 ② 烧化给死者的纸扎的房屋、家具、衣物等。  
-1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan2` <small>/t͡ɕiɑ1 tʰɑŋ2/<sup>泰兴</sup></small> 祖先的神位。<sup>\[泰兴\]</sup>  
+1. 【[家堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tan.md#家堂)】`jia1 tan2` <small>/t͡ɕia1 tʰã2/<sup>如皋</sup>, /t͡ɕiɑ1 tʰɑŋ2/<sup>泰兴</sup></small> ① 家中供奉神祇、祖先的房屋。<sup>\[如皋\]</sup> ② 烧化给死者的纸扎的房屋、家具、衣物等。<sup>\[如皋\]</sup> ③ 祖先的神位。<sup>\[泰兴\]</sup>  
 1. 【[家庭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tien.md#家庭)】`jia1 tien2` <sup>[如东]</sup> 以婚姻和血统关系为基础的社会单位，包括父母、子女和其他共同生活的亲属在内。  
 1. 【[家庭妇女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_tien_fv_ny.md#家庭妇女)】`jia1 tien2 fv6 ny3` <sup>[如东]</sup> 从事家务而不参加社会工作的妇女。  
 1. 【[家无常礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_v_chan_li.md#家无常礼)】`jia1 v2 chan2 li3` <sup>[兴化]</sup> 谓居家生活无须讲究繁琐的礼数：～的穿这吖讲究做甚的？｜～的不必客气。  
@@ -268,8 +266,7 @@
 1. 【[家下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_xia.md#家下)】`jia1 xia` <sup>[兴化]</sup> 家中：“……因～有点事情，急于回家，不能耽搁了”。（《老残游记》七）  
 1. 【[家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_xio.md#家小)】`jia1 xio3` <sup>[如东]</sup> 妻子和儿女。有时专指妻子。  
 1. 【[家长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhan.md#家长)】`jia1 zhan3` <sup>[如东]</sup> ① 家中为首的人。 ② 指父母或其他监护人。  
-1. 【[家主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhv.md#家主)】`jia1 zhv3` <sup>[兴化]</sup> 一家中的主事人：一家有一主，一庙有一神，你是～，大事当然由你出面。  
-1. 【[家主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhv.md#家主)】`jia1 zhv3` <small>/t͡ɕiɑ1 t͡su3/<sup>泰兴</sup></small> 家庭的主人。<sup>\[泰兴\]</sup>：乡谚：“一庙有一神，一家有一主。”<sup>\[泰兴\]</sup>  
+1. 【[家主](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_zhv.md#家主)】`jia1 zhv3` <small>/t͡ɕia1 t͡su3/<sup>兴化</sup>, /t͡ɕiɑ1 t͡su3/<sup>泰兴</sup></small> ① 一家中的主事人<sup>\[兴化\]</sup>：一家有一主，一庙有一神，你是～，大事当然由你出面。<sup>\[兴化\]</sup> ② 家庭的主人。<sup>\[泰兴\]</sup>：乡谚：“一庙有一神，一家有一主。”<sup>\[泰兴\]</sup>  
 1. 【[苴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#苴)】`jia1` <sup>[东台]</sup> 本指大麻的雌株或枯草，现在专作地名：新街郝～｜许河三～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia.md#□)】`jia3` <sup>[兴化]</sup> 歪斜：把身子～过来。兴化词典写“假”。  
 1. 【[□啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_a_ha.md#□啊下)】`jia3 a ha` <sup>[泰县]</sup> 斜着。  
@@ -306,8 +303,7 @@
 1. 【[假牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_nga_zz.md#假牙子)】`jia3 nga2 zz` <sup>[如皋]</sup> 镶的牙齿。  
 1. 【[假内教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ny_jio.md#假内教)】`jia3 ny6 jio5` <sup>[如皋]</sup> 冒充内行，或指人。  
 1. 【[假扒灰是福，真扒灰是畜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pa_huei_shr.md#假扒灰是福，真扒灰是畜)】`jia3 pa2 huei1 shr6 foh7 zhen1 pa2 huei1 shr6 choh7` <sup>[东台]</sup> 别人拿公媳关系开玩笑是天伦之乐，但如果确有此事就有违伦理，简直像畜牲。  
-1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <sup>[兴化]</sup> 假装坏事与己无关、假装正经：“背地里作乐，当面～，这种不配抬举的，不该应叫他上台盘”（《官场现形记》十四）｜“文宾兄，休得～，你已在那里频频吐舌……”（《四杰传》六四）  
-1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <small>/t͡ɕiɑ3 pʰiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 伪装清白。<sup>\[泰兴\]</sup>  
+1. 【[假撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_pih_qien.md#假撇清)】`jia3 pih7 qien1` <small>/t͡ɕia3 pʰiɪʔ7 t͡ɕʰin1/<sup>兴化</sup>, /t͡ɕiɑ3 pʰiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 假装坏事与己无关、假装正经<sup>\[兴化\]</sup>：“背地里作乐，当面～，这种不配抬举的，不该应叫他上台盘”（《官场现形记》十四）<sup>\[兴化\]</sup>｜“文宾兄，休得～，你已在那里频频吐舌……”（《四杰传》六四）<sup>\[兴化\]</sup> ② 伪装清白。<sup>\[泰兴\]</sup>  
 1. 【[假乔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qio_r.md#假乔<sub>儿</sub>)】`jia3 qio2 r` <sup>[如东]</sup> 找借口：你不要～。  
 1. 【[假桥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_qio_r.md#假桥<sub>儿</sub>)】`jia3 qio2 r` <sup>[泰县]</sup> 找借口。  
 1. 【[假<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_r.md#假<sub>儿</sub>)】`jia3 r` <sup>[如皋]</sup> 民间自编的说唱文艺、故事：唱～、说～。  
@@ -409,8 +405,7 @@
 1. 【[脚布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_bv.md#脚布)】`jiah7 bv5` <small>/t͡ɕiaʔ7 pu5/<sup>兴化</sup>, /t͡ɕiaʔ7 pu5/<sup>如皋</sup></small> ① 旧时清洗下身、腿足部的专用布，现用毛巾。<sup>\[如皋\]</sup> ② 洗脚时用的毛巾。<sup>\[东台\]</sup> ③ 洗脚或坐浴用的毛巾或布。<sup>\[兴化\]</sup> ④ 擦洗下身的毛巾等小片纺织物。<sup>\[泰州\]</sup>  
 1. 【[脚踩石灰路——白走一趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_cae_sheh_huei.md#脚踩石灰路——白走一趟)】`jiah7 cae3 sheh8 huei1 lv6 poh8 zeu3 ieh7 tan5` <sup>[东台]</sup>   
 1. 【[脚长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_chan.md#脚长)】`jiah7 chan2` 腿长  
-1. 【[脚大脸丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑)】`jiah7 da6 lin3 cheu3` <sup>[东台]</sup> ［喻］某种言行过激伤害感情或暴露了丑陋的一面：小事情宽容一些，覅都弄得～的。  
-1. 【[脚大脸丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑)】`jiah7 da6 lin3 cheu3` <small>/t͡ɕiɑʔ7 tɑ1 lĩ3 t͡ɕʰiɤɯ3/<sup>泰兴</sup></small> 谓十分难看。比喻双方闹纠纷产生矛盾后相互十分难看的样子。<sup>\[泰兴\]</sup>：不要同人弄得～的<sup>\[泰兴\]</sup>  
+1. 【[脚大脸丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_da_lin_cheu.md#脚大脸丑)】`jiah7 da6 lin3 cheu3` <small>/t͡ɕiɑʔ7 tɑ1 lĩ3 t͡ɕʰiɤɯ3/<sup>泰兴</sup></small> ① ［喻］某种言行过激伤害感情或暴露了丑陋的一面<sup>\[东台\]</sup>：小事情宽容一些，覅都弄得～的。<sup>\[东台\]</sup> ② 谓十分难看。比喻双方闹纠纷产生矛盾后相互十分难看的样子。<sup>\[泰兴\]</sup>：不要同人弄得～的<sup>\[泰兴\]</sup>  
 1. 【[脚底板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_baen.md#脚底板)】`jiah7 di3 baen3` <small>/t͡ɕiɑʔ7 t͡ɕʝ3 pɛ̃3/<sup>泰兴</sup></small> 脚掌的俗称。<sup>\[泰兴\]</sup>  
 1. 【[脚底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_di_xia.md#脚底下)】`jiah7 di3 xia` <sup>[兴化]</sup> 下面：我家住的三楼，～是一户转业军人。  
 1. 【[脚家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ga.md#脚家)】`jiah7 ga` <sup>[如皋]</sup> 搬运工人。  
@@ -419,8 +414,7 @@
 1. 【[脚拐啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_a.md#脚拐啊)】`jiah7 guae3 a` <sup>[如东]</sup> 脚扭了。  
 1. 【[脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guae_r.md#脚拐<sub>儿</sub>)】`jiah7 guae3 r` <small>/t͡ɕiaʔ7 kuɛ˞3/<sup>如皋</sup></small> ① 在小腿骨与跗骨结合处。外踝为胫骨端，内踝为腓骨端。<sup>\[如皋\]</sup> ② 脚踝，也称踝关节，是足部与腿相连的部位。<sup>\[东台\]</sup>  
 1. 【[脚鞈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_guh_zz.md#脚鞈子)】`jiah7 guh7 zz` <sup>[如皋]</sup> 蹄甲。  
-1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` 脚踝  
-1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` <small>/t͡ɕiɑʔ7 ku1 kuɛ3/<sup>泰兴</sup></small> 脚跟上部两侧凸出的骨头；脚踝。<sup>\[泰兴\]</sup>  
+1. 【[脚孤拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_guae.md#脚孤拐)】`jiah7 gv1 guae3` <small>/t͡ɕiɑʔ7 ku1 kuɛ3/<sup>泰兴</sup></small> ① 脚踝 ② 脚跟上部两侧凸出的骨头；脚踝。<sup>\[泰兴\]</sup>  
 1. 【[脚箍眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_gv_ngaen.md#脚箍眼)】`jiah7 gv1 ngaen3` <sup>[如东]</sup> 踝骨部位。  
 1. 【[脚下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ha.md#脚下)】`jiah7 ha` <small>/t͡ɕiaʔ7 xa/<sup>如皋</sup></small> ① 加在表示地点或者时间或数量的名后面，表示某地附近，某个时间附近，或者大约的数量 ② 所在位置<sup>\[如皋\]</sup>：这～，那～，哪～。<sup>\[如皋\]</sup> ③ 高大物的根部、底部及附近<sup>\[如皋\]</sup>：树～、草𧂐～、窑～、住身～。<sup>\[如皋\]</sup> ④ 将近某个时间<sup>\[如皋\]</sup>：冬～、年～，月半～、十点～。<sup>\[如皋\]</sup>  
 1. 【[脚行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_han.md#脚行)】`jiah7 han2` <small>/t͡ɕiaʔ7 xã2/<sup>如皋</sup></small> ① 旧时的搬运行，主营担挑、抬杠、推车，兼营收殓殡葬。<sup>\[如东\]</sup> ② 见“箩脚行”。<sup>\[如皋\]</sup>  
@@ -444,8 +438,7 @@
 1. 【[脚力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lieh.md#脚力)】`jiah7 lieh8` <small>/t͡ɕiɑʔ7 niɪʔ8/<sup>泰县</sup></small> ① 两脚的力气。<sup>\[如东\]</sup> ② 比喻有靠山、有后台。<sup>\[如东\]</sup>：他的～大。<sup>\[如东\]</sup> ③ 挑夫的工资。<sup>\[泰县\]</sup>  
 1. 【[脚里打拌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lii_da_pun.md#脚里打拌)】`jiah7 lii da3 pun6` <sup>[如东]</sup> 走路时两腿颤抖打弯，表示体衰力弱。  
 1. 【[脚料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lio.md#脚料)】`jiah7 lio6` <sup>[如东]</sup> 零碎残料。  
-1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <sup>[如东]</sup> 取暖器皿。铜制，圆桶形，有盖，盖上有孔。装进煲灰，脚搁在上面取暖。  
-1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <small>/t͡ɕiɑʔ7 lu2/<sup>泰兴</sup></small> 昔时踏脚取暖的小铜炉。<sup>\[泰兴\]</sup>  
+1. 【[脚炉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv.md#脚炉)】`jiah7 lv2` <small>/t͡ɕiɑʔ7 lu2/<sup>泰兴</sup></small> ① 取暖器皿。铜制，圆桶形，有盖，盖上有孔。装进煲灰，脚搁在上面取暖。<sup>\[如东\]</sup> ② 昔时踏脚取暖的小铜炉。<sup>\[泰兴\]</sup>  
 1. 【[脚炉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_lv_r.md#脚炉<sub>儿</sub>)】`jiah7 lv2 r` <sup>[如皋]</sup> 冬天焐脚的大号铜炉子。  
 1. 【[脚面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min.md#脚面)】`jiah7 min6` <sup>[如皋]</sup> 旧时用石磨磨小麦，第四次磨出的面粉，色暗紫，称～，又称黑面。  
 1. 【[脚面上支锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_min_shan_zhr.md#脚面上支锅腔)】`jiah7 min6 shan zhr1 gu1 qian1` <sup>[兴化]</sup> （喻）处于临时的、不稳定的地位：我是～的人，你一声不满意，我就要跑路。  
@@ -458,14 +451,12 @@
 1. 【[脚髈髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_pan_r.md#脚髈髈<sub>儿</sub>)】`jiah7 pan3 pan3 r` 小腿肚  
 1. 【[脚髈髈<sub>儿</sub>奘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_pan_r.md#脚髈髈<sub>儿</sub>奘)】`jiah7 pan3 pan3 r zhuan3` 形容人脉广，路道粗。  
 1. 【[脚髈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_r.md#脚髈<sub>儿</sub>)】`jiah7 pan3 r` <sup>[如东]</sup> 大腿。  
-1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <sup>[如皋]</sup> 腿。  
-1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <small>/t͡ɕiɑʔ7 pʰɑŋ3 t͡sɿ/<sup>泰兴</sup></small> 小腿<sup>\[泰兴\]</sup>  
+1. 【[脚髈子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pan_zz.md#脚髈子)】`jiah7 pan3 zz` <small>/t͡ɕiaʔ7 pʰã3 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑʔ7 pʰɑŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 腿。<sup>\[如皋\]</sup> ② 小腿<sup>\[泰兴\]</sup>  
 1. 【[脚盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pen.md#脚盆)】`jiah7 pen2` <small>/t͡ɕiaʔ7 pʰəŋ2/<sup>如皋</sup>, /t͡ɕiɑʔ7 pʰəŋ2/<sup>泰兴</sup></small> 日常用具，一种盆\[如皋：旧时妇女专用的高脚反边的杉木盆，现在洗脚的盆统称～。\]\[如东：洗脚用的盆。一般比较大。\]\[泰兴：洗脚盆\]\[泰州：用来洗脚洗下身的盆，圆形，旧时平民多用木板以篾箍成，后来多用铜箍、铁箍，亦可用来洗衣、洗鞋。\]  
 1. 【[脚碰脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pon_jiah.md#脚碰脚)】`jiah7 pon5 jiah7` <sup>[兴化]</sup> ① 经常在一起厮混的人。 ② 同一辈的人：大家都是～的，有甚的事说不开呀？  
 1. 【[脚步站稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zhaen_ven.md#脚步站稳)】`jiah7 pv6 zhaen5 ven3` <sup>[泰州]</sup> 比喻打好立身基础，即拿定主张坚持原则，不给他人责难留下借口：别人贪污你管不了，你自己～就行。  
 1. 【[脚步子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_pv_zz.md#脚步子)】`jiah7 pv6 zz` <sup>[兴化]</sup> 为尔后留下的回旋余地：跟他办事先把～站起来，免得以后包包怨怨的。  
-1. 【[脚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qi.md#脚气)】`jiah7 qi5` <sup>[如东]</sup> 由于缺乏维生索B1而引起的疾病。症状是患者疲劳软弱，小腿沉重，肌肉疼痛萎缩，手足痉挛，头痛，失眠，下肢水肿，心力衰竭等。俗称脚癣、脚丫儿疯。  
-1. 【[脚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qi.md#脚气)】`jiah7 qi5` <small>/t͡ɕiɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 一种皮肤病。多发生于脚趾之间。症状为起水泡，痒，抓破后流水，严重的溃烂。<sup>\[泰兴\]</sup>  
+1. 【[脚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qi.md#脚气)】`jiah7 qi5` <small>/t͡ɕiɑʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 由于缺乏维生索B1而引起的疾病。症状是患者疲劳软弱，小腿沉重，肌肉疼痛萎缩，手足痉挛，头痛，失眠，下肢水肿，心力衰竭等。俗称脚癣、脚丫儿疯。<sup>\[如东\]</sup> ② 一种皮肤病。多发生于脚趾之间。症状为起水泡，痒，抓破后流水，严重的溃烂。<sup>\[泰兴\]</sup>  
 1. 【[脚轻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qien.md#脚轻)】`jiah7 qien1` <sup>[如皋]</sup> 詈语。责多走、多跑。  
 1. 【[脚钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qin.md#脚钱)】`jiah7 qin2` <sup>[兴化]</sup> 力资：把～。  
 1. 【[脚圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_qiun_r.md#脚圈<sub>儿</sub>)】`jiah7 qiun1 r` <sup>[如皋]</sup> 猪前腿圈肉。  
@@ -744,8 +735,7 @@
 1. 【[给假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jia.md#给假)】`jieh7 jia3` <sup>[东台]</sup> 准予休假。  
 1. 【[脊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh.md#脊)】`jieh7` <sup>[东台]</sup> ① 人或动物背部中间的骨骼。 ② 物体中间高起的部分：屋～、路～。  
 1. 【[脊柱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_chv.md#脊柱)】`jieh7 chv6` <sup>[如东]</sup> 人体背部的一根主骨，起支撑全身的作用。也称脊梁骨。  
-1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <sup>[如皋]</sup> 猪脊骨及骨间肉。作副食品。  
-1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <small>/t͡ɕiʔ7 kuəʔ7/<sup>泰兴</sup></small> 人和脊椎动物背部中间的骨头。<sup>\[泰兴\]</sup>  
+1. 【[脊骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_gueh.md#脊骨)】`jieh7 gueh7` <small>/t͡ɕiəʔ7 kuəʔ7/<sup>如皋</sup>, /t͡ɕiʔ7 kuəʔ7/<sup>泰兴</sup></small> ① 猪脊骨及骨间肉。作副食品。<sup>\[如皋\]</sup> ② 人和脊椎动物背部中间的骨头。<sup>\[泰兴\]</sup>  
 1. 【[脊尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_jin_r.md#脊尖<sub>儿</sub>)】`jieh7 jin1 r` <sup>[如东]</sup> 瓦屋屋脊两端的突起建筑物。  
 1. 【[脊梁筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian_jien.md#脊梁筋)】`jieh7 lian jien1` <sup>[兴化]</sup> 脊神经：这几个儿女把他的～龁断吖。｜谚曰：千日笛子百日笙，二胡拉断～。  
 1. 【[脊梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieh_lian.md#脊梁)】`jieh7 lian2` <sup>[如东]</sup> 脊背。  
@@ -1084,8 +1074,7 @@
 1. 【[酒鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_guei.md#酒鬼)】`jieu3 guei3` <sup>[如东]</sup> 酷爱喝酒的人。  
 1. 【[酒鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_gv.md#酒鼓)】`jieu3 gv3` <sup>[如东]</sup> 经常饮酒、过量饮酒而造成肝硬化、肝腹水，中医称酒鼓症。  
 1. 【[酒海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hae.md#酒海)】`jieu3 hae3` ① 酒坛的一种。陶制，圆柿形，规格不一，一般标准，身高85厘米，颈高3厘米，口径20厘米，肚径78厘米，底径50厘米。容积大，称酒海。<sup>\[如东\]</sup> ② 旧时盛酒的器具。<sup>\[东台\]</sup> ③ 戏称酒量大的人。<sup>\[东台\]</sup>  
-1. 【[酒后吐真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu_tv_zhen.md#酒后吐真言)】`jieu3 heu6 tv3 zhen1 in2` <sup>[东台]</sup> 酒喝多了以后会说真话。  
-1. 【[酒后吐真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu_tv_zhen.md#酒后吐真言)】`jieu3 heu6 tv3 zhen1 in2` <small>/t͡ɕiɤɯ3 xəɪ1 tʰu3 t͡səŋ1 ĩ2/<sup>泰兴</sup></small> 谓醉酒后讲的是真话。<sup>\[泰兴\]</sup>  
+1. 【[酒后吐真言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu_tv_zhen.md#酒后吐真言)】`jieu3 heu6 tv3 zhen1 in2` <small>/t͡ɕiɤɯ3 xəɪ1 tʰu3 t͡səŋ1 ĩ2/<sup>泰兴</sup></small> ① 酒喝多了以后会说真话。<sup>\[东台\]</sup> ② 谓醉酒后讲的是真话。<sup>\[泰兴\]</sup>  
 1. 【[酒后无德](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu_v_deh.md#酒后无德)】`jieu3 heu6 v2 deh7` <small>/t͡ɕiɤ3 xɤ6 u2 təʔ7/<sup>兴化</sup></small> ① 指人酒后言行失去常态<sup>\[兴化\]</sup>：他～，覅跟他计较。<sup>\[兴化\]</sup> ② 指醉酒的人胡言乱语或者行为出格。<sup>\[泰州\]</sup>  
 1. 【[酒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hua.md#酒花)】`jieu3 hua1` <sup>[如皋]</sup> 旧时看酒的度数，看酒表面经扬起的酒花（泡泡儿）的大小和存在时间（站花）。  
 1. 【[酒壶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hv.md#酒壶)】`jieu3 hv2` <small>/t͡ɕiɤ3 xu2/<sup>兴化</sup></small> ① 旧时温酒的用锡或铜制成的酒器。<sup>\[东台\]</sup> ② 陶瓷或金属制容器，分内外两层，内层用来盛酒，外层贮热水暖酒。<sup>\[兴化\]</sup>  
@@ -1144,8 +1133,7 @@
 1. 【[救火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hu.md#救火)】`jieu5 hu3` <sup>[如东]</sup> 扑灭燃烧的火焰。多指扑灭房屋、仓库等设施的火焰。  
 1. 【[救火车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hu_cha.md#救火车)】`jieu5 hu3 cha1` <sup>[如东]</sup> 消防车。  
 1. 【[救火队](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_hu_duei.md#救火队)】`jieu5 hu3 duei5` <sup>[如皋]</sup> 旧时民间自行组织的消防队。  
-1. 【[救急不救穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieh_beh_jieu.md#救急不救穷)】`jieu5 jieh7 beh7 jieu5 qion2` <sup>[东台]</sup> （俗语）采取措施使突发事故或灾难终止，这是必要的。而长期穷困只能辅助性地帮助，重要的是激发其自力更生。  
-1. 【[救急不救穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieh_beh_jieu.md#救急不救穷)】`jieu5 jieh7 beh7 jieu5 qion2` <small>/t͡ɕiɤɯ5 t͡ɕiʔ7 pəʔ7 t͡ɕiɤɯ5 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 救济危急之中的人或事，但不可能长期救助。<sup>\[泰兴\]</sup>  
+1. 【[救急不救穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieh_beh_jieu.md#救急不救穷)】`jieu5 jieh7 beh7 jieu5 qion2` <small>/t͡ɕiɤɯ5 t͡ɕiʔ7 pəʔ7 t͡ɕiɤɯ5 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> ① （俗语）采取措施使突发事故或灾难终止，这是必要的。而长期穷困只能辅助性地帮助，重要的是激发其自力更生。<sup>\[东台\]</sup> ② 救济危急之中的人或事，但不可能长期救助。<sup>\[泰兴\]</sup>  
 1. 【[救苦救难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_kv_jieu_naen.md#救苦救难)】`jieu5 kv3 jieu5 naen6` <sup>[东台]</sup> 把众人从痛苦灾难中解救出来。  
 1. 【[救笼锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lon_gu.md#救笼锅)】`jieu5 lon2 gu1` <sup>[如皋]</sup> 蒸笼工作时，水锅缺水，必须紧急加沸水并大火加温，保持蒸汽不断。否则就无法蒸透。  
 1. 【[救命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_mien.md#救命)】`jieu5 mien6` <sup>[如东]</sup> 抢救人的生命。  

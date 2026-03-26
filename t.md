@@ -388,8 +388,7 @@
 1. 【[托戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_xi.md#托戏)】`tah7 xi5` <sup>[泰县]</sup> 木偶戏。  
 1. 【[拓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#拓)】`tah7` <sup>[如皋]</sup> 复描：～花样、～片。  
 1. 【[喥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#喥)】`tah8` <sup>[如皋]</sup> 言无度也：肚里有话，嘴里只～。  
-1. 【[喥奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_nae.md#喥奶)】`tah8 nae3` <sup>[如皋]</sup> 吃奶过饱而自口中流出。  
-1. 【[喥奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_nae.md#喥奶)】`tah8 nae3` <small>/tʰɑʔ8 nɛ3/<sup>泰兴</sup></small> 小儿吐奶<sup>\[泰兴\]</sup>  
+1. 【[喥奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_nae.md#喥奶)】`tah8 nae3` <small>/tʰaʔ8 nɛ3/<sup>如皋</sup>, /tʰɑʔ8 nɛ3/<sup>泰兴</sup></small> ① 吃奶过饱而自口中流出。<sup>\[如皋\]</sup> ② 小儿吐奶<sup>\[泰兴\]</sup>  
 1. 【[喥喥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah_dii.md#喥喥的)】`tah8 tah8 dii` <small>/tʰaʔ8 tʰaʔ8 təi/<sup>兴化</sup>, /tʰaʔ8 tʰaʔ8 tei/<sup>如皋</sup></small> ① 足足的：我带的钱多，袋儿里～。<sup>\[如皋\]</sup> ② 满满的<sup>\[兴化\]</sup>：～的一碗鸡汤<sup>\[兴化\]</sup>｜会场上坐得～人。<sup>\[兴化\]</sup>  
 1. 【[度度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#度度)】`tah8 tah8` <sup>[泰县]</sup> 丰满到极限。  
 1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <small>/tʰɑʔ8/<sup>泰县</sup></small> ① 缓慢行走。<sup>\[如东\]</sup> ② 缓步前行：走步，～咖～的。<sup>\[泰县\]</sup> ③ 泛指走开<sup>\[泰州\]</sup>：领导的报告还不错做得好，他人就～咖走啊。<sup>\[泰州\]</sup>｜他人刚才还在这块的，这一刻ㄦ不晓得他又～咖哪块去啊唻。<sup>\[泰州\]</sup>  
@@ -944,8 +943,7 @@
 1. 【[替差](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_cha.md#替差)】`ti5 cha1` <sup>[东台]</sup> 顶替别人做某件事。  
 1. 【[替打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_da.md#替打)】`ti5 da3` <sup>[兴化]</sup> 木工为投紧榫头，用间接受力的方法，敲击放在上面的小木方以防榫头被震断。这种小木方谓之～。  
 1. 【[替狗打食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_da_sheh.md#替狗打食)】`ti5 geu3 da3 sheh8` <small>/t͡ɕʰʝ5 kəɪ3 tɑ3 səʔ8/<sup>泰兴</sup></small> 骂人语。谓为别人捞好处。<sup>\[泰兴\]</sup>  
-1. 【[替狗死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_sz.md#替狗死)】`ti5 geu3 sz3` <sup>[兴化]</sup> 指人死得无价值，犹“死有余辜”：当汉奸捱新四军打死，只能～。  
-1. 【[替狗死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_sz.md#替狗死)】`ti5 geu3 sz3` <small>/t͡ɕʰʝ5 kəɪ3 sɿ3/<sup>泰兴</sup></small> 骂人语。谓死了也不值一提，等于死了一条狗。<sup>\[泰兴\]</sup>  
+1. 【[替狗死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_geu_sz.md#替狗死)】`ti5 geu3 sz3` <small>/tʰəi5 kɤ3 sɿ3/<sup>兴化</sup>, /t͡ɕʰʝ5 kəɪ3 sɿ3/<sup>泰兴</sup></small> ① 指人死得无价值，犹“死有余辜”<sup>\[兴化\]</sup>：当汉奸捱新四军打死，只能～。<sup>\[兴化\]</sup> ② 骂人语。谓死了也不值一提，等于死了一条狗。<sup>\[泰兴\]</sup>  
 1. 【[替鬼忙财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_guei_man_cae.md#替鬼忙财)】`ti5 guei3 man2 cae2` <sup>[东台]</sup> 帮别人的忙，自己没有一点好处，连一句好话都得不到。  
 1. 【[替古人担忧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_gv_ren_daen.md#替古人担忧)】`ti5 gv3 ren2 daen1 ieu1` <sup>[东台]</sup> ［喻］不必要的担心：你怕那个大企业没得实力，简直是～。  
 1. 【[替样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ian_zz.md#替样子)】`ti5 ian6 zz` <sup>[兴化]</sup> 按现成的图形或实物描、剪：你那双鞋子不丑，明吖我去～。  
@@ -1099,8 +1097,7 @@
 1. 【[听他的话，盐都卖馊啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ta_dii_hua.md#听他的话，盐都卖馊啊)】`tien5 ta1 dii hua6 in2 du1 mae6 seu1 a` <sup>[东台]</sup> 盐是不会馊的，这里形容某人的话绝不能采纳。  
 1. 【[听头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_teu.md#听头)】`tien5 teu` <sup>[东台]</sup> ① 听觉：这个老爹九十高龄吖，～还这吖好。 ② 有意思：这个故事有～。  
 1. 【[听云板吃饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_yen_baen_qieh.md#听云板吃饭)】`tien5 yen2 baen3 qieh7 faen6` <sup>[东台]</sup> ［喻］缺乏主动性、积极性（云板为旧时打击乐器，用长铁片做成，两端作云头形）。  
-1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <sup>[如皋]</sup> 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。  
-1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <small>/tʰiŋ1/<sup>泰兴</sup></small> 细想，梳理思路、逻辑<sup>\[泰兴\]</sup>：你等我～下子<sup>\[泰兴\]</sup>  
+1. 【[定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien.md#定)】`tien6` <small>/tʰiəŋ1/<sup>如皋</sup>, /tʰiŋ1/<sup>泰兴</sup></small> ① 针法。用针线粗略连或绗（使两块布品固定住）：补补丁要先～后敲。<sup>\[如皋\]</sup> ② 细想，梳理思路、逻辑<sup>\[泰兴\]</sup>：你等我～下子<sup>\[泰兴\]</sup>  
 1. 【[定邦定式的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_ban_tien_sheh.md#定邦定式的)】`tien6 ban1 tien6 sheh7 dii` <sup>[如皋]</sup> 认真地，稳妥地。  
 1. 【[定不准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_beh_zhuen.md#定不准)】`tien6 beh zhuen3` <sup>[如皋]</sup> 不敢认定、决定。  
 1. 【[定成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tien_chen.md#定成)】`tien6 chen2` <small>/tʰiŋ1 t͡sʰəŋ2/<sup>泰兴</sup></small> 纸牌、麻将游戏中只要能得一张牌就能贏的局面。<sup>\[泰兴\]</sup>  
@@ -1339,8 +1336,7 @@
 1. 【[天作变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_bin.md#天作变)】`tin1 zah7 bin5` <small>/tʰiɪ̃1 t͡saʔ7 piɪ̃5/<sup>兴化</sup>, /tʰĩ1 t͡saʔ7 pĩ5/<sup>如皋</sup>, /tʰĩ1 t͡sɑʔ7 pĩ5/<sup>泰兴</sup></small> ① 天气变坏。<sup>\[如皋\]</sup> ② 天气由晴变阴。<sup>\[兴化\]</sup> ③ 大风雨到来的前兆。<sup>\[兴化\]</sup> ④ 天气发生变化，风雨将至。<sup>\[泰兴\]</sup>：天作变ngo，快点把衣裳收家来！<sup>\[泰兴\]</sup>  
 1. 【[天作丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zah_cheu.md#天作丑)】`tin1 zah7 cheu3` <sup>[东台]</sup> 指晴好天气向阴雨天或恶劣气候转变的种种迹象。  
 1. 【[天长吖毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_zhan_nga_mo.md#天长吖毛)】`tin1 zhan3 nga mo2` <sup>[如皋]</sup> 天色混浊。  
-1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <sup>[兴化]</sup> 指生孩子（含头胎）：去年冬天，哥嫂～吖个儿子。  
-1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <small>/tʰĩ1/<sup>泰兴</sup></small> 增加。<sup>\[泰兴\]</sup>：再～点儿<sup>\[泰兴\]</sup>  
+1. 【[添](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#添)】`tin1` <small>/tʰiɪ̃1/<sup>兴化</sup>, /tʰĩ1/<sup>泰兴</sup></small> ① 指生孩子（含头胎）<sup>\[兴化\]</sup>：去年冬天，哥嫂～吖个儿子。<sup>\[兴化\]</sup> ② 增加。<sup>\[泰兴\]</sup>：再～点儿<sup>\[泰兴\]</sup>  
 1. 【[添茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cha.md#添茶)】`tin1 cha2` <sup>[如东]</sup> 一种民俗。出殡时，亲友在死者经过的路上放一张桌子或凳子，上面摆四样茶点，表示对死者的尊敬、哀悼和饯行。  
 1. 【[添房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fan.md#添房)】`tin1 fan2` <small>/tʰiɪ̃1 faŋ2/<sup>兴化</sup></small> ① 嫁女时所送的礼物<sup>\[兴化\]</sup>：舅舅从外边寄回一万元，为外甥女～。<sup>\[兴化\]</sup>｜这张待诏有一般做花的相识，都来与女儿～……（《清平山堂话本·花灯轿莲女成佛记》）<sup>\[兴化\]</sup> ② 女子出嫁之前亲戚朋友们送给待嫁新娘的钱物。<sup>\[泰州\]</sup>  
 1. 【[添人不杀鸡，筷子摆摆稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ren_beh_shaeh.md#添人不杀鸡，筷子摆摆稀)】`tin1 ren2 beh7 shaeh7 ji1 kuae5 zz bae3 bae3 xi1` <small>/tʰĩ1 ɻəŋ2 pəʔ7 ɕiæʔ7 t͡ɕʝ1 kʰuɛ5 t͡sɿ pɛ3 pɛ3 ɕʝ1/<sup>泰兴</sup></small> 与“添人不添粮”义同。<sup>\[泰兴\]</sup>  
@@ -1358,8 +1354,7 @@
 1. 【[甜不㝞𡤫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_ia_xia.md#甜不㝞𡤫)】`tin2 beh ia1 xia1` <sup>[兴化]</sup> 甜味不正：这个菜怎吖弄的，～的。  
 1. 【[甜不㝞𡨀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_ia_qia.md#甜不㝞𡨀)】`tin2 beh7 ia1 qia1` <sup>[泰州]</sup> 甜得令人发腻之义：他烧的这个蒜苗蚕豆子儿糖放吖多啊，～的，一点儿都不好吃。  
 1. 【[甜不呀兮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_ia_xi.md#甜不呀兮)】`tin2 beh7 ia1 xi` <sup>[东台]</sup> 同“甜捺气”。  
-1. 【[甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae.md#甜菜)】`tin2 cae5` <sup>[如东]</sup> 藜科植物莙荙莱，一年生或二年生草本。高约100厘米。叶互生，棱形，叶片肉质光滑，淡绿色或紫红色。圆锥花序。花小，绿色。果聚生。种子圆形。田间种植，根含有糖质，是制糖的主要原料之一。  
-1. 【[甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae.md#甜菜)】`tin2 cae5` <small>/tʰĩ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 一种蔬菜，叶片肥大。<sup>\[泰兴\]</sup>  
+1. 【[甜菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae.md#甜菜)】`tin2 cae5` <small>/tʰĩ2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 藜科植物莙荙莱，一年生或二年生草本。高约100厘米。叶互生，棱形，叶片肉质光滑，淡绿色或紫红色。圆锥花序。花小，绿色。果聚生。种子圆形。田间种植，根含有糖质，是制糖的主要原料之一。<sup>\[如东\]</sup> ② 一种蔬菜，叶片肥大。<sup>\[泰兴\]</sup>  
 1. 【[甜菜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cae_zz.md#甜菜子)】`tin2 cae5 zz3` <sup>[如东]</sup> 藜科植物莙荙莱的种子。  
 1. 【[甜稭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gae_r.md#甜稭<sub>儿</sub>)】`tin2 gae1 r` <sup>[如皋]</sup> 未结棒子的玉米秸，嚼之有甜汁。  
 1. 【[甜稭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_gae_zz.md#甜稭子)】`tin2 gae1 zz` <sup>[东台]</sup> 玉米成熟后，那些未结稍头（果穗）或结得很小的茎秆（也作稭秆）。有甜汁可食，农村孩子视若甘蔗般喜爱。  
@@ -1615,9 +1610,8 @@
 1. 【[淘碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_loh.md#淘碌)】`to2 loh8` <sup>[泰县]</sup> 无意义地乱动。  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu1` <sup>[如东]</sup> 容器。竹篾编成，缝口细密，圆柿形，无盖，有环。淘米用。  
 1. 【[淘箩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_r.md#淘箩<sub>儿</sub>)】`to2 lu1 r` <sup>[如皋]</sup> 篾制有系淘米篮子。  
-1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <sup>[东台]</sup> 淘米用具，多用细竹篾制成，缝隙较小，有提梁竹柄。  
+1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <small>/tʰɔ2 lɤɯ2/<sup>泰兴</sup></small> ① 淘米用具，多用细竹篾制成，缝隙较小，有提梁竹柄。<sup>\[东台\]</sup> ② 有提手的小竹箩，多作淘米用，故名。<sup>\[泰兴\]</sup>  
 1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2-3` 竹篾编的专供淘米过滤水用的半球形小篮子。<sup>\[泰州\]</sup>  
-1. 【[淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu.md#淘箩)】`to2 lu2` <small>/tʰɔ2 lɤɯ2/<sup>泰兴</sup></small> 有提手的小竹箩，多作淘米用，故名。<sup>\[泰兴\]</sup>  
 1. 【[淘箩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_lu_zz.md#淘箩子)】`to2 lu2 zz` <sup>[兴化]</sup> 用细竹篾编成的淘米的器具，有弧形的把子。  
 1. 【[淘米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi.md#淘米)】`to2 mi3` <sup>[如东]</sup> 将大米放在水中清洗干净。  
 1. 【[淘米水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_mi_shuei.md#淘米水)】`to2 mi3 shuei3` <sup>[如皋]</sup> 米泔水。  
@@ -1809,8 +1803,7 @@
 1. 【[通年到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_do_teu.md#通年到头)】`ton1 nin2 do5 teu2` <small>/tʰoŋ1 liɪ̃2 tɔ5 tʰɤ2/<sup>兴化</sup>, /tʰɔŋ1 nĩ2 tɔ5 tʰei2/<sup>如皋</sup>, /tʰɔŋ1 nĩ tɔ5 tʰəɪ2/<sup>泰兴</sup></small> 一年到头，整年<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他身体强健，～没有病。<sup>\[东台\]</sup>｜他～在外头忙，不怎吖少顾家。<sup>\[兴化\]</sup>｜他家～吃素，难见鱼肉进门。<sup>\[兴化\]</sup>｜他开啊这个公司以后，就一天到晚操心吖不得命，～不得个闲时。<sup>\[泰州\]</sup>  
 1. 【[通年家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nin_ga.md#通年家)】`ton1 nin2 ga` <sup>[如皋]</sup> 整年地，一直地。  
 1. 【[通南直北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_nun_cheh_boh.md#通南直北)】`ton1 nun2 cheh8 boh7` <small>/tʰɔŋ1 nʊ̃2 t͡sʰəʔ8 pɔʔ7/<sup>泰兴</sup></small> 谓南北笔直的大道；贯穿南北。<sup>\[泰兴\]</sup>  
-1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <sup>[如东]</sup> ① 使空气流通。互通信息：我俫要经常～。 ② 房屋嵌撑下面的木条，叫通气。  
-1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <small>/tʰɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 沟通信息、透露消息<sup>\[泰兴\]</sup> ② 透气<sup>\[泰兴\]</sup>  
+1. 【[通气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qi.md#通气)】`ton1 qi5` <small>/tʰɔŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 使空气流通。互通信息。<sup>\[如东\]</sup>：我俫要经常～。<sup>\[如东\]</sup> ② 房屋嵌撑下面的木条，叫通气。<sup>\[如东\]</sup> ③ 沟通信息、透露消息<sup>\[泰兴\]</sup> ④ 透气<sup>\[泰兴\]</sup>  
 1. 【[通吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_qieh.md#通吃)】`ton1 qieh7` <sup>[东台]</sup> ［喻］全部吸收或全部拿下：这批货我～。  
 1. 【[通人性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_ren_xien.md#通人性)】`ton1 ren2 xien5` <small>/tʰoŋ1 lən2 ɕin5/<sup>兴化</sup></small> ① 指某些家畜能领会主人意愿<sup>\[兴化\]</sup>：“你既是良马，自～，我今仗你逃生……我母子性命俱在你身上。”（《梼杌闲评》五）<sup>\[兴化\]</sup> ② 动物能够领会人的意愿。<sup>\[泰州\]</sup>  
 1. 【[通世上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_shr_shan.md#通世上)】`ton1 shr5 shan` <sup>[泰州]</sup> 全社会，全世界：像他这种没出息的人，怕的～都找不到第二个。｜～都没得她这种蛮不讲理的人。  
@@ -1868,8 +1861,7 @@
 1. 【[铜铲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chaen_zz.md#铜铲子)】`ton2 chaen3 zz` <sup>[如皋]</sup> 黄铜铸的铲子装木柄。  
 1. 【[铜钞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cho.md#铜钞)】`ton2 cho5` <sup>[如东]</sup> 铜质货币。也称铜钱、铜板儿。形状多样。清代的铜币，外圆，中间有一方孔。俗称孔方兄。  
 1. 【[铜锤草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_chuei_co.md#铜锤草)】`ton2 chuei2 co3` <sup>[如皋]</sup> 红花酢浆草。  
-1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <sup>[兴化]</sup> （喻）稳固、富有：老子挣下的～家私，到儿子手不到三年就败光吖。｜“可怜！我的～儿江山，铁围的社稷，谁知被他阴占了！”（《西游记》三九）  
-1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <small>/tʰɔŋ2 təɪ3/<sup>泰兴</sup></small> 形容富足，牢固。<sup>\[泰兴\]</sup>：他家的房子～啊似的<sup>\[泰兴\]</sup>  
+1. 【[铜斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_deu.md#铜斗)】`ton2 deu3` <small>/tʰoŋ2 tɤ3/<sup>兴化</sup>, /tʰɔŋ2 təɪ3/<sup>泰兴</sup></small> ① （喻）稳固、富有<sup>\[兴化\]</sup>：老子挣下的～家私，到儿子手不到三年就败光吖。<sup>\[兴化\]</sup>｜“可怜！我的～儿江山，铁围的社稷，谁知被他阴占了！”（《西游记》三九）<sup>\[兴化\]</sup> ② 形容富足，牢固。<sup>\[泰兴\]</sup>：他家的房子～啊似的<sup>\[泰兴\]</sup>  
 1. 【[铜角子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gah_zz.md#铜角子)】`ton2 gah7 zz` <small>/tʰɔŋ2 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 铜板。旧铜钱。<sup>\[泰兴\]</sup>  
 1. 【[铜锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu.md#铜锅)】`ton2 gu1` <sup>[如东]</sup> 锅的一种，以铜为原料制成的锅。  
 1. 【[铜锅铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_gu_chaen.md#铜锅铲)】`ton2 gu1 chaen3` <sup>[如东]</sup> 锅铲的一种，以铜为原料制成的锅铲。  

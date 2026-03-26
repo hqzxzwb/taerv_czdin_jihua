@@ -170,8 +170,7 @@
 1. 【[二柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_kuei.md#二柜)】`er6 kuei6` <sup>[泰县]</sup> 站在头柜之后，生意经略差一点的人。  
 1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_ty.md#二郎腿)】`er6 lan ty3` <sup>[泰州]</sup> 一种坐姿，坐时将一条腿搁在另一条腿上：跷～。  
 1. 【[二郎神的外甥——不爱舅（旧）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_shen_dii.md#二郎神的外甥——不爱舅（旧）)】`er6 lan2 shen2 dii vae6 shen1 beh7 ngae5 qieu6` <sup>[东台]</sup>   
-1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan2 tuei3` <sup>[如东]</sup> 坐凳时，一条腿搁在另一条腿上，叫做二郎腿，也叫跷二郎腿。  
-1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan2 tuei3` <small>/ɚ1 lɑŋ2 tʰəɪ3/<sup>泰兴</sup></small> 把一条腿搁在另一条腿上的坐姿。<sup>\[泰兴\]</sup>  
+1. 【[二郎腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_lan_tuei.md#二郎腿)】`er6 lan2 tuei3` <small>/ɚ1 lɑŋ2 tʰəɪ3/<sup>泰兴</sup></small> ① 坐凳时，一条腿搁在另一条腿上，叫做二郎腿，也叫跷二郎腿。<sup>\[如东\]</sup> ② 把一条腿搁在另一条腿上的坐姿。<sup>\[泰兴\]</sup>  
 1. 【[二勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_leh_zz.md#二勒子)】`er6 leh8 zz` <small>/ɚ6 ləʔ8 t͡sɿ/<sup>兴化</sup></small> ① 中等货。<sup>\[如东\]</sup>：这些鱼都是～。<sup>\[如东\]</sup> ② ［喻］戏称不大不小的人物。<sup>\[东台\]</sup> ③ 半大的<sup>\[兴化\]</sup>：螃蟹多少钱一斤？<sup>\[兴化\]</sup>｜这么大的事来个～干部怎吖解决得了？<sup>\[兴化\]</sup>  
 1. 【[二肋尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_leh_jin_r.md#二肋尖<sub>儿</sub>)】`er6 leh8 jin1 r` <sup>[如皋]</sup> 喻处于尴尬点上的，有受限、两难之意：他身体合格，年龄差一点儿，今年要当兵，是个～。  
 1. 【[二轮车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_len_cha.md#二轮车)】`er6 len2 cha1` <sup>[兴化]</sup> 二十世纪70年代前，专指在车后载客的自行车。  

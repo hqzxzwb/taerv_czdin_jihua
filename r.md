@@ -25,8 +25,7 @@
 1. 【[惹镣入封](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_lio_reh_fon.md#惹镣入封)】`ra3 lio2 reh8 fon1` <sup>[如东]</sup> 自己给自己找来灾难。  
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
-1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <sup>[东台]</sup> 醒目。容易引人嫉妒。  
-1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> 引人注目；显眼。<sup>\[泰兴\]</sup>  
+1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 醒目。容易引人嫉妒。<sup>\[东台\]</sup> ② 引人注目；显眼。<sup>\[泰兴\]</sup>  
 1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
 1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
@@ -349,8 +348,7 @@
 1. 【[韧䌁䌁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_io.md#韧䌁䌁)】`ren6 io5 io5` <sup>[东台]</sup> 同“韧悠悠”近义，多指长条状物体：面条～的。  
 1. 【[韧脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jiah.md#韧脚)】`ren6 jiah7` <sup>[如皋]</sup> ① 办事有耐力、坚持力的人。 ② 会磨蹭的人。 ③ 脾气极慢的人。  
 1. 【[韧纠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu.md#韧纠)】`ren6 jieu1` <sup>[如皋]</sup> 咀嚼食物觉得松爽而有弹性：馒头酵又好，又蒸得透，吃咖嘴里～的｜皮糖进嘴～的  
-1. 【[韧纠纠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu_jieu_dii.md#韧纠纠的)】`ren6 jieu1 jieu1 dii` <sup>[如皋]</sup> 见“韧纠”。  
-1. 【[韧纠纠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu_jieu_dii.md#韧纠纠的)】`ren6 jieu1 jieu1 dii` <small>/ɻəŋ1 t͡ɕiɤɯ1 t͡ɕiɤɯ1 təɪ/<sup>泰兴</sup></small> 谓食品有咬嚼，柔韧适口。<sup>\[泰兴\]</sup>  
+1. 【[韧纠纠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jieu_jieu_dii.md#韧纠纠的)】`ren6 jieu1 jieu1 dii` <small>/ɻəŋ1 t͡ɕyʊ1 t͡ɕyʊ1 tei/<sup>如皋</sup>, /ɻəŋ1 t͡ɕiɤɯ1 t͡ɕiɤɯ1 təɪ/<sup>泰兴</sup></small> ① 见“韧纠”。<sup>\[如皋\]</sup> ② 谓食品有咬嚼，柔韧适口。<sup>\[泰兴\]</sup>  
 1. 【[韧面𢷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_chin.md#韧面𢷹)】`ren6 min6 chin5` <sup>[如皋]</sup> ① 脾气韧。 ② 会纠缠，令人难以解脱。  
 1. 【[韧面筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_min_jien.md#韧面筋)】`ren6 min6 jien1` <sup>[如皋]</sup> 脾气韧，言行不放弃。一似黏韧型气质。  
 1. 【[韧韧㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ren_jieu_jieu.md#韧韧㾭㾭)】`ren6 ren6 jieu5 jieu5` <sup>[东台]</sup> 模棱两可，犹豫不决的样子：他～的，态度不明朗。  

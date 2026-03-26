@@ -365,8 +365,7 @@
 1. 【[琵琶弦子都不要，只要饶瞎子一条命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pa_xin_zz.md#琵琶弦子都不要，只要饶瞎子一条命)】`pi2 pa2 xin2 zz du1 beh7 io5 zheh7 io5 ro2 haeh7 zz ieh7 tio2 mien6` <sup>[东台]</sup> 喻指骗术败露时的狼狈相。  
 1. 【[疲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#疲)】`pi2` <sup>[如皋]</sup> 秤的称量不足，秤尾低于秤头。见“袒”。  
 1. 【[疲疲沓沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_pi_taeh_taeh.md#疲疲沓沓)】`pi2 pi2 taeh7 taeh7` <sup>[东台]</sup> 思想上不重视，作风上松懈拖拉，效率低下：这个工程要抓紧，不能～。  
-1. 【[疲沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲沓)】`pi2 taeh` <sup>[如东]</sup> 松懈拖沓：他做事太～咖。  
-1. 【[疲沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲沓)】`pi2 taeh` <small>/pʰʝ2 tʰæʔ/<sup>泰兴</sup></small> 松懈，不起劲。<sup>\[泰兴\]</sup>  
+1. 【[疲沓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_taeh.md#疲沓)】`pi2 taeh` <small>/pʰʝ2 tʰæʔ/<sup>泰兴</sup></small> ① 松懈拖沓。<sup>\[如东\]</sup>：他做事太～咖。<sup>\[如东\]</sup> ② 松懈，不起劲。<sup>\[泰兴\]</sup>  
 1. 【[皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#皮)】`pi2` <small>/pʰʝ2/<sup>如皋</sup>, /pʰʝ2/<sup>泰兴</sup></small> ① 一刻闲不住，调皮 ② 人的尊严、禀性。<sup>\[如皋\]</sup> ③ 调皮、顽皮。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>\[泰兴：乡人有时称无赖或赖账不还者为“皮”。\]：～啊没得命。<sup>\[泰州\]</sup>  
 1. 【[皮啊荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_a_tan.md#皮啊荡)】`pi2 a tan6` <sup>[东台]</sup> 不落实，一推再推。  
 1. 【[皮包骨头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_bo_gueh_teu.md#皮包骨头)】`pi2 bo1 gueh7 teu` <small>/pʰʝ2 pɔ1 kuəʔ7 tʰəɪ/<sup>泰兴</sup></small> ① 形容人非常瘦。<sup>\[东台\]</sup> ② 形容躯体极度瘦弱。<sup>\[泰兴\]</sup>：瘦得～<sup>\[泰兴\]</sup>  
@@ -1153,8 +1152,7 @@
 1. 【[埲动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ton.md#埲动)】`pon6 ton` <sup>[如东]</sup> 尘土飞扬：灰尘～。  
 1. 【[甏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_r.md#甏<sub>儿</sub>)】`pon6 r` <sup>[如皋]</sup> 坛儿。  
 1. 【[坡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_zz.md#坡子)】`pu1 zz` <small>/pʰɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 斜坡，倾斜的土坡。<sup>\[泰兴\]</sup>  
-1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <sup>[如皋]</sup> 指称丈夫的母亲。  
-1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <small>/pʰɤɯ2/<sup>泰兴</sup></small> 丈夫的母亲。<sup>\[泰兴\]</sup>  
+1. 【[婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu.md#婆)】`pu2` <small>/pʰʊ2/<sup>如皋</sup>, /pʰɤɯ2/<sup>泰兴</sup></small> ① 指称丈夫的母亲。<sup>\[如皋\]</sup> ② 丈夫的母亲。<sup>\[泰兴\]</sup>  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia` <small>/pʰo2 tia1 tia/<sup>兴化</sup>, /pʰo2 tia1 tia/<sup>泰县</sup></small> 外祖父。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
 1. 【[婆爹爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_dia_dia.md#婆爹爹)】`pu2 dia1 dia1` <small>/pʰʊ2 tia1 tia1/<sup>如皋</sup></small> ① 称母亲的父亲，外祖父。<sup>\[如皋\]</sup> ② 外祖父，也叫外公。<sup>\[东台\]</sup>  
 1. 【[婆家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_ga.md#婆家)】`pu2 ga1` <small>/pʰɤɯ2 kɑ1/<sup>泰兴</sup></small> 丈夫的家。<sup>\[泰兴\]</sup>  
@@ -1168,8 +1166,7 @@
 1. 【[婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_nian.md#婆娘)】`pu2 nian2` <sup>[东台]</sup> ① 已婚的妇女。 ② 妻子。  
 1. 【[婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu.md#婆婆)】`pu2 pu` <small>/pʰo2 pʰo/<sup>兴化</sup></small> ① 外婆 ② 母亲的母亲。也称外婆。丈夫的母亲。<sup>\[如东\]</sup> ③ 丈夫的母亲。也叫奶奶。<sup>\[东台\]</sup> ④ 外祖母，外婆。<sup>\[东台\]</sup> ⑤ ［喻］有权管自己的人。<sup>\[东台\]</sup> ⑥ 外祖母。<sup>\[兴化\]</sup>  
 1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma` <sup>[东台]</sup> 戏称男人言谈举止扭扭捏捏，感情脆弱，性格像女人。  
-1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma1` <sup>[如东]</sup> 比喻说话啰唆，办事拖拉：不要～的。  
-1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma1` <small>/pʰɤɯ2 pʰɤɯ mɑ1 mɑ1/<sup>泰兴</sup></small> 指拘泥旧俗而缺乏知识的老年妇女。比喻啰啰嗦嗦。<sup>\[泰兴\]</sup>  
+1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma1 ma1` <small>/pʰɤɯ2 pʰɤɯ mɑ1 mɑ1/<sup>泰兴</sup></small> ① 比喻说话啰唆，办事拖拉。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 指拘泥旧俗而缺乏知识的老年妇女。比喻啰啰嗦嗦。<sup>\[泰兴\]</sup>  
 1. 【[婆婆妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_ma_ma.md#婆婆妈妈)】`pu2 pu ma3 ma` <sup>[泰州]</sup> ① 贬称未读过书而特别关心琐事的中老年女性：这些～没得事就在做块儿𠹥淡话。 ② 讥称男性言行就像未读过书而特别关心琐事的中、老年女性一样：你这小伙就不要再～的吧，不同意你就说，哭咖做甚的唦？  
 1. 【[婆婆腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu_qian.md#婆婆腔)】`pu2 pu qian1` <sup>[兴化]</sup> （讽）男人而似女人般的腔调：他一个大男人家，说话尖声细气、扭头刮颈的，一副～。也作“婆子气”。  
 1. 【[婆婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pu_pu.md#婆婆)】`pu2 pu2` <sup>[如皋]</sup> 母亲的母亲，外祖母。  
@@ -1284,8 +1281,7 @@
 1. 【[盘查哨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cha_sho.md#盘查哨)】`pun2 cha2 sho5` <sup>[如东]</sup> 抗日战争和解放战争时期，解放区农民协会或乡村政权派在交通路口侦查汉奸、特务的岗哨，一般由民兵儿童团或老年人担任值勤。  
 1. 【[盘肠草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chan_co.md#盘肠草)】`pun2 chan2 co3` <sup>[如东]</sup> 葫芦科植物南瓜的果实内萌发的幼苗。  
 1. 【[盘程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chen.md#盘程)】`pun2 chen2` <small>/pʰũ2 t͡sʰən2/<sup>兴化</sup>, /pʰʊ̃2 t͡sʰəŋ2/<sup>如皋</sup></small> 盘缠，路费，川资<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我上北京光有去的～，没得回头的路费。<sup>\[兴化\]</sup>｜“……就是送与两位舅爷做～，也是该的。”（《儒林外史》五）<sup>\[兴化\]</sup>  
-1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <sup>[东台]</sup> 路费：各位游客要带足～。  
-1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <small>/pʰʊ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> 费用；花费。特指旅途费用。<sup>\[泰兴\]</sup>  
+1. 【[盘缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chin.md#盘缠)】`pun2 chin2` <small>/pʰʊ̃2 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 路费<sup>\[东台\]</sup>：各位游客要带足～。<sup>\[东台\]</sup> ② 费用；花费。特指旅途费用。<sup>\[泰兴\]</sup>  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun` <sup>[如东]</sup> 用于交通、伙食、住宿等费用，称盘川。盘缠。  
 1. 【[盘川](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_chun.md#盘川)】`pun2 chun1` <sup>[兴化]</sup> 路费：出门办事要带足～。｜（员外）只是不准多带跟人，惟恐耗费了～……（《三侠五义》三）  
 1. 【[盘坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_cu.md#盘坐)】`pun2 cu6` <sup>[兴化]</sup> 盘膝而坐：他习惯～，坐凳子反而不舒服。｜大家～在杭上对吃。（《二十年目睹之怪现状》七十）  
@@ -1320,8 +1316,7 @@
 1. 【[盘香路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xian_lv.md#盘香路)】`pun2 xian1 lv6` <sup>[如皋]</sup> ① 回旋式的路。 ② 喻在家中操劳不息所走的路，不觉远，只觉累。  
 1. 【[盘膝大坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xieh_da_cu.md#盘膝大坐)】`pun2 xieh7 da6 cu6` <small>/pʰʊ̃2 ɕiʔ7 tɑ1 t͡sʰɤɯ1/<sup>泰兴</sup></small> 盘着双腿，大大咧咧地坐着。<sup>\[泰兴\]</sup>  
 1. 【[盘驯吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_xyen_nga.md#盘驯吖)】`pun2 xyen2 nga` <sup>[如东]</sup> 给弄疲沓了：孩子天天这吖紧张，捱～。  
-1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <sup>[东台]</sup> 汇总收支情况，核查账目。  
-1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <small>/pʰʊ̃2 t͡sɑŋ5/<sup>泰兴</sup></small> 结账；按一定的时间段（如每月、每季、每年）把账目整理清楚。<sup>\[泰兴\]</sup>  
+1. 【[盘账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhan.md#盘账)】`pun2 zhan5` <small>/pʰʊ̃2 t͡sɑŋ5/<sup>泰兴</sup></small> ① 汇总收支情况，核查账目。<sup>\[东台\]</sup> ② 结账；按一定的时间段（如每月、每季、每年）把账目整理清楚。<sup>\[泰兴\]</sup>  
 1. 【[盘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz.md#盘子)】`pun2 zz` <small>/pʰũ2 t͡sɿ/<sup>兴化</sup>, /pʰʊ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 容器。瓷制，圆形或椭圆形，底浅。有多种规格。一般饰有花纹，比较精致。主要用于盛菜。<sup>\[如东\]</sup> ② 价钱<sup>\[兴化\]</sup>：开～<sup>\[兴化\]</sup>｜“……他一定把环妹妹藏到乡下去，再讲～……”（《老残游记》十四）<sup>\[兴化\]</sup> ③ 敞口平浅的盛物器皿。<sup>\[泰兴\]</sup>  
 1. 【[盘子里的豆芽——不扎根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zz_lii_dii.md#盘子里的豆芽——不扎根)】`pun2 zz lii dii teu6 nga2 beh7 zhaeh7 gen1` <sup>[东台]</sup>   
 1. 【[蟠髻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_jieh.md#蟠髻)】`pun2 jieh7` <sup>[如皋]</sup> 妇女将长发在脑后蟠成发髻。  

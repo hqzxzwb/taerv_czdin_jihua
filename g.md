@@ -848,8 +848,7 @@
 1. 【[高挑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_tio_zz.md#高挑子)】`go1 tio1 zz` <sup>[兴化]</sup> 形容瘦高个儿：孙家大媳妇是个瘦～。｜“你们那一个认得冯君瑞？”内中有一个～出来跪禀道：“小的认得。”（《儒林外史》四三）  
 1. 【[高岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_un.md#高岸)】`go1 un6` <sup>[如皋]</sup> 置身事外：他倈在吃苦赚钱，你却站吖在～上享清福。  
 1. 【[高装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan.md#高装)】`go1 zhuan` <sup>[泰州]</sup> 面粉发酵时间稍短，揉面团时加入生面较多，所做馒头蒸熟后相对硬实：你蒸的这个馒头～，少年人吃咖正好。  
-1. 【[高桩馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高桩馒头)】`go1 zhuan1 mun2 teu` <sup>[兴化]</sup> 用很硬的面酵蒸熟的比较厚的馒头。形似窝头而底平。  
-1. 【[高桩馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高桩馒头)】`go1 zhuan1 mun2 teu` <sup>[泰州]</sup> 无馅馒头，发酵时间较短，面团揉𢷹时，加入生面较多，蒸出的馒头韧性较强，很有咬嚼。  
+1. 【[高桩馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_mun_teu.md#高桩馒头)】`go1 zhuan1 mun2 teu` <small>/kɔ1 t͡suaŋ1 mũ2 tʰɤ/<sup>兴化</sup></small> ① 用很硬的面酵蒸熟的比较厚的馒头。形似窝头而底平。<sup>\[兴化\]</sup> ② 无馅馒头，发酵时间较短，面团揉𢷹时，加入生面较多，蒸出的馒头韧性较强，很有咬嚼。<sup>\[泰州\]</sup>  
 1. 【[高桩平顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_pien_dien.md#高桩平顶)】`go1 zhuan1 pien2 dien3` <sup>[兴化]</sup> 一种男子的发式，即“小平头”。  
 1. 【[高桩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhuan_teu.md#高桩头)】`go1 zhuan1 teu2` <small>/kɔ1 t͡suɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> 发型的一种。留有较短的发桩，类似平头。<sup>\[泰兴\]</sup>  
 1. 【[高祖父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zv_fv.md#高祖父)】`go1 zv3 fv6` <sup>[如东]</sup> 父亲的曾祖父。  
@@ -968,8 +967,7 @@
 1. 【[公尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_cheh.md#公尺)】`gon1 cheh7` <sup>[如东]</sup> “米”的旧称。  
 1. 【[公丁香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dien_xian.md#公丁香)】`gon1 dien1 xian1` <sup>[如皋]</sup> 丁香花的一种，花形像男阴，可钓鱼。  
 1. 【[公对公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dy_gon.md#公对公)】`gon1 dy5 gon1` <sup>[泰州]</sup> 公家的事对公家的事，处理过程之中必须按规定办理，不含私人因素：这件事～，他想帮你也没法子办。｜价钱你不要客气，大家是～，只要在谱子上都好说。  
-1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <small>/koŋ1 fən6/<sup>兴化</sup>, /kɔŋ1 fəŋ1/<sup>如皋</sup>, /kɔŋ1 fəŋ1/<sup>泰兴</sup></small> ① 集体办事，各人应占份额<sup>\[如皋\]</sup>：摊～。<sup>\[如皋\]</sup> ② 大家出钱请客、送礼<sup>\[兴化\]</sup>：全科的人出～为科长送行。<sup>\[兴化\]</sup> ③ 大家为请客、送礼共同合的钱物。<sup>\[泰兴\]</sup>：临走的那天中午，同事们凑～搝lei一桌菜为他饯行。<sup>\[泰兴\]</sup>  
-1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <sup>[泰州]</sup> 代表多人出的贺礼或贺钱：老李家儿子结婚，我俫五个人出个～吧。  
+1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <small>/koŋ1 fən6/<sup>兴化</sup>, /kɔŋ1 fəŋ1/<sup>如皋</sup>, /kɔŋ1 fəŋ1/<sup>泰兴</sup></small> ① 集体办事，各人应占份额<sup>\[如皋\]</sup>：摊～。<sup>\[如皋\]</sup> ② 大家出钱请客、送礼<sup>\[兴化\]</sup>：全科的人出～为科长送行。<sup>\[兴化\]</sup> ③ 大家为请客、送礼共同合的钱物。<sup>\[泰兴\]</sup>：临走的那天中午，同事们凑～搝lei一桌菜为他饯行。<sup>\[泰兴\]</sup> ④ 代表多人出的贺礼或贺钱<sup>\[泰州\]</sup>：老李家儿子结婚，我俫五个人出个～吧。<sup>\[泰州\]</sup>  
 1. 【[公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_gon.md#公公)】`gon1 gon1` <sup>[如皋]</sup> 外祖父。  
 1. 【[公话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_hua.md#公话)】`gon1 hua6` <small>/kɔŋ1 xua1/<sup>如皋</sup></small> 公平话、公正话或为大家说的话。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：到底怪哪个不好，老李你要讲个～。<sup>\[泰州\]</sup>  
 1. 【[公蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_hun_zz.md#公蚶子)】`gon1 hun1 zz` <sup>[如东]</sup> 蛤蜊科动物西施舌。  
@@ -1524,8 +1522,7 @@
 1. 【[惯向病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_xian_pien.md#惯向病)】`guaen5 xian5 pien6` <sup>[如皋]</sup> 习惯性的偏好、动作等：欢喜蹲不欢喜坐是他的～。  
 1. 【[惯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_zz.md#惯子)】`guaen5 zz3` <sup>[兴化]</sup> 娇生惯养的独生子：不要看郑板桥从小生得又黑又瘦……他可是个～呢！（《郑板桥传说》）  
 1. 【[𠍿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#𠍿)】`guaen5` 吻。<sup>\[如东\]</sup><sup>\[东台\]</sup>：我想～你。<sup>\[如东\]</sup>｜她在下～宝宝。<sup>\[东台\]</sup>  
-1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <sup>[兴化]</sup> 在浮厝棺木外用砖砌筑的外壳：砌～  
-1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <small>/kuɑʔ7/<sup>泰兴</sup></small> 套在棺材外的大棺材。以墙体护棺的设施。<sup>\[泰兴\]</sup>：起～<sup>\[泰兴\]</sup>  
+1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <small>/kuaʔ7/<sup>兴化</sup>, /kuɑʔ7/<sup>泰兴</sup></small> ① 在浮厝棺木外用砖砌筑的外壳。<sup>\[兴化\]</sup>：砌～<sup>\[兴化\]</sup> ② 套在棺材外的大棺材。以墙体护棺的设施。<sup>\[泰兴\]</sup>：起～<sup>\[泰兴\]</sup>  
 1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“郭刀儿guah7 do1 r”：他又不晓得玩甚的～？  
 1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <sup>[如皋]</sup> ① 趣指愚笨者。 ② 对姓郭者的戏称。童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。  
 1. 【[郭呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz.md#郭呆子)】`guah7 dae1 zz` <sup>[如皋]</sup> 见“郭呆儿”。  
@@ -1820,8 +1817,7 @@
 1. 【[滚指<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_zhr_r.md#滚指<sub>儿</sub>)】`guen3 zhr3 r` <sup>[如东]</sup> 金箍子。  
 1. 【[滚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_zz.md#滚子)】`guen3 zz` <small>/kuən3 t͡sɿ/<sup>兴化</sup>, /kuəŋ3 t͡se/<sup>泰县</sup></small> ① 圆形物体。<sup>\[如东\]</sup>：轧花～。<sup>\[如东\]</sup> ② 一种小型的圆柱形石条，也叫石碌。用来碾稻谷和压土块。<sup>\[如东\]</sup> ③ 也叫碌碡，一种滚压农具。用石头凿刻而成。也做“磙子”。<sup>\[东台\]</sup> ④ 圆筒形物体<sup>\[兴化\]</sup>：木头～；橡皮～。<sup>\[兴化\]</sup> ⑤ 碌碡<sup>\[兴化\]</sup>：石～。<sup>\[兴化\]</sup> ⑥ 也作“石磙子”。<sup>\[兴化\]</sup> ⑦ 丸药。<sup>\[泰县\]</sup>  
 1. 【[緄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#緄)】`guen3` <sup>[如皋]</sup> 缝纫中的包边、包缝：～领子、～鞋口、～边。  
-1. 【[绲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#绲)】`guen3` <sup>[泰州]</sup> 一种缝纫方法，将布、绸镶在织品、衣服、毛毯的边缘：把衣裳～个边。  
-1. 【[绲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#绲)】`guen3` <small>/kuəŋ3/<sup>泰兴</sup></small> 缝纫用语。如“～边”、“～鞋口”。<sup>\[泰兴\]</sup>  
+1. 【[绲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen.md#绲)】`guen3` <small>/kuəŋ3/<sup>泰兴</sup></small> ① 一种缝纫方法，将布、绸镶在织品、衣服、毛毯的边缘<sup>\[泰州\]</sup>：把衣裳～个边。<sup>\[泰州\]</sup> ② 缝纫用语。如“～边”、“～鞋口”。<sup>\[泰兴\]</sup>  
 1. 【[绲边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_bin.md#绲边)】`guen3 bin1` ① 用布条儿把衣服边或鞋帮口包裹着缝起来，叫绲边。<sup>\[如东\]</sup> ② 为衣服、鞋子的边缘缝上布条等，也写作滚边。章炳麟《新方言》：“凡织带皆可以为衣服缘边，故今称缘边曰～。”<sup>\[东台\]</sup>  
 1. 【[绲口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_keu.md#绲口)】`guen3 keu3` <sup>[兴化]</sup> 缝边：鞋子～。  
 1. 【[绲口条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guen_keu_tio_zz.md#绲口条子)】`guen3 keu3 tio2 zz` <sup>[兴化]</sup> 用作衣服、鞋帽绲边的布条。  
