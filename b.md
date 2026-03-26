@@ -236,7 +236,7 @@
 1. 【[覅就它吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieu_ta_ba.md#覅就它吧)】`bae5 qieu6 ta1 ba1` <sup>[东台]</sup> 讨厌、气愤时的口头禅，相当于“算了吧”：你还自我感觉良好，～！  
 1. 【[覅虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xy.md#覅虚)】`bae5 xy1` <sup>[东台]</sup> 不要过分惊慌：头疼？～！吃点儿药，马上好。  
 1. 【[八拜之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bae_zhr_jio.md#八拜之交)】`baeh7 bae5 zhr1 jio1` <sup>[如东]</sup> 旧时异姓男子或女子结拜为兄弟或姐妹的关系，称八拜之交。  
-1. 【[八八钱，八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱，八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[泰兴]</sup> 什么货色就是什么价钱，按质论价。乡间常用语，有“～，八八生意八八做”之说，含公平交易的意思。  
+1. 【[八八钱，八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱，八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <small>/pæʔ7 pæʔ7 t͡ɕʰĩ2 pæʔ7 pæʔ7 xɤɯ5/<sup>泰兴</sup></small> 什么货色就是什么价钱，按质论价。乡间常用语，有“～，八八生意八八做”之说，含公平交易的意思。<sup>\[泰兴\]</sup>  
 1. 【[八八钱八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[兴化]</sup> 以价论质：老兄，你覅嫌我俫货色丑，～！｜谚曰：～，八八生意八八做。  
 1. 【[八八钱八八货，八八生意八八做](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱八八货，八八生意八八做)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5 baeh7 baeh7 shen1 i5 baeh7 baeh7 zu5` <sup>[东台]</sup> 一种庸俗、消极的等价交换观念。  
 1. 【[八八<sub>儿</sub>理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_r_li.md#八八<sub>儿</sub>理)】`baeh7 baeh7 r li3` <sup>[如皋]</sup> 不正当的理由、或故意胡蛮缠的歪理，蛮理。八，古义相背。  
@@ -244,16 +244,16 @@
 1. 【[八标](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bio.md#八标)】`baeh7 bio1` <sup>[如东]</sup> 形容很远很远：他离这许还有～远哎！  
 1. 【[八宝饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bo_faen.md#八宝饭)】`baeh7 bo3 faen6` <small>/pæʔ7 pɔ3 fɛ̃1/<sup>泰兴</sup></small> ① 饭食的一种。各地用料不一样。掘港为：糯米加莲子、红枣、橘饼、桂园、桂花、豆沙、白糖、脂油以及青红丝等原料做成，味香色美。<sup>\[如东\]</sup> ② 一种用糯米加豆沙、脂油、白糖以及桂圆、红枣、莲子等多种辅料蒸制的甜食。所加之物，视情况不尽相同。<sup>\[泰兴\]</sup>  
 1. 【[八百个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_gu.md#八百个)】`baeh7 boh gu5` <sup>[兴化]</sup> 格斗时将拇指和食指岔开，卡对方喉部：弄他一个～。  
-1. 【[八百世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_shr.md#八百世)】`baeh7 boh7 shr5` <sup>[泰兴]</sup> 极言时间很长。  
+1. 【[八百世](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_shr.md#八百世)】`baeh7 boh7 shr5` <small>/pæʔ7 pɔʔ7 sɿ5/<sup>泰兴</sup></small> 极言时间很长。<sup>\[泰兴\]</sup>  
 1. 【[八百岁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_boh_xy.md#八百岁)】`baeh7 boh7 xy5` <sup>[泰州]</sup> 民俗，小儿打喷嚏时，长辈就会拍其后背，同时口呼“八百岁”，意谓小孩打过喷嚏，可以活八百岁。  
 1. 【[八叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cha.md#八叉)】`baeh7 cha1` <sup>[如东]</sup> 出现各种枝节，不顺利：打～。  
-1. 【[八成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_chen.md#八成)】`baeh7 chen2` <sup>[泰兴]</sup> 也说八成账。十分之八，多半，大概：我看他不欢喜的样子，～有甚的心事吧？  
+1. 【[八成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_chen.md#八成)】`baeh7 chen2` <small>/pæʔ7 t͡sʰəŋ2/<sup>泰兴</sup></small> 也说八成账。十分之八，多半，大概。<sup>\[泰兴\]</sup>：我看他不欢喜的样子，～有甚的心事吧？<sup>\[泰兴\]</sup>  
 1. 【[八成数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_chen_shv.md#八成数)】`baeh7 chen2 shv5` <sup>[兴化]</sup> 接近成功或可能性很大。也作“八成账”：他调扬州的事已经～啊。  
 1. 【[八成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_chen_zhan.md#八成账)】`baeh7 chen2 zhan5` <small>/pæʔ7 t͡sʰən2 t͡saŋ5/<sup>兴化</sup>, /peʔ7 t͡sʰəŋ2 t͡sã5/<sup>如皋</sup></small> ① 预计有把握。<sup>\[如皋\]</sup> ② 见“八成数”。<sup>\[兴化\]</sup> ③ 表示大概、差不多<sup>\[泰州\]</sup>：他上重点中学的事情，估计有～。<sup>\[泰州\]</sup>  
-1. 【[八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz.md#八字)】`baeh7 cz` <sup>[泰兴]</sup> 星命家以人出生的年、月、日、时，各配以天干地支，每项两个字，合成“八字”，据以推算人的命运。  
-1. 【[八字衙门朝南开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_ia_men.md#八字衙门朝南开)】`baeh7 cz ia2 men2 cho2 nun2 kae1` <sup>[泰兴]</sup> 旧时官府的大门两旁的墙壁呈八字形，谚有“～，有理无钱莫进来”，是对官府腐败的生动写照。  
-1. 【[八字没得一撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_meh_deh.md#八字没得一撇)】`baeh7 cz meh8 deh ieh7 pih` <sup>[泰兴]</sup> 比喻事情毫无眉目，未见端倪：虽说～，但总算有点希望。  
-1. 【[八字胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_v_zz.md#八字胡子)】`baeh7 cz v2 zz` <sup>[泰兴]</sup> 嘴上边呈八字形的胡子。  
+1. 【[八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz.md#八字)】`baeh7 cz` <small>/pæʔ7 t͡sʰɿ/<sup>泰兴</sup></small> 星命家以人出生的年、月、日、时，各配以天干地支，每项两个字，合成“八字”，据以推算人的命运。<sup>\[泰兴\]</sup>  
+1. 【[八字衙门朝南开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_ia_men.md#八字衙门朝南开)】`baeh7 cz ia2 men2 cho2 nun2 kae1` <small>/pæʔ7 t͡sʰɿ iɑ2 məŋ2 t͡sʰɔ2 nʊ̃2 kʰɛ1/<sup>泰兴</sup></small> 旧时官府的大门两旁的墙壁呈八字形，谚有“～，有理无钱莫进来”，是对官府腐败的生动写照。<sup>\[泰兴\]</sup>  
+1. 【[八字没得一撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_meh_deh.md#八字没得一撇)】`baeh7 cz meh8 deh ieh7 pih` <small>/pæʔ7 t͡sʰɿ məʔ8 təʔ iʔ7 pʰiʔ/<sup>泰兴</sup></small> 比喻事情毫无眉目，未见端倪<sup>\[泰兴\]</sup>：虽说～，但总算有点希望。<sup>\[泰兴\]</sup>  
+1. 【[八字胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_v_zz.md#八字胡子)】`baeh7 cz v2 zz` <small>/pæʔ7 t͡sʰɿ ʋ2 t͡sɿ/<sup>泰兴</sup></small> 嘴上边呈八字形的胡子。<sup>\[泰兴\]</sup>  
 1. 【[八字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz.md#八字)】`baeh7 cz6` <sup>[泰州]</sup> 人出生的年月日时，分别配以天干地支，每项两字，合称八字，用来推算人的命运：～好  
 1. 【[八字还不曾有一撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_hae_beh.md#八字还不曾有一撇)】`baeh7 cz6 hae2 beh7 cen2 ieu3 ieh7 pih7` <sup>[东台]</sup> 事情才有打算或刚开始，还未见眉目。  
 1. 【[八字胡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_hv.md#八字胡)】`baeh7 cz6 hv2` <small>/pæʔ7 t͡sʰɿ6 xu2/<sup>兴化</sup></small> ① 蓄须者上唇两撇胡须由口角下垂<sup>\[兴化\]</sup>：这个人光头，～。<sup>\[兴化\]</sup> ② 中间断开，分向两边，各自略下垂的胡须。<sup>\[泰州\]</sup>  
@@ -261,12 +261,12 @@
 1. 【[八字脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_jiah_r.md#八字脚<sub>儿</sub>)】`baeh7 cz6 jiah7 r` <sup>[如皋]</sup> 见“八脚儿”。  
 1. 【[八字没一撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_meh_ieh.md#八字没一撇)】`baeh7 cz6 meh8 ieh7 pih7` <sup>[如皋]</sup> 喻事情未有眉目。  
 1. 【[八字桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_cz_qio.md#八字桥)】`baeh7 cz6 qio2` <sup>[东台]</sup> 指西溪的通济桥（东西向）和广济桥（南北向），两桥呈八字形。  
-1. 【[八大老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_da_lo_zo.md#八大老早)】`baeh7 da lo3 zo3` <sup>[泰兴]</sup> ① 天亮之前，很早的时候：张老爹天天～的就起来锻炼身体 ② 比约定的时间提前了很多（到达）  
+1. 【[八大老早](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_da_lo_zo.md#八大老早)】`baeh7 da lo3 zo3` <small>/pæʔ7 tɑ lɔ3 t͡sɔ3/<sup>泰兴</sup></small> ① 天亮之前，很早的时候<sup>\[泰兴\]</sup>：张老爹天天～的就起来锻炼身体<sup>\[泰兴\]</sup> ② 比约定的时间提前了很多（到达）<sup>\[泰兴\]</sup>  
 1. 【[八大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_da_un.md#八大碗)】`baeh7 da6 un3` <sup>[如皋]</sup> 乡村传统菜谱，一席全用八只大碗上菜，富足而不考究。  
 1. 【[八带鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_dae_y_r.md#八带鱼<sub>儿</sub>)】`baeh7 dae5 y2 r` <sup>[如东]</sup> 章鱼科动物长蛸。  
 1. 【[八搭<sub>儿</sub>个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_daeh_r_gu.md#八搭<sub>儿</sub>个子)】`baeh7 daeh7 r gu5 zz` <sup>[如东]</sup> 不高不矮的身材：他是～。  
-1. 【[八担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_daen.md#八担)】`baeh7 daen5` <sup>[泰兴]</sup> 谓极多，很多：我箇许～的事，忙得不得了。  
-1. 【[八刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_do.md#八刀)】`baeh7 do1` <sup>[泰兴]</sup> “分”的隐语：今朝收入不少，来，大家～吧。  
+1. 【[八担](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_daen.md#八担)】`baeh7 daen5` <small>/pæʔ7 tɛ̃5/<sup>泰兴</sup></small> 谓极多，很多。<sup>\[泰兴\]</sup>：我箇许～的事，忙得不得了。<sup>\[泰兴\]</sup>  
+1. 【[八刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_do.md#八刀)】`baeh7 do1` <small>/pæʔ7 tɔ1/<sup>泰兴</sup></small> “分”的隐语。<sup>\[泰兴\]</sup>：今朝收入不少，来，大家～吧。<sup>\[泰兴\]</sup>  
 1. 【[八刀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_do_zz.md#八刀子)】`baeh7 do1 zz` <sup>[兴化]</sup> 分手、分拆等的隐语：这笔钱由在座的人～。｜他俫～啊。  
 1. 【[八角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gah.md#八角)】`baeh7 gah7` <small>/peʔ7 kaʔ7/<sup>如皋</sup>, /pæʔ7 kɑʔ7/<sup>泰兴</sup></small> ① 八角形风筝的俗称。<sup>\[如皋\]</sup> ② 药草或香料的一味。<sup>\[如皋\]</sup> ③ 植物名，也叫“八角茴香”，果实香气浓烈，可做香料、佐料。乡间做菜常用，即所谓“五香八角”也。<sup>\[泰兴\]</sup>  
 1. 【[八更八点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_gen_baeh_din.md#八更八点)】`baeh7 gen1 baeh7 din3` <small>/pæʔ7 kən1 pæʔ7 tiɪ̃3/<sup>兴化</sup>, /peʔ7 kəŋ1 peʔ7 tĩ3/<sup>如皋</sup>, /pæʔ7 kəŋ1 pæʔ7 tĩ3/<sup>泰兴</sup></small> ① 旧时一夜分为五更，八更是没有的。表示深夜。<sup>\[如东\]</sup>：哪怕～也要赶到！（形容决心很大）<sup>\[如东\]</sup> ② 称极夜深。你不要担心，今朝哪怕到～总做起来。<sup>\[如皋\]</sup> ③ 一夜本来只有五更天，八更的意思是无论拖到何时，当夜也要完成某项任务。<sup>\[东台\]</sup> ④ 极言不管到什么时候<sup>\[兴化\]</sup>：“下次他回来，就说我找他，哪怕夜里～。”（毕飞宇《慌乱的指头》）<sup>\[兴化\]</sup> ⑤ 喻夜上很晚很晚的时候。<sup>\[泰兴\]</sup>：今朝哪怕到～，我佼也要完成箇个任务。<sup>\[泰兴\]</sup> ⑥ 极言夜里时间之晚，带有“无论怎么晚也要怎样”的意味<sup>\[泰州\]</sup>：明朝人家客户就要来取货，你今朝晚上～都要同我弄吖好啊。<sup>\[泰州\]</sup>｜你今朝夜里就是～也要赶家来。<sup>\[泰州\]</sup>  
@@ -281,7 +281,7 @@
 1. 【[八音锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_lu.md#八音锣)】`baeh7 ien1 lu2` <sup>[如皋]</sup> 实际按在架子上的有十面小锣，八音，是指完整的一组音阶。  
 1. 【[八音钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ien_zhon.md#八音钟)】`baeh7 ien1 zhon1` <sup>[如皋]</sup> 是指高级音乐座钟。  
 1. 【[八月半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_bun.md#八月半)】`baeh7 iuh bun5` <small>/pæʔ7 yuʔ pũ5/<sup>兴化</sup></small> ① 中秋节 ② 中秋节<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：今朝～，晚上敬月光，吃团圆酒。<sup>\[兴化\]</sup>  
-1. 【[八月中秋，蚊子上通州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_zhon_qieu.md#八月中秋，蚊子上通州)】`baeh7 iuh zhon1 qieu ven2 zz shan6 ton1 zheu1` <sup>[泰兴]</sup> 谓到了农历八月，蚊虫逐渐減少。  
+1. 【[八月中秋，蚊子上通州](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_zhon_qieu.md#八月中秋，蚊子上通州)】`baeh7 iuh zhon1 qieu ven2 zz shan6 ton1 zheu1` <small>/pæʔ7 yʊʔ t͡sɔŋ1 t͡ɕʰiɤɯ ʋəŋ2 t͡sɿ sɑŋ1 tʰɔŋ1 t͡ɕiɤɯ1/<sup>泰兴</sup></small> 谓到了农历八月，蚊虫逐渐減少。<sup>\[泰兴\]</sup>  
 1. 【[八月八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_iuh_baeh.md#八月八)】`baeh7 iuh8 baeh7` <sup>[如东]</sup> 节日。如东县阴历八月八日，有杀鸭子烧毛芋头的习俗。  
 1. 【[八监里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiaen_lii.md#八监里)】`baeh7 jiaen1 lii` <sup>[东台]</sup> （詈语）不知在哪个监牢里。  
 1. 【[八脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_jiah_r.md#八脚<sub>儿</sub>)】`baeh7 jiah7 r` <sup>[如皋]</sup> 双脚间不平行的畸型。  
@@ -295,8 +295,8 @@
 1. 【[八品佳才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pien_jia_cae.md#八品佳才)】`baeh7 pien3 jia1 cae2` <sup>[如皋]</sup> 见“八品”。  
 1. 【[八部](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_pv.md#八部)】`baeh7 pv6` <sup>[如皋]</sup> 状衙门等级高（事实上只有六部。没有八部）：哪怕官司打到～里总同你打！  
 1. 【[八人轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ren_choh.md#八人轴)】`baeh7 ren choh8` <sup>[如皋]</sup> 八人踏的大号踏轴，与26杖的槽筒匹配，适用于地高水低区。  
-1. 【[八人大轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ren_da_qio.md#八人大轿)】`baeh7 ren2 da6 qio6` <sup>[泰兴]</sup> 也说八抬大轿、八抬。旧时高官等乘用的一种由八人抬的大轿子。乡间常用“八抬”讽刺拿架子，抬身份者：一天到晚踱方步，捧茶杯，就像个‘八抬’。  
-1. 【[八十岁学吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_suei_hah.md#八十岁学吹手)】`baeh7 sheh suei5 hah8 chuei1 sheu` <sup>[泰兴]</sup> 指年纪大了还要去干很费力的事。“吹手”，吹鼓手，民间吹吹打打的一种职业：依我看，老爹上吖年纪，就不要～了。  
+1. 【[八人大轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_ren_da_qio.md#八人大轿)】`baeh7 ren2 da6 qio6` <small>/pæʔ7 ɻəŋ2 tɑ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> 也说八抬大轿、八抬。旧时高官等乘用的一种由八人抬的大轿子。乡间常用“八抬”讽刺拿架子，抬身份者<sup>\[泰兴\]</sup>：一天到夜踱方步，捧茶杯，就像个‘八抬’。<sup>\[泰兴\]</sup>  
+1. 【[八十岁学吹手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_suei_hah.md#八十岁学吹手)】`baeh7 sheh suei5 hah8 chuei1 sheu` <small>/pæʔ7 səʔ suəɪ5 xɑʔ8 t͡sʰuəɪ1 ɕiɤɯ/<sup>泰兴</sup></small> 指年纪大了还要去干很费力的事。“吹手”，吹鼓手，民间吹吹打打的一种职业。<sup>\[泰兴\]</sup>：依我看，老爹上吖年纪，就不要～了。<sup>\[泰兴\]</sup>  
 1. 【[八十岁学吹鼓手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah.md#八十岁学吹鼓手)】`baeh7 sheh xy5 hah8 chuei1 gv3 sheu3` <sup>[东台]</sup> 喻指错过了学习的最佳时机。  
 1. 【[八十岁学吹手，学到老，学不了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah.md#八十岁学吹手，学到老，学不了)】`baeh7 sheh8 xy5 hah8 chuei1 sheu hah8 do5 lo3 hah8 beh7 lio3` <sup>[如皋]</sup> 学本领一辈子也学不完。  
 1. 【[八十岁学吹手，中气不足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_sheh_xy_hah.md#八十岁学吹手，中气不足)】`baeh7 sheh8 xy5 hah8 chuei1 sheu zhon1 qi5 beh7 zoh7` <sup>[如皋]</sup> 老了，气不够用。  
@@ -310,12 +310,12 @@
 1. 【[八碗八碟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_un_baeh_dih.md#八碗八碟)】`baeh7 un3 baeh7 dih7` <sup>[如皋]</sup> 传统上等菜谱，比“六碗八碟”多“两碗”是加烧烤。  
 1. 【[八乡底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xian_di.md#八乡底)】`baeh7 xian1 di3` <small>/pæʔ7 ɕiaŋ1 təi3/<sup>兴化</sup></small> ① 距城镇较远的乡村<sup>\[兴化\]</sup>：我家住啊在～，不曾见过大世面。<sup>\[兴化\]</sup> ② 八方最远之处，意谓极远极偏僻的地区<sup>\[泰州\]</sup>：你蹾的这个地方到啊～，哪个肯去啊！<sup>\[泰州\]</sup>  
 1. 【[八乡底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xian_di_ha.md#八乡底下)】`baeh7 xian1 di3 ha` <sup>[如皋]</sup> 偏僻的远乡间。  
-1. 【[八乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xian_ha.md#八乡下)】`baeh7 xian1 ha` <sup>[泰兴]</sup> 俗谓离城镇很远的农村偏僻地区。  
+1. 【[八乡下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xian_ha.md#八乡下)】`baeh7 xian1 ha` <small>/pæʔ7 ɕiɑŋ1 xɑ/<sup>泰兴</sup></small> 俗谓离城镇很远的农村偏僻地区。<sup>\[泰兴\]</sup>  
 1. 【[八仙过海，各显神通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_gu_hae.md#八仙过海，各显神通)】`baeh7 xin1 gu5 hae3 gah7 xin3 shen2 ton1` <small>/pæʔ7 ɕĩ1 kɤɯ5 xɛ3 kɑʔ7 ɕĩ3 səŋ2 tʰɔŋ1/<sup>泰兴</sup></small> 比喻各自拿出本领或办法，互相竞赛或决断事务。<sup>\[泰兴\]</sup>  
 1. 【[八仙花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_hua.md#八仙花)】`baeh7 xin1 hua1` <sup>[如东]</sup> 虎耳草科植物绣球。  
-1. 【[八仙台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_tae_zz.md#八仙台子)】`baeh7 xin1 tae2 zz` <sup>[泰兴]</sup> 八仙桌。  
+1. 【[八仙台子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_tae_zz.md#八仙台子)】`baeh7 xin1 tae2 zz` <small>/pæʔ7 ɕĩ1 tʰɛ2 t͡sɿ/<sup>泰兴</sup></small> 八仙桌。<sup>\[泰兴\]</sup>  
 1. 【[八仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_zhuah.md#八仙桌)】`baeh7 xin1 zhuah7` ① 一种四方形的桌子，边长100厘米，高84厘米，可以坐8个人。宋时已有。宋·晃补之《八仙案铭》：“东皋松菊堂，饮中八仙桉。”<sup>\[如东\]</sup> ② 木制方桌，每边可坐二人，共八人。<sup>\[泰州\]</sup>  
-1. 【[八仙桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_zhuah_zz.md#八仙桌子)】`baeh7 xin1 zhuah7 zz` <sup>[泰兴]</sup> 也称八仙台子。每边可坐两人的大方桌。桌面四周下沿常雕有“八仙过海”等图案。  
+1. 【[八仙桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_zhuah_zz.md#八仙桌子)】`baeh7 xin1 zhuah7 zz` <small>/pæʔ7 ɕĩ1 t͡suɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 也称八仙台子。每边可坐两人的大方桌。桌面四周下沿常雕有“八仙过海”等图案。<sup>\[泰兴\]</sup>  
 1. 【[八鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin.md#八鲜)】`baeh7 xin1` <small>/pæʔ7 ɕiɪ̃1/<sup>兴化</sup></small> ① 有素八鲜和荤八鲜两种。素八鲜为：芹菜、茨菇、荸荠、荷藕、生姜、洋葱、大头菜、龙头芋。荤八鲜，不同集镇有不同的内容。<sup>\[如东\]</sup> ② 指瓜、果、菱藕、蔬菜及部分海鲜<sup>\[兴化\]</sup>：～行。<sup>\[兴化\]</sup>  
 1. 【[八鲜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_xin_han.md#八鲜行)】`baeh7 xin1 han2` <small>/peʔ7 ɕĩ1 xã2/<sup>如皋</sup></small> ① 买卖鲜货的商行。<sup>\[如东\]</sup> ② 商行名。八鲜，指菱、藕、虾、蟹、蛼螯等。<sup>\[如皋\]</sup>  
 1. 【[八只眼<sub>儿</sub>烧鲜汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_zheh_ngaen_r.md#八只眼<sub>儿</sub>烧鲜汤)】`baeh7 zheh7 ngaen3 r sho1 xin1 tan1` <sup>[如皋]</sup> 詈语。祭品六只眼，算上某人的两只眼计八只眼。骂某人是畜牲。  
@@ -515,7 +515,7 @@
 1. 【[不直气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_cheh_qi.md#不直气)】`beh7 cheh8 qi` <small>/pəʔ7 t͡sʰəʔ8 t͡ɕʰʝ/<sup>泰兴</sup></small> 不直爽。<sup>\[泰兴\]</sup>：他箇个人～。<sup>\[泰兴\]</sup>  
 1. 【[不成材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_cae.md#不成材)】`beh7 chen2 cae2` <sup>[如东]</sup> 没有长成有用的木材。比喻没有才能，没有出息：这个伢儿懒，～。  
 1. 【[不成器](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_qi.md#不成器)】`beh7 chen2 qi5` <small>/pəʔ7 t͡sʰəŋ2 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 比喻不成才，没出息。<sup>\[泰兴\]</sup> ② 没有做成有用的器具。<sup>\[如东\]</sup> ③ 比喻没有出息。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup> ④ 比喻不正经。<sup>\[如东\]</sup>：这个人到老都～。<sup>\[如东\]</sup> ⑤ 人不成才或者人没有出息<sup>\[泰州\]</sup>：这小伙这吖大唻，怎吖还～的。<sup>\[泰州\]</sup>  
-1. 【[不成人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ren.md#不成人)】`beh7 chen2 ren` <sup>[泰兴]</sup> 称没有出息为不成人。也指行为不端。  
+1. 【[不成人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ren.md#不成人)】`beh7 chen2 ren` <small>/pəʔ7 t͡sʰəŋ2 ɻəŋ/<sup>泰兴</sup></small> 称没有出息为不成人。也指行为不端。<sup>\[泰兴\]</sup>  
 1. 【[不成人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ren.md#不成人)】`beh7 chen2 ren2` <sup>[泰州]</sup> 行为恶劣的人：他家二小～，成天同些不三不四的人在做块儿鬼混。  
 1. 【[不成文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen_ven.md#不成文)】`beh7 chen2 ven2` <small>/pəʔ7 t͡sʰən2 uən2/<sup>兴化</sup>, /pəʔ7 t͡sʰəŋ2 ʋəŋ2/<sup>泰兴</sup></small> ① 不上规矩，不按道德常理行事处世。<sup>\[泰兴\]</sup>：箇个伢儿太～，起码的礼节都不懂。<sup>\[泰兴\]</sup> ② 不规范、不配套<sup>\[兴化\]</sup>：你买的这几件家具格式不同，颜色又杂，～。<sup>\[兴化\]</sup>｜你这件衣裳不棉、不夹，真～。<sup>\[兴化\]</sup> ③ 约定俗成的做法<sup>\[泰州\]</sup>：我俫单位有条～的规定，年终考核表彰，个人一般不重复表彰。<sup>\[泰州\]</sup> ④ 指价格不高的物品<sup>\[泰州\]</sup>：他身上穿的衣裳没得一件上档次，都是些～的东西。<sup>\[泰州\]</sup>  
 1. 【[不称](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_chen.md#不称)】`beh7 chen5` <small>/pəʔ7 t͡sʰəŋ5/<sup>泰兴</sup></small> 不相称，不相符。可作谦语。<sup>\[泰兴\]</sup>：我是个泥腿子，参加箇种活动实在～。<sup>\[泰兴\]</sup>  
@@ -540,7 +540,7 @@
 1. 【[不打䛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_ni.md#不打䛏)】`beh7 da3 ni6` <sup>[如皋]</sup> 常作口头禅，意为“认真地”：这个价钱，～，打九折把你，再少不能卖啊。  
 1. 【[不打时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_shr_chen.md#不打时辰)】`beh7 da3 shr2 chen` <sup>[东台]</sup> 不耽误时间。  
 1. 【[不打心上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_xien_shan.md#不打心上来)】`beh7 da3 xien1 shan6 lae2` <sup>[如东]</sup> 不满意，不高兴：你买的箇件衣裳我～。  
-1. 【[不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_zuei_lii.md#不打嘴里过)】`beh7 da3 zuei3 lii gu5` <sup>[泰兴]</sup> 谓说话不经思考，不负责任。  
+1. 【[不打嘴里过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_da_zuei_lii.md#不打嘴里过)】`beh7 da3 zuei3 lii gu5` <small>/pəʔ7 tɑ3 t͡suəɪ3 ləɪ kɤɯ5/<sup>泰兴</sup></small> 谓说话不经思考，不负责任。<sup>\[泰兴\]</sup>  
 1. 【[不呆不𤹉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_beh_ha.md#不呆不𤹉)】`beh7 dae1 beh7 ha3` <small>/pəʔ7 tɛ1 pəʔ7 xɑ3/<sup>泰兴</sup></small> 无智力缺陷<sup>\[泰兴\]</sup>：他人～的，怎吖被人家骗吖箇些钱？<sup>\[泰兴\]</sup>  
 1. 【[不带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae.md#不带)】`beh7 dae5` <sup>[如东]</sup> 不算，不允许。  
 1. 【[不带虚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dae_xy_teu.md#不带虚头)】`beh7 dae5 xy1 teu` <sup>[如东]</sup> 不算假数字：～，你要多少钱？  
@@ -624,8 +624,8 @@
 1. 【[不关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guaen.md#不关)】`beh7 guaen1` <sup>[兴化]</sup> ① 没有关系：这个～，出咖事有我负责。 ② 不要紧：钢精锅子碰瘪咖，其实～，敲下子就好啊。  
 1. 【[不关风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guaen_fon.md#不关风)】`beh7 guaen1 fon1` <sup>[如皋]</sup> ① 门牙缺损，影响发音。见“豁䶕齿”。 ② 说话随便，露出机密。  
 1. 【[不光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guan.md#不光)】`beh7 guan1` <small>/pəʔ7 kuɑŋ1/<sup>泰兴</sup></small> 不止，不仅。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～他一个人。<sup>\[如东\]</sup>｜～是你不要去，其他人也不要去。<sup>\[泰兴\]</sup>  
-1. 【[不佮节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_jih.md#不佮节)】`beh7 guh7 jih7` <sup>[泰兴]</sup> 不和，不协调：他佼两个人～。  
-1. 【[不佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_sun.md#不佮算)】`beh7 guh7 sun` <sup>[泰兴]</sup> 划不来。  
+1. 【[不佮节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_jih.md#不佮节)】`beh7 guh7 jih7` <small>/pəʔ7 kʊʔ7 t͡ɕiʔ7/<sup>泰兴</sup></small> 不和，不协调。<sup>\[泰兴\]</sup>：他佼两个人～。<sup>\[泰兴\]</sup>  
+1. 【[不佮算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_guh_sun.md#不佮算)】`beh7 guh7 sun` <small>/pəʔ7 kʊʔ7 sʊ̃/<sup>泰兴</sup></small> 划不来。<sup>\[泰兴\]</sup>  
 1. 【[不干不净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_beh_qien.md#不干不净)】`beh7 gun1 beh7 qien6` <small>/pəʔ7 kʊ̃1 pəʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 脏，不干净。引喻为粗俗下流，粗言蠢语。<sup>\[泰兴\]</sup>：嘴里～的混骂人。<sup>\[泰兴\]</sup>  
 1. 【[不干净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_qien.md#不干净)】`beh7 gun1 qien` <sup>[如皋]</sup> 迷信者称异象：这条河里～，有河落鬼作怪。  
 1. 【[不敢当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_gun_dan.md#不敢当)】`beh7 gun3 dan1` <sup>[如东]</sup> ① 当不起。 ② 对别人的赞誉表示不相称的一种谦词。  
@@ -678,7 +678,7 @@
 1. 【[不肯上圆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ken_shan_iun.md#不肯上圆)】`beh7 ken3 shan6 iun2` <sup>[东台]</sup> 不愿意协助把事情办好。  
 1. 【[不空房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kon_fan.md#不空房)】`beh7 kon5 fan2` <sup>[如皋]</sup> 结婚正日前夕，新房收拾好后，由新郎偕小伙子同宿，俗说辟邪。  
 1. 【[不共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kon.md#不共)】`beh7 kon6` <small>/pəʔ7 kʰɔŋ1/<sup>泰兴</sup></small> 不共事，不相处。<sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：我同箇种人～。<sup>\[泰兴\]</sup>｜你说的这个人太阴险，我同他～。<sup>\[泰州\]</sup>｜这两个人～。<sup>\[泰州\]</sup>  
-1. 【[不可当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_dan.md#不可当)】`beh7 ku3 dan1` <sup>[泰兴]</sup> 不得了：那年蝗灾，蝗虫多得～，漫天盖地飞舞。  
+1. 【[不可当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_dan.md#不可当)】`beh7 ku3 dan1` <small>/pəʔ7 kʰɤɯ3 tɑŋ1/<sup>泰兴</sup></small> 不得了。<sup>\[泰兴\]</sup>：那年蝗灾，蝗虫多得～，漫天盖地飞舞。<sup>\[泰兴\]</sup>  
 1. 【[不可开交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_ku_kae_jio.md#不可开交)】`beh7 ku3 kae1 jio1` <small>/pəʔ7 kʰɤɯ3 kʰɛ1 t͡ɕiɔ1/<sup>泰兴</sup></small> 形容无法摆脱或结束。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：闹得～。<sup>\[如东\]</sup>｜忙得～。<sup>\[泰兴\]</sup>  
 1. 【[不快活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kuae_huh.md#不快活)】`beh7 kuae5 huh8` <sup>[如东]</sup> ① 不高兴。 ② 忌妒。  
 1. 【[不宽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_kun.md#不宽)】`beh7 kun1` <small>/pəʔ7 kʰũ1/<sup>兴化</sup></small> （处境、经济情况等）窘迫、拮据<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：她们也体会到婆家手底～的甘苦。（马春阳《借古喻今》）<sup>\[兴化\]</sup>｜“我看你衣衫褴褛，家中～……”（兴文《韩乐吾济银》）<sup>\[兴化\]</sup>｜他最近手头～。<sup>\[泰州\]</sup>  
@@ -696,7 +696,7 @@
 1. 【[不冷不热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_len_beh_rih.md#不冷不热)】`beh7 len3 beh7 rih8` <sup>[如东]</sup> ① 气候温和：天气～的，真舒服。 ② 比喻不太亲热：她对他～的，住不下去。  
 1. 【[不理不睬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_li_beh_cae.md#不理不睬)】`beh7 li3 beh7 cae3` <sup>[如东]</sup> 不答理。例  
 1. 【[不玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lien_lon.md#不玲珑)】`beh7 lien2-3 lon` <sup>[东台]</sup> 反应迟钝，不灵敏。  
-1. 【[不了了之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lio_lio_zhr.md#不了了之)】`beh7 lio3 lio3 zhr1` <sup>[泰兴]</sup> 把未了的事情放在一边不去管它，就算完事：上次的账也不曾算清，就箇样子～。  
+1. 【[不了了之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lio_lio_zhr.md#不了了之)】`beh7 lio3 lio3 zhr1` <small>/pəʔ7 liɔ3 liɔ3 t͡sɿ1/<sup>泰兴</sup></small> 把未了的事情放在一边不去管它，就算完事。<sup>\[泰兴\]</sup>：上次的账也不曾算清，就箇样子～。<sup>\[泰兴\]</sup>  
 1. 【[不笼懂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lon_don.md#不笼懂)】`beh7 lon2 don3` <sup>[兴化]</sup> 不清楚：他说咖半天我都听～。｜他俫的关系我～。  
 1. 【[不拢边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_lon_bin.md#不拢边)】`beh7 lon3 bin1` <sup>[东台]</sup> 有意回避，不靠近：那小伙忤逆，老子生病他都～。  
 1. 【[不买帐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_mae_zhan.md#不买帐)】`beh7 mae3 zhan5` <small>/pəʔ7 mɛ3 t͡sɑŋ5/<sup>泰兴</sup></small> 不给面子；不理睬；不服从。<sup>\[泰兴\]</sup>：我不买他的帐。<sup>\[泰兴\]</sup>  
@@ -730,7 +730,7 @@
 1. 【[不欺公道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_gon_to.md#不欺公道)】`beh7 qi1 gon1 to6` <sup>[泰州]</sup> 指做事不偏不倚，公平合理：上次上北京市老李去的，领导～，这一回子就让你老赵去。  
 1. 【[……不齐清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_qien.md#……不齐清)】`beh7 qi2 qien1` <sup>[东台]</sup> 接在动词后，表示无法做得周全：有病的人太多，帮～。  
 1. 【[不起眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_ngaen.md#不起眼)】`beh7 qi3 ngaen3` <small>/pəʔ7 t͡ɕʰʝ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 不引人关注。<sup>\[如东\]</sup>：这点儿货～。<sup>\[如东\]</sup> ② 微不足道，很不醒目。<sup>\[东台\]</sup> ③ 不引人注目；不值得重视；未进入视野。<sup>\[泰兴\]</sup> ④ 不引人注目<sup>\[泰州\]</sup>：老钱这人望样子～，你想不到他是清华毕业的高材生吧。<sup>\[泰州\]</sup>｜弄张报纸包两条好烟送把他，这格局～。<sup>\[泰州\]</sup>  
-1. 【[不忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi.md#不忌)】`beh7 qi6` <sup>[泰兴]</sup> 不忌讳。见“无忌”。  
+1. 【[不忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi.md#不忌)】`beh7 qi6` <small>/pəʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> 不忌讳。见“无忌”。<sup>\[泰兴\]</sup>  
 1. 【[不忌偏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qi_pin.md#不忌偏)】`beh7 qi6 pin1` <sup>[东台]</sup> 不忌讳某些风俗。  
 1. 【[不详意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qia_i.md#不详意)】`beh7 qia2 i5` <small>/pəʔ7 t͡ɕʰia2 ʝ5/<sup>如皋</sup>, /pəʔ7 t͡ɕʰiɑ2 ʝ/<sup>泰兴</sup></small> ① 致歉语，意为不经意<sup>\[如皋\]</sup>：我～碰吖你啦，对不起！<sup>\[如皋\]</sup> ② 没想到，出乎意料<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：才离啊几年，～他倒成吖博士。<sup>\[如皋\]</sup>｜～他冒雨赶到。<sup>\[东台\]</sup>｜～你今朝来，几十年不曾见，箇一趟好啊点耍子几天。<sup>\[泰兴\]</sup>  
 1. 【[不抢口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_qian_keu.md#不抢口)】`beh7 qian3 keu3` <sup>[如皋]</sup> 滋味不合口，不爱吃，或厌食。  
@@ -778,8 +778,8 @@
 1. 【[不上路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_lv_zz.md#不上路子)】`beh7 shan6 lv6 zz` <sup>[如皋]</sup> 见“不上道儿”。  
 1. 【[不上谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_pv_r.md#不上谱<sub>儿</sub>)】`beh7 shan6 pv3 r` <sup>[如皋]</sup> 见“不上道儿”。  
 1. 【[不上师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_shr.md#不上师)】`beh7 shan6 shr1` <sup>[如东]</sup> 不上规矩：这个伢儿～。  
-1. 【[不上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_sun.md#不上算)】`beh7 shan6 sun5` <sup>[泰兴]</sup> 不合算，吃亏：有的村民认为植树造林～，不愿意承包。  
-1. 【[不上台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_tae_min.md#不上台面)】`beh7 shan6 tae2 min` <sup>[泰兴]</sup> 喻俚俗卑下，拿不出手，见不得人：他的那些三朋四友，总是～的人。｜找啊个猥琐寡语，～的新娘子。  
+1. 【[不上算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_sun.md#不上算)】`beh7 shan6 sun5` <small>/pəʔ7 sɑŋ1 sʊ̃5/<sup>泰兴</sup></small> 不合算，吃亏。<sup>\[泰兴\]</sup>：有的村民认为植树造林～，不愿意承包。<sup>\[泰兴\]</sup>  
+1. 【[不上台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_tae_min.md#不上台面)】`beh7 shan6 tae2 min` <small>/pəʔ7 sɑŋ1 tʰɛ2 mĩ/<sup>泰兴</sup></small> 喻俚俗卑下，拿不出手，见不得人。<sup>\[泰兴\]</sup>：他的那些三朋四友，总是～的人。<sup>\[泰兴\]</sup>｜找啊个猥琐寡语，～的新娘子。<sup>\[泰兴\]</sup>  
 1. 【[不上台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_tae_pun.md#不上台盘)】`beh7 shan6 tae2 pun2` <small>/pəʔ7 sã1 tʰɛ2 pʰʊ̃2/<sup>如皋</sup></small> ① 理由不成立，得不到大家认可。<sup>\[如皋\]</sup> ② 小神气、小聪明上不了大场面。<sup>\[如皋\]</sup> ③ 上不了台面，指人的言行举止和所出席的场合不相称<sup>\[泰州\]</sup>：教他这小伙去陪客人喝酒的，人家客人不曾醉，他玩吖自己弄吖醉啊，你说他这种人哿是～。<sup>\[泰州\]</sup>  
 1. 【[不上道<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_to_r.md#不上道<sub>儿</sub>)】`beh7 shan6 to6 r` <sup>[如皋]</sup> 不按规矩说话做事。  
 1. 【[不上相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_xian.md#不上相)】`beh7 shan6 xian5` ① 不上规矩。<sup>\[如东\]</sup>：这个伢儿～。<sup>\[如东\]</sup> ② 做事不认真。<sup>\[如东\]</sup>：你今朝做东西～。<sup>\[如东\]</sup> ③ 照片没有真人好看。<sup>\[东台\]</sup> ④ ［引］形象不好。<sup>\[东台\]</sup>  
@@ -1293,7 +1293,7 @@
 1. 【[扁砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun.md#扁砖)】`bin3 zhun1` <sup>[如东]</sup> 砖块平放，称扁砖。  
 1. 【[扁砖墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zhun_qian.md#扁砖墙)】`bin3 zhun1 qian2` <sup>[如皋]</sup> 见“平砖墙”。  
 1. 【[扁嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_zuei.md#扁嘴)】`bin3 zuei3` <sup>[兴化]</sup> ① 撅嘴：她气啊把嘴一扁。 ② 鸭子。  
-1. 【[变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#变)】`bin5` <sup>[泰兴]</sup> ① 变的常用义（变化、变成等） ② 玄学说法，转世成为：算命的说他是猴子～的｜他死掉好几年ngo，怕的已经重～吖人  
+1. 【[变](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin.md#变)】`bin5` <small>/pĩ5/<sup>泰兴</sup></small> 玄学说法，转世成为<sup>\[泰兴\]</sup>：算命的说他是猴子～的<sup>\[泰兴\]</sup>｜他死掉好几年ngo，怕的已经重～吖人<sup>\[泰兴\]</sup>  
 1. 【[变不全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_beh_qiun.md#变不全)】`bin5 beh7 qiun2` ① 身体有残疾。<sup>\[如东\]</sup> ② 比喻智力发育不健全的人。<sup>\[如东\]</sup>：连话都说不清楚，真是一个～。<sup>\[如东\]</sup> ③ （詈语）本指冤蛋，喻指笨蛋<sup>\[东台\]</sup>：他说话没数，是个～。<sup>\[东台\]</sup>  
 1. 【[变变<sub>儿</sub>天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_bin_r_tin.md#变变<sub>儿</sub>天)】`bin5 bin5 r tin1` <small>/pĩ5 pi˞5 tʰĩ1/<sup>如皋</sup></small> ① 多云的天气。<sup>\[如东\]</sup>：今朝是～，怕的要落雨。<sup>\[如东\]</sup> ② 指多云转阴的天气。<sup>\[如皋\]</sup>  
 1. 【[变狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bin_geu.md#变狗)】`bin5 geu3` <sup>[兴化]</sup> 斥人不讲信用：欠人的钱想天法总要还，不做～。  
@@ -1481,7 +1481,7 @@
 1. 【[北坛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_taen.md#北坛)】`boh7 taen2` <sup>[如皋]</sup> 见“吕祖殿”。  
 1. 【[北猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zhv.md#北猪)】`boh7 zhv1` <sup>[兴化]</sup> ① 产于两准及盐阜地区的猪，相对于产自江（堰）曲（塘）海（安）的南猪。 ② （喻）矮胖粗黑的女人：她养吖像个～。  
 1. 【[北灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_zo.md#北灶)】`boh7 zo5` <sup>[如皋]</sup> 北方的盐场。通常指大丰县一带。谚云：“北灶的手——𢜶（䴛）手”。  
-1. 【[卜卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gua.md#卜卦)】`boh7 gua5` <sup>[泰兴]</sup> 占卜卦相以测吉凶。旧时乡间颇流行算命打卦。迷信。  
+1. 【[卜卦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_gua.md#卜卦)】`boh7 gua5` <small>/pɔʔ7 kuɑ5/<sup>泰兴</sup></small> 占卜卦相以测吉凶。旧时乡间颇流行算命打卦。迷信。<sup>\[泰兴\]</sup>  
 1. 【[卜浪鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_lan_gv.md#卜浪鼓)】`boh7 lan6 gv3` <sup>[东台]</sup> 即拨浪鼓，儿童玩具，旧时糖货郎担子用其招徕顾客。  
 1. 【[擘豆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_teu_zz.md#擘豆子)】`boh7 teu6 zz` <sup>[东台]</sup> 将豆角（多指蚕豆）用食指、中指托住，大拇指在中间用力一摁，壳破豆出。  
 1. 【[柏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/boh_ieu.md#柏油)】`boh7 ieu2` <sup>[如东]</sup> 沥青。  
@@ -1634,7 +1634,7 @@
 1. 【[半半拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_bun_la_r.md#半半拉<sub>儿</sub>)】`bun5 bun5 la1 r` <sup>[如东]</sup> ① 不完全：剩下～。 ② 没有全部完成：割稻割咖个～。  
 1. 【[半大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da.md#半大)】`bun5 da` <small>/pʊ̃5 tɑ/<sup>泰兴</sup></small> 形容介乎大小之间（的东西）。<sup>\[泰兴\]</sup>  
 1. 【[半大天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_tin.md#半大天)】`bun5 da tin1` <small>/pũ5 ta tʰiɪ̃1/<sup>兴化</sup>, /pʊ̃5 ta tʰĩ1/<sup>如皋</sup>, /pʊ̃5 tɑ tʰĩ1/<sup>泰兴</sup></small> ① 很长时间。<sup>\[如东\]</sup>：去啊～还不家来。<sup>\[如东\]</sup> ② 好久。<sup>\[如皋\]</sup> ③ 等待很久。感觉心焦、不耐烦、有责怪义。<sup>\[如皋\]</sup> ④ 相当长一段时间<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：等他～，他才不慌不忙的跑过来。<sup>\[兴化\]</sup> ⑤ 泛指半天中的较长一段时间<sup>\[泰州\]</sup>：他早起就整理唻，忙吖～也不曾弄得好。<sup>\[泰州\]</sup>｜他俫两个谈吖～才谈吖妥啊。<sup>\[泰州\]</sup>  
-1. 【[半打落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_lah_ha.md#半打落下)】`bun5 da lah ha6` <sup>[泰兴]</sup> 事情进程未完：伢儿家坐不住，作业做得～的，就去耍子啊  
+1. 【[半打落下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_da_lah_ha.md#半打落下)】`bun5 da lah8 ha6` <small>/pʊ̃5 tɑ lɑʔ8 xɑ1/<sup>泰兴</sup></small> 事情进程未完<sup>\[泰兴\]</sup>：伢儿家坐不住，作业做得～的，就去耍子啊<sup>\[泰兴\]</sup>  
 1. 【[半呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_dae.md#半呆)】`bun5 dae1` <sup>[如东]</sup> 不聪明：他是个～。  
 1. 【[半吨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_den.md#半吨)】`bun5 den1` ① 五百公斤。<sup>\[如东\]</sup> ② 比喻身体肥胖的女人。<sup>\[如东\]</sup> ③ 戏称女孩子。半吨即千斤，与“千金”谐音。<sup>\[东台\]</sup>  
 1. 【[半敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_den.md#半敦)】`bun5 den1` <sup>[东台]</sup> 傻里傻气，不谙世事。  
