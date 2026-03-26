@@ -78,7 +78,7 @@
 1. 【[𤹉<sub>儿</sub>糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_hv.md#𤹉<sub>儿</sub>糊)】`ha3 r hv2` <small>/xa˞3 fu2/<sup>如皋</sup>, /xa3 ɚ fu2/<sup>泰县</sup></small> ① 稀里糊涂的。<sup>\[如皋\]</sup> ② 糊涂。<sup>\[泰县\]</sup>  
 1. 【[𤹉<sub>儿</sub>糊涂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_r_hv_tv.md#𤹉<sub>儿</sub>糊涂的)】`ha3 r hv2 tv2 dii` <sup>[如皋]</sup> 稀里糊涂的。  
 1. 【[下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha.md#下)】`ha6` <small>/xa6/<sup>兴化</sup>, /xa1/<sup>如皋</sup>, /xɑ1/<sup>泰兴</sup>, /xa1/<sup>泰县</sup></small> ① 量词，指动作次数：一～子 ② 方面，方位：两～总同意 ③ 由高处往低处，降落：～山 ④ （猪狗等动物）产子<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～细狗儿、猫儿～啊、～细猪。<sup>\[如皋\]</sup>｜母猪～啊十头小猪。<sup>\[东台\]</sup>｜～小猪。<sup>\[泰县\]</sup> ⑤ 地面下<sup>\[如皋\]</sup>：埋啊地～。<sup>\[如皋\]</sup> ⑥ 某种状态，同“着”<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：挂啊～、僵吖～。<sup>\[如皋\]</sup> ⑦ （动词）从上头～来。<sup>\[东台\]</sup> ⑧ （量词）相当于“处”（地方）<sup>\[东台\]</sup><sup>\[泰县\]</sup>：今晚几～有戏看<sup>\[东台\]</sup>｜今年好几～请他，他一～都不曾去。<sup>\[东台\]</sup>｜这几天，我一～都不去。<sup>\[泰县\]</sup> ⑨ 用水煮食物<sup>\[泰县\]</sup>：～饺儿。<sup>\[泰县\]</sup>  
-1. 【[下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba.md#下巴)】`ha6 ba` <sup>[泰兴]</sup> 脸的最下部分。又称“下巴壳子”、“下巴头”：他托住～在想心思。  
+1. 【[下巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba.md#下巴)】`ha6 ba` <small>/xɑ1 pɑ/<sup>泰兴</sup></small> 脸的最下部分。又称“下巴壳子”、“下巴头”。<sup>\[泰兴\]</sup>：他托住～在想心思。<sup>\[泰兴\]</sup>  
 1. 【[下巴鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴鼓子)】`ha6 ba gv3 zz` <small>/xa6 pa ku3 t͡sɿ/<sup>兴化</sup>, /xa1 pa ku3 t͡se/<sup>泰县</sup></small> ① 脸的最下部分<sup>\[兴化\]</sup>：老徐发咖胖，～全潽开来啊。<sup>\[兴化\]</sup> ② 下巴。<sup>\[泰县\]</sup>  
 1. 【[下巴壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_kah_zz.md#下巴壳子)】`ha6 ba kah7 zz` <sup>[泰州]</sup> 下巴。  
 1. 【[下巴箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ba_gv_zz.md#下巴箍子)】`ha6 ba1 gv1 zz` <sup>[东台]</sup> 同“下巴颏子”。  
@@ -2232,7 +2232,7 @@
 1. 【[活穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_qion.md#活穷)】`huh8 qion2` <small>/xʊʔ8 t͡ɕʰiɔŋ2/<sup>如皋</sup>, /xʊʔ8 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 哭穷。另见“嗑穷”。<sup>\[如东\]</sup><sup>\[如皋\]</sup>\[泰兴：硬说自己穷得很。\]：王二嫂就会～。<sup>\[如东\]</sup>  
 1. 【[活人妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_ren_qi.md#活人妻)】`huh8 ren2 qi1` <sup>[兴化]</sup> 有夫之妇或离异后前夫尚在的女人：“……什么好老婆，一个贼～淫妇……”（《金瓶梅词话》七二）｜“这盗卖发妻，是他说合，把人家～卖了么？”（《岐路灯》四十）  
 1. 【[活丧形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_san_xien.md#活丧形)】`huh8 san5 xien2` <small>/xʊʔ8 sɑŋ5 ɕiŋ2/<sup>泰县</sup></small> 形象太差，简直丢尽面子。<sup>\[东台\]</sup><sup>\[泰县\]</sup>：你不要～。<sup>\[泰县\]</sup>  
-1. 【[活上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shan.md#活上)】`huh8 shan` <sup>[泰兴]</sup> 到处。带贬义意味：～沗流尸  
+1. 【[活上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shan.md#活上)】`huh8 shan` <small>/xʊʔ8 sɑŋ/<sup>泰兴</sup></small> 到处。带贬义意味。<sup>\[泰兴\]</sup>：～沗流尸<sup>\[泰兴\]</sup>｜他躲啊个好落头，我～寻总寻不到<sup>\[泰兴\]</sup>  
 1. 【[活伤形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_shan_xien.md#活伤形)】`huh8 shan1 xien2` <sup>[泰州]</sup> 众目睽睽之下丢人出丑：赶快滚吖走，不要蹾啊这块～唻。  
 1. 【[活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheh.md#活食)】`huh8 sheh8` <sup>[如东]</sup> 鲜活动物，如鱼、虫、贝等：鸭子喜欢吃～。  
 1. 【[活守寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huh_sheu_gua.md#活守寡)】`huh8 sheu3 gua3` <sup>[如皋]</sup> 见“守活寡”。  
