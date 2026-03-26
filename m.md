@@ -177,7 +177,7 @@
 1. 【[蚂蚁尿书——湿（识）字不多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_nio_shv.md#蚂蚁尿书——湿（识）字不多)】`ma3 i3 nio6 shv1 sheh7 cz6 beh7 du1` <sup>[东台]</sup>   
 1. 【[蚂蚁庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_i_zhuan.md#蚂蚁庄)】`ma3 i3 zhuan1` <sup>[如皋]</sup> 自然村名，在如皋原邓园乡。2002年，旅美60余年的如皋高僧释印海捐资在原址重建法华寺，历四年成。  
 1. 【[蚂虮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ji.md#蚂虮)】`ma3 ji1` <small>/ma3 t͡ɕʝ1/<sup>如皋</sup></small> 即蚂蝗。蛭纲动物。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
-1. 【[蚂䗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jioh.md#蚂䗇)】`ma3 jioh` <sup>[泰兴]</sup> 水蛭。或音 ma3 jiah。  
+1. 【[蚂䗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_jioh.md#蚂䗇)】`ma3 jioh` <small>/mɑ3 t͡ɕiɔʔ/<sup>泰兴</sup></small> 水蛭。或音 ma3 jiah。<sup>\[泰兴\]</sup>  
 1. 【[蚂蝆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi.md#蚂蝆)】`ma3 mi3` <sup>[如皋]</sup> 蚂蚁。  
 1. 【[蚂蝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_van.md#蚂蝗)】`ma3 van2` <small>/mɑ3 uɑŋ2/<sup>泰兴</sup></small> 水蛭<sup>\[泰兴\]</sup>  
 1. 【[蚂蟥缠住咖鹭鸶脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_van_chih_chuh.md#蚂蟥缠住咖鹭鸶脚)】`ma3 van2 chih8 chuh7 ga lv6 sz1 jiah7` <sup>[如皋]</sup> 比喻被纠缠住，甩也甩不开。chih8，缠（chin6）的促化音。  
@@ -194,9 +194,9 @@
 1. 【[马草马料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_co_ma_lio.md#马草马料)】`ma3 co3 ma3 lio6` <sup>[如皋]</sup> 本指饲马的草料，又指腊月二十四送灶时给灶神所骑的“马”准备的稻草4-8小段，麸皮少许。灶神是“蟑螂”，灶马是“钱驮子”。  
 1. 【[马大哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_da_ha.md#马大哈)】`ma3 da6 ha1` <small>/mɑ3 tɑ1 xɑ1/<sup>泰兴</sup></small> ① 粗心大意。<sup>\[如东\]</sup>：做事不能～。<sup>\[如东\]</sup> ② 遇事粗心很不在乎的人。<sup>\[泰兴\]</sup>：不要说别人二百五，自家也是个～。<sup>\[泰兴\]</sup>  
 1. 【[马灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den.md#马灯)】`ma3 den1` <small>/ma3 təŋ1/<sup>如皋</sup>, /mɑ3 təŋ1/<sup>泰兴</sup></small> ① 桅灯。<sup>\[如皋\]</sup> ② 一种防风油灯。<sup>\[泰兴\]</sup>  
-1. 【[马𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马𧘸子)】`ma3 den5 zz` <sup>[泰兴]</sup> 马夹，夹衣。  
+1. 【[马𧘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_den_zz.md#马𧘸子)】`ma3 den5 zz` <small>/mɑ3 təŋ5 t͡sɿ/<sup>泰兴</sup></small> 马夹，夹衣。<sup>\[泰兴\]</sup>  
 1. 【[马兜铃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_deu_lien.md#马兜铃)】`ma3 deu1 lien2` <sup>[如东]</sup> 马兜铃科植物马兜铃，多年生缠绕或匍匐状细弱草本。  
-1. 【[马儿扯儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#马儿扯儿)】`ma3 er2 cha3 er2` <sup>[泰兴]</sup> 拉拉扯扯，乱拉乱扯。办事草率，不专心。  
+1. 【[马儿扯儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#马儿扯儿)】`ma3 er2 cha3 er2` <small>/mɑ3 ɚ2 t͡sʰɑ3 ɚ2/<sup>泰兴</sup></small> 拉拉扯扯，乱拉乱扯。办事草率，不专心。<sup>\[泰兴\]</sup>  
 1. 【[马耳头菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_teu_cae.md#马耳头菜)】`ma3 er3 teu cae5` <sup>[如皋]</sup> 冬春上市的一种青菜，叶长若马耳。煮之汤白。  
 1. 【[马二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er.md#马二)】`ma3 er6` <sup>[泰县]</sup> 不值得一提的人。  
 1. 【[马粪纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_fen_zhr.md#马粪纸)】`ma3 fen5 zhr3` <small>/ma3 fəŋ5 t͡sɿ3/<sup>如皋</sup>, /mɑ3 fəŋ5 t͡sɿ3/<sup>泰兴</sup></small> 硬纸板。<sup>\[如皋\]</sup>\[泰兴：以稻麦秆为原料，多作纸盒用。\]  
@@ -244,7 +244,7 @@
 1. 【[马鬐膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_qi_go.md#马鬐膏)】`ma3 qi2 go1` <sup>[如东]</sup> 马科动物马项上的皮下脂肪。  
 1. 【[马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r.md#马<sub>儿</sub>)】`ma3 r` <small>/ma˞3/<sup>如皋</sup></small> ① 容器。马桶，圆桶形，高八寸左右，直径六寸左右，一般有盖。用以贮存大小便。<sup>\[如东\]</sup> ② 小的便具。<sup>\[如皋\]</sup>  
 1. 【[马<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_r_dii.md#马<sub>儿</sub>的)】`ma3 r dii` <sup>[如皋]</sup> ① 胡涂马虎：他是个～。 ② 无结果：这份报告呈上去还是～。 ③ 敷衍搪塞：他说得的角真真的，好像笃定行，其实是～。  
-1. 【[马上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shan.md#马上)】`ma3 shan` <sup>[泰兴]</sup> ① 即刻，立刻：你～到学校去一下。 ② 比喻在职做官：他正在～，一倒霉就要下台了。  
+1. 【[马上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shan.md#马上)】`ma3 shan` <small>/mɑ3 sɑŋ/<sup>泰兴</sup></small> ① 即刻，立刻。<sup>\[泰兴\]</sup>：你～到学校去一下。<sup>\[泰兴\]</sup> ② 比喻在职做官。<sup>\[泰兴\]</sup>：他正在～，一倒霉就要下台了。<sup>\[泰兴\]</sup>  
 1. 【[马刷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_shuaeh.md#马刷)】`ma3 shuaeh7` <small>/ma3 suæʔ7/<sup>兴化</sup></small> ① 竹篾扎成的长束，专用于洗刷马桶。<sup>\[兴化\]</sup> ② 专门用于刷洗马桶内壁污垢的竹刷子。<sup>\[泰州\]</sup>  
 1. 【[马尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_suei.md#马尿)】`ma3 suei1` <small>/mɑ3 suəɪ1/<sup>泰兴</sup></small> 酒的贬称。<sup>\[泰兴\]</sup>：灌吖点～，就活说嚼舌头！<sup>\[泰兴\]</sup>  
 1. 【[马唐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_tan.md#马唐)】`ma3 tan2` <sup>[如东]</sup> 禾本科植物马唐，又名班地锦。  
@@ -511,7 +511,7 @@
 1. 【[忙假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_jia.md#忙假)】`man2 jia3` <small>/maŋ2 t͡ɕia3/<sup>兴化</sup>, /mɑŋ2 t͡ɕiɑ3/<sup>泰兴</sup></small> ① 二十世纪九十年代前，农村中小学夏秋大忙时停课，让学生回去帮助劳动。<sup>\[兴化\]</sup> ② 因为农忙而放的假。20世纪六七十年代，农村学校在四夏大忙季节放假，让学生回家帮助家庭收割、栽种。<sup>\[泰州\]</sup> ③ 农忙期间学校所放的假期。<sup>\[泰兴\]</sup>  
 1. 【[忙忙叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_man_do_do.md#忙忙叨叨)】`man2 man2 do1 do1` <sup>[兴化]</sup> 形容忙碌、匆促：两个伢儿家来过暑假，弄得妈妈一天到晚～的。  
 1. 【[忙吖去投胎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_nga_qy_teu.md#忙吖去投胎)】`man2 nga qy5 teu2 tae1` <sup>[东台]</sup> （詈语）讽刺人走得太匆忙，不顾一切。与此近义的说法还有“忙吖去杀”“忙吖去打枪毙”等。  
-1. 【[忙吖摵咖飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_nga_seh_ga.md#忙吖摵咖飞)】`man2 nga seh7 ga fei1` <sup>[泰兴]</sup> 极忙  
+1. 【[忙吖摵咖飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_nga_seh_ga.md#忙吖摵咖飞)】`man2 nga seh7 ga fei1` <small>/mɑŋ2 ŋa səʔ7 ka fəɪ1/<sup>泰兴</sup></small> 极忙<sup>\[泰兴\]</sup>  
 1. 【[忙人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ren.md#忙人)】`man2 ren2` <small>/maŋ2 lən2/<sup>兴化</sup>, /mã2 ɻəŋ2/<sup>如皋</sup>, /mɑŋ2 ɻəŋ2/<sup>泰兴</sup></small> ① 令人忙碌、忙烦<sup>\[如皋\]</sup>\[泰州：事情繁琐使人感到忙碌\]\[兴化：时间紧，事情多，使人着忙\]：这件事太复杂，够～的！<sup>\[如皋\]</sup>｜伢儿办喜事，在家里待客～！<sup>\[兴化\]</sup>｜在家里弄是省钱，就是太～，还是上饭店吧。<sup>\[泰州\]</sup> ② 事务繁多，没有空闲的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“咱哥是个～……没事不得进城。”（《岐路灯》四十）<sup>\[兴化\]</sup>｜你这个大～，今朝子怎吖有空到我俫这块来的？<sup>\[泰州\]</sup>｜他是个大～<sup>\[泰兴\]</sup>  
 1. 【[忙丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_san.md#忙丧)】`man2 san1` <small>/mɑŋ2 sɑŋ1/<sup>泰兴</sup></small> 骂人语。谓像办丧事一样乱忙。<sup>\[泰兴\]</sup>  
 1. 【[忙上人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_shan_ren.md#忙上人)】`man2 shan6 ren` <sup>[如皋]</sup> ① 照料长辈。 ② 料理长辈后事。  
@@ -574,7 +574,7 @@
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh` <sup>[泰州]</sup> 没有：家里～人，都出去啊唻。  
 1. 【[没得药医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_iah_i.md#没得药医)】`meh8 deh iah8 i1` <small>/məʔ8 təʔ iɑʔ8 ʝ1/<sup>泰兴</sup></small> 指死不改悔的犯错误者。<sup>\[泰兴\]</sup>  
 1. 【[没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ien_zz.md#没得影子)】`meh8 deh ien3 zz` <small>/məʔ8 təʔ iŋ3 t͡sɿ/<sup>泰兴</sup></small> 没意思，令人厌恶；无根据，不确实。<sup>\[泰兴\]</sup>：乡人云：“～造西厢。”<sup>\[泰兴\]</sup>  
-1. 【[没得了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_lio_beh.md#没得了不得)】`meh8 deh lio3 beh7 deh7` <sup>[泰兴]</sup> 没什么大不了。  
+1. 【[没得了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_lio_beh.md#没得了不得)】`meh8 deh lio3 beh7 deh7` <small>/məʔ8 təʔ liɔ3 pəʔ7 təʔ7/<sup>泰兴</sup></small> 没什么大不了。<sup>\[泰兴\]</sup>  
 1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <small>/məʔ8 təʔ7/<sup>兴化</sup>, /məʔ8 təʔ7/<sup>如皋</sup>, /məʔ8 təʔ7/<sup>泰县</sup></small> ① 没有，表示人或事物不存在 ② 没有。<sup>\[如皋\]</sup> ③ 没有。<sup>\[东台\]</sup> ④ 没有<sup>\[兴化\]</sup>：小丫头跑啊～咖。<sup>\[兴化\]</sup>｜“晚饭米都～一颗，还你妈的之乎——者也！”（汪曾祺《徙》）<sup>\[兴化\]</sup> ⑤ 不如<sup>\[兴化\]</sup>：小刘～小王高。<sup>\[兴化\]</sup>｜裂子～苹果好吃。<sup>\[兴化\]</sup> ⑥ 没有。<sup>\[泰县\]</sup>  
 1. 【[没得二成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_er_chen.md#没得二成账)】`meh8 deh7 er6 chen2 zhan5` <sup>[如皋]</sup> 可信、成功的程度极低：批准这份报告～。  
 1. 【[没得个安事墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_gu_un.md#没得个安事墩<sub>儿</sub>)】`meh8 deh7 gu un1 shr6 den1 r` <sup>[东台]</sup> 一直东奔西忙，没有安逸的时辰。  
@@ -779,7 +779,7 @@
 1. 【[没形没数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xien_meh_shv.md#没形没数)】`meh8 xien2 meh8 shv5` <sup>[东台]</sup> 说话办事缺乏理智，有过头或用力过猛之嫌。  
 1. 【[没血色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_xiuh_seh.md#没血色)】`meh8 xiuh7 seh7` <small>/məʔ8 ɕyʊʔ7 səʔ7/<sup>泰兴</sup></small> 骂人语。谓没骨子，不要脸；不知羞耻。<sup>\[泰兴\]</sup>  
 1. 【[没账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zhan.md#没账)】`meh8 zhan5` <sup>[兴化]</sup> 没有指望：这事～吖，另想办法吧！｜“……如今老了，～了……”（《梼杌闲评》四八）  
-1. 【[没正价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zhen_jia.md#没正价)】`meh8 zhen5 jia` <sup>[泰兴]</sup> 没有固定的标准：“小菜要腌几天？”“箇杲子～，望各人口味。”  
+1. 【[没正价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zhen_jia.md#没正价)】`meh8 zhen5 jia` <small>/məʔ8 t͡səŋ5 t͡ɕiɑ/<sup>泰兴</sup></small> 没有固定的标准<sup>\[泰兴\]</sup>：“小菜要腌几天？”“箇杲子～，望各人口味。”<sup>\[泰兴\]</sup>  
 1. 【[没指望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zhr_van.md#没指望)】`meh8 zhr3 van6` <sup>[如东]</sup> 没有希望：这件事～吖。  
 1. 【[没转智](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zhun_zhr.md#没转智)】`meh8 zhun3 zhr5` <small>/məʔ8 t͡sʊ̃3 t͡sɿ5/<sup>泰兴</sup></small> 谓反应不灵敏，迟钝。<sup>\[泰兴\]</sup>  
 1. 【[没嘴没面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zuei_meh_min.md#没嘴没面)】`meh8 zuei3 meh8 min6` <small>/məʔ8 t͡suəi3 məʔ8 miɪ̃6/<sup>兴化</sup>, /məʔ8 t͡suəɪ3 məʔ8 mĩ1/<sup>泰兴</sup></small> ① 任劳任怨<sup>\[兴化\]</sup>：小黄成天家里忙到家外，～的。<sup>\[兴化\]</sup> ② 为人随和<sup>\[兴化\]</sup>：她为人～的，从不跟人顶真。<sup>\[兴化\]</sup> ③ 说话不多，勤恳做事，品质好。<sup>\[泰兴\]</sup>  
@@ -864,27 +864,27 @@
 1. 【[门帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ban.md#门帮)】`men2 ban1` <sup>[如东]</sup> 门板两边的竖粱，起固定门板的作用。也叫门边丝。  
 1. 【[门塴下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_ha.md#门塴下)】`men2 bon5 ha` <small>/məŋ2 pɔŋ5 xɑ/<sup>泰兴</sup></small> 门扇与墙的夹角处<sup>\[泰兴\]</sup>  
 1. 【[门塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_bon_r.md#门塴<sub>儿</sub>)】`men2 bon5 r` <sup>[如皋]</sup> 门扇与墙相夹处。  
-1. 【[门族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_coh.md#门族)】`men2 coh8` <sup>[泰兴]</sup> 宗族，家族。  
+1. 【[门族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_coh.md#门族)】`men2 coh8` <small>/məŋ2 t͡sʰɔʔ8/<sup>泰兴</sup></small> 宗族，家族。<sup>\[泰兴\]</sup>  
 1. 【[门搭扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_keu_r.md#门搭扣<sub>儿</sub>)】`men2 daeh7 keu1 r` <sup>[如皋]</sup> 见“门搭子”。  
 1. 【[门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_daeh_zz.md#门搭子)】`men2 daeh7 zz` <small>/məŋ2 teʔ7 t͡sɿ/<sup>如皋</sup></small> ① 钌铞儿。<sup>\[如皋\]</sup> ② 联结两扇木门的铁扣搭。<sup>\[东台\]</sup> ③ 门上供上锁的搭扣，旧时两扇房门上的铁制搭扣，面朝屋里一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁和一块顶部有下弯钩的条形扁铁，屋里关门以后，有长孔的条形扁铁套入圆环之中，有下弯钩的条形扁铁钩入有长孔的条形扁铁外侧，这样外人就推不开门；面朝屋外一侧门上安装横向圆环，一侧门上安装一块顶部有长孔的条形扁铁，外出关门以后，有长孔的条形扁铁套入圆环之中，再挂上锁，门就无法打开。<sup>\[泰州\]</sup>  
 1. 【[门挡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dan.md#门挡)】`men2 dan3` <sup>[兴化]</sup> 横插在门框两边铁环中的木棒：拿～挡门。  
 1. 【[门档头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dan_teu.md#门档头)】`men2 dan5 teu` <sup>[如东]</sup> 门帮上下两头的横木条。  
 1. 【[门墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_den.md#门墩)】`men2 den1` <sup>[如东]</sup> 门臼。  
 1. 【[门对子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_dy_zz.md#门对子)】`men2 dy5 zz` <sup>[东台]</sup> 对联、春联。通常除夕贴上去迎新年。  
-1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan` <sup>[泰兴]</sup> 传达室：我在门房里看看门，烧烧开水  
+1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan` <small>/məŋ2 fɑŋ/<sup>泰兴</sup></small> 传达室<sup>\[泰兴\]</sup>：我在门房里看看门，烧烧开水<sup>\[泰兴\]</sup>  
 1. 【[门房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fan.md#门房)】`men2 fan2` <small>/mən2 faŋ2/<sup>兴化</sup>, /məŋ2 fɑŋ2/<sup>泰兴</sup></small> ① 同宗的人<sup>\[兴化\]</sup>：他是我～叔子。颜俊有个～远亲，姓尤名辰，号少梅……（《醒世恒言》七）<sup>\[兴化\]</sup> ② 同宗的各房分支<sup>\[泰兴\]</sup>：庄上姓张的都是～家里<sup>\[泰兴\]</sup>  
 1. 【[门分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fen.md#门分)】`men2 fen` <sup>[如皋]</sup> 应有的：说话做事要把自己的～礼站吖足咖，不要失礼。  
 1. 【[门份礼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fen_li_r.md#门份礼<sub>儿</sub>)】`men2 fen6 li3 r` <sup>[东台]</sup> 经统一分配明确的各自待遇或责任：各人把自己的～拿走，并负责送到位。  
 1. 【[门福寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_foh_sheu.md#门福寿)】`men2 foh7 sheu6` <sup>[如皋]</sup> 门额：门楣上部加装的横木，横批常用“福寿”字样。（与门搭子相配的一只有环的钉子，钉于门的右扇外面，使环呈上下通孔。）  
 1. 【[门伏手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_foh_sheu.md#门伏手)】`men2 foh8 sheu3` <sup>[如东]</sup> 装在门柲上的竖木条，中间有孔，可以穿门闩，把门关死。  
-1. 【[门风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门风)】`men2 fon1` <sup>[泰兴]</sup> 指家风。旧指一家或一族世代相传的道德准则和处世方法。  
+1. 【[门风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门风)】`men2 fon1` <small>/məŋ2 fɔŋ1/<sup>泰兴</sup></small> 指家风。旧指一家或一族世代相传的道德准则和处世方法。<sup>\[泰兴\]</sup>  
 1. 【[门风低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_di.md#门风低)】`men2 fon1 di1` <sup>[东台]</sup> ① 指人出身低贱卑微。 ② 指家风差，缺少教养。  
-1. 【[门缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门缝)】`men2 fon6` <sup>[泰兴]</sup> 门扇之间的缝隙。  
+1. 【[门缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon.md#门缝)】`men2 fon6` <small>/məŋ2 fɔŋ1/<sup>泰兴</sup></small> 门扇之间的缝隙。<sup>\[泰兴\]</sup>  
 1. 【[门缝里看人——把人看扁吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_lii_kun.md#门缝里看人——把人看扁吖)】`men2 fon6 lii kun5 ren2 ba3 ren2 kun5 bin3 nga` <small>/məŋ2 fɔŋ1 ləɪ kʰʊ̃5 ɻəŋ2 pɑ3 ɻəŋ2 kʰʊ̃5 pĩ3 ŋa/<sup>泰兴</sup></small> 轻视人<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[门缝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_fon_r.md#门缝<sub>儿</sub>)】`men2 fon6 r` <sup>[如东]</sup> ① 门与门之间的缝隙。 ② 比喻狭小：～里看人，把人看扁了。  
 1. 【[门杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan.md#门杠)】`men2 gan5` <sup>[如东]</sup> 木棍或铁棍，穿在门镣中，可以把门杠死。  
 1. 【[门杠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gan_zz.md#门杠子)】`men2 gan5 zz` <small>/məŋ2 kã5 t͡sɿ/<sup>如皋</sup></small> ① 关门后两端插在门户框中段后边环里的横木，起加固作用。<sup>\[如皋\]</sup> ② 横在两扇木门后的粗木棍，使门从外面推不开。<sup>\[东台\]</sup>  
-1. 【[门馆先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gun_xin_shen.md#门馆先生)】`men2 gun xin1 shen` <sup>[泰兴]</sup> 私塾老师。亦指账房先生。  
+1. 【[门馆先生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_gun_xin_shen.md#门馆先生)】`men2 gun xin1 shen` <small>/məŋ2 kʊ̃ ɕĩ1 səŋ/<sup>泰兴</sup></small> 私塾老师。亦指账房先生。<sup>\[泰兴\]</sup>  
 1. 【[门户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_hv.md#门户)】`men2 hv6` <sup>[如东]</sup> ① 房屋的出入处。 ② 比喻家庭：支撑～。  
 1. 【[门衙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ia.md#门衙)】`men2 ia2` <sup>[如皋]</sup> 按序应当值班，分担差事、任务：这个是你的～；轮到你的～。“衙门”的倒序词。  
 1. 【[门样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ian.md#门样)】`men2 ian6` <sup>[如东]</sup> 机会，位置：今朝没得你的～。  
@@ -904,8 +904,8 @@
 1. 【[门帘痧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lin_sha.md#门帘痧)】`men2 lin2 sha1` <sup>[兴化]</sup> ① （戏）小孩见了生人害羞：这个小伙～，见吖姨丈怕甚的呀！ ② 泛指怕见世面的人。  
 1. 【[门脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lin_r.md#门脸<sub>儿</sub>)】`men2 lin3 r` <sup>[如皋]</sup> 无门堂的大门向外的结构形状。  
 1. 【[门栊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lon.md#门栊)】`men2 lon2` <sup>[如东]</sup> 安装在门楣上、套住上门梃的横木板。  
-1. 【[门笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lon.md#门笼)】`men2 lon2` <sup>[泰兴]</sup> 门楣两端安门轴处。  
-1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv` <sup>[泰兴]</sup> 途径，方法、窍门。特指能达到个人目的的途径。  
+1. 【[门笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lon.md#门笼)】`men2 lon2` <small>/məŋ2 lɔŋ2/<sup>泰兴</sup></small> 门楣两端安门轴处。<sup>\[泰兴\]</sup>  
+1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv` <small>/məŋ2 lu/<sup>泰兴</sup></small> 途径，方法、窍门。特指能达到个人目的的途径。<sup>\[泰兴\]</sup>  
 1. 【[门路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_lv.md#门路)】`men2 lv6` ① 比喻办法。<sup>\[如东\]</sup>：～多。<sup>\[如东\]</sup> ② 办事的诀窍、途径。<sup>\[东台\]</sup>  
 1. 【[门楣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_mi.md#门楣)】`men2 mi2` <sup>[如东]</sup> 门框上端的横木。  
 1. 【[门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_min.md#门面)】`men2 min6, men2 min` <sup>[如皋]</sup> 布幅的宽度。  
@@ -922,7 +922,7 @@
 1. 【[门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r.md#门<sub>儿</sub>)】`men2 r` <small>/mən2 ɚ/<sup>兴化</sup></small> ① 办法。<sup>\[如东\]</sup>：他有～。<sup>\[如东\]</sup> ② 花样、本领：“今天我们三个玩个新～，拼起来吃……”（兴文：《吹牛》）｜众轿夫俱各笑道：“瞧不起他，真有～。”（《三侠五义》五三）<sup>\[兴化\]</sup> ③ 希望：这事还有点儿～唻！<sup>\[兴化\]</sup>  
 1. 【[门<sub>儿</sub>经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r_jien.md#门<sub>儿</sub>经)】`men2 r jien1` <small>/mən2 ɚ t͡ɕin1/<sup>兴化</sup>, /mə˞2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 原因。<sup>\[如东\]</sup>：甚的～？<sup>\[如东\]</sup> ② 办法、窍门：想～。<sup>\[如皋\]</sup> ③ 手腕：玩～。<sup>\[如皋\]</sup> ④ 见“门儿三”。<sup>\[兴化\]</sup>  
 1. 【[门<sub>儿</sub>三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_r_saen.md#门<sub>儿</sub>三)】`men2 r saen1` <sup>[兴化]</sup> ① 点子、花招：他的～大唻。 ② 某些技巧：他～多，是个人才。也作“门儿经”。  
-1. 【[门生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门生)】`men2 shen1` <sup>[泰兴]</sup> 学生，或称学生的学生。  
+1. 【[门生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门生)】`men2 shen1` <small>/məŋ2 səŋ1/<sup>泰兴</sup></small> 学生，或称学生的学生。<sup>\[泰兴\]</sup>  
 1. 【[门神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shen.md#门神)】`men2 shen2` <sup>[如东]</sup> 守门之神。左为神荼，右为郁垒，后世改为秦叔宝和尉迟恭。  
 1. 【[门闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_shuaen.md#门闩)】`men2 shuaen1` <sup>[如东]</sup> 条形的木板或铁棍，关门后插在门伏手中，可以把门关死。  
 1. 【[门堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan.md#门堂)】`men2 tan2` <small>/mən2 tʰaŋ2/<sup>兴化</sup>, /məŋ2 tʰã2/<sup>如皋</sup></small> ① 宅、院门的过道房<sup>\[如皋\]</sup>：大～、二～。<sup>\[如皋\]</sup> ② 旧称妓院。<sup>\[兴化\]</sup>  
@@ -930,7 +930,7 @@
 1. 【[门荡使用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_shr_ion.md#门荡使用)】`men2 tan6 shr3 ion6` <sup>[如东]</sup> 用于亲戚朋友的开支：现在的～不小。  
 1. 【[门荡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tan_zz.md#门荡子)】`men2 tan6 zz` <sup>[如东]</sup> 安装大门的位置，包括高与宽。  
 1. 【[门头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_teu_zz.md#门头子)】`men2 teu2 zz` <sup>[兴化]</sup> 大门里的通道，又称“门楼子”。（借）门第、身份：人家是走大～里出来的。  
-1. 【[门第](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ti.md#门第)】`men2 ti` <sup>[泰兴]</sup> 旧指社会上的家庭地位等级、文化层次等方面。乡人也称有狐臭者家庭为“门第不好”。  
+1. 【[门第](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_ti.md#门第)】`men2 ti` <small>/məŋ2 t͡ɕʰʝ/<sup>泰兴</sup></small> 旧指社会上的家庭地位等级、文化层次等方面。乡人也称有狐臭者家庭为“门第不好”。<sup>\[泰兴\]</sup>  
 1. 【[门筳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tien.md#门筳)】`men2 tien2` <sup>[如东]</sup> 门帮两头的延伸部分，支撑门旋转。上端叫上门筳，下端叫下门筳。也称户枢、门轴、转筳、转肘。  
 1. 【[门条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_tio.md#门条)】`men2 tio2` <sup>[如皋]</sup> 缝纫术语之一：前襟钉钮处的底衬。  
 1. 【[门道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/men_to.md#门道)】`men2 to6` <sup>[如东]</sup> ① 门的通道。 ② 比喻办法：他有～，可以成功。  

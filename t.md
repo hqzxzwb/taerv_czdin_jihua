@@ -742,7 +742,7 @@
 1. 【[头脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_jiah.md#头脚)】`teu2 jiah7` <sup>[东台]</sup> 从上到下，全部：把库存的大麦翻一下子～。  
 1. 【[头开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kae.md#头开)】`teu2 kae1` <sup>[如皋]</sup> 茶叶第一次用开水冲泡出的茶。  
 1. 【[头柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuei.md#头柜)】`teu2 kuei6` <sup>[兴化]</sup> 商店里的高级职员：（他的两个儿子）都是学布店的，都出了师了……谁都认为老大将来是会升为～，并且会当管事的。（汪曾祺《鉴赏家》）  
-1. 【[头睏扁，腰睏闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuen_bin_io.md#头睏扁，腰睏闪)】`teu2 kuen5 bin3 io1 kuen5 shin3` <sup>[泰兴]</sup> 睡眠质量差，身体疼痛  
+1. 【[头睏扁，腰睏闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_kuen_bin_io.md#头睏扁，腰睏闪)】`teu2 kuen5 bin3 io1 kuen5 shin3` <small>/tʰəɪ2 kʰuəŋ5 pĩ3 iɔ1 kʰuəŋ5 ɕĩ3/<sup>泰兴</sup></small> 睡眠质量差，身体疼痛<sup>\[泰兴\]</sup>  
 1. 【[头两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen.md#头两)】`teu2 laen3` <small>/tʰəɪ2 lɛ̃3/<sup>泰兴</sup></small> 一至二，常表示约数<sup>\[泰兴\]</sup>：～个/一两个<sup>\[泰兴\]</sup>｜～块钱/一两块钱<sup>\[泰兴\]</sup>  
 1. 【[头两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_laen_gu.md#头两个)】`teu2 laen3 gu` <sup>[如皋]</sup> 一两个。  
 1. 【[头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/teu_lii.md#头里)】`teu2 lii` <small>/tʰɤ2 ləi/<sup>兴化</sup>, /tʰəɪ2 ləɪ/<sup>泰兴</sup></small> ① 原先，预先<sup>\[东台\]</sup>：他～有啊口，现在不饿。<sup>\[东台\]</sup> ② 用在某些名词之后，表示方位<sup>\[东台\]</sup>：西北风～太冷。<sup>\[东台\]</sup> ③ 先前<sup>\[兴化\]</sup>：他～到我家来过。<sup>\[兴化\]</sup> ④ 前头、前面<sup>\[兴化\]</sup>：“拉着这马，只管前走，～等我，我随后就来”（《施公案》一四六）<sup>\[兴化\]</sup> ⑤ 附在某些语素后面，表示方位或时间。<sup>\[泰兴\]</sup>：新近～<sup>\[泰兴\]</sup>｜八月～<sup>\[泰兴\]</sup>  
@@ -1214,12 +1214,12 @@
 1. 【[胅胸走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tih_xion_zeu.md#胅胸走)】`tih8 xion1 zeu3` <sup>[如皋]</sup> 鸡胸畸型者走路时的体态。  
 1. 【[天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin.md#天)】`tin1` <small>/tʰiɪ̃1/<sup>兴化</sup>, /tʰĩ1/<sup>如皋</sup>, /tʰĩ1/<sup>泰兴</sup>, /tʰiɪ̃1/<sup>泰县</sup></small> ① 天气<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：今朝～怎吖说？今朝～不丑。<sup>\[泰兴\]</sup> ② 一昼夜，或专指昼间：一～，两～  
 1. 【[天把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba.md#天把)】`tin1 ba` <sup>[如东]</sup> 约一天：来去～时间。  
-1. 【[天把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_tin.md#天把天)】`tin1 ba tin1` <sup>[泰兴]</sup> 一两天。谓时间不长。  
+1. 【[天把天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_tin.md#天把天)】`tin1 ba tin1` <small>/tʰĩ1 pɑ tʰĩ1/<sup>泰兴</sup></small> 一两天。谓时间不长。<sup>\[泰兴\]</sup>  
 1. 【[天粑粑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ba_ba.md#天粑粑)】`tin1 ba1 ba1` <small>/tʰĩ1 pa1 pa1/<sup>如皋</sup></small> ① 见“亮粑粑”。<sup>\[如皋\]</sup> ② 月亮，儿语，视为天上的饼。<sup>\[如皋\]</sup> ③ 月亮。<sup>\[如东\]</sup>  
 1. 【[天不借势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_jia_shr.md#天不借势)】`tin1 beh7 jia5 shr5` <sup>[如皋]</sup> 好日子没好天。  
 1. 【[天不亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_beh_lian.md#天不亮)】`tin1 beh7 lian6` <small>/tʰiɪ̃1 pəʔ7 liaŋ6/<sup>兴化</sup></small> ① 天将亮的时候<sup>\[兴化\]</sup>：他们家起得很早。～王二就起来备料……（汪曾祺《异秉》）<sup>\[兴化\]</sup> ② （讽）眯睎眼，像天未明时𥋖着眼视物。<sup>\[兴化\]</sup> ③ 谑称眼睛小的人<sup>\[泰州\]</sup>：这小伙旁的蛮好，就是有点儿～。<sup>\[泰州\]</sup>  
 1. 【[天变吖变的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_bin_nga_bin.md#天变吖变的)】`tin1 bin5 nga bin5 dii` <sup>[如皋]</sup> 时阴时晴的天气。  
-1. 【[天撑起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_chen_qi_lae.md#天撑起来啊)】`tin1 chen1 qi lae a` <sup>[泰兴]</sup> 谓天将放晴。  
+1. 【[天撑起来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_chen_qi_lae.md#天撑起来啊)】`tin1 chen1 qi lae a` <small>/tʰĩ1 t͡sʰəŋ1 t͡ɕʰʝ lɛ a/<sup>泰兴</sup></small> 谓天将放晴。<sup>\[泰兴\]</sup>  
 1. 【[天成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_chen.md#天成)】`tin1 chen2` <sup>[如东]</sup> 在搭孑和游戏中，头家抓第23张牌即成和（hv2）了，称天成。  
 1. 【[天成吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_chen_nga.md#天成吖)】`tin1 chen2 nga` <sup>[如皋]</sup> 反正：钱用掉啊～有人把，有甚的不用吖！  
 1. 【[天潮乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_cho_hv.md#天潮乎)】`tin1 cho2 hv` <sup>[如皋]</sup> 空气温和湿润。  
@@ -1230,7 +1230,7 @@
 1. 【[天灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_den.md#天灯)】`tin1 den1` <sup>[如皋]</sup> 灯节从正月十三到二月二，每天晚间，家家门前高杆上悬挂的红灯笼。  
 1. 【[天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_faeh.md#天法)】`tin1 faeh7` <sup>[东台]</sup> 尽最大努力想的最好办法：想～也要把你送出去留学。  
 1. 【[天放晴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fan_qien.md#天放晴)】`tin1 fan5 qien2` <sup>[如东]</sup> 天气开始晴朗起来：下午天放吖晴。  
-1. 【[天分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fen.md#天分)】`tin1 fen` <sup>[泰兴]</sup> 天资，天赋：箇个伢儿从小儿～好。  
+1. 【[天分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fen.md#天分)】`tin1 fen` <small>/tʰĩ1 fəŋ/<sup>泰兴</sup></small> 天资，天赋。<sup>\[泰兴\]</sup>：箇个伢儿从小儿～好。<sup>\[泰兴\]</sup>  
 1. 【[天分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_fen.md#天分)】`tin1 fen6` 天资，天赋，生来就有的能力<sup>\[泰州\]</sup>：这个伢儿的～好。<sup>\[泰州\]</sup>  
 1. 【[天沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_geu.md#天沟)】`tin1 geu1` <sup>[如东]</sup> 屋檐与屋檐连接处或屋檐与墙壁连接处的排水沟，称天沟。  
 1. 【[天狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_geu.md#天狗)】`tin1 geu3` <sup>[兴化]</sup> 神话传说中的动物，实为月蚀时的地球黑影：～吃凉月子。  
@@ -1247,7 +1247,7 @@
 1. 【[天花板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_baen.md#天花板)】`tin1 hua1 baen3` <small>/tʰĩ1 xuɑ1 pɛ̃3/<sup>泰兴</sup></small> ① 房间上面的装饰板。<sup>\[如东\]</sup> ② 室内装饰、承挡灰尘的天棚。<sup>\[泰兴\]</sup>：～已吊好了，底下就是刷墙、装饰。<sup>\[泰兴\]</sup>  
 1. 【[天花乱坠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_lun_chuei.md#天花乱坠)】`tin1 hua1 lun6 chuei6` <sup>[如东]</sup> 天上许多鲜花飘落下来，比喻非常美好：他说得～。  
 1. 【[天话胡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_hua_hv_hua.md#天话胡话)】`tin1 hua6 hv2 hua6` ① 东西南北瞎说一通。<sup>\[如东\]</sup>：这个人～的，没个准。<sup>\[如东\]</sup> ② 不知道搞的什么鬼花样。<sup>\[东台\]</sup> ③ 不知道瞎说了些什么。也作“天话肏胡话”。<sup>\[东台\]</sup> ④ 夸大虚妄、动听而不切实际的话<sup>\[泰州\]</sup>：这家伙是搞传销的，你不要听他人～的瞎说，等你上吖他的划子船，你哭都来不洎！<sup>\[泰州\]</sup>  
-1. 【[天皇皇，地皇皇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_huan_ti.md#天皇皇，地皇皇)】`tin1 huan2 huan2 ti6 huan2 huan2` <sup>[泰兴]</sup> 民俗。小儿夜啼不停，主人即用红、黄色纸写上“～，我家有个夜啼郎，过路君子读一遍，一觉睡到大天亮”于街头巷尾张贴，传小儿可即安。含迷信色彩。  
+1. 【[天皇皇，地皇皇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_huan_ti.md#天皇皇，地皇皇)】`tin1 huan2 huan2 ti6 huan2 huan2` <small>/tʰĩ1 xuɑŋ2 xuɑŋ2 t͡ɕʰʝ1 xuɑŋ2 xuɑŋ2/<sup>泰兴</sup></small> 民俗。小儿夜啼不停，主人即用红、黄色纸写上“～，我家有个夜啼郎，过路君子读一遍，一觉睡到大天亮”于街头巷尾张贴，传小儿可即安。含迷信色彩。<sup>\[泰兴\]</sup>  
 1. 【[天黄有雨，人狂有祸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huan_ieu_y.md#天黄有雨，人狂有祸)】`tin1 huan2 ieu3 y3 ren2 kuan2 ieu3 hu6` <sup>[东台]</sup> 天发黄是下雨的征兆，人狂失去理智易惹祸。  
 1. 【[天浑笃笃的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_huen_doh_doh.md#天浑笃笃的)】`tin1 huen2 doh7 doh7 dii` <sup>[如皋]</sup> 天色浑浊。  
 1. 【[天意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_i.md#天意)】`tin1 i5` <sup>[如东]</sup> ① 自然规律：这是～。 ② 命运：～如此。  
@@ -1300,20 +1300,20 @@
 1. 【[天色泛红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_hon.md#天色泛红)】`tin1 seh7 faen5 hon2` <sup>[如皋]</sup> 彤云密布，预示有雪。  
 1. 【[天色泛黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_seh_faen_huan.md#天色泛黄)】`tin1 seh7 faen5 huan2` <sup>[如皋]</sup> 云层泛黄，预示有冰雹。  
 1. 【[天杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shaeh_dii.md#天杀的)】`tin1 shaeh7 dii` <sup>[兴化]</sup> 骂人的话，有时也作调笑语：“～，……怎么平白地赖起我来！我同你拼了命……”（《二十年目睹之怪现状》三二）｜“原来就是你这～”（《梼杌闲评》第二十二回）  
-1. 【[天上起啊花鱼斑，明朝晒粮不要翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan_qi_a.md#天上起啊花鱼斑，明朝晒粮不要翻)】`tin1 shan qi3 a hua1 y baen1 men2 zho1 shae5 lian2 beh7 io5 faen1` <sup>[泰兴]</sup> 气象谚语。谓明天会十分晴好。  
+1. 【[天上起啊花鱼斑，明朝晒粮不要翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan_qi_a.md#天上起啊花鱼斑，明朝晒粮不要翻)】`tin1 shan qi3 a hua1 y baen1 men2 zho1 shae5 lian2 beh7 io5 faen1` <small>/tʰĩ1 sɑŋ t͡ɕʰʝ3 a xuɑ1 y pɛ̃1 məŋ2 t͡sɔ1 ɕiɛ5 liɑŋ2 pəʔ7 iɔ5 fɛ̃1/<sup>泰兴</sup></small> 气象谚语。谓明天会十分晴好。<sup>\[泰兴\]</sup>  
 1. 【[天上老龙要吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shan_lo_lon.md#天上老龙要吵)】`tin1 shan6 lo3 lon2 io5 cho3` <sup>[东台]</sup> 嘲讽语，意思是简直能惊天动地。  
 1. 【[天生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shen.md#天生)】`tin1 shen1` <sup>[兴化]</sup> 副词，相当于“本来”“反正”：覅着急，～今朝没事。｜～得不到信任，干脆破罐子破摔。  
 1. 【[天生的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shen_dii.md#天生的)】`tin1 shen1 dii` <sup>[泰州]</sup> ① 命中注定的：这小伙是～做官的料子。 ② 天然生成的，一生下来就如此：这丫头一副～好嗓子。 ③ 反正，不管怎样：～提拔不到你，你就是积极咖死啊，又有甚的用？  
 1. 【[天㷹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sho.md#天㷹)】`tin1 sho5` <sup>[如皋]</sup> 干热风天气。  
 1. 【[天少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_sho.md#天少)】`tin1 sho5` <sup>[如东]</sup> 白天时间短：立冬以后～。  
-1. 【[天时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shr.md#天时)】`tin1 shr2` <sup>[泰兴]</sup> 时候，气候，有时用于做某件事的自然气候条件：～不如地利，地利不如人和。｜六月盛夏，～酷热。｜半夜了，～不早了，大家早点歇吧。  
+1. 【[天时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shr.md#天时)】`tin1 shr2` <small>/tʰĩ1 sɿ2/<sup>泰兴</sup></small> 时候，气候，有时用于做某件事的自然气候条件。<sup>\[泰兴\]</sup>：～不如地利，地利不如人和。<sup>\[泰兴\]</sup>｜六月盛夏，～酷热。<sup>\[泰兴\]</sup>｜半夜了，～不早了，大家早点歇吧。<sup>\[泰兴\]</sup>  
 1. 【[天势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shr.md#天势)】`tin1 shr5` <sup>[如东]</sup> 天气变化发展的状况：不管～怎吖，明朝都要走。  
-1. 【[天是空的，路是通的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shr_kon_dii.md#天是空的，路是通的)】`tin1 shr6 kon1 dii lv6 shr6 ton5 dii` <sup>[泰兴]</sup> 天下的路都相通的，总有你走的路。喻只要肯动脑筋，总会有办法解决困难的。  
+1. 【[天是空的，路是通的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shr_kon_dii.md#天是空的，路是通的)】`tin1 shr6 kon1 dii lv6 shr6 ton5 dii` <small>/tʰĩ1 sɿ1 kʰɔŋ1 təɪ lu1 sɿ1 tʰɔŋ5 təɪ/<sup>泰兴</sup></small> 天下的路都相通的，总有你走的路。喻只要肯动脑筋，总会有办法解决困难的。<sup>\[泰兴\]</sup>  
 1. 【[天水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shuei.md#天水)】`tin1 shuei3` <small>/tʰiɪ̃1 suəi3/<sup>兴化</sup>, /tʰĩ1 suei3/<sup>如皋</sup>, /tʰĩ1 suəɪ3/<sup>泰兴</sup></small> ① 雨水。<sup>\[如皋\]</sup> ② 天上落下来的雨水，清甜纯净，好吃。如东人以喝～茶为时尚。<sup>\[如东\]</sup> ③ 贮存起来的自然雨水。<sup>\[东台\]</sup> ④ 即雨水、雪水<sup>\[兴化\]</sup>：瓦壶炖～泡茶别有风味。<sup>\[兴化\]</sup>｜（二人）在洒雪轩耍了一会，就炉上炖起～泡新茶来吃。（《梼杌闲评》三）也称“天落水”。<sup>\[兴化\]</sup> ⑤ 天降雨雪之水，旧时常有人用其沸水以泡茶，称“天水茶”。<sup>\[泰兴\]</sup>  
 1. 【[天水虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shuei_chon_r.md#天水虫<sub>儿</sub>)】`tin1 shuei3 chon2 r` <sup>[如皋]</sup> 孑孓。  
 1. 【[天水池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shuei_chr.md#天水池)】`tin1 shuei3 chr2` <sup>[如皋]</sup> 筑于宅院内的地下水窖，专积天水，供饮用和浇花。  
 1. 【[天水缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_shuei_gan.md#天水缸)】`tin1 shuei3 gan1` <sup>[如皋]</sup> 存放雨水的缸。  
-1. 【[天𠫓下来酱龛子大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_teh_ha_lae.md#天𠫓下来酱龛子大)】`tin1 teh7 ha lae jian5 kun1 zz da6` <sup>[泰兴]</sup> 喻办事要胆大，有气魄，不要怕天掉下来。  
+1. 【[天𠫓下来酱龛子大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_teh_ha_lae.md#天𠫓下来酱龛子大)】`tin1 teh7 ha lae jian5 kun1 zz da6` <small>/tʰĩ1 tʰəʔ7 xɑ lɛ t͡ɕiɑŋ5 kʰʊ̃1 t͡sɿ tɑ1/<sup>泰兴</sup></small> 喻办事要胆大，有气魄，不要怕天掉下来。<sup>\[泰兴\]</sup>  
 1. 【[天头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_teu.md#天头)】`tin1 teu` <sup>[东台]</sup> 多指老年人的智力：老父亲神志清醒，～真好。  
 1. 【[天地良心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_lian_xien.md#天地良心)】`tin1 ti6 lian2 xien1` <sup>[兴化]</sup> 指人生天地之间应有的良知：做人不讲～，总是要遣到报应的。  
 1. 【[天地炮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tin_ti_po.md#天地炮)】`tin1 ti6 po5` <small>/tʰĩ1 tʰʝ1 pʰɔ5/<sup>如皋</sup></small> ① 炮仗的一种，又叫“双响”。<sup>\[如皋\]</sup> ② 大的炮仗（爆竹）。<sup>\[东台\]</sup>  
@@ -1789,7 +1789,7 @@
 1. 【[讟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh.md#讟)】`toh8` <sup>[泰州]</sup> 怨恨：他把人家工作弄掉啊，这回子～结咖深吖唻。｜这两家不晓得为的甚的事，这个～就大得加思唻。  
 1. 【[读书不讲，如同隔靴搔痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv_beh_jian.md#读书不讲，如同隔靴搔痒)】`toh8 shv1 beh7 jian3 rv2 ton2 geh7 xya1 so1 ian3` <sup>[东台]</sup> 读书要讲透精神实质。  
 1. 【[𠠔树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/toh_shv.md#𠠔树)】`toh8 shv6` <small>/tʰɔʔ8 su1/<sup>如皋</sup></small> ① 修整树枝。𠠔，徒木切。形声字。<sup>\[如皋\]</sup> ② 锯掉树的上部一些树枝。<sup>\[东台\]</sup>  
-1. 【[通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#通)】`ton1` <sup>[泰兴]</sup> 遍及（某地区），（某地区内）到处，整个（某地区）：他喉咙大，～庄上总听见吖｜～乡里寻不到他人  
+1. 【[通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton.md#通)】`ton1` <small>/tʰɔŋ1/<sup>泰兴</sup></small> 遍及（某地区），（某地区内）到处，整个（某地区）<sup>\[泰兴\]</sup>：他喉咙大，～庄上总听见吖<sup>\[泰兴\]</sup>｜～乡里寻不到他人<sup>\[泰兴\]</sup>  
 1. 【[通板手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen_sheu.md#通板手)】`ton1 baen sheu3` <sup>[泰州]</sup> 手掌掌纹中所谓生命线为一直线的手，民间以为通板手有劲。  
 1. 【[通板手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_baen_sheu.md#通板手)】`ton1 baen3 sheu3` <sup>[泰县]</sup> 打人很厉害的手。  
 1. 【[通扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_cha.md#通扯)】`ton1 cha3` <small>/tʰɔŋ1 t͡sʰa3/<sup>如皋</sup></small> ① 见“缠扯”❷。<sup>\[如皋\]</sup> ② 缠扯在一起。<sup>\[如皋\]</sup> ③ 平扯。<sup>\[如皋\]</sup>  
@@ -2030,7 +2030,7 @@
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu.md#大)】`tu6` <sup>[东台]</sup> ～小（大儿子）｜～爹（大爷）｜～婆娘（排行老大的女人）｜～拇指头（大拇指）。  
 1. 【[大板床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_baen_chuan.md#大板床)】`tu6 baen3 chuan2` <sup>[如皋]</sup> 见“牛栏床”。  
 1. 【[大爹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_dia.md#大爹)】`tu6 dia1` <sup>[东台]</sup> 大爷  
-1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ga.md#大家)】`tu6 ga1` <sup>[泰兴]</sup> 元配夫人。  
+1. 【[大家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ga.md#大家)】`tu6 ga1` <small>/tʰɤɯ1 kɑ1/<sup>泰兴</sup></small> 元配夫人。<sup>\[泰兴\]</sup>  
 1. 【[大婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_pu_nian.md#大婆娘)】`tu6 pu2 nian2` <sup>[东台]</sup> 长房女主人  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_ren.md#大人)】`tu6 ren` <small>/tʰɤɯ1 ɻəŋ/<sup>泰兴</sup></small> 长辈<sup>\[泰兴\]</sup>  
 1. 【[大小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tu_xio.md#大小)】`tu6 xio3` <small>/tʰo6 ɕiɔ3/<sup>兴化</sup>, /tʰo1 ɕiɔ3/<sup>泰县</sup></small> 老大、大儿子、长子<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup>：我家～在南京工作。<sup>\[兴化\]</sup>  
@@ -2195,7 +2195,7 @@
 1. 【[吐涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_saen.md#吐涎)】`tv3 saen2` <sup>[如皋]</sup> 吐口水、吐口中黏液。  
 1. 【[吐舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shih_zz.md#吐舌子)】`tv3 shih8 zz` <small>/tʰu3 siʔ8 t͡sɿ/<sup>如皋</sup>, /tʰu3 ɕiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 说行业暗语。<sup>\[如皋\]</sup> ② 用某种字眼暗示。<sup>\[如皋\]</sup> ③ 指商业交往中不宜明说的口头语言（多为双方默契的暗话，参见第“市语”），如以旦底代表一，以抽工代表二，以卧川代表三，……以未丸代表九，以田心代表十。<sup>\[东台\]</sup> ④ 暗示；以暗语提醒。<sup>\[泰兴\]</sup>  
 1. 【[吐吐沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_tv_dah_dah.md#吐吐沰沰)】`tv3 tv3 dah7 dah7` <sup>[东台]</sup> 形容经常随地吐痰，或年老多病咳嗽吐痰的状况：要讲究文明卫生，不能随便～。  
-1. 【[土包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bo_zz.md#土包子)】`tv3 bo1 zz` <sup>[泰兴]</sup> 指土生土长、没有见过世面的人，含讥讽意。  
+1. 【[土包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bo_zz.md#土包子)】`tv3 bo1 zz` <small>/tʰu3 pɔ1 t͡sɿ/<sup>泰兴</sup></small> 指土生土长、没有见过世面的人，含讥讽意。<sup>\[泰兴\]</sup>  
 1. 【[土布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_bv.md#土布)】`tv3 bv5` <small>/tʰu3 pu5/<sup>如皋</sup></small> ① 见“大布”。<sup>\[如皋\]</sup> ② 手机织成的布，比较粗糙，称土布。<sup>\[如东\]</sup>  
 1. 【[土虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chon_r.md#土虫<sub>儿</sub>)】`tv3 chon2 r` <sup>[如皋]</sup> 土狗儿的幼虫。  
 1. 【[土疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chuan.md#土疮)】`tv3 chuan1` <sup>[如皋]</sup> 见“鼠疮”。  
@@ -2206,12 +2206,12 @@
 1. 【[土方草药，气死名医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_fan_co_iah.md#土方草药，气死名医)】`tv3 fan1 co3 iah8 qi5 sz3 mien2 i1` <sup>[东台]</sup> 民间实践经验有时比名家的办法管用。  
 1. 【[土狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#土狗)】`tv3 geu3` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <small>/tʰu3 kei˞3/<sup>如皋</sup></small> ① 蝼蛄。<sup>\[如皋\]</sup> ② 即蝼蛄。<sup>\[东台\]</sup>  
-1. 【[土狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_zz.md#土狗子)】`tv3 geu3 zz` <sup>[泰兴]</sup> 蝼蛄的俗称。有的地区称“地牛儿”。  
+1. 【[土狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_zz.md#土狗子)】`tv3 geu3 zz` <small>/tʰu3 kəɪ3 t͡sɿ/<sup>泰兴</sup></small> 蝼蛄的俗称。有的地区称“地牛儿”。<sup>\[泰兴\]</sup>  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon` ① 给死人洗澡更衣的人。 ② 以殡葬为职业的人。<sup>\[泰州\]</sup>  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon1` <small>/tʰu3 koŋ1/<sup>兴化</sup></small> ① 为死人洗澡、穿衣整容以及埋葬的人，叫土工。<sup>\[如东\]</sup> ② 旧称从事送葬、造坟等殡葬服务的人。<sup>\[兴化\]</sup>  
 1. 【[土货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hu.md#土货)】`tv3 hu5` <sup>[如东]</sup> 当地手工生产的农产品和工业品。  
-1. 【[土话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hua.md#土话)】`tv3 hua` <sup>[泰兴]</sup> 也作土语。小地域内使用的方言。  
-1. 【[土皇帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_huan_di.md#土皇帝)】`tv3 huan2 di` <sup>[泰兴]</sup> 指盘踞一方的军阀、土豪劣绅，亦泛指独霸一方的坏人。  
+1. 【[土话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_hua.md#土话)】`tv3 hua` <small>/tʰu3 xuɑ/<sup>泰兴</sup></small> 也作土语。小地域内使用的方言。<sup>\[泰兴\]</sup>  
+1. 【[土皇帝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_huan_di.md#土皇帝)】`tv3 huan2 di` <small>/tʰu3 xuɑŋ2 t͡ɕʝ/<sup>泰兴</sup></small> 指盘踞一方的军阀、土豪劣绅，亦泛指独霸一方的坏人。<sup>\[泰兴\]</sup>  
 1. 【[土燕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_in_zz.md#土燕子)】`tv3 in5 zz` <sup>[如皋]</sup> 燕鸻。  
 1. 【[土墼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_jieh.md#土墼)】`tv3 jieh7` <small>/tʰu3 t͡ɕiəʔ7/<sup>兴化</sup>, /tʰu3 t͡ɕiɪʔ7/<sup>泰县</sup></small> ① 旧时砌墙的土坯，也可作为砖坯，但比一般砖坯大。<sup>\[东台\]</sup> ② 土坯，由土和稻麦颖片（稳子）混合制成，体积大于普通粘土砖，可用于砌墙。<sup>\[兴化\]</sup> ③ 土坯<sup>\[泰县\]</sup>：这个墙用～做的。<sup>\[泰县\]</sup> ④ 未烧过的土砖。<sup>\[泰州\]</sup>  
 1. 【[土楼里造飞机——异想天开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_leu_lii_co.md#土楼里造飞机——异想天开)】`tv3 leu2 lii co6 fei1 ji1 i6 xian3 tin1 kae1` <sup>[东台]</sup>   
@@ -2225,13 +2225,13 @@
 1. 【[土墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qian.md#土墙)】`tv3 qian2` <small>/tʰu3 t͡ɕʰiã2/<sup>如皋</sup>, /tʰu3 t͡ɕʰiɑŋ2/<sup>泰兴</sup></small> 泥土做的墙，老泥墙。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[土人参](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ren_shen.md#土人参)】`tv3 ren2 shen1` <sup>[如东]</sup> 马齿苋科植物栌兰，一年生草本。高约60厘米。肉质，全体无毛。主根粗壮有分枝，外表棕褐色。茎圆柱形，基部稍木质化。叶互生，倒卵形或倒卵状椭圆形，全缘。花小多数淡紫红色。蒴果，熟时灰褐色。种子细小，黑色，扁圆形。生长在村庄阴湿地里。  
 1. 【[土山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shaen.md#土山)】`tv3 shaen1` <sup>[如皋]</sup> 地名，在如皋常青乡，常办庙会。  
-1. 【[土生土长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shen_tv_zhan.md#土生土长)】`tv3 shen1 tv3 zhan3` <sup>[泰兴]</sup> 在出生地成长起来（的人）：我是～的黄桥人。  
+1. 【[土生土长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_shen_tv_zhan.md#土生土长)】`tv3 shen1 tv3 zhan3` <small>/tʰu3 səŋ1 tʰu3 t͡sɑŋ3/<sup>泰兴</sup></small> 在出生地成长起来（的人）。<sup>\[泰兴\]</sup>：我是～的黄桥人。<sup>\[泰兴\]</sup>  
 1. 【[土塌平消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taeh_pien_xio.md#土塌平消)】`tv3 taeh7 pien2 xio1` <sup>[东台]</sup> 彻底摧毁，不留痕迹。  
 1. 【[土塌地平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taeh_ti_pien.md#土塌地平)】`tv3 taeh7 ti6 pien2` <sup>[如东]</sup> 地面遭受严重破坏。  
 1. 【[土蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_taen.md#土蛋)】`tv3 taen6` <sup>[如皋]</sup> 土虫儿用泥做成的蛋形窝。  
 1. 【[土头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土头)】`tv3 teu` <sup>[泰县]</sup> 土壤。  
 1. 【[土头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土头)】`tv3 teu2` <sup>[兴化]</sup> 指土壤的肥瘠：这块田～不丑。  
-1. 【[土豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土豆)】`tv3 teu6` <sup>[泰兴]</sup> 马铃薯。  
+1. 【[土豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土豆)】`tv3 teu6` <small>/tʰu3 tʰəɪ1/<sup>泰兴</sup></small> 马铃薯。<sup>\[泰兴\]</sup>  
 1. 【[土豆搬家——滚蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu_bun_ga.md#土豆搬家——滚蛋)】`tv3 teu6 bun1 ga1 guen3 taen6` <sup>[东台]</sup>   
 1. 【[土地狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_r.md#土地狗<sub>儿</sub>)】`tv3 ti6 geu3 r` <sup>[泰县]</sup> ① 蝼站。 ② 骨子里捣蛋的人。  
 1. 【[土地狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_zz.md#土地狗子)】`tv3 ti6 geu3 zz` <sup>[兴化]</sup> 蝼蛄。  
@@ -2242,13 +2242,13 @@
 1. 【[土地庙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio.md#土地庙)】`tv3 ti6 mio6` <small>/tʰu3 t͡ɕʰʝ1 miɔ1/<sup>泰兴</sup></small> 供奉土地菩萨的庙宇。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[土地庙没顶——神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_meh.md#土地庙没顶——神气通天)】`tv3 ti6 mio6 meh8 dien3 shen2 qi5 ton1 tin1` <sup>[东台]</sup>   
 1. 【[土地庙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_r.md#土地庙<sub>儿</sub>)】`tv3 ti6 mio6 r` <sup>[如皋]</sup> 供奉土地神的建筑。乡村间至为尊敬土地菩萨。  
-1. 【[土地庙<sub>儿</sub>没上盖，神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_r.md#土地庙<sub>儿</sub>没上盖，神气通天)】`tv3 ti6 mio6 r meh8 shan6 gae5 shen2 qi ton1 tin1` <sup>[泰兴]</sup> 歇后语。谓人神采飞扬貌。  
+1. 【[土地庙<sub>儿</sub>没上盖，神气通天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_mio_r.md#土地庙<sub>儿</sub>没上盖，神气通天)】`tv3 ti6 mio6 r meh8 shan6 gae5 shen2 qi ton1 tin1` <small>/tʰu3 t͡ɕʰʝ1 miɔ˞1 məʔ8 sɑŋ1 kɛ5 səŋ2 t͡ɕʰʝ tʰɔŋ1 tʰĩ1/<sup>泰兴</sup></small> 歇后语。谓人神采飞扬貌。<sup>\[泰兴\]</sup>  
 1. 【[土土克](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_tv_keh.md#土土克)】`tv3 tv3 keh7` <sup>[泰县]</sup> 扑克。  
-1. 【[土腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi_vei.md#土腥气味)】`tv3 xien qi vei6` <sup>[泰兴]</sup> 泥土的气味：今朝的鱼吃起来有点～。  
+1. 【[土腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi_vei.md#土腥气味)】`tv3 xien qi vei6` <small>/tʰu3 ɕiŋ t͡ɕʰʝ ʋəɪ1/<sup>泰兴</sup></small> 泥土的气味。<sup>\[泰兴\]</sup>：今朝的鱼吃起来有点～。<sup>\[泰兴\]</sup>  
 1. 【[土腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi.md#土腥气)】`tv3 xien1 qi` <sup>[东台]</sup> 泥腥味，某些水产品含有的不好闻的异味。  
 1. 【[土腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_qi.md#土腥气)】`tv3 xien1 qi5` <sup>[如皋]</sup> 沾有淤泥的臭味：鲢子鱼鳃的～最重。  
 1. 【[土腥味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_xien_vei.md#土腥味)】`tv3 xien1 vei6` <sup>[如皋]</sup> 泥土的腥味。  
-1. 【[土政策](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhen_ceh.md#土政策)】`tv3 zhen5 ceh7` <sup>[泰兴]</sup> 指地方上或小团体内部自己搞的一套规定。多指不合法或不恰当的。  
+1. 【[土政策](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_zhen_ceh.md#土政策)】`tv3 zhen5 ceh7` <small>/tʰu3 t͡səŋ5 t͡sʰəʔ7/<sup>泰兴</sup></small> 指地方上或小团体内部自己搞的一套规定。多指不合法或不恰当的。<sup>\[泰兴\]</sup>  
 1. 【[兔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#兔)】`tv5` <sup>[如东]</sup> 兔科动物华南兔，体形较小。耳短。尾短。四肢较细。全身毛色较深，为黄褐色，并杂有黑色长针毛。鼻两侧各有一浅色区。腹部及四肢内侧为黄白色。四肢外侧为黄棕色。尾背面为黄棕褐色，尾腹面为淡黄色。生活在农田、杂草、丛林中。  
 1. 【[兔粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_fen.md#兔粪)】`tv5 fen5` <sup>[如东]</sup> 兔科动物华南兔的干燥粪便，药名称望月砂。  
 1. 【[兔<sub>儿</sub>扒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_r_ba_tan.md#兔<sub>儿</sub>扒塘)】`tv5 r ba1 tan2` <sup>[如皋]</sup> 兔子的习性。在土中扒出隧道做窝。  

@@ -78,19 +78,19 @@
 1. 【[让他遇别人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ta_y_pih.md#让他遇别人)】`ran6 ta1 y6 pih8 ren` <sup>[如皋]</sup> 冷眼相看。  
 1. 【[让疼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_ten.md#让疼)】`ran6 ten2` <sup>[如皋]</sup> ① 因疼而下意识地让动或取保护性姿势，动作。 ② 喻忍辱屈服。  
 1. 【[入大糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_da_hv.md#入大糊)】`reh8 da6 hv6` <sup>[如东]</sup> ① 马马虎虎，糊糊涂涂：不要～ ② 比喻办事糊涂的人：他是个～。  
-1. 【[入耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_er.md#入耳)】`reh8 er3` <sup>[泰兴]</sup> 悦耳，中听：他的箇些话，我是越听越不～。  
+1. 【[入耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_er.md#入耳)】`reh8 er3` <small>/ɻəʔ8 ɚ3/<sup>泰兴</sup></small> 悦耳，中听。<sup>\[泰兴\]</sup>：他的箇些话，我是越听越不～。<sup>\[泰兴\]</sup>  
 1. 【[入伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_foh.md#入伏)】`reh8 foh8` <sup>[东台]</sup> 进入伏天（暑热夏天）。  
 1. 【[入骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_gueh.md#入骨)】`reh8 gueh7` <small>/ləʔ8 kuəʔ7/<sup>兴化</sup>, /ɻəʔ8 kuəʔ7/<sup>泰兴</sup></small> ① 深入骨头内部。<sup>\[如东\]</sup>：～三分。<sup>\[如东\]</sup> ② 渗入内里<sup>\[兴化\]</sup>：烧肉要和作料一起煸，不然不得～。<sup>\[兴化\]</sup> ③ 形容达到极点。<sup>\[泰兴\]</sup>：箇几句话真入骨，把关键问题总讲吖透彻咖。<sup>\[泰兴\]</sup> ④ 烧鱼肉之时作料渗入鱼肉、猪肉之中<sup>\[泰州\]</sup>：烧鱼不把作料烧啊～就不好吃。<sup>\[泰州\]</sup>｜今朝这个肉烧得～，你弄两块尝尝看。<sup>\[泰州\]</sup>  
 1. 【[入伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu.md#入伙)】`reh8 hu3` <small>/ɻəʔ8 xɤɯ3/<sup>泰兴</sup></small> 加入某个集体或集团。<sup>\[东台\]</sup>\[泰兴：又指加入集体伙食\]  
-1. 【[入火屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu_pi_gu.md#入火屁股)】`reh8 hu3 pi5 gu` <sup>[泰兴]</sup> 着急；特别慌忙，来不得半点迟缓。  
-1. 【[入乎其神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hv_qi_shen.md#入乎其神)】`reh8 hv qi2 shen2` <sup>[泰兴]</sup> 同“入神”。  
+1. 【[入火屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hu_pi_gu.md#入火屁股)】`reh8 hu3 pi5 gu` <small>/ɻəʔ8 xɤɯ3 pʰʝ5 kɤɯ/<sup>泰兴</sup></small> 着急；特别慌忙，来不得半点迟缓。<sup>\[泰兴\]</sup>  
+1. 【[入乎其神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hv_qi_shen.md#入乎其神)】`reh8 hv qi2 shen2` <small>/ɻəʔ8 fʋ t͡ɕʰʝ2 səŋ2/<sup>泰兴</sup></small> 同“入神”。<sup>\[泰兴\]</sup>  
 1. 【[入胡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_hv_r.md#入胡<sub>儿</sub>)】`reh8 hv2 r` <sup>[如皋]</sup> 敷衍应付：他做事～，你要看住他做。  
 1. 【[入己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ji.md#入己)】`reh8 ji3` <small>/ləʔ8 t͡ɕi3/<sup>兴化</sup>, /ɻəʔ8 t͡ɕʝ3/<sup>泰兴</sup></small> ① 使自己得到好处<sup>\[兴化\]</sup>：可见欺诈之财，没有得与你～受用的。（《二刻》十六）<sup>\[兴化\]</sup>｜谚曰：害人不～，～不害人。<sup>\[兴化\]</sup> ② 谓把财物据为己有<sup>\[泰兴\]</sup>  
 1. 【[入脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiah.md#入脚)】`reh8 jiah7` <sup>[兴化]</sup> 入手、进入：他以借东西～，渐渐和她勾搭上吖。  
-1. 【[入溜子跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_lieu_zz_qio.md#入溜子跷)】`reh8 lieu zz qio1` <sup>[泰兴]</sup> 故意作梗，唱反调：他箇个人～，跟哪个总佮不好。  
+1. 【[入溜子跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_lieu_zz_qio.md#入溜子跷)】`reh8 lieu zz qio1` <small>/ɻəʔ8 ləɪ t͡sɿ t͡ɕʰiɔ1/<sup>泰兴</sup></small> 故意作梗，唱反调。<sup>\[泰兴\]</sup>：他箇个人～，跟哪个总佮不好。<sup>\[泰兴\]</sup>  
 1. 【[入马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_ma.md#入马)】`reh8 ma3` <sup>[兴化]</sup> ① 男女勾搭成奸：（那妇人）将那时放帘子因打着西门庆起，并做衣裳～通好，一一地说。（《水浒传》二六） ② 性交。  
 1. 【[入梅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_mei.md#入梅)】`reh8 mei2` 进入梅雨季节。  
-1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <sup>[泰兴]</sup> 骂人。  
+1. 【[入泊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pah_teu.md#入泊头)】`reh8 pah7 teu2` <small>/ɻəʔ8 pʰɑʔ7 tʰəɪ2/<sup>泰兴</sup></small> 骂人。<sup>\[泰兴\]</sup>  
 1. 【[入碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon.md#入碰)】`reh8 pon5` <small>/ɻəʔ8 pɔŋ5/<sup>泰兴</sup></small> ① 闲谈。<sup>\[如东\]</sup> ② 办事毫无头绪，胡乱行动碰运气。<sup>\[泰兴\]</sup>  
 1. 【[入埲松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_pon_son.md#入埲松)】`reh8 pon6 son1` <small>/ɻəʔ8 pʰɔŋ1 sɔŋ1/<sup>泰兴</sup></small> 没有结果，事情没有办好<sup>\[泰兴\]</sup>：箇桩事叫他去办肯定是～，办不好的。<sup>\[泰兴\]</sup>  
 1. 【[入且](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_qia.md#入且)】`reh8 qia` 无实际含义，多为口头禅，多含贬义。相当于普通话的“哇噻，他妈的”之类。  
@@ -100,8 +100,8 @@
 1. 【[入声字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen_cz.md#入声字)】`reh8 shen1 cz6` <sup>[东台]</sup> 声调为入声的字，分阴入和阳入。  
 1. 【[入神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_shen.md#入神)】`reh8 shen2` <small>/ɻəʔ8 səŋ2/<sup>泰兴</sup></small> ① 注意 ② 神气、风光<sup>\[泰兴\]</sup> ③ 作赞美之词，犹值得神气<sup>\[泰兴\]</sup>：文章写得～<sup>\[泰兴\]</sup>｜箇幢房子～<sup>\[泰兴\]</sup> ④ （有时作“入乎其神”）<sup>\[泰兴\]</sup>  
 1. 【[入头冒鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_teu_mo_guei.md#入头冒鬼的)】`reh8 teu2 mo6 guei3 dii` <sup>[如皋]</sup> ① 行踪不定，难以预料：他一刻在这许，一刻儿在那许，～，不晓得到底在哪许。 ② 说话怪谲，前后不联贯：他传出来的消息～，叫人捉摸不定。  
-1. 【[入头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_teu_roh_lin.md#入头辱脸)】`reh8 teu2 roh8 lin3` <sup>[泰兴]</sup> 谓人当众受到羞辱。  
-1. 【[入天泊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#入天泊地)】`reh8 tin1 pah7 ti6` <sup>[泰兴]</sup> 谓怒极开口乱骂人，语言俗不入耳。  
+1. 【[入头辱脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_teu_roh_lin.md#入头辱脸)】`reh8 teu2 roh8 lin3` <small>/ɻəʔ8 tʰəɪ2 ɻɔʔ8 lĩ3/<sup>泰兴</sup></small> 谓人当众受到羞辱。<sup>\[泰兴\]</sup>  
+1. 【[入天泊地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_tin_pah_ti.md#入天泊地)】`reh8 tin1 pah7 ti6` <small>/ɻəʔ8 tʰĩ1 pʰɑʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> 谓怒极开口乱骂人，语言俗不入耳。<sup>\[泰兴\]</sup>  
 1. 【[入账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zhan.md#入账)】`reh8 zhan5` <sup>[如东]</sup> 记入账目。收入：今朝～多少？  
 1. 【[入捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zuen.md#入捘)】`reh8 zuen5` <sup>[如东]</sup> 没有用：要它～。也说“入逊”reh8 suen5。  
 1. 【[肏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh.md#肏)】`reh8` 性交。  
@@ -115,7 +115,7 @@
 1. 【[肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei.md#肏鬼)】`reh8 guei3` <small>/ləʔ8 kuəi3/<sup>兴化</sup>, /ɻəʔ8 kuei3/<sup>如皋</sup>, /ɻəʔ8 kuəɪ3/<sup>泰兴</sup></small> ① 说假话。<sup>\[如东\]</sup>：你不要～。<sup>\[如东\]</sup> ② 觉得奇怪、不可思议<sup>\[如皋\]</sup>：倒～啷，钱哪去啊啦？<sup>\[如皋\]</sup> ③ 诡秘、非常的行为。见“肏咖鬼”。<sup>\[如皋\]</sup> ④ 奇怪、令人诧异<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～唻，不曾有人进家，东西怎吖少的？<sup>\[兴化\]</sup>｜～唻，才在箇块的，怎吖找不到的。<sup>\[泰兴\]</sup> ⑤ 也说“肏咖鬼子”。<sup>\[东台\]</sup> ⑥ 感到很奇怪的口头语。<sup>\[东台\]</sup> ⑦ 暗中搞鬼、作弊。<sup>\[东台\]</sup> ⑧ 捣鬼，暗中使用诡计<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：这件事肯定有人从中～，你要当心。<sup>\[泰州\]</sup> ⑨ 事情蹊跷，古怪不合情理<sup>\[泰州\]</sup>：吃咖嘴里不臭，～唻，哪块来的臭味？<sup>\[泰州\]</sup>  
 1. 【[肏鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guei_r.md#肏鬼<sub>儿</sub>)】`reh8 guei3 r` <sup>[泰县]</sup> 蹊跷。  
 1. 【[肏滚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_guen.md#肏滚)】`reh8 guen3` <small>/ɻəʔ8 kuəŋ3/<sup>如皋</sup>, /ɻəʔ8 kuəŋ3/<sup>泰兴</sup></small> 粗鄙话。滚开<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：你同我早啊点儿～，也省得你蹾吖家里作操！<sup>\[如皋\]</sup>｜请你～。<sup>\[如东\]</sup>  
-1. 【[肏瞎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_haeh_ngaen.md#肏瞎眼)】`reh8 haeh7 ngaen3` <sup>[泰兴]</sup> 詈词。骂人瞎了眼睛。  
+1. 【[肏瞎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_haeh_ngaen.md#肏瞎眼)】`reh8 haeh7 ngaen3` <small>/ɻəʔ8 xæʔ7 ŋɛ̃3/<sup>泰兴</sup></small> 詈词。骂人瞎了眼睛。<sup>\[泰兴\]</sup>  
 1. 【[肏决](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiuh.md#肏决)】`reh8 jiuh7` <sup>[泰县]</sup> 讽刺挖苦。  
 1. 【[肏捲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jiun.md#肏捲)】`reh8 jiun` <sup>[东台]</sup> 谩骂、嘲讽、羞辱。也作“辱捲”。（肏，会意字，本指性交，引申为羞辱。见“捲”）  
 1. 【[肏句](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_jy.md#肏句)】`reh8 jy` <sup>[如皋]</sup> 用反话挖苦、讽刺对方。见“辱句”。  
@@ -146,9 +146,9 @@
 1. 【[肏这个娘（妈妈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zha_gu_nian.md#肏这个娘（妈妈）)】`reh8 zha5 gu nian2` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
 1. 【[肏周](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/reh_zheu.md#肏周)】`reh8 zheu1` <sup>[兴化]</sup> 拉倒、算了：你肯就背，不肯就～！  
 1. 【[人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren.md#人)】`ren2` <small>/ɻəŋ2/<sup>如皋</sup></small> ① 人 ② 可用之才<sup>\[如皋\]</sup>：你要重用他，他确实是个～<sup>\[如皋\]</sup>｜他这几年学好，像个～吖<sup>\[如皋\]</sup>  
-1. 【[人不到礼到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_do_li.md#人不到礼到)】`ren2 beh7 do5 li3 do5` <sup>[泰兴]</sup> 亲友有红白喜事，人如果因故不可能到场，但人情要到。  
+1. 【[人不到礼到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_do_li.md#人不到礼到)】`ren2 beh7 do5 li3 do5` <small>/ɻəŋ2 pəʔ7 tɔ5 lʝ3 tɔ5/<sup>泰兴</sup></small> 亲友有红白喜事，人如果因故不可能到场，但人情要到。<sup>\[泰兴\]</sup>  
 1. 【[人不混账，账不混人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_huen_zhan.md#人不混账，账不混人)】`ren2 beh7 huen5 zhan5 zhan5 beh7 huen5 ren2` <sup>[东台]</sup> 人正派是最根本的。  
-1. 【[人不可貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_ku_mo.md#人不可貌相)】`ren2 beh7 ku3 mo6 xian5` <sup>[泰兴]</sup> 谓不可从外表上判定一个人的品格才华。  
+1. 【[人不可貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_ku_mo.md#人不可貌相)】`ren2 beh7 ku3 mo6 xian5` <small>/ɻəŋ2 pəʔ7 kʰɤɯ3 mɔ1 ɕiɑŋ5/<sup>泰兴</sup></small> 谓不可从外表上判定一个人的品格才华。<sup>\[泰兴\]</sup>  
 1. 【[人不可貌相，海水不可斗量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_ku_mo.md#人不可貌相，海水不可斗量)】`ren2 beh7 ku3 mo6 xian5 hae3 shuei3 beh7 ku3 deu3 lian2` <sup>[东台]</sup> 主要说的前一句，不能以貌取人。  
 1. 【[人不能一浪打到头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_nen_ieh.md#人不能一浪打到头)】`ren2 beh7 nen2 ieh7 lan6 da3 do5 teu2` <sup>[东台]</sup> （俗语）劝喻人要前思后想，不要固执己见，注意摆平方方面面的关系。  
 1. 【[人不知，狗来问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_zhr_geu.md#人不知，狗来问)】`ren2 beh7 zhr1 geu3 lae2 ven6` <sup>[东台]</sup> 讨厌地责怪对方多管闲事。  
@@ -165,12 +165,12 @@
 1. 【[人字梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_cz_lian.md#人字梁)】`ren2 cz6 lian2` <sup>[如皋]</sup> 三角形梁架。  
 1. 【[人大心大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_da_xien_da.md#人大心大)】`ren2 da6 xien1 da6` <small>/lən2 ta6 ɕin1 ta6/<sup>兴化</sup></small> ① 随着年岁的增长，心路也随之增大<sup>\[兴化\]</sup>：前几年，她还是一个黄毛丫头，现在～，甚的都晓得咖。<sup>\[兴化\]</sup> ② 随着人的年龄增大，心中所追求的目标也就随之变大<sup>\[泰州\]</sup>：二小不是过去的那个楞头青唻，现在他是～，要辞职下海办自己的公司，这件事你想管也管不了唻，随他去吧。<sup>\[泰州\]</sup>  
 1. 【[人档子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_dan_zz.md#人档子)】`ren2 dan5 zz` <sup>[兴化]</sup> 人与人之间的空隙：街上人挤人，他从～中穿来穿去。  
-1. 【[人到八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_baeh_sheh.md#人到八十八，不知瘸和瞎)】`ren2 do5 baeh7 sheh baeh7 beh7 zhr1 qya2 hu2 haeh7` <sup>[泰兴]</sup> 谓人年龄大了，身体变化状况难以预测。  
-1. 【[人到四十五，正是出山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_sz_sheh.md#人到四十五，正是出山虎)】`ren2 do5 sz5 sheh v3 zhen5 shr chueh7 shaen1 hv3` <sup>[泰兴]</sup> 谓人到了40多岁，年轻力壮，趋于成熟，正是大干事业的时候。  
+1. 【[人到八十八，不知瘸和瞎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_baeh_sheh.md#人到八十八，不知瘸和瞎)】`ren2 do5 baeh7 sheh baeh7 beh7 zhr1 qya2 hu2 haeh7` <small>/ɻəŋ2 tɔ5 pæʔ7 səʔ pæʔ7 pəʔ7 t͡sɿ1 t͡ɕʰyɑ2 xɤɯ2 xæʔ7/<sup>泰兴</sup></small> 谓人年龄大了，身体变化状况难以预测。<sup>\[泰兴\]</sup>  
+1. 【[人到四十五，正是出山虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_sz_sheh.md#人到四十五，正是出山虎)】`ren2 do5 sz5 sheh v3 zhen5 shr chueh7 shaen1 hv3` <small>/ɻəŋ2 tɔ5 sɿ5 səʔ ʋ3 t͡səŋ5 sɿ t͡sʰuəʔ7 ɕiɛ̃1 fʋ3/<sup>泰兴</sup></small> 谓人到了40多岁，年轻力壮，趋于成熟，正是大干事业的时候。<sup>\[泰兴\]</sup>  
 1. 【[人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_do_zan_jian.md#人到葬将垛，𪎉子䜺<sub>儿</sub>总下锅)】`ren2 do5 zan5 jian5 tu6 haen6 zz chae3 r zon3 xia6 gu1` <sup>[东台]</sup> 葬将垛在西溪，是隋朝抗倭英烈墓地，意思是饥肠辘辘的人回来急要吃饭，成为当地人的谚语。  
 1. 【[人多没好食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_meh_ho.md#人多没好食)】`ren2 du1 meh8 ho3 sheh8` <sup>[东台]</sup> 人多了，需求量大，就难以精心制作。  
 1. 【[人多抢食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_qian_sheh.md#人多抢食)】`ren2 du1 qian3 sheh8` <sup>[东台]</sup> 人一多，就有争着吃的兴致和吃不到的担心。  
-1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <sup>[泰兴]</sup> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。  
+1. 【[人多嘴杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_du_zuei_zaeh.md#人多嘴杂)】`ren2 du1 zuei3 zaeh7` <small>/ɻəŋ2 tɤɯ1 t͡suəɪ3 t͡ɕiæʔ7/<sup>泰兴</sup></small> 谈论的人多，各种议论都有。亦指在场的人多，七嘴八舌。<sup>\[泰兴\]</sup>  
 1. 【[人发炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_faeh_taen.md#人发炭)】`ren2 faeh7 taen5` <sup>[如皋]</sup> 中药名，煅烧人发为炭。又称血余炭。  
 1. 【[人夫轿马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_fv_qio_ma.md#人夫轿马)】`ren2 fv qio6 ma3` <sup>[兴化]</sup> ① 旧宫员出行时的仪仗、仆从及各种交通工具。 ② 形容热闹、气派：今朝～的接她不走，过几天灰溜溜的往家跑。  
 1. 【[人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ga.md#人家)】`ren2 ga` <small>/ɻəŋ2 ka/<sup>如皋</sup>, /ɻɑŋ2 kɑ1/<sup>泰兴</sup></small> ① 别人、别人家<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：那个是～的事<sup>\[如东\]</sup> ② “我”的委婉称法<sup>\[如皋\]</sup> ③ 出嫁女称母家。<sup>\[如皋\]</sup> ④ 家庭。<sup>\[如东\]</sup>：这许住啊3户～。<sup>\[如东\]</sup>  
@@ -188,8 +188,8 @@
 1. 【[人一走，茶就凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieh_zeu_cha.md#人一走，茶就凉)】`ren2 ieh7 zeu3 cha2 qieu6 lian2` <small>/ɻəŋ2 iʔ7 t͡sɤɯ3 t͡sʰɑ2 t͡ɕʰiɤɯ1 liɑŋ2/<sup>泰兴</sup></small> 指两人的关系脆弱，一分手就冷淡了。乡人尚有“人在人情在，人去两分开”之说。<sup>\[泰兴\]</sup>  
 1. 【[人影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ien_r.md#人影<sub>儿</sub>)】`ren2 ien3 r` <small>/ɻəŋ2 iə˞3/<sup>如皋</sup></small> ① 某人闪现过。<sup>\[如皋\]</sup> ② 身影。<sup>\[如皋\]</sup>  
 1. 【[人又懦惰货又重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ieu_nuh_du.md#人又懦惰货又重)】`ren2 ieu6 nuh8 du5 hu5 ieu6 chon6` <sup>[东台]</sup> 人的能力差，工作负荷又重。  
-1. 【[人烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_in.md#人烟)】`ren2 in1` <sup>[泰兴]</sup> ① 住家的炊烟，比喻人家 ② 传世的子孙：我家在泰兴有三十代人烟  
-1. 【[人要长交，账要短结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_chan_jio.md#人要长交，账要短结)】`ren2 io5 chan2 jio1 zhan5 io5 dun3 jih7` <sup>[泰兴]</sup> 谓人与人相处要持久，但相互的经济来往要清楚明白，及时结清，时间长了，容易产生误会、矛盾。  
+1. 【[人烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_in.md#人烟)】`ren2 in1` <small>/ɻəŋ2 ĩ1/<sup>泰兴</sup></small> ① 住家的炊烟，比喻人家<sup>\[泰兴\]</sup> ② 传世的子孙<sup>\[泰兴\]</sup>：我家在泰兴有三十代人烟<sup>\[泰兴\]</sup>  
+1. 【[人要长交，账要短结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_chan_jio.md#人要长交，账要短结)】`ren2 io5 chan2 jio1 zhan5 io5 dun3 jih7` <small>/ɻəŋ2 iɔ5 t͡sʰɑŋ2 t͡ɕiɔ1 t͡sɑŋ5 iɔ5 tʊ̃3 t͡ɕiʔ7/<sup>泰兴</sup></small> 谓人与人相处要持久，但相互的经济来往要清楚明白，及时结清，时间长了，容易产生误会、矛盾。<sup>\[泰兴\]</sup>  
 1. 【[人要脸，树要皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_io_lin_shv.md#人要脸，树要皮)】`ren2 io5 lin3 shv6 io5 pi2` <sup>[东台]</sup> 人要注重自己的面子和声誉。  
 1. 【[人缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_iun.md#人缘)】`ren2 iun2` <small>/ɻəŋ2 yʊ̃2/<sup>泰兴</sup></small> ① 人际关系。<sup>\[如东\]</sup>：张三儿的～好。<sup>\[如东\]</sup> ② 指与别人相处的关系。<sup>\[泰兴\]</sup>：我同他没得～<sup>\[泰兴\]</sup>｜他平常三四～太差，临到事没得人帮他说话<sup>\[泰兴\]</sup>  
 1. 【[人精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_jien.md#人精)】`ren2 jien1` <small>/ɻəŋ2 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 比喻非常精明。<sup>\[如东\]</sup>：桂兰是个～。<sup>\[如东\]</sup> ② 精明过人的人<sup>\[东台\]</sup>：你还想骗他？哿晓得他是个～？<sup>\[东台\]</sup> ③ 指非常精明灵活的人、老于世故的人。有时含贬义<sup>\[泰兴\]</sup>：箇个～聪明过啊头<sup>\[泰兴\]</sup>  
@@ -202,9 +202,9 @@
 1. 【[人来风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_fon.md#人来风)】`ren2 lae2 fon1` <sup>[泰县]</sup> 小孩在客人面前的一些忘乎所以的表现，如撒娇，或向大人提出一些过分的要求：这伢儿心～。  
 1. 【[人来客到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_keh_do.md#人来客到)】`ren2 lae2 keh7 do5` <sup>[兴化]</sup> 见“来人到客”。  
 1. 【[人来客去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lae_keh_qy.md#人来客去)】`ren2 lae2 keh7 qy5` <small>/lən2 lɛ2 kʰəʔ7 t͡ɕʰy5/<sup>兴化</sup>, /ɻəŋ2 lɛ2 kʰəʔ7 t͡ɕʰy5/<sup>泰兴</sup></small> ① 有亲朋好友或其他客人来往<sup>\[泰兴\]</sup>\[兴化：也说“人来客到”“来人到客”。\]：平常～的，他总是热情招待。<sup>\[兴化\]</sup>｜不问几时～的，总要热情接待。<sup>\[泰兴\]</sup> ② 客人来往，亦即迎来送往礼节性的应酬<sup>\[泰州\]</sup>：这两天家里～的，影响伢儿做作业。<sup>\[泰州\]</sup> ③ 客人光临与离开。谓社会交际、处世。<sup>\[泰兴\]</sup>  
-1. 【[人力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lieh.md#人力)】`ren2 lieh` <sup>[泰兴]</sup> 劳动力：老的老，小的小，现在家里没得甚的～  
+1. 【[人力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lieh.md#人力)】`ren2 lieh` <small>/ɻəŋ2 liʔ/<sup>泰兴</sup></small> 劳动力<sup>\[泰兴\]</sup>：老的老，小的小，现在家里没得甚的～<sup>\[泰兴\]</sup>  
 1. 【[人牢物牢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_veh_lo.md#人牢物牢)】`ren2 lo2 veh8 lo2` <sup>[如皋]</sup> 人惜物而物牢固。  
-1. 【[人老话多，树老根多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_hua_du.md#人老话多，树老根多)】`ren2 lo3 hua6 du1 shv6 lo3 gen1 du1` <sup>[泰兴]</sup> 谓人年龄大了，说话啰嗦、重复。  
+1. 【[人老话多，树老根多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_lo_hua_du.md#人老话多，树老根多)】`ren2 lo3 hua6 du1 shv6 lo3 gen1 du1` <small>/ɻəŋ2 lɔ3 xuɑ1 tɤɯ1 su1 lɔ3 kəŋ1 tɤɯ1/<sup>泰兴</sup></small> 谓人年龄大了，说话啰嗦、重复。<sup>\[泰兴\]</sup>  
 1. 【[人骂人的句话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ma_ren_dii.md#人骂人的句话)】`ren2 ma6 ren2 dii qy6 hua6` <small>/ɻəŋ2 mɑ1 ɻəŋ2 təɪ t͡ɕʰy1 xuɑ1/<sup>泰兴</sup></small> 发语词，引出下一句詈骂语。可能起到缓和语气、避免对方误会的作用。<sup>\[泰兴\]</sup>：要是做箇种呆事，～，倒像个手铳ngeh。<sup>\[泰兴\]</sup>  
 1. 【[人蛮理不蛮，弯木上线弹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_maen_li_beh.md#人蛮理不蛮，弯木上线弹)】`ren2 maen2 li3 beh7 maen2 vaen1 moh8 shan6 xin5 taen2` <sup>[东台]</sup> 以木匠弹线比喻只要上规矩，就不怕不讲理的人。  
 1. 【[人没得十三拳高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_meh_deh_sheh.md#人没得十三拳高)】`ren2 meh8 deh7 sheh8 saen1 qiun2 go1` <sup>[东台]</sup> 形容人很矮小。  
@@ -216,11 +216,11 @@
 1. 【[人模狗样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_mu_geu_ian.md#人模狗样)】`ren2 mu2 geu3 ian6` <small>/lən2 mo2 kɤ3 iaŋ6/<sup>兴化</sup></small> ① 形容装模作样地<sup>\[兴化\]</sup>：那个痞子～的站吖人前，嘴里不三不四的吐脏话。<sup>\[兴化\]</sup> ② 人的长相，狗的举止；喻指低素质者担当与其素质不相称的职务，贬义<sup>\[泰州\]</sup>：这家伙竟然也当吖领导，人模狗样的坐啊主席台上。<sup>\[泰州\]</sup>  
 1. 【[人模人样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_mu_ren_ian.md#人模人样)】`ren2 mu2 ren2 ian6` ① 身材标准，容貌漂亮。<sup>\[如东\]</sup>：这个小伙长得～的。<sup>\[如东\]</sup> ② 人的模样，多作反语，意谓从表面上看，某人容貌显示出长相很好<sup>\[泰州\]</sup>：不要望他～的，其实是一肚子坏水。<sup>\[泰州\]</sup>  
 1. 【[人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ngaen.md#人眼)】`ren2 ngaen3` <sup>[兴化]</sup> ① 指人的目光：～是秤｜“正是我府中～众多，只恐惊动里面便不妙……”（《水浒传》八） ② 人的接触面：他这许～熟，各方面都有朋友。  
-1. 【[人怕出名猪怕壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_pa_chueh_mien.md#人怕出名猪怕壮)】`ren2 pa5 chueh7 mien2 zhv1 pa5 zhuan5` <sup>[泰兴]</sup> 比喻人出了名以后会有很多麻烦  
+1. 【[人怕出名猪怕壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_pa_chueh_mien.md#人怕出名猪怕壮)】`ren2 pa5 chueh7 mien2 zhv1 pa5 zhuan5` <small>/ɻəŋ2 pʰɑ5 t͡sʰuəʔ7 miŋ2 t͡su1 pʰɑ5 t͡suɑŋ5/<sup>泰兴</sup></small> 比喻人出了名以后会有很多麻烦<sup>\[泰兴\]</sup>  
 1. 【[人怕狠的，鬼怕恶的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_pa_hen_dii.md#人怕狠的，鬼怕恶的)】`ren2 pa5 hen3 dii guei3 pa5 ngah7 dii` <sup>[东台]</sup> 人总不愿意跟凶恶者交往，也指有的人欺软怕硬。  
 1. 【[人气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qi.md#人气)】`ren2 qi5` <sup>[如东]</sup> 单位或家庭的和谐、兴旺气象：这个单位～不错。  
 1. 【[人情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien.md#人情)】`ren2 qien2` <small>/ɻəŋ2 t͡ɕʰiŋ2/<sup>泰兴</sup></small> ① 人之常情<sup>\[泰兴\]</sup> ② 人与人之间的情分、交情、交际往来等。<sup>\[泰兴\]</sup> ③ 亲友之间交际往来所送钱财、礼物<sup>\[泰州\]</sup>：现在泰州人办事，朋友的人情都不收唻。<sup>\[泰州\]</sup>  
-1. 【[人情大似债，头顶锅子卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_da_sz.md#人情大似债，头顶锅子卖)】`ren2 qien2 da6 sz zhae5 teu2 dien3 gu1 zz mae6` <sup>[泰兴]</sup> 谓有往来的人情交际是非去不可的，即使困难哪怕借债也不可漏落。  
+1. 【[人情大似债，头顶锅子卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_da_sz.md#人情大似债，头顶锅子卖)】`ren2 qien2 da6 sz zhae5 teu2 dien3 gu1 zz mae6` <small>/ɻəŋ2 t͡ɕʰiŋ2 tɑ1 sɿ t͡ɕiɛ5 tʰəɪ2 tiŋ3 kɤɯ1 t͡sɿ mɛ1/<sup>泰兴</sup></small> 谓有往来的人情交际是非去不可的，即使困难哪怕借债也不可漏落。<sup>\[泰兴\]</sup>  
 1. 【[人情锅里煮不烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_gu_lii.md#人情锅里煮不烂)】`ren2 qien2 gu1 lii zhv3 beh7 laen6` <sup>[东台]</sup> 人际交往太深，没法拒绝。  
 1. 【[人情项理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_han_li.md#人情项理)】`ren2 qien2 han6 li3` <sup>[如东]</sup> 各项社交费用：～的，都是我出。  
 1. 【[人情项礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_qien_han_li.md#人情项礼)】`ren2 qien2 han6 li3` <sup>[如皋]</sup> 交往礼节方面的费用。  
@@ -235,7 +235,7 @@
 1. 【[人<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_r_teu.md#人<sub>儿</sub>头)】`ren2 r teu2` <sup>[如东]</sup> 领头的人：他是一个甚的  
 1. 【[人色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_seh.md#人色)】`ren2 seh` <small>/ɻəŋ2 səʔ/<sup>泰兴</sup></small> ① 人的品质、品性、性格。<sup>\[泰兴\]</sup>：有些做小生意的人～不好，买他的杲子要当心点。<sup>\[泰兴\]</sup> ② 人的品质种类及等级，带有贬义<sup>\[泰州\]</sup>：这地方的～不好，你不要住在这个地方。<sup>\[泰州\]</sup>  
 1. 【[人色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_seh.md#人色)】`ren2 seh7` <small>/lən2 səʔ7/<sup>兴化</sup>, /ɻəŋ2 səʔ7/<sup>如皋</sup></small> ① 人的品质修养和待人接物的态度：他家的～好，厚道。<sup>\[如皋\]</sup> ② 人们的人格、品行，泛指民风<sup>\[东台\]</sup>：那许～不好，要当心！<sup>\[东台\]</sup> ③ 人的面部气色<sup>\[兴化\]</sup>：他捱吓得面无～。<sup>\[兴化\]</sup> ④ 人的品质风貌<sup>\[兴化\]</sup>：小王～差，你不留神要吃他的亏。<sup>\[兴化\]</sup>｜这个小区～好。<sup>\[兴化\]</sup>  
-1. 【[人山人海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shaen_ren_hae.md#人山人海)】`ren2 shaen1 ren2 hae3` <sup>[泰兴]</sup> 形容人聚集得极多。  
+1. 【[人山人海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shaen_ren_hae.md#人山人海)】`ren2 shaen1 ren2 hae3` <small>/ɻəŋ2 ɕiɛ̃1 ɻəŋ2 xɛ3/<sup>泰兴</sup></small> 形容人聚集得极多。<sup>\[泰兴\]</sup>  
 1. 【[人参](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen.md#人参)】`ren2 shen1` <sup>[如东]</sup> 五加科植物人参，多年生草本。  
 1. 【[人参花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_hua.md#人参花)】`ren2 shen1 hua1` <sup>[如东]</sup> 五加科植物人参花。  
 1. 【[人参叶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_ih.md#人参叶)】`ren2 shen1 ih8` <sup>[如东]</sup> 五加科植物人参叶、  
@@ -245,26 +245,26 @@
 1. 【[人参子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_zz.md#人参子)】`ren2 shen1 zz3` <sup>[如东]</sup> 五加科植物人参果实。  
 1. 【[人生父母养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_fv_mu.md#人生父母养)】`ren2 shen1 fv6 mu3 ian3` <small>/lən2 sən1 fu6 mo3 iaŋ3/<sup>兴化</sup>, /ɻəŋ2 səŋ1 fʋ1 mɤɯ3 iɑŋ3/<sup>泰兴</sup></small> 人之躯体，受之父母<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他一把夺过许先生手里的门门，说了一句话：“他也是～的！”（汪曾祺《异秉》）<sup>\[兴化\]</sup>｜“……其实谁不是～的，当真就一毫廉耻也没有……”（《广陵湖》六三）<sup>\[兴化\]</sup>  
 1. 【[人生面不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_min_beh.md#人生面不熟)】`ren2 shen1 min6 beh7 shoh8` <sup>[兴化]</sup> 人与人互不相识：他俫～的，有些话怎吖好出口。｜“……今日初会，～，再来等我替你品。”（《金瓶梅词话》五九）  
-1. 【[人生七十古来稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_qieh_sheh.md#人生七十古来稀)】`ren2 shen1 qieh7 sheh8 gv3 lae2 xi1` <sup>[泰兴]</sup> 七十岁高龄的人从古以来就不多见，谓享高寿不易。  
+1. 【[人生七十古来稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_qieh_sheh.md#人生七十古来稀)】`ren2 shen1 qieh7 sheh8 gv3 lae2 xi1` <small>/ɻəŋ2 səŋ1 t͡ɕʰiəʔ7 səʔ8 ku3 lɛ2 ɕʝ1/<sup>泰兴</sup></small> 七十岁高龄的人从古以来就不多见，谓享高寿不易。<sup>\[泰兴\]</sup>  
 1. 【[人生地不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shen_ti_beh.md#人生地不熟)】`ren2 shen1 ti6 beh7 shoh8` <sup>[兴化]</sup> 人地生疏：于大欺他～，开车兜啊一圈，收他三十多块钱车费。｜张泰心慌，又是～的人，绊了一交，跌倒在地……（《西潮二集》十三）  
-1. 【[人手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sheu.md#人手)】`ren2 sheu3` <sup>[泰兴]</sup> 做事的人：现在家里～不多，日子也过得清闲。  
+1. 【[人手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sheu.md#人手)】`ren2 sheu3` <small>/ɻəŋ2 ɕiɤɯ3/<sup>泰兴</sup></small> 做事的人。<sup>\[泰兴\]</sup>：现在家里～不多，日子也过得清闲。<sup>\[泰兴\]</sup>  
 1. 【[人善捱人欺，马善捱人骑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shin_ngae_ren.md#人善捱人欺，马善捱人骑)】`ren2 shin6 ngae2 ren2 qi1 ma3 shin6 ngae2 ren2 qi2` <sup>[东台]</sup> 遇到欺软怕硬的人，忠厚人往往吃亏。  
 1. 【[人少好吃着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sho_ho_qieh.md#人少好吃着)】`ren2 sho3 ho3 qieh7 zhah7` <small>/ɻəŋ2 sɔ3 xɔ3 t͡ɕʰiəʔ7 t͡sɑʔ7/<sup>泰兴</sup></small> 指人少饮食就好。乡人有“～，人多好做着”一说。<sup>\[泰兴\]</sup>  
 1. 【[人熟理不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shoh_li_beh.md#人熟理不熟)】`ren2 shoh8 li3 beh7 shoh8` <sup>[东台]</sup> 尽管是熟人，也要按规矩办事。  
-1. 【[人熟礼不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shoh_li_beh.md#人熟礼不熟)】`ren2 shoh8 li3 beh7 shoh8` <sup>[泰兴]</sup> 谓即使相处得很好，但应有的礼节是不可少的：～，你到他家去，大要大叫人，小要小叫人，不能老相。  
-1. 【[人事不知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_beh_zhr.md#人事不知)】`ren2 shr beh7 zhr1` <sup>[泰兴]</sup> 昏迷不醒，失去知觉。  
+1. 【[人熟礼不熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shoh_li_beh.md#人熟礼不熟)】`ren2 shoh8 li3 beh7 shoh8` <small>/ɻəŋ2 sɔʔ8 lʝ3 pəʔ7 sɔʔ8/<sup>泰兴</sup></small> 谓即使相处得很好，但应有的礼节是不可少的。<sup>\[泰兴\]</sup>：～，你到他家去，大要大叫人，小要小叫人，不能老相。<sup>\[泰兴\]</sup>  
+1. 【[人事不知](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_beh_zhr.md#人事不知)】`ren2 shr beh7 zhr1` <small>/ɻəŋ2 sɿ pəʔ7 t͡sɿ1/<sup>泰兴</sup></small> 昏迷不醒，失去知觉。<sup>\[泰兴\]</sup>  
 1. 【[人事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr.md#人事)】`ren2 shr6` <sup>[兴化]</sup> 做人的道理及待人接物的礼数：这个小伙人虽不大，倒蛮懂～的。  
 1. 【[人是个愁虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_gu_cheu.md#人是个愁虫<sub>儿</sub>)】`ren2 shr6 gu cheu2 chon2 r` <sup>[东台]</sup> 人生在世有愁不完的心思。  
 1. 【[人是衣裳马是鞍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_i_shan.md#人是衣裳马是鞍)】`ren2 shr6 i1 shan ma3 shr6 un1` <sup>[东台]</sup> ［喻］衣着打扮对人的仪表很重要。  
-1. 【[人是衣妆，马是鞍装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_i_zhuan.md#人是衣妆，马是鞍装)】`ren2 shr6 i1 zhuan1 ma3 shr6 un1 zhuan1` <sup>[泰兴]</sup> 谓人穿了漂亮的衣服就显得风流倜傥，马安了崭新的鞍具就雄健气派。  
-1. 【[人是弯的，理是直的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_vaen_dii.md#人是弯的，理是直的)】`ren2 shr6 vaen1 dii li3 shr6 cheh8 dii` <sup>[泰兴]</sup> 谓人说话可以变化，但正确的道理只有一个。  
+1. 【[人是衣妆，马是鞍装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_i_zhuan.md#人是衣妆，马是鞍装)】`ren2 shr6 i1 zhuan1 ma3 shr6 un1 zhuan1` <small>/ɻəŋ2 sɿ1 ʝ1 t͡suɑŋ1 mɑ3 sɿ1 ʊ̃1 t͡suɑŋ1/<sup>泰兴</sup></small> 谓人穿了漂亮的衣服就显得风流倜傥，马安了崭新的鞍具就雄健气派。<sup>\[泰兴\]</sup>  
+1. 【[人是弯的，理是直的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shr_vaen_dii.md#人是弯的，理是直的)】`ren2 shr6 vaen1 dii li3 shr6 cheh8 dii` <small>/ɻəŋ2 sɿ1 ʋɛ̃1 təɪ lʝ3 sɿ1 t͡sʰəʔ8 təɪ/<sup>泰兴</sup></small> 谓人说话可以变化，但正确的道理只有一个。<sup>\[泰兴\]</sup>  
 1. 【[人说的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_shuh_dii.md#人说的)】`ren2 shuh7 dii` <sup>[如东]</sup> 有人说的：～，命该如此。  
 1. 【[人死灯灭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_sz_den_mih.md#人死灯灭)】`ren2 sz3 den1 mih8` <sup>[兴化]</sup> （喻）人死了就什么都没了：～，所谓阴魂托梦，不过是人日有所思，夜有所梦罢了。｜“～，就想作个鬼也不能……”（《儿女英雄传》九）  
 1. 【[人抬人高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_tae_ren_go.md#人抬人高)】`ren2 tae2 ren2 go1` <sup>[兴化]</sup> 人与人之间互相尊重：你请教我一声老板，我要称你一声先生，～呀。  
-1. 【[人头不盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_teu_beh_shen.md#人头不盛)】`ren2 teu2 beh7 shen6` <sup>[泰兴]</sup> 人丁不旺。子孙繁衍不多。  
+1. 【[人头不盛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_teu_beh_shen.md#人头不盛)】`ren2 teu2 beh7 shen6` <small>/ɻəŋ2 tʰəɪ2 pəʔ7 səŋ1/<sup>泰兴</sup></small> 人丁不旺。子孙繁衍不多。<sup>\[泰兴\]</sup>  
 1. 【[人头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_teu_r.md#人头<sub>儿</sub>)】`ren2 teu2 r` <small>/lən2 tʰɤ2 ɚ/<sup>兴化</sup></small> ① 充当领袖的人。<sup>\[如东\]</sup>：王二是这许的～。<sup>\[如东\]</sup> ② 指一方的人群<sup>\[兴化\]</sup>：他在安丰～熟，故土难离。<sup>\[兴化\]</sup>｜做保险这一行，要是～不熟，工作怎吖开展得下去？<sup>\[兴化\]</sup>  
 1. 【[人头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_teu_shan.md#人头上)】`ren2 teu2 shan` <sup>[如东]</sup> 人际：在～要说得过去。  
-1. 【[人同人搭，鬼同鬼搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ton_ren_daeh.md#人同人搭，鬼同鬼搭)】`ren2 ton2 ren2 daeh7 guei3 ton2 guei3 daeh7` <sup>[泰兴]</sup> 谓人以群分，好人与好人打交道，差的与差的打交道。乡人有“～，喷屎螂同屎搭”之谑语，多用于责备劣行者，希望他们多交好的朋友。  
+1. 【[人同人搭，鬼同鬼搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ton_ren_daeh.md#人同人搭，鬼同鬼搭)】`ren2 ton2 ren2 daeh7 guei3 ton2 guei3 daeh7` <small>/ɻəŋ2 tʰɔŋ2 ɻəŋ2 tæʔ7 kuəɪ3 tʰɔŋ2 kuəɪ3 tæʔ7/<sup>泰兴</sup></small> 谓人以群分，好人与好人打交道，差的与差的打交道。乡人有“～，喷屎螂同屎搭”之谑语，多用于责备劣行者，希望他们多交好的朋友。<sup>\[泰兴\]</sup>  
 1. 【[人同人好，鬼同鬼好，苍蝇同屎好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_ton_ren_ho.md#人同人好，鬼同鬼好，苍蝇同屎好)】`ren2 ton2 ren2 ho3 guei3 ton2 guei3 ho3 can1 ien ton2 shr3 ho3` <sup>[东台]</sup> 喻指素质差的人往往沆瀣一气。  
 1. 【[人无百年过，枉作千年怨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_boh_nin.md#人无百年过，枉作千年怨)】`ren2 v2 boh7 nin2 gu5 van3 zah7 qin1 nin2 iun5` <sup>[东台]</sup> 人生苦短，要珍爱友谊，何苦结怨。  
 1. 【[人无过头之力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_gu_teu.md#人无过头之力)】`ren2 v2 gu5 teu2 zhr1 lieh8` <sup>[东台]</sup> 手高于头顶时力气就不大。  
@@ -275,9 +275,9 @@
 1. 【[人无职业不遮身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_zheh_ih.md#人无职业不遮身)】`ren2 v2 zheh7 ih8 beh7 zha1 shen1` <sup>[东台]</sup> 就业是民生之本，每个人都要有职业及职能。  
 1. 【[人误地一时，地误人一年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_v_ti_ieh.md#人误地一时，地误人一年)】`ren2 v6 ti6 ieh7 shr2 ti6 v6 ren2 ieh7 nin2` <sup>[东台]</sup> 要掌握季节，遵循规律，及时耕种。  
 1. 【[人王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人王)】`ren2 van2` <small>/ɻəŋ2 uɑŋ2/<sup>泰兴</sup></small> ① 自作聪明能干的人。<sup>\[如东\]</sup>：这个家伙好做～。<sup>\[如东\]</sup> ② 诋责以势欺人或以力侮人者，有“狗大为王，人大见强”一说。贬语。<sup>\[泰兴\]</sup>  
-1. 【[人望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人望)】`ren2 van6` <sup>[泰兴]</sup> 声望，威望：贪污腐败，干尽了坏事，还有甚的人望？  
+1. 【[人望](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van.md#人望)】`ren2 van6` <small>/ɻəŋ2 uɑŋ1/<sup>泰兴</sup></small> 声望，威望。<sup>\[泰兴\]</sup>：贪污腐败，干尽了坏事，还有甚的人望？<sup>\[泰兴\]</sup>  
 1. 【[人望高处走，水望低处流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_chv.md#人望高处走，水望低处流)】`ren2 van6 go1 chv5 zeu3 shuei3 van6 di1 chv5 lieu2` <sup>[东台]</sup> 人要有上进心。  
-1. 【[人望高，水望低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_shuei.md#人望高，水望低)】`ren2 van6 go1 shuei3 van6 di1` <sup>[泰兴]</sup> 水往低处流，而人是要向高处攀登，力争干出一番成就的。  
+1. 【[人望高，水望低](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_van_go_shuei.md#人望高，水望低)】`ren2 van6 go1 shuei3 van6 di1` <small>/ɻəŋ2 uɑŋ1 kɔ1 suəɪ3 uɑŋ1 t͡ɕʝ1/<sup>泰兴</sup></small> 水往低处流，而人是要向高处攀登，力争干出一番成就的。<sup>\[泰兴\]</sup>  
 1. 【[人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh.md#人物)】`ren2 veh8` <small>/ɻəŋ2 ʋəʔ8/<sup>如皋</sup></small> ① 不寻常的人。<sup>\[如皋\]</sup> ② 有才能有地位有影响的人。<sup>\[如东\]</sup>：他是一个～。<sup>\[如东\]</sup>  
 1. 【[人物头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_r.md#人物头<sub>儿</sub>)】`ren2 veh8 teu2 r` <sup>[兴化]</sup> 指拔尖的、了不起的人：他往人前一站，还真像个～。  
 1. 【[人物头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_veh_teu_zz.md#人物头子)】`ren2 veh8 teu2 zz` <small>/ɻəŋ2 ʋəʔ8 tʰei2 t͡sɿ/<sup>如皋</sup>, /ɻəŋ2 ʋəʔ8 tʰəɪ2 t͡sɿ/<sup>泰兴</sup></small> ① 贬指、嘲讽用语。<sup>\[如皋\]</sup> ② 才能杰出、声望卓著、有地位的人。有时用于讽刺挖苦自以为了不起的人。<sup>\[泰兴\]</sup>：才当吖个班长，就神气国国的，充起～的派头来。<sup>\[泰兴\]</sup>  
@@ -285,15 +285,15 @@
 1. 【[人心隔肚皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_geh_dv.md#人心隔肚皮)】`ren2 xien1 geh7 dv3 pi2` <small>/ɻəŋ2 ɕiŋ1 kəʔ7 tu3 pʰʝ2/<sup>泰兴</sup></small> 谓人的心思难以猜测。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[人心齐，泰山移，万众一心，黄土变金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_qi_tae.md#人心齐，泰山移，万众一心，黄土变金)】`ren2 xien1 qi2 tae5 shaen1 i2 vaen6 zhon5 ieh7 xien1 huan2 tv3 bin5 jien1` <sup>[东台]</sup> 同心协力最重要。  
 1. 【[人心总是肉长的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien_zon_shr.md#人心总是肉长的)】`ren2 xien1 zon3 shr6 roh8 zhan3 dii` <small>/ɻəŋ2 ɕiŋ1 t͡sɔŋ3 sɿ1 ɻɔʔ8 t͡sɑŋ3 təɪ/<sup>泰兴</sup></small> 指人的言行要讲道德良心<sup>\[泰兴\]</sup>  
-1. 【[人形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#人形)】`ren2 xien2` <sup>[泰兴]</sup> 人的形象、风貌。常与否定词连用于责备人：箇个伢儿没得～。  
+1. 【[人形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#人形)】`ren2 xien2` <small>/ɻəŋ2 ɕiŋ2/<sup>泰兴</sup></small> 人的形象、风貌。常与否定词连用于责备人。<sup>\[泰兴\]</sup>：箇个伢儿没得～。<sup>\[泰兴\]</sup>  
 1. 【[人小鬼大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_guei_da.md#人小鬼大)】`ren2 xio3 guei3 da6` <small>/lən2 ɕiɔ3 kuəi3 ta6/<sup>兴化</sup></small> ① 指人年龄虽小，但心绪复杂、点子多<sup>\[兴化\]</sup>：“好囚攮的！～，你竟敢弄这样的戏法……”（《三侠五义》六一）<sup>\[兴化\]</sup> ② 年纪虽小但是考虑问题精明<sup>\[泰州\]</sup>：这细小伙～，关目三儿不少。<sup>\[泰州\]</sup>  
-1. 【[人小礼分大，老爹坐栏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_li_fen.md#人小礼分大，老爹坐栏车)】`ren2 xio3 li3 fen da6 lo3 dia cu6 laen2 cha1` <sup>[泰兴]</sup> 礼分：辈分。栏车：木制的婴儿车。指年龄虽小，辈分却高的现象。  
+1. 【[人小礼分大，老爹坐栏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xio_li_fen.md#人小礼分大，老爹坐栏车)】`ren2 xio3 li3 fen da6 lo3 dia cu6 laen2 cha1` <small>/ɻəŋ2 ɕiɔ3 lʝ3 fəŋ tɑ1 lɔ3 tiɑ t͡sʰɤɯ1 lɛ̃2 t͡sʰɑ1/<sup>泰兴</sup></small> 礼分：辈分。栏车：木制的婴儿车。指年龄虽小，辈分却高的现象。<sup>\[泰兴\]</sup>  
 1. 【[人争一口气，佛争一炷香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_ieh_keu.md#人争一口气，佛争一炷香)】`ren2 zhen1 ieh7 keu3 qi5 feh8 zhen1 ieh7 zhv5 xian1` <sup>[东台]</sup> 人贵在有志气有追求。  
-1. 【[人争气，佛争香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_qi_feh.md#人争气，佛争香)】`ren2 zhen1 qi5 feh8 zhen1 xian1` <sup>[泰兴]</sup> 勉励争气之语。乡人常说“人争气，佛争香，土地老儿争炮仗”。  
-1. 【[人中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人中)】`ren2 zhon1` <sup>[泰兴]</sup> 人的上唇正中凹下的部分，其略上请“人中穴”，为急救昏厥的要穴。  
+1. 【[人争气，佛争香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhen_qi_feh.md#人争气，佛争香)】`ren2 zhen1 qi5 feh8 zhen1 xian1` <small>/ɻəŋ2 t͡səŋ1 t͡ɕʰʝ5 fəʔ8 t͡səŋ1 ɕiɑŋ1/<sup>泰兴</sup></small> 勉励争气之语。乡人常说“人争气，佛争香，土地老儿争炮仗”。<sup>\[泰兴\]</sup>  
+1. 【[人中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人中)】`ren2 zhon1` <small>/ɻəŋ2 t͡sɔŋ1/<sup>泰兴</sup></small> 人的上唇正中凹下的部分，其略上请“人中穴”，为急救昏厥的要穴。<sup>\[泰兴\]</sup>  
 1. 【[人中黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_huan.md#人中黄)】`ren2 zhon1 huan2` <small>/ɻəŋ2 t͡sɔŋ1 xuã2/<sup>如皋</sup></small> ① 中药名，马桶硍中色黄者。<sup>\[如皋\]</sup> ② 用甘草磨成粗粉，装入一端有节的竹筒内，另一端用布塞紧，松香封口，将竹筒刮去篾青，浸人清水糞坑中2-3个月。一般冬季浸入，翌年春天取出，用清水漂2-3星期，每天一次，至无臭为度。阴干后，劈破竹筒，取出甘草，晒干即成，入中药。<sup>\[如东\]</sup>  
 1. 【[人中白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon_poh.md#人中白)】`ren2 zhon1 poh8` <small>/ɻəŋ2 t͡sɔŋ1 pʰɔʔ8/<sup>如皋</sup></small> ① 中药名，马桶硍中色白者。<sup>\[如皋\]</sup> ② 人尿自然沉结的固体物，又名尿垢，入中药。<sup>\[如东\]</sup>  
-1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <sup>[泰兴]</sup> 大众，众人：你有话当住～说说/你有话当面大家说说  
+1. 【[人众](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhon.md#人众)】`ren2 zhon5` <small>/ɻəŋ2 t͡sɔŋ5/<sup>泰兴</sup></small> 大众，众人<sup>\[泰兴\]</sup>：你有话当住～说说/你有话当面大家说说<sup>\[泰兴\]</sup>  
 1. 【[人指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_zhr_jiaeh.md#人指甲)】`ren2 zhr3 jiaeh7` <sup>[如东]</sup> 人手上的指甲。  
 1. 【[仁丹胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_daen_hv_zz.md#仁丹胡子)】`ren2 daen1 hv2 zz` <sup>[如皋]</sup> 有如日本仁丹商标上的胡子式样。  
 1. 【[仁义](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_i.md#仁义)】`ren2 i` <small>/lən2 i/<sup>兴化</sup>, /ɻəŋ2 ʝ/<sup>如皋</sup></small> ① 为人厚道宽宏，讲义气<sup>\[如皋\]</sup>：他家兄弟两个，老大～，老二不～。<sup>\[如皋\]</sup> ② 性情温和善良<sup>\[兴化\]</sup>：老吴～，工友有难都肯伸手帮忙。<sup>\[兴化\]</sup> ③ 与人相处通情达理<sup>\[兴化\]</sup>：本以为这个人难处，想不到他这吖～。<sup>\[兴化\]</sup>  

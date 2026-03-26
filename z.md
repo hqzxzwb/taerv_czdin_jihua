@@ -1509,7 +1509,7 @@
 1. 【[捉黄塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_huan_tan.md#捉黄塘)】`zhuah7 huan2 tan2` <small>/t͡suaʔ7 xuaŋ2 tʰaŋ2/<sup>兴化</sup>, /t͡ɕyɑʔ7 xuɑŋ2 tʰɑŋ2/<sup>泰县</sup></small> ① 查看水稻田中缺肥部位，以便补施肥料，促进平衡生长<sup>\[兴化\]</sup>：查长势，～。<sup>\[兴化\]</sup> ② 对田间瘦苗加施肥料。<sup>\[泰县\]</sup>  
 1. 【[捉合子蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_huh_zz_hae.md#捉合子蟹)】`zhuah7 huh8 zz hae3` <sup>[如东]</sup> 雄蟹与雌蟹在一起交配，称合子蟹。比喻捉奸。  
 1. 【[捉活食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_huh_sheh.md#捉活食)】`zhuah7 huh8 sheh8` <sup>[泰县]</sup> ① 家禽找虫子吃。 ② 捞外块。  
-1. 【[捉洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ian_pun.md#捉洋盘)】`zhuah7 ian2 pun2` <sup>[泰兴]</sup> 做生意、打交道等时，利用信息差算计对方，常为牟利：你不了解门道，暴暴的容易被人家～。  
+1. 【[捉洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_ian_pun.md#捉洋盘)】`zhuah7 ian2 pun2` <small>/t͡suɑʔ7 iɑŋ2 pʰʊ̃2/<sup>泰兴</sup></small> 做生意、打交道等时，利用信息差算计对方，常为牟利<sup>\[泰兴\]</sup>：你不了解门道，暴暴的容易被人家～。<sup>\[泰兴\]</sup>  
 1. 【[捉奸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_jiaen.md#捉奸)】`zhuah7 jiaen1` <sup>[如东]</sup> 非夫妻关系的男女在发生性行为时被捉住了，叫做捉奸。  
 1. 【[捉槛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_kaen_jiah.md#捉槛脚)】`zhuah7 kaen3 jiah7` <sup>[如东]</sup> 用砖石铺设墙脚基础，叫做捉槛脚。简称捉槛。  
 1. 【[捉箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuah_lu.md#捉箩)】`zhuah7 lu2` <sup>[如东]</sup> 容器。竹条制成圆柱形，有环。帮高34厘米，环高28厘米，口径36厘米底径34厘米。主要用于盛蟛蜞。  
@@ -2182,12 +2182,12 @@
 1. 【[嘴臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_cheu.md#嘴臭)】`zuei3 cheu5` <sup>[兴化]</sup> 出言不逊者：老黄～，弄句把话教你下不去覅怪人。  
 1. 【[嘴打锣，舌打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da_lu_shih.md#嘴打锣，舌打鼓)】`zuei3 da3 lu2 shih8 da3 gv3` <sup>[兴化]</sup> 形容人饶舌：这个小子到哪许总是～的说个不停。  
 1. 【[嘴大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da.md#嘴大)】`zuei3 da6` <sup>[兴化]</sup> （喻）权势者说出话来有份量：你的～，我说不过你！  
-1. 【[嘴福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_foh.md#嘴福)】`zuei3 foh` <sup>[泰兴]</sup> 同“口福”。  
+1. 【[嘴福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_foh.md#嘴福)】`zuei3 foh` <small>/t͡suəɪ3 fɔʔ/<sup>泰兴</sup></small> 同“口福”。<sup>\[泰兴\]</sup>  
 1. 【[嘴功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gon.md#嘴功)】`zuei3 gon1` <sup>[兴化]</sup> 巧言善辩的本领：我今吖不跟你赌～，我就跟你讲实际的。  
 1. 【[嘴呱呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gua_gua.md#嘴呱呱)】`zuei3 gua1 gua1` <sup>[兴化]</sup> 指人喜欢夸夸其谈：谚曰：～，屎拉拉。  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gun.md#嘴干)】`zuei3 gun1, jy3 gun1` 口渴  
 1. 【[嘴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_huae.md#嘴坏)】`zuei3 huae6` <sup>[兴化]</sup> ① 会说脏话、爱骂人：她～，动不动就骂人。 ② 爱传播别人隐私或议论他人长短。  
-1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <sup>[泰兴]</sup> 同“口紧”。  
+1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <small>/t͡suəɪ3 t͡ɕiŋ3/<sup>泰兴</sup></small> 同“口紧”。<sup>\[泰兴\]</sup>  
 1. 【[嘴尖挂淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_gua_to.md#嘴尖挂淘箩)】`zuei3 jin1 gua5 to2 lu1` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴尖鼻子翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_pieh_zz.md#嘴尖鼻子翘)】`zuei3 jin1 pieh8 zz3 qio5` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴里没得味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_lii_meh_deh.md#嘴里没得味)】`zuei3 lii meh8 deh vei6` <small>/t͡suəɪ3 ləɪ məʔ8 təʔ ʋəɪ1/<sup>泰兴</sup></small> 嘴里觉不出滋味，常因生病或忧心等原因<sup>\[泰兴\]</sup>  
@@ -2197,7 +2197,7 @@
 1. 【[嘴泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_puh.md#嘴泼)】`zuei3 puh7` <sup>[兴化]</sup> 谓不挑食，粗的、差的饭食都能吃。  
 1. 【[嘴局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_qioh.md#嘴局)】`zuei3 qioh8` <sup>[兴化]</sup> 有口福：你的～真好！今天来正好碰上会餐。也说“嘴运”。  
 1. 【[嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_shuh.md#嘴说)】`zuei3 shuh7` <sup>[兴化]</sup> ① 连词，相当“虽然”：他～十六岁，实骨子还不曾满十五唻！ ② 形容速度之快：～之间，几样下酒菜就端上吖桌子。  
-1. 【[嘴松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_son.md#嘴松)】`zuei3 son1` <sup>[泰兴]</sup> 同“口松”  
+1. 【[嘴松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_son.md#嘴松)】`zuei3 son1` <small>/t͡suəɪ3 sɔŋ1/<sup>泰兴</sup></small> 同“口松”<sup>\[泰兴\]</sup>  
 1. 【[嘴损](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_suen.md#嘴损)】`zuei3 suen3` <sup>[兴化]</sup> 指喜欢挖苦人或揭人隐私：这个人～，喜欢揭人家疮疤。  
 1. 【[嘴头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_teu_zz.md#嘴头子)】`zuei3 teu2 zz` <sup>[兴化]</sup> 嘴：我这两个钱是～上省下来的。｜“我家老妻是不贤惠之人……～又极暴躁，终日……骂大骂小……”（《西湖二集》十）  
 1. 【[嘴凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xion.md#嘴凶)】`zuei3 xion1` <sup>[兴化]</sup> 能言善辩，嘴不饶人：（姑娘）手巧不巧，～不凶……（马春阳《扬州水乡婚俗散记》）｜你覅～，当心你的腿！  

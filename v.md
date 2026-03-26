@@ -91,13 +91,13 @@
 1. 【[无患子种仁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_huaen_zz_zhon.md#无患子种仁)】`v2 huaen6 zz3 zhon3 ren2` <sup>[如东]</sup> 无患子植物无患树种仁。  
 1. 【[无影造西厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ien_co_xi.md#无影造西厢)】`v2 ien3 co6 xi1 xian1` <small>/u2 in3 t͡sʰɔ6 ɕi1 ɕiaŋ1/<sup>兴化</sup></small> 没有根据，凭空捏造事实。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>：哪许有这种事，真的是～吖。<sup>\[如东\]</sup>｜“不然不然！世间做小说子的人，断没有个～的道理……”（《广陵潮》六八）<sup>\[兴化\]</sup>  
 1. 【[无影无踪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ien_v_zon.md#无影无踪)】`v2 ien3 v2 zon1` <small>/u2 in3 u2 t͡soŋ1/<sup>兴化</sup></small> ① 完全消失，连一点影子也没有了。<sup>\[如东\]</sup> ② 失去了踪迹，无法寻觅<sup>\[兴化\]</sup>：“……我和你阁下一面不识……你拿了去，如一去～，我到哪里去找你呢？”（《武松》六）<sup>\[兴化\]</sup>  
-1. 【[无影子造西厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ien_zz_co.md#无影子造西厢)】`v2 ien3 zz co6 xi1 xian1` <sup>[泰兴]</sup> 喻没有任何依据，胡乱编造出有鼻子有眼的事。贬义。犹作“胡说”。  
-1. 【[无业不遮身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ih_beh_zha.md#无业不遮身)】`v2 ih8 beh7 zha1 shen1` <sup>[泰兴]</sup> 指没有职业生活就感到困难：俗话说，‘～’，总要学个手艺才行。  
+1. 【[无影子造西厢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ien_zz_co.md#无影子造西厢)】`v2 ien3 zz co6 xi1 xian1` <small>/ʋ2 iŋ3 t͡sɿ t͡sʰɔ1 ɕʝ1 ɕiɑŋ1/<sup>泰兴</sup></small> 喻没有任何依据，胡乱编造出有鼻子有眼的事。贬义。犹作“胡说”。<sup>\[泰兴\]</sup>  
+1. 【[无业不遮身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ih_beh_zha.md#无业不遮身)】`v2 ih8 beh7 zha1 shen1` <small>/ʋ2 iʔ8 pəʔ7 t͡sɑ1 səŋ1/<sup>泰兴</sup></small> 指没有职业生活就感到困难。<sup>\[泰兴\]</sup>：俗话说，‘～’，总要学个手艺才行。<sup>\[泰兴\]</sup>  
 1. 【[无夭夭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_io_io_dii.md#无夭夭的)】`v2 io1 io1 dii` <sup>[如皋]</sup> 不明原因地、突然地：她～哭起来啊。  
 1. 【[无妖妖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_io_io_dii.md#无妖妖的)】`v2 io1 io1 dii` <sup>[东台]</sup> 突如其来，冒里冒失的。  
 1. 【[无遥不遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_io_beh_io.md#无遥不遥)】`v2 io2 beh7 io2` <sup>[兴化]</sup> 形容十分遥远：～的跑啊半大天，才到新车站。  
 1. 【[无鹞鹞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_io_io.md#无鹞鹞)】`v2 io6 io6` <sup>[泰县]</sup> 事前想不到，没有原因：他今朝～的发咖一顿火。  
-1. 【[无价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia.md#无价)】`v2 jia5` <sup>[泰兴]</sup> 无数，非常多。  
+1. 【[无价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_jia.md#无价)】`v2 jia5` <small>/ʋ2 t͡ɕiɑ5/<sup>泰兴</sup></small> 无数，非常多。<sup>\[泰兴\]</sup>  
 1. 【[无孔不入](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_kon_beh_reh.md#无孔不入)】`v2 kon3 beh7 reh8` <sup>[如东]</sup> 什么地方都要钻进去。  
 1. 【[无可奈何](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ku_nae_hu.md#无可奈何)】`v2 ku3 nae6 hu2` <sup>[如东]</sup> 没有办法。  
 1. 【[无赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lae.md#无赖)】`v2 lae6` <sup>[如东]</sup> 放刁耍赖，不讲道理：他耍～。游手好闲，品行不好的人。｜他是一个～。  
@@ -106,28 +106,28 @@
 1. 【[无里无故的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lii_v_gv.md#无里无故的)】`v2 lii v2 gv5 dii` <sup>[如皋]</sup> 见“无夭夭的”。  
 1. 【[无聊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_lio.md#无聊)】`v2 lio2` <sup>[如东]</sup> 无事可做，觉得没有意思。  
 1. 【[无其数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qi_shv.md#无其数)】`v2 qi2 shv5` <small>/u2 t͡ɕʰi2 su5/<sup>兴化</sup></small> ① 形容多得无法计算<sup>\[兴化\]</sup>：这聚宝门……何止一千个牛，一万个猪，粮食更一。（《儒林外史》二四）<sup>\[兴化\]</sup> ② 无数，表示极多<sup>\[泰州\]</sup>：为他谈这个女将，花掉的钱～。<sup>\[泰州\]</sup>  
-1. 【[无忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qi.md#无忌)】`v2 qi6` <sup>[泰兴]</sup> 无所忌惮，不必忌讳，没有忌讳。旧时横联有“姜太公在此百无禁忌”、“童言妇语一概无忌”等。  
+1. 【[无忌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qi.md#无忌)】`v2 qi6` <small>/ʋ2 t͡ɕʰʝ1/<sup>泰兴</sup></small> 无所忌惮，不必忌讳，没有忌讳。旧时横联有“姜太公在此百无禁忌”、“童言妇语一概无忌”等。<sup>\[泰兴\]</sup>  
 1. 【[无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qien.md#无情)】`v2 qien2` <sup>[如东]</sup> 没有感情。不留情面：这样处理太～吖。  
 1. 【[无千无万](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qin_v_vaen.md#无千无万)】`v2 qin1 v2 vaen6` <sup>[兴化]</sup> 形容很多，成千上万：那天晚上，～的人拥到广场看省艺术团的演出。  
 1. 【[无巧不成书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qio_beh_chen.md#无巧不成书)】`v2 qio3 beh7 chen2 shv1` <small>/ʋu2 t͡ɕʰiɔ3 pəʔ7 t͡sʰəŋ2 su1/<sup>如皋</sup>, /ʋ2 t͡ɕʰiɔ3 pəʔ7 t͡sʰəŋ2 su1/<sup>泰兴</sup></small> 比喻事情发生得非常凑巧<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[无巧不巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qio_beh_qio.md#无巧不巧)】`v2 qio3 beh7 qio3` <small>/u2 t͡ɕʰiɔ3 pəʔ7 t͡ɕʰiɔ3/<sup>兴化</sup>, /ʋu2 t͡ɕʰiɔ3 pəʔ7 t͡ɕʰiɔ3/<sup>如皋</sup>, /ʋ2 t͡ɕʰiɔ3 pəʔ7 t͡ɕʰiɔ3/<sup>泰兴</sup></small> 十分巧合，十分凑巧<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～有这么一天，弟兄俩一见面，两个都呆住了……（兴文《“勤俭”二字不可分家》）<sup>\[兴化\]</sup>｜他今朝到我家来，～我上吖北京。<sup>\[泰兴\]</sup>  
 1. 【[无趣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_qy.md#无趣)】`v2 qy5` <small>/u2 t͡ɕʰy5/<sup>兴化</sup>, /ʋ2 t͡sʰuəɪ5/<sup>泰兴</sup></small> ① 没有面子、难堪<sup>\[兴化\]</sup>：自讨～。<sup>\[兴化\]</sup>｜“可好。自己舍生忘死，费了多大的事……那知反倒落了个～。”（《小五义》十一）<sup>\[兴化\]</sup> ② 没趣，十分难堪。<sup>\[泰兴\]</sup>：他私家觉察～，讪讪走啊了。<sup>\[泰兴\]</sup>  
 1. 【[无人不傲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_ren_beh_ngo.md#无人不傲)】`v2 ren2 beh7 ngo6` <sup>[如东]</sup> 人人都称赞夸奖：这个伢儿～。  
-1. 【[无师自通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cz_ton.md#无师自通)】`v2 shr1 cz6 ton1` <sup>[泰兴]</sup> 没有老师的传授指导而自能通晓：箇个小鬼学杲子是～，聪明得很。  
+1. 【[无师自通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_cz_ton.md#无师自通)】`v2 shr1 cz6 ton1` <small>/ʋ2 sɿ1 t͡sʰɿ1 tʰɔŋ1/<sup>泰兴</sup></small> 没有老师的传授指导而自能通晓。<sup>\[泰兴\]</sup>：箇个小鬼学杲子是～，聪明得很。<sup>\[泰兴\]</sup>  
 1. 【[无事不登三宝殿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_beh_den.md#无事不登三宝殿)】`v2 shr6 beh7 den1 saen1 bo3 tin6` <sup>[如皋]</sup> 专访。三宝：佛、法、僧。殿，殿堂。三宝殿，对专访之家的敬称。  
-1. 【[无事□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_dah_gv.md#无事□□)】`v2 shr6 dah gv` <sup>[泰兴]</sup> 无缘无故。  
+1. 【[无事□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_dah_gv.md#无事□□)】`v2 shr6 dah gv` <small>/ʋ2 sɿ1 tɑʔ ku/<sup>泰兴</sup></small> 无缘无故。<sup>\[泰兴\]</sup>  
 1. 【[无事界](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_gae.md#无事界)】`v2 shr6 gae5` <sup>[如皋]</sup> 遗忘干净：他对这事根本不放吖心上，老早撂啊～里去啊。  
 1. 【[无事莫干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_mah_gun.md#无事莫干)】`v2 shr6 mah8 gun1` <sup>[兴化]</sup> 平常无事、没有缘由：程先生，你～的请我吃甚的夜饭？我看算吖吧！  
 1. 【[无事忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_man.md#无事忙)】`v2 shr6 man2` <small>/u2 sɿ6 maŋ2/<sup>兴化</sup>, /ʋ2 sɿ1 mɑŋ2/<sup>泰兴</sup></small> ① 虽然没有什么正事，但成天忙得团团转<sup>\[兴化\]</sup>：“怪不得人说你是～！这会子关了门，人倒疑惑起来……”（《红楼梦》六三）<sup>\[兴化\]</sup> ② 不务正事却异常忙碌。有时用作自谦语。<sup>\[泰兴\]</sup>  
-1. 【[无事三百句，有事再找零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_saen_boh.md#无事三百句，有事再找零)】`v2 shr6 saen1 boh qy6 ieu3 shr6 zae5 zho3 lien2` <sup>[泰兴]</sup> 谓穷嘴啰嗦，滔滔不绝。  
+1. 【[无事三百句，有事再找零](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_saen_boh.md#无事三百句，有事再找零)】`v2 shr6 saen1 boh qy6 ieu3 shr6 zae5 zho3 lien2` <small>/ʋ2 sɿ1 ɕiɛ̃1 pɔʔ t͡ɕʰy1 iɤɯ3 sɿ1 t͡ɕiɛ5 t͡sɔ3 liŋ2/<sup>泰兴</sup></small> 谓穷嘴啰嗦，滔滔不绝。<sup>\[泰兴\]</sup>  
 1. 【[无事上街小破财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_shan_gae.md#无事上街小破财)】`v2 shr6 shan6 gae1 xio3 pu5 cae2` <sup>[东台]</sup> 到街上总要耗费钱财。  
 1. 【[无事生非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_shen_fei.md#无事生非)】`v2 shr6 shen1 fei1` <sup>[如东]</sup> 无缘无故找岔子、闹纠纷。  
-1. 【[无事无故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_v_gv.md#无事无故)】`v2 shr6 v2 gv5` <sup>[泰兴]</sup> 没有原因、原由，突然地。  
+1. 【[无事无故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_shr_v_gv.md#无事无故)】`v2 shr6 v2 gv5` <small>/ʋ2 sɿ1 ʋ2 ku5/<sup>泰兴</sup></small> 没有原因、原由，突然地。<sup>\[泰兴\]</sup>  
 1. 【[无所谓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_su_vei.md#无所谓)】`v2 su3 vei6` <small>/ʋ2 sɤɯ3 ʋəɪ1/<sup>泰兴</sup></small> 没有什么关系，不在意<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这件事～。<sup>\[如东\]</sup>｜箇点小毛病，～。<sup>\[泰兴\]</sup>  
 1. 【[无头大影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_da_ien.md#无头大影)】`v2 teu2 da6 ien3` <small>/u2 tʰɤ2 ta6 in3/<sup>兴化</sup>, /ʋu2 tʰei2 ta1 iəŋ3/<sup>如皋</sup></small> ① 毫无根据、毫无影约。<sup>\[如皋\]</sup> ② 毫无根据的<sup>\[兴化\]</sup>：这种事～的，到哪块弄得清爽啊！<sup>\[兴化\]</sup>  
 1. 【[无头疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_fon.md#无头疯)】`v2 teu2 fon1` <sup>[东台]</sup> 无缘无故地发脾气，像神经不正常似的。  
 1. 【[无头夹脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_gaeh_lin.md#无头夹脸)】`v2 teu2 gaeh7 lin3` <sup>[泰州]</sup> ① 对准头部脸的两侧左右猛击：他在超市偷人家的东西，捱保安当场～打啊一顿。 ② 骂人不顾人的脸面：他的产品出咖质量问题，捱老板喊吖去～一顿臭骂。  
-1. 【[无头公事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_gon_shr.md#无头公事)】`v2 teu2 gon1 shr6` <sup>[泰兴]</sup> 不需做的闲事。  
+1. 【[无头公事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_gon_shr.md#无头公事)】`v2 teu2 gon1 shr6` <small>/ʋ2 tʰəɪ2 kɔŋ1 sɿ1/<sup>泰兴</sup></small> 不需做的闲事。<sup>\[泰兴\]</sup>  
 1. 【[无头案](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_un.md#无头案)】`v2 teu2 un5` ① 没有线索可查的案件。<sup>\[如东\]</sup>：那是一个～。没有线索可查的事情。<sup>\[如东\]</sup> ② 没有线索可以寻找的案件、事情。<sup>\[东台\]</sup>  
 1. 【[无头无脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_v_lin.md#无头无脸)】`v2 teu2 v2 lin3` <small>/ʋu2 tʰei2 ʋu2 lĩ3/<sup>如皋</sup>, /u2 tʰɤɯ2 u2 niɪ̃3/<sup>泰县</sup></small> ① 完全包裹覆盖。<sup>\[如皋\]</sup> ② 不顾情面的，劈头盖脑的。<sup>\[如皋\]</sup> ③ 不顾情面，不分场合。<sup>\[如东\]</sup>：～的骂啊一顿。<sup>\[如东\]</sup> ④ 不顾情面，不分场合：他捱我～的骂啊一顿。<sup>\[泰县\]</sup>  
 1. 【[无头心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/v_teu_xien_sz.md#无头心思)】`v2 teu2 xien1 sz` <sup>[泰州]</sup> 不切实际的愿望或者根本不会实现的企图：不要望吖人家赚钱容易，你不是做生意的料，把你的老师当吖好啊，不要再想～唻！｜这小伙还在下想人家姑娘的～，人家姑娘是美国哈佛的博士生，长得又好看，怎吖可能看得上他这个专科生！  
@@ -623,7 +623,7 @@
 1. 【[晚市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_shr.md#晚市)】`vaen3 shr6` <small>/ʋɛ̃3 sɿ1/<sup>泰兴</sup></small> 傍晚或晚间的集市。<sup>\[泰兴\]</sup>  
 1. 【[晚心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xien.md#晚心)】`vaen3 xien1` 晚上  
 1. 【[晚𫽐太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_xio_tae_ian.md#晚𫽐太阳)】`vaen3 xio tae5 ian` <small>/ʋɛ̃3 ɕiɔ tʰɛ5 iɑŋ/<sup>泰兴</sup></small> 谓白天阴或雨，傍晚天晴朗日。<sup>\[泰兴\]</sup>  
-1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <sup>[泰兴]</sup> 晚上；傍晚，或黄昏时分。同“下晚”。  
+1. 【[晚朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zho.md#晚朝)】`vaen3 zho1` <small>/ʋɛ̃3 t͡sɔ1/<sup>泰兴</sup></small> 晚上；傍晚，或黄昏时分。同“下晚”。<sup>\[泰兴\]</sup>  
 1. 【[晚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_zz.md#晚子)】`vaen3 zz3` <sup>[如皋]</sup> 老来所生的子女。  
 1. 【[绾角卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gah_jiun_r.md#绾角卷<sub>儿</sub>)】`vaen3 gah7 jiun3 r` <sup>[如皋]</sup> 长发盘于脑后的女发式。  
 1. 【[绾篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_go.md#绾篙)】`vaen3 go1` <sup>[如皋]</sup> 铁头有倒钩竹篱。  
@@ -639,13 +639,13 @@
 1. 【[万长久远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_chan_jieu_iun.md#万长久远)】`vaen6 chan2 jieu3 iun3` <sup>[兴化]</sup> 时间长久：原来想跟你～的过日子，不想你丢下我娘儿两个先走啊！  
 1. 【[万佛楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_feh_leu.md#万佛楼)】`vaen6 feh8 leu2` <sup>[如皋]</sup> 原如皋南门外的庙宇，椽子头都雕成佛像。  
 1. 【[万家饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ga_faen.md#万家饭)】`vaen6 ga1 faen6` <sup>[如东]</sup> 许多人家的饭：不吃～。  
-1. 【[万贯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun.md#万贯)】`vaen6 gun5` <sup>[泰兴]</sup> 形容极为富有。古时的铜钱是用线或绳穿着的，每千枚为一贯，出门时多缠于腰间。明洪武八年发行纸币，面值为“壹贯”。当时壹贯等于一千枚铜钱，或白银一两，或黄金四分之一两。乡人常以此称有钱人，若“万贯家财”。  
+1. 【[万贯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun.md#万贯)】`vaen6 gun5` <small>/ʋɛ̃1 kʊ̃5/<sup>泰兴</sup></small> 形容极为富有。古时的铜钱是用线或绳穿着的，每千枚为一贯，出门时多缠于腰间。明洪武八年发行纸币，面值为“壹贯”。当时壹贯等于一千枚铜钱，或白银一两，或黄金四分之一两。乡人常以此称有钱人，若“万贯家财”。<sup>\[泰兴\]</sup>  
 1. 【[万贯家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_gun_jia.md#万贯家)】`vaen6 gun5 jia1` <sup>[兴化]</sup> “万贯家财”的节缩语，财、材同音，指“棺材”：唐家老屋里停放着一具～，几十年后才下葬。  
-1. 【[万后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_heu_zho.md#万后朝)】`vaen6 heu6 zho1` <sup>[泰兴]</sup> 大后天。亦作“晚后朝”、“弯后朝”。  
+1. 【[万后朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_heu_zho.md#万后朝)】`vaen6 heu6 zho1` <small>/ʋɛ̃1 xəɪ1 t͡sɔ1/<sup>泰兴</sup></small> 大后天。亦作“晚后朝”、“弯后朝”。<sup>\[泰兴\]</sup>  
 1. 【[万金油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_jien_ieu.md#万金油)】`vaen6 jien1 ieu2` <sup>[东台]</sup> 即清凉油，喻指什么都能做，但什么都不精通的人。  
 1. 【[万能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nen.md#万能)】`vaen6 nen2` <sup>[如东]</sup> 形容无所不能：金钱不是～的。  
-1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin qien1` <sup>[泰兴]</sup> 四季常绿的多年生草本植物，结红果。乡人常作吉祥物。  
-1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin zhuan1` <sup>[泰兴]</sup> 喻长期坚持，不肯离开：我又不在箇许打～。  
+1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin qien1` <small>/ʋɛ̃1 nĩ t͡ɕʰiŋ1/<sup>泰兴</sup></small> 四季常绿的多年生草本植物，结红果。乡人常作吉祥物。<sup>\[泰兴\]</sup>  
+1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin zhuan1` <small>/ʋɛ̃1 nĩ t͡suɑŋ1/<sup>泰兴</sup></small> 喻长期坚持，不肯离开。<sup>\[泰兴\]</sup>：我又不在箇许打～。<sup>\[泰兴\]</sup>  
 1. 【[万年青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_qien.md#万年青)】`vaen6 nin2 qien1` ① 百合科植物万年青，多年生常绿草本。根茎倾斜，肥厚而短，须根细长，密披白色绒毛。叶丛生；披针形或带状，全缘，革质而光滑，叶面深绿色，下面淡绿色。椭圆状穗状花序。花多数。桨果球形，肉质，熟时橘红色或黄色，内含种子1枚。栽培或野生。<sup>\[如东\]</sup> ② 草名，多年生草本植物，叶片宽大，终年常青。民俗，搬家时，万年青、吉祥草首先进门，取其万年吉祥之义。<sup>\[泰州\]</sup>  
 1. 【[万年桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nin_zhuan.md#万年桩)】`vaen6 nin2 zhuan1` <small>/uɛ̃6 liɪ̃2 t͡suaŋ1/<sup>兴化</sup>, /ʋẽ1 nĩ2 t͡suã1/<sup>如皋</sup></small> ① 状稳定的时间或时间久远。<sup>\[如皋\]</sup> ② 见“打万年桩”。<sup>\[东台\]</sup> ③ 极言长期坚持不挪窝<sup>\[兴化\]</sup>：……他下来是段落锻炼的，又不在农村打～。（马春阳：《城里来的年轻人》）<sup>\[兴化\]</sup>  
 1. 【[万千钩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_qin_geu.md#万千钩)】`vaen6 qin1 geu1` <sup>[泰县]</sup> （中药）苍耳子。  
@@ -706,7 +706,7 @@
 1. 【[亡人牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae.md#亡人牌)】`van2 ren2 pae2` <small>/uɑŋ2 ɻəŋ2 pʰe2/<sup>泰县</sup></small> ① 民间死者的牌位。<sup>\[泰县\]</sup> ② 木主俗称，供祭祀用的，写有死者姓名的木制牌位。<sup>\[泰州\]</sup>  
 1. 【[亡人牌位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_vei.md#亡人牌位)】`van2 ren2 pae2 vei6` <sup>[东台]</sup> ① 死者的灵位。 ② （詈语）骂某个位子。  
 1. 【[亡人牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_pae_zz.md#亡人牌子)】`van2 ren2 pae2 zz` <small>/ʋã2 ɻəŋ2 pʰɛ2 t͡sɿ/<sup>如皋</sup></small> ① 木主，灵位牌，分内、外层，皆用毛笔蘸墨竖写身份、称谓、名讳<sup>\[如皋\]</sup> ② 死者的牌位。<sup>\[如东\]</sup>：柜上供吖～。<sup>\[如东\]</sup>  
-1. 【[亡人汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_tan.md#亡人汤)】`van2 ren2 tan1` <sup>[泰兴]</sup> 民俗。家属亲友送葬后回死者家要先喝一碗豆腐汤或糖水，称为“亡人汤”。后戏称很稀的粥“亡人汤”。  
+1. 【[亡人汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_ren_tan.md#亡人汤)】`van2 ren2 tan1` <small>/uɑŋ2 ɻəŋ2 tʰɑŋ1/<sup>泰兴</sup></small> 民俗。家属亲友送葬后回死者家要先喝一碗豆腐汤或糖水，称为“亡人汤”。后戏称很稀的粥“亡人汤”。<sup>\[泰兴\]</sup>  
 1. 【[亡是亡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_shr_van.md#亡是亡)】`van2 shr6 van2` <sup>[泰州]</sup> （来自吴语“横竖横”）反正是死，无所忌惮：这小伙现在～，哪个都不买账。｜他这样子～，最后没得好果子吃。  
 1. 【[忘录咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_loh_ga.md#忘录咖)】`van2 loh ga` <sup>[东台]</sup> （詈语）意思是简直像生了一场大病一样忘得干干净净。  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/van_sz_van.md#横竖横)】`van2 sz van2` <sup>[泰县]</sup> （吴音）豁出去：他～，要同你拼到底。  

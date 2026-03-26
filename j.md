@@ -115,12 +115,12 @@
 1. 【[鸡子翅膀只躴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zhr_ban.md#鸡子翅膀只躴)】`ji1 zz zhr5 ban zheh7 lan2` <sup>[如皋]</sup> 表天气炎热或闷热。  
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
 1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <small>/t͡ɕi1 t͡sʰɛ5/<sup>兴化</sup></small> ① 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。<sup>\[东台\]</sup> ② 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤<sup>\[兴化\]</sup>：～散花坨子（肉圆）。<sup>\[兴化\]</sup>  
-1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <sup>[泰兴]</sup> 焦虑，心神不宁  
+1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <small>/t͡ɕʝ1 t͡sɔ/<sup>泰兴</sup></small> 焦虑，心神不宁<sup>\[泰兴\]</sup>  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo1` <small>/t͡ɕʝ1 t͡sɔ1/<sup>泰兴</sup></small> ① 因琐碎小事而处于焦虑状态<sup>\[泰州\]</sup>：他就是个～人，一点儿小事，他有泡的作阴躁唻。<sup>\[泰州\]</sup>｜她这个人～啊不得命，大事小事都要操心。<sup>\[泰州\]</sup> ② 烦躁，不耐烦<sup>\[泰兴\]</sup>：你佼不要～，一刻儿就妥了<sup>\[泰兴\]</sup>  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
 1. 【[几下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ha.md#几下)】`ji3 ha6` <sup>[东台]</sup> 几个地方。“下”相当于量词“处”。  
-1. 【[几钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qin.md#几钱)】`ji3 qin2` <sup>[泰兴]</sup> “几个钱”的省称，即“多少钱”：西瓜几钱斤？/西瓜多少钱一斤？  
+1. 【[几钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_qin.md#几钱)】`ji3 qin2` <small>/t͡ɕʝ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> “几个钱”的省称，即“多少钱”。<sup>\[泰兴\]</sup>：西瓜几钱斤？/西瓜多少钱一斤？<sup>\[泰兴\]</sup>  
 1. 【[几□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几□)】`ji3 shr1` <small>/t͡ɕʝ3 sɿ1/<sup>泰兴</sup></small> 哪一天<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[海安\]</sup>：今朝～？/今天是什么日子？<sup>\[海安\]</sup>  
 1. 【[几时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_shr.md#几时)】`ji3 shr2` <small>/t͡ɕʝ3 sɿ2/<sup>泰兴</sup></small> 什么时候<sup>\[泰兴\]</sup>：大姑娘～好日？<sup>\[泰兴\]</sup>  
 1. 【[几代人裔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_tae_ren_i.md#几代人裔)】`ji3 tae6 ren2 i6` <sup>[如皋]</sup> 一个家族的几代人。  
@@ -930,10 +930,10 @@
 1. 【[井甃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_duh_zz.md#井甃子)】`jien3 duh7 zz` <small>/t͡ɕiəŋ3 tʊʔ7 t͡sɿ/<sup>如皋</sup></small> ① 井壁的层次。一层为一甃。<sup>\[如东\]</sup> ② 井壁的每一层。甃又是井深的量词，每甃为一井砖的长度，现代用标准砖为24cm：18甃、24甃、30甃。<sup>\[如皋\]</sup>  
 1. 【[井加子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ga_zz.md#井加子)】`jien3 ga1 zz` <small>/t͡ɕiŋ3 kɑ1 t͡sɿ/<sup>泰兴</sup></small> 井框，井口栅栏<sup>\[泰兴\]</sup>  
 1. 【[井滉凉水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_huan_lian_shuei.md#井滉凉水)】`jien3 huan5 lian2 shuei3` <sup>[如皋]</sup> 夏天的井水，使人觉得清凉而舒适。  
-1. 【[井要淘，人要教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_io_to_ren.md#井要淘，人要教)】`jien3 io5 to2 ren2 io5 jio5` <sup>[泰兴]</sup> 井要常淘水才能正常滲出：人要教育才能成才。  
+1. 【[井要淘，人要教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_io_to_ren.md#井要淘，人要教)】`jien3 io5 to2 ren2 io5 jio5` <small>/t͡ɕiŋ3 iɔ5 tʰɔ2 ɻəŋ2 iɔ5 t͡ɕiɔ5/<sup>泰兴</sup></small> 井要常淘水才能正常滲出：人要教育才能成才。<sup>\[泰兴\]</sup>  
 1. 【[井栏边草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laen_bin_co.md#井栏边草)】`jien3 laen2 bin1 co3` <sup>[如东]</sup> 凤尾蕨科植物亮凤尾蕨草，常绿多年生草本。  
 1. 【[井水粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuei_zhoh.md#井水粥)】`jien3 shuei3 zhoh7` <sup>[如皋]</sup> 井水煮的粥。井水质硬，煮的饭、粥适口。  
-1. 【[井𠫓咖吊桶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teh_ga_dio.md#井𠫓咖吊桶里)】`jien3 teh7 ga dio5 ton lii` <sup>[泰兴]</sup> 喻事情反常。  
+1. 【[井𠫓咖吊桶里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_teh_ga_dio.md#井𠫓咖吊桶里)】`jien3 teh7 ga dio5 ton lii` <small>/t͡ɕiŋ3 tʰəʔ7 ka tiɔ5 tʰɔŋ ləɪ/<sup>泰兴</sup></small> 喻事情反常。<sup>\[泰兴\]</sup>  
 1. 【[井潭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_tun.md#井潭)】`jien3 tun2` <sup>[如东]</sup> 干旱时，在河底挖土井，叫井潭。  
 1. 【[井砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zhun.md#井砖)】`jien3 zhun1` <sup>[如皋]</sup> 水井壁专用砖，横截面呈梯形。有的还有榫和榫眼，不易松动变形。  
 1. 【[井子舱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_zz_can.md#井子舱)】`jien3 zz can1` <sup>[如东]</sup> 帆船的第4舱，是贮存淡水的舱室。也叫水井舱。  
@@ -1056,7 +1056,7 @@
 1. 【[九族](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_coh.md#九族)】`jieu3 coh8` <sup>[如东]</sup> 高祖父、曾祖父、祖父、父亲、自己、儿子、孙子、曾孙、玄孙，共九代，称九族。  
 1. 【[九发三次](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_faeh_saen_cz.md#九发三次)】`jieu3 faeh7 saen1 cz5` <sup>[泰州]</sup> 反复多次：家里人～同你说，不要再去炒股唻，你就是不听。  
 1. 【[九方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_fan_zz.md#九方子)】`jieu3 fan1 zz` <sup>[如皋]</sup> 一种方面有三条纸尾的简易风筝。  
-1. 【[九月里南风两天半，十月里南风等不到暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_iuh_lii_nun.md#九月里南风两天半，十月里南风等不到暗)】`jieu3 iuh lii nun2 fon1 laen3 tin1 bun5 sheh8 iuh lii nun2 fon1 den3 beh do un5` <sup>[泰兴]</sup> 气象谚语。谓深秋季节刮南风，预示将很快要下雨。  
+1. 【[九月里南风两天半，十月里南风等不到暗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_iuh_lii_nun.md#九月里南风两天半，十月里南风等不到暗)】`jieu3 iuh lii nun2 fon1 laen3 tin1 bun5 sheh8 iuh lii nun2 fon1 den3 beh do un5` <small>/t͡ɕiɤɯ3 yʊʔ ləɪ nʊ̃2 fɔŋ1 lɛ̃3 tʰĩ1 pʊ̃5 səʔ8 yʊʔ ləɪ nʊ̃2 fɔŋ1 təŋ3 pəʔ tɔ ʊ̃5/<sup>泰兴</sup></small> 气象谚语。谓深秋季节刮南风，预示将很快要下雨。<sup>\[泰兴\]</sup>  
 1. 【[九斤黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jien_huan.md#九斤黄)】`jieu3 jien huan2` <sup>[兴化]</sup> 鸡的一个品种，老黄色，最大个体可达九斤左右。  
 1. 【[九斤王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jien_van.md#九斤王)】`jieu3 jien1 van2` <sup>[如皋]</sup> 狼山鸡。肉用体大毛黑。  
 1. 【[九九歌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_jieu_gu.md#九九歌)】`jieu3 jieu3 gu1` <sup>[东台]</sup> 按时间顺序编排的数九消寒歌：“一九二九不出手，三九四九冰上走，五九和六九，河边看杨柳，七九河冻开，八九燕子来，九九加一九，耕牛遍地走。”  
@@ -1506,7 +1506,7 @@
 1. 【[饺<sub>儿</sub>面店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_r_min_din.md#饺<sub>儿</sub>面店)】`jio3 r min6 din5` <sup>[如皋]</sup> 专营水煮馄饨和水煮面条的饮食店。  
 1. 【[饺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zz.md#饺子)】`jio3 zz` <sup>[如东]</sup> 食品。面粉加工成较厚的圆形皮，将白菜肉泥、芹菜肉泥或荠莱肉泥等馅儿包起来，用手捏成半圆形，这种食品叫做饺子。然后放入开水中煮熟。一般不吃汤。  
 1. 【[𢄺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#𢄺)】`jio3` <small>/t͡ɕiɔ3/<sup>泰兴</sup></small> 擦拭，一般是为了清洁<sup>\[泰兴\]</sup>：～台子/擦桌子<sup>\[泰兴\]</sup>  
-1. 【[𢄺布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_bv.md#𢄺布)】`jio3 bv` <sup>[泰兴]</sup> 抹布  
+1. 【[𢄺布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_bv.md#𢄺布)】`jio3 bv` <small>/t͡ɕiɔ3 pu/<sup>泰兴</sup></small> 抹布<sup>\[泰兴\]</sup>  
 1. 【[叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#叫)】`jio5` <small>/t͡ɕiɔ5/<sup>如皋</sup></small> ① 旧俗称人受惊吓则魂魄失落而致病，把魂～回来病就好了<sup>\[如皋\]</sup>：伢儿捱吓咖，你替他～下子。<sup>\[如皋\]</sup> ② 渐裂有声\[如皋：也说“笑”。\]：熟西瓜，你拿刀一点，看吖望下～。<sup>\[如皋\]</sup>  
 1. 【[叫啊明吖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_a_mien_nga.md#叫啊明吖的)】`jio5 a mien2 nga dii` <sup>[如皋]</sup> 见“叫明”。  
 1. 【[叫不应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_beh_ien.md#叫不应)】`jio5 beh ien5` <sup>[兴化]</sup> 说话不明或无人听：他又睡着咖，～。  

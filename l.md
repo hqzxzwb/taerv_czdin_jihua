@@ -972,7 +972,7 @@
 1. 【[理拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_sheh.md#理拾)】`li3 sheh` <small>/nɿ3 səʔ/<sup>泰县</sup></small> ① 同“理酌”。<sup>\[东台\]</sup> ② 整顿<sup>\[泰县\]</sup>：我还不曾～到你唻。<sup>\[泰县\]</sup> ③ 整理<sup>\[泰州\]</sup>：你下午把家里～啊子。<sup>\[泰州\]</sup> ④ 处理相关事务<sup>\[泰州\]</sup>：你离家这些天，肯定有不少事要～。<sup>\[泰州\]</sup>  
 1. 【[理事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shr.md#理事)】`li3 shr6` <sup>[如东]</sup> ① 管理事务：小小年纪就会～。 ② 一种行政职务。  
 1. 【[理酌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_zhah.md#理酌)】`li3 zhah7` <sup>[东台]</sup> 整理、处置，使之有序：这个事情请你～下子噻。  
-1. 【[礼拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae.md#礼拜)】`li3 bae` <sup>[泰兴]</sup> 星期。时间为七天。（原文词条“一个礼拜”）  
+1. 【[礼拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae.md#礼拜)】`li3 bae` <small>/lʝ3 pɛ/<sup>泰兴</sup></small> 星期。时间为七天。（原文词条“一个礼拜”）<sup>\[泰兴\]</sup>  
 1. 【[礼拜花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_bae_hua.md#礼拜花)】`li3 bae5 hua1` <sup>[如皋]</sup> 学名半枝莲，叉名洋马齿苋。  
 1. 【[礼多人不怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh.md#礼多人不怪)】`li3 du1 ren2 beh7 guae5` <small>/ləi3 to1 lən2 pəʔ7 kuɛ5/<sup>兴化</sup></small> ① （俗语）讲礼节多多益善，是不会有人怪罪的。<sup>\[东台\]</sup> ② 指礼数周到，总可取悦别人。<sup>\[兴化\]</sup>：谚曰：～，油多没坏菜。<sup>\[兴化\]</sup>  
 1. 【[礼多人不怪，油多不坏菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_du_ren_beh.md#礼多人不怪，油多不坏菜)】`li3 du1 ren2 beh7 guae5 ieu2 du1 beh7 huae6 cae5` <small>/lʝ3 tɤɯ1 ɻəŋ2 pəʔ7 kuɛ5 iɤɯ2 tɤɯ1 pəʔ7 xuɛ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 文明礼貌多多益善，后半句有片面性。<sup>\[东台\]</sup> ② 讲究礼节是不会受人责的。<sup>\[泰兴\]</sup>  
@@ -1175,7 +1175,7 @@
 1. 【[立马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_ma.md#立马)】`lieh8 ma3` <sup>[东台]</sup> 立即，马上。  
 1. 【[立秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu.md#立秋)】`lieh8 qieu1` 二十四节气之一，通常在8月7日或8日。  
 1. 【[立秋节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_jih.md#立秋节)】`lieh8 qieu1 jih7` <sup>[如东]</sup> 立秋日。民间有分吃西瓜、以瓜壳擦脸的习俗。  
-1. 【[立秋三天分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_saen_tin.md#立秋三天分早晚)】`lieh8 qieu1 saen1 tin1 fen1 zo3 vaen3` <sup>[泰兴]</sup> 立秋以后，暑气渐退，晨昏时分就会感到清凉。  
+1. 【[立秋三天分早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_qieu_saen_tin.md#立秋三天分早晚)】`lieh8 qieu1 saen1 tin1 fen1 zo3 vaen3` <small>/liʔ8 t͡ɕʰiɤɯ1 ɕiɛ̃1 tʰĩ1 fəŋ1 t͡sɔ3 ʋɛ̃3/<sup>泰兴</sup></small> 立秋以后，暑气渐退，晨昏时分就会感到清凉。<sup>\[泰兴\]</sup>  
 1. 【[立时的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_shr_dii.md#立时的)】`lieh8 shr2 dii` <sup>[如皋]</sup> 一时间。  
 1. 【[立瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_va.md#立瓦)】`lieh8 va3` <sup>[如皋]</sup> 屋面盖瓦富裕像是竖立着盖的。  
 1. 【[立夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_xia.md#立夏)】`lieh8 xia6` <sup>[东台]</sup> 二十四节气之一，通常在5月5日或6日。  
@@ -1538,7 +1538,7 @@
 1. 【[了不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_beh_qi.md#了不起)】`lio3 beh7 qi3` <small>/liɔ3 pəʔ7 t͡ɕʰʝ3/<sup>如皋</sup></small> ① 非常突出。<sup>\[如东\]</sup>：这座桥这吖漂亮，真是～。<sup>\[如东\]</sup> ② 表瞧不起：我～你！<sup>\[如皋\]</sup>  
 1. 【[了宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_bo.md#了宝)】`lio3 bo3` <sup>[如东]</sup> 挥霍浪费、不聚钱财的人。  
 1. 【[了得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_deh.md#了得)】`lio3 deh7` <sup>[如东]</sup> 能力强，本领大：这个人武功～。  
-1. 【[了结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jih.md#了结)】`lio3 jih` <sup>[泰兴]</sup> 结束，解决。  
+1. 【[了结](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jih.md#了结)】`lio3 jih` <small>/liɔ3 t͡ɕiʔ/<sup>泰兴</sup></small> 结束，解决。<sup>\[泰兴\]</sup>  
 1. 【[了了莫莫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_mah_mah.md#了了莫莫)】`lio3 lio3 mah8 mah8` <sup>[东台]</sup> 数量极少，寥寥无几。  
 1. 【[了了<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_r.md#了了<sub>儿</sub>)】`lio3 lio3 r` <small>/liɔ3 liɔ˞3/<sup>如皋</sup></small> ① 排名在最后（扛榜）。<sup>\[如皋\]</sup> ② 见“扛榜”。<sup>\[如皋\]</sup>  
 1. 【[了牌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_pae.md#了牌)】`lio3 pae2` <sup>[如东]</sup> 最后一副牌：输家成～。  
@@ -1592,7 +1592,7 @@
 1. 【[料张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zhan.md#料张)】`lio6 zhan1` <small>/liɔ1 t͡sɑŋ1/<sup>泰兴</sup></small> 准备采用的材料，多指半成品的木料。<sup>\[泰兴\]</sup>  
 1. 【[料子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_zz.md#料子)】`lio6 zz` <small>/liɔ6 t͡sɿ/<sup>兴化</sup>, /liɔ1 t͡sɿ/<sup>泰兴</sup>, /niɔ1 t͡se/<sup>泰县</sup></small> ① 材料。<sup>\[如东\]</sup> ② ［喻］材料，人才。<sup>\[东台\]</sup> ③ 特指毛料<sup>\[兴化\]</sup>：～西装；～大衣。<sup>\[兴化\]</sup> ④ 舀粪便的勺子。<sup>\[泰县\]</sup> ⑤ 做衣服的材料。<sup>\[泰州\]</sup> ⑥ 特指毛纺布料。<sup>\[泰州\]</sup> ⑦ 布料或其它准备制作成品的材料。<sup>\[泰兴\]</sup>  
 1. 【[𩻻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#𩻻)】`lio6` <sup>[东台]</sup> 䱗鱼：白～。  
-1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <sup>[泰兴]</sup> 助词，相当于现代汉语“了2”。读音因前字韵尾而不同：“吃咖啦？”“吃咖～（lo）”  
+1. 【[了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#了)】`lo, ngo, go` <small>/lɔ/<sup>泰兴</sup></small> 助词，相当于现代汉语“了2”。读音因前字韵尾而不同。<sup>\[泰兴\]</sup>：“吃咖啦？”“吃咖～（lo）”<sup>\[泰兴\]</sup>  
 1. 【[恅愺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_co.md#恅愺)】`lo1 co` <sup>[如皋]</sup> 物品脏而混杂。  
 1. 【[捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#捞)】`lo1` <small>/lɔ1/<sup>兴化</sup>, /lɔ1/<sup>泰兴</sup></small> ① 顺手拿<sup>\[兴化\]</sup>：她到婆婆家见甚的～甚的！<sup>\[兴化\]</sup> ② 不正当取得，偷窃、贪污等<sup>\[泰兴\]</sup>：箇个人块块～<sup>\[泰兴\]</sup>  
 1. 【[捞油水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_ieu_shuei.md#捞油水)】`lo1 ieu2 shuei` <sup>[兴化]</sup> 用不正当手段取得钱财：他趁房屋拆迁～，捱拆迁户举报。  

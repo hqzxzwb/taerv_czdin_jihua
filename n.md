@@ -160,7 +160,7 @@
 1. 【[捺鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_y_r.md#捺鱼<sub>儿</sub>)】`naeh8 y2 r` <sup>[东台]</sup> 见“面鱼儿”。  
 1. 【[捺拃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_zha.md#捺拃)】`naeh8 zha1` <sup>[如皋]</sup> 张开姆指和中指的距离。  
 1. 【[纳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh.md#纳)】`naeh8` <sup>[兴化]</sup> 缝补：补补～～｜他穿吖一件补天～地的破褂子。  
-1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <sup>[泰兴]</sup> 骂人语。谓进棺材。多用于骂小孩。  
+1. 【[纳棺材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_gun_cae.md#纳棺材)】`naeh8 gun1 cae` <small>/næʔ8 kʊ̃1 t͡ɕʰiɛ/<sup>泰兴</sup></small> 骂人语。谓进棺材。多用于骂小孩。<sup>\[泰兴\]</sup>  
 1. 【[纳匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_haeh_zz.md#纳匣子)】`naeh8 haeh8 zz` <sup>[兴化]</sup> 市井语，骂小孩夭亡，装进简易木匣。  
 1. 【[纳函子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naeh_kaen_zz.md#纳函子)】`naeh8 kaen2 zz` <small>/neʔ8 kʰẽ2 t͡sɿ/<sup>如皋</sup></small> ① 詈语，咒小孩早死。<sup>\[如皋\]</sup> ② 小孩死了，装进一种小型盒子里埋入土中，叫做纳函子。比喻顽皮的小孩。这是骂小孩子的话。<sup>\[如东\]</sup>：你这个～。<sup>\[如东\]</sup>  
 1. 【[难板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/naen_baen.md#难板)】`naen2 baen` <small>/lɛ̃2 pɛ̃3/<sup>兴化</sup>, /nɛ̃2 pɛ̃/<sup>泰县</sup></small> 难得<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：我不常上街，～遇到你。<sup>\[兴化\]</sup>｜你～来。<sup>\[泰县\]</sup>｜你家儿子～休息，就让他多睏一刻儿。<sup>\[泰州\]</sup>｜他在新疆工作，～家来一趟。<sup>\[泰州\]</sup>  
@@ -279,21 +279,21 @@
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng5` <sup>[东台]</sup> （叹词）表示厌恶：～，好啦，重复的话不要再说！  
 1. 【[吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#吖)】`nga` <small>/ŋəʔ/<sup>兴化</sup>, /ŋa/<sup>如皋</sup>, /ŋa/<sup>泰兴</sup>, /ŋəʔ/<sup>泰县</sup></small> 助词“啊a”在阳声韵后的变体，见“啊a”：醒吖（醒了）｜动吖（动了）。｜怎～、弄～、赢～。  
 1. 【[吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#吖子)】`nga zz` <small>/ŋəʔ t͡sɿ/<sup>兴化</sup>, /ŋa t͡sɿ/<sup>如皋</sup>, /ŋa t͡sɿ/<sup>泰兴</sup>, /ŋəʔ t͡se/<sup>泰县</sup></small> 同“下子”，跟在阳声韵之后：望～；尝～。｜身子晃～。  
-1. 【[丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#丫)】`nga1` <sup>[泰兴]</sup> 树木或物体分叉的地方。如“树丫巴”。  
+1. 【[丫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga.md#丫)】`nga1` <small>/ŋɑ1/<sup>泰兴</sup></small> 树木或物体分叉的地方。如“树丫巴”。<sup>\[泰兴\]</sup>  
 1. 【[丫把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba_r.md#丫把<sub>儿</sub>)】`nga1 ba3 r` <sup>[泰县]</sup> 东西交叉的地方。  
 1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha` <sup>[如东]</sup> 工具，一端有两个齿，一端有一长柄。用来叉草。  
 1. 【[丫叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha.md#丫叉)】`nga1 cha1` <small>/a1 t͡sʰa1/<sup>兴化</sup>, /ŋɑ1 t͡sʰɑ1/<sup>泰兴</sup>, /a1 t͡sʰa1/<sup>泰县</sup></small> ① 一种丫形工具\[泰州：一种家庭用具，旧时人用丫形树枝，在晾衣时将挂着衣服的竹竿叉至高处，后用铁制，仍沿用此名称。\]\[兴化：一种日用工具，在细竹竿或金属杆头安有叉子，用来将悬挂物叉下。\]\[泰县：晒衣用的工具。\] ② 树叉，枝丫<sup>\[泰县\]</sup><sup>\[泰兴\]</sup> ③ 状如丫形<sup>\[泰兴\]</sup>：～小鬼<sup>\[泰兴\]</sup>  
-1. 【[丫叉萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_lu_poh.md#丫叉萝卜)】`nga1 cha1 lu2 poh` <sup>[泰兴]</sup> 长叉的夢卜。  
+1. 【[丫叉萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_lu_poh.md#丫叉萝卜)】`nga1 cha1 lu2 poh` <small>/ŋɑ1 t͡sʰɑ1 lɤɯ2 pʰɔʔ/<sup>泰兴</sup></small> 长叉的夢卜。<sup>\[泰兴\]</sup>  
 1. 【[丫叉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_r.md#丫叉<sub>儿</sub>)】`nga1 cha1 r` <sup>[如皋]</sup> 上端分叉的棒，用以挂、取高处的物件。现为人工制作。  
-1. 【[丫叉小鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_xio_guei.md#丫叉小鬼)】`nga1 cha1 xio3 guei3` <sup>[泰兴]</sup> 小鬼。传说小鬼头上长叉。  
-1. 【[丫丫叉叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_nga_cha_cha.md#丫丫叉叉)】`nga1 nga1 cha1 cha1` <sup>[泰兴]</sup> 杂乱交叉的样子。  
+1. 【[丫叉小鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_cha_xio_guei.md#丫叉小鬼)】`nga1 cha1 xio3 guei3` <small>/ŋɑ1 t͡sʰɑ1 ɕiɔ3 kuəɪ3/<sup>泰兴</sup></small> 小鬼。传说小鬼头上长叉。<sup>\[泰兴\]</sup>  
+1. 【[丫丫叉叉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_nga_cha_cha.md#丫丫叉叉)】`nga1 nga1 cha1 cha1` <small>/ŋɑ1 ŋɑ1 t͡sʰɑ1 t͡sʰɑ1/<sup>泰兴</sup></small> 杂乱交叉的样子。<sup>\[泰兴\]</sup>  
 1. 【[丫求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#丫求)】`nga1 qieu2` <sup>[泰县]</sup> 巴结。  
 1. 【[丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#丫<sub>儿</sub>)】`nga1 r` <sup>[如皋]</sup> ① 相当于几分之几：三～肚里两～。 ② 瓣：橘子～。 ③ 身体上某些相夹的结合处：嘴～、手～、脚～、耳头～。  
 1. 【[丫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu.md#丫头)】`nga1 teu` <small>/ŋa1 tʰei/<sup>如皋</sup>, /ŋɑ1 tʰəɪ/<sup>泰兴</sup></small> ① 女儿<sup>\[如东\]</sup><sup>\[泰州\]</sup>\[如皋：昵称女儿。\]：他家三个新妇养的都是～/都是女儿（相对于“小伙”）<sup>\[泰州\]</sup> ② 泛指女孩子，或称呼女孩子<sup>\[如东\]</sup><sup>\[东台\]</sup>\[如皋：旧时女孩在项两侧梳妑妑儿，头脑后垂长发，象“丫”字，因称女孩为～。但有感情色彩和身份。\]\[泰兴：旧时女孩头上常梳丫形发髻，故名。\] ③ 年轻女子<sup>\[如东\]</sup>\[泰州：泛指青年女子，带有些许蔑义\]\[如皋：贬、昵称青少年女性。\]：这个～竟然也当吖干部唻。<sup>\[泰州\]</sup> ④ 丫环的俗称。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ⑤ 长辈对小辈妇女的昵称<sup>\[泰州\]</sup>\[泰兴：如贾母称风姐为“凤丫头”。\]：我家这个细～也当吖妈妈唻。<sup>\[泰州\]</sup>  
 1. 【[丫头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_hua.md#丫头话)】`nga1 teu hua6` <small>/ŋa1 tʰei xua1/<sup>如皋</sup>, /a1 tʰɤɯ xua1/<sup>泰县</sup></small> ① 说话不算数，显得不敢负责，无胆识。<sup>\[如皋\]</sup> ② 不算数的话。<sup>\[泰县\]</sup> ③ 反悔的话<sup>\[泰州\]</sup>：刚才答应人家的，现在又说～，就没得意思唻。<sup>\[泰州\]</sup>  
 1. 【[丫头𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_paen_zz.md#丫头𤖭子)】`nga1 teu paen2 zz` <sup>[兴化]</sup> 对女孩的轻蔑称呼。  
 1. 【[丫头婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_pu_nian.md#丫头婆娘)】`nga1 teu pu2 nian` <sup>[兴化]</sup> 泛指未婚和已婚妇女。  
-1. 【[丫头人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_ren_ga.md#丫头人家)】`nga1 teu ren2 ga1` <sup>[泰兴]</sup> 女孩。含轻蔑意。  
+1. 【[丫头人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_teu_ren_ga.md#丫头人家)】`nga1 teu ren2 ga1` <small>/ŋɑ1 tʰəɪ ɻəŋ2 kɑ1/<sup>泰兴</sup></small> 女孩。含轻蔑意。<sup>\[泰兴\]</sup>  
 1. 【[丫须](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_xy.md#丫须)】`nga1 xy1` <sup>[东台]</sup> 用竹篾编成捕鳝鱼的工具，鳝鱼游进去就出不来。  
 1. 【[丫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#丫子)】`nga1 zz` ① 沙滩上的小型沟槽，称丫子。<sup>\[如东\]</sup> ② 指潮水沟，港的分汊。<sup>\[东台\]</sup>  
 1. 【[桠巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_ba.md#桠巴)】`nga1 ba` <sup>[兴化]</sup> ① 树干的分权处：谚曰：多个～多个节。 ② 两腿内侧的交汇处：这个鬼形不能见小叔子，裤子卷到大腿～，成何体统呀？（《武松》四）  
@@ -309,7 +309,7 @@
 1. 【[鸦片](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_pin.md#鸦片)】`nga1 pin5` <sup>[如东]</sup> 罂粟科植物罂粟果实中液汁凝固而成，通称大烟。  
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah` <sup>[如皋]</sup> 乌鸦。  
 1. 【[鸦鹊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qiah.md#鸦鹊)】`nga1 qiah7` 喜鹊  
-1. 【[鸦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#鸦子)】`nga1 zz` <sup>[泰兴]</sup> 鸬鹚。经驯养后会捕鱼的禽类动物。  
+1. 【[鸦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_zz.md#鸦子)】`nga1 zz` <small>/ŋɑ1 t͡sɿ/<sup>泰兴</sup></small> 鸬鹚。经驯养后会捕鱼的禽类动物。<sup>\[泰兴\]</sup>  
 1. 【[□求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_qieu.md#□求)】`nga2 qieu2` <sup>[泰州]</sup> 在他人明确表示否定的情况下，乞求他人满足自己愿望：他已经回啊你，你还再去～他，何苦自讨没趣㖸？  
 1. 【[伢花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_hua_r.md#伢花<sub>儿</sub>)】`nga2 hua1 r` <small>/ŋɑ2 xuɑ˞1/<sup>泰兴</sup></small> 幼小的孩子。<sup>\[泰兴\]</sup>  
 1. 【[伢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nga_r.md#伢<sub>儿</sub>)】`nga2 r` <small>/ŋa˞2/<sup>如皋</sup>, /ŋɑ˞2/<sup>泰兴</sup>, /a2 ɚ/<sup>泰县</sup></small> ① 小孩<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他家～今年小学毕业。<sup>\[泰州\]</sup>｜惯～<sup>\[泰兴\]</sup> ② 对小孩的称呼。<sup>\[如东\]</sup> ③ 指未结婚的青年男女，多作长者对晚辈的昵称。<sup>\[泰州\]</sup>  

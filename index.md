@@ -432,7 +432,7 @@
 1. 【[拿魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/na_huen.md#拿魂)】`na2 huen2` <small>/la2 xuən2/<sup>兴化</sup>, /na2 xuəŋ2/<sup>如皋</sup>, /nɑ2 xuəŋ2/<sup>泰兴</sup>, /na2 xuəŋ2/<sup>泰县</sup></small> ① 重要、需要、关键<sup>\[如皋\]</sup>：中午的一顿饭最～。<sup>\[如皋\]</sup> ② 魂就是人的生命。比喻关键所在。<sup>\[如东\]</sup>：这场官司，～吖！<sup>\[如东\]</sup> ③ 最有分量、能左右局势的部分<sup>\[东台\]</sup>：他业务精，尤以财务～。<sup>\[东台\]</sup> ④ 抓住关键<sup>\[兴化\]</sup>：一年到头就在这刻儿～。<sup>\[兴化\]</sup> ⑤ 起关键作用<sup>\[兴化\]</sup>：这许就靠你～哎。<sup>\[兴化\]</sup> ⑥ 出主意<sup>\[泰县\]</sup>：这桩事靠他～。<sup>\[泰县\]</sup> ⑦ 比喻在事务或者事件中起主导和决定作用<sup>\[泰州\]</sup>：这次比赛全靠老李～。<sup>\[泰州\]</sup>｜昨朝晚上老李请客，上啊四条半斤重的刀鱼，一桌菜就数它～。<sup>\[泰州\]</sup> ⑧ 起主要作用<sup>\[泰兴\]</sup>：我佼小组就靠他～<sup>\[泰兴\]</sup>  
 [更多...](./n.md)
 ## O
-1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <sup>[泰兴]</sup> 助词。表示催促。读音因前字韵尾而不同：快点走～（o）。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <small>/ɔ/<sup>泰兴</sup></small> 助词。表示催促。读音因前字韵尾而不同。<sup>\[泰兴\]</sup>：快点走～（o）。<sup>\[泰兴\]</sup>  
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
@@ -462,6 +462,7 @@
 1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` ① 意外得来的巨额钱财。<sup>\[东台\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
 1. 【[横叉舞棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cha_v_guen.md#横叉舞棍)】`on2 cha1 v3 guen5` <sup>[东台]</sup> 指搬放运或放置东西时比较毛糙，到处碰碰打打。也作“横枪舞棍”。  
 1. 【[横长竖大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chan_shv_da.md#横长竖大)】`on2 chan2 shv6 da6` <sup>[兴化]</sup> ① 形容物体体积大，隔占地方：这张柜子～的，没处放。 ② 形容人身材高大：儿子～的朝面前一站，多威武啊！  
+1. 【[横档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_dan.md#横档)】`on2 dan5` <sup>[如东]</sup> 门两头的横条木。  
 [更多...](./o.md)
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
@@ -570,7 +571,7 @@
 1. 【[洒光照亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_guan_zho_lian.md#洒光照亮的)】`sa3 guan1 zho5 lian6 dii` <sup>[如皋]</sup> 见“洒亮的”。  
 1. 【[洒花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_hua.md#洒花)】`sa3 hua1` <sup>[兴化]</sup> 即绣花：……打开看时，却是一条白绫～汗巾，系着一副银挑牙；一双大红～褶衣……（《梼杌闲评》四）  
 1. 【[洒杨柳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_ian_lieu_shuei.md#洒杨柳水)】`sa3 ian2 lieu3 shuei3` <sup>[东台]</sup> 本指观音菩萨用杨柳枝蘸净水洒向人间。［喻］平均分配，让大家都得到点好处。  
-1. 【[洒乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lah.md#洒乐)】`sa3 lah` <sup>[泰兴]</sup> 潇洒享受。有时指挥霍享受。  
+1. 【[洒乐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lah.md#洒乐)】`sa3 lah` <small>/sɑ3 lɑʔ/<sup>泰兴</sup></small> 潇洒享受。有时指挥霍享受。<sup>\[泰兴\]</sup>  
 1. 【[洒落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lah.md#洒落)】`sa3 lah` 明亮宽敞<sup>\[泰州\]</sup>：平房就是好，你望他家这个天井多～咖。<sup>\[泰州\]</sup>  
 1. 【[洒亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lian.md#洒亮)】`sa3 lian6` ① 明亮，光照非常明亮<sup>\[泰州\]</sup>：这个灯泡儿100支光，地下照得～的。<sup>\[泰州\]</sup> ② 器物光鉴照人的样子<sup>\[泰州\]</sup>：他把钢种锅子擦得～的。<sup>\[泰州\]</sup>｜玻璃擦得～的。<sup>\[泰州\]</sup>  
 1. 【[洒亮的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sa_lian_dii.md#洒亮的)】`sa3 lian6 dii` <small>/sa3 liã1 tei/<sup>如皋</sup></small> ① 很亮。<sup>\[如皋\]</sup> ② 很光洁。<sup>\[如皋\]</sup> ③ 很耀眼。<sup>\[如皋\]</sup> ④ 形容非常亮堂、闪光。<sup>\[东台\]</sup>  
@@ -592,6 +593,8 @@
 1. 【[腮巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ba_zz.md#腮巴子)】`sae1 ba1 zz` <sup>[如皋]</sup> 脸颊外侧：他～上满是胡子。  
 1. 【[腮帮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_r.md#腮帮<sub>儿</sub>)】`sae1 ban1 r` <sup>[如东]</sup> 面部颧骨以下部分。  
 1. 【[腮帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_zz.md#腮帮子)】`sae1 ban1 zz` <small>/sɛ1 pã1 t͡sɿ/<sup>如皋</sup></small> ① 脸颊内侧<sup>\[如皋\]</sup>：～上有啊疳疮，疼得没魂。<sup>\[如皋\]</sup> ② 见“颌腮”。<sup>\[如皋\]</sup>  
+1. 【[腮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_roh.md#腮肉)】`sae1 roh8` <sup>[如皋]</sup> ① 咀嚼肌。 ② 猪头肉中腮部的精肉团。  
+1. 【[赛如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_rv.md#赛如)】`sae5 rv` <small>/sɛ5 lu/<sup>兴化</sup>, /sɛ5 ɻu/<sup>如皋</sup></small> ① 如同<sup>\[如皋\]</sup>：伢儿吃咖，～我吃咖。他到场就～我到场。<sup>\[如皋\]</sup> ② 见“煞如”。<sup>\[如皋\]</sup> ③ 胜过、超过<sup>\[兴化\]</sup>：大顾虽说是个庄子，～小集镇。<sup>\[兴化\]</sup> ④ 犹如、就像<sup>\[兴化\]</sup>：“‘阁王好见，小鬼难当’。他们这些人～就是些小鬼，你同他们缠些什么……”（《官场现形记》三五）也作“胜如”。<sup>\[兴化\]</sup> ⑤ 如同，就像<sup>\[泰州\]</sup>：我家爸爸成天只顾忙他单位上的事，家里的事都不问，这个家里有他～没得他。<sup>\[泰州\]</sup>  
 [更多...](./s.md)
 ## T
 1. 【[他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta.md#他)】`ta1` 他，第三人称。  
