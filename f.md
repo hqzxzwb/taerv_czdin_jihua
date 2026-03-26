@@ -145,7 +145,7 @@
 1. 【[番茄<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_qia_r.md#番茄<sub>儿</sub>)】`faen1 qia2 r` 番茄  
 1. 【[番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y.md#番芋)】`faen1 y` <sup>[如皋]</sup> 甘薯。  
 1. 【[番芋饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_bien_r.md#番芋饼<sub>儿</sub>)】`faen1 y bien3 r` <sup>[如皋]</sup> 番芋和面粉做成的饼。  
-1. 【[番芋片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_pin_zz.md#番芋片子)】`faen1-fae1 y pin5 zz` <sup>[泰兴]</sup> 同“山芋片子”。  
+1. 【[番芋片子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_pin_zz.md#番芋片子)】`faen1 y pin5 zz` <small>/fɛ1 y pʰĩ5 t͡sɿ/<sup>泰兴</sup></small> 同“山芋片子”。<sup>\[泰兴\]</sup>  
 1. 【[番芋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y.md#番芋)】`faen1 y6` 地瓜  
 1. 【[番芋花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_y_hua.md#番芋花)】`faen1 y6 hua1` <sup>[如皋]</sup> 大丽花。  
 1. 【[翻把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ba.md#翻把)】`faen1 ba3` <sup>[兴化]</sup> ① 被打败的一方重占上风：鬼子上次扫荡吃咖亏，心里老想下来～。 ② 对所作承诺或说过的话不认账：他前朝才打的保证，今朝就～。  
@@ -494,7 +494,7 @@
 1. 【[放定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_tien.md#放定)】`fan5 tien6` <small>/fɑŋ5 tʰiŋ1/<sup>泰兴</sup></small> 旧俗订婚时，男方给女方送定婚礼物。<sup>\[泰兴\]</sup>  
 1. 【[放毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_toh.md#放毒)】`fan5 toh8` <sup>[如东]</sup> ① 在面条、菜肴等食品中下毒。 ② 在河水、井水中下毒。 ③ 比喻说坏话：不要到处～。 ④ 比喻香烟烟雾弥漫，污染环境。  
 1. 【[放哇子召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_va_zz_cho.md#放哇子召)】`fan5 va2 zz cho6` <sup>[如皋]</sup> 状大声哭闹。  
-1. 【[放下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xia_shuei.md#放下水)】`fan5 xia6 shuei` <sup>[泰兴]</sup> 指暗中泄漏消息，以助对方。  
+1. 【[放下水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xia_shuei.md#放下水)】`fan5 xia6 shuei` <small>/fɑŋ5 ɕiɑ1 suəɪ/<sup>泰兴</sup></small> 指暗中泄漏消息，以助对方。<sup>\[泰兴\]</sup>  
 1. 【[放学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xiah.md#放学)】`fan5 xiah8` <sup>[如东]</sup> ① 学校里半天或一天课程完成后，学生回家。 ② 学校里放假。  
 1. 【[放响炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xian_po_zhan.md#放响炮仗)】`fan5 xian3 po5 zhan` <sup>[兴化]</sup> ① 说大方话，行大方事：你今朝放个响炮仗，免得老有人说你小气。 ② 爽快地答应：今吖要他叫人，他放吖个响炮仗。  
 1. 【[放响炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fan_xian_po_zhan.md#放响炮仗)】`fan5 xian3 po5 zhan5` <small>/fã5 ɕiã3 pʰɔ5 t͡sã5/<sup>如皋</sup>, /fɑŋ5 ɕiɑŋ3 pʰɔ5 t͡sɑŋ5/<sup>泰兴</sup></small> ① 喻对某事表态迅速、干脆。<sup>\[如皋\]</sup> ② 比喻吝啬的人做出慷慨举动<sup>\[泰州\]</sup>：老王这个小气鬼今吖子～，他加小伙靠上吖重点高中，晚上请同事在酒店吃饭。<sup>\[泰州\]</sup> ③ 喻办事顺利成功；得头彩。<sup>\[泰兴\]</sup>：你箇一回去肯定～<sup>\[泰兴\]</sup>  
@@ -526,7 +526,7 @@
 1. 【[非亲即故](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_qien_jieh_gv.md#非亲即故)】`fei1 qien1 jieh7 gv5` <sup>[东台]</sup> 不是亲戚也是朋友。  
 1. 【[飞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#飞)】`fei1` <small>/fəi1/<sup>兴化</sup></small> ① 除一般释义外，特指孩子撒娇、调皮<sup>\[东台\]</sup>：这小伙有点儿～。<sup>\[东台\]</sup> ② 非常<sup>\[兴化\]</sup>：～开；～滚。<sup>\[兴化\]</sup> ③ 飘起<sup>\[兴化\]</sup>：头发～啊头上。<sup>\[兴化\]</sup>  
 1. 【[飞不起、跳不高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_beh_qi_tio.md#飞不起、跳不高)】`fei1 beh7 qi3 tio5 beh7 go1` <sup>[兴化]</sup> ① 处于困境：小春住进医院，像小鸟关在笼里，～。（马春阳《两个小社员》） ② 行动缓慢：……你们府上这一位千金小姐……飞也飞不起，跳也跳不高，别人两步走的路他要分作三步走……（《广陵潮》二四）  
-1. 【[飞不起，跳不高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_beh_qi_tio.md#飞不起，跳不高)】`fei1 beh7 qi3 tio5 beh7 go1` <sup>[泰兴]</sup> 谓处于贫穷、落后的状态，无力振作有为。  
+1. 【[飞不起，跳不高](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_beh_qi_tio.md#飞不起，跳不高)】`fei1 beh7 qi3 tio5 beh7 go1` <small>/fəɪ1 pəʔ7 t͡ɕʰʝ3 tʰiɔ5 pəʔ7 kɔ1/<sup>泰兴</sup></small> 谓处于贫穷、落后的状态，无力振作有为。<sup>\[泰兴\]</sup>  
 1. 【[飞边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bin.md#飞边)】`fei1 bin1` <sup>[泰州]</sup> 围绕器物边缘一圈超出主体部分：他脚上穿吖一双～松紧口鞋子。  
 1. 【[飞边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bin_zz.md#飞边子)】`fei1 bin1 zz` <sup>[兴化]</sup> 物体边沿大出主体部分：～走鞋；～大碗。  
 1. 【[飞飞啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_fei_a.md#飞飞啊)】`fei1 fei1 a` <sup>[东台]</sup> 多指女孩子行为不拘，性格开放，无拘束。  
