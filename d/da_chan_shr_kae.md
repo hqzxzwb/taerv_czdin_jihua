@@ -5,8 +5,8 @@ da6 chan3 shr6 kae1
 
 # 大敞市开
 da6 chan shr6 kae1
-> 泰兴方言辞典
-- 谓门洞大开。
++ 谓门洞大开。
+  * 泰兴方言辞典
 
 # 大敞市开的
 da6 chan3 shr6 kae1 dii
