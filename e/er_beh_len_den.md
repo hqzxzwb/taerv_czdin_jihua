@@ -6,8 +6,8 @@ er6 beh7 len6 den1 dii
 
 # 二不愣登
 er6 beh7 len6 den1
-> 泰兴方言辞典
-- 愣乎乎的样子
++ 愣乎乎的样子
+  * 泰兴方言辞典
 
 # 二不倰僜
 er6 beh len2 den1
