@@ -143,7 +143,7 @@
 1. 【[解手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_sheu.md#解手)】`gae3 sheu3` ① 小便。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 指大小便。<sup>\[东台\]</sup>  
 1. 【[解套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_to.md#解套)】`gae3 to5` <sup>[如皋]</sup> 破解圈套，脱离困苦。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_vae.md#解怀)】`gae3 vae2` <small>/kɛ3 ʋɛ2/<sup>如皋</sup></small> ① 解开胸怀以哺乳。指生第一胎<sup>\[如皋\]</sup>：她十八岁～；哪个女的不曾解过怀。<sup>\[如皋\]</sup> ② 女子第一次怀孕、生育。<sup>\[东台\]</sup>  
-1. 【[解小手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xio_sheu.md#解小手)】`gae3 xio3 sheu3` <sup>[泰兴]</sup> 小便。  
+1. 【[解小手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xio_sheu.md#解小手)】`gae3 xio3 sheu3` <small>/kɛ3 ɕiɔ3 ɕiɤɯ3/<sup>泰兴</sup></small> 小便。<sup>\[泰兴\]</sup>  
 1. 【[解着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_zhah.md#解着)】`gae3 zhah7` <small>/kɛ3 t͡saʔ7/<sup>兴化</sup></small> ① 化解难题的方法，多用在弈棋、武功招数等方面<sup>\[兴化\]</sup>：他玩的杀着，～不多。<sup>\[兴化\]</sup>｜你不要以为你这一棍子厉害，没有～，哈哈，我还有一手哩。（《武松》十）<sup>\[兴化\]</sup> ② 用神法消灾的迷信术语。（原文作“改作”）<sup>\[东台\]</sup> ③ 围棋、象棋术语，化解对方进攻的一步棋，引申指解决当前难题的办法或措施<sup>\[泰州\]</sup>：事情到啊这一步就没得～吤，听天由命吧。<sup>\[泰州\]</sup>  
 1. 【[戒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae.md#戒)】`gae5` <sup>[东台]</sup> 革除某种不良嗜好。  
 1. 【[戒方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_fan.md#戒方)】`gae5 fan1` <sup>[兴化]</sup> ① 旧时塾师对学童实施体罚用的小木方。 ② 用于镇纸的小木方。  
@@ -969,7 +969,7 @@
 1. 【[公丁香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dien_xian.md#公丁香)】`gon1 dien1 xian1` <sup>[如皋]</sup> 丁香花的一种，花形像男阴，可钓鱼。  
 1. 【[公对公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_dy_gon.md#公对公)】`gon1 dy5 gon1` <sup>[泰州]</sup> 公家的事对公家的事，处理过程之中必须按规定办理，不含私人因素：这件事～，他想帮你也没法子办。｜价钱你不要客气，大家是～，只要在谱子上都好说。  
 1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <small>/koŋ1 fən6/<sup>兴化</sup>, /kɔŋ1 fəŋ1/<sup>如皋</sup>, /kɔŋ1 fəŋ1/<sup>泰兴</sup></small> ① 集体办事，各人应占份额<sup>\[如皋\]</sup>：摊～。<sup>\[如皋\]</sup> ② 大家出钱请客、送礼<sup>\[兴化\]</sup>：全科的人出～为科长送行。<sup>\[兴化\]</sup> ③ 大家为请客、送礼共同合的钱物。<sup>\[泰兴\]</sup>：临走的那天中午，同事们凑～搝lei一桌菜为他饯行。<sup>\[泰兴\]</sup>  
-1. 【[公分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公分)】`gon1 fen6` <sup>[泰州]</sup> 代表多人出的贺礼或贺钱：老李家儿子结婚，我俫五个人出个～吧。  
+1. 【[公份](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#公份)】`gon1 fen6` <sup>[泰州]</sup> 代表多人出的贺礼或贺钱：老李家儿子结婚，我俫五个人出个～吧。  
 1. 【[公公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_gon.md#公公)】`gon1 gon1` <sup>[如皋]</sup> 外祖父。  
 1. 【[公话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_hua.md#公话)】`gon1 hua6` <small>/kɔŋ1 xua1/<sup>如皋</sup></small> 公平话、公正话或为大家说的话。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：到底怪哪个不好，老李你要讲个～。<sup>\[泰州\]</sup>  
 1. 【[公蚶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_hun_zz.md#公蚶子)】`gon1 hun1 zz` <sup>[如东]</sup> 蛤蜊科动物西施舌。  
@@ -1022,17 +1022,17 @@
 1. 【[宫碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_un_r.md#宫碗<sub>儿</sub>)】`gon1 un3 r` <small>/kɔŋ1 ʊ˞3/<sup>如皋</sup>, /koŋ1 õ3 ɚ/<sup>泰县</sup></small> ① 一种精致的反边小碗。<sup>\[如皋\]</sup> ② 很小的碗。<sup>\[泰县\]</sup>  
 1. 【[工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_chen.md#工程)】`gon1 chen` <small>/koŋ1 t͡sʰən/<sup>兴化</sup>, /kɔŋ1 t͡sʰəŋ/<sup>泰兴</sup></small> ① 工夫<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：我等你的～自己倒做好啊。<sup>\[兴化\]</sup>｜“……正是买卖不成，担误～……”（《古今小说》一）<sup>\[兴化\]</sup> ② 程度，地步，境地<sup>\[泰兴\]</sup>  
 1. 【[工程](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_chen.md#工程)】`gon1 chen2` <sup>[如皋]</sup> 辛劳、时间：领伢儿从小到大是水磨的～。  
-1. 【[工分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#工分)】`gon1 fen1` <sup>[泰兴]</sup> 农业生产合作社、人民公社期间（公元1956年—1980年）计算社员工作量和劳动报酬的单位：大呼隆的时候，我一天只挣到10个～，才几角钱。  
+1. 【[工分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fen.md#工分)】`gon1 fen1` <small>/kɔŋ1 fəŋ1/<sup>泰兴</sup></small> 农业生产合作社、人民公社期间（公元1956年—1980年）计算社员工作量和劳动报酬的单位。<sup>\[泰兴\]</sup>：大呼隆的时候，我一天只挣到10个～，才几角钱。<sup>\[泰兴\]</sup>  
 1. 【[工夫钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fv_qin.md#工夫钱)】`gon1 fv qin2` <sup>[兴化]</sup> 指产品中所含人工及技术的价格：这东西本钱不大，我卖的～。｜修旧服务寻的～。  
 1. 【[工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fv.md#工夫)】`gon1 fv1` <small>/koŋ1 fu1/<sup>兴化</sup></small> ① 时间。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：今朝没得～。<sup>\[如东\]</sup>｜他这两天天天加班，哪块有～陪你打牌啊。<sup>\[泰州\]</sup> ② 时候<sup>\[兴化\]</sup>：我俫当学生那～，比现在苦多啊。<sup>\[兴化\]</sup> ③ 涵养。也作“功夫”。<sup>\[兴化\]</sup>：你这吖骂他，他一声不响，～真好<sup>\[兴化\]</sup> ④ 从事某项工作所耗时间、精力<sup>\[泰州\]</sup>：他家这回房子的装修花啊～，确实装得好。<sup>\[泰州\]</sup>  
 1. 【[工夫大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fv_da.md#工夫大)】`gon1 fv1 da6` <sup>[如东]</sup> 比喻工程艰巨，花费的精力和时间多：围海造堤～。  
 1. 【[工夫钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_fv_qin.md#工夫钱)】`gon1 fv1 qin2` <sup>[泰州]</sup> 产品中蕴含的人工所耗精力、技术和时间的价值：你不要心太黑，这张椅子顶多就收啊你个～。  
-1. 【[工棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pon.md#工棚)】`gon1 pon2` <sup>[泰兴]</sup> 工地上临时搭起来供工作和住宿的简易房子。  
+1. 【[工棚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pon.md#工棚)】`gon1 pon2` <small>/kɔŋ1 pʰɔŋ2/<sup>泰兴</sup></small> 工地上临时搭起来供工作和住宿的简易房子。<sup>\[泰兴\]</sup>  
 1. 【[工钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qin.md#工钱)】`gon1 qin2` <sup>[如东]</sup> ① 工资。 ② 做零活的报酬。  
 1. 【[工人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_ren.md#工人)】`gon1 ren2` <sup>[如东]</sup> 个人不占有生产资料、依靠工资收入为生的劳动者（多指体力劳动者）。  
 1. 【[工资](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_zz.md#工资)】`gon1 zz1` <sup>[如东]</sup> 作为劳动报酬按期付给劳动者的货币或实物。  
 1. 【[弓尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_cheh.md#弓尺)】`gon1 cheh7` <sup>[如东]</sup> 丈量土地的工具。也称步弓。木制，弧形，两足向外张开，上端有一抓手。宽度五尺。  
-1. 【[弓腰驼背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_io_tu_bei.md#弓腰驼背)】`gon1 io1 tu2 bei5` <sup>[泰兴]</sup> 弓着腰，驼着背，仪表不美：箇个～的样子，真难看。  
+1. 【[弓腰驼背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_io_tu_bei.md#弓腰驼背)】`gon1 io1 tu2 bei5` <small>/kɔŋ1 iɔ1 tʰɤɯ2 pəɪ5/<sup>泰兴</sup></small> 弓着腰，驼着背，仪表不美。<sup>\[泰兴\]</sup>：箇个～的样子，真难看。<sup>\[泰兴\]</sup>  
 1. 【[恭桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_ton.md#恭桶)】`gon1 ton3` ① 马桶。也叫便桶。<sup>\[如东\]</sup> ② 马桶的别称。<sup>\[东台\]</sup> ③ 一种上有提梁的马桶。<sup>\[泰州\]</sup>  
 1. 【[恭维不暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_vei_beh_xia.md#恭维不暇)】`gon1 vei2 beh7 xia2` ① 无休止地奉承、讨好，或关心、爱护<sup>\[东台\]</sup>：他对客商～。<sup>\[东台\]</sup> ② 用言行表示称赞、颂扬还来不及<sup>\[泰州\]</sup>：你头一次上亲家家里去，人家同你自然是～。<sup>\[泰州\]</sup>  
 1. 【[恭喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_xi.md#恭喜)】`gon1 xi3` <sup>[如皋]</sup> 出天花的避讳称。  
@@ -1057,7 +1057,7 @@
 1. 【[拱手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_sheu.md#拱手)】`gon3 sheu3` <sup>[泰州]</sup> ① （泰州拱作阴去） ② 一种取暖方法，双手交叉，插进两边袖管，双手抬至胸前与古人“拱手”同，故名。 ③ 比喻不干具体事情的人：这两天大家都忙吖不得命，他老人家照样天天～。  
 1. 【[拱头车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_teu_cha_zz.md#拱头车子)】`gon3 teu2 cha1 zz` <small>/kɔŋ3 tʰəɪ2 t͡sʰɑ1 t͡sɿ/<sup>泰兴</sup></small> 平面独轮小木车。区别于“山车”。东乡人多称小车子。<sup>\[泰兴\]</sup>  
 1. 【[拱卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_zueh.md#拱卒)】`gon3 zueh7` <sup>[兴化]</sup> 象棋术语，指兵卒前进一步。  
-1. 【[𥧂井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_jien.md#𥧂井)】`gon3 jien3` <sup>[泰兴]</sup> 打井，掘井  
+1. 【[𥧂井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_jien.md#𥧂井)】`gon3 jien3` <small>/kɔŋ3 t͡ɕiŋ3/<sup>泰兴</sup></small> 打井，掘井<sup>\[泰兴\]</sup>  
 1. 【[𥧂墓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_mu.md#𥧂墓)】`gon3 mu6` <sup>[如皋]</sup> 盗挖坟墓。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#□)】`gon5` <sup>[泰县]</sup> 结：～吖仇。  
 1. 【[供](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon.md#供)】`gon5` <small>/kɔŋ5/<sup>泰兴</sup></small> ① 祭祀，奉祀<sup>\[泰兴\]</sup>：～祖宗亡人<sup>\[泰兴\]</sup> ② 骂人语，指坐<sup>\[泰兴\]</sup>：他～吖在那许不动<sup>\[泰兴\]</sup>  
@@ -1169,10 +1169,9 @@
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
 1. 【[个个时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_shr_shen.md#个个时辰)】`gu5 gu5 shr2 shen2` <small>/kɤɯ5 kɤɯ5 sɿ2 səŋ2/<sup>泰兴</sup></small> 每时每刻<sup>\[泰兴\]</sup>  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu5 ren2` <sup>[东台]</sup> ① 一个人（跟“集体”相对）：～利益服从集体利益。 ② 自称，本人：～认为企业改制宜早不宜迟。  
-1. 【[个头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#个头)】`gu5 teu` <sup>[泰兴]</sup> 个子。  
 1. 【[个着<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhah_r.md#个着<sub>儿</sub>)】`gu5 zhah7 r` <sup>[如皋]</sup> 人的身材，身高和壮瘦。  
 1. 【[个壮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zhuan.md#个壮)】`gu5 zhuan5` <sup>[东台]</sup> 人的个子或物体的体量。  
-1. 【[个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#个子)】`gu5 zz` <sup>[泰兴]</sup> 人的身材高矮。  
+1. 【[个子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#个子)】`gu5 zz` <small>/kɤɯ5 t͡sɿ/<sup>泰兴</sup></small> 人的身材高矮。<sup>\[泰兴\]</sup>  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu5 cen2` <sup>[东台]</sup> 有没有进行：你～吃？  
 1. 【[哿谈到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_taen_do.md#哿谈到)】`gu5 taen2 do5` <sup>[东台]</sup> （口头禅）意思是完全正确，还有什么疑问吗：甲说某人字写得好，乙说～，人家是著名书法家。  
 1. 【[哿凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xion.md#哿凶)】`gu5 xion1` <sup>[东台]</sup> 意思是“身体好吗？”（参见“凶”）  
@@ -1282,9 +1281,9 @@
 1. 【[个钱如个肉丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qin_rv_gu.md#个钱如个肉丁<sub>儿</sub>)】`gu9 qin2 rv2 gu9 roh8 dien1 r` <sup>[东台]</sup> 形容把钱看得太重。  
 1. 【[个钱如肉丁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qin_rv_roh.md#个钱如肉丁<sub>儿</sub>)】`gu9 qin2 rv2 roh8 dien1 r` <sup>[如皋]</sup> 状十分吝啬小气。  
 1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2` <sup>[东台]</sup> 每人；一个人：现在发练习簿，～五本。  
-1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2, gu9 ren` <sup>[泰兴]</sup> 一个人。单独的。  
+1. 【[个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ren.md#个人)】`gu9 ren2, gu9 ren` <small>/kɤɯ1 ɻəŋ2/<sup>泰兴</sup></small> 一个人。单独的。<sup>\[泰兴\]</sup>  
 1. 【[个如个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_rv_gu_dii.md#个如个的)】`gu9 rv2 gu9 dii` <sup>[东台]</sup> 一个个；每一个：这批苹果质量好，你看，～，光洁整齐｜听到噩耗，～吓咖痴啊。  
-1. 【[个说个看，抵到个半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuh_gu_kun.md#个说个看，抵到个半)】`gu9 shuh7 gu9 kun5 di3 do5 gu9 bun5` <sup>[泰兴]</sup> 参见“一个烧香一个拜”。  
+1. 【[个说个看，抵到个半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuh_gu_kun.md#个说个看，抵到个半)】`gu9 shuh7 gu9 kun5 di3 do5 gu9 bun5` <small>/kɤɯ1 sʊʔ7 kɤɯ1 kʰʊ̃5 t͡ɕʝ3 tɔ5 kɤɯ1 pʊ̃5/<sup>泰兴</sup></small> 参见“一个烧香一个拜”。<sup>\[泰兴\]</sup>  
 1. 【[个数个的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shv_gu_dii.md#个数个的)】`gu9 shv5 gu9 dii` <sup>[如皋]</sup> 一个一个的。“个”有变调。  
 1. 【[呱里呱啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_lii_gua_la.md#呱里呱啦)】`gua1 lii gua1 la1` <sup>[兴化]</sup> 形容人言语过多：他一天到晚～的。  
 1. 【[瓜菜萝卜行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cae_lu_poh.md#瓜菜萝卜行)】`gua1 cae5 lu2 poh han2` <sup>[如皋]</sup> 经营瓜菜萝卜等的商行。  
@@ -1909,8 +1908,8 @@
 1. 【[干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#干)】`gun1` <sup>[东台]</sup> 这里指天干，即甲乙丙丁戊己庚辛壬癸。  
 1. 【[干巴燎礓的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_lio_jian.md#干巴燎礓的)】`gun1 ba lio2 jian1 dii, gun1 ba lio3 jian1 dii` <sup>[如皋]</sup> 又干又硬难吃。  
 1. 【[干巴燎跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_lio_qio.md#干巴燎跷的)】`gun1 ba lio2 qio1 dii` <sup>[如皋]</sup> 见“干巴燎礓的”。  
-1. 【[干巴皵裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_qiah_lih.md#干巴皵裂)】`gun1 ba qiah7 lih8` <sup>[泰兴]</sup> 因过于干燥翘起且裂开。《定海县志》：“表皮或指甲等破损未断俗谓之皵；又竹木等外皮斜起未断亦谓之皵。”：脆烧饼～的，要喝点水才吃得下去。  
-1. 【[干巴塞噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴塞噎)】`gun1 ba seh7 ih7` <small>/kũ1 pa səʔ7 iɪʔ7/<sup>兴化</sup>, /kʊ̃1 pɑ səʔ7 iʔ7/<sup>泰兴</sup></small> 形容食物水份太少，干硬得难以下咽<sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：黄烧饼～的，没得茶水吃不下去。<sup>\[兴化\]</sup>｜午餐没有汤，就这吖～的扒啊几口。<sup>\[东台\]</sup>  
+1. 【[干巴皵裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_qiah_lih.md#干巴皵裂)】`gun1 ba qiah7 lih8` <small>/kʊ̃1 pɑ t͡ɕʰiɑʔ7 liʔ8/<sup>泰兴</sup></small> 因过于干燥翘起且裂开。《定海县志》：“表皮或指甲等破损未断俗谓之皵；又竹木等外皮斜起未断亦谓之皵。”<sup>\[泰兴\]</sup>  
+1. 【[干巴塞噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴塞噎)】`gun1 ba seh7 ih7` <small>/kũ1 pa səʔ7 iɪʔ7/<sup>兴化</sup>, /kʊ̃1 pɑ səʔ7 iʔ7/<sup>泰兴</sup></small> 形容食物水份太少，干硬得难以下咽<sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：黄烧饼～的，没得茶水吃不下去。<sup>\[兴化\]</sup>｜午餐没有汤，就这吖～的扒啊几口。<sup>\[东台\]</sup>｜脆烧饼～的，要喝点水才吃得下去。<sup>\[泰兴\]</sup>  
 1. 【[干巴塞噎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴塞噎的)】`gun1 ba seh7 ih7 dii` <sup>[如皋]</sup> 吃干食而无汤水过口，难噎。  
 1. 【[干巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_ba.md#干巴巴)】`gun1 ba1 ba1` <sup>[东台]</sup> 形容单调无味、不够意思。  
 1. 【[干巴燎𩝽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_lio_qian.md#干巴燎𩝽的)】`gun1 ba1 lio2 qian3 dii` <sup>[如皋]</sup> 形容过于结实：鱼干儿～，要多泡泡水。  
@@ -1921,7 +1920,7 @@
 1. 【[干䢢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can.md#干䢢)】`gun1 can5` <small>/kũ1 t͡sʰaŋ5/<sup>兴化</sup></small> ① 两物相摩擦时不加水冷却、润滑。<sup>\[兴化\]</sup> ② （借）用干毛巾擦拭身上汗垢。<sup>\[兴化\]</sup> ③ 同“干草皮”。<sup>\[兴化\]</sup> ④ 用干毛巾或者挤过水的湿毛巾擦身体<sup>\[泰州\]</sup>：你有好几天不洗澡唻，像这格局在家里～不行，还是到澡堂子里去泡啊子。<sup>\[泰州\]</sup> ⑤ 请人帮忙做事，既不请人吃饭，又不给人报酬<sup>\[泰州\]</sup>：人家为你的事吃咖不少苦，好好的请人家弄一顿，不作兴同人家玩～的。<sup>\[泰州\]</sup>｜他请到人家办事都是～，弄一回还可以，第二回人家就不睬他唻。<sup>\[泰州\]</sup>  
 1. 【[干䢢皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_can_pi.md#干䢢皮)】`gun1 can5 pi2` <sup>[东台]</sup> ［喻］指办事舍不得花一点代价，亦称“玩白大”：人家帮吖这吖大的忙，我总要意思下子表示感谢，不能～吧！  
 1. 【[干糙皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干糙皮)】`gun1 co pi2` <sup>[兴化]</sup> （喻）请人帮忙不付报酬：替他忙吖几天，结果弄个～。  
-1. 【[干草皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干草皮)】`gun1 co3 pi2` <sup>[泰兴]</sup> 用以垫牛、羊、猪圈的干泥。  
+1. 【[干草皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co_pi.md#干草皮)】`gun1 co3 pi2` <small>/kʊ̃1 t͡sʰɔ3 pʰʝ2/<sup>泰兴</sup></small> 用以垫牛、羊、猪圈的干泥。<sup>\[泰兴\]</sup>  
 1. 【[干冬湿年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年)】`gun1 don1 sheh7 nin2` <sup>[东台]</sup> （农谚）冬至这一天不下雨，过春节时往往要下雨。  
 1. 【[干冬湿年，快活种田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_don_sheh_nin.md#干冬湿年，快活种田)】`gun1 don1 sheh7 nin2 kuae5 huh zhon5 tin2` <small>/kʊ̃1 tɔŋ1 səʔ7 nĩ2 kʰuɛ5 xʊʔ t͡sɔŋ5 tʰĩ2/<sup>泰兴</sup></small> 农谚。谓冬至少雨，则春节雨雪多，预示来年庄稼丰收。<sup>\[泰兴\]</sup>  
 1. 【[干儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_er_zz.md#干儿子)】`gun1 er2 zz` <small>/kʊ̃1 ɚ2 t͡sɿ/<sup>泰兴</sup></small> 非亲生、拜自己为干父母的儿子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
@@ -1929,7 +1928,6 @@
 1. 【[干隔涝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_geh_lo.md#干隔涝)】`gun1 geh lo2` <sup>[兴化]</sup> ① 指能吃不能做的懒癀病。 ② 闲汉、懒汉，不三不四的人：他平生专好惜客养闲人，招纳四方～汉子。（《水浒传》二）“涝”也作“痨”。  
 1. 【[干干净净一薄刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_gun_qien_qien.md#干干净净一薄刀)】`gun1 gun1 qien6 qien6 ieh7 pah8 do1` <sup>[东台]</sup> 形容少得可怜，只剩下了很少的物件。  
 1. 【[干咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_haen_cae.md#干咸菜)】`gun1 haen2 cae5` <small>/kʊ̃1 xɛ̃2 t͡ɕʰiɛ5/<sup>泰兴</sup></small> ① 盐渍干菜，又叫梅干菜、霉干菜、蒸咸菜。<sup>\[东台\]</sup> ② 晒干了的咸菜。<sup>\[泰兴\]</sup> ③ 晒干的水咸菜。制法<sup>\[泰州\]</sup>：将水咸菜晒至半干，将卤烧开，烫之；再晒，再烫；直至卤汁烫完，最后晒干，切碎，装坛封口，存放时间越长，颜色越红，味道越香。可以蒸于饭锅，出锅加以香油，直接食用；亦可与猪肉在一起红烧，菜名曰“干咸菜烧肉”，此菜乃是泰州人传统菜肴之一。<sup>\[泰州\]</sup>  
-1. 【[干涸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah.md#干涸)】`gun1 hah` <sup>[泰兴]</sup> 本意干旱厉害，没有水分。借喻穷酸贫苦。《玉如意》第6回：“郝家果然穷干涸，钱家实是有钱人。”  
 1. 【[干藃气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_hah_qi.md#干藃气)】`gun1 hah7 qi5` <sup>[如皋]</sup> 某些物体乾燥后的异味。  
 1. 【[干炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_han.md#干炕)】`gun1 han5` <small>/kʊ̃1 xɑŋ5/<sup>泰兴</sup></small> 谓不雨干热的天气；以火使干、使熟。亦比喻冷落客人、使之尴尬的场面。<sup>\[泰兴\]</sup>  
 1. 【[干齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ji_cae.md#干齑菜)】`gun1 ji1 cae5` <sup>[东台]</sup> 晒干的酸齑菜。  
@@ -1948,12 +1946,12 @@
 1. 【[干吖蠚上去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_nga_hah_shan.md#干吖蠚上去啊)】`gun1 nga hah7 shan qy5 a` <sup>[如皋]</sup> 见“干吖蠚起来啊”。  
 1. 【[干吖露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_nga_lv_shuei.md#干吖露水)】`gun1 nga lv6 shuei3` <sup>[如皋]</sup> 见“露水消掉啊”。  
 1. 【[干碍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ngae.md#干碍)】`gun1 ngae6` <small>/kũ1 ɛ6/<sup>兴化</sup></small> ① 妨碍<sup>\[兴化\]</sup>：你办你的正事，我对你有甚的～？<sup>\[兴化\]</sup> ② 关系<sup>\[兴化\]</sup>：“……只听得差拨口里讷出一句‘高太尉’三个字来。这人莫不写林教头身上有些～……”（《水浒传》十）<sup>\[兴化\]</sup> ③ 阻碍，妨碍<sup>\[泰州\]</sup>：我俫走吧，蹾吖这块～人家做事。<sup>\[泰州\]</sup> ④ 关联，牵连<sup>\[泰州\]</sup>：这件事好像也～到我俫局里的人。<sup>\[泰州\]</sup>  
-1. 【[干女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ny_er.md#干女儿)】`gun1 ny3 er2` <sup>[泰兴]</sup> 拜自己为干父母的女孩子。  
+1. 【[干女儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ny_er.md#干女儿)】`gun1 ny3 er2` <small>/kʊ̃1 ny3 ɚ2/<sup>泰兴</sup></small> 拜自己为干父母的女孩子。<sup>\[泰兴\]</sup>  
 1. 【[干拌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#干拌)】`gun1 pun6` <small>/kũ1 pʰũ6/<sup>兴化</sup>, /kʊ̃1 pʰʊ̃1/<sup>泰兴</sup></small> 面条煮熟后不加汤，直接用佐料、浇头拌和后食用。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[干拌面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun_min.md#干拌面)】`gun1 pun6 min6` <sup>[泰州]</sup> 省称“干拌”。泰州著名大众早点之一，面条煮熟以后，捞至碗中，不加开水或面汤而仅用酱油等作料做佐汤的面。  
 1. 【[干净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#干净)】`gun1 qien` <sup>[东台]</sup> ① 没有尘土、杂质。 ② 比喻一点也不剩。  
 1. 【[干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien_shen_zz.md#干净身子)】`gun1 qien shen1 zz` <sup>[泰州]</sup> 比喻无不良行为，清清白白。  
-1. 【[干亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#干亲)】`gun1 qien1` <sup>[泰兴]</sup> 没有血缘或婚姻关系而结成的亲戚。拜干亲亦为乡间一俗，历久不衰。  
+1. 【[干亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#干亲)】`gun1 qien1` <small>/kʊ̃1 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 没有血缘或婚姻关系而结成的亲戚。拜干亲亦为乡间一俗，历久不衰。<sup>\[泰兴\]</sup>  
 1. 【[干净净<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien_qien_r.md#干净净<sub>儿</sub>的)】`gun1 qien6 qien6 r dii` <sup>[如皋]</sup> 很干净。  
 1. 【[干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien_shen_zz.md#干净身子)】`gun1 qien6 shen1 zz` <sup>[兴化]</sup> 指与某事件无关：他一听说同伙犯事，连忙洗～。  
 1. 【[干挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qin_mo.md#干挦毛)】`gun1 qin2 mo2` <small>/kʊ̃1 t͡ɕʰĩ2 mɔ2/<sup>如皋</sup></small> ① 杀鸡后不用水烫，直接煺毛。<sup>\[如皋\]</sup> ② 吸水烟而烟台中无水。烟力特强。<sup>\[如皋\]</sup> ③ 指才用清水煮熟，没有烹调加工的猪肉。不肥腻。<sup>\[东台\]</sup>  
@@ -1967,9 +1965,9 @@
 1. 【[干丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_sz.md#干丝)】`gun1 sz1` <small>/kũ1 sɿ1/<sup>兴化</sup>, /kʊ̃1 sɿ1/<sup>泰兴</sup></small> 用豆腐干或百页切成的细丝\[泰兴：以水煮后加佐料，即所谓“大煮干丝”。\]\[兴化：烫或煮熟后作佐茶的小菜。也称“小菜子”。\]  
 1. 【[干嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_vah.md#干嗀)】`gun1 vah7` <sup>[泰州]</sup> 呕吐之时，只是发出呕的声音或者只有涎沫吐出而无食物吐出：他这一刻儿心里㽹㽹的，～咖半天，人就是嗀不出来。  
 1. 【[干稀两便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xi_laen_pin.md#干稀两便)】`gun1 xi1 laen3 pin6` <sup>[兴化]</sup> 进餐时，有干饭和稀饭两种主食可供选择。  
-1. 【[干香味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xian_vei.md#干香味)】`gun1 xian1 vei` <sup>[泰兴]</sup> 干制食品的风味  
+1. 【[干香味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xian_vei.md#干香味)】`gun1 xian1 vei` <small>/kʊ̃1 ɕiɑŋ1 ʋəɪ/<sup>泰兴</sup></small> 干制食品的风味<sup>\[泰兴\]</sup>  
 1. 【[干汛里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xien_lii.md#干汛里)】`gun1 xien5 lii` <sup>[如皋]</sup> 天旱无雨。  
-1. 【[干血痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xiuh_lo.md#干血痨)】`gun1 xiuh7 lo2` <sup>[泰兴]</sup> 年青妇女闭经。《醒世姻缘传》第80回：“害的是干血痨，吃汪太医药只是不效，毕竟医治不好，死了。”  
+1. 【[干血痨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xiuh_lo.md#干血痨)】`gun1 xiuh7 lo2` <small>/kʊ̃1 ɕyʊʔ7 lɔ2/<sup>泰兴</sup></small> 年青妇女闭经。<sup>\[泰兴\]</sup>：《醒世姻缘传》第80回：“害的是～，吃汪太医药只是不效，毕竟医治不好，死了。”<sup>\[泰兴\]</sup>  
 1. 【[干雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_xiuh.md#干雪)】`gun1 xiuh7` <small>/kũ1 ɕyuʔ7/<sup>兴化</sup>, /kʊ̃1 ɕyʊʔ7/<sup>如皋</sup></small> ① 下雪不下雨，容易堆积。<sup>\[如皋\]</sup> ② 由于气温低，落地成晶状的雪花。<sup>\[兴化\]</sup> ③ 未融化的积雪。<sup>\[兴化\]</sup>  
 1. 【[干子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zz.md#干子)】`gun1 zz` <sup>[泰州]</sup> 各类豆腐干的泛称。  
 1. 【[棺材本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_cae_ben.md#棺材本)】`gun1 cae ben3` <small>/kũ1 t͡sʰɛ pən3/<sup>兴化</sup></small> ① 老年人为自己预留的丧葬费用<sup>\[兴化\]</sup>：人们私下议论：侉奶奶不卖榆树，她是指着它当～哪。（汪曾祺：《故里杂记》）<sup>\[兴化\]</sup> ② 比喻老人为自己预存的用作丧葬的钱<sup>\[泰州\]</sup>：为啊孙子留学，老爹把～都拿出来啊。<sup>\[泰州\]</sup>  
