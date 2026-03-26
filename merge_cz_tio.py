@@ -50,8 +50,10 @@ def collect_entries(file_content, fname):
     })
   return blocks, entries
 
-def merge_key(cont):
-  return f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}"
+def merge_key(entry):
+  cont = entry['cont']
+  ti_fan_key = "||".join(entry['ti_fan_lines'])
+  return f"raw_text$${cont.raw_text}$$raw_pien_ien$${cont.raw_pien_ien}$$ti_fan$${ti_fan_key}"
 
 def serialize_meaning_as_spec2(meaning):
   lines = [f"+ {meaning.explanation}"]
@@ -95,7 +97,7 @@ def merge_group(group):
 def duplicate_groups(entries):
   conts = defaultdict(list)
   for entry in entries:
-    conts[merge_key(entry['cont'])].append(entry)
+    conts[merge_key(entry)].append(entry)
   return {key: value for key, value in conts.items() if len(value) > 1}
 
 def txct():
