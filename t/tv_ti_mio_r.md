@@ -5,5 +5,5 @@ tv3 ti6 mio6 r
 
 # 土地庙儿没上盖，神气通天
 tv3 ti6 mio6 r meh8 shan6 gae5 shen2 qi ton1 tin1
-> 泰兴方言辞典
-- 歇后语。谓人神采飞扬貌。
++ 歇后语。谓人神采飞扬貌。
+  * 泰兴方言辞典

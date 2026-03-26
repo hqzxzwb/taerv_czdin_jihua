@@ -5,8 +5,8 @@ xio3 bien1 laeh8 zz
 
 # 小兵瘌子
 xio3 bien1 laeh zz
-> 泰兴方言辞典
-- 小兵，普通士兵。
++ 小兵，普通士兵。
+  * 泰兴方言辞典
 
 # 小兵瘌子
 xio3 bien1 laeh8 zz

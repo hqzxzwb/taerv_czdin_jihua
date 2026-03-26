@@ -16,8 +16,8 @@ shen1 shr
 
 # 省世
 shen3 shr
-> 泰兴
-- 节俭
++ 节俭
+  * 泰兴
 
 # 省事
 shen3 shr6
