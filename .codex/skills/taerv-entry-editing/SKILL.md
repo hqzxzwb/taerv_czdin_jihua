@@ -119,3 +119,4 @@ Quick check:
 - Local special readings and source-specific forms are preserved in notes when needed.
 - Example lines stay under the correct义项.
 - No accidental blank lines were introduced between entries.
+- Keep the file's trailing newline. Do not remove the final newline at end of file.
