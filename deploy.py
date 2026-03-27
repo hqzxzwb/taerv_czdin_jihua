@@ -321,6 +321,22 @@ ti_fan_ien_key = {
     '海安': 'hu',
 }
 
+AVAILABLE_TI_FAN_IPA_SOURCES = tuple(
+    source for source in ti_fan_ien_key
+    if callable(getattr(ti_fan_ien_converter, source, None))
+)
+
+def get_sub_meaning_ipa_sources(sub_meaning):
+    source = sub_meaning.source
+    if source == '通用':
+        return AVAILABLE_TI_FAN_IPA_SOURCES
+    if not source:
+        return ()
+    source = shrink_source(source)
+    if callable(getattr(ti_fan_ien_converter, source, None)):
+        return (source,)
+    return ()
+
 def write_page(dirs, path, sample_out, cz_ien):
     """生成分页"""
     count = 0
@@ -361,15 +377,7 @@ def write_page(dirs, path, sample_out, cz_ien):
             source_set = set()
             for meaning in w.meanings:
                 for sub_meaning in meaning.subs:
-                    source = sub_meaning.source
-                    if source:
-                        source = shrink_source(source)
-                        source_set.add(source)
-                    else:
-                        for it in dir(ti_fan_ien_converter):
-                            if not re.match(r"^[a-zA-Z0-9_]+$", it):
-                                source_set.add(it)
-                        break
+                    source_set.update(get_sub_meaning_ipa_sources(sub_meaning))
             ti_fan_ien = {}
             for source in source_set:
                 ti_fan_ien_func = getattr(ti_fan_ien_converter, source, None)

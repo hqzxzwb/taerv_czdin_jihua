@@ -38,8 +38,9 @@ The same structure may also appear in newer files as:
 zhon1 ven2
 txe:zhon1 ven1
 + 义项一
-  * 参考文献
+  * 通用
     - 例句一
+  * 参考文献
     - 例句二
 + 义项二
   * 参考文献
@@ -80,7 +81,9 @@ Put such notes near the relevant义项、例句或参考书信息, and match the
 - Reference-book lines usually sit immediately under the relevant义项.
 - In legacy-style entries, the source often appears once near the top of the entry.
 - In newer-style entries, each义项 often carries its own `* 参考文献` line.
+- In newer-style entries, `* 通用` is a special marker meaning that this义项 is used across localities. It applies only to the current义项, not to the whole entry.
 - If several sources support the same义项, list them separately instead of merging names into one line.
+- Put `* 通用` before book-source lines when both appear under the same义项.
 
 ## Example sentences
 
@@ -89,8 +92,15 @@ Example sentences are child bullets under the relevant义项.
 - Use full-width `～` to stand for the current headword, no matter how many characters the headword has.
 - If an example has an explanation, separate example and explanation with `/`.
 - Keep each example on its own bullet line.
+- Examples that are generally used across localities should go under `* 通用`.
+- Examples quoted from a specific source should stay under that source line instead of under `* 通用`.
 - Quoted examples from books can be kept with Chinese quotation marks and citation in the same line if the surrounding file does that.
 - If an example is really a usage note rather than a full sentence, keep the repository's existing style instead of forcing complete-sentence prose.
+
+## IPA generation
+
+- A义项 marked with `* 通用` will cause deploy-time IPA generation for every currently supported locality converter.
+- Existing newer-style义项 with no source line remain valid, but they are not automatically treated as `通用`.
 
 ## Textual notes from sources
 
