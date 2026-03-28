@@ -160,7 +160,7 @@
 1. 【[翻关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_guaen.md#翻关)】`faen1 guaen1` <small>/fɛ̃1 kuɛ̃1/<sup>兴化</sup>, /fɛ̃1 kuɛ̃1/<sup>泰县</sup></small> 转手渔利<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这套公房他买啊四万块，一～就是十几万。<sup>\[兴化\]</sup>  
 1. 【[翻骨碌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_loh_zz.md#翻骨碌子)】`faen1 gueh7 loh zz` <sup>[如皋]</sup> 喻反复思考、权衡利弊。  
 1. 【[翻骨路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_lv.md#翻骨路)】`faen1 gueh7 lv` <sup>[泰州]</sup> 翻滚的样子：小王力大，轻轻一推，就把老张推啊个～。｜他脚底下一不小心，就走楼上跌咖个～。  
-1. 【[翻古纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gv_zhr.md#翻古纸)】`faen1 gv3 zhr3` <sup>[兴化]</sup> 讲述过去的事情。谚曰：穷人～。  
+1. 【[翻古纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gv_zhr.md#翻古纸)】`faen1 gv3 zhr3` <small>/fɛ̃1 ku3 t͡sɿ3/<sup>兴化</sup></small> 讲述过去的事情。<sup>\[兴化\]</sup>：谚曰：穷人～。<sup>\[兴化\]</sup>  
 1. 【[翻话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_hua.md#翻话)】`faen1 hua6` <sup>[泰州]</sup> 改变自己之前说过的话，即说话不算数：你已经说咖的唻，不作兴～。  
 1. 【[翻魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_huen.md#翻魂)】`faen1 huen2` <sup>[如皋]</sup> 责乱翻乱找。  
 1. 【[翻空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_kon_gen_teu.md#翻空跟头)】`faen1 kon1 gen1 teu` <sup>[泰州]</sup> ① 双手不着地，在空中完成翻转身体的动作。 ② 比喻没有本钱或者实物做投资的交易：这小伙是靠～起家，弄的银行贷款办吖这个公司。  
@@ -175,7 +175,7 @@
 1. 【[翻眼无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_v_qien.md#翻眼无情)】`faen1 ngaen3 v2 qien2` <sup>[如东]</sup> 眼睛一翻，不承认过去的情分。  
 1. 【[翻拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngo.md#翻拗)】`faen1 ngo5` <sup>[兴化]</sup> 翻身挺起：连留孩也上了手，拽住他企图往上～的腿。（汪曾祺：《羊舍一夕》）  
 1. 【[翻筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pa.md#翻筢)】`faen1 pa2` <small>/fɛ̃1 pʰa2/<sup>兴化</sup></small> ① 钉筢的一种。四齿，齿条粗，方而尖。主要用以翻地。<sup>\[如东\]</sup> ② 一种翻场农具，在竹柄前安有一块长方形木板<sup>\[兴化\]</sup>：（她）干起活来，不管日夜，真是丢了～拿扫竹……（马春阳：《告状》）<sup>\[兴化\]</sup>  
-1. 【[翻泡泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po.md#翻泡泡)】`faen1 po1 po1` <sup>[兴化]</sup> 液体中泛起的气泡。儿童语：大街上说话，阴沟塘里～（插话）。  
+1. 【[翻泡泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po.md#翻泡泡)】`faen1 po1 po1` <small>/fɛ̃1 pʰɔ1 pʰɔ1/<sup>兴化</sup></small> 液体中泛起的气泡。<sup>\[兴化\]</sup>：儿童语：大街上说话，阴沟塘里～（插话）。<sup>\[兴化\]</sup>  
 1. 【[翻泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po_r.md#翻泡泡<sub>儿</sub>)】`faen1 po1 po1 r` <sup>[如东]</sup> ① 液体里冒气泡儿。 ② 比喻多说没有作用的话：你就欢喜～。  
 1. 【[翻泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_r.md#翻泡<sub>儿</sub>)】`faen1 po1 r` <sup>[泰州]</sup> 翻起水泡。指对立者出现行动的迹象：这件事就找你俫的意见办，个别人要～也不怕。  
 1. 【[翻白眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_poh_ngaen.md#翻白眼)】`faen1 poh8 ngaen3` <sup>[如东]</sup> ① 黑眼珠偏斜，露出较多的眼白，是心中为难、失望、愤怒或不满的表示。 ② 病势危险时的生理现象。  
@@ -226,7 +226,7 @@
 1. 【[反沿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_in_zz.md#反沿子)】`faen3 in2 zz` <sup>[如皋]</sup> 锅、碗等器物的边延外翻。  
 1. 【[反脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_jiah.md#反脚)】`faen3 jiah7` <sup>[兴化]</sup> 左脚。  
 1. 【[反口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_keu.md#反口)】`faen3 keu3` <small>/fɛ̃3 kʰɤ3/<sup>兴化</sup></small> ① 推翻自己原先承诺<sup>\[东台\]</sup>：你已经同意的条款，不该～。<sup>\[东台\]</sup> ② 推翻原来说的话<sup>\[兴化\]</sup>：你以前承诺的事，不要～。<sup>\[兴化\]</sup>  
-1. 【[反礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_li.md#反礼)】`faen3 li3` <sup>[如皋]</sup> 礼节反向：长辈恭维小辈、上司巴结属下，～～。  
+1. 【[反礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_li.md#反礼)】`faen3 li3` <small>/fẽ3 lʝ3/<sup>如皋</sup></small> 礼节反向<sup>\[如皋\]</sup>：长辈恭维小辈、上司巴结属下，～～。<sup>\[如皋\]</sup>  
 1. 【[反脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lin.md#反脸)】`faen3 lin3` <small>/fɛ̃3 liɪ̃3/<sup>兴化</sup>, /fẽ3 lĩ3/<sup>如皋</sup></small> ① 翻脸，闹对立。<sup>\[如皋\]</sup> ② 翻脸，对人态度突然变坏<sup>\[兴化\]</sup>：提到要钱的事他随即～。<sup>\[兴化\]</sup>｜古慕孔果然要同乔家运～……（《广陵潮》二三）<sup>\[兴化\]</sup>  
 1. 【[反脸不认亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lin_beh_ren.md#反脸不认亲)】`faen3 lin3 beh7 ren6 qien1` <sup>[如皋]</sup> 态度说变就变，毫不讲情面。  
 1. 【[反乱星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lun_xien.md#反乱星)】`faen3 lun6 xien1` <sup>[如皋]</sup> 见“反王”。  
@@ -581,7 +581,7 @@
 1. 【[肥缺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_qiuh.md#肥缺)】`fei2 qiuh7` ① 比喻报酬丰厚的职位。<sup>\[如东\]</sup>：那是一个～，匄你弄到啊。<sup>\[如东\]</sup> ② 收入（主要是灰色收入）较多的岗位<sup>\[东台\]</sup>：不要以为人事股长是个～，一定要廉洁办事。<sup>\[东台\]</sup>  
 1. 【[肥肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_roh.md#肥肉)】`fei2 roh8` <sup>[如东]</sup> 脂肪比较多的肉。多指猪肉。  
 1. 【[肥实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_sheh.md#肥实)】`fei2 sheh8` <sup>[如东]</sup> ① 肥大而结实：这条裤子～。 ② 好处多：这个差事～。  
-1. 【[肥水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shuei.md#肥水)】`fei2 shuei3` <sup>[兴化]</sup> ① 含有养分的水或指液体肥料。 ② （喻）好处。谚曰：～不落别人田。  
+1. 【[肥水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shuei.md#肥水)】`fei2 shuei3` <small>/fəi2 suəi3/<sup>兴化</sup></small> ① 含有养分的水或指液体肥料。<sup>\[兴化\]</sup> ② （喻）好处<sup>\[兴化\]</sup>：谚曰：～不落别人田。<sup>\[兴化\]</sup>  
 1. 【[肥水不落外人田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_shuei_beh_lah.md#肥水不落外人田)】`fei2 shuei3 beh7 lah8 vae6 ren2 tin2` <sup>[东台]</sup> ［喻］好处不给别人。  
 1. 【[肥头大耳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_teu_da_er.md#肥头大耳)】`fei2 teu2 da6 er3` <sup>[东台]</sup> 肥胖的样子。  
 1. 【[肥头胖脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_teu_pan_no.md#肥头胖脑)】`fei2 teu2 pan5 no3` <sup>[兴化]</sup> 身体肥胖，脑袋尤显硕大：他这年把吃公款吃得～的。  

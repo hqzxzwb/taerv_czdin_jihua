@@ -381,7 +381,7 @@
 1. 【[𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan.md#𠵹)】`gan1` <small>/kaŋ1/<sup>兴化</sup>, /kã1/<sup>如皋</sup>, /kɑŋ1/<sup>泰县</sup></small> [争吵](https://dict.variants.moe.edu.tw/dictView.jsp?ID=80723&la=0)<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他家“三天一召，两天一～”，不是过日子的。<sup>\[如皋\]</sup>｜他家两口子性格不合，平常不是～，就是打。<sup>\[兴化\]</sup>｜我不跟你～。<sup>\[泰县\]</sup>｜交我～了两句，走出来。（金瓶梅·52回）<sup>\[泰县\]</sup>｜两个人整天～得没得命。<sup>\[泰县\]</sup>｜两个人～吖半天，没得人劝得下来。<sup>\[泰州\]</sup>｜你俫成天～～吵吵的，像个甚的样子？<sup>\[泰州\]</sup>  
 1. 【[𠵹吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_cho.md#𠵹吵)】`gan1 cho3` <sup>[兴化]</sup> 激烈争吵：老太婆天天缠着老头子……。（兴文《人心不足蛇吞象》）  
 1. 【[𠵹𠵹吵吵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_gan_cho_cho.md#𠵹𠵹吵吵)】`gan1 gan1 cho3 cho3` <small>/kaŋ1 kaŋ1 t͡sʰɔ3 t͡sʰɔ3/<sup>兴化</sup></small> ① “𠵹吵”的生动形式。<sup>\[兴化\]</sup> ② 吵架不止<sup>\[泰州\]</sup>：不要在办公室里～的。<sup>\[泰州\]</sup>  
-1. 【[𠵹腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qian.md#𠵹腔)】`gan1 qian1` <small>/kã1 t͡ɕʰiã1/<sup>如皋</sup></small> ① 说话的音量、气息、共鸣作用：他虽然年纪大，但是中气足，说起话来～好。<sup>\[如皋\]</sup> ② 形容说话声音洪亮，铿锵有力<sup>\[东台\]</sup>：张爹说话蛮有～的。<sup>\[东台\]</sup>  
+1. 【[𠵹腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_qian.md#𠵹腔)】`gan1 qian1` <small>/kã1 t͡ɕʰiã1/<sup>如皋</sup></small> ① 说话的音量、气息、共鸣作用<sup>\[如皋\]</sup>：他虽然年纪大，但是中气足，说起话来～好。<sup>\[如皋\]</sup> ② 形容说话声音洪亮，铿锵有力<sup>\[东台\]</sup>：张爹说话蛮有～的。<sup>\[东台\]</sup>  
 1. 【[𠵹丧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_san.md#𠵹丧)】`gan1 san1` <small>/kaŋ1 saŋ1/<sup>兴化</sup>, /kã1 sã1/<sup>如皋</sup>, /kɑŋ1 sɑŋ1/<sup>泰兴</sup>, /kɑŋ1 sɑŋ1/<sup>泰县</sup></small> ① 争论吵架。<sup>\[如东\]</sup>：他俫一碰面就～。<sup>\[如东\]</sup> ② 吵闹。<sup>\[如皋\]</sup> ③ 激烈的吵架。<sup>\[东台\]</sup> ④ 吵嘴<sup>\[兴化\]</sup>：俗语说得好，“穷～，富烧香。”<sup>\[兴化\]</sup>｜王家豆腐店也不为桩事，三天两头～。<sup>\[兴化\]</sup> ⑤ 吵架<sup>\[泰县\]</sup>：楼上的钱三家老～。<sup>\[泰县\]</sup> ⑥ 争吵，贬义<sup>\[泰州\]</sup>：老的才走啊，这弟兄两个就为房子～。<sup>\[泰州\]</sup>｜昨朝夜里，不晓得这夫妻两个又为甚的事～。<sup>\[泰州\]</sup> ⑦ 本指举哀、号丧，将棺木下葬，转义为双方大声吵架。民俗，送棺木落葬，八人抬棺，将至墓坑时，八人一起吼叫着放下棺木，谓之～。<sup>\[泰兴\]</sup>  
 1. 【[𠵹丧吵死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_san_cho_sz.md#𠵹丧吵死)】`gan1 san1 cho3 sz3` <sup>[泰州]</sup> 指激烈争吵：你俫都是些有文化的人，为啊点儿小事就～，像个甚的样子。  
 1. 【[𠵹丧淘气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_san_to_qi.md#𠵹丧淘气)】`gan1 san1 to2 qi5` <sup>[东台]</sup> 因为吵架伤了和气。  
@@ -445,7 +445,7 @@
 1. 【[𧧭邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gan_lien_sha_ga.md#𧧭邻舍家)】`gan5 lien2 sha5 ga` <sup>[如皋]</sup>   
 1. 【[䞘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#䞘)】`geh7` <sup>[东台]</sup> 单脚连续跳，（《玉篇》解行貌方音读若“隔”）：刘翔在2012年奥运会上一只腿捱𢴬倒，还坚持用另一只腿～到终点，了不起！  
 1. 【[䞘疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_jian.md#䞘疆)】`geh7 jian1` <sup>[东台]</sup> 旧时小孩玩的一种游戏，在地上画格子，游戏者䞘着踢。也叫“跳房子”。  
-1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1, geh7 dien0` <small>/kəʔ7 tiəŋ1/<sup>如皋</sup>, /kəʔ7 tiŋ1/<sup>泰兴</sup></small> ① 荞麦面条，粗短。谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。<sup>\[如皋\]</sup> ② 一种比较粗的面条，以手工擀成。<sup>\[泰兴\]</sup>：荞麦屑～<sup>\[泰兴\]</sup>  
+1. 【[䬣飣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_dien.md#䬣飣)】`geh7 dien1, geh7 dien0` <small>/kəʔ7 tiəŋ1/<sup>如皋</sup>, /kəʔ7 tiŋ1/<sup>泰兴</sup></small> ① 荞麦面条，粗短<sup>\[如皋\]</sup>：谚：荞麦糏～，三条一斤，用力一抽（cheu2），打破额头。<sup>\[如皋\]</sup> ② 一种比较粗的面条，以手工擀成。<sup>\[泰兴\]</sup>：荞麦屑～<sup>\[泰兴\]</sup>  
 1. 【[哿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh.md#哿)】`geh7` <small>/kəʔ7/<sup>兴化</sup>, /kəʔ7/<sup>泰县</sup></small> ① 兴化东南乡音，是否，见gu3<sup>\[兴化\]</sup>：你～是溱潼人？<sup>\[兴化\]</sup>｜这车子～是你的？<sup>\[兴化\]</sup> ② 是否，见gu3<sup>\[泰县\]</sup>：这张白纸～有用㗁？<sup>\[泰县\]</sup>｜～是这本书啊？<sup>\[泰县\]</sup>｜你～曾谈谎？<sup>\[泰县\]</sup> ③ 用在动词前，表示征询，同gu3。<sup>\[泰州\]</sup>  
 1. 【[嗝啧病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_zeh_pien.md#嗝啧病)】`geh7 zeh7 pien6` <sup>[泰县]</sup> 食道癌。  
 1. 【[圪垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_tu.md#圪垛)】`geh7 tu6` <sup>[兴化]</sup> 见“垛圪”。  
@@ -545,7 +545,7 @@
 1. 【[隔山打子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shaen_da_zz.md#隔山打子)】`geh7 shaen1 da3 zz` <sup>[东台]</sup> 旁敲侧击的意思。  
 1. 【[隔山跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shaen_tio.md#隔山跳)】`geh7 shaen1 tio5` <sup>[如东]</sup> 从这一山跃过另一山，比喻特别有本事，有能力。  
 1. 【[隔山消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shaen_xio.md#隔山消)】`geh7 shaen1 xio1` <sup>[如东]</sup> 萝荤科植物耳叶牛皮消的块根。  
-1. 【[隔水炖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shuei_den.md#隔水炖)】`geh7 shuei3 den5` <sup>[泰县]</sup> 绕弯子：有甚的事请直截了当，不要～。  
+1. 【[隔水炖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_shuei_den.md#隔水炖)】`geh7 shuei3 den5` <small>/kəʔ7 ɕyəɪ3 təŋ5/<sup>泰县</sup></small> 绕弯子<sup>\[泰县\]</sup>：有甚的事请直截了当，不要～。<sup>\[泰县\]</sup>  
 1. 【[隔宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh.md#隔宿)】`geh7 soh7` <small>/kəʔ7 sɔʔ7/<sup>兴化</sup>, /kəʔ7 sɔʔ7/<sup>如皋</sup></small> ① 另一夜。<sup>\[如东\]</sup>：～再来。<sup>\[如东\]</sup> ② 昨天。<sup>\[如皋\]</sup> ③ 隔夜、到了次日<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～的韭菜不能吃。<sup>\[如皋\]</sup>｜这些人家无～之粮，都是当天买，当天吃。（汪曾祺《大淖纪事》）<sup>\[兴化\]</sup>｜～的菜最好不要再吃。<sup>\[泰州\]</sup>  
 1. 【[隔宿饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh_faen.md#隔宿饭)】`geh7 soh7 faen6` ① 做好的饭，放着过了一夜。也叫隔夜饭。<sup>\[如东\]</sup> ② 前一天吃剩下的饭。<sup>\[东台\]</sup>  
 1. 【[隔宿火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/geh_soh_hu.md#隔宿火)】`geh7 soh7 hu3` <sup>[如皋]</sup> 旧时取火难，隔夜预留下的种火。  
@@ -807,7 +807,7 @@
 1. 【[高丈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chan.md#高丈)】`go1 chan6` <sup>[如东]</sup> 一种小型爆竹，尾部插着一根尾巴，点火之后，能够飞得很高。  
 1. 【[高潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_cho.md#高潮)】`go1 cho2` <sup>[如东]</sup> ① 在海潮的一个涨落周期内，水面上升的最高潮位。 ② 比喻事物高度发展的阶段。  
 1. 【[高橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_chv.md#高橱)】`go1 chv2` <small>/kɔ1 t͡sʰu2/<sup>如皋</sup></small> ① 橱的一种。体积大，脚较高，两扇门，以放置被服为主。<sup>\[如东\]</sup> ② 旧式两门橱，有四只高脚。<sup>\[如皋\]</sup>  
-1. 【[高墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den_r.md#高墩<sub>儿</sub>)】`go1 den1 r` <small>/kɔ1 tə˞1/<sup>如皋</sup></small> ① 比平地凸出的部分。<sup>\[如东\]</sup> ② 高堆子，主要指高的泥堆子。<sup>\[如皋\]</sup> ③ 比喻条件优越的地方、人家、岗位：三花墩儿、两花墩儿——拣～扒（ba1）。<sup>\[如皋\]</sup>  
+1. 【[高墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den_r.md#高墩<sub>儿</sub>)】`go1 den1 r` <small>/kɔ1 tə˞1/<sup>如皋</sup></small> ① 比平地凸出的部分。<sup>\[如东\]</sup> ② 高堆子，主要指高的泥堆子。<sup>\[如皋\]</sup> ③ 比喻条件优越的地方、人家、岗位<sup>\[如皋\]</sup>：三花墩儿、两花墩儿——拣～扒（ba1）。<sup>\[如皋\]</sup>  
 1. 【[高灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den.md#高灯)】`go1 den1` <small>/kɔ1 təŋ1/<sup>泰兴</sup></small> 民俗。谓元宵灯节张灯。<sup>\[泰兴\]</sup>  
 1. 【[高灯圆子落灯面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den_iun_zz.md#高灯圆子落灯面)】`go1 den1 iun2 zz lah8 den1 min6` <small>/kɔ1 təŋ1 yʊ̃2 t͡sɿ lɑʔ8 təŋ1 mĩ1/<sup>泰兴</sup></small> 民俗。农历正月十三（农村十四）高灯（上灯），正月十八落灯。是时吃汤圆、面条。<sup>\[泰兴\]</sup>：～，今年吃咖望明年<sup>\[泰兴\]</sup>  
 1. 【[高凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_den.md#高凳)】`go1 den5` <small>/kɔ1 təŋ5/<sup>如皋</sup></small> ① 高的狭长的凳子。 ② 条凳。<sup>\[如东\]</sup> ③ 一般指二人坐的与小腿等高的凳子。<sup>\[如皋\]</sup>  
@@ -1083,7 +1083,7 @@
 1. 【[过时不候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_beh_heu.md#过时不候)】`gu1 shr2 beh7 heu6` <sup>[如皋]</sup> 预先声明用语，意为：超过了时间，就不等候了。  
 1. 【[过市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr.md#过市)】`gu1 shr6` <sup>[如皋]</sup> ① 过了经营时间。 ② 超过了时间，失去了时机：他去的刻儿人家倒散吖，老早～啊。  
 1. 【[过堂风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan_fon.md#过堂风)】`gu1 tan fon1` <small>/kɤɯ1 tʰɑŋ fɔŋ1/<sup>泰兴</sup></small> 通过穿堂、过道或相对门窗的风。<sup>\[泰兴\]</sup>  
-1. 【[过头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_hua.md#过头话)】`gu1 teu hua6` <small>/kɤɯ1 tʰəɪ xuɑ1/<sup>泰兴</sup></small> 超越了实际可能的话。乡人云：“宁吃过头饭，不说过头话。”<sup>\[泰兴\]</sup>  
+1. 【[过头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_hua.md#过头话)】`gu1 teu hua6` <small>/kɤɯ1 tʰəɪ xuɑ1/<sup>泰兴</sup></small> 超越了实际可能的话<sup>\[泰兴\]</sup>：乡人云：“宁吃过头饭，不说过头话。”<sup>\[泰兴\]</sup>  
 1. 【[过头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#过头)】`gu1 teu2` ① 超过。<sup>\[如东\]</sup> ② 超出某个整十年龄点<sup>\[泰州\]</sup>：老李已经四十～唻。<sup>\[泰州\]</sup> ③ 超出事务正常的度<sup>\[泰州\]</sup>：这小伙有点儿聪明～，把人家都当呆子，就不好唻。<sup>\[泰州\]</sup>  
 1. 【[过头饭能吃，过头话不能说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_faen_nen.md#过头饭能吃，过头话不能说)】`gu1 teu2 faen6 nen2 qieh7 gu1 teu2 hua6 beh7 nen2 shuh7` <sup>[东台]</sup> 说话要留有余地，不能说得太满太绝对。  
 1. 【[过头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_hua.md#过头话)】`gu1 teu2 hua6` <sup>[泰州]</sup> 超出分寸的话：不要说～，你除啊清华就不上大学咖？  
@@ -1223,7 +1223,7 @@
 1. 【[过槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_kaen.md#过槛)】`gu5 kaen3` <sup>[如皋]</sup> ① 合格通过。 ② 上人死在外，遗体进家时，孝子伏槛，使从背上过。据说死者可免过槛之苦。  
 1. 【[过刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keh_r.md#过刻<sub>儿</sub>)】`gu5 keh9 r` <small>/kʊ5 kʰə˞9/<sup>如皋</sup></small> 过一会儿。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：～就来。<sup>\[如东\]</sup>  
 1. 【[过口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keu.md#过口)】`gu5 keu3` <small>/ko5 kʰɤ3/<sup>兴化</sup>, /kʊ5 kʰei3/<sup>如皋</sup>, /kɤɯ5 kʰəɪ3/<sup>泰兴</sup></small> ① 用以润口或冲淡因吃食物等口中留下的异味<sup>\[如皋\]</sup>：吃丸药用黄酒～；吃点心用茶～。<sup>\[如皋\]</sup> ② 吃过药喝一点开水冲淡口中苦味。<sup>\[兴化\]</sup> ③ 以食物下酒<sup>\[兴化\]</sup>：“大娘子，我从来吃不得寡酒，你再切些肉来与我～。”（《水浒传》二七）<sup>\[兴化\]</sup> ④ 食物经过口中，即进食。<sup>\[泰州\]</sup> ⑤ 通过进食清淡食物弱化口中因喝酒或吃辛辣食物所产生的麻人感觉<sup>\[泰州\]</sup>：他不曾喝过白酒，快点儿搛块肥肉把他～。<sup>\[泰州\]</sup> ⑥ 通过吃咸小菜弱化口中因进食白饭白粥所产生的无味感觉<sup>\[泰州\]</sup>：他这两天发热，嘴里没味，光吃白粥不行，你弄点儿榨菜把他～。<sup>\[泰州\]</sup> ⑦ 通过吃糖或者甜食弱化口中因吃药产生的苦涩感觉<sup>\[泰州\]</sup>：这个中药太苦啊唻，难喝煞咖唻，你弄点儿白糖把他～。<sup>\[泰州\]</sup> ⑧ 饭后饮茶汤曰过口。泛指食用。<sup>\[泰兴\]</sup>  
-1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae ren2` <small>/kɤɯ5 lɛ ɻəŋ2/<sup>泰兴</sup></small> ① 对某事有亲身经历和体验的人<sup>\[泰州\]</sup>：我在这个厂里蹾啊十来年，听我～一句话不会错的。<sup>\[泰州\]</sup> ② 特指有过性经历的人。<sup>\[泰州\]</sup> ③ 对某事曾经有过亲身经历和体验的人。古云：“要知山下事，请问过来人。”<sup>\[泰兴\]</sup>  
+1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae ren2` <small>/kɤɯ5 lɛ ɻəŋ2/<sup>泰兴</sup></small> ① 对某事有亲身经历和体验的人<sup>\[泰州\]</sup>：我在这个厂里蹾啊十来年，听我～一句话不会错的。<sup>\[泰州\]</sup> ② 特指有过性经历的人。<sup>\[泰州\]</sup> ③ 对某事曾经有过亲身经历和体验的人。<sup>\[泰兴\]</sup>  
 1. 【[过来人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lae_ren.md#过来人)】`gu5 lae2 ren2` <sup>[如东]</sup> 已经历过某些事情的人。  
 1. 【[过两天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_laen_tin.md#过两天)】`gu5 laen3 tin1` <sup>[如东]</sup> ① 第三天：～我把钱还给你。 ② 几天以后。  
 1. 【[过漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_leu.md#过漏)】`gu5 leu6` <sup>[兴化]</sup> 房檐下集雨的槽，由铁皮或木板制成，一头连着管子，将水接到地上，流入下水道。  
@@ -1473,7 +1473,7 @@
 1. 【[关节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_jih.md#关节)】`guaen1 jih7` <sup>[如东]</sup> ① 骨头相互连接的地方。 ② 比喻起关键作用的环节：要抓住主要～不放。  
 1. 【[关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_laen.md#关拦)】`guaen1 laen2` <small>/kuɛ̃1 lɛ̃2/<sup>兴化</sup></small> ① 门户栅栏，能阻止外人进入的设施<sup>\[兴化\]</sup>：大门没上，外边没得～。<sup>\[兴化\]</sup>｜“此林中没有～，跑了是我们的干系，不是玩的……”（《粉妆楼》三二）<sup>\[兴化\]</sup> ② 指诸如墙、门、栅栏之类用来阻挡外人进入的设施<sup>\[泰州\]</sup>：我俫楼前头的这块空地就是因为没得～，不住啊这块的人把车子也停吖这块来。<sup>\[泰州\]</sup>  
 1. 【[关殓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lin.md#关殓)】`guaen1 lin6` <sup>[如东]</sup> 将死者尸体放入棺材并加盖，叫做关殓。  
-1. 【[关老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i.md#关老爷)】`guaen1 lo3 i` <sup>[兴化]</sup> 老辈人对关羽的一般称呼。谚曰：～卖豆腐——人硬货不硬。  
+1. 【[关老爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i.md#关老爷)】`guaen1 lo3 i` <small>/kuɛ̃1 lɔ3 i/<sup>兴化</sup></small> 老辈人对关羽的一般称呼<sup>\[兴化\]</sup>：谚曰：～卖豆腐——人硬货不硬。<sup>\[兴化\]</sup>  
 1. 【[关老爷卖豆腐——人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_mae.md#关老爷卖豆腐——人硬货不硬)】`guaen1 lo3 i mae6 teu6 fv6 ren2 ngen6 hu5 beh7 ngen6` <sup>[如皋]</sup>   
 1. 【[关老爷卖豆腐，人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_mae.md#关老爷卖豆腐，人硬货不硬)】`guaen1 lo3 i mae6 teu6 fv6 ren2 ngen6 hu5 beh7 ngen6` <small>/kuɛ̃1 lɔ3 ʝ mɛ1 tʰəɪ1 fʋ1 ɻəŋ2 ŋəŋ1 xɤɯ5 pəʔ7 ŋəŋ1/<sup>泰兴</sup></small> 歇后语。谓人虽硬而所卖之货不硬。<sup>\[泰兴\]</sup>  
 1. 【[关老爷门口舞薄刀——不自量力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_lo_i_men.md#关老爷门口舞薄刀——不自量力)】`guaen1 lo3 i men2 keu3 v3 pah8 do1 beh7 cz6 lian6 lieh8` <sup>[如皋]</sup>   
@@ -1524,7 +1524,7 @@
 1. 【[𠍿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen.md#𠍿)】`guaen5` 吻。<sup>\[如东\]</sup><sup>\[东台\]</sup>：我想～你。<sup>\[如东\]</sup>｜她在下～宝宝。<sup>\[东台\]</sup>  
 1. 【[椁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah.md#椁)】`guah7` <small>/kuaʔ7/<sup>兴化</sup>, /kuɑʔ7/<sup>泰兴</sup></small> ① 在浮厝棺木外用砖砌筑的外壳。<sup>\[兴化\]</sup>：砌～<sup>\[兴化\]</sup> ② 套在棺材外的大棺材。以墙体护棺的设施。<sup>\[泰兴\]</sup>：起～<sup>\[泰兴\]</sup>  
 1. 【[郭大<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_da_r.md#郭大<sub>儿</sub>)】`guah7 da6 r` <sup>[兴化]</sup> 花样、玩意儿。参见“郭刀儿guah7 do1 r”：他又不晓得玩甚的～？  
-1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <sup>[如皋]</sup> ① 趣指愚笨者。 ② 对姓郭者的戏称。童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。  
+1. 【[郭呆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_r.md#郭呆<sub>儿</sub>)】`guah7 dae1 r` <small>/kuaʔ7 tɛ˞1/<sup>如皋</sup></small> ① 趣指愚笨者。<sup>\[如皋\]</sup> ② 对姓郭者的戏称。<sup>\[如皋\]</sup>：童谣：～帮忙，越帮越忙。郭呆儿，清代如城人，又穷又笨。<sup>\[如皋\]</sup>  
 1. 【[郭呆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz.md#郭呆子)】`guah7 dae1 zz` <sup>[如皋]</sup> 见“郭呆儿”。  
 1. 【[郭呆子帮忙——越帮越忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dae_zz_ban.md#郭呆子帮忙——越帮越忙)】`guah7 dae1 zz ban1 man2 iuh8 ban1 iuh8 man2` 帮倒忙  
 1. 【[郭的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guah_dii.md#郭的)】`guah7 dii` <sup>[如皋]</sup> 空的，缺少：我没得钱，这两天身上～。  
@@ -1908,7 +1908,7 @@
 1. 【[干巴塞噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴塞噎)】`gun1 ba seh7 ih7` <small>/kũ1 pa səʔ7 iɪʔ7/<sup>兴化</sup>, /kʊ̃1 pɑ səʔ7 iʔ7/<sup>泰兴</sup></small> 形容食物水份太少，干硬得难以下咽<sup>\[兴化\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：黄烧饼～的，没得茶水吃不下去。<sup>\[兴化\]</sup>｜午餐没有汤，就这吖～的扒啊几口。<sup>\[东台\]</sup>｜脆烧饼～的，要喝点水才吃得下去。<sup>\[泰兴\]</sup>  
 1. 【[干巴塞噎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴塞噎的)】`gun1 ba seh7 ih7 dii` <sup>[如皋]</sup> 吃干食而无汤水过口，难噎。  
 1. 【[干巴巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_ba.md#干巴巴)】`gun1 ba1 ba1` <sup>[东台]</sup> 形容单调无味、不够意思。  
-1. 【[干巴燎𩝽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_lio_qian.md#干巴燎𩝽的)】`gun1 ba1 lio2 qian3 dii` <sup>[如皋]</sup> 形容过于结实：鱼干儿～，要多泡泡水。  
+1. 【[干巴燎𩝽的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_lio_jian.md#干巴燎𩝽的)】`gun1 ba1 lio2 jian3 dii` <small>/kʊ̃1 pa1 liɔ2 t͡ɕiã3 tei/<sup>如皋</sup></small> 形容过于结实<sup>\[如皋\]</sup>：鱼干儿～，要多泡泡水。<sup>\[如皋\]</sup>  
 1. 【[干巴涩噎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ba_seh_ih.md#干巴涩噎)】`gun1 ba1 seh7 ih7` <sup>[泰州]</sup> 冷馒头、冷烧饼之类由于存放时间较长而缺少水分，吃的时候吞咽困难：这冷烧饼～的怎吖吃法。  
 1. 【[干煿煿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_bah_bah.md#干煿煿)】`gun1 bah7 bah7` <small>/kũ1 paʔ7 paʔ7/<sup>兴化</sup>, /kʊ̃1 paʔ7 paʔ7/<sup>如皋</sup>, /kʊ̃1 pɑʔ7 pɑʔ7/<sup>泰兴</sup>, /kõ1 pɑʔ7 pɑʔ7/<sup>泰县</sup></small> 十分干燥<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：小麦晒得～的。<sup>\[兴化\]</sup>｜吃烧饼～，难咽得下去。<sup>\[泰县\]</sup>｜嘴里～的，要喝水。<sup>\[泰兴\]</sup>  
 1. 【[干暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_bo.md#干暴)】`gun1 bo5` <sup>[如皋]</sup> 寒潮侵袭而无雨雪。  
