@@ -953,7 +953,6 @@
 1. 【[篱笆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba.md#篱笆)】`li2 ba1` <sup>[如东]</sup> 用芦苇、竹子或树枝等编成的栏栅，放在房屋或场园周围。  
 1. 【[篱笆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_qian.md#篱笆匠)】`li2 ba1 qian6` <sup>[如东]</sup> 建造和修理茅屋的小手工业者。  
 1. 【[篱笆嶂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_ba_zhan.md#篱笆嶂)】`li2 ba1 zhan5` <sup>[如东]</sup> 芦苇编成的建筑材料，长方形，覆盖在茅屋的顶面上或竖立在房屋周围做墙壁。  
-1. 【[娌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li.md#娌)】`li3` <sup>[东台]</sup> 弟之妻谓之～：妯～（兄弟之妻的合称）。  
 1. 【[李长江看报，一塌糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_chan_jian_kun.md#李长江看报，一塌糊涂)】`li3 chan2 jian1 kun5 bo5 ieh7 taeh7 hv2 tv2` <small>/lʝ3 t͡sʰɑŋ2 t͡ɕiɑŋ1 kʰʊ̃5 pɔ5 iʔ7 tʰæʔ7 fʋ2 tʰu2/<sup>泰兴</sup></small> 李长江，民国时国民党驻守泰州的军官，据传识字极少，看报纸是装门面，还斥责报纸印得一塌糊涂，故有此说。喻杂乱无章，乱七八糟。<sup>\[泰兴\]</sup>  
 1. 【[李树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_shv.md#李树)】`li3 shv6` <sup>[如东]</sup> 蔷薇科植物李树，落叶乔木。  
 1. 【[李铁拐的葫芦——不晓得卖的甚的药](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_tih_guae_dii.md#李铁拐的葫芦——不晓得卖的甚的药)】`li3 tih7 guae3 dii hv2 lv beh7 xio3 deh7 mae6 dii shen nii iah8` <sup>[东台]</sup>   
