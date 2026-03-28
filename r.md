@@ -402,7 +402,7 @@
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co` 热闹。<sup>\[如东\]</sup>\[泰州：热闹，景象繁盛，人声喧杂状态\]：泰州城里最～的地方就是坡子街。<sup>\[泰州\]</sup>  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co ren2` ① 喜欢说笑、逗趣的人。<sup>\[如东\]</sup> ② 擅长通过说笑营造热闹氛围的人<sup>\[泰州\]</sup>：老王是个～，他人到啊哪块，哪块就笑声不断。<sup>\[泰州\]</sup>  
 1. 【[热嘈射啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_sha_a.md#热嘈射啊)】`rih8 co sha6 a` <sup>[如东]</sup> 非常高兴，“射啊”做补语，表示程度深：他今朝去看庙会，～。  
-1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <small>/liɪʔ8 t͡sʰɔ2/<sup>兴化</sup>, /ɻiʔ8 t͡sʰɔ2/<sup>如皋</sup></small> ① 热闹<sup>\[东台\]</sup><sup>\[兴化\]</sup>：婚礼办得蛮～的。<sup>\[东台\]</sup>｜每逢集期，街上蛮～的。<sup>\[兴化\]</sup>｜今年闲生日，不～。<sup>\[兴化\]</sup> ② 热闹。<sup>\[如皋\]</sup> ③ 开玩笑<sup>\[兴化\]</sup>：覅～，我这刻儿心情不好。<sup>\[兴化\]</sup>  
+1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <small>/liɪʔ8 t͡sʰɔ2/<sup>兴化</sup>, /ɻiʔ8 t͡sʰɔ2/<sup>如皋</sup></small> ① 热闹<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup>：婚礼办得蛮～的。<sup>\[东台\]</sup>｜每逢集期，街上蛮～的。<sup>\[兴化\]</sup>｜今年闲生日，不～。<sup>\[兴化\]</sup> ② 开玩笑<sup>\[兴化\]</sup>：覅～，我这刻儿心情不好。<sup>\[兴化\]</sup>  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co2 ren2` <sup>[兴化]</sup> 爱说爱笑的人：他是个～，来不多时，同上上下下都处得蛮合式的。  
 1. 【[热沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dah_dah.md#热沰沰)】`rih8 dah7 dah7` <sup>[兴化]</sup> 热情可掬：小吴待人～的。  
 1. 【[热得只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_deh_zheh_ha.md#热得只㗇)】`rih8 deh7 zheh7 ha2` <sup>[如皋]</sup> 热得直喘气。  

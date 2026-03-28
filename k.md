@@ -424,7 +424,7 @@
 1. 【[口实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_sheh.md#口实)】`keu3 sheh8` <sup>[如东]</sup> 嘴里说出来的情况：捱人家抓住～。  
 1. 【[口声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shen.md#口声)】`keu3 shen1` <small>/kʰɤ3 sən/<sup>兴化</sup>, /kʰɤɯ3 səŋ1/<sup>泰县</sup></small> ① 言语、态度<sup>\[东台\]</sup>：他家子女对上人的～好。<sup>\[东台\]</sup> ② 声誉，群众的评价。<sup>\[东台\]</sup>：这位乡长的～好。<sup>\[东台\]</sup> ③ 话音<sup>\[泰县\]</sup>：听～他来啊火。<sup>\[泰县\]</sup> ④ 语气，说话的感情色彩以及隐含内容<sup>\[泰州\]</sup>：听他的～，像是想把坡子街的房子出租。<sup>\[泰州\]</sup> ⑤ 外界议论<sup>\[泰州\]</sup><sup>\[兴化\]</sup>：这家伙蹾过好几个单位，在外头的～都不好。<sup>\[泰州\]</sup>｜“……二奶奶的事，他还要驳两件，才压得众人～呢！”（《红楼梦》五五）<sup>\[兴化\]</sup> ⑥ 对人说话的语气<sup>\[兴化\]</sup>：他对老人～不好。<sup>\[兴化\]</sup>  
 1. 【[口舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shih.md#口舌)】`keu3 shih8` <small>/kʰəɪ3 ɕiʔ8/<sup>泰兴</sup></small> ① 比喻把柄。<sup>\[如东\]</sup>：留下了～。<sup>\[如东\]</sup> ② 比喻纠纷。<sup>\[如东\]</sup>：闹～。<sup>\[如东\]</sup> ③ 因言语不合而产生的误会<sup>\[东台\]</sup>：俫有点～，不大来往。<sup>\[东台\]</sup> ④ 为解决矛盾所说的话<sup>\[东台\]</sup>：为啊这个事他费啊不少～。<sup>\[东台\]</sup> ⑤ 言语引起的误会或纠纷<sup>\[泰兴\]</sup> ⑥ 争执争吵<sup>\[泰兴\]</sup>  
-1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <small>/kʰei3 suei3/<sup>如皋</sup></small> ① 唾液。<sup>\[如东\]</sup><sup>\[如皋\]</sup> ② 唾液<sup>\[东台\]</sup>：～直髿。<sup>\[东台\]</sup>  
+1. 【[口水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shuei.md#口水)】`keu3 shuei3` <small>/kʰei3 suei3/<sup>如皋</sup></small> 唾液。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：～直髿。<sup>\[东台\]</sup>  
 1. 【[口数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_shv.md#口数)】`keu3 shv5` <sup>[如东]</sup> 个数：水井有多少～。  
 1. 【[口松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_son.md#口松)】`keu3 son1` <small>/kʰəɪ3 sɔŋ1/<sup>泰兴</sup></small> 轻易答应别人的要求或承诺办某件事情、泄露某种情况。亦称“嘴松”。<sup>\[泰兴\]</sup>  
 1. 【[口袋装锥子——锋芒毕露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_tae_zhuan_zhuei.md#口袋装锥子——锋芒毕露)】`keu3 tae6 zhuan1 zhuei1 zz fon1 man2 bieh7 lv6` <sup>[东台]</sup>   
@@ -882,7 +882,7 @@
 1. 【[睏倒啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_do_a.md#睏倒啊)】`kuen5 do3 a` <sup>[东台]</sup> 不均衡，压力几乎偏在某一方：父母生吖病，兄弟姐妹都要来服侍，不能～哪一家｜伢儿～哪个人身上都吃不消。  
 1. 【[睏二觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_er_go.md#睏二觉)】`kuen5 er6 go5` <sup>[如皋]</sup> 睡醒后再睡。  
 1. 【[睏复觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_foh_go.md#睏复觉)】`kuen5 foh7 go5` <sup>[如皋]</sup> 睡醒后再睡。  
-1. 【[睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go.md#睏觉)】`kuen5 go5` <small>/kʰuən5 kɔ5/<sup>兴化</sup>, /kʰuəŋ5 kɔ5/<sup>如皋</sup>, /kʰuəŋ5 kɔ5/<sup>泰县</sup></small> ① 睡觉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup> ② 指性行为。<sup>\[如东\]</sup> ③ 婚外性交。<sup>\[如皋\]</sup> ④ 睡觉<sup>\[泰县\]</sup>：他～去啊。<sup>\[泰县\]</sup>  
+1. 【[睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go.md#睏觉)】`kuen5 go5` <small>/kʰuən5 kɔ5/<sup>兴化</sup>, /kʰuəŋ5 kɔ5/<sup>如皋</sup>, /kʰuəŋ5 kɔ5/<sup>泰县</sup></small> ① 睡觉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他～去啊。<sup>\[泰县\]</sup> ② 指性行为。<sup>\[如东\]</sup> ③ 婚外性交。<sup>\[如皋\]</sup>  
 1. 【[睏觉拾咖个枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go_sheh_ga.md#睏觉拾咖个枕头)】`kuen5 go5 sheh8 ga gu zhen3 teu` <sup>[如皋]</sup> 再巧不过，再好不过。  
 1. 【[睏柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuei.md#睏柜)】`kuen5 kuei6` <small>/kʰuəŋ5 kʰuei1/<sup>如皋</sup></small> ① 柜的一种。木制，长方形，里面可以贮藏粮食或其他东西，上面可以睡人，这种柜叫做睏柜。<sup>\[如东\]</sup> ② 商店常用以存放钱物兼作床的柜门向上的矮木柜。<sup>\[如皋\]</sup>  
 1. 【[睏裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kv.md#睏裤)】`kuen5 kv5` <small>/kʰuən5 kʰu5/<sup>兴化</sup>, /kʰuəŋ5 kʰu5/<sup>泰县</sup></small> 睡裤<sup>\[泰县\]</sup>\[兴化：睡觉时连在身上的单裤。\]：这条～蛮合身的。<sup>\[泰县\]</sup>  
@@ -1002,7 +1002,7 @@
 1. 【[看富贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_fv_guei.md#看富贵)】`kun5 fv5 guei5` <sup>[如东]</sup> 观看死者的尸体。也叫看死人。  
 1. 【[看古黄历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_gv_huan_lieh.md#看古黄历)】`kun5 gv3 huan2 lieh8` <sup>[泰州]</sup> 比喻抱着过时的陈腐观念。  
 1. 【[看会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_huei.md#看会)】`kun5 huei6` <sup>[兴化]</sup> 观看迎神赛会：我俫这许许多父老乡亲，平时除啊吃茶、打牌，就是到处去～。  
-1. 【[看月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_iuh_zz.md#看月子)】`kun5 iuh8 zz` <small>/kʰũ5 yuʔ8 t͡sɿ/<sup>兴化</sup>, /kʰõ5 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 探视、慰问产妇。<sup>\[如东\]</sup> ② 俗指妇女坐月子期间，至爱亲朋携礼品前去看望。<sup>\[兴化\]</sup> ③ 探视、慰问产妇<sup>\[泰县\]</sup>：今朝他到王家～去啊。<sup>\[泰县\]</sup> ④ 看望坐月子的妇女，旧时看月子的礼物之中，老母鸡、光烧饼、馓子、红糖是必备品，现在多为甲鱼、鸽子、乌鱼等。<sup>\[泰州\]</sup>  
+1. 【[看月子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_iuh_zz.md#看月子)】`kun5 iuh8 zz` <small>/kʰũ5 yuʔ8 t͡sɿ/<sup>兴化</sup>, /kʰõ5 yʊʔ8 t͡se/<sup>泰县</sup></small> ① 探视、慰问产妇。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：今朝他到王家～去啊。<sup>\[泰县\]</sup> ② 俗指妇女坐月子期间，至爱亲朋携礼品前去看望。<sup>\[兴化\]</sup> ③ 看望坐月子的妇女，旧时看月子的礼物之中，老母鸡、光烧饼、馓子、红糖是必备品，现在多为甲鱼、鸽子、乌鱼等。<sup>\[泰州\]</sup>  
 1. 【[看元宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_iun_bo.md#看元宝)】`kun5 iun2 bo3` <sup>[如东]</sup> 看望死人。  
 1. 【[看架势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jia_shr.md#看架势)】`kun5 jia5 shr5` <sup>[东台]</sup> 看事情发展态势。  
 1. 【[看见鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kun_jin_guei.md#看见鬼)】`kun5 jin5 guei3` <sup>[东台]</sup> 就是无中生有的意思。  
@@ -1122,7 +1122,7 @@
 1. 【[裤腰带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae.md#裤腰带)】`kv5 io1 dae5` <sup>[泰州]</sup> 裤带，腰带。  
 1. 【[裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae_zz.md#裤腰带子)】`kv5 io1 dae5 zz` <sup>[如皋]</sup> 系裤子的带子。  
 1. 【[裤漉裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤漉裆)】`kv5 loh dan1` <sup>[东台]</sup> 两条裤腿相连的地方，也指人的阴部。  
-1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> ① 裤裆。<sup>\[泰州\]</sup> ② 裤裆<sup>\[泰兴\]</sup>  
+1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> 裤裆。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[裤头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu.md#裤头)】`kv5 teu2` <sup>[东台]</sup> 短裤。也叫裩子。  
 1. 【[裤头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_r.md#裤头<sub>儿</sub>)】`kv5 teu2 r` <small>/kʰu5 tʰei˞2/<sup>如皋</sup></small> ① 内裤。<sup>\[如皋\]</sup> ② 贴身短裤。<sup>\[泰州\]</sup>  
 1. 【[裤头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu_zz.md#裤头子)】`kv5 teu2 zz` <sup>[兴化]</sup> 裤权：许褚这一刻忘形了……小褂子也脱了，底下穿一条～……（《火烧赤壁》九）  

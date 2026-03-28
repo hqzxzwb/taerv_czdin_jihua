@@ -1073,7 +1073,7 @@
 1. 【[闭门羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_men_gen.md#闭门羹)】`bi5 men2 gen1` <sup>[东台]</sup> 语出冯贽《云仙杂记》卷一，谓只作羹待客而不与之相见，后泛指拒绝客人进门，不与相见：今吖一大早就吃咖他的～。  
 1. 【[闭闷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_men.md#闭闷)】`bi5 men6` <sup>[如东]</sup> 不开心，不顺利。  
 1. 【[闭眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_ngaen.md#闭眼)】`bi5 ngaen3` <small>/pi5 ɛ̃3/<sup>兴化</sup>, /pʝ5 ŋẽ3/<sup>如皋</sup></small> ① 比喻心满意足<sup>\[如皋\]</sup>：死也～。<sup>\[如皋\]</sup> ② 形容吻合<sup>\[如皋\]</sup>：扼苫子要～。<sup>\[如皋\]</sup> ③ 睡觉<sup>\[兴化\]</sup>：这个小家伙精神真好，缠到这晚也不～。<sup>\[兴化\]</sup> ④ 表示服气，没有遗憾。<sup>\[兴化\]</sup>：谚曰：老鼠啃不动生铁，死倒不～。<sup>\[兴化\]</sup> ⑤ 人死后安心合上双眼，意为死而无憾<sup>\[泰州\]</sup>：要是他家孙子不成家，他死都不～。<sup>\[泰州\]</sup>  
-1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia.md#𠷨)】`bia3` <small>/pia3/<sup>如皋</sup>, /pia3/<sup>泰县</sup></small> ① 不正。<sup>\[如皋\]</sup> ② 不正<sup>\[泰县\]</sup>：他读书读咖～啊音。<sup>\[泰县\]</sup>  
+1. 【[𠷨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia.md#𠷨)】`bia3` <small>/pia3/<sup>如皋</sup>, /pia3/<sup>泰县</sup></small> 不正。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：他读书读咖～啊音。<sup>\[泰县\]</sup>  
 1. 【[𠷨腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia_io_r.md#𠷨腰<sub>儿</sub>)】`bia3 io1 r` <sup>[如皋]</sup> 腰椎变形，向一边倾斜的体形。或称人。  
 1. 【[𠷨眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bia_ngaen_r.md#𠷨眼<sub>儿</sub>)】`bia3 ngaen3 r` <sup>[如东]</sup> 眼睛斜视的人。  
 1. 【[㧙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#㧙)】`bieh7` <sup>[如皋]</sup> ① 转捩也：拿竹篙子～船头。 ② 强制、治：～～他的犟脾气。  

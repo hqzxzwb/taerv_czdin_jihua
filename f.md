@@ -157,7 +157,7 @@
 1. 【[翻跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu.md#翻跟头)】`faen1 gen1 teu` <sup>[如皋]</sup> ① 前滚翻。 ② 反复思考：我肚里～不曾歇。  
 1. 【[翻跟头虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu_chon.md#翻跟头虫)】`faen1 gen1 teu chon2` <sup>[兴化]</sup> 孑孓，蚊子的幼虫。  
 1. 【[翻跟头虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu_chon.md#翻跟头虫<sub>儿</sub>)】`faen1 gen1 teu chon2 r` <sup>[如皋]</sup> 孑孓。蚊的幼虫。  
-1. 【[翻关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_guaen.md#翻关)】`faen1 guaen1` <small>/fɛ̃1 kuɛ̃1/<sup>兴化</sup>, /fɛ̃1 kuɛ̃1/<sup>泰县</sup></small> ① 转手渔利<sup>\[兴化\]</sup>：这套公房他买啊四万块，一～就是十几万。<sup>\[兴化\]</sup> ② 转手渔利。<sup>\[泰县\]</sup>  
+1. 【[翻关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_guaen.md#翻关)】`faen1 guaen1` <small>/fɛ̃1 kuɛ̃1/<sup>兴化</sup>, /fɛ̃1 kuɛ̃1/<sup>泰县</sup></small> 转手渔利<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这套公房他买啊四万块，一～就是十几万。<sup>\[兴化\]</sup>  
 1. 【[翻骨碌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_loh_zz.md#翻骨碌子)】`faen1 gueh7 loh zz` <sup>[如皋]</sup> 喻反复思考、权衡利弊。  
 1. 【[翻骨路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_lv.md#翻骨路)】`faen1 gueh7 lv` <sup>[泰州]</sup> 翻滚的样子：小王力大，轻轻一推，就把老张推啊个～。｜他脚底下一不小心，就走楼上跌咖个～。  
 1. 【[翻古纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gv_zhr.md#翻古纸)】`faen1 gv3 zhr3` <sup>[兴化]</sup> 讲述过去的事情。谚曰：穷人～。  
@@ -556,7 +556,7 @@
 1. 【[飞象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_xian.md#飞象)】`fei1 xian6` <sup>[兴化]</sup> 象棋术语，指“象”向上角走。  
 1. 【[飞鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_y.md#飞鱼)】`fei1 y2` <sup>[如东]</sup> 飞鱼科动物燕鳐鱼，体长而扁圆，略呈梭形。  
 1. 【[飞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_zz.md#飞子)】`fei1 zz` <small>/fəi1 t͡sɿ/<sup>兴化</sup></small> ① 以纸条（古代以竹签）为据领取钱物的券、筹、符、发票等。（《汉典》释为一种以窄纸条做成，凭以领钱的筹码。）<sup>\[东台\]</sup>：借书人把书单叫做～。（汪曾祺《翠湖心影》）<sup>\[东台\]</sup> ② 商店收款后，发的顾客的简易取货凭证<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：服务员凭～上菜。<sup>\[兴化\]</sup>  
-1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <small>/fəɪ2/<sup>泰县</sup></small> ① 菜肴中肥肉多，肥味浓厚。<sup>\[如东\]</sup>：肥肉多，太～。<sup>\[如东\]</sup> ② 宽大。<sup>\[如东\]</sup>：这件衣裳～。<sup>\[如东\]</sup> ③ 粗。<sup>\[泰县\]</sup> ④ 胖<sup>\[泰州\]</sup>：人长得太～，不好看。<sup>\[泰州\]</sup> ⑤ 粗<sup>\[泰州\]</sup>：这根竹子太～，不好用。<sup>\[泰州\]</sup>  
+1. 【[肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei.md#肥)】`fei2` <small>/fəɪ2/<sup>泰县</sup></small> ① 菜肴中肥肉多，肥味浓厚。<sup>\[如东\]</sup>：肥肉多，太～。<sup>\[如东\]</sup> ② 宽大。<sup>\[如东\]</sup>：这件衣裳～。<sup>\[如东\]</sup> ③ 粗。<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：这根竹子太～，不好用。<sup>\[泰州\]</sup> ④ 胖<sup>\[泰州\]</sup>：人长得太～，不好看。<sup>\[泰州\]</sup>  
 1. 【[肥膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_bio.md#肥膘)】`fei2 bio1` <small>/fəi2 piɔ1/<sup>兴化</sup>, /fei2 piɔ1/<sup>如皋</sup>, /fəɪ2 piɔ1/<sup>泰兴</sup></small> ① 含脂肪多的肉，与“实膘”（瘦肉）相对。<sup>\[兴化\]</sup> ② 也指人虚胖，身上肌肉少。<sup>\[兴化\]</sup> ③ 肥肉的膘情，即肥肉的厚薄虚实。<sup>\[如皋\]</sup> ④ 肥肉。<sup>\[泰兴\]</sup>  
 1. 【[肥差事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chae_shr.md#肥差事)】`fei2 chae1 shr6` <sup>[如皋]</sup> 轻松、赚钱多的交易。  
 1. 【[肥肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fei_chan.md#肥肠)】`fei2 chan2` <sup>[如东]</sup> 猪大肠。多指已经加工过的熟货。  

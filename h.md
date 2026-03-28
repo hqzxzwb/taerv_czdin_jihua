@@ -491,7 +491,7 @@
 1. 【[黑巴擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ba_laeh_saeh.md#黑巴擸𢶍)】`heh7 ba1 laeh8 saeh7` <sup>[东台]</sup> 颜色黑暗，不清爽的样子。  
 1. 【[黑板揩揩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_baen_kae_kae.md#黑板揩揩<sub>儿</sub>)】`heh7 baen3 kae1 kae1 r` <sup>[如皋]</sup> 黑板擦。  
 1. 【[黑不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_beh_lieu_qieu.md#黑不溜秋)】`heh7 beh lieu qieu1` <sup>[如东]</sup> 灰黑色：这种布～的，不好看。  
-1. 【[黑不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_beh_lieu_qieu.md#黑不溜秋)】`heh7 beh7 lieu1 qieu1` <small>/xəʔ7 pəʔ7 liɤ1 t͡ɕʰiɤ1/<sup>兴化</sup></small> ① 形容黑得难看。<sup>\[东台\]</sup> ② 形容黑得难看<sup>\[兴化\]</sup>：他天天出去钓鱼，全身晒得～的。<sup>\[兴化\]</sup>  
+1. 【[黑不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_beh_lieu_qieu.md#黑不溜秋)】`heh7 beh7 lieu1 qieu1` <small>/xəʔ7 pəʔ7 liɤ1 t͡ɕʰiɤ1/<sup>兴化</sup></small> 形容黑得难看。<sup>\[东台\]</sup><sup>\[兴化\]</sup>：他天天出去钓鱼，全身晒得～的。<sup>\[兴化\]</sup>  
 1. 【[黑百万](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_boh_vaen.md#黑百万)】`heh7 boh7 vaen6` <sup>[兴化]</sup> 极言特别多：你的钱多得不得了，～。  
 1. 【[黑沉沉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_chen_chen.md#黑沉沉)】`heh7 chen2 chen2` <sup>[如东]</sup> 形容乌云低沉、暴雨欲来的形势。  
 1. 【[黑皂麻乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_co_ma_v.md#黑皂麻乌)】`heh7 co ma v1` <sup>[泰县]</sup> 黑得很：家里～的，一点儿都望不见。  
@@ -735,7 +735,7 @@
 1. 【[厚毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_toh.md#厚毒)】`heu6 toh8` <sup>[如东]</sup> 非常狠毒。  
 1. 【[厚粥烂饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_zhoh_laen_faen.md#厚粥烂饭)】`heu6 zhoh7 laen6 faen6` <sup>[如皋]</sup> 含水量过多的饭或含水量偏少的粥。  
 1. 【[后啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a.md#后啊)】`heu6 a` 后天。  
-1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 əʔ t͡sɿ/<sup>兴化</sup>, /xɤɯ1 əʔ t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup> ③ 后天<sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
+1. 【[后啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_a_zz.md#后啊子)】`heu6 a zz` <small>/xɤ6 əʔ t͡sɿ/<sup>兴化</sup>, /xɤɯ1 əʔ t͡se/<sup>泰县</sup></small> ① 后天，明天的明天。<sup>\[东台\]</sup> ② 后天。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：你～走。<sup>\[泰县\]</sup>  
 1. 【[后背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bei.md#后背)】`heu6 bei5` <sup>[如皋]</sup> 背部。  
 1. 【[后壁头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bieh_teu.md#后壁头)】`heu6 bieh7 teu2` <small>/xɤ6 piɪʔ7 tʰɤ2/<sup>兴化</sup>, /xəɪ1 piʔ7 tʰəɪ2/<sup>泰兴</sup></small> ① 后墙的外侧<sup>\[兴化\]</sup>：他家～就是菜市场。<sup>\[兴化\]</sup> ② 后墙里外的墙根处。<sup>\[泰兴\]</sup>  
 1. 【[后补](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_bv.md#后补)】`heu6 bv3` <small>/xɤ6 pu3/<sup>兴化</sup></small> ① 当时没有办到，以后再补上<sup>\[兴化\]</sup>：有情～。<sup>\[兴化\]</sup>｜“府上何人完姻？俺贺礼也不曾备来，只好～了。”（《说岳全传》三二）<sup>\[兴化\]</sup> ② 由于某种原因，当时没法表达情意，以后再想办法弥补<sup>\[泰州\]</sup>：把你忙吖半大天，真的不好意思，有情～。<sup>\[泰州\]</sup>  
