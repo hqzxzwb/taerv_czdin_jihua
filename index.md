@@ -282,7 +282,7 @@
 1. 【[叽呱鬼叫的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gua_guei_jio.md#叽呱鬼叫的)】`ji1 gua1 guei3 jio5 dii` <sup>[如皋]</sup> 号叫。又作“鬼叽哇召”。  
 1. 【[叽咕入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_reh_gv.md#叽咕入咕)】`ji1 gv1 reh8 gv1` 嘀咕  
 1. 【[叽咕入咕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_gv_reh_gv.md#叽咕入咕)】`ji1 gv1 reh8-rah8 gv1` <sup>[东台]</sup> （贬）形容背后闲言碎语多。也称“叽吧啰唆”。  
-1. 【[叽叽量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_lian.md#叽叽量)】`ji1 ji1 lian6` <sup>[泰县]</sup> 气量狭窄：这个人～，不要跟他较量。  
+1. 【[叽叽量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_lian.md#叽叽量)】`ji1 ji1 lian6` <small>/t͡sɿ1 t͡sɿ1 niɑŋ1/<sup>泰县</sup></small> 气量狭窄<sup>\[泰县\]</sup>：这个人～，不要跟他较量。<sup>\[泰县\]</sup>  
 1. 【[叽叽喳喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ji_zha_zha.md#叽叽喳喳)】`ji1 ji1 zha1 zha1` <sup>[东台]</sup> 形容鸟叫声或许多人发出的嘈杂声。  
 1. 【[叽苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_kv.md#叽苦)】`ji1 kv3` <sup>[如皋]</sup> 味很苦：黄连～。  
 1. 【[叽哩抹喳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_li_maeh_zha.md#叽哩抹喳)】`ji1 li1 maeh8 zha1` <sup>[东台]</sup> 尖声讲话，使人感到刺耳：几个小丫头七嘴八舌，～的。  
@@ -299,6 +299,7 @@
 1. 【[叽哇十召](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_va_sheh_cho.md#叽哇十召)】`ji1 va1 sheh8 cho6` <sup>[泰县]</sup> 大声吵闹。  
 1. 【[叽嗗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_vaeh.md#叽嗗)】`ji1 vaeh` <sup>[如皋]</sup> 象声词。  
 1. 【[机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#机)】`ji1` <small>/t͡ɕi1/<sup>兴化</sup>, /t͡sɿ1/<sup>泰县</sup></small> ① 用机器碾米或将加水后的面粉轧成面条。<sup>\[兴化\]</sup> ② 碾<sup>\[泰县\]</sup>：你把米拿去～下子。<sup>\[泰县\]</sup>  
+1. 【[机帆船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_faen_chun.md#机帆船)】`ji1 faen2 chun2` <sup>[如东]</sup> 渔船的一种。木壳，以内燃机与风帆为动力。吨位较大。主要从事海洋捕捞作业。  
 [更多...](./j.md)
 ## K
 1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰa1/<sup>泰县</sup></small> ① 揣、塞、放进<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup>｜把馒头朝嘴里～。<sup>\[如东\]</sup>｜把钱～啊袋里。<sup>\[东台\]</sup>｜吃不下去硬～。<sup>\[兴化\]</sup>｜街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup>｜他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ② 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ③ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ④ 抓（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup>：把药～住阿。<sup>\[泰县\]</sup> ⑤ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑥ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  
