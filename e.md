@@ -19,7 +19,7 @@
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <small>/ɚ2 ly3 t͡ɕʰin5 t͡ɕia/<sup>兴化</sup></small> ① 两家儿女相婚配的亲戚关系。<sup>\[兴化\]</sup> ② 称儿子的岳父、岳母或女儿的公公、婆婆。<sup>\[兴化\]</sup> ③ 因子女相婚配而形成的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
-1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <small>/ɚ2 suəŋ1 t͡sʰɿ1 iɤɯ3 ɚ2 suəŋ1 fɔʔ7/<sup>泰兴</sup></small> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”<sup>\[泰兴\]</sup>  
+1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <small>/ɚ2 suəŋ1 t͡sʰɿ1 iɤɯ3 ɚ2 suəŋ1 fɔʔ7/<sup>泰兴</sup></small> 谓子孙自有他们自己的福分，长辈不必操劳。<sup>\[泰兴\]</sup>：乡人云：“～，不愁没得三间屋。”<sup>\[泰兴\]</sup>  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  
@@ -86,7 +86,7 @@
 1. 【[二板浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_baen_jian.md#二板浆)】`er6 baen3 jian5` <sup>[泰县]</sup> 第二次。  
 1. 【[二不倰僜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_len_den.md#二不倰僜)】`er6 beh len2 den1` <sup>[泰州]</sup> 傻乎乎的样子：他就是个～的脾家，你不要惹他。  
 1. 【[二不溜秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_lieu_qieu.md#二不溜秋)】`er6 beh lieu1 qieu1` <sup>[泰县]</sup> ① 两头不落实：这件事～的。 ② 人或事不合规范。  
-1. 【[二不暇五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xia_v.md#二不暇五)】`er6 beh xia2 v3` <sup>[泰县]</sup> （禁忌语）呆：不要～的。  
+1. 【[二不暇五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xia_v.md#二不暇五)】`er6 beh xia2 v3` <small>/ɚ1 pəʔ ɕia2 u3/<sup>泰县</sup></small> （禁忌语）呆<sup>\[泰县\]</sup>：不要～的。<sup>\[泰县\]</sup>  
 1. 【[二不搭五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_daeh_v.md#二不搭五)】`er6 beh7 daeh7 v3` <sup>[泰州]</sup> “二五”是“二百五”的十分之一，比喻傻乎乎的：遇到这种得罪人的事，旁的人都让得远远的，只有他忙得像真的，你望望他这种～的形象嗷。  
 1. 【[二不担五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_daen_v.md#二不担五)】`er6 beh7 daen1 v3` <sup>[兴化]</sup> 不凑巧、不吻合：这个时候吃早饭嫌迟，吃中饭太早，～的。｜这段木料打床不够，打桌子又枉料，～的。  
 1. 【[二不过三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_gu_saen.md#二不过三)】`er6 beh7 gu5 saen1` ① 连续两次失误，兆头不好。<sup>\[东台\]</sup> ② 有些事要经过三次以上试验才能成功。<sup>\[东台\]</sup> ③ 表示不超出三次，不能再有下次，但通常还会有下次<sup>\[泰州\]</sup>：新车子半年时间不到已经碰掉两回漆，～，弄得不好还要再碰一回。<sup>\[泰州\]</sup>  
@@ -135,7 +135,7 @@
 1. 【[二交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go_xih.md#二交糏)】`er6 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，第一次磨出的面粉为“头交糏”；筛后再磨，磨出的面粉为～。  
 1. 【[二国槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_goh_huae.md#二国槐)】`er6 goh7 huae2` <sup>[东台]</sup> 刺槐，又叫洋槐。羽状复叶，椭圆形，类似本国槐树故名。  
 1. 【[二杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gun_zz.md#二杆子)】`er6 gun3 zz` <sup>[如东]</sup> 脾气倔强的人。  
-1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian` <small>/ɚ1 ku1 niã/<sup>如皋</sup></small> ① 娘娘腔的人。 ② 行二的女性。<sup>\[如皋\]</sup> ③ 两性人。<sup>\[如皋\]</sup> ④ 追男人的女人。俚云：“～倒贴”。<sup>\[如皋\]</sup>  
+1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian` <small>/ɚ1 ku1 niã/<sup>如皋</sup></small> ① 娘娘腔的人。 ② 行二的女性。<sup>\[如皋\]</sup> ③ 两性人。<sup>\[如皋\]</sup> ④ 追男人的女人。<sup>\[如皋\]</sup>：俚云：“～倒贴”。<sup>\[如皋\]</sup>  
 1. 【[二姑娘倒贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_do.md#二姑娘倒贴)】`er6 gv1 nian do5 tih7` <small>/ɚ6 ku1 liaŋ tɔ5 tʰiɪʔ7/<sup>兴化</sup>, /ɚ1 ku1 niɑŋ tɔ5 tʰiʔ7/<sup>泰兴</sup></small> ① （喻）本应得到，反而付出<sup>\[兴化\]</sup>：小胡对男朋友是～。<sup>\[兴化\]</sup>｜坏了！今儿还要～哩！（扬说《闯昭关》）<sup>\[兴化\]</sup> ② 喻指得不到收入，反而要贴本。源于明末秦淮八艳的故事。排行第二的名艳吴湘兰，人称“二姑娘”，遇上自己可心的郎君，不但不索嫖资，反而拿出体己的银两相赠，一时传为美谈。<sup>\[泰兴\]</sup>：箇笔生意不能做，肯定是～。<sup>\[泰兴\]</sup>  
 1. 【[二姑娘腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_qian.md#二姑娘腔)】`er6 gv1 nian qian1` <sup>[如皋]</sup> 见“奶奶腔”。  
 1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian2` <sup>[如东]</sup> ① 排行第二的姑娘。 ② 两性人。 ③ 性情温柔的男性：这个伢儿像个～。  

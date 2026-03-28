@@ -133,7 +133,7 @@
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_ga.md#儿女亲家)】`er2 ny3 qien5 ga` <sup>[如皋]</sup> 姻亲的双方家族间长辈的关系称。  
 1. 【[儿女亲家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qien_jia.md#儿女亲家)】`er2 ny3 qien5 jia` <small>/ɚ2 ly3 t͡ɕʰin5 t͡ɕia/<sup>兴化</sup></small> ① 两家儿女相婚配的亲戚关系。<sup>\[兴化\]</sup> ② 称儿子的岳父、岳母或女儿的公公、婆婆。<sup>\[兴化\]</sup> ③ 因子女相婚配而形成的亲戚关系。<sup>\[泰州\]</sup>  
 1. 【[儿时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_shr.md#儿时)】`er2 shr2` <sup>[如东]</sup> 少年时候。  
-1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <small>/ɚ2 suəŋ1 t͡sʰɿ1 iɤɯ3 ɚ2 suəŋ1 fɔʔ7/<sup>泰兴</sup></small> 谓子孙自有他们自己的福分，长辈不必操劳。古语有“～，莫与儿孙作马牛。”乡人云：“～，不愁没得三间屋。”<sup>\[泰兴\]</sup>  
+1. 【[儿孙自有儿孙福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福)】`er2 suen1 cz6 ieu3 er2 suen1 foh7` <small>/ɚ2 suəŋ1 t͡sʰɿ1 iɤɯ3 ɚ2 suəŋ1 fɔʔ7/<sup>泰兴</sup></small> 谓子孙自有他们自己的福分，长辈不必操劳。<sup>\[泰兴\]</sup>：乡人云：“～，不愁没得三间屋。”<sup>\[泰兴\]</sup>  
 1. 【[儿孙自有儿孙福，莫为儿孙当牛马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_cz_ieu.md#儿孙自有儿孙福，莫为儿孙当牛马)】`er2 suen1 cz6 ieu3 er2 suen1 foh7 mah8 vei6 er2 suen1 dan1 ngeu2 ma3` <sup>[东台]</sup> 要教育后代自强不息。  
 1. 【[儿孙满堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_suen_mun_tan.md#儿孙满堂)】`er2 suen1 mun3 tan2` <sup>[如东]</sup> 形容家庭人丁兴旺。  
 1. 【[儿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_zz.md#儿子)】`er2 zz` <sup>[如东]</sup> 自己的下一代男孩称儿子。亲生的，称生子；收养的，称养子；过继的，称嗣子。  

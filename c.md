@@ -836,7 +836,7 @@
 1. 【[城墙垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_qian_du_zz.md#城墙垛子)】`chen2 qian2 du3 zz` <sup>[如皋]</sup> 箭垛。如皋城有13座～。  
 1. 【[城头垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_teu_du_zz.md#城头垛子)】`chen2 teu2 du3 zz` <sup>[如皋]</sup> 城头上的女儿墙。  
 1. 【[城砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_zhun.md#城砖)】`chen2 zhun1` <sup>[如皋]</sup> 古代筑城专用的巨大青砖。  
-1. 【[成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#成)】`chen2` <small>/t͡sʰəŋ2/<sup>如皋</sup></small> 麻将、纸牌术语\[如皋：表示成功。\]  
+1. 【[成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen.md#成)】`chen2` <small>/t͡sʰəŋ2/<sup>如皋</sup></small> 麻将、纸牌术语，表示成功。<sup>\[如皋\]</sup>  
 1. 【[成单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_daen.md#成单)】`chen2 daen1` <small>/t͡sʰəŋ2 tɛ̃1/<sup>泰兴</sup></small> 形成单数。与“成双”相对而言。<sup>\[泰兴\]</sup>  
 1. 【[成趸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_den.md#成趸)】`chen2 den3` <sup>[兴化]</sup> 整批的：东西～儿买家来，价钱便宜得多。  
 1. 【[成趸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chen_den_r.md#成趸<sub>儿</sub>)】`chen2 den3 r` <small>/t͡sʰəŋ2 tə˞3/<sup>泰兴</sup>, /t͡sʰəŋ2 təŋ3 ɚ/<sup>泰县</sup></small> ① 集中一定的数量。<sup>\[如东\]</sup>：～往棉花收购站送。<sup>\[如东\]</sup> ② 集中一定数量。<sup>\[泰县\]</sup> ③ 相反<sup>\[泰县\]</sup>：你一说我～弄错啊。<sup>\[泰县\]</sup> ④ 成批<sup>\[泰兴\]</sup>：要买你就～的买，价钱便宜点。<sup>\[泰兴\]</sup>  
