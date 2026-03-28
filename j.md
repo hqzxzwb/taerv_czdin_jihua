@@ -159,7 +159,7 @@
 1. 【[济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#济)】`ji5` 左（手）。吴语区是尖音，所以不写成“季”。  
 1. 【[济彆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bih_zz.md#济彆子)】`ji5 bih7 zz` <sup>[如皋]</sup> 以左手为主即左重的人。  
 1. 【[济半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_bun_bin.md#济半边)】`ji5 bun5 bin1` <sup>[如东]</sup> 左半边。  
-1. 【[济脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah.md#济脚)】`ji5 jiah7` <small>/t͡ɕʝ5 t͡ɕiaʔ7/<sup>如皋</sup></small> ① 左脚。<sup>\[如东\]</sup> ② 左脚。<sup>\[如皋\]</sup>  
+1. 【[济脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_jiah.md#济脚)】`ji5 jiah7` <small>/t͡ɕʝ5 t͡ɕiaʔ7/<sup>如皋</sup></small> 左脚。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[济㩭牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ko_nga.md#济㩭牙)】`ji5 ko nga2` <sup>[如皋]</sup> 下门齿超出上门齿的口型。雅称“地包天”。  
 1. 【[济撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pih_zz.md#济撇子)】`ji5 pih7 zz` <small>/t͡ɕʝ5 pʰiʔ7 t͡sɿ/<sup>泰兴</sup></small> 左利手<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[济手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu.md#济手)】`ji5 sheu3` <small>/t͡ɕʝ5 sei3/<sup>如皋</sup>, /t͡ɕʝ5 ɕiɤɯ3/<sup>泰兴</sup></small> 左手。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
@@ -177,7 +177,7 @@
 1. 【[继配](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_pei.md#继配)】`ji5 pei5` <sup>[兴化]</sup> ① 器物中另配的零件。 ② 续娶的妻。  
 1. 【[虮䗜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_lieu_r.md#虮䗜<sub>儿</sub>)】`ji5 lieu2 r` <sup>[泰县]</sup> 蝉的一种。  
 1. 【[记不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_beh_chv.md#记不住)】`ji5 beh7 chv6` <sup>[如皋]</sup> 不能记住，老是忘掉。  
-1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～好｜有～｜你家妈妈的岁数大啊唻，～不行唻。<sup>\[泰州\]</sup>｜你家小伙的～好，学堂里的先生说他是块学历史的好料子。<sup>\[泰州\]</sup>  
+1. 【[记才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#记才)】`ji5 cae` <small>/t͡ɕi5 t͡sʰɛ/<sup>兴化</sup>, /t͡ɕʝ5 t͡sʰɛ/<sup>如皋</sup>, /t͡ɕʝ5 t͡ɕʰiɛ/<sup>泰兴</sup>, /t͡sɿ5 t͡sʰe/<sup>泰县</sup></small> 记性，记忆的能力<sup>\[通用\]</sup><sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～好<sup>\[通用\]</sup>｜有～<sup>\[通用\]</sup>｜你家妈妈的岁数大啊唻，～不行唻。<sup>\[泰州\]</sup>｜你家小伙的～好，学堂里的先生说他是块学历史的好料子。<sup>\[泰州\]</sup>  
 1. 【[记仇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cheu.md#记仇)】`ji5 cheu2` <sup>[如东]</sup> 记住已经发生的不满或仇恨。  
 1. 【[记得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh.md#记得)】`ji5 deh7` <sup>[如东]</sup> 没有忘记。  
 1. 【[记得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_deh_chv.md#记得住)】`ji5 deh7 chv6` <sup>[如皋]</sup> 能记住，不忘记。  
@@ -235,7 +235,7 @@
 1. 【[家法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_faeh.md#家法)】`jia1 faeh7` <sup>[如东]</sup> ① 封建时代家长统治本族和本家人的一套法规。 ② 封建时代家长责打家人的用具：你要吃～。  
 1. 【[家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu.md#家伙)】`jia1 hu3` <sup>[如东]</sup> ① 工具：挖泥的～。 ② 武器：他俫有～。 ③ 东西：这是甚的～？ ④ 指人：小～。  
 1. 【[家伙脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hu_lin_r.md#家伙脸<sub>儿</sub>)】`jia1 hu3 lin3 r` 面具  
-1. 【[家寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hun.md#家寒)】`jia1 hun2` <small>/t͡ɕia1 xũ2/<sup>兴化</sup></small> ① 家境贫穷<sup>\[兴化\]</sup>：他从小～上不起学。<sup>\[兴化\]</sup>｜“既是大爷可怜见，孩儿也是造化的。但只是～，没备办的。”（《金瓶梅词话》三七）<sup>\[兴化\]</sup> ② 家境贫穷<sup>\[泰州\]</sup>：他小时候～，上到小学毕业就不上唻。<sup>\[泰州\]</sup>  
+1. 【[家寒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_hun.md#家寒)】`jia1 hun2` <small>/t͡ɕia1 xũ2/<sup>兴化</sup></small> 家境贫穷<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他从小～上不起学。<sup>\[兴化\]</sup>｜“既是大爷可怜见，孩儿也是造化的。但只是～，没备办的。”（《金瓶梅词话》三七）<sup>\[兴化\]</sup>｜他小时候～，上到小学毕业就不上唻。<sup>\[泰州\]</sup>  
 1. 【[家业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ih.md#家业)】`jia1 ih8` <small>/t͡ɕiɑ1 iʔ8/<sup>泰兴</sup></small> ① 家庭财产。<sup>\[如东\]</sup> ② 家产；家庭生计。<sup>\[泰兴\]</sup>  
 1. 【[家燕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_in.md#家燕)】`jia1 in5` <sup>[如东]</sup> 燕科动物燕子的通称。翅膀尖而长，尾巴分开像剪刀。捕食昆虫，对农业有益。  
 1. 【[家计货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ji_hu.md#家计货)】`jia1 ji hu5` <sup>[东台]</sup> 结实耐用的家用器具。  
@@ -293,7 +293,7 @@
 1. 【[假马肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假马肏鬼)】`jia3 ma reh8 guei3` <small>/t͡ɕia3 ma ləʔ8 kuəi3/<sup>兴化</sup>, /t͡ɕiɑ3 mɑ ɻəʔ8 kuəɪ3/<sup>泰兴</sup></small> ① （讽）形容以假相骗人<sup>\[兴化\]</sup>：（张妈妈）～装着有顾忌的样子，骨里偷空想心思……（《皮五辣子》一）<sup>\[兴化\]</sup> ② 煞有介事地假装某种情形骗人<sup>\[泰州\]</sup>：她～的拿根棒儿装吖要打人的样子，才把细丫头吓咖不敢闹唻。<sup>\[泰州\]</sup> ③ 谦辞，无论怎么说也算得上是<sup>\[泰州\]</sup>：我～的也算是个高级工程师，这点儿东西难不住我。<sup>\[泰州\]</sup> ④ 假装；装得很像。<sup>\[泰兴\]</sup>  
 1. 【[假麻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假麻<sub>儿</sub>)】`jia3 ma2 r` <sup>[泰县]</sup> 假装：不要～，没事就早点儿家去。  
 1. 【[假麻肏鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_reh_guei.md#假麻肏鬼)】`jia3 ma2 reh8 guei3` <sup>[泰县]</sup> 假装：不要～的。  
-1. 【[假马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma.md#假马)】`jia3 ma3` <small>/t͡ɕia3 ma3/<sup>兴化</sup></small> ① 假装<sup>\[兴化\]</sup>：包兴趴到外面站起来<sup>\[兴化\]</sup>｜“大人有何吩咐？”～从外面进来……（扬一《天齐庙包公断太后》）<sup>\[兴化\]</sup> ② 假装<sup>\[泰州\]</sup>：过一刻儿他来的时候，你就～装住认不得他。<sup>\[泰州\]</sup>  
+1. 【[假马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma.md#假马)】`jia3 ma3` <small>/t͡ɕia3 ma3/<sup>兴化</sup></small> 假装<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：包兴趴到外面站起来<sup>\[兴化\]</sup>｜“大人有何吩咐？”～从外面进来……（扬一《天齐庙包公断太后》）<sup>\[兴化\]</sup>｜过一刻儿他来的时候，你就～装住认不得他。<sup>\[泰州\]</sup>  
 1. 【[假马佯𠺢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_ian_ga.md#假马佯𠺢)】`jia3 ma3 ian2 ga` <sup>[东台]</sup> 同“假马若鬼”。  
 1. 【[假马<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r.md#假马<sub>儿</sub>)】`jia3 ma3 r` <small>/t͡ɕia3 ma˞3/<sup>如皋</sup></small> ① 假的，假装。<sup>\[如东\]</sup>：他这吖表态，是～的。<sup>\[如东\]</sup> ② 伪装的、假情假意的。<sup>\[如皋\]</sup> ③ 假装<sup>\[东台\]</sup>：我～睡啊，哄你的呢！（台城多说“假马子”）<sup>\[东台\]</sup>  
 1. 【[假马<sub>儿</sub>入鬼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jia_ma_r_reh.md#假马<sub>儿</sub>入鬼的)】`jia3 ma3 r reh8 guei3 dii` <small>/t͡ɕia3 ma˞3 ɻəʔ8 kuei3 tei/<sup>如皋</sup></small> ① 伪装的，假情假意的。<sup>\[如皋\]</sup> ② 假装。<sup>\[如皋\]</sup>  
@@ -394,7 +394,7 @@
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah.md#□)】`jiah7` <sup>[兴化]</sup> 疑问代词，“怎啊”二出字急读的合音：今朝是你值班吖～？覅闹！一一～！（意为闹又怎么样？）  
 1. 【[脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah.md#脚)】`jiah7` <small>/t͡ɕiaʔ7/<sup>如皋</sup></small> ① 泛指腿跟脚 ② 令牛注意脚下的喝声。<sup>\[如皋\]</sup> ③ 剩余的、质差的、渣：～料、～货、下～。<sup>\[如皋\]</sup>  
 1. 【[脚巴掌心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_ba_zhan_xien.md#脚巴掌心)】`jiah7 ba1 zhan xien1` <sup>[如皋]</sup> 足心凹处。  
-1. 【[脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#脚班)】`jiah7 baen1` <small>/t͡ɕiaʔ7 pɛ̃1/<sup>兴化</sup>, /t͡ɕiaʔ7 pẽ1/<sup>如皋</sup>, /t͡ɕiɑʔ7 pɛ̃1/<sup>泰县</sup></small> ① 搬运工人。<sup>\[如皋\]</sup> ② 为死人扶终的服务队伍。<sup>\[东台\]</sup> ③ 旧时搬运业行会。<sup>\[兴化\]</sup> ④ 旧称搬运工人<sup>\[兴化\]</sup>：以前，他家上人做～。<sup>\[兴化\]</sup> ⑤ 搬运工人。<sup>\[泰县\]</sup>  
+1. 【[脚班](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#脚班)】`jiah7 baen1` <small>/t͡ɕiaʔ7 pɛ̃1/<sup>兴化</sup>, /t͡ɕiaʔ7 pẽ1/<sup>如皋</sup>, /t͡ɕiɑʔ7 pɛ̃1/<sup>泰县</sup></small> ① 搬运工人。<sup>\[如皋\]</sup><sup>\[泰县\]</sup> ② 为死人扶终的服务队伍。<sup>\[东台\]</sup> ③ 旧时搬运业行会。<sup>\[兴化\]</sup> ④ 旧称搬运工人<sup>\[兴化\]</sup>：以前，他家上人做～。<sup>\[兴化\]</sup>  
 1. 【[脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen.md#脚板)】`jiah7 baen3` <sup>[如东]</sup> 人的脚。  
 1. 【[脚板底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_di.md#脚板底)】`jiah7 baen3 di3` <small>/t͡ɕiaʔ7 pɛ̃3 təi3/<sup>兴化</sup>, /t͡ɕiaʔ7 pẽ3 tʝ3/<sup>如皋</sup></small> ① 脚底部。也称脚巴掌。<sup>\[如东\]</sup> ② 脚底部分的统称。<sup>\[如皋\]</sup> ③ 脚掌<sup>\[兴化\]</sup>：我一气跑五十多里，～都跑啊疼吖。<sup>\[兴化\]</sup> ④ 脚掌，足部接触地面的一面<sup>\[泰州\]</sup>：他～长吖个刺窝。<sup>\[泰州\]</sup>  
 1. 【[脚板心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiah_baen_xien.md#脚板心)】`jiah7 baen3 xien1` <small>/t͡ɕiaʔ7 pɛ̃3 ɕin1/<sup>兴化</sup>, /t͡ɕiaʔ7 pẽ3 ɕiəŋ1/<sup>如皋</sup></small> ① 脚弓下方。<sup>\[如皋\]</sup> ② 脚掌中央部分。<sup>\[兴化\]</sup> ③ 脚掌弓起部分中间之处<sup>\[泰州\]</sup>：他～过啊湿气，天天要烫脚。<sup>\[泰州\]</sup>  
@@ -895,7 +895,7 @@
 1. 【[金箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pah.md#金箔)】`jien1 pah8` <sup>[如东]</sup> ① 金薄片，多用以贴饰佛像、家具。 ② 涂上金属粉末的纸，民间用来折元宝祭祖。  
 1. 【[金骗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_pin_zz.md#金骗子)】`jien1 pin5 zz` <sup>[如东]</sup> 比喻骗人的能手。  
 1. 【[金钱松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qin_son.md#金钱松)】`jien1 qin2 son1` <sup>[如东]</sup> 落叶乔木，树冠阔圆形，树皮赤褐色，呈狭长鳞片状剥离。叶条形，互生或簇生。雄花黄色，簇生；雌花紫红色。球果卵形或倒卵形。  
-1. 【[金圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qiun_r.md#金圈<sub>儿</sub>)】`jien1 qiun1 r` <small>/t͡ɕiəŋ1 t͡ɕʰyʊ˞1/<sup>如皋</sup></small> ① 金耳环。<sup>\[如东\]</sup> ② 金耳环。<sup>\[如皋\]</sup>  
+1. 【[金圈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_qiun_r.md#金圈<sub>儿</sub>)】`jien1 qiun1 r` <small>/t͡ɕiəŋ1 t͡ɕʰyʊ˞1/<sup>如皋</sup></small> 金耳环。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[金圣叹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_taen.md#金圣叹)】`jien1 shen5 taen5` <sup>[如东]</sup> 明末清初文学评论家。比喻喜欢评论、批评的人：他是个～。  
 1. 【[金手镯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_chuah.md#金手镯)】`jien1 sheu3 chuah8` <sup>[如东]</sup> 手镯的一种。以金为原料制成的手镯。  
 1. 【[金手链](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_sheu_lin.md#金手链)】`jien1 sheu3 lin6` <sup>[如东]</sup> 手链的一种。金制，环形纹，套在手腕上，象征富贵。  
@@ -964,7 +964,7 @@
 1. 【[紧剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laeh.md#紧剌)】`jien3 laeh` <sup>[如皋]</sup> 指环境安排紧凑、不宽裕。  
 1. 【[紧剌剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_laeh_laeh_dii.md#紧剌剌的)】`jien3 laeh laeh dii` <sup>[如皋]</sup> 指环境安排紧凑、不宽裕。  
 1. 【[紧身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_zz.md#紧身子)】`jien3 shen zz` <small>/t͡ɕiŋ3 səŋ t͡sɿ/<sup>泰兴</sup></small> 棉袄的俗称。<sup>\[泰兴\]</sup>：棉～<sup>\[泰兴\]</sup>  
-1. 【[紧身<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_r.md#紧身<sub>儿</sub>)】`jien3 shen1 r` <small>/t͡ɕiŋ3 səŋ1 ɚ/<sup>泰县</sup></small> ① 贴身的内衣。<sup>\[如东\]</sup> ② 贴身的内衣。<sup>\[泰县\]</sup>  
+1. 【[紧身<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shen_r.md#紧身<sub>儿</sub>)】`jien3 shen1 r` <small>/t͡ɕiŋ3 səŋ1 ɚ/<sup>泰县</sup></small> 贴身的内衣。<sup>\[如东\]</sup><sup>\[泰县\]</sup>  
 1. 【[紧闩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_shuaen.md#紧闩)】`jien3 shuaen1` <sup>[如东]</sup> 封闭：围墙上留这们大的门，不～。  
 1. 【[紧腾腾的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten_dii.md#紧腾腾的)】`jien3 ten ten1 dii` <sup>[如皋]</sup> ① 状关闭很紧：城门关得～。 ② 包裹、填塞得满满的：天气冷，伢儿身上包得～。  
 1. 【[紧腾腾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jien_ten_ten.md#紧腾腾)】`jien3 ten1 ten1` <small>/t͡ɕin3 tʰən1 tʰən1/<sup>兴化</sup>, /t͡ɕiŋ3 tʰəŋ1 tʰəŋ1/<sup>泰兴</sup></small> ① 形容严实<sup>\[兴化\]</sup>：“说说也苦恼，房门关得～，赛过牢门……”（《四杰传》七七）<sup>\[兴化\]</sup> ② 形容非常紧。<sup>\[泰兴\]</sup>  
@@ -1097,7 +1097,7 @@
 1. 【[酒水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_shuei.md#酒水)】`jieu3 shuei3` <small>/t͡ɕiɤ3 suəi3/<sup>兴化</sup>, /t͡ɕiɤɯ3 suəɪ3/<sup>泰兴</sup></small> ① 宴席上酒、饮品以及菜肴的总称。<sup>\[泰州\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰兴：酒席\]：他儿子这次结婚单～就用掉好几万。<sup>\[泰州\]</sup>｜“……那班蛮奴才好不轻薄，还不肯吃残肴，连～将近要十两银子……”（《梼杌闲评》四）<sup>\[兴化\]</sup> ② 酒或其他饮料。<sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[酒水钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_shuei_qin.md#酒水钱)】`jieu3 shuei3 qin2` <sup>[东台]</sup> 宴请客人所需的酒、饮料、菜肴及一切开销的总称。  
 1. 【[酒塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_tan.md#酒塘)】`jieu3 tan2` <small>/t͡ɕiɤ3 tʰaŋ2/<sup>兴化</sup></small> ① 酒窝<sup>\[兴化\]</sup>：她一笑两个～。<sup>\[兴化\]</sup> ② 酒窝，人在笑的时候两颊出现的小圆坑<sup>\[泰州\]</sup>：一笑就有两个～。<sup>\[泰州\]</sup>  
-1. 【[酒塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_tan_r.md#酒塘<sub>儿</sub>)】`jieu3 tan2 r` <small>/t͡ɕyʊ3 tʰa˞2/<sup>如皋</sup>, /t͡ɕiɤɯ3 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 腮帮上的酒窝儿。<sup>\[如东\]</sup> ② 酒窝。<sup>\[如皋\]</sup> ③ 酒窝。<sup>\[泰县\]</sup>  
+1. 【[酒塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_tan_r.md#酒塘<sub>儿</sub>)】`jieu3 tan2 r` <small>/t͡ɕyʊ3 tʰa˞2/<sup>如皋</sup>, /t͡ɕiɤɯ3 tʰɑŋ2 ɚ/<sup>泰县</sup></small> ① 腮帮上的酒窝儿。<sup>\[如东\]</sup> ② 酒窝。<sup>\[如皋\]</sup><sup>\[泰县\]</sup>  
 1. 【[酒烫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_tan_zz.md#酒烫子)】`jieu3 tan5 zz` <sup>[如皋]</sup> 烫酒器。内层𣥼酒，外层𣥼热水以烫酒。常见为锡、瓷质。  
 1. 【[酒坛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_tun_zz.md#酒坛子)】`jieu3 tun2 zz` <small>/t͡ɕiɤ3 tʰũ2 t͡sɿ/<sup>兴化</sup>, /t͡ɕyʊ3 tʰʊ̃2 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɤɯ3 tʰʊ̃2 t͡sɿ/<sup>泰兴</sup>, /t͡ɕiɤɯ3 tʰõ2 t͡se/<sup>泰县</sup></small> ① 酒窝 ② 陶制容器。椭圆形，口小，腹大，用来盛酒。一般标准，身高53厘米，颈高3厘米，口径13厘米，肩径28厘米，底径23厘米。<sup>\[如东\]</sup> ③ 贮酒陶器。小口、小底、大胸的高坛子。<sup>\[如皋\]</sup> ④ （戏）指女儿。因女婿常以烟洒等恭维岳丈，故有此戏言<sup>\[兴化\]</sup>：老刘的爱人这次又生吖个～。<sup>\[兴化\]</sup> ⑤ 女孩。<sup>\[泰县\]</sup> ⑥ 盛酒用的坛子。<sup>\[泰州\]</sup> ⑦ 谑指女儿，女儿嫁人以后，女婿四时八节给岳父送的礼中必有酒。<sup>\[泰州\]</sup> ⑧ 乡人谓生女孩为酒坛子。意思是将来女儿女婿会送酒来孝敬丈人。<sup>\[泰兴\]</sup>  
 1. 【[酒误子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_v_zz.md#酒误子)】`jieu3 v6 zz` <small>/t͡ɕiɤɯ3 ʋ1 t͡sɿ/<sup>泰兴</sup></small> 经常喝酒误事或烂饮不务正事的人。<sup>\[泰兴\]</sup>  
@@ -1152,7 +1152,7 @@
 1. 【[接财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_cae_shen.md#接财神)】`jih7 cae2 shen2` <small>/t͡ɕiɪʔ7 t͡sʰɛ2 sən2/<sup>兴化</sup></small> ① （民俗）旧时台城正月初五凌晨，人们争先早起，敲锣，放鞭炮，摆上猪头、鲤鱼、雄鸡三牲及八碟干果祭品，并献上好酒，前往银锭桥口的财神庙，迎接路头神回家。<sup>\[东台\]</sup> ② 民俗<sup>\[兴化\]</sup>：正月初五黎明，家家焚香烛，放鞭炮，迎接赵公元师（财神爷）送来财运。<sup>\[兴化\]</sup> ③ （借）旧谓土匪绑票。<sup>\[兴化\]</sup>  
 1. 【[接顿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_den_r.md#接顿<sub>儿</sub>)】`jih7 den5 r` <small>/t͡ɕiɪʔ7 tən5 ɚ/<sup>兴化</sup>, /t͡ɕiʔ7 tə˞5/<sup>如皋</sup>, /t͡ɕiɪʔ7 təŋ5 ɚ/<sup>泰县</sup></small> ① 上下午的加餐。<sup>\[如皋\]</sup> ② 正餐之外的便餐<sup>\[兴化\]</sup>：大忙时候下午要吃～。<sup>\[兴化\]</sup> ③ 附加的一顿：夏天下午要～。<sup>\[泰县\]</sup>  
 1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu` <sup>[泰州]</sup> ① （泰州词典作接头） ② 接着，紧紧接在某件事后做某件事：老李喝咖三杯以后，老赵～也喝咖三杯。  
-1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu5` <small>/t͡ɕiɪʔ7 tɤ5/<sup>兴化</sup>, /t͡ɕiɪʔ7 tɤɯ5/<sup>泰县</sup></small> ① 紧接着<sup>\[兴化\]</sup>：四个武将走后，～又来四个文人。（《火烧赤壁》一）<sup>\[兴化\]</sup> ② 紧接着<sup>\[泰县\]</sup>：我～就来，你稍等刻儿。<sup>\[泰县\]</sup>  
+1. 【[接斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_deu.md#接斗)】`jih7 deu5` <small>/t͡ɕiɪʔ7 tɤ5/<sup>兴化</sup>, /t͡ɕiɪʔ7 tɤɯ5/<sup>泰县</sup></small> 紧接着<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：四个武将走后，～又来四个文人。（《火烧赤壁》一）<sup>\[兴化\]</sup>｜我～就来，你稍等刻儿。<sup>\[泰县\]</sup>  
 1. 【[接二连三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_er_lin_saen.md#接二连三)】`jih7 er6 lin2 saen1` <sup>[泰州]</sup> 一个接着一个：这些年来家里好事不断，～。  
 1. 【[接家伙打家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_ga_hu_da.md#接家伙打家伙)】`jih7 ga1 hu da3 ga1 hu` <sup>[兴化]</sup> （喻）形容七嘴八舌，人声杂乱：会场上他一言，你一语，～，乱成一锅粥。  
 1. 【[接骨木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_gueh_moh.md#接骨木)】`jih7 gueh7 moh8` <sup>[如东]</sup> 忍冬科植物接骨木，落叶灌木或乔木。  
@@ -1412,7 +1412,7 @@
 1. 【[交换](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_hun.md#交换)】`jio1 hun6` <sup>[如东]</sup> 相互对斢。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i` <sup>[如东]</sup> 贸易活动。也称买卖：出门做～。  
 1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_i.md#交易)】`jio1 i6` <sup>[东台]</sup> 除一般释义外，指职业、职务：他找了个好～（找了份好工作）｜他的～𠫓掉啊（职位被免了，或者被辞退了）。  
-1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ieh.md#交易)】`jio1 ieh` <small>/t͡ɕiɔ1 iəʔ/<sup>兴化</sup>, /t͡ɕiɔ1 ʝ/<sup>如皋</sup>, /t͡ɕiɔ1 iʔ/<sup>泰兴</sup>, /t͡ɕiɔ1 iɪʔ/<sup>泰县</sup></small> ① 交易，事情：今朝有甚的～唃？/今天有什么活计没？ ② 买卖，生意<sup>\[泰州\]</sup>：两百台空调，是一笔大～。<sup>\[泰州\]</sup> ③ 职业<sup>\[泰州\]</sup>：你家爸爸过去做甚的～啊？<sup>\[泰州\]</sup> ④ 工作过程中出现的令人不满意的情况<sup>\[泰州\]</sup>：这个弄的甚的～啊，通知三点钟开会，到现在才来啊七八个人。<sup>\[泰州\]</sup>｜他这个～弄得好唻，教他到科技局开会去的，他跑啊科协去啊。<sup>\[泰州\]</sup>  
+1. 【[交易](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ieh.md#交易)】`jio1 ieh` <small>/t͡ɕiɔ1 iəʔ/<sup>兴化</sup>, /t͡ɕiɔ1 ʝ/<sup>如皋</sup>, /t͡ɕiɔ1 iʔ/<sup>泰兴</sup>, /t͡ɕiɔ1 iɪʔ/<sup>泰县</sup></small> ① 交易，事情<sup>\[通用\]</sup>：今朝有甚的～唃？/今天有什么活计没？<sup>\[通用\]</sup> ② 买卖，生意<sup>\[泰州\]</sup>：两百台空调，是一笔大～。<sup>\[泰州\]</sup> ③ 职业<sup>\[泰州\]</sup>：你家爸爸过去做甚的～啊？<sup>\[泰州\]</sup> ④ 工作过程中出现的令人不满意的情况<sup>\[泰州\]</sup>：这个弄的甚的～啊，通知三点钟开会，到现在才来啊七八个人。<sup>\[泰州\]</sup>｜他这个～弄得好唻，教他到科技局开会去的，他跑啊科协去啊。<sup>\[泰州\]</sup>  
 1. 【[交九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jieu.md#交九)】`jio1 jieu3` <sup>[如东]</sup> 天气进入寒冷时期的一种计算方法。从冬至开始，至惊蛰结束，九天为一周期，称头九、二九、三九到九九，共九期，81天。气候最冷为三九、四九，有“三九四九不出手”的民谣。  
 1. 【[交节刻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jih_keh.md#交节刻)】`jio1 jih7 keh7` <sup>[兴化]</sup> 见“交时节”。  
 1. 【[交节令](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jih_lien.md#交节令)】`jio1 jih7 lien6` <sup>[如皋]</sup> 节气更迭。  
@@ -1518,7 +1518,7 @@
 1. 【[叫鸡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ji_zz.md#叫鸡子)】`jio5 ji1 zz` <sup>[兴化]</sup> 哨子。  
 1. 【[叫将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jian_jyen.md#叫将军)】`jio5 jian1 jyen1` <sup>[泰州]</sup> 向对方提出挑战：这桩事他的确有做得不妥的地方，不过他既然请人出来同你打啊招呼，你也就不要在同他～唻。  
 1. 【[叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#叫叫<sub>儿</sub>)】`jio5 jio5-3 r` <sup>[东台]</sup> ① 哨子。 ② “文革”时轻视教师的语言（“叫”是“教”的谐音）。  
-1. 【[叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#叫叫<sub>儿</sub>)】`jio5 jio5 r` <small>/t͡ɕiɔ5 t͡ɕiɔ˞5/<sup>如皋</sup>, /t͡ɕiɔ5 t͡ɕiɔ5 ɚ/<sup>泰县</sup></small> ① 口哨。<sup>\[如东\]</sup> ② 哨子。<sup>\[如皋\]</sup> ③ 贬称教师。<sup>\[如皋\]</sup> ④ 哨子。<sup>\[泰县\]</sup> ⑤ （贬义）教师。<sup>\[泰县\]</sup>  
+1. 【[叫叫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#叫叫<sub>儿</sub>)】`jio5 jio5 r` <small>/t͡ɕiɔ5 t͡ɕiɔ˞5/<sup>如皋</sup>, /t͡ɕiɔ5 t͡ɕiɔ5 ɚ/<sup>泰县</sup></small> ① 口哨。<sup>\[如东\]</sup> ② 哨子。<sup>\[如皋\]</sup><sup>\[泰县\]</sup> ③ 贬称教师。<sup>\[如皋\]</sup> ④ （贬义）教师。<sup>\[泰县\]</sup>  
 1. 【[叫叫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_zz.md#叫叫子)】`jio5 jio5 zz` <sup>[兴化]</sup> 哨子。  
 1. 【[叫开的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_kae_dii.md#叫开的)】`jio5 kae1 dii` <sup>[如皋]</sup> 见“叫明”。  
 1. 【[叫窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ku.md#叫窠)】`jio5 ku1` <small>/t͡ɕiɔ5 kʰʊ1/<sup>如皋</sup>, /t͡ɕiɔ5 kʰɤɯ1/<sup>泰兴</sup>, /t͡ɕiɔ5 kʰo1/<sup>泰县</sup></small> 雌畜发情。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[如皋：不住地叫，烦躁不安。\]\[泰州：家畜发情时不停地发出烦躁不安的叫声的行为\]：猫儿～。<sup>\[泰州\]</sup>  
@@ -1635,7 +1635,7 @@
 1. 【[嘴刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_dio.md#嘴刁)】`jy3 dio1` ① 过分讲究吃喝的口味，很会挑剔<sup>\[东台\]</sup>：他的～，厨师不好办。<sup>\[东台\]</sup> ② 相对“嘴泼”，吃饭挑食，不合口味就不吃<sup>\[泰州\]</sup>：这个丫头～得很，从小鸡鸭鹅就不进嘴，你说咖也没得用。<sup>\[泰州\]</sup>  
 1. 【[嘴搁咖人头上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gah_ga_ren.md#嘴搁咖人头上)】`jy3 gah7 ga ren2 teu2 shan` <small>/t͡ɕy3 kaʔ7 ka ɻəŋ2 tʰei2 sã/<sup>如皋</sup></small> ① 自以为是，专门责怪或数落别人。<sup>\[如皋\]</sup> ② 说话总是责怪人，以势压人，显示自己了不起。<sup>\[东台\]</sup>  
 1. 【[嘴寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gua.md#嘴寡)】`jy3 gua3` <sup>[如皋]</sup> 多话，好插话。  
-1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gun.md#嘴干)】`jy3 gun1` <small>/t͡ɕy3 kʊ̃1/<sup>如皋</sup></small> ① 口渴。<sup>\[如东\]</sup>：～，要喝水。<sup>\[如东\]</sup> ② 口渴。<sup>\[如皋\]</sup>  
+1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_gun.md#嘴干)】`jy3 gun1` <small>/t͡ɕy3 kʊ̃1/<sup>如皋</sup></small> 口渴。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：～，要喝水。<sup>\[如东\]</sup>  
 1. 【[嘴豁豁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_huaeh_huaeh_r.md#嘴豁豁<sub>儿</sub>)】`jy3 huaeh7 huaeh7 r` <sup>[如东]</sup> 嘴的两边。  
 1. 【[嘴猾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_huaeh.md#嘴猾)】`jy3 huaeh8` <sup>[如皋]</sup> 说话刁猾。  
 1. 【[嘴一搨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_ieh_taeh.md#嘴一搨)】`jy3 ieh7 taeh7` <sup>[东台]</sup> 随口一说。（搨，古籍用字𧪦，《广韵》多言。）：你这～，人家就当成大事来办吖。  

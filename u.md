@@ -270,14 +270,14 @@
 1. 【[暗语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_y.md#暗语)】`un5 y3` <sup>[如东]</sup> 秘密规定的语言：你俫之间联系必须用～。  
 1. 【[暗账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#暗账)】`un5 zhan5` <sup>[如东]</sup> 秘密的账目。  
 1. 【[案板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_baen.md#案板)】`un5 baen3` <sup>[东台]</sup> 肉店、裁缝店、厨房的工作台面。  
-1. 【[案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zz.md#案子)】`un5 zz` <small>/ʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 案件。<sup>\[如东\]</sup>：这个～大。用树段、条桌或木板做成的斫肉墩子，叫做案子。也叫肉案子。<sup>\[如东\]</sup> ② 长而大的桌子<sup>\[泰兴\]</sup>：肉～<sup>\[泰兴\]</sup> ③ 案件。<sup>\[泰兴\]</sup>  
+1. 【[案子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zz.md#案子)】`un5 zz` <small>/ʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 案件。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这个～大。用树段、条桌或木板做成的斫肉墩子，叫做案子。也叫肉案子。<sup>\[如东\]</sup> ② 长而大的桌子<sup>\[泰兴\]</sup>：肉～<sup>\[泰兴\]</sup>  
 1. 【[涴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#涴)】`un5` <sup>[东台]</sup> 污染；弄脏；液体渗到物体上形成斑痕：韩愈诗“勿使泥尘～。”｜防止墨水～到纸上｜浅色的衣服不耐～。  
 1. 【[涴算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun.md#涴算)】`un5 sun` <sup>[东台]</sup> ① 环境脏乱差，令人烦燥，不爽。 ② ［引］社会环境不宽松，人际关系复杂。  
 1. 【[涴酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun.md#涴酸)】`un5 sun` <sup>[兴化]</sup> ① 不洁：这个地方太～。 ② 不适感：几天不洗澡，身上～。 ③ 麻烦：有话说话，覅～。｜这桩事弄不好有点～！  
 1. 【[涴算人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_sun_ren.md#涴算人)】`un5 sun5 ren2` <sup>[东台]</sup> 常常用麻烦事打扰别人，叫人不得清静，令人讨厌。  
 1. 【[谙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#谙)】`un5` <sup>[东台]</sup> （惯用音）熟悉其中情况，掌握其规律：他搞这行当几十年，对这个业务是蛮～的。  
 1. 【[谙行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_han.md#谙行)】`un5 han2` <small>/ũ5 xaŋ2/<sup>兴化</sup></small> ① （惯用音）懂行，内行。<sup>\[东台\]</sup> ② 熟悉、内行：他对农业机械～，对水利不熟悉。<sup>\[兴化\]</sup>  
-1. 【[岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#岸)】`un6` <small>/ũ6/<sup>兴化</sup>, /ʊ̃1/<sup>如皋</sup>, /ʊ̃1/<sup>泰兴</sup>, /õ1/<sup>泰县</sup></small> ① 岸，水边陆地：～上｜河～ ② 打谷场<sup>\[如皋\]</sup>：庄稼上吖～<sup>\[如皋\]</sup>  
+1. 【[岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#岸)】`un6` <small>/ũ6/<sup>兴化</sup>, /ʊ̃1/<sup>如皋</sup>, /ʊ̃1/<sup>泰兴</sup>, /õ1/<sup>泰县</sup></small> ① 岸，水边陆地<sup>\[通用\]</sup>：～上<sup>\[通用\]</sup>｜河～<sup>\[通用\]</sup> ② 打谷场<sup>\[如皋\]</sup>：庄稼上吖～<sup>\[如皋\]</sup>  
 1. 【[岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_co.md#岸草)】`un6 co3` <sup>[如皋]</sup> 固岸草。常见有高岸草乌蓲、苮棵、芒棵；低岸草芦苇、红草。  
 1. 【[岸坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_kun.md#岸坎)】`un6 kun3` <sup>[兴化]</sup> 河边的坡岸：～子地势低，雨季大半下水。｜只见满河是鸭……也有埋在～草窝里的……（马春阳：《“小没魂”放鸭》）  
 1. 【[岸上划船——行不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shan_hua_chun.md#岸上划船——行不通)】`un6 shan6 hua2 chun2 xien2 beh7 ton1` <sup>[东台]</sup>   

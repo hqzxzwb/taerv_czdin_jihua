@@ -69,7 +69,7 @@
 1. 【[耳头闭气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_bi_qi.md#耳头闭气)】`er3 teu bi5 qi5` <sup>[兴化]</sup> ① 耳朵一时失听。 ② 指斥人注意力不集中：他～，这吖大的声音也听不见。  
 1. 【[耳头边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_bin_r.md#耳头边<sub>儿</sub>)】`er3 teu bin1 r` <sup>[如皋]</sup> 耳轮、耳廓。  
 1. 【[耳头端<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_dun_r.md#耳头端<sub>儿</sub>)】`er3 teu dun1 r` <sup>[如皋]</sup> 耳垂。也说“耳头端子”。  
-1. 【[耳头端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_dun_zz.md#耳头端子)】`er3 teu dun1 zz` <small>/ɚ3 tʰɤ tũ1 t͡sɿ/<sup>兴化</sup>, /ɚ3 tʰei tʊ̃1 t͡sɿ/<sup>如皋</sup></small> ① 耳垂。<sup>\[如东\]</sup> ② 耳垂。<sup>\[如皋\]</sup> ③ 耳垂，在耳廓（边）的下部。<sup>\[兴化\]</sup>  
+1. 【[耳头端子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_dun_zz.md#耳头端子)】`er3 teu dun1 zz` <small>/ɚ3 tʰɤ tũ1 t͡sɿ/<sup>兴化</sup>, /ɚ3 tʰei tʊ̃1 t͡sɿ/<sup>如皋</sup></small> ① 耳垂。<sup>\[如东\]</sup><sup>\[如皋\]</sup> ② 耳垂，在耳廓（边）的下部。<sup>\[兴化\]</sup>  
 1. 【[耳头发背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_faeh_bei.md#耳头发背)】`er3 teu faeh7 bei5` <sup>[如皋]</sup> 听觉不灵敏。  
 1. 【[耳头发热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_faeh_rih.md#耳头发热)】`er3 teu faeh7 rih8` <small>/ɚ3 tʰɤ fæʔ7 liɪʔ8/<sup>兴化</sup>, /ɚ3 tʰei feʔ7 ɻiʔ8/<sup>如皋</sup></small> ① 俗称背后遭别人议论会使～。<sup>\[如皋\]</sup> ② 家畜有病。<sup>\[如皋\]</sup> ③ （戏）谓背后有人提及或遭人议论<sup>\[兴化\]</sup>：怪不得这几天我～，原来是你在背后说我嗲！<sup>\[兴化\]</sup>  
 1. 【[耳头根子软](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_teu_gen_zz.md#耳头根子软)】`er3 teu gen1 zz run3` <sup>[如皋]</sup> 指缺主见，易受别人左右的个性。  
@@ -194,7 +194,7 @@
 1. 【[二娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_nian_zz.md#二娘子)】`er6 nian zz` <sup>[兴化]</sup> ① 背称二儿媳或妯娌中行二者。 ② 妾：“邻船上有一个贩枣子客人，要取一个～……”（《清平山堂话本·错认尸》）  
 1. 【[二娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_nian.md#二娘)】`er6 nian2` <small>/ɚ6 liaŋ2/<sup>兴化</sup></small> ① 第二个儿子的媳妇，称二娘。<sup>\[如东\]</sup> ② 对二伯母的称谓。<sup>\[如东\]</sup> ③ 二儿媳。<sup>\[兴化\]</sup> ④ 妯娌中行二者。<sup>\[兴化\]</sup>  
 1. 【[二女桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ny_qio.md#二女桥)】`er6 ny3 qio2` <sup>[东台]</sup> 现为老204国道经过何垛河的大桥。相传曾有二女捐自己长期劳作所得在此建桥。  
-1. 【[二嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_on_zz.md#二嗡子)】`er6 on5 zz` <small>/ɚ6 oŋ5 t͡sɿ/<sup>兴化</sup>, /ɚ1 ɔŋ5 t͡sɿ/<sup>如皋</sup>, /ɚ1 oŋ5 t͡se/<sup>泰县</sup></small> ① 中低音胡琴。<sup>\[如皋\]</sup> ② 二胡的俗称。胡琴的一种。<sup>\[东台\]</sup> ③ 二胡。<sup>\[兴化\]</sup> ④ 二胡。<sup>\[泰县\]</sup>  
+1. 【[二嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_on_zz.md#二嗡子)】`er6 on5 zz` <small>/ɚ6 oŋ5 t͡sɿ/<sup>兴化</sup>, /ɚ1 ɔŋ5 t͡sɿ/<sup>如皋</sup>, /ɚ1 oŋ5 t͡se/<sup>泰县</sup></small> ① 中低音胡琴。<sup>\[如皋\]</sup> ② 二胡的俗称。胡琴的一种。<sup>\[东台\]</sup> ③ 二胡。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[二皮缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pi_gan.md#二皮缸)】`er6 pi2 gan1` <sup>[如东]</sup> 缸的一种。陶制，圆桶形，比头皮缸略小。高67厘米，口径94厘米，底径55厘米。用于储存水或物。  
 1. 【[二篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pon.md#二篷)】`er6 pon2` <sup>[如东]</sup> 张挂在二樯上的篷。  
 1. 【[二破话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_pu_hua.md#二破话)】`er6 pu5 hua6` <sup>[如东]</sup> 反悔的话：不能说～。  

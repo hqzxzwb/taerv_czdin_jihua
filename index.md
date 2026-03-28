@@ -1,11 +1,11 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## A
-1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` <small>/əʔ/<sup>兴化</sup>, /a/<sup>如皋</sup>, /a/<sup>泰兴</sup>, /əʔ/<sup>泰县</sup></small> ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
+1. 【[啊/吖/咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a.md#啊/吖/咖)】`a, nga, ga` ① 相当或部分相当于助词“了”：打啊油，买啊菜，找啊两块钱。 ② 相当于助词“着”：捧吖猪头没庙送。 ③ 相当或部分相当于介词“在”：站吖门口；放吖心上。 ④ 相当或部分相当于趋向动词“到”：放吖桌上去；站吖桥上来。 ⑤ 相当于助词“得”的部分功能：忙吖昏吖；疼吖睡不着。 ⑥ 表示感叹：多好啊；多香吖。 ⑦ 根据前字韵母不同而有不同发音，阴声韵后为“啊a”，阳声韵后为“吖nga”，入声韵后为“咖ga”。在表示❶到❺含义时，部分地区发音促化。  
 1. 【[啊哟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_io.md#啊哟)】`a io` <small>/a iɔ/<sup>泰兴</sup></small> 叹词，表示惊讶、痛苦等<sup>\[泰兴\]</sup>  
 1. 【[啊哟外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_io_vae.md#啊哟外)】`a io vae` <small>/a iɔ ʋɛ/<sup>泰兴</sup></small> 口语。表示惊讶、疼痛等。<sup>\[泰兴\]</sup>  
 1. 【[啊哇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_va.md#啊哇)】`a va1` <sup>[兴化]</sup> 相当于语气词“了”“啦”：他走～。｜饭烧好～。  
-1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` <small>/əʔ t͡sɿ/<sup>兴化</sup>, /a t͡sɿ/<sup>如皋</sup>, /a t͡sɿ/<sup>泰兴</sup>, /əʔ t͡se/<sup>泰县</sup></small> 相当于“下子”，接在阴声韵之后。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：试～；来～；请你出来～。｜你笑～。<sup>\[泰州\]</sup>｜你去～就行。<sup>\[泰州\]</sup>  
+1. 【[啊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/a_zz.md#啊子)】`a zz` <small>/a t͡sɿ/<sup>泰兴</sup></small> 相当于“下子”，接在阴声韵之后。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：试～；来～；请你出来～。｜你笑～。<sup>\[泰州\]</sup>｜你去～就行。<sup>\[泰州\]</sup>  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae1` <sup>[如皋]</sup> 叹词。轻呼声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae2` <sup>[如皋]</sup> 叹词。警示声。  
 1. 【[嗳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/a/ae.md#嗳)】`ae3` <sup>[如皋]</sup> 叹词。否定声。  
@@ -87,7 +87,7 @@
 ## D
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da` <sup>[兴化]</sup> 语气词，用于疑问句末：这东西是你的～？｜这话是你说的～？  
 1. 【[咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#咑)】`da2` <sup>[如皋]</sup> 象声词：啲啲咑咑（di2 di2 da2 da2），吴咑吴咑（v2 da2 v2 da2）。  
-1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` <small>/ta3/<sup>兴化</sup>, /ta3/<sup>如皋</sup>, /tɑ3/<sup>泰兴</sup>, /ta3/<sup>泰县</sup></small> ① 击打<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～人。<sup>\[如东\]</sup>｜～腰鼓<sup>\[泰兴\]</sup> ② 跌坏、摔坏<sup>\[如东\]</sup><sup>\[如东\]</sup>：杯儿～掉啊。（杯子摔坏了。）｜花瓶～掉啊。<sup>\[如东\]</sup>｜他把木箱～掉啊。<sup>\[如东\]</sup> ③ 洗、擦（肥皂）<sup>\[兴化\]</sup>：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup> ④ 量词。铅笔十二支叫一打；火柴十盒叫一打。<sup>\[泰兴\]</sup>：今天买lei一～新筷子。<sup>\[泰兴\]</sup>  
+1. 【[打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#打)】`da3` <small>/ta3/<sup>兴化</sup>, /ta3/<sup>如皋</sup>, /tɑ3/<sup>泰兴</sup>, /ta3/<sup>泰县</sup></small> ① 击打<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～人。<sup>\[如东\]</sup>｜～腰鼓<sup>\[泰兴\]</sup> ② 跌坏、摔坏<sup>\[通用\]</sup><sup>\[如东\]</sup><sup>\[如东\]</sup>：杯儿～掉啊。（杯子摔坏了。）<sup>\[通用\]</sup>｜花瓶～掉啊。<sup>\[如东\]</sup>｜他把木箱～掉啊。<sup>\[如东\]</sup> ③ 洗、擦（肥皂）<sup>\[兴化\]</sup>：拿洋碱把手巾～～。<sup>\[兴化\]</sup>｜拿香皂把身上～～。<sup>\[兴化\]</sup> ④ 量词。铅笔十二支叫一打；火柴十盒叫一打。<sup>\[泰兴\]</sup>：今天买lei一～新筷子。<sup>\[泰兴\]</sup>  
 1. 【[打啊春，赤脚奔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_chuen_cheh.md#打啊春，赤脚奔)】`da3 a chuen1 cheh7 jiah7 ben1` <sup>[东台]</sup> 立春后天气转暖，夸张可以赤脚走路了。  
 1. 【[打啊夹墙塴里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_gaeh_qian.md#打啊夹墙塴里)】`da3 a gaeh7 qian2 bon5 lii` <sup>[如皋]</sup> 介于两者之间，处于尴尬境地而为难、委屈。  
 1. 【[打啊高宵的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_a_go_xio.md#打啊高宵的)】`da3 a go1 xio1 dii` <sup>[东台]</sup> 因事熬了夜，睡眠不足。  
@@ -110,7 +110,7 @@
 1. 【[打不平](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_pien.md#打不平)】`da3 beh7 pien2` <sup>[兴化]</sup> 帮助受欺压的人说话或采取某种行动：武松在家行侠仗义，惯～。（《武松》一）  
 1. 【[打不起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_beh_qi.md#打不起)】`da3 beh7 qi3` <sup>[如皋]</sup> 秤的称量不够。  
 1. 【[打比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bi_zz.md#打比子)】`da3 bi3 zz` <sup>[如皋]</sup> 相对比。  
-1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piɪ̃3/<sup>兴化</sup>, /ta3 piəŋ3/<sup>如皋</sup>, /tɑ3 piŋ3/<sup>泰兴</sup>, /ta3 piŋ3/<sup>泰县</sup></small> ① 聚集成一团：头发打啊饼了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
+1. 【[打饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bien.md#打饼)】`da3 bien3` <small>/ta3 piəŋ3/<sup>如皋</sup></small> ① 聚集成一团：头发打啊饼了，梳不开。 ② 见“打板”。<sup>\[如皋\]</sup> ③ 旧式榨油打出油饼。<sup>\[如皋\]</sup> ④ 板结、变质<sup>\[如皋\]</sup>：头发～，栉不动。<sup>\[如皋\]</sup>  
 1. 【[打憋气棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bih_qi_pan.md#打憋气棒)】`da3 bih7 qi5 pan6` <small>/ta3 piʔ7 t͡ɕʰʝ5 pʰã1/<sup>如皋</sup></small> ① 因为自己心里有委曲，故意拿棍棒打小孩，借以出气。<sup>\[如东\]</sup> ② 故意责打小孩，使相关的人黄孔（脸面难下）。<sup>\[如皋\]</sup>  
 1. 【[打边心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_bin_xien.md#打边心)】`da3 bin1 xien1` <sup>[如东]</sup> 棉花生长到一定阶段，把无果或少果的边心摘除，以促进棉桃的生长，叫做打边心。  
 [更多...](./d.md)
@@ -182,8 +182,8 @@
 1. 【[发夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faeh_han.md#发夯)】`faeh7 han1` <small>/fæʔ7 xɑŋ1/<sup>泰兴</sup></small> 不动脑筋，蛮干；固执，一意孤行；发呆。<sup>\[泰兴\]</sup>  
 [更多...](./f.md)
 ## G
-1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup>, /ka/<sup>泰兴</sup>, /kəʔ/<sup>泰县</sup></small> ① 助词，“啊”在前字收塞尾时的变体。<sup>\[兴化\]</sup>：吃～、跌～、活～。｜吃～你家的，省吖他家的<sup>\[兴化\]</sup>｜喝～二两酒<sup>\[兴化\]</sup>｜吓～一跳<sup>\[兴化\]</sup> ② 表疑问语气\[兴化：ga6\]：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ③ 表感叹语气\[兴化：ga6\]：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
-1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` <small>/kəʔ t͡sɿ/<sup>兴化</sup>, /ka t͡sɿ/<sup>如皋</sup>, /ka t͡sɿ/<sup>泰兴</sup>, /kəʔ t͡se/<sup>泰县</sup></small> 同“下子”，跟在入声韵之后<sup>\[泰州\]</sup>：踢～。｜歇～。｜弄点鱼吃～。<sup>\[泰州\]</sup>｜同他说～。<sup>\[泰州\]</sup>  
+1. 【[咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#咖)】`ga` <small>/kəʔ/<sup>兴化</sup>, /ka/<sup>如皋</sup>, /ka/<sup>泰兴</sup>, /kəʔ/<sup>泰县</sup></small> ① 助词，“啊”在前字收塞尾时的变体。<sup>\[通用\]</sup><sup>\[兴化\]</sup>：吃～、跌～、活～。<sup>\[通用\]</sup>｜吃～你家的，省吖他家的<sup>\[兴化\]</sup>｜喝～二两酒<sup>\[兴化\]</sup>｜吓～一跳<sup>\[兴化\]</sup> ② 表疑问语气\[兴化：ga6\]：这块布几尺～？；电脑哿难学～？<sup>\[兴化\]</sup> ③ 表感叹语气\[兴化：ga6\]：这种闷酒不能喝～。<sup>\[兴化\]</sup>  
+1. 【[咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_zz.md#咖子)】`ga zz` 同“下子”，跟在入声韵之后<sup>\[泰州\]</sup>：踢～。｜歇～。｜弄点鱼吃～。<sup>\[泰州\]</sup>｜同他说～。<sup>\[泰州\]</sup>  
 1. 【[……家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga.md#……家)】`ga` <sup>[东台]</sup> ① 这里“家”轻读。接在姓氏后，加上地方特点命名地名：王～舍；孔～堡。 ② 接在某姓后面，相当于姓……的：张～；李～；王～佬。 ③ 亲昵地呼唤小孩：来啊～；到我家多住几天，可好？～。  
 1. 【[加大帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_da_mo_zz.md#加大帽子)】`ga1 da6 mo6 zz` <sup>[如东]</sup> ① 给人随便地添加某种罪名：请你不要匄我～。 ② 说好话：你不要匄我～。  
 1. 【[加褂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/ga_gua_zz.md#加褂子)】`ga1 gua zz` <small>/kɑ1 kuɑ t͡sɿ/<sup>泰兴</sup></small> 外套，罩衣。旧时也称“大褂子”。<sup>\[泰兴\]</sup>  
@@ -552,7 +552,7 @@
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
 1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 醒目。容易引人嫉妒。<sup>\[东台\]</sup> ② 引人注目；显眼。<sup>\[泰兴\]</sup>  
-1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
+1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> 可怕。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
 1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
 1. 【[惹吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh.md#惹吃)】`ra3 qieh7` <small>/ɻa3 t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 爱吃。<sup>\[如皋\]</sup> ② 使人爱吃。<sup>\[如皋\]</sup> ③ 嘴馋，贬指。<sup>\[如皋\]</sup> ④ 好吃。<sup>\[如东\]</sup>：这种饭～<sup>\[如东\]</sup> ⑤ 贪吃。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
@@ -603,7 +603,7 @@
 1. 【[他的他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_dii_ta.md#他的他)】`ta1 dii ta1` ① 还是老样子。（也作“他对他”或“他的个他”）<sup>\[东台\]</sup>：对他教育一年效果不大，还是～！<sup>\[东台\]</sup> ② 他还是他，比喻没有发生变化<sup>\[泰州\]</sup>：公司里换吖一个领导，还是～，一直到现在还不曾扭转亏损的局面。<sup>\[泰州\]</sup>｜请吖个老师帮他补课，弄吖个把月，到临了成绩还是～。<sup>\[泰州\]</sup>  
 1. 【[他对他](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_duei_ta.md#他对他)】`ta1 duei5 ta1` <sup>[兴化]</sup> ① 说明没有变化。（另见“他的他”）：谚曰：烧饼两块钱一个，还是～。 ② 两两相抵，无大差别：为省一张车票，送司机两包烟，～。  
 1. 【[他家家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_ga_ga_lii.md#他家家里)】`ta1 ga1 ga1 lii` <sup>[如皋]</sup> 他家里。  
-1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <small>/tʰa1 lɛ/<sup>兴化</sup></small> ① 他们，第三人称复数 ② 他们。<sup>\[如东\]</sup> ③ 他们。<sup>\[东台\]</sup> ④ 代词，即他们。称自己和对方以外的若干人。<sup>\[兴化\]</sup>  
+1. 【[他俫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_lae.md#他俫)】`ta1 lae` <small>/tʰa1 lɛ/<sup>兴化</sup></small> ① 他们，第三人称复数 ② 他们。<sup>\[如东\]</sup><sup>\[东台\]</sup> ③ 代词，即他们。称自己和对方以外的若干人。<sup>\[兴化\]</sup>  
 1. 【[他请我吃冬酒，我请他吃年酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_qien_ngu_qieh.md#他请我吃冬酒，我请他吃年酒)】`ta1 qien3 ngu3 qieh7 don1 jieu3 ngu3 qien3 ta1 qieh7 nin2 jieu3` <small>/tʰɑ1 t͡ɕʰiŋ3 ŋɤɯ3 t͡ɕʰiəʔ7 tɔŋ1 t͡ɕiɤɯ3 ŋɤɯ3 t͡ɕʰiŋ3 tʰɑ1 t͡ɕʰiəʔ7 nĩ2 t͡ɕiɤɯ3/<sup>泰兴</sup></small> 冬酒，冬至时请客的酒，年酒为过年时请客的酒。冬，冬至也。冬至大似年，旧时冬至时乡间很隆重，祭祖，相互拜礼，犹若今天的年。本指有一报一还之意，有时含贬义。<sup>\[泰兴\]</sup>  
 1. 【[他说三宣缸，我听不到两茶缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ta_shuh_saen_xiun.md#他说三宣缸，我听不到两茶缸)】`ta1 shuh7 saen1 xiun1 gan1 ngu3 tien5 beh7 do5 laen3 cha2 gan1` <small>/tʰɑ1 sʊʔ7 ɕiɛ̃1 ɕĩ1 kɑŋ1 ŋɤɯ3 tʰiŋ5 pəʔ7 tɔ5 lɛ̃3 t͡sʰɑ2 kɑŋ1/<sup>泰兴</sup></small> 谓我根本听不进他说的话。宣缸，民间家用的最大的缸，多用于装水、油、粮食等。<sup>\[泰兴\]</sup>  
 1. 【[胎膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_bio.md#胎膘)】`tae1 bio1` <small>/tʰɛ1 piɔ1/<sup>兴化</sup></small> ① 胎儿刚出生时体重情况<sup>\[兴化\]</sup>：～足<sup>\[兴化\]</sup>｜～不足。<sup>\[兴化\]</sup> ② 胎儿初生时身体上的肥肉，多被视作母亲怀孕期间营养是否充足的标准<sup>\[泰州\]</sup>：这个小伙养下来就有九斤多重，～好得加思唻。<sup>\[泰州\]</sup>  

@@ -449,7 +449,7 @@
 1. 【[慢先忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xin_man.md#慢先忙)】`maen6 xin1 man2` <sup>[如皋]</sup> 见“慢慢叫”。  
 1. 【[慢晓天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_xio_tin.md#慢晓天)】`maen6 xio3 tin1` <sup>[兴化]</sup> 早晨天阴，太阳出得较迟。  
 1. 【[慢作𨂸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zah_heu.md#慢作𨂸)】`maen6 zah7 heu2` <sup>[泰州]</sup> 不要着急，稍等一下再做某事：你～出牌，等你家上家说不要唻，你再出牌。  
-1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <small>/mɛ̃6 t͡sən5/<sup>兴化</sup>, /mẽ1 t͡səŋ5/<sup>如皋</sup>, /mɛ̃1 t͡səŋ5/<sup>泰县</sup></small> ① 慢性病。<sup>\[如皋\]</sup> ② 快不起来。<sup>\[如皋\]</sup> ③ （借）对问题久拖不决：过去调动工作是个～，拖你三年五载也不奇怪。<sup>\[兴化\]</sup> ④ 慢性病。<sup>\[泰县\]</sup> ⑤ 事情长期拖下去不能了结。<sup>\[泰县\]</sup>  
+1. 【[慢症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen.md#慢症)】`maen6 zhen5` <small>/mɛ̃6 t͡sən5/<sup>兴化</sup>, /mẽ1 t͡səŋ5/<sup>如皋</sup>, /mɛ̃1 t͡səŋ5/<sup>泰县</sup></small> ① 慢性病。<sup>\[如皋\]</sup><sup>\[泰县\]</sup> ② 快不起来。<sup>\[如皋\]</sup> ③ （借）对问题久拖不决：过去调动工作是个～，拖你三年五载也不奇怪。<sup>\[兴化\]</sup> ④ 事情长期拖下去不能了结。<sup>\[泰县\]</sup>  
 1. 【[慢症候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zhen_heu.md#慢症候)】`maen6 zhen5 heu` <sup>[如皋]</sup> 见“慢症”。  
 1. 【[慢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_zz.md#慢子)】`maen6 zz` <small>/mɛ̃6 t͡sɿ/<sup>兴化</sup></small> 行动迟缓的人，或慢性子的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：他是二～，急不起来。<sup>\[兴化\]</sup>｜她是有名的～，火上堂屋都不着急。<sup>\[兴化\]</sup>｜他是出咖名的～，你再急他也不急。<sup>\[泰州\]</sup>  
 1. 【[蛮犟理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_qian_li.md#蛮犟理)】`maen6 qian6 li3` <sup>[如东]</sup> 强词夺理。  
@@ -526,7 +526,7 @@
 1. 【[硭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz.md#硭子)】`man2 zz` <sup>[兴化]</sup> 用表芯纸搓成的火枚子。硭，《广韵·阳韵》武方切：硭硝。  
 1. 【[硭子卷<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz_jiun_r.md#硭子卷<sub>儿</sub>)】`man2 zz jiun3 r` <sup>[如皋]</sup> 卷子过程中，先将一迭瘦长的纸打成卷儿即是。  
 1. 【[硭子纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_zz_zhr.md#硭子纸)】`man2 zz zhr3` <small>/mã2 t͡sɿ t͡sɿ3/<sup>如皋</sup>, /mɑŋ2 t͡sɿ t͡sɿ3/<sup>泰兴</sup></small> ① 稻草制的含硭硝的纸，搓成细长纸卷，可以引燃，吸水烟的必须品。<sup>\[如皋\]</sup> ② 旧时吸水烟所用的燃火小纸卷，油灯灯芯的纸，质地极轻而易燃，吸油后则耐燃。<sup>\[泰兴\]</sup>  
-1. 【[芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#芒)】`man2` <small>/maŋ2/<sup>兴化</sup>, /mã2/<sup>如皋</sup>, /mɑŋ2/<sup>泰兴</sup>, /mɑŋ2/<sup>泰县</sup></small> ① 针状物：麦～｜钟～ ② 动物的触须：虾～ ③ 稻麦子实外壳上长的细刺<sup>\[泰兴\]</sup> ④ 鱼类的细骨刺<sup>\[泰兴\]</sup>  
+1. 【[芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man.md#芒)】`man2` <small>/mɑŋ2/<sup>泰兴</sup></small> ① 针状物：麦～｜钟～ ② 动物的触须：虾～ ③ 稻麦子实外壳上长的细刺<sup>\[泰兴\]</sup> ④ 鱼类的细骨刺<sup>\[泰兴\]</sup>  
 1. 【[芒棵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_ku.md#芒棵)】`man2 ku1` <sup>[如皋]</sup> 一种岸草。心叶可搓绳，茎叶可扼帘子。  
 1. 【[芒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_teu.md#芒头)】`man2 teu` <small>/mã2 tʰei/<sup>如皋</sup></small> ① 烟酒的刺激力度：洋河大曲润和，不像烧酒的～大。<sup>\[如皋\]</sup> ② 锋芒<sup>\[东台\]</sup>：这把薄刀虽然用的时间不短，还蛮有～的。<sup>\[东台\]</sup>  
 1. 【[芒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/man_teu.md#芒头)】`man2 teu2` <sup>[兴化]</sup> ① 锋芒、锋头：锥子太细，～容易碰断。 ② 稻麦等子实外壳上长的针状物。  
@@ -574,7 +574,7 @@
 1. 【[没得药医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_iah_i.md#没得药医)】`meh8 deh iah8 i1` <small>/məʔ8 təʔ iɑʔ8 ʝ1/<sup>泰兴</sup></small> 指死不改悔的犯错误者。<sup>\[泰兴\]</sup>  
 1. 【[没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_ien_zz.md#没得影子)】`meh8 deh ien3 zz` <small>/məʔ8 təʔ iŋ3 t͡sɿ/<sup>泰兴</sup></small> 没意思，令人厌恶；无根据，不确实。<sup>\[泰兴\]</sup>：乡人云：“～造西厢。”<sup>\[泰兴\]</sup>  
 1. 【[没得了不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_lio_beh.md#没得了不得)】`meh8 deh lio3 beh7 deh7` <small>/məʔ8 təʔ liɔ3 pəʔ7 təʔ7/<sup>泰兴</sup></small> 没什么大不了。<sup>\[泰兴\]</sup>  
-1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <small>/məʔ8 təʔ7/<sup>兴化</sup>, /məʔ8 təʔ7/<sup>如皋</sup>, /məʔ8 təʔ7/<sup>泰县</sup></small> ① 没有，表示人或事物不存在 ② 没有。<sup>\[如皋\]</sup> ③ 没有。<sup>\[东台\]</sup> ④ 没有<sup>\[兴化\]</sup>：小丫头跑啊～咖。<sup>\[兴化\]</sup>｜“晚饭米都～一颗，还你妈的之乎——者也！”（汪曾祺《徙》）<sup>\[兴化\]</sup> ⑤ 不如<sup>\[兴化\]</sup>：小刘～小王高。<sup>\[兴化\]</sup>｜裂子～苹果好吃。<sup>\[兴化\]</sup> ⑥ 没有。<sup>\[泰县\]</sup>  
+1. 【[没得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh.md#没得)】`meh8 deh7` <small>/məʔ8 təʔ7/<sup>兴化</sup>, /məʔ8 təʔ7/<sup>如皋</sup>, /məʔ8 təʔ7/<sup>泰县</sup></small> ① 没有，表示人或事物不存在 ② 没有。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup> ③ 没有<sup>\[兴化\]</sup>：小丫头跑啊～咖。<sup>\[兴化\]</sup>｜“晚饭米都～一颗，还你妈的之乎——者也！”（汪曾祺《徙》）<sup>\[兴化\]</sup> ④ 不如<sup>\[兴化\]</sup>：小刘～小王高。<sup>\[兴化\]</sup>｜裂子～苹果好吃。<sup>\[兴化\]</sup>  
 1. 【[没得二成账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_er_chen.md#没得二成账)】`meh8 deh7 er6 chen2 zhan5` <sup>[如皋]</sup> 可信、成功的程度极低：批准这份报告～。  
 1. 【[没得个安事墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_gu_un.md#没得个安事墩<sub>儿</sub>)】`meh8 deh7 gu un1 shr6 den1 r` <sup>[东台]</sup> 一直东奔西忙，没有安逸的时辰。  
 1. 【[没得关拦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_deh_guaen_laen.md#没得关拦)】`meh8 deh7 guaen1 laen2` <sup>[泰州]</sup> 指说话没有顾忌：你这个小伙嘴上没得点儿关拦，在人跟前说这些话，不教人尴尬啊。  
@@ -1320,7 +1320,7 @@
 1. 【[面磕地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_kuh_ti.md#面磕地)】`min6 kuh8 ti6` <sup>[东台]</sup> 也叫“狗吃屎”，指面部朝下跌了个跟头。  
 1. 【[面里花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_li_hua.md#面里花)】`min6 li3 hua1` <sup>[如皋]</sup> 有的杆秤有八面花，上面的里花称之。  
 1. 【[面梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_lian.md#面梁)】`min6 lian2` <sup>[兴化]</sup> 船的隔舱横梁上部较宽厚的板：王殿宝连岸都不敢上，坐在船～上说……（马春阳《风里雨里》）  
-1. 【[面门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_men.md#面门)】`min6 men2` <small>/miɪ̃6 mən2/<sup>兴化</sup>, /mĩ1 məŋ2/<sup>如皋</sup>, /miɪ̃1 məŋ2/<sup>泰县</sup></small> ① 面孔。<sup>\[如东\]</sup> ② 门牙。<sup>\[如东\]</sup> ③ 脸部。<sup>\[如皋\]</sup> ④ 指面部<sup>\[兴化\]</sup>：也是人极计生，被他绰起一斧，正中刘官人～，扑地倒了。（《京本通俗小说·错斩崔宁》）<sup>\[兴化\]</sup> ⑤ 门牙。<sup>\[泰县\]</sup>  
+1. 【[面门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_men.md#面门)】`min6 men2` <small>/miɪ̃6 mən2/<sup>兴化</sup>, /mĩ1 məŋ2/<sup>如皋</sup>, /miɪ̃1 məŋ2/<sup>泰县</sup></small> ① 面孔。<sup>\[如东\]</sup> ② 门牙。<sup>\[如东\]</sup><sup>\[泰县\]</sup> ③ 脸部。<sup>\[如皋\]</sup> ④ 指面部<sup>\[兴化\]</sup>：也是人极计生，被他绰起一斧，正中刘官人～，扑地倒了。（《京本通俗小说·错斩崔宁》）<sup>\[兴化\]</sup>  
 1. 【[面面是情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_min_shr_qien.md#面面是情)】`min6 min6 shr5 qien2` <sup>[东台]</sup> 碍于面子，不好当面得罪人。也作“面面之情”。  
 1. 【[面饽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_peh.md#面饽)】`min6 peh8` <sup>[兴化]</sup> 为免面酵沾手，在做面食时所用的干面粉。或称“饽”。  
 1. 【[面盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/min_pen.md#面盆)】`min6 pen2` <small>/miɪ̃6 pʰən2/<sup>兴化</sup>, /miɪ̃1 pʰəŋ2/<sup>泰县</sup></small> 洗脸盆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：（潘金莲）慌忙去～里洗落了胭粉。（《水浒传》二六）<sup>\[兴化\]</sup>  
@@ -1413,7 +1413,7 @@
 1. 【[毛骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毛骚)】`mo2 so` <sup>[兴化]</sup> ① “毷氉”。纠缠、折腾：你覅～人。 ② 环境复杂、不安静。  
 1. 【[毛达卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_taeh_ka.md#毛达卡)】`mo2 taeh ka3` 摩托车  
 1. 【[毛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛头)】`mo2 teu` <sup>[兴化]</sup> 物体顶端或周边粗糙的部分。  
-1. 【[毛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛头)】`mo2 teu2` <small>/mɔ2 tʰɤ2/<sup>兴化</sup>, /mɔ2 tʰɤɯ2/<sup>泰县</sup></small> ① 可供建筑搭建支架、绑扎成运输竹筏的毛竹。<sup>\[东台\]</sup> ② 粗毛竹。<sup>\[兴化\]</sup> ③ 粗毛竹。<sup>\[泰县\]</sup>  
+1. 【[毛头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛头)】`mo2 teu2` <small>/mɔ2 tʰɤ2/<sup>兴化</sup>, /mɔ2 tʰɤɯ2/<sup>泰县</sup></small> ① 可供建筑搭建支架、绑扎成运输竹筏的毛竹。<sup>\[东台\]</sup> ② 粗毛竹。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[毛头小伙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu_xio_hu.md#毛头小伙子)】`mo2 teu2 xio3 hu zz` <small>/mɔ2 tʰəɪ2 ɕiɔ3 xɤɯ t͡sɿ/<sup>泰兴</sup></small> 谙事不足的年轻小伙子。<sup>\[泰兴\]</sup>  
 1. 【[毛头小伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu_xio_hu.md#毛头小伙)】`mo2 teu2 xio3 hu3` <sup>[兴化]</sup> 泛指男青年：李小青的话，像一根火柴丢在干草上，把～他们身上的火，都燃烧起来。（马春阳《双灯照》）  
 1. 【[毛豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_teu.md#毛豆)】`mo2 teu6` <small>/mɔ2 tʰɤ6/<sup>兴化</sup>, /mɔ2 tʰəɪ1/<sup>泰兴</sup></small> ① 做菜用的黄豆嫩英及子实<sup>\[兴化\]</sup>：～角子<sup>\[兴化\]</sup>｜～米子。<sup>\[兴化\]</sup> ② 带荚的嫩黄豆。<sup>\[泰州\]</sup> ③ 大豆的嫩荚果。荚上有细毛，内含青色豆粒，可做蔬菜食用。<sup>\[泰兴\]</sup>  

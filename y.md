@@ -77,7 +77,7 @@
 1. 【[鱼脑石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_no_sheh.md#鱼脑石)】`y2 no3 sheh8` <sup>[如东]</sup> 石首科动物大黄鱼或小黄鱼头骨中的耳石。  
 1. 【[鱼箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pah_zz.md#鱼箔子)】`y2 pah8 zz` <small>/y2 pʰaʔ8 t͡sɿ/<sup>兴化</sup>, /y2 pʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 由竹笼编成的帘子，用来打簖或在河湖中围拦养鱼。<sup>\[兴化\]</sup> ② 竹编围养或捕鱼用的栅栏。<sup>\[泰兴\]</sup>  
 1. 【[鱼鳔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_pio.md#鱼鳔)】`y2 pio5` <sup>[如东]</sup> 某些鱼类体内可以涨缩的囊状物。里面充满氮、氧、二氧化碳等气体。收缩时鱼下沉，膨涨时鱼上浮。有的鱼类的鳔有辅助听觉或呼吸等作用。大黄鱼、小黄鱼、鮸鱼以及其他鱼鳔，入中药。  
-1. 【[鱼泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_po.md#鱼泡)】`y2 po5` <small>/y2 pʰɔ5/<sup>兴化</sup>, /y2 pʰɔ5/<sup>如皋</sup></small> ① 鱼鳔。<sup>\[如皋\]</sup> ② 鱼鳔。<sup>\[兴化\]</sup>  
+1. 【[鱼泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_po.md#鱼泡)】`y2 po5` <small>/y2 pʰɔ5/<sup>兴化</sup>, /y2 pʰɔ5/<sup>如皋</sup></small> 鱼鳔。<sup>\[如皋\]</sup><sup>\[兴化\]</sup>  
 1. 【[鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_poh.md#鱼白)】`y2 poh8` <sup>[如东]</sup> 鱼的精液。  
 1. 【[鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_r.md#鱼<sub>儿</sub>)】`y2 r` <sup>[泰县]</sup> 鱼。  
 1. 【[鱼生火，肉生痰，豆腐百页保平安](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_shen_hu_roh.md#鱼生火，肉生痰，豆腐百页保平安)】`y2 shen1 hu3 roh8 shen1 taen2 teu6 fv boh7 ih8 bo3 pien2 un1` <sup>[东台]</sup> 简约式生活有益于健康。  

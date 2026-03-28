@@ -26,7 +26,7 @@
 1. 【[惹麻脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ma_jiah_r.md#惹麻脚<sub>儿</sub>)】`ra3 ma2 jiah7 r` <sup>[如皋]</sup> 患霍乱。  
 1. 【[惹毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_mo.md#惹毛)】`ra3 mo2` <sup>[如皋]</sup> 容易犯毛，即找到借口生事、玩虘。  
 1. 【[惹眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_ngaen.md#惹眼)】`ra3 ngaen3` <small>/ɻɑ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 醒目。容易引人嫉妒。<sup>\[东台\]</sup> ② 引人注目；显眼。<sup>\[泰兴\]</sup>  
-1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> ① 可怕。<sup>\[如皋\]</sup> ② 可怕。<sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
+1. 【[惹怕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pa.md#惹怕)】`ra3 pa5` <small>/ɻa3 pʰa5/<sup>如皋</sup></small> 可怕。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：这种行为真～。<sup>\[如东\]</sup>  
 1. 【[惹病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_pien.md#惹病)】`ra3 pien6` <small>/ɻa3 pʰiəŋ1/<sup>如皋</sup></small> ① 生病 ② 容易得病 ③ 容易生病．体质不好，免疫力不强。<sup>\[如皋\]</sup>  
 1. 【[惹气着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qi_zhah.md#惹气着)】`ra3 qi5 zhah7` <small>/ɻɑ3 t͡ɕʰʝ5 t͡sɑʔ7/<sup>泰兴</sup></small> 引人生气；着气。<sup>\[泰兴\]</sup>  
 1. 【[惹吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ra_qieh.md#惹吃)】`ra3 qieh7` <small>/ɻa3 t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 爱吃。<sup>\[如皋\]</sup> ② 使人爱吃。<sup>\[如皋\]</sup> ③ 嘴馋，贬指。<sup>\[如皋\]</sup> ④ 好吃。<sup>\[如东\]</sup>：这种饭～<sup>\[如东\]</sup> ⑤ 贪吃。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
@@ -316,7 +316,7 @@
 1. 【[任性](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_xien.md#任性)】`ren6 xien5` <sup>[如东]</sup> 脾气固执：这个伢儿非常～，说咖半天都不行。  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh deh7` <sup>[兴化]</sup> 即不认识：你要找的人我～。｜“你既～我，怎么差人来勾我？”（《西游记》三）  
 1. 【[认不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_beh_deh.md#认不得)】`ren6 beh7 deh7` <sup>[泰州]</sup> 不认识，不知道：小李调过来的时候你不在家，难怪你～。  
-1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` <small>/lən6 təʔ/<sup>兴化</sup>, /ɻəŋ1 təʔ/<sup>如皋</sup>, /ɻəŋ1 təʔ/<sup>泰兴</sup>, /ɻəŋ1 təʔ/<sup>泰县</sup></small> 认识：这个字我～｜他～我，我认不得他  
+1. 【[认得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh.md#认得)】`ren6 deh` <small>/lən6 təʔ/<sup>兴化</sup>, /ɻəŋ1 təʔ/<sup>如皋</sup>, /ɻəŋ1 təʔ/<sup>泰兴</sup>, /ɻəŋ1 təʔ/<sup>泰县</sup></small> 认识<sup>\[通用\]</sup>：这个字我～<sup>\[通用\]</sup>｜他～我，我认不得他<sup>\[通用\]</sup>  
 1. 【[认得你狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_nii_hen.md#认得你狠)】`ren6 deh nii3 hen3` <sup>[东台]</sup> 被迫承认对方强过自己，勉强默认对方的不合理要求。  
 1. 【[认得个扁担大的一字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_gu_bin.md#认得个扁担大的一字)】`ren6 deh7 gu bin3 daen5 da6 dii ieh7 cz` <sup>[如皋]</sup> 意为不识字。  
 1. 【[认得他（你）狠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ren_deh_ta_hen.md#认得他（你）狠)】`ren6 deh7 ta1 hen3` <sup>[如皋]</sup> 既表示退让，又表示要记住对方凶狠。  
@@ -402,7 +402,7 @@
 1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co` 热闹。<sup>\[如东\]</sup>\[泰州：热闹，景象繁盛，人声喧杂状态\]：泰州城里最～的地方就是坡子街。<sup>\[泰州\]</sup>  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co ren2` ① 喜欢说笑、逗趣的人。<sup>\[如东\]</sup> ② 擅长通过说笑营造热闹氛围的人<sup>\[泰州\]</sup>：老王是个～，他人到啊哪块，哪块就笑声不断。<sup>\[泰州\]</sup>  
 1. 【[热嘈射啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_sha_a.md#热嘈射啊)】`rih8 co sha6 a` <sup>[如东]</sup> 非常高兴，“射啊”做补语，表示程度深：他今朝去看庙会，～。  
-1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <small>/liɪʔ8 t͡sʰɔ2/<sup>兴化</sup>, /ɻiʔ8 t͡sʰɔ2/<sup>如皋</sup></small> ① 热闹<sup>\[东台\]</sup>：婚礼办得蛮～的。<sup>\[东台\]</sup> ② 热闹。<sup>\[如皋\]</sup> ③ 热闹<sup>\[兴化\]</sup>：每逢集期，街上蛮～的。<sup>\[兴化\]</sup>｜今年闲生日，不～。<sup>\[兴化\]</sup> ④ 开玩笑<sup>\[兴化\]</sup>：覅～，我这刻儿心情不好。<sup>\[兴化\]</sup>  
+1. 【[热嘈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co.md#热嘈)】`rih8 co2` <small>/liɪʔ8 t͡sʰɔ2/<sup>兴化</sup>, /ɻiʔ8 t͡sʰɔ2/<sup>如皋</sup></small> ① 热闹<sup>\[东台\]</sup><sup>\[兴化\]</sup>：婚礼办得蛮～的。<sup>\[东台\]</sup>｜每逢集期，街上蛮～的。<sup>\[兴化\]</sup>｜今年闲生日，不～。<sup>\[兴化\]</sup> ② 热闹。<sup>\[如皋\]</sup> ③ 开玩笑<sup>\[兴化\]</sup>：覅～，我这刻儿心情不好。<sup>\[兴化\]</sup>  
 1. 【[热嘈人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_co_ren.md#热嘈人)】`rih8 co2 ren2` <sup>[兴化]</sup> 爱说爱笑的人：他是个～，来不多时，同上上下下都处得蛮合式的。  
 1. 【[热沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_dah_dah.md#热沰沰)】`rih8 dah7 dah7` <sup>[兴化]</sup> 热情可掬：小吴待人～的。  
 1. 【[热得只㗇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_deh_zheh_ha.md#热得只㗇)】`rih8 deh7 zheh7 ha2` <sup>[如皋]</sup> 热得直喘气。  
@@ -457,7 +457,7 @@
 1. 【[然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin.md#然)】`rin2` <sup>[如皋]</sup> 钟爱：你越～他，他越忆你。另音：nin2。  
 1. 【[染红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_hon_taen.md#染红蛋)】`rin3 hon2 taen6` <sup>[东台]</sup> 家中生小孩，将鸡蛋染红，送亲戚朋友的一种民俗。  
 1. 【[染指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_zhr_gaeh.md#染指甲)】`rin3 zhr3 gaeh7` <sup>[泰州]</sup> 夏天，女孩采凤仙花的红色花瓣于酒杯中，加上明矾捣烂，敷在指甲上，用布包好系牢，此日指甲就变成红色。  
-1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <small>/lɔ2/<sup>兴化</sup>, /ɻɔ2/<sup>如皋</sup>, /ɻɔ2/<sup>泰兴</sup>, /ɻɔ2/<sup>泰县</sup></small> ① 饶恕，原谅，放过 ② 买卖东西时卖家再多给买家一些货物或者减去零头货价：再～我点儿。/再便宜一些吧（再送点东西给我吧）。 ③ 再加一点儿。<sup>\[如东\]</sup>：～一点儿吧。<sup>\[如东\]</sup> ④ 再增添一点的意思<sup>\[东台\]</sup>：再～点儿<sup>\[东台\]</sup>｜买的没得～的多。<sup>\[东台\]</sup> ⑤ 加<sup>\[泰县\]</sup>：已经足秤，再～点儿。<sup>\[泰县\]</sup> ⑥ 卖方多送给买方的货物<sup>\[泰州\]</sup>：做定的价钱，～不得。<sup>\[泰州\]</sup>｜这个菜是早上买黄瓜的时候饶得来的。<sup>\[泰州\]</sup> ⑦ 多给，增加，另外增添。<sup>\[泰兴\]</sup>：再～上点儿<sup>\[泰兴\]</sup> ⑧ 宽容，饶恕。<sup>\[泰兴\]</sup>：今朝～他下子<sup>\[泰兴\]</sup>  
+1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <small>/ɻɔ2/<sup>泰兴</sup>, /ɻɔ2/<sup>泰县</sup></small> ① 饶恕，原谅，放过 ② 买卖东西时卖家再多给买家一些货物或者减去零头货价：再～我点儿。/再便宜一些吧（再送点东西给我吧）。 ③ 再加一点儿。<sup>\[如东\]</sup>：～一点儿吧。<sup>\[如东\]</sup> ④ 再增添一点的意思<sup>\[东台\]</sup>：再～点儿<sup>\[东台\]</sup>｜买的没得～的多。<sup>\[东台\]</sup> ⑤ 加<sup>\[泰县\]</sup>：已经足秤，再～点儿。<sup>\[泰县\]</sup> ⑥ 卖方多送给买方的货物<sup>\[泰州\]</sup>：做定的价钱，～不得。<sup>\[泰州\]</sup>｜这个菜是早上买黄瓜的时候饶得来的。<sup>\[泰州\]</sup> ⑦ 多给，增加，另外增添。<sup>\[泰兴\]</sup>：再～上点儿<sup>\[泰兴\]</sup> ⑧ 宽容，饶恕。<sup>\[泰兴\]</sup>：今朝～他下子<sup>\[泰兴\]</sup>  
 1. 【[饶得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_deh.md#饶得)】`ro2 deh7` <sup>[如皋]</sup> 虽然、尽管：～他会说，还是说不过你。  
 1. 【[饶你过天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_nii_gu_tin.md#饶你过天)】`ro2 nii3 gu5 tin1` <sup>[东台]</sup> 宽恕，免于责罚：这回子～，下次再犯就不客气！  
 1. 【[饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro_ren.md#饶人)】`ro2 ren2` <sup>[如东]</sup> 对人宽容：他就是不～。  
@@ -623,7 +623,7 @@
 1. 【[润和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_hu.md#润和)】`ruen6 hu` <sup>[如皋]</sup> ① 牌气温和，态度和蔼：脾气～；说话～。 ② 醇，不辣：酒味～。 ③ 天气不冷不热、不乾不湿：天气～。  
 1. 【[润里抹杀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_lii_maeh_shaeh.md#润里抹杀的)】`ruen6 lii maeh8 shaeh7 dii` <sup>[如皋]</sup> ① 似潮非潮的感觉。 ② 喻脾气䵑而不爽。  
 1. 【[润湿湿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_sheh_sheh_dii.md#润湿湿的)】`ruen6 sheh7 sheh7 dii` <sup>[如皋]</sup> 湿漉漉的。  
-1. 【[闰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen.md#闰)】`ruen6` <small>/luən6/<sup>兴化</sup>, /ɻuəŋ1/<sup>如皋</sup>, /ɻuəŋ1/<sup>泰兴</sup>, /ɻuəŋ1/<sup>泰县</sup></small> 历法术语，农历中指有的年份比平常年多一个月：～五月/紧接在五月之后的置闰的月｜今年子～五月/今年是闰年，多出来的是闰五月  
+1. 【[闰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen.md#闰)】`ruen6` <small>/luən6/<sup>兴化</sup>, /ɻuəŋ1/<sup>如皋</sup>, /ɻuəŋ1/<sup>泰兴</sup>, /ɻuəŋ1/<sup>泰县</sup></small> 历法术语，农历中指有的年份比平常年多一个月<sup>\[通用\]</sup>：～五月/紧接在五月之后的置闰的月<sup>\[通用\]</sup>｜今年子～五月/今年是闰年，多出来的是闰五月<sup>\[通用\]</sup>  
 1. 【[闰月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_iuh.md#闰月)】`ruen6 iuh8` <sup>[如东]</sup> 阴历每逢闰年所增加的一个月，称闰月。阳历每逢闰年的二月，称闰月。  
 1. 【[闰年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_nin.md#闰年)】`ruen6 nin2` <sup>[如东]</sup> 阴历三年一闰，五年两闰，十九年七闰。闰年增加一个月，全年383天或384天。阳历每四百年中有九十七年闰年，闰年在二月末加一天，全年366天。  
 1. 【[闰鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ruen_y.md#闰鱼)】`ruen6 y2` <small>/ɻuəŋ1 y2/<sup>如皋</sup></small> ① 长须鲸。哺乳纲，鲸目。旧传闰年可在南黄海出现。<sup>\[如皋\]</sup> ② 传说海洋中的一种大鱼，在海洋中犯了罪，龙王给予惩罚。每逢闰年，闰几月，就有几条鱼送上沙滩。<sup>\[如东\]</sup>  
