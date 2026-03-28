@@ -132,7 +132,7 @@
 1. 【[䱗子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz_y.md#䱗子鱼)】`caen1 zz y2` <sup>[兴化]</sup> 一种淡水鱼，个体小，成条状，侧扁，银白色。‖也称“䱗鱼”。  
 1. 【[参详](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_qian.md#参详)】`caen1 qian2` <sup>[兴化]</sup> 分析、推测：不会做官会～。｜我和继之这个到底是甚么人……（《二十年目睹之怪现状》九六）  
 1. 【[残冬岁底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_don_suei_di.md#残冬岁底)】`caen2 don1 suei5 di3` <sup>[东台]</sup> 冬天将尽，一年将结束。  
-1. 【[残吖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_nga_la.md#残吖啦)】`caen2 nga la` <sup>[如皋]</sup> 歉语：表示食品已被先用，对不起。如：菜～，重去烧。残，剩。  
+1. 【[残吖啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_nga_la.md#残吖啦)】`caen2 nga la` <small>/t͡sʰẽ2 ŋa la/<sup>如皋</sup></small> 歉语。表示食品已被先用，对不起。残，剩。<sup>\[如皋\]</sup>：菜～，重去烧。<sup>\[如皋\]</sup>  
 1. 【[馓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz.md#馓子)】`caen3 zz` <small>/t͡sʰẽ3 t͡sɿ/<sup>如皋</sup></small> ① 一种油炸的面食，形如栅状，细如面条。<sup>\[如东\]</sup> ② 古称环饼。面索，经油炸，呈册字形，主要供泡食。旧时产妇必用。<sup>\[如皋\]</sup>  
 1. 【[馓子把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen_zz_ba_r.md#馓子把<sub>儿</sub>)】`caen3 zz ba3 r` <sup>[如皋]</sup> 呈长“X”形的环饼，主要供嚼食。  
 1. 【[刬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/caen.md#刬)】`caen5` <sup>[兴化]</sup> 全、都：这批货～是次品。｜“哥啊，我们连日造化低了。这两日～日里见鬼……”（《西游记》二一）  
