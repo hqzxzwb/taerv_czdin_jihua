@@ -1949,7 +1949,7 @@
 1. 【[槽头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu.md#槽头)】`co2 teu2` <small>/t͡sʰɔ2 tʰɤ2/<sup>兴化</sup>, /t͡sʰɔ2 tʰɤɯ2/<sup>泰县</sup></small> ① 给牲畜喂饲料的地方。<sup>\[兴化\]</sup> ② 猪下巴及附近的肉<sup>\[兴化\]</sup>：～肉。<sup>\[兴化\]</sup> ③ 猪的项肉。<sup>\[泰县\]</sup>  
 1. 【[槽头肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu_roh.md#槽头肉)】`co2 teu2 roh8` <small>/t͡sʰɔ2 tʰei2 ɻɔʔ8/<sup>如皋</sup>, /t͡sʰɔ2 tʰəɪ ɻɔʔ8/<sup>泰兴</sup></small> 猪颈部肉。<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[东台：因猪靠食槽口吃食，故称，此多肥赘肉，带血，腥味重，不中吃。\]\[如东：肥而腻\]  
 1. 【[槽头肉作痒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_teu_roh_zah.md#槽头肉作痒)】`co2 teu2 roh8 zah7 ian3` <sup>[如皋]</sup> 詈语，骂人找死，杀猪是从这里进刀的。  
-1. 【[槽道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_to.md#槽道)】`co2 to6` <small>/t͡sʰɔ2 tʰɔ1/<sup>泰县</sup></small> ① 轨道。<sup>\[如东\]</sup>：行车的～要装好。<sup>\[如东\]</sup> ② 轨道<sup>\[泰县\]</sup>：不上～。<sup>\[泰县\]</sup>  
+1. 【[槽道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_to.md#槽道)】`co2 to6` <small>/t͡sʰɔ2 tʰɔ1/<sup>泰县</sup></small> 轨道。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：行车的～要装好。<sup>\[如东\]</sup>｜不上～。<sup>\[泰县\]</sup>  
 1. 【[槽桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ton.md#槽桶)】`co2 ton3` <small>/t͡sʰɔ2 tʰoŋ3/<sup>兴化</sup>, /t͡sʰɔ2 tʰoŋ3/<sup>泰县</sup></small> ① 龙骨水车上过水的木槽。<sup>\[兴化\]</sup> ② 水车的重要部件。<sup>\[泰县\]</sup>  
 1. 【[槽筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_ton.md#槽筒)】`co2 ton3` <sup>[如皋]</sup> 水车的长槽，是提水的主要部件。  
 1. 【[槽鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/co_y.md#槽鱼)】`co2 y2` <sup>[兴化]</sup> 鲫鱼。也称“刀子鱼”。  

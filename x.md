@@ -1224,7 +1224,7 @@
 1. 【[鲜料气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lio_qi.md#鲜料气)】`xin1 lio6 qi5` <sup>[如东]</sup> 腥气味儿：这些鱼不曾加作料，有～。  
 1. 【[鲜气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_qi.md#鲜气)】`xin1 qi5` <small>/ɕĩ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 鲜味，含鲜味食品，主要指蛼螯、蚬子、蚶子、鱼、虾、蟹等<sup>\[如皋\]</sup>：奶奶欢喜吃～。<sup>\[如皋\]</sup> ② 菜肴中有鱼鲜味儿。<sup>\[如东\]</sup>：菜里没得一点儿～。<sup>\[如东\]</sup>  
 1. 【[鲜生地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shen_ti.md#鲜生地)】`xin1 shen1 ti6` <sup>[如皋]</sup> 怀庆地黄。  
-1. 【[鲜水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shuei.md#鲜水)】`xin1 shuei3` <small>/ɕĩ1 suei3/<sup>如皋</sup></small> ① 新降的雨水<sup>\[如皋\]</sup>：～比“车水”发秧。<sup>\[如皋\]</sup> ② 新降的雨水<sup>\[如东\]</sup>  
+1. 【[鲜水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_shuei.md#鲜水)】`xin1 shuei3` <small>/ɕĩ1 suei3/<sup>如皋</sup></small> 新降的雨水<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～比“车水”发秧。<sup>\[如皋\]</sup>  
 1. 【[鲜甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_tin.md#鲜甜)】`xin1 tin2` <small>/ɕiɪ̃1 tʰiɪ̃2/<sup>兴化</sup></small> ① 形容新鲜瓜果甜美可口<sup>\[兴化\]</sup>：西瓜口味～。<sup>\[兴化\]</sup> ② 非常甜<sup>\[泰州\]</sup>：这个西瓜吃咖嘴里～的。<sup>\[泰州\]</sup>  
 1. 【[鲜鱼䴛煮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_y_so_zhv.md#鲜鱼䴛煮)】`xin1 y2 so5 zhv3` <sup>[东台]</sup> 鲜鱼㓾过后加盐擦一下，调味口重一些，鱼肉更鲜美。  
 1. 【[嫌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin.md#嫌)】`xin2` <small>/ɕĩ2/<sup>如皋</sup>, /ɕĩ2/<sup>泰兴</sup></small> ① 太、过分。贬指<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：他～促狭！他～神气！<sup>\[如皋\]</sup> ② 恶嫌<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：你～他，我不～他。<sup>\[如皋\]</sup>  

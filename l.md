@@ -134,7 +134,7 @@
 1. 【[哪歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_gu.md#哪歇个)】`la3 xih7 gu` <small>/la3 ɕiʔ7 kʊ/<sup>如皋</sup>, /lɑ3 ɕiʔ kɤɯ/<sup>泰兴</sup>, /na3 iɪʔ7 ko5/<sup>泰县</sup></small> 什么时候。<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：你～去王家的？<sup>\[泰县\]</sup>  
 1. 【[哪歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xih_keh_r.md#哪歇刻<sub>儿</sub>)】`la3 xih7 keh9 r` <sup>[如皋]</sup> 什么时候？  
 1. 【[哪晓得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_xio_deh.md#哪晓得)】`la3 xio3 deh7` <sup>[如皋]</sup> 难以预测：他才在这许耍子的，家去就死啊，～啋！  
-1. 【[哪早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zo_vaen.md#哪早晚)】`la3 zo3 vaen3` <small>/la3 t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /na3 t͡sɔ3 ʋɛ̃3/<sup>泰县</sup></small> ① 什么时候<sup>\[兴化\]</sup>：上海来的班车～到？<sup>\[兴化\]</sup> ② 什么时候<sup>\[泰县\]</sup>：～他要来的？<sup>\[泰县\]</sup>  
+1. 【[哪早晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_zo_vaen.md#哪早晚)】`la3 zo3 vaen3` <small>/la3 t͡sɔ3 uɛ̃3/<sup>兴化</sup>, /na3 t͡sɔ3 ʋɛ̃3/<sup>泰县</sup></small> 什么时候<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：上海来的班车～到？<sup>\[兴化\]</sup>｜～他要来的？<sup>\[泰县\]</sup>  
 1. 【[喇叭花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_hua.md#喇叭花)】`la3 ba hua1` <small>/lɑ3 pɑ xuɑ1/<sup>泰兴</sup></small> 牵牛花的别名。花似喇叭，故称。<sup>\[泰兴\]</sup>  
 1. 【[喇叭头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_teu_zz.md#喇叭头子)】`la3 ba teu2 zz` <small>/la3 pa tʰɤ2 t͡sɿ/<sup>兴化</sup>, /na3 pa tʰɤɯ2 t͡se/<sup>泰县</sup></small> ① 扬声器的俗称。<sup>\[兴化\]</sup> ② 广播喇叭。<sup>\[泰县\]</sup>  
 1. 【[喇叭筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_ba_ton_zz.md#喇叭筒子)】`la3 ba ton3 zz` <small>/lɑ3 pɑ tʰɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 话筒的俗称。<sup>\[泰兴\]</sup>  
@@ -1090,7 +1090,7 @@
 1. 【[梁山伯、祝英台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shaen_boh_zhoh.md#梁山伯、祝英台)】`lian2 shaen1 boh7 zhoh7 ien1 tae2` <sup>[如皋]</sup> 本指戏剧人物，因其最后化蝶，衍为指黑底色的大彩蝶。  
 1. 【[梁山上的军师——吴（无）用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shaen_shan_dii.md#梁山上的军师——吴（无）用)】`lian2 shaen1 shan6 dii jyen1 shr1 v2 ion6` <sup>[东台]</sup>   
 1. 【[梁上君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shan_jyen_zz.md#梁上君子)】`lian2 shan6 jyen1 zz3` <sup>[如东]</sup> 小偷。  
-1. 【[粮饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_faen.md#粮饭)】`lian2 faen` <small>/liã2 fẽ/<sup>如皋</sup></small> ① 粮食。<sup>\[如东\]</sup>：不能浪费～。<sup>\[如东\]</sup> ② 粮食<sup>\[如皋\]</sup>：吃～、买～。<sup>\[如皋\]</sup> ③ 粮食作物<sup>\[如皋\]</sup>：长～、收～。<sup>\[如皋\]</sup> ④ 泛指粮食<sup>\[东台\]</sup>：那时候合家老小七八个人，～不够吃。<sup>\[东台\]</sup>  
+1. 【[粮饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_faen.md#粮饭)】`lian2 faen` <small>/liã2 fẽ/<sup>如皋</sup></small> ① 粮食。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：不能浪费～。<sup>\[如东\]</sup>｜吃～、买～。<sup>\[如皋\]</sup> ② 粮食作物<sup>\[如皋\]</sup>：长～、收～。<sup>\[如皋\]</sup> ③ 泛指粮食<sup>\[东台\]</sup>：那时候合家老小七八个人，～不够吃。<sup>\[东台\]</sup>  
 1. 【[粮行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_han.md#粮行)】`lian2 han2` <sup>[如东]</sup> 从事粮食贸易的商行。  
 1. 【[粮油坛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ieu_tun_r.md#粮油坛<sub>儿</sub>)】`lian2 ieu2 tun2 r` <sup>[东台]</sup> 特指形似小坛的随葬品。  
 1. 【[粱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#粱子)】`lian2 zz` <sup>[如东]</sup> 帆船上与龙骨垂直的条木，叫梁子。  

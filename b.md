@@ -576,7 +576,7 @@
 1. 【[不登三十六位](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_den_saen_sheh.md#不登三十六位)】`beh7 den1 saen1 sheh8 loh8 vei6` <sup>[如皋]</sup> 不在“三十六位尊神”中。意为品位低下的人。  
 1. 【[不呧咑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_di_da.md#不呧咑)】`beh7 di1 da1` <sup>[东台]</sup> 不啰唆；不理会。  
 1. 【[不抵款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_di_kun.md#不抵款)】`beh7 di3 kun3` <sup>[东台]</sup> 不可靠，不可依赖。  
-1. 【[不顶事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dien_shr.md#不顶事)】`beh7 dien3 shr6` <small>/pəʔ7 tiŋ3 sɿ1/<sup>泰县</sup></small> ① 不管用。<sup>\[如东\]</sup>：这样处理～。<sup>\[如东\]</sup> ② 不管用<sup>\[泰县\]</sup>：这个人～。<sup>\[泰县\]</sup>  
+1. 【[不顶事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dien_shr.md#不顶事)】`beh7 dien3 shr6` <small>/pəʔ7 tiŋ3 sɿ1/<sup>泰县</sup></small> 不管用。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这样处理～。<sup>\[如东\]</sup>｜这个人～。<sup>\[泰县\]</sup>  
 1. 【[不的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_dii.md#不的)】`beh7 dii` <small>/pəʔ7 tei/<sup>如皋</sup></small> ① 不是的。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：你说是大红色，～，是淡红色。<sup>\[如东\]</sup>｜这衣裳哿是你的噁？——～。<sup>\[如皋\]</sup> ② 不是<sup>\[如皋\]</sup><sup>\[如东\]</sup>：箇杲昃～我的<sup>\[如东\]</sup>｜他又～外人<sup>\[如东\]</sup>  
 1. 【[不颠不倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_din_beh_do.md#不颠不倒)】`beh7 din1 beh7 do5` <sup>[兴化]</sup> 形容颠倒错乱：他这一病弄得～的。  
 1. 【[不倒翁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_do_on.md#不倒翁)】`beh7 do3 on1` <small>/pəʔ7 tɔ3 ɔŋ1/<sup>泰兴</sup></small> ① 玩具，形似老翁，上轻下重，按倒后能自立，也叫“扳不倒”。<sup>\[泰兴\]</sup> ② 比喻善于用手段保持自己地位的人。贬义。<sup>\[泰兴\]</sup> ③ 可以随时适应人际环境变化而长期保持权位的人<sup>\[泰州\]</sup>：老张是销售部的～，厂长随便怎吖换，他照样当他的销售部长。<sup>\[泰州\]</sup>  
@@ -769,7 +769,7 @@
 1. 【[不上槽道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_co_to.md#不上槽道)】`beh7 shan6 co2 to` <small>/pəʔ7 sɑŋ1 t͡sʰɔ2 tʰɔ/<sup>泰县</sup></small> 不懂规矩<sup>\[泰县\]</sup>：你怎吖～？<sup>\[泰县\]</sup>  
 1. 【[不上槽道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_co_to.md#不上槽道)】`beh7 shan6 co2 to6` <sup>[东台]</sup> ［喻］不懂规矩，办事不靠谱。  
 1. 【[不上街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_gae.md#不上街)】`beh7 shan6 gae1` <sup>[如皋]</sup> 旧时对女孩的贬称。  
-1. 【[不上紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上紧)】`beh7 shan6 jien3` <small>/pəʔ7 sɑŋ1 t͡ɕiŋ3/<sup>泰县</sup></small> ① 不抓紧。<sup>\[如东\]</sup>：他做活技总是～。<sup>\[如东\]</sup> ② 不抓紧<sup>\[泰县\]</sup>：他学习～。<sup>\[泰县\]</sup>  
+1. 【[不上紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上紧)】`beh7 shan6 jien3` <small>/pəʔ7 sɑŋ1 t͡ɕiŋ3/<sup>泰县</sup></small> 不抓紧。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：他做活技总是～。<sup>\[如东\]</sup>｜他学习～。<sup>\[泰县\]</sup>  
 1. 【[不上劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_jien.md#不上劲)】`beh7 shan6 jien5` <sup>[如东]</sup> 不起劲：拖拖拉拉的，～。  
 1. 【[不上㩭㩭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_ko_ko.md#不上㩭㩭<sub>儿</sub>)】`beh7 shan6 ko6 ko6 r` <sup>[如东]</sup> 不上规矩：这个伢儿～。  
 1. 【[不上理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/beh_shan_li.md#不上理)】`beh7 shan6 li3` <sup>[如东]</sup> ① 不懂道理：这个人～。 ② 不讲道理：这个丫头～。  

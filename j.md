@@ -1555,7 +1555,7 @@
 1. 【[窘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion.md#窘)】`jion3` <sup>[东台]</sup> 为难；尴尬。  
 1. 【[窘包<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion_bo_r.md#窘包<sub>儿</sub>)】`jion3 bo1 r` <small>/t͡ɕioŋ3 pɔ1 ɚ/<sup>泰县</sup></small> 责备、批评<sup>\[泰县\]</sup>：他今吖捱领导批评，吃咖～。<sup>\[泰县\]</sup>  
 1. 【[窘住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jion_chuh_ga.md#窘住咖)】`jion3 chuh ga` <sup>[如皋]</sup> 窘迫难下。  
-1. 【[决断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_dun.md#决断)】`jiuh7 dun5` <small>/t͡ɕyʊʔ7 tõ5/<sup>泰县</sup></small> ① 决定。<sup>\[如东\]</sup>：这个问题请村长～。<sup>\[如东\]</sup> ② 做决定，拿主意。<sup>\[东台\]</sup> ③ 决定<sup>\[泰县\]</sup>：这件事请你～，谁是谁非。<sup>\[泰县\]</sup>  
+1. 【[决断](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_dun.md#决断)】`jiuh7 dun5` <small>/t͡ɕyʊʔ7 tõ5/<sup>泰县</sup></small> ① 决定。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这个问题请村长～。<sup>\[如东\]</sup>｜这件事请你～，谁是谁非。<sup>\[泰县\]</sup> ② 做决定，拿主意。<sup>\[东台\]</sup>  
 1. 【[决口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_keu.md#决口)】`jiuh7 keu3` <sup>[东台]</sup> 堤岸溃决，河水外注的现象：1921年、1931年洪泽湖大堤～，台城全都淹没在水中。  
 1. 【[决明子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_mien_zz.md#决明子)】`jiuh7 mien2 zz` <sup>[如东]</sup> 豆科植物决明，也叫野花生。  
 1. 【[决算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_sun.md#决算)】`jiuh7 sun5` <sup>[东台]</sup> 依照年度预算执行结算而编制的会计年报。  

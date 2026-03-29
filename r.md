@@ -547,7 +547,7 @@
 1. 【[肉泡子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉泡子眼)】`roh8 po1 zz ngaen3` <sup>[如皋]</sup> 眼睑肥厚。  
 1. 【[肉泡子眼睛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_po_zz_ngaen.md#肉泡子眼睛)】`roh8 po1 zz ngaen3 jien` <small>/ɻɔʔ8 pʰɔ1 t͡sɿ ŋɛ̃3 t͡ɕiŋ/<sup>泰兴</sup></small> 谓眼皮隆起像肿胀似的眼胞。也作“肉泡眼”。<sup>\[泰兴\]</sup>  
 1. 【[肉脯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_pv.md#肉脯)】`roh8 pv3` <small>/ɻɔʔ8 pʰu3/<sup>泰兴</sup></small> 以优质精肉加工而成的干片，易储存食用，味奇美。<sup>\[泰兴\]</sup>  
-1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <small>/ɻɔʔ8 t͡ɕʰʝ/<sup>如皋</sup>, /ɻɔʔ8 t͡sʰɿ/<sup>泰县</sup></small> ① 厚道<sup>\[如皋\]</sup>：他待人～；说～话。<sup>\[如皋\]</sup> ② 粗笨。<sup>\[如东\]</sup>：这套家具太～。<sup>\[如东\]</sup> ③ 厚道。<sup>\[泰县\]</sup>  
+1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi` <small>/ɻɔʔ8 t͡ɕʰʝ/<sup>如皋</sup>, /ɻɔʔ8 t͡sʰɿ/<sup>泰县</sup></small> ① 厚道<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：他待人～；说～话。<sup>\[如皋\]</sup> ② 粗笨。<sup>\[如东\]</sup>：这套家具太～。<sup>\[如东\]</sup>  
 1. 【[肉气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi_xien.md#肉气形)】`roh8 qi xien2` <sup>[如皋]</sup> 很厚道、很富大的样子。  
 1. 【[肉气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi.md#肉气)】`roh8 qi5` <sup>[东台]</sup> ① 丰满、厚实。 ② ［引］厚道、大度：这老板蛮～的，从不收黑心钱。  
 1. 【[肉气大麻虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/roh_qi_da_ma.md#肉气大麻虎)】`roh8 qi5 da6 ma2 hv3` <sup>[兴化]</sup> 形容把肉麻当有趣的样子：这个人～的，意㽹！  
