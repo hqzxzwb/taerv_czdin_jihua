@@ -6,9 +6,9 @@ def parse_pien_ien(ien):
   ii_match = re.match(r"([a-z]+)ii(\d|)", ien)
   if ii_match:
     return [ii_match.group(1), '', 'ii', ii_match.group(2)]
-  m_match = re.match(r"^m(\d|)$", ien)
+  m_match = re.match(r"^(m|ng)(\d|)$", ien)
   if m_match:
-    return ['m', '', '', m_match.group(1)]
+    return [m_match.group(1), '', '', m_match.group(2)]
   match = re.match(r"^([bpmfvdtnlzcsjqxrgkh]|zh|ch|sh|ng|)(i|u|y|)([aeiouvyzr][a-z]*)(\d|)$", ien)
   if match is None:
     raise Exception(f"Unrecogonized ien: {ien}")
