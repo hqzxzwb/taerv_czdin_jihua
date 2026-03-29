@@ -2042,6 +2042,7 @@
 1. 【[憦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo.md#憦)】`lo6` <sup>[如皋]</sup> 笨、傻。  
 1. 【[憦里憦气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_lii_lo_qi.md#憦里憦气的)】`lo6 lii lo6 qi5 dii` <sup>[如皋]</sup> 傻乎乎的。当着不着的。如皋词典作“獠里獠气的”。  
 1. 【[憦气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lo_qi.md#憦气)】`lo6 qi` <small>/lɔ1 t͡ɕʰʝ/<sup>如皋</sup></small> 愚鲁型精神病，如皋詞典作“獠气”<sup>\[如皋\]</sup>：宝儿有点儿～。<sup>\[如皋\]</sup>  
+1. 【[□米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_mi.md#□米)】`loh8 mi` <small>/lɔʔ8 mʝ/<sup>泰兴</sup></small> 糯米<sup>\[泰兴\]</sup>  
 1. 【[六不搭对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_beh_daeh_dy.md#六不搭对)】`loh8 beh7 daeh7 dy5` <sup>[泰州]</sup> 六面之中没有一面可与另外一面配成一对，喻指所说情况所有方面都不吻合或者都无联系：他说的事同你说的事，根本就是～，你就不要多心唻。｜这事同他～，他是多管闲事。  
 1. 【[六陈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen.md#六陈)】`loh8 chen2` <sup>[兴化]</sup> 芝麻、菜籽等杂粮，有的地方将稻谷也列入：这王伯韬是个开～行的。这地方把买卖豆麦杂粮的行叫做～行。（汪曾祺《岁寒三友》）  
 1. 【[六陈行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/loh_chen_han.md#六陈行)】`loh8 chen2 han2` <small>/lɔʔ8 t͡sʰəŋ2 xã2/<sup>如皋</sup></small> ① 粮食行。<sup>\[如东\]</sup> ② 粮食行。六陈，大米、大小麦、大小豆、芝麻等六种可久藏的粮食。见《辞海》。本地又指三麦、二豆、油菜籽六种越冬作物的籽实。<sup>\[如皋\]</sup> ③ 亦作“六陈铺”，专卖粮食的店。“六陈”指米、大麦、小麦、大豆、小豆、芝麻等六种粮食。<sup>\[泰州\]</sup>  

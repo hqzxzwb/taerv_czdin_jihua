@@ -5,7 +5,7 @@
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
-1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` <small>/ɔʔ7/<sup>如皋</sup></small> ① 与“房”同义，但用法有所不同。只用“屋”：砌～、堂～、磨～家的；“房、屋”通用：～脊、～檐、草～；只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
+1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` <small>/ɔʔ7/<sup>如皋</sup></small> ① 与“房”同义，但用法有所不同。<sup>\[如皋\]</sup>：只用“屋”：砌～、堂～、磨～家的<sup>\[如皋\]</sup>｜“房、屋”通用：～脊、～檐、草～<sup>\[如皋\]</sup>｜只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
 1. 【[屋顶子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_dien_zz.md#屋顶子)】`oh7 dien3 zz` <small>/ɔʔ7 tiŋ3 t͡sɿ/<sup>泰兴</sup></small> 房屋的最高部分。<sup>\[泰兴\]</sup>  
 1. 【[屋搁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_gah_zz.md#屋搁子)】`oh7 gah7 zz` <small>/ɔʔ7 kɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 架于屋面用于铺瓦的木条、竹条等。<sup>\[泰兴\]</sup>  
 1. 【[屋后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_heu.md#屋后)】`oh7 heu6` <sup>[如东]</sup> 房屋的后边。  

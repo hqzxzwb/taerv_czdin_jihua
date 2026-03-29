@@ -365,7 +365,7 @@
 1. 【[茶脚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_jiah_zz.md#茶脚子)】`cha2 jiah7 zz` <sup>[兴化]</sup> 茶具中剩下的茶水。  
 1. 【[茶硍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_ken.md#茶硍)】`cha2 ken5` <small>/t͡sʰɑ2 kʰəŋ5/<sup>泰兴</sup></small> 茶垢<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[茶礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_li.md#茶礼)】`cha2 li3` <small>/t͡sʰɑ2 lʝ3/<sup>泰兴</sup></small> 旧俗缔结婚姻的聘礼。<sup>\[泰兴\]</sup>  
-1. 【[茶米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi.md#茶米)】`cha2 mi3` <small>/t͡sʰa2 mi3/<sup>兴化</sup></small> 糯米。<sup>\[如东\]</sup><sup>\[兴化\]</sup>  
+1. 【[茶米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi.md#茶米)】`cha2 mi3` <small>/t͡sʰa2 mi3/<sup>兴化</sup></small> 糯米。对照“长米”。<sup>\[如东\]</sup><sup>\[兴化\]</sup>  
 1. 【[茶米饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_mi_faen.md#茶米饭)】`cha2 mi3 faen6` <sup>[如东]</sup> 饭的一种。用糯米做成，香而具黏性，营养丰富。  
 1. 【[茶瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pien.md#茶瓶)】`cha2 pien2` <small>/t͡sʰa2 pʰiɪ̃2/<sup>兴化</sup>, /t͡sʰa2 pʰiəŋ2/<sup>如皋</sup>, /t͡sʰa2 pʰiŋ2/<sup>泰县</sup></small> 保温瓶，热水瓶。<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[如皋：玻璃胆双层真空镀水银。\]：你把～拿过来。<sup>\[泰县\]</sup>  
 1. 【[茶瓶胆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cha_pien_daen.md#茶瓶胆)】`cha2 pien2 daen3` <sup>[东台]</sup> 热水瓶的瓶胆。双层玻璃构成，内抽真空，涂有金属银，便于保温。  
@@ -588,7 +588,6 @@
 1. 【[鲳鳊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_bin.md#鲳鳊)】`chan1 bin1` <sup>[如东]</sup> 鲳科动物银鲳，也叫镜鲳、平鱼。俗称鱆鳊。  
 1. 【[鲳撇鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pih_y.md#鲳撇鱼)】`chan1 pih7 y2` <sup>[东台]</sup> 一种海鱼，又叫鲳鱼、鲳鳊鱼。身体近菱形，扁侧，吻圆、口小、牙细。成鱼腹鳍消失。  
 1. 【[场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan.md#场)】`chan2` <sup>[泰州]</sup> 量词，小便的次数：一～尿。  
-1. 【[场米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi_xih.md#场米糏)】`chan2 mi3 xih7` <sup>[如皋]</sup> 见“糯米糏”。  
 1. 【[场面世务](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_min_shr_v.md#场面世务)】`chan2 min6 shr5 v6` <small>/t͡sʰɑŋ3 mĩ sɿ5 ʋ/<sup>泰兴</sup></small> 指人情世故、人际交流的各种事项<sup>\[泰兴\]</sup>  
 1. 【[场面账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_min_zhan.md#场面账)】`chan2 min6 zhan5` <sup>[如东]</sup> 表面交情，表面样式。  
 1. 【[常法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_faeh.md#常法)】`chan2 faeh7` <sup>[兴化]</sup> 为长远利益谋划的办法：“……咱们每日在一搭儿，若无事就吃，也不是个～……”（《岐路灯》三七）  
@@ -625,6 +624,8 @@
 1. 【[长笿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lah_zz.md#长笿子)】`chan2 lah8 zz` <small>/t͡sʰɑŋ2 lɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 竹编长形用具，有提手。<sup>\[泰兴\]</sup>  
 1. 【[长龙脸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lon_lin_r.md#长龙脸<sub>儿</sub>)】`chan2 lon2 lin3 r` <sup>[如东]</sup> 长形脸相：吴志明长吖一副～。  
 1. 【[长马脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_ma_lin.md#长马脸)】`chan2 ma3 lin3` <sup>[泰州]</sup> 特别长的脸型：他把～一拉，不晓得为的是甚的事。  
+1. 【[长米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi.md#长米)】`chan2 mi` <small>/t͡sʰɑŋ2 mʝ/<sup>泰兴</sup></small> 糯米<sup>\[泰兴\]</sup>  
+1. 【[长米糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_mi_xih.md#长米糏)】`chan2 mi3 xih7` <sup>[如皋]</sup> 见“糯米糏”。  
 1. 【[长盆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pen.md#长盆)】`chan2 pen2` <sup>[如皋]</sup> 见“洗澡盆”。  
 1. 【[长袍短褂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_po_dun_gua.md#长袍短褂)】`chan2 po2 dun3 gua5` <sup>[东台]</sup> 形容人衣衫不整，不得体：你这吖～的就去面试啦？  
 1. 【[长袍短套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_po_dun_to.md#长袍短套)】`chan2 po2 dun3 to5` <sup>[兴化]</sup> ① 形容衣着繁琐，臃肿：你～的穿上多少啊！ ② 形容衣衫不配套，长短参差。  
@@ -1418,6 +1419,7 @@
 1. 【[池水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shuei.md#池水)】`chr2 shuei3` <sup>[如皋]</sup> 旧时本地水质较好的池塘水，常挑运回家烹茶，有别于天水、井水。  
 1. 【[池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_vae.md#池𧒘)】`chr2 vae1` <sup>[如皋]</sup> 一种腹大善鸣的蛙。一作“山～”：肚子吃咖像～。  
 1. 【[漦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#漦)】`chr2` <sup>[如皋]</sup> 流涂：血～啊褥单上吖。  
+1. 【[漦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#漦)】`chr2` <small>/t͡sʰɿ2/<sup>泰兴</sup></small> 以脚底碾烂涂在地上<sup>\[泰兴\]</sup>：他吐啊口痰，又～掉啊<sup>\[泰兴\]</sup>  
 1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <small>/t͡sʰɿ2 tʝ3/<sup>如皋</sup></small> ① 锅里食物加热过程中沉淀在锅底，烧糊了。<sup>\[东台\]</sup> ② 粘锅<sup>\[如皋\]</sup>：煮䜺儿粥要耕几次，不要～。<sup>\[如皋\]</sup> ③ 煮粥或者煮面条、米粉之类食物时，烧糊沉淀并且黏在锅的底部<sup>\[泰州\]</sup>：锅子里头漦啊底。<sup>\[泰州\]</sup>  
 1. 【[漦喖龙冬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_lon_don.md#漦喖龙冬的)】`chr2 kv lon2 don1 dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[漦喖搨喖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_taeh_kv.md#漦喖搨喖的)】`chr2 kv taeh7 kv dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
