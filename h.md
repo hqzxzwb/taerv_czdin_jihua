@@ -383,6 +383,7 @@
 1. 【[限定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_tien.md#限定)】`haen6 tien6` ① 必须 ② 规定。<sup>\[如东\]</sup>：不～甚的时候动身。<sup>\[如东\]</sup>  
 1. 【[陷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen.md#陷)】`haen6` <small>/xɛ̃1/<sup>泰县</sup></small> 陷<sup>\[如东\]</sup><sup>\[泰县\]</sup>\[泰州：没入人体肌肉之中\]：这许沙土软，～脚。<sup>\[如东\]</sup>｜落雨天，我的脚～吖泥肚里。<sup>\[泰县\]</sup>｜脚上的指甲～吖多深，要请个人把脚修啊子。<sup>\[泰州\]</sup>｜她养吖太胖吖唻，望上去像头都～下去唻。<sup>\[泰州\]</sup>  
 1. 【[陷吖肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_nga_tv_lii.md#陷吖肚里)】`haen6 nga tv6 lii` <sup>[东台]</sup> 形容掉进去无法出来。  
+1. 【[陷牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_nga_zz.md#陷牙子)】`haen6 nga2 zz` <small>/xɛ̃1 ŋɑ2 t͡sɿ/<sup>泰兴</sup></small> （食物）卡牙缝<sup>\[泰兴\]</sup>  
 1. 【[陷人坑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_ren_ken.md#陷人坑)】`haen6 ren2 ken1` <sup>[兴化]</sup> （喻）害人的圈套（原文此处记音“坑”为ken3，是孤例）：传销组织是个～，千万覅上当。  
 1. 【[陷针布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_zhen_bv.md#陷针布)】`haen6 zhen1 bv5` <sup>[如皋]</sup> 布鞋底最下面的一层布，纳底时线迹可陷入。  
 1. 【[馅心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/haen_xien.md#馅心)】`haen6 xien1` <small>/xɛ̃6 ɕin1/<sup>兴化</sup></small> ① 面食、点心里包的糖、豆沙或菜末、肉糜等。<sup>\[兴化\]</sup> ② 包在包子、汤圆、麻团之类食物中的馅<sup>\[泰州\]</sup>：他家做的馒头～不丑。<sup>\[泰州\]</sup>  

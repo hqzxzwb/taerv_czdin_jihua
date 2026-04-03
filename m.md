@@ -1055,8 +1055,8 @@
 1. 【[靡费](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_fei.md#靡费)】`mi2 fei5` <sup>[如皋]</sup> 各种不可少或预算外的费用。  
 1. 【[麋鹿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_loh.md#麋鹿)】`mi2 loh8` <sup>[东台]</sup> 动物名，因头似马、角似鹿、尾似驴、蹄似牛而称“四不像”。开庄遗址出土的～化石，证明5000年前东台一带是～活动的地方。现在东台北边有大丰～自然保护区。  
 1. 【[𤓒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#𤓒)】`mi2` <sup>[泰州]</sup> 烹饪方法，汤沸腾以后，用文火慢煮，使食物烂熟：把排骨在锅肚里多～～再下锅。｜花生米子已经～啊烂吖唻。  
-1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#□)】`mi3` <small>/mɿ3/<sup>泰县</sup></small> ① 寻觅<sup>\[泰县\]</sup>：山芋田里会～到好多老鼠洞。<sup>\[泰县\]</sup> ② 悄悄地监视<sup>\[泰县\]</sup>：你注意～住他，看他到哪许去啊。<sup>\[泰县\]</sup>  
 1. 【[□根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_gen_zz.md#□根子)】`mi3 gen1 zz` <sup>[泰县]</sup> 追根求源。  
+1. 【[尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#尾)】`mi3` <small>/mɿ3/<sup>泰县</sup></small> ① 寻觅<sup>\[泰县\]</sup>：山芋田里会～到好多老鼠洞。<sup>\[泰县\]</sup> ② 悄悄地监视<sup>\[泰县\]</sup>：你注意～住他，看他到哪许去啊。<sup>\[泰县\]</sup>  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi3` <small>/mi3/<sup>兴化</sup>, /mʝ3/<sup>如皋</sup></small> ① 异物入眼<sup>\[如皋\]</sup>：眼睛肚里～啊蠓虫儿。<sup>\[如皋\]</sup> ② 灰土、蠓虫之类进入眼内<sup>\[兴化\]</sup>：眼睛捱灰～吖。<sup>\[兴化\]</sup> ③ 碎物入眼<sup>\[泰州\]</sup>：灰埲埲的，～眼睛。<sup>\[泰州\]</sup>  
 1. 【[眯人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren_zz.md#眯人子)】`mi3 ren zz` <sup>[如皋]</sup> 眼睑内有异物的不适感：结膜炎的痛感。  
 1. 【[眯细眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xi_ngaen_r.md#眯细眼<sub>儿</sub>)】`mi3 xi5 ngaen3 r` <sup>[如东]</sup> ① 眼皮眯缝。 ② 眼皮眯缝的人。  
