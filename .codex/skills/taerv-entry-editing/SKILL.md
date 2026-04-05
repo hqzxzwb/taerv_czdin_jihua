@@ -14,7 +14,12 @@ Check the surrounding file and entry before editing. This project currently has 
 - Legacy style: use `>` for reference-book lines and `-` for definition lines.
 - Newer style: use `*` for reference-book lines and `+` for definition lines.
 
-When editing an existing entry, keep the local style consistent. Do not mix the two marker styles within the same entry unless the user explicitly asks for normalization or conversion.
+Default output target:
+
+- Directly edit or create the final dictionary entry files under the letter directories (`a/` ... `z/`).
+- Do not write new extracted entries into `tae_xien_temp/tae_xien_temp.txt` unless the user explicitly asks for temporary staging there.
+- When modifying an existing entry that is in legacy style, convert that entry to newer style in the same edit (use `+` for meanings and `*` for sources/section markers).
+- Do not mix the two marker styles within the same entry.
 
 ## Entry skeleton
 
@@ -48,6 +53,11 @@ txe:zhon1 ven1
 ```
 
 There should be no blank line between adjacent entries.
+
+## File naming
+
+- Dictionary file names must use at most four syllables.
+- If a word has more than four syllables, truncate the file name to the first four syllables (still keep the full headword and full pronunciation line inside the entry).
 
 ## Pronunciation line
 
@@ -92,6 +102,7 @@ Example sentences are child bullets under the relevant义项.
 - Use full-width `～` to stand for the current headword, no matter how many characters the headword has.
 - If an example has an explanation, separate example and explanation with `/`.
 - Keep each example on its own bullet line.
+- Use semantic judgment to identify example content (not only explicit markers like `例：` / `如：`). Any sentence that functions as an illustrative usage should be split into child example bullet lines under the corresponding source marker, instead of staying inside the definition line.
 - Examples that are generally used across localities should go under `* 通用`.
 - Examples quoted from a specific source should stay under that source line instead of under `* 通用`.
 - Quoted examples from books can be kept with Chinese quotation marks and citation in the same line if the surrounding file does that.
@@ -114,7 +125,7 @@ This repository often preserves source-level remarks when useful for later revie
 
 Quick check:
 
-- Marker style matches nearby entries.
+- Edited entries are in newer style (`+` / `*`); no mixed markers remain in the same entry.
 - Pronunciation line is normalized unless a locality-prefixed line is intentionally added.
 - Local special readings and source-specific forms are preserved in notes when needed.
 - Example lines stay under the correct义项.
