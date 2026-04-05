@@ -68,8 +68,8 @@
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  
 1. 【[□蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_taen.md#□蛋)】`xi3 taen6` <small>/ɕi3 tʰɛ̃6/<sup>兴化</sup>, /sɿ3 tʰɛ̃1/<sup>泰县</sup></small> 孵化未成而死亡的蛋<sup>\[泰县\]</sup><sup>\[兴化\]</sup>\[东台：又叫“冤蛋”。\]\[泰州：孵化成形但未成雏就死亡的鸡蛋、鸭蛋等禽类的蛋。\]  
-1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#史)】`xi3` <sup>[兴化]</sup> 讳饰性读法，“史”与“死”“屎”同音，为了避讳，清晨或春节期间，将“史”讹读成“喜”，有的平时也读成“喜”字音。“历史”的史仍读shr3。  
-1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <small>/ɕʝ3/<sup>如皋</sup></small> ① 怀孕<sup>\[如皋\]</sup>：有啊～、害～（妊娠反应）。<sup>\[如皋\]</sup> ② 史姓或孟姓避讳改读～。<sup>\[如皋\]</sup> ③ 除一般释义外，还有可庆贺、妇女怀孕等义。<sup>\[东台\]</sup>  
+1. 【[史](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#史)】`xi3` <small>/ɕi3/<sup>兴化</sup>, /ɕʝ3/<sup>如皋</sup></small> 史姓避讳改读，避“死”“屎”同音。<sup>\[兴化\]</sup><sup>\[如皋\]</sup>  
+1. 【[喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#喜)】`xi3` <small>/ɕʝ3/<sup>如皋</sup></small> ① 怀孕<sup>\[如皋\]</sup>：有啊～、害～（妊娠反应）。<sup>\[如皋\]</sup> ② 除一般释义外，还有可庆贺、妇女怀孕等义。<sup>\[东台\]</sup>  
 1. 【[喜布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_bv.md#喜布)】`xi3 bv5` <sup>[如东]</sup> 放在死者屁股下面、防止污物排出的一块布，叫做喜布。关殓时，由长子或长女抽出来。  
 1. 【[喜材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cae.md#喜材)】`xi3 cae2` <small>/ɕʝ3 t͡sʰɛ2/<sup>如皋</sup></small> ① 人健在时预制的棺材，有冲喜之义。<sup>\[如皋\]</sup> ② 棺材。<sup>\[如皋\]</sup>  
 1. 【[喜茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_cha.md#喜茶)】`xi3 cha2` <sup>[如皋]</sup> 新娘敬的红糖茶。  
@@ -103,6 +103,7 @@
 1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin.md#喜笺)】`xi3 xin5` <sup>[如皋]</sup> 逢喜庆事在门楣、堂屋圣柜前过梁上贴挂的镞（coh8）成图案的条形、矩形红纸笺。（丧事则按年用白、绿、黄纸，第四年恢复红纸。）  
 1. 【[喜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zhoh.md#喜烛)】`xi3 zhoh7` <sup>[如皋]</sup> 喜事、敬神用的红色精制蜡烛。  
 1. 【[喜孜孜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zz_zz.md#喜孜孜)】`xi3 zz1 zz1` <sup>[兴化]</sup> 形容心里很欢喜：王氏～回来，向曹氏说了一遍。（《岐路灯》三）  
+1. 【[孟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#孟)】`xi3` <small>/ɕʝ3/<sup>如皋</sup></small> 孟姓避讳改读。避“梦”同音。<sup>\[如皋\]</sup>  
 1. 【[洗锅把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_r.md#洗锅把<sub>儿</sub>)】`xi3 gu1 ba3 r` <small>/ɕʝ3 kʊ1 pa˞3/<sup>如皋</sup>, /ɕʝ3 kɤɯ1 pɑ˞3/<sup>泰兴</sup></small> 洗刷锅灶的草把儿。\[泰兴：多由芦穄苗子扎成\]\[如皋：用高粱苗子、篾丝、乌蓲根等捆扎而成。\]  
 1. 【[洗锅把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gu_ba_zz.md#洗锅把子)】`xi3 gu1 ba3 zz` <sup>[兴化]</sup> 用成束高粱苗扎成的洗锅用具。  
 1. 【[洗干净身子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_gun_qien_shen.md#洗干净身子)】`xi3 gun1 qien shen1 zz` <sup>[东台]</sup> ［喻］指为自己开脱责任。  
