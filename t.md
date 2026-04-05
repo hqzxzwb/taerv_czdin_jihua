@@ -1896,6 +1896,8 @@
 1. 【[筒幡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_faen.md#筒幡)】`ton3 faen1` <sup>[东台]</sup> 插在坟上的招魂幡，一般为满坟（死者过世三年）而用。  
 1. 【[筒<sub>儿</sub>糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_r_go.md#筒<sub>儿</sub>糕)】`ton3 r go1` <sup>[兴化]</sup> 用米粉蒸的乳儿糕。因在圆筒形模具中脱出、蒸熟，故名。  
 1. 【[筒<sub>儿</sub>面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_r_min.md#筒<sub>儿</sub>面)】`ton3 r min6` <sup>[兴化]</sup> 纸包装的挂面卷儿。  
+1. 【[筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz.md#筒子)】`ton3 zz3` <small>/tʰɔŋ3 t͡sɿ3/<sup>泰兴</sup></small> 圆筒状的器物。<sup>\[泰兴\]</sup>  
+1. 【[筒子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_zz_min.md#筒子面)】`ton3 zz3 min6` <small>/tʰɔŋ3 t͡sɿ3 mĩ1/<sup>泰兴</sup></small> 挂面。卷成圆筒状，故名。<sup>\[泰兴\]</sup>  
 1. 【[统括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_guaeh.md#统括)】`ton3 guaeh7` <sup>[如东]</sup> 包括一切：～在内。  
 1. 【[统口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_keu.md#统口)】`ton3 keu3` <sup>[兴化]</sup> 应允：“……我因女儿执性，不曾～……”（《警世通言》二二）｜“我一向要劝这和尚还俗出仕，他未肯～……”（《醒世恒言》十二）也作“通口”。  
 1. 【[统共](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ton_kon.md#统共)】`ton3 kon6` <small>/tʰɔŋ3 kʰɔŋ1/<sup>如皋</sup>, /tʰɔŋ3 kʰɔŋ1/<sup>泰兴</sup>, /tʰoŋ3 kʰoŋ1/<sup>泰县</sup></small> 一共，合计。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：～多少？<sup>\[如东\]</sup>｜我～只有三张票。<sup>\[泰县\]</sup>  

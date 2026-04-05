@@ -1087,13 +1087,13 @@
 1. 【[过头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu.md#过头)】`gu1 teu2` ① 超过。<sup>\[如东\]</sup> ② 超出某个整十年龄点<sup>\[泰州\]</sup>：老李已经四十～唻。<sup>\[泰州\]</sup> ③ 超出事务正常的度<sup>\[泰州\]</sup>：这小伙有点儿聪明～，把人家都当呆子，就不好唻。<sup>\[泰州\]</sup>  
 1. 【[过头饭能吃，过头话不能说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_faen_nen.md#过头饭能吃，过头话不能说)】`gu1 teu2 faen6 nen2 qieh7 gu1 teu2 hua6 beh7 nen2 shuh7` <sup>[东台]</sup> 说话要留有余地，不能说得太满太绝对。  
 1. 【[过头话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_teu_hua.md#过头话)】`gu1 teu2 hua6` <sup>[泰州]</sup> 超出分寸的话：不要说～，你除啊清华就不上大学咖？  
-1. 【[锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#锅巴)】`gu1 ba` <sup>[如东]</sup> 紧贴锅底的硬结的一层饭，叫做锅巴。  
+1. 【[锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#锅巴)】`gu1 ba` <small>/kɤɯ1 pɑ/<sup>泰兴</sup></small> ① 紧贴锅底的硬结的一层饭，叫做锅巴。<sup>\[如东\]</sup> ② 紧贴着锅底的略焦的一层硬饭。<sup>\[泰兴\]</sup>  
 1. 【[锅巴糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_go.md#锅巴糕)】`gu1 ba go1` <sup>[如皋]</sup> 用烤黄的糯米粉做的云片糕。  
 1. 【[锅巴粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_zhoh.md#锅巴粥)】`gu1 ba zhoh7` <sup>[如皋]</sup> 用锅巴煮的稀饭。  
 1. 【[锅剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bah.md#锅剥)】`gu1 bah7` <small>/kɤɯ1 pɑʔ7/<sup>泰兴</sup></small> 锅巴。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[锅不热，饼不靠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_rih_bien.md#锅不热，饼不靠)】`gu1 beh7 rih8 bien3 beh7 ko5` <sup>[东台]</sup> ① ［喻］一方不主动热情，另一方就不愿接近：对客商要亲，否则～。 ② 主人不热情客人就不来。  
-1. 【[锅不动瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio.md#锅不动瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` <sup>[东台]</sup> （俗语）指没有动静：这个工程怎吖到现在还～的？  
-1. 【[锅不动，瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio.md#锅不动，瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` <sup>[兴化]</sup> （喻）毫无动静：“……这几天我家里～，过年的东西一样还没有办哩。”（《皮五辣子》三）  
+1. 【[锅不动瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio.md#锅不动瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` （俗语）指没有动静。<sup>\[东台\]</sup>：这个工程怎吖到现在还～的？<sup>\[东台\]</sup>  
+1. 【[锅不动，瓢不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_beh_ton_pio.md#锅不动，瓢不响)】`gu1 beh7 ton6 pio2 beh7 xian3` <small>/ko1 pəʔ7 tʰoŋ6 pʰiɔ2 pəʔ7 ɕiaŋ3/<sup>兴化</sup>, /kɤɯ1 pəʔ7 tʰɔŋ1 pʰiɔ2 pəʔ7 ɕiɑŋ3/<sup>泰兴</sup></small> ① （喻）毫无动静。<sup>\[兴化\]</sup>：“……这几天我家里～，过年的东西一样还没有办哩。”（《皮五辣子》三）<sup>\[兴化\]</sup> ② 谓毫无做饭的声息，冷清得很。也喻接受某项任务后迟迟没有行动。<sup>\[泰兴\]</sup>  
 1. 【[锅边秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bi_xieu.md#锅边秀)】`gu1 bi1 xieu5` <sup>[泰州]</sup> 拘谨不擅交际的人：他是个～，出去办事，望见生人就脸红。｜你也这吖大的人唻，怎吖还这吖～，不肯去见人㖸。  
 1. 【[锅比秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bi_xieu.md#锅比秀)】`gu1 bi3 xieu5` <sup>[泰县]</sup> 害羞的人：这伢儿是个～，一点不放荡。参考“孤痞秀”。  
 1. 【[锅边秀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bin_xieu.md#锅边秀)】`gu1 bin1 xieu5` <sup>[兴化]</sup> 腼腆，不善交际。见“窝边秀”。  
@@ -1114,7 +1114,7 @@
 1. 【[锅里劈西瓜——滴水不漏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lii_pieh_xi.md#锅里劈西瓜——滴水不漏)】`gu1 lii pieh7 xi1 gua1 dieh7 shuei3 beh7 leu6` <sup>[东台]</sup>   
 1. 【[锅炉工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_lv_gon.md#锅炉工)】`gu1 lv2 gon1` <sup>[如东]</sup> 工种的一种。以操纵锅炉为职业的工人。  
 1. 【[锅门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men.md#锅门)】`gu1 men` <sup>[如皋]</sup> 灶门前。  
-1. 【[锅门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men_keu.md#锅门口)】`gu1 men keu3` <small>/kʊ1 məŋ kʰei3/<sup>如皋</sup></small> ① 灶门前。<sup>\[如皋\]</sup> ② 火灶洞口附近<sup>\[泰州\]</sup>：钥匙怕的𠫓咖在～。<sup>\[泰州\]</sup>  
+1. 【[锅门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men_keu.md#锅门口)】`gu1 men keu3` <small>/kʊ1 məŋ kʰei3/<sup>如皋</sup>, /kɤɯ1 məŋ kʰəɪ3/<sup>泰兴</sup></small> 灶门前，火灶洞口附近<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：钥匙怕的𠫓咖在～。<sup>\[泰州\]</sup>  
 1. 【[锅门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men.md#锅门)】`gu1 men2` <sup>[如东]</sup> 炉灶的门。  
 1. 【[锅门草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men_co.md#锅门草)】`gu1 men2 co3` <sup>[如东]</sup> 放在锅门后边准备烧火的草。  
 1. 【[锅门口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_men_keu.md#锅门口)】`gu1 men2 keu3` <small>/ko1 mən2 kʰɤ3/<sup>兴化</sup></small> ① 灶膛门边。<sup>\[如东\]</sup> ② 厨房<sup>\[兴化\]</sup>：晚饭后，邹二睡在～……（兴文《蛤蟆舍》）<sup>\[兴化\]</sup> ③ 灶膛的入口<sup>\[兴化\]</sup>：临睡觉把～扫干净。<sup>\[兴化\]</sup>  
@@ -1125,26 +1125,29 @@
 1. 【[锅披](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_pi.md#锅披)】`gu1 pi1` <sup>[兴化]</sup> 用做厨房的披屋。  
 1. 【[锅脐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qi.md#锅脐)】`gu1 qi2` <sup>[泰州]</sup> 铁锅底部正中环状浅棱，铸锅脱模后所留模上注入铁水的小口痕迹，类似腹部肚脐，故名。  
 1. 【[锅脐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qi_r.md#锅脐<sub>儿</sub>)】`gu1 qi2 r` <sup>[如皋]</sup> 铸铁锅外底中心的凸起，是铸痕。  
-1. 【[锅脐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qi_zz.md#锅脐子)】`gu1 qi2 zz` <sup>[兴化]</sup> 铁锅底部突起部分，为浇铸时铁水的入口处。  
-1. 【[锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qian.md#锅腔)】`gu1 qian1` <small>/ko1 t͡ɕʰiaŋ1/<sup>兴化</sup></small> ① 土或陶质的瓮形炊具，一面开口烧火。<sup>\[兴化\]</sup> ② 用土制作而成的无烟道、可移动的小土灶，上空可以架一口锅，前侧开口烧火，也有在陶缸上直接凿口而成<sup>\[泰州\]</sup>：烧～。<sup>\[泰州\]</sup>  
+1. 【[锅脐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qi_zz.md#锅脐子)】`gu1 qi2 zz` <small>/ko1 t͡ɕʰi2 t͡sɿ/<sup>兴化</sup>, /kɤɯ1 t͡ɕʰʝ2 t͡sɿ/<sup>泰兴</sup></small> ① 铁锅底部突起部分，为浇铸时铁水的入口处。<sup>\[兴化\]</sup> ② 锅底部的圆形部分。<sup>\[泰兴\]</sup>  
+1. 【[锅腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qian.md#锅腔)】`gu1 qian1` <small>/ko1 t͡ɕʰiaŋ1/<sup>兴化</sup>, /kɤɯ1 t͡ɕʰiɑŋ1/<sup>泰兴</sup></small> ① 土或陶质的瓮形炊具，一面开口烧火。<sup>\[兴化\]</sup> ② 用土制作而成的无烟道、可移动的小土灶，上空可以架一口锅，前侧开口烧火，也有在陶缸上直接凿口而成<sup>\[泰州\]</sup>：烧～。<sup>\[泰州\]</sup> ③ 锅洞，灶的内腔。<sup>\[泰兴\]</sup>  
 1. 【[锅腔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qian_r.md#锅腔<sub>儿</sub>)】`gu1 qian1 r` <small>/kʊ1 t͡ɕʰia˞1/<sup>如皋</sup>, /ko1 t͡ɕʰiɑŋ1 ɚ/<sup>泰县</sup></small> ① 见“锅箱儿”。<sup>\[如皋\]</sup> ② 土制的小灶<sup>\[泰县\]</sup>：～要支啊在筋骨里就晓得当家难吖。<sup>\[泰县\]</sup>  
 1. 【[锅腔<sub>儿</sub>支在自己肋骨上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qian_r_zhr.md#锅腔<sub>儿</sub>支在自己肋骨上)】`gu1 qian1 r zhr1 cae6 cz6 ji3 leh8 gueh7 shan6` <sup>[东台]</sup> 喻指直接关系到自己的切身利益。  
 1. 【[锅圈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_qiun.md#锅圈)】`gu1 qiun1` <small>/kʊ1 t͡ɕʰyʊ̃1/<sup>如皋</sup></small> ① 圆形，革制或布制，放在锅沿上，承担蒸笼或甑子，防止蒸气外泄。<sup>\[如东\]</sup> ② 大灶铁锅周边上方加垫的草圈，有加高、集气、护盖作用。<sup>\[如皋\]</sup>  
-1. 【[锅上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shan.md#锅上)】`gu1 shan` <small>/ko1 saŋ/<sup>兴化</sup>, /kʊ1 sã/<sup>如皋</sup></small> ① 锅台前。指执铲子做菜或指人。见“灶上”。<sup>\[如皋\]</sup> ② 灶台上可放碗盏等的平面部分。<sup>\[兴化\]</sup> ③ 厨房。<sup>\[兴化\]</sup>  
+1. 【[锅上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shan.md#锅上)】`gu1 shan` <small>/ko1 saŋ/<sup>兴化</sup>, /kʊ1 sã/<sup>如皋</sup>, /kɤɯ1 sɑŋ/<sup>泰兴</sup></small> ① 锅台前。指执铲子做菜或指人。见“灶上”。<sup>\[如皋\]</sup> ② 灶台上可放碗盏等的平面部分。<sup>\[兴化\]</sup> ③ 厨房。<sup>\[兴化\]</sup> ④ 灶上，灶间。<sup>\[泰兴\]</sup>  
 1. 【[锅上说话，锅下不真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shan_shuh_hua.md#锅上说话，锅下不真)】`gu1 shan shuh7 hua6 gu1 xia6 beh7 zhen1` <sup>[东台]</sup> 形容说话不诚实，一转身又是另一套话。  
 1. 【[锅上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shan.md#锅上)】`gu1 shan6` <sup>[东台]</sup> 厨师的别称。  
+1. 【[锅上锅下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shan_gu_ha.md#锅上锅下)】`gu1 shan6 gu1 ha6` <small>/kɤɯ1 sɑŋ1 kɤɯ1 xɑ1/<sup>泰兴</sup></small> 泛指灶房里的各种杂事。<sup>\[泰兴\]</sup>  
 1. 【[锅水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuei.md#锅水)】`gu1 shuei3` <small>/kʊ1 suei3/<sup>如皋</sup></small> ① 洗锅刷碗的脏水。也叫泔水。<sup>\[如东\]</sup> ② 洗锅洗碗之后剩下来的脏水。<sup>\[如皋\]</sup>  
 1. 【[锅水脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shuei_jiah_r.md#锅水脚<sub>儿</sub>)】`gu1 shuei3 jiah7 r` <small>/kʊ1 suei3 t͡ɕia˞7/<sup>如皋</sup></small> ① 洗锅刷碗后沉淀下来的渣滓。<sup>\[如东\]</sup> ② 洗锅洗碗剩下来的脏水。<sup>\[如皋\]</sup>  
 1. 【[锅台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tae.md#锅台)】`gu1 tae2` <sup>[如东]</sup> 灶台。  
 1. 【[锅膛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tan.md#锅膛)】`gu1 tan2` <small>/ko1 tʰaŋ2/<sup>兴化</sup>, /kʊ1 tʰã2/<sup>如皋</sup></small> ① 炉灶里生火的地方。<sup>\[如东\]</sup> ② 灶内锅下烧火处。<sup>\[如皋\]</sup> ③ 灶或锅腔投放燃料燃烧的部分。<sup>\[兴化\]</sup>  
+1. 【[锅贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tih.md#锅贴)】`gu1 tih7` <small>/kɤɯ1 tʰiʔ7/<sup>泰兴</sup></small> 用少量的油烙成的饺子状食品。<sup>\[泰兴\]</sup>  
 1. 【[锅贴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_tih_zz.md#锅贴子)】`gu1 tih7 zz` ① 油煎生饺。<sup>\[东台\]</sup> ② 易总点心，包肉馅儿置于平底圆锅中，加少量油，干煎至熟，故名。<sup>\[泰州\]</sup>  
+1. 【[锅洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ton.md#锅洞)】`gu1 ton` <small>/kɤɯ1 tʰɔŋ/<sup>泰兴</sup></small> 灶腔<sup>\[泰兴\]</sup>  
 1. 【[锅箱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_r.md#锅箱<sub>儿</sub>)】`gu1 xian r` <sup>[如东]</sup> 一种简陋的小灶，一般用破缸改制或用泥草糊成，圆桶形，高约二尺，单口，多数无烟囱：解放前，许多农民连灶都砌不起来，只能烧～。  
 1. 【[锅箱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_r.md#锅箱<sub>儿</sub>)】`gu1 xian1 r` <sup>[如皋]</sup> 窑制的圆台式红泥陶器，似小缸，侧开门即可放锅子烧煮。  
 1. 【[锅箱<sub>儿</sub>帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_r_mo.md#锅箱<sub>儿</sub>帽子)】`gu1 xian1 r mo6 zz` <sup>[如皋]</sup> 一种筒式粗毡帽，迭起来同平常帽子，放下来可护头颈，只露眼睛。  
 1. 【[锅箱<sub>儿</sub>支啊肋身骨上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xian_r_zhr.md#锅箱<sub>儿</sub>支啊肋身骨上)】`gu1 xian1 r zhr1 a leh8 shen gueh7 shan` <sup>[如皋]</sup> 有了亲身体验：要把～，他才晓得难哎！  
 1. 【[锅锈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_xieu.md#锅锈)】`gu1 xieu5` <small>/kʊ1 ɕyʊ5/<sup>如皋</sup></small> ① 锅底上的烟垢。<sup>\[如东\]</sup> ② 锅底上的铁锈。<sup>\[如东\]</sup> ③ 锅底外层的积垢、氧化层。<sup>\[如皋\]</sup>  
 1. 【[锅灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zo.md#锅灶)】`gu1 zo5` <sup>[兴化]</sup> 生火烧饭、做菜的设施，包括锅和灶：把～收拾下子。  
-1. 【[锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#锅子)】`gu1 zz` <small>/ko1 t͡sɿ/<sup>兴化</sup></small> ① 烧煮食物的器皿。铁、铜、钢精或瓷土制，圆彤，中间凹，有多种规格，可以煮饭炒菜等。<sup>\[如东\]</sup> ② 比较小的锅<sup>\[兴化\]</sup>：钢精～；平底～。<sup>\[兴化\]</sup>  
+1. 【[锅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz.md#锅子)】`gu1 zz` <small>/ko1 t͡sɿ/<sup>兴化</sup>, /kɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 锅<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[兴化：比较小的锅\]：钢精～；平底～。<sup>\[兴化\]</sup>  
 1. 【[𠹭𠹭鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_ji.md#𠹭𠹭鸡)】`gu1 gu1-2 ji1` <sup>[东台]</sup> 本为象声词，指公鸡鸣叫的声音。后泛指像鸡头的东西：他的发型像～｜我裹啊个～粽子。  
 1. 【[哿曾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_cen.md#哿曾)】`gu3 cen2` <sup>[如东]</sup> 是否曾：你～去？  
 1. 【[哿是不早的句话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_shr_beh_zo.md#哿是不早的句话)】`gu3 shr6 beh7 zo3 dii jy5 hua6` <sup>[如皋]</sup> 表示要等待很久，性急无用：你等他？～！不到十点钟不得到班！  

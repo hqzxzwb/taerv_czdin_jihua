@@ -15,21 +15,24 @@
 1. 【[稀𬙙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fan.md#稀𬙙)】`xi1 fan1` <sup>[如东]</sup> 一种捕鱼网具。圆锥形，口宽约1丈，网身长约2丈。草绳结成，网眼较大故称稀𬙙。作业时，把罗放人海洋里，用竹竿撑开，主要捕捞海蜇。  
 1. 【[稀罕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_hun.md#稀罕)】`xi1 hun3` <sup>[如东]</sup> 少有：这种东西非常～。  
 1. 【[稀脚丫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_jiah_nga_r.md#稀脚丫<sub>儿</sub>)】`xi1 jiah7 nga1 r` <sup>[如东]</sup> 表示不干了：他又～啊。  
+1. 【[稀客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_keh.md#稀客)】`xi1 keh7` <small>/ɕʝ1 kʰəʔ7/<sup>泰兴</sup></small> 不常来的客人。<sup>\[泰兴\]</sup>  
 1. 【[稀朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lan.md#稀朗)】`xi1 lan3` <sup>[如东]</sup> 稀疏：棉花苗～要适当。  
 1. 【[稀溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lieu_lieu.md#稀溜溜)】`xi1 lieu1 lieu1` <sup>[如东]</sup> 形容粥等食物很稀薄的状态：今朝的粥煮啊好，～的。  
 1. 【[稀里不脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_beh_zan.md#稀里不脏)】`xi1 lii beh7 zan1` <small>/ɕi1 ləi pəʔ7 t͡saŋ1/<sup>兴化</sup></small> ① 形容非常肮脏，是“稀脏”的生动形式<sup>\[兴化\]</sup>：这个小伙把身上作得～的。<sup>\[兴化\]</sup> ② “稀脏”的生动形式，非常不洁或者玷污严重样子<sup>\[泰州\]</sup>：他家家里不晓得哪一年子打扫过的，～的，亏他蹾得住的。<sup>\[泰州\]</sup>  
 1. 【[稀里讲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gan.md#稀里讲)】`xi1 lii gan3` <sup>[东台]</sup> 说无关紧要的话，回避主要的实质性内容。  
 1. 【[稀里古怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_gv_guae.md#稀里古怪)】`xi1 lii gv3 guae5` <sup>[东台]</sup> 稀奇古怪。  
+1. 【[稀里哗啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_hua_la.md#稀里哗啦)】`xi1 lii hua1 la` <small>/ɕʝ1 ləɪ xuɑ1 lɑ/<sup>泰兴</sup></small> 形容声音很大；破败不堪的样子。<sup>\[泰兴\]</sup>  
 1. 【[稀里糊涂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_hv_tv.md#稀里糊涂)】`xi1 lii hv2 tv2-1` <sup>[东台]</sup> 糊里糊涂。  
-1. 【[稀毛瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_laeh_zz.md#稀毛瘌子)】`xi1 mo2 laeh8 zz` <small>/ɕi1 mɔ2 læʔ8 t͡sɿ/<sup>兴化</sup>, /sɿ1 mɔ2 næʔ8 t͡se/<sup>泰县</sup></small> ① 瘌子的头发很少，比喻稀少。<sup>\[如东\]</sup>：玉米苗捱地老虎咬断不少，成吖～。<sup>\[如东\]</sup> ② 头发稀少的人。也戏称农作物出苗率低，长势不好。<sup>\[东台\]</sup> ③ 由于脱落了大部分头发，头顶毛发稀少，形似瘌痢头。<sup>\[兴化\]</sup> ④ 稀少，不整齐。<sup>\[泰县\]</sup>  
+1. 【[稀毛瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mo_laeh_zz.md#稀毛瘌子)】`xi1 mo2 laeh8 zz` <small>/ɕi1 mɔ2 læʔ8 t͡sɿ/<sup>兴化</sup>, /ɕʝ1 mɔ læʔ8 t͡sɿ/<sup>泰兴</sup>, /sɿ1 mɔ2 næʔ8 t͡se/<sup>泰县</sup></small> ① 瘌子的头发很少，比喻稀少。<sup>\[如东\]</sup>：玉米苗捱地老虎咬断不少，成吖～。<sup>\[如东\]</sup> ② 头发稀少的人。也戏称农作物出苗率低，长势不好。<sup>\[东台\]</sup> ③ 由于脱落了大部分头发，头顶毛发稀少，形似瘌痢头。<sup>\[兴化\]</sup> ④ 稀少，不整齐。<sup>\[泰县\]</sup> ⑤ 头发很少的人。<sup>\[泰兴\]</sup>  
 1. 【[稀幪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_mon.md#稀幪)】`xi1 mon3` <sup>[如东]</sup> 稀疏稠密：你看看这块田里的棉苗～。  
 1. 【[稀眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_r.md#稀眼<sub>儿</sub>)】`xi1 ngaen3 r` <sup>[如皋]</sup> 形容用物的孔、网眼大：～笿儿、～网、～管。  
 1. 【[稀眼<sub>儿</sub>𥭚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ngaen_r_van.md#稀眼<sub>儿</sub>𥭚)】`xi1 ngaen3 r van6` <sup>[如皋]</sup> 眼、孔大的𥭚障。  
 1. 【[稀奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qi.md#稀奇)】`xi1 qi2` <sup>[如东]</sup> 极少见。  
 1. 【[稀生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_shen.md#稀生)】`xi1 shen1` <sup>[如东]</sup> 稀罕：这倒是～货唻。  
 1. 【[稀松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_son.md#稀松)】`xi1 son1` <sup>[如东]</sup> 疏松：泥土十分～。  
-1. 【[稀稀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_dii.md#稀稀的)】`xi1 xi1 dii` <sup>[如皋]</sup> 见“些些儿”。  
-1. 【[稀稀㝗㝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_lan_lan.md#稀稀㝗㝗)】`xi1 xi1 lan3 lan3` <sup>[东台]</sup> 不稠密。  
+1. 【[稀稀的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_dii.md#稀稀的)】`xi1 xi1 dii` <small>/ɕʝ1 ɕʝ1 tei/<sup>如皋</sup>, /ɕʝ1 ɕʝ1 təɪ/<sup>泰兴</sup></small> ① 见“些些儿”。<sup>\[如皋\]</sup> ② 稀少之状。<sup>\[泰兴\]</sup>  
+1. 【[稀稀拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_la_la.md#稀稀拉拉)】`xi1 xi1 la1 la1` <small>/ɕʝ1 ɕʝ1 lɑ1 lɑ1/<sup>泰兴</sup></small> 拖拖拉拉，零零落落。<sup>\[泰兴\]</sup>  
+1. 【[稀稀㝗㝗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_lan_lan.md#稀稀㝗㝗)】`xi1 xi1 lan3 lan3` <small>/ɕʝ1 ɕʝ1 lɑŋ3 lɑŋ3/<sup>泰兴</sup></small> ① 不稠密。<sup>\[东台\]</sup> ② 不密，稀疏。<sup>\[泰兴\]</sup>  
 1. 【[稀稀人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ren.md#稀稀人)】`xi1 xi1 ren2` <sup>[如东]</sup> 在人面前炫耀。  
 1. 【[稀脏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_zan.md#稀脏)】`xi1 zan1` 非常脏<sup>\[泰州\]</sup>：这小伙在外头作泥，身上弄得～的。<sup>\[泰州\]</sup>  
 1. 【[西北风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_boh_fon.md#西北风)】`xi1 boh7 fon1` <sup>[东台]</sup> ［喻］没有起码的生存条件：把块田你，你不好好种，明吖去喝～！  
@@ -60,7 +63,7 @@
 1. 【[豨莶草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_co.md#豨莶草)】`xi1 xin1 co3` <sup>[如东]</sup> 菊科植物腺梗豨莶，一年生草本。高约100厘米。茎直立，常带紫色，枝上部密被短柔毛。叶对生，阔卵状三角形，边缘具粗锯齿。头状花序顶生或腋生。花黄色。瘦果倒卵形，微弯，黑色。生长在路边  
 1. 【[豨莶果](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xin_gu.md#豨莶果)】`xi1 xin1 gu3` <sup>[如东]</sup> 菊科植物腺梗豨莶果实。  
 1. 【[𬮮/𨵤/𨵎/𠩺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#𬮮/𨵤/𨵎/𠩺)】`xi1` <small>/ɕʝ1/<sup>如皋</sup>, /ɕʝ1/<sup>泰兴</sup>, /sɿ1/<sup>泰县</sup></small> 露出缝隙；微开。（𬮮）（𠩺，《说文·文部》，许其切）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：门～下来啊朆关紧。桌面子因木料收缩～啊缝。<sup>\[如皋\]</sup>｜门～啊一条缝。<sup>\[东台\]</sup>｜～啊一条缝。<sup>\[泰县\]</sup>｜～缝<sup>\[泰兴\]</sup>  
-1. 【[𬮮缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#𬮮缝)】`xi1 fon6` <small>/ɕi1 foŋ6/<sup>兴化</sup></small> 开裂有缝，或接合处分开有缝<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰州\]</sup>\[兴化：或指缝隙\]：桌面～。<sup>\[如东\]</sup>｜这扇后门经过风吹日晒老早就𬮮啊缝。<sup>\[兴化\]</sup>｜这个缸𬮮啊缝。<sup>\[泰州\]</sup>｜这张桌子才用吖两年就～唻。<sup>\[泰州\]</sup>｜墙上～都这吖大唻，要快点儿修。<sup>\[泰州\]</sup>  
+1. 【[𬮮缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_fon.md#𬮮缝)】`xi1 fon6` <small>/ɕi1 foŋ6/<sup>兴化</sup>, /ɕʝ1 fɔŋ1/<sup>泰兴</sup></small> 开裂有缝，或接合处分开有缝<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[兴化：或指缝隙\]：桌面～。<sup>\[如东\]</sup>｜这扇后门经过风吹日晒老早就𬮮啊缝。<sup>\[兴化\]</sup>｜这个缸𬮮啊缝。<sup>\[泰州\]</sup>｜这张桌子才用吖两年就～唻。<sup>\[泰州\]</sup>｜墙上～都这吖大唻，要快点儿修。<sup>\[泰州\]</sup>  
 1. 【[騱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#騱)】`xi2` <sup>[如东]</sup> 液体沿着支柱向上移动：煤油沿吖灯芯向上～动。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton` <sup>[如皋]</sup> 纷纷乱动：还不曾散会，人就～起来啊。  
 1. 【[騱动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_ton.md#騱动)】`xi2 ton6` <sup>[如东]</sup> 小步快走：这个伢儿走得～。  

@@ -201,7 +201,7 @@
 1. 【[来头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu.md#来头)】`lae2 teu` <small>/lɛ2 tʰəɪ/<sup>泰兴</sup></small> ① 来历。<sup>\[如东\]</sup> ② 指人的身份、资历或背景；来由、原因。<sup>\[泰兴\]</sup>  
 1. 【[来头丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu_cheu.md#来头丑)】`lae2 teu cheu3` ① 形容人举止不好，作风不好 ② 出生根子不好，泛指行为不端。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[来头失魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_teu_sheh_huen.md#来头失魂)】`lae2 teu2 sheh7 huen2` <sup>[东台]</sup> 匆匆忙忙走来，像失去灵魂样的丢三落四。  
-1. 【[来动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ton.md#来动)】`lae2 ton` 开始出现某种萌芽状态<sup>\[泰州\]</sup>：他才来的几个月表现还说得过去，最近像是有点儿～吖唻，你要注意点儿。<sup>\[泰州\]</sup>｜这个人贪小便宜的老毛病就改不掉，这两天又～吖唻。<sup>\[泰州\]</sup>  
+1. 【[来动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ton.md#来动)】`lae2 ton` <small>/lɛ2 tʰɔŋ/<sup>泰兴</sup></small> ① 开始出现某种萌芽状态<sup>\[泰州\]</sup>：他才来的几个月表现还说得过去，最近像是有点儿～吖唻，你要注意点儿。<sup>\[泰州\]</sup>｜这个人贪小便宜的老毛病就改不掉，这两天又～吖唻。<sup>\[泰州\]</sup> ② 起了兴致、劲头，一般用于讽刺人作出不正常举动，类似于北方方言“来劲”、“作妖”<sup>\[泰兴\]</sup>：望见摸奖的他就～吖，说的找人算吖的，他今年财气大唻，不问怎吖总要去试下子<sup>\[泰兴\]</sup>｜你哿是～吖啦？不同人搝哿行？怎吖还想得起来同人动手的？<sup>\[泰兴\]</sup>  
 1. 【[来文](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ven.md#来文)】`lae2 ven2` <sup>[如东]</sup> 来历。  
 1. 【[来文丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ven_cheu.md#来文丑)】`lae2 ven2 cheu3` <sup>[如东]</sup> 来历不好。  
 1. 【[来尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xy.md#来尿)】`lae2 xy1` <small>/ne2 ɕy1/<sup>泰县</sup></small> ① 遗尿，俗称尿床。<sup>\[东台\]</sup> ② 小孩夜里尿床。<sup>\[泰县\]</sup> ③ 小便失禁。<sup>\[泰州\]</sup>  

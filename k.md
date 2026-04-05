@@ -802,6 +802,7 @@
 1. 【[框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#框)】`kuan1` ① 中间空的方形、圆形或多边形结构。<sup>\[如东\]</sup>：门～。<sup>\[如东\]</sup> ② 门、窗或工艺品外围的架子及装饰物<sup>\[东台\]</sup>：玻璃～子<sup>\[东台\]</sup>｜镜～<sup>\[东台\]</sup>  
 1. 【[框框](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_kuan.md#框框)】`kuan1 kuan` <sup>[东台]</sup> 事物固定的格式和限制的范围。也叫“框子”。  
 1. 【[筐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#筐)】`kuan1` ① 容器。竹篾或荆条编成，圆柱形，有底，无环。较大。用以盛物。<sup>\[如东\]</sup> ② 用竹篾、柳条等编织成的盛物的器具<sup>\[东台\]</sup>：编个柳藤～<sup>\[东台\]</sup>｜两～菜<sup>\[东台\]</sup>  
+1. 【[筐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_zz.md#筐子)】`kuan1 zz` <small>/kʰuɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 方形的盛物竹器。亦有用柳条等编成的。<sup>\[泰兴\]</sup>  
 1. 【[絖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#絖)】`kuan1` <small>/kʰuã1/<sup>如皋</sup></small> ① 动词<sup>\[如皋\]</sup>：～丝线、～头绳。<sup>\[如皋\]</sup> ② 名词<sup>\[如皋\]</sup>：丝～子、线～子。<sup>\[如皋\]</sup> ③ 量词<sup>\[如皋\]</sup>：一～棉线。<sup>\[如皋\]</sup>  
 1. 【[诓骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan_pin.md#诓骗)】`kuan1 pin5` <sup>[东台]</sup> 瞒哄、欺骗。  
 1. 【[狂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuan.md#狂)】`kuan2` <small>/kʰuã2/<sup>如皋</sup>, /kʰuɑŋ2/<sup>泰兴</sup></small> ① 见“疯”。指小孩贪玩无节制。<sup>\[如皋\]</sup> ② 纵情；恣意。凶猛；猛烈。妄自尊大。<sup>\[泰兴\]</sup>：他现在～ngae<sup>\[泰兴\]</sup>  

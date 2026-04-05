@@ -767,7 +767,7 @@
 1. 【[趾头拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_guae_r.md#趾头拐<sub>儿</sub>)】`zheh7 teu guae3 r` <sup>[如皋]</sup> 外凸骨节。  
 1. 【[趾头节<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_jih_r.md#趾头节<sub>儿</sub>)】`zheh7 teu jih7 r` <sup>[如皋]</sup> 脚趾的关节或每一节。  
 1. 【[趾头爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_teu_zho_r.md#趾头爪<sub>儿</sub>)】`zheh7 teu zho3 r` <sup>[如皋]</sup> 脚趾。  
-1. 【[迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#迮)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰县</sup></small> 压<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：拿石头～咸菜缸。<sup>\[如皋\]</sup>｜这本书不平，坐啊屁股下～下子。<sup>\[泰县\]</sup>  
+1. 【[迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh.md#迮)】`zheh7` <small>/t͡səʔ7/<sup>如皋</sup>, /t͡səʔ7/<sup>泰兴</sup>, /t͡səʔ7/<sup>泰县</sup></small> 压<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：拿石头～咸菜缸。<sup>\[如皋\]</sup>｜这本书不平，坐啊屁股下～下子。<sup>\[泰县\]</sup>  
 1. 【[迮迮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zheh_zheh.md#迮迮)】`zheh7 zheh7` <small>/t͡səʔ7 t͡səʔ7/<sup>泰县</sup></small> 压压<sup>\[泰县\]</sup>：这几张邮票要～，防止翘边儿。<sup>\[泰县\]</sup>  
 1. 【[争多较少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_jio_sho.md#争多较少)】`zhen1 du1 jio5 sho3` <sup>[泰州]</sup> 计较数量多少而不相让：你俫为这点儿钱～，真没得意思。  
 1. 【[争多略少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_du_liah_sho.md#争多略少)】`zhen1 du1 liah8 sho3` <sup>[如东]</sup> 要求多：不要～的。  

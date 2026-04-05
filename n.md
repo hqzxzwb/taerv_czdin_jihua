@@ -1208,9 +1208,10 @@
 1. 【[鹅内金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_nuei_jien.md#鹅内金)】`ngu2 nuei6 jien1` <sup>[如东]</sup> 鸭科动物鹅的砂囊内壁。  
 1. 【[鹅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r.md#鹅<sub>儿</sub>)】`ngu2 r` <small>/ŋɤɯ˞2/<sup>泰兴</sup>, /o2 ɚ/<sup>泰县</sup></small> 鹅<sup>\[泰县\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[鹅<sub>儿</sub>不食草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_beh_sheh.md#鹅<sub>儿</sub>不食草)】`ngu2 r beh7 sheh8 co3` <sup>[如皋]</sup> 石胡荽。  
+1. 【[鹅<sub>儿</sub>颈项](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_jien_han.md#鹅<sub>儿</sub>颈项)】`ngu2 r jien3 han` <small>/ŋɤɯ˞2 t͡ɕiŋ3 xɑŋ/<sup>泰兴</sup></small> 喻人不直爽，弯弯绕。<sup>\[泰兴\]</sup>  
 1. 【[鹅<sub>儿</sub>蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_taen.md#鹅<sub>儿</sub>蛋)】`ngu2 r taen6` ① 鹅蛋 ② 喻指考试得零分  
 1. 【[鹅<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_r_teu.md#鹅<sub>儿</sub>头)】`ngu2 r teu2` <small>/ŋʊ˞2 tʰei2/<sup>如皋</sup></small> ① 一种麦田常见的野草。花苞大，花瓣小，呈粉红色。<sup>\[如皋\]</sup> ② 前额或枕骨凸起的头型。<sup>\[如皋\]</sup>  
-1. 【[鹅掌疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan_fon.md#鹅掌疯)】`ngu2 zhan3 fon1` <sup>[如东]</sup> 手掌上孳生的一种皮肤病。  
+1. 【[鹅掌疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan_fon.md#鹅掌疯)】`ngu2 zhan3 fon1` <small>/ŋɤɯ2 t͡sɑŋ3 fɔŋ1/<sup>泰兴</sup></small> ① 手掌上孳生的一种皮肤病。<sup>\[如东\]</sup> ② 手掌皮肤病的俗称。<sup>\[泰兴\]</sup>  
 1. 【[鹅掌风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan_fon.md#鹅掌风)】`ngu2 zhan3 fon1` <sup>[泰州]</sup> 手癣，初期手心、手指皮下有小水泡，日久水泡隐没，叠起白皮，粗厚皲裂。  
 1. 【[鹅掌黄皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zhan_huan_pi.md#鹅掌黄皮)】`ngu2 zhan3 huan2 pi2` <sup>[如东]</sup> 鸭科动物鹅足蹼上的黄色表皮。  
 1. 【[鹅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zz.md#鹅子)】`ngu2 zz` <sup>[泰县]</sup> 鹅。  

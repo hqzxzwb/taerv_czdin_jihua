@@ -1508,7 +1508,7 @@
 1. 【[懵一冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_ieh_chon.md#懵一冲)】`mo3 ieh7 chon1` <sup>[如皋]</sup> 暂时性的，一时。  
 1. 【[瞀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lian.md#瞀亮)】`mo3 lian6` <sup>[泰州]</sup> 人刚脱离黑暗环境之时，眼睛突然受到阳光刺激而睁不开，或者不能适应特别强烈光的照射而使眼睛昏花：你才走黑处跑出来，这一刻儿突然望到太阳，怎吖得不～㖸。  
 1. 【[覒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#覒)】`mo3` <sup>[东台]</sup> 窥视。（《广韵》莫报切，邪视也。）：小偷～好啊，她家里没得人，好下手。  
-1. 【[铆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#铆)】`mo3` <sup>[如皋]</sup> 捆扎。  
+1. 【[铆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#铆)】`mo3` <small>/mɔ3/<sup>如皋</sup></small> 捆扎。<sup>\[如皋\]</sup>  
 1. 【[冒不投空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_beh_teu_kon.md#冒不投空)】`mo6 beh teu2 kon1` <sup>[兴化]</sup> 突然地：这件事～的想不起来。  
 1. 【[冒充](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chon.md#冒充)】`mo6 chon1` ① 假的充当真的。<sup>\[如东\]</sup> ② 用假的充当真的。<sup>\[东台\]</sup>  
 1. 【[冒戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah.md#冒戳)】`mo6 chuah7` <sup>[如东]</sup> 冒充。  

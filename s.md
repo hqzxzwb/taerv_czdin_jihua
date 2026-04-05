@@ -556,11 +556,11 @@
 1. 【[射血条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_xiuh_tio_zz.md#射血条子)】`sha6 xiuh7 tio2 zz` <sup>[如皋]</sup> 詈语。指排泄小便。  
 1. 【[筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae.md#筛)】`shae1` <small>/sɛ1/<sup>如皋</sup></small> 用筛子筛，筛选。<sup>\[如皋\]</sup><sup>\[如东\]</sup>：～选。<sup>\[如东\]</sup>  
 1. 【[筛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_co.md#筛草)】`shae1 co3` <sup>[如东]</sup> 莎草科植物筛草，多年生草本。匍匐根茎长。秆三棱，高20厘米。叶广线形，边缘具锐锯齿质强韧，有光泽。头状花序。小坚果。生长在沿海沙滩上。  
-1. 【[筛糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_kan.md#筛糠)】`shae1 kan1` <sup>[东台]</sup> ［喻］形容浑身发抖的样子。  
+1. 【[筛糠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_kan.md#筛糠)】`shae1 kan1` <small>/ɕiɛ1 kʰɑŋ1/<sup>泰兴</sup></small> ① ［喻］形容浑身发抖的样子。<sup>\[东台\]</sup> ② 用筛子筛糠，快速来回摇摆不停。比喻身体发抖打颤。<sup>\[泰兴\]</sup>  
 1. 【[筛青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_qien.md#筛青)】`shae1 qien1` <small>/sɛ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> 用烟筛筛去烟土的水烟。<sup>\[如皋\]</sup>  
 1. 【[筛筛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_shae_r.md#筛筛<sub>儿</sub>)】`shae1 shae1 r` <sup>[泰县]</sup> 咸小菜。  
 1. 【[筛动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_ton.md#筛动)】`shae1 ton` <sup>[如皋]</sup> ① 形容身体颤动。或为冷，或为受惊吓。 ② 形容地震时圈转颤抖的动态。  
-1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <small>/sɛ1 t͡sɿ/<sup>如皋</sup></small> ① 筛选用具。农用为竹篾编制。依网眼从大到小分为<sup>\[如皋\]</sup>：隔～、漏～、黄豆儿筛～、米～、𪎉～、䜺儿～等6种。另有罗～、水烟～。<sup>\[如皋\]</sup> ② 小孩的寄名。儿初生，置筛内筛之，意为筛而不漏，不会早天。<sup>\[如皋\]</sup> ③ 法器。旧俗新娘送房，以筛子罩窗户。可辟鬼车（传说中的九头八尾鸟儿）偷看；棺材离家入土，丧户用以在家中“镇地”。<sup>\[如皋\]</sup> ④ 工具。圆形，有帮，底用竹篾编织网状，小孔方形，能够把小颗粒抖漏下去，粗颗粒保留在上面。有𪎉筛、米筛等多种。<sup>\[如东\]</sup>  
+1. 【[筛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz.md#筛子)】`shae1 zz` <small>/sɛ1 t͡sɿ/<sup>如皋</sup>, /ɕiɛ1 t͡sɿ/<sup>泰兴</sup></small> ① 筛选用具。农用为竹篾编制。依网眼从大到小分为<sup>\[如皋\]</sup>：隔～、漏～、黄豆儿筛～、米～、𪎉～、䜺儿～等6种。另有罗～、水烟～。<sup>\[如皋\]</sup> ② 小孩的寄名。儿初生，置筛内筛之，意为筛而不漏，不会早天。<sup>\[如皋\]</sup> ③ 法器。旧俗新娘送房，以筛子罩窗户。可辟鬼车（传说中的九头八尾鸟儿）偷看；棺材离家入土，丧户用以在家中“镇地”。<sup>\[如皋\]</sup> ④ 工具。圆形，有帮，底用竹篾编织网状，小孔方形，能够把小颗粒抖漏下去，粗颗粒保留在上面。有𪎉筛、米筛等多种。<sup>\[如东\]</sup> ⑤ 一种用竹丝或金属丝编成的漏物器具，多圆形。<sup>\[泰兴\]</sup>  
 1. 【[筛子顶上的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_dien_shan.md#筛子顶上的)】`shae1 zz dien3 shan6 dii` <sup>[如东]</sup> 浮在筛子上面没有被抖落下去的谷子，颗粒比较大。比喻好东西：你是～。  
 1. 【[筛子装水——漏洞多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zhuan_shuei.md#筛子装水——漏洞多)】`shae1 zz zhuan1 shuei3 leu6 ton6 du1` <sup>[东台]</sup>   
 1. 【[筛子做锅盖——块块漏气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shae_zz_zu_gu.md#筛子做锅盖——块块漏气)】`shae1 zz zu5 gu1 gae5 kuae5 kuae5 leu6 qi5` <sup>[东台]</sup>   
@@ -692,11 +692,13 @@
 1. 【[舢板横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen_on_baen.md#舢板横板)】`shaen1 baen3 on2 baen3` <sup>[如东]</sup> 舢板的头尾横板。  
 1. 【[舢板踏脚板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_baen_taeh_jiah.md#舢板踏脚板)】`shaen1 baen3 taeh8 jiah7 baen3` <sup>[如东]</sup> 舢板盖口上面的平板，较宽，用于行走。  
 1. 【[衫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_r.md#衫<sub>儿</sub>)】`shaen1 r` <small>/sɛ̃1 ɚ/<sup>兴化</sup></small> ① 衣裳的隐语<sup>\[兴化\]</sup>：来人～破旧。<sup>\[兴化\]</sup> ② 指上衣。<sup>\[兴化\]</sup> ③ 也称“衫子”。<sup>\[兴化\]</sup>  
+1. 【[馋宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_bo_r.md#馋宝<sub>儿</sub>)】`shaen2 bo3 r` <small>/ɕiɛ̃2 pɔ˞3/<sup>泰兴</sup></small> 戏称好吃的小孩。<sup>\[泰兴\]</sup>  
+1. 【[馋虫子袅动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_chon_zz_nio.md#馋虫子袅动)】`shaen2 chon2 zz nio3 ton` <small>/ɕiɛ̃2 t͡sʰɔŋ2 t͡sɿ niɔ3 tʰɔŋ/<sup>泰兴</sup></small> 讥好吃的人。<sup>\[泰兴\]</sup>：《玉如意》第15回：“把个到嘴饭碗打泼了，害得他馋虫子袅出有半升。”<sup>\[泰兴\]</sup>  
 1. 【[馋货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_hu.md#馋货)】`shaen2 hu5` <sup>[如皋]</sup> 贬指或昵指好吃者。  
 1. 【[馋急吼吼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieh_heu_heu.md#馋急吼吼的)】`shaen2 jieh7 heu3 heu3 dii` <sup>[如皋]</sup> 急着要吃的样子。  
 1. 【[馋急捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieh_lo_lo.md#馋急捞捞的)】`shaen2 jieh7 lo1 lo1 dii` <sup>[如皋]</sup> 急着要吃的样子。见“急吞馋”。  
 1. 【[馋酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jieu.md#馋酒)】`shaen2 jieu3` ① 见酒就想喝，虽然酒量不大，但已有瘾。<sup>\[东台\]</sup> ② 贪酒，指酒量不大，也不讲究酒菜好丑，但是总是要有酒喝<sup>\[泰州\]</sup>：他就是个～，酒不在乎好丑，一顿不喝也不行。<sup>\[泰州\]</sup>  
-1. 【[馋嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jy.md#馋嘴)】`shaen2 jy3` <sup>[如东]</sup> 贪吃：不要～。  
+1. 【[馋嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jy.md#馋嘴)】`shaen2 jy3` 贪吃。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup>  
 1. 【[馋嘴猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_jy_mo_r.md#馋嘴猫<sub>儿</sub>)】`shaen2 jy3 mo2 r` <sup>[如东]</sup> 猫儿非常好吃。比喻喜欢吃零食的小儿：冬冬是个～。  
 1. 【[馋捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_lo_lo_dii.md#馋捞捞的)】`shaen2 lo lo1 dii` <sup>[如皋]</sup> 好（ho5）吃的样子。  
 1. 【[馋捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_lo_lo.md#馋捞捞)】`shaen2 lo1 lo` <sup>[东台]</sup> 又称馋极捞捞，形容食欲旺盛的样子：好几天不曾吃一顿像样的荤菜啊，～的。  
@@ -704,7 +706,7 @@
 1. 【[馋老虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_lo_hv.md#馋老虎)】`shaen2 lo3 hv3` <sup>[东台]</sup> ［喻］指特别贪食的人。  
 1. 【[馋猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo.md#馋猫)】`shaen2 mo2` ① ［喻］戏称好吃的人。<sup>\[东台\]</sup> ② 贪吃好吃的人<sup>\[泰州\]</sup>：～鼻子尖，你烧到好菜他人就来啊。<sup>\[泰州\]</sup>  
 1. 【[馋猫鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_pieh_zz.md#馋猫鼻子尖)】`shaen2 mo2 pieh8 zz jin1` <sup>[东台]</sup> ［喻］以戏谑的口吻说碰上了好吃的东西：你真的是～，我刚刚忙吖些好菜，你来得正好。  
-1. 【[馋猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r.md#馋猫<sub>儿</sub>)】`shaen2 mo2 r` <sup>[如皋]</sup> 贬指或昵指好吃者。  
+1. 【[馋猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r.md#馋猫<sub>儿</sub>)】`shaen2 mo2 r` <small>/sẽ2 mɔ˞2/<sup>如皋</sup>, /ɕiɛ̃2 mɔ˞2/<sup>泰兴</sup></small> ① 贬指或昵指好吃者。<sup>\[如皋\]</sup> ② 讥好吃的人。<sup>\[泰兴\]</sup>：～鼻子尖，一闻闻到天。<sup>\[泰兴\]</sup>  
 1. 【[馋猫<sub>儿</sub>鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_mo_r_pieh.md#馋猫<sub>儿</sub>鼻子尖)】`shaen2 mo2 r pieh8 zz jin1` <sup>[如皋]</sup> 趣言。指有了好吃的东西时，正好到来的人。  
 1. 【[馋挠挠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_no_no.md#馋挠挠)】`shaen2 no2 no2` <sup>[泰州]</sup> 对食物极为渴望的样子：这细小伙望住个肉碗，～的，先弄两筷子把他尝啊子吧。  
 1. 【[馋婆娘磨冷𩚫，磨完吃了](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaen_pu_nian_mu.md#馋婆娘磨冷𩚫，磨完吃了)】`shaen2 pu2 nian mu6 len3 zhen5，mu6 un2 qieh7 lio3` <sup>[如皋]</sup> 馋婆娘本来就馋，边磨边吃，磨完了，也吃光了。  
