@@ -1100,9 +1100,9 @@
 1. 【[良种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zhon.md#良种)】`lian2 zhon3` <sup>[如东]</sup> 优良品种。  
 1. 【[量八尺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_baeh_cheh_zz.md#量八尺子)】`lian2 baeh7 cheh7 zz` <sup>[东台]</sup> 计较别人，和人家争辩。  
 1. 【[量米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_mi.md#量米)】`lian2 mi3` <sup>[兴化]</sup> 旧指去米店买米：到刘家米店去～。  
-1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <small>/liaŋ2 sən1 kɔ5 tɤ3/<sup>兴化</sup></small> ① 原指用斗和升来测定粮食存量，后泛指清仓查库，摸清家底。（见“斠”）<sup>\[东台\]</sup> ② 含贬义，不放心别人；背着人查问题。<sup>\[东台\]</sup> ③ 反复点数、反复核算<sup>\[兴化\]</sup>：他买点东西家来有得～唻！<sup>\[兴化\]</sup> ④ 反复用升斗来校正是否准确，意谓因疑重量不足或者多出而反复斠秤、折腾不已<sup>\[泰州\]</sup>：你就不要再～唻，多个两把，少个两把，都没得说相，百十斤鱼在这块分吖半天还不曾分得好！<sup>\[泰州\]</sup>  
+1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <sup>[泰县]</sup> 反复计算。  
+1. 【[量升斠斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗)】`lian2 shen1 go5 deu3` <small>/liaŋ2 sən1 kɔ5 tɤ3/<sup>兴化</sup>, /liɑŋ2 səŋ1 kɔ5 təɪ3/<sup>泰兴</sup></small> ① 原指用斗和升来测定粮食存量，后泛指清仓查库，摸清家底。（见“斠”）<sup>\[东台\]</sup> ② 含贬义，不放心别人；背着人查问题。<sup>\[东台\]</sup> ③ 反复点数、反复核算<sup>\[兴化\]</sup>：他买点东西家来有得～唻！<sup>\[兴化\]</sup> ④ 反复用升斗来校正是否准确，意谓因疑重量不足或者多出而反复斠秤、折腾不已<sup>\[泰州\]</sup>：你就不要再～唻，多个两把，少个两把，都没得说相，百十斤鱼在这块分吖半天还不曾分得好！<sup>\[泰州\]</sup> ⑤ 反复核查某物的数量，生怕有差错。<sup>\[泰兴\]</sup>  
 1. 【[量升斠斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升斠斗<sub>儿</sub>)】`lian2 shen1 go5 deu3 r` <sup>[如皋]</sup> 贬词，一指量度工作忙乱，二指斤斤计较，三指重复细碎。  
-1. 【[量升校斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_shen_go_deu.md#量升校斗)】`lian2 shen1 go5 deu3` <sup>[泰县]</sup> 反复计算。  
 1. 【[两把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba.md#两把)】`lian3 ba` <sup>[如皋]</sup> 一两左右。  
 1. 【[两把二两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_ba_er_lian.md#两把二两)】`lian3 ba er6 lian3` <sup>[如皋]</sup> 估计一二两左右。  
 1. 【[两求斤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qieu_jien.md#两求斤)】`lian3 qieu2 jien1` <sup>[如皋]</sup> 口诀。  
@@ -1123,11 +1123,10 @@
 1. 【[亮相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#亮相)】`lian6 xian5` <sup>[如东]</sup> 露出真面目。  
 1. 【[亮星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien.md#亮星)】`lian6 xien1` <small>/liã1 ɕiəŋ1/<sup>如皋</sup>, /liɑŋ1 ɕiŋ1/<sup>泰兴</sup>, /niɑŋ1 ɕiŋ1/<sup>泰县</sup></small> ① 星光或者月光很亮的晚上 ② 阴历初八至二十三之间，月亮在空中，光线明亮，称亮星。<sup>\[如东\]</sup> ③ 天空没有云雾，星光闪烁，这种天气称亮星。<sup>\[如东\]</sup> ④ 有月的夜间。一般指阴历初八至二十三之间，即使乌云密布，天色也亮，不会一片漆黑。<sup>\[如皋\]</sup> ⑤ 明亮的夜晚。<sup>\[东台\]</sup> ⑥ 有月亮<sup>\[泰县\]</sup>：今朝是～。<sup>\[泰县\]</sup> ⑦ 月光明亮的夜晚或星光很亮的夜晚<sup>\[泰州\]</sup>：趁这一刻儿～，你俫早点儿走吧。<sup>\[泰州\]</sup> ⑧ 皓月当空，不是伸手不见五指的黑夜。<sup>\[泰兴\]</sup>  
 1. 【[亮星夜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xien_ia.md#亮星夜)】`lian6 xien1 ia6` <sup>[兴化]</sup> 有月光的夜晚：这种～里踏上几十里路车子没问题。  
-1. 【[谅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#谅)】`lian6` <sup>[东台]</sup> 料想：～你也不敢来。  
+1. 【[谅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#谅)】`lian6` <small>/liɑŋ1/<sup>泰兴</sup></small> ① 料想<sup>\[东台\]</sup>：～你也不敢来。<sup>\[东台\]</sup> ② 料想，表示轻视<sup>\[泰州\]</sup>：不是我小看他，这种文章～他写不出来。<sup>\[泰州\]</sup> ③ 估量；估计。<sup>\[泰兴\]</sup>：我～他不敢再惹事。<sup>\[泰兴\]</sup>  
 1. 【[谅想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#谅想)】`lian6 xian3` <sup>[兴化]</sup> 估摸：～他不敢动真的。  
-1. 【[量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian.md#量)】`lian6` <sup>[泰州]</sup> 料想，表示轻视：不是我小看他，这种文章～他写不出来。  
 1. 【[量大福大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_da_foh_da.md#量大福大)】`lian6 da6 foh7 da6` <sup>[泰州]</sup> 肚量大的人其福分也大，多作劝人包容、谅解他人之辞：你老人家～，就原谅他这一回吧。  
-1. 【[量气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qi.md#量气)】`lian6 qi5` <sup>[如东]</sup> 人的气度：这个人的～不小。  
+1. 【[量气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qi.md#量气)】`lian6 qi5` <small>/liɑŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 人的气度。<sup>\[如东\]</sup>：这个人的～不小。<sup>\[如东\]</sup> ② 度量；胸怀。<sup>\[泰兴\]</sup>  
 1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup></small> ① 有提梁的木制小水桶 ② 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ③ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ④ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup> ⑤ 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
 1. 【[力不从心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_beh_con_xien.md#力不从心)】`lieh8 beh7 con2 xien1` <sup>[东台]</sup> 想做某事而力量达不到：我的能力不强，想做好也～。  
 1. 【[力大养一口，智大养千人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_da_ian_ieh.md#力大养一口，智大养千人)】`lieh8 da6 ian3 ieh7 keu3 zhr5 da6 ian3 qin1 ren2` <sup>[东台]</sup> 智慧比力气重要得多，要多动脑。  

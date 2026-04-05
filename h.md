@@ -55,6 +55,7 @@
 1. 【[瘕话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_hua.md#瘕话)】`ha2 hua6` <sup>[兴化]</sup> 愚蠢可笑的话：他动不动说～，把人弄得莫名其妙。｜“老儿，莫说～。我们出家人，不走回头路”。（《西游记》二十）  
 1. 【[瘕魔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_mu.md#瘕魔)】`ha2 mu2` <sup>[兴化]</sup> 形容人遇事过于认真：他领一次工资，几百块钱数啊又数，真是～。  
 1. 【[瘕尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_xy.md#瘕尿)】`ha2 xy1` ① 撒尿。<sup>\[如东\]</sup> ② 比喻说不出好话来。<sup>\[如东\]</sup>：他在下～。<sup>\[如东\]</sup> ③ 傻瓜。<sup>\[如东\]</sup> ④ 呆，笨，反应迟钝。东台词典写“蛤虚”。因为癞蛤蟆在人们印象中形象呆笨、丑陋。<sup>\[东台\]</sup>  
+1. 【[蛤蟆乌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_v_zz.md#蛤蟆乌子)】`ha2 ma v1 zz` <small>/xɑ2 mɑ ʋ1 t͡sɿ/<sup>泰兴</sup></small> 成群游动的蝌蚪。<sup>\[泰兴\]</sup>  
 1. 【[蝦蟆痈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_ion.md#蝦蟆痈)】`ha2 ma ion5` <sup>[如东]</sup> 腮腺炎。  
 1. 【[蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma.md#蝦蟆)】`ha2 ma2` <small>/xa2 ma2/<sup>兴化</sup>, /xa2 ma2/<sup>如皋</sup></small> ① 蟾蜍。<sup>\[如皋\]</sup> ② 蟾蜍，俗称癞宝。<sup>\[东台\]</sup> ③ 蟾蜍的俗称。<sup>\[兴化\]</sup>  
 1. 【[蝦蟆草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/ha_ma_co.md#蝦蟆草)】`ha2 ma2 co3` <sup>[如东]</sup> 蔷薇科植物委陵菜。  
@@ -529,11 +530,12 @@
 1. 【[黑<sub>儿</sub>牙膏，不挤不冒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_r_nga_go.md#黑<sub>儿</sub>牙膏，不挤不冒)】`heh7 r nga2 go1 beh7 ji3 beh7 mo6` <sup>[如皋]</sup> 喻有隐瞒，不问不说，问点说点，吞吞吐吐，不肯将真像全盘托出。  
 1. 【[黑人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ren.md#黑人)】`heh7 ren2` <sup>[如东]</sup> ① 肌肤黑色的人种。 ② 没有在政府户籍机关注册的人。  
 1. 【[黑肉秋秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_roh_qieu_qieu.md#黑肉秋秋)】`heh7 roh qieu1 qieu1` <sup>[东台]</sup> 指某人皮肤黑，很壮实的样子：他～的，肯吃苦。  
-1. 【[黑市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_shr.md#黑市)】`heh7 shr6` <sup>[如东]</sup> 暗中进行非法买卖的市场。  
+1. 【[黑市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_shr.md#黑市)】`heh7 shr6` <small>/xəʔ7 sɿ1/<sup>泰兴</sup></small> ① 暗中进行非法买卖的市场。<sup>\[如东\]</sup> ② 暗中进行的不合法买卖的市场。<sup>\[泰兴\]</sup>  
 1. 【[黑松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_son.md#黑松)】`heh7 son1` <sup>[如东]</sup> 乔木。树冠扁平，伞状。  
 1. 【[黑䵬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_taeh_zz.md#黑䵬子)】`heh7 taeh7 zz` <small>/xəʔ7 tʰæʔ7 t͡sɿ/<sup>兴化</sup>, /xəʔ7 tʰæʔ7 t͡se/<sup>泰县</sup></small> ① 很黑的东西<sup>\[泰县\]</sup>：这家伙是个～。<sup>\[泰县\]</sup> ② 形容皮肤很黑。䵬，《集韵·合韵》讬合切：黑也。<sup>\[兴化\]</sup>：这几个小～成天泡啊河里游水<sup>\[兴化\]</sup>  
 1. 【[黑炭头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_taen_teu.md#黑炭头)】`heh7 taen5 teu` <sup>[如东]</sup> 比喻人的皮肤又黑又亮：这个伢儿是个～。  
 1. 【[黑地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ti_lii.md#黑地里)】`heh7 ti6 lii` <small>/xəʔ7 tʰəi6 ləi/<sup>兴化</sup></small> ① 私下<sup>\[兴化\]</sup>：这话是他～说的，你覅再传吖。<sup>\[兴化\]</sup> ② 暗中<sup>\[兴化\]</sup>：为了看巧儿，马主任悄悄地去了趟冯庄……～进行了调查摸底。（钱国怀《水流千转》）<sup>\[兴化\]</sup> ③ 黑暗的地方。<sup>\[泰州\]</sup> ④ 行动私下背着他人进行<sup>\[泰州\]</sup>：上次他家乡里亲戚来，他家女将不晓得他～给啊钱。<sup>\[泰州\]</sup>  
+1. 【[黑桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_to.md#黑桃)】`heh7 to2` <small>/xəʔ7 tʰɔ2/<sup>泰兴</sup></small> 扑克牌中的一种图案似桃的牌。<sup>\[泰兴\]</sup>  
 1. 【[黑黩黩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_toh_toh.md#黑黩黩)】`heh7 toh7 toh7` <sup>[泰州]</sup> 极黑的样子：这一刻儿家里～的，你怎吖不点个灯的？  
 1. 【[黑洞洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_ton_ton.md#黑洞洞)】`heh7 ton6 ton6` <sup>[泰州]</sup> ① 物体极黑的样子：他在天井里烧野锅，把个锅底烧得～的。 ② 光线黑暗：阁楼上～的。  
 1. 【[黑团子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_tun_zz.md#黑团子)】`heh7 tun2 zz` <sup>[兴化]</sup> 夜晚见到的黑色阴影：晚上走到小巷里，只见一个～迎面滚来。  
@@ -541,7 +543,7 @@
 1. 【[黑胡蜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_v_fon.md#黑胡蜂)】`heh7 v fon1` <sup>[如皋]</sup> ① 蜾蠃。 ② 指一种冬产大棵青菜，叶大，墨绿多折，汤白如奶。  
 1. 【[黑尾鸥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_vei_ngeu.md#黑尾鸥)】`heh7 vei3 ngeu1` <sup>[如东]</sup> 鸟。通称海鸥。  
 1. 【[黑心钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_xien_qin.md#黑心钱)】`heh7 xien qin2` <sup>[如皋]</sup> 同“黑钱”。  
-1. 【[黑心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_xien.md#黑心)】`heh7 xien1` ① 比喻良心阴险毒辣。<sup>\[如东\]</sup> ② 贪婪而狠毒的心<sup>\[东台\]</sup>：这家伙起啊～，打算谋财害命。<sup>\[东台\]</sup>  
+1. 【[黑心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_xien.md#黑心)】`heh7 xien1` <small>/xəʔ7 ɕiŋ/<sup>泰兴</sup></small> ① 比喻良心阴险毒辣。<sup>\[如东\]</sup> ② 贪婪而狠毒的心<sup>\[东台\]</sup>：这家伙起啊～，打算谋财害命。<sup>\[东台\]</sup> ③ 心狠<sup>\[泰兴\]</sup>：他～，杀鸡子的事总教他去<sup>\[泰兴\]</sup>  
 1. 【[黑星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_xien.md#黑星)】`heh7 xien1` <small>/xəʔ7 ɕiŋ1/<sup>泰县</sup></small> ① 没有月亮。<sup>\[泰县\]</sup> ② 相对“亮星”，没有月色星光的夜晚<sup>\[泰州\]</sup>：今朝晚上是～，你走夜路留住点儿神。<sup>\[泰州\]</sup>  
 1. 【[黑星里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_xien_lii.md#黑星里)】`heh7 xien1 lii` <sup>[东台]</sup> 没有月光和灯光的黑夜。  
 1. 【[黑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heh_y.md#黑鱼)】`heh7 y2` <small>/xəʔ7 y2/<sup>兴化</sup></small> ① 鳢科动物乌鳢，体细长，前部圆筒状，后部侧扁。<sup>\[如东\]</sup> ② 乌鳢的俗名<sup>\[兴化\]</sup>：～汆汤。<sup>\[兴化\]</sup>  

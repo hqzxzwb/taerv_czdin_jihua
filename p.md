@@ -282,11 +282,11 @@
 1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei1` <sup>[泰州]</sup> 表示鄙视、斥责或者唾弃。  
 1. 【[坯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_zz.md#坯子)】`pei1 zz` <small>/pʰəɪ1 t͡sɿ/<sup>泰兴</sup></small> 指未烧制加工的砖瓦、陶瓷器以及其它待加工的半成品。<sup>\[泰兴\]</sup>  
 1. 【[培土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_tv.md#培土)】`pei2 tv3` <sup>[如东]</sup> 给植物壅土。  
+1. 【[赔笑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_xio_lin.md#赔笑脸)】`pei2 xio5 lin3` <small>/pʰəɪ2 ɕiɔ5 lĩ3/<sup>泰兴</sup></small> 陪笑，打招呼，使人息怒或愉快。<sup>\[泰兴\]</sup>  
 1. 【[陪绑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_ban.md#陪绑)】`pei2 ban3` <small>/pʰəi2 paŋ3/<sup>兴化</sup></small> ① 社会处决犯人时，为了逼出口供或迫使投阵，把不够死刑的犯人、暂缓执行死刑的犯人和即将处决的犯人一起绑赴刑场称陪绑。<sup>\[如东\]</sup> ② 做某件事的陪衬。<sup>\[如东\]</sup>：这次王桂兰参加选举，是做～的。<sup>\[如东\]</sup> ③ 旧指和被处决人犯一起绑赴刑场，以示警戒或恫吓。<sup>\[兴化\]</sup> ④ （喻）被强拉去做本不愿做的事<sup>\[兴化\]</sup>：这次捱训我是～的。<sup>\[兴化\]</sup>  
 1. 【[陪值](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_cheh.md#陪值)】`pei2 cheh8` <sup>[兴化]</sup> 陪伴：没事～你谈谈。  
 1. 【[陪铳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_chon.md#陪铳)】`pei2 chon5` <sup>[兴化]</sup> 枪毙人时被推去陪绑。  
 1. 【[陪伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_pun.md#陪伴)】`pei2 pun6` <sup>[如东]</sup> 随同做伴。  
-1. 【[陪笑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_xio_lin.md#陪笑脸)】`pei2 xio5 lin3` <small>/pʰəɪ2 ɕiɔ5 lĩ3/<sup>泰兴</sup></small> 陪笑，打招呼，使人息怒或愉快。<sup>\[泰兴\]</sup>  
 1. 【[佩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#佩)】`pei5` <sup>[东台]</sup> ① 衣带上挂的装饰品：玉～｜珠～。 ② 敬仰，心悦诚服：～服｜敬～。  
 1. 【[佩兰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei_laen.md#佩兰)】`pei5 laen2` <sup>[如东]</sup> 菊科植物佩兰，多年生草本。  
 1. 【[呸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pei.md#呸)】`pei5` <small>/pʰəɪ5/<sup>泰兴</sup></small> ① 叹词，表示唾弃或斥责<sup>\[东台\]</sup>：～！你这个忘恩负义的东西！<sup>\[东台\]</sup> ② 表示斥责或鄙薄。语气词。<sup>\[泰兴\]</sup>  
@@ -785,7 +785,7 @@
 1. 【[袍服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_foh.md#袍服)】`po2 foh` <sup>[东台]</sup> 传统戏曲演出的服饰。  
 1. 【[袍服](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_foh.md#袍服)】`po2 foh8` <sup>[兴化]</sup> ① 封建时代的官服：元帅也换了～，同牛皋一齐来到总兵衙门。（《说岳全传》三二） ② 今指传统戏装或神像的穿者。  
 1. 【[袍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zz.md#袍子)】`po2 zz` <sup>[如东]</sup> 长衫。有棉袍夹袍、旗袍、皮袍等多种。  
-1. 【[跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#跑)】`po2` <small>/pʰɔ2/<sup>兴化</sup>, /pʰɔ2/<sup>如皋</sup>, /pʰɔ2/<sup>泰兴</sup>, /pʰɔ2/<sup>泰县</sup></small> ① 跑步；离开 ② 行走、步行<sup>\[通用\]</sup><sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：～路<sup>\[通用\]</sup>｜他走家里～到公园去锻炼20分钟。<sup>\[泰州\]</sup> ③ 物体离开应在的位置<sup>\[东台\]</sup>：我的眼镜～到哪许去啊？<sup>\[东台\]</sup>｜瓶塞子不曾塞好，汽油都～光吖。<sup>\[东台\]</sup> ④ 隐讳指幼儿夭亡<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：她家里的小姑娘怎吖一下子～掉啊。<sup>\[东台\]</sup>｜到七日上，把个白白胖胖的孩子～掉了。（《儒林外史》六）<sup>\[兴化\]</sup>｜他前头有过一个小伙，养到5岁～掉啊。<sup>\[泰州\]</sup>  
+1. 【[跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#跑)】`po2` <small>/pʰɔ2/<sup>兴化</sup>, /pʰɔ2/<sup>如皋</sup>, /pʰɔ2/<sup>泰兴</sup>, /pʰɔ2/<sup>泰县</sup></small> ① 跑步；离开 ② 行走、步行<sup>\[通用\]</sup><sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>\[泰兴：乡人谓跑为正常走路；溜为奔跑、急走；踱为慢走。\]：～路<sup>\[通用\]</sup>｜他走家里～到公园去锻炼20分钟。<sup>\[泰州\]</sup> ③ 物体离开应在的位置<sup>\[东台\]</sup>：我的眼镜～到哪许去啊？<sup>\[东台\]</sup>｜瓶塞子不曾塞好，汽油都～光吖。<sup>\[东台\]</sup> ④ 隐讳指幼儿夭亡<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：她家里的小姑娘怎吖一下子～掉啊。<sup>\[东台\]</sup>｜到七日上，把个白白胖胖的孩子～掉了。（《儒林外史》六）<sup>\[兴化\]</sup>｜他前头有过一个小伙，养到5岁～掉啊。<sup>\[泰州\]</sup>  
 1. 【[跑不攀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_paen.md#跑不攀)】`po2 beh7 paen1` <small>/pʰɔ2 pəʔ7 pʰẽ1/<sup>如皋</sup>, /pʰɔ2 pəʔ7 pʰɛ̃1/<sup>泰县</sup></small> ① 来不及跑，跑个没完。<sup>\[如皋\]</sup> ② 不打停，急忙走<sup>\[泰县\]</sup>：六月苋吃咖～。<sup>\[泰县\]</sup>  
 1. 【[跑不动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_beh_ton.md#跑不动)】`po2 beh7 ton6` <sup>[东台]</sup> （口语）累得实在不能走。  
 1. 【[跑报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_bo.md#跑报)】`po2 bo5` <small>/pʰɔ2 pɔ5/<sup>如皋</sup></small> ① 旧时衙役报送公文，时限急，要快跑因喻急跑，有贬义。<sup>\[如皋\]</sup> ② （詈语）见“报丧”。<sup>\[东台\]</sup>  
@@ -802,6 +802,7 @@
 1. 【[跑风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_fon.md#跑风)】`po2 fon1` <sup>[兴化]</sup> 形容物价飞涨：1948年，物价～，早上买一斗米的钱，下午只能买两个烧饼。  
 1. 【[跑街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_gae.md#跑街)】`po2 gae1` <small>/pʰɔ2 kɛ1/<sup>兴化</sup>, /pʰɔ2 kɛ1/<sup>如皋</sup></small> ① 旧时店家的外勤。<sup>\[如皋\]</sup> ② 跑外<sup>\[兴化\]</sup>：他在人家店里～。<sup>\[兴化\]</sup>  
 1. 【[跑海](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_hae.md#跑海)】`po2 hae3` <sup>[如东]</sup> 徒步到海滩上去捕捉鱼虾蛼螯泥螺等海货，称跑海。  
+1. 【[跑夜路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ia_lv.md#跑夜路)】`po2 ia6 lv6` <small>/pʰɔ2 iɑ1 lu1/<sup>泰兴</sup></small> 夜间走路。<sup>\[泰兴\]</sup>  
 1. 【[跑阳缘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ian_iun.md#跑阳缘)】`po2 ian2 iun2` <sup>[如皋]</sup> 僧人诵经超度，从经堂到灵堂反复跑动。比喻跑个不停为～。  
 1. 【[跑油肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ieu_roh.md#跑油肉)】`po2 ieu2 roh8` <sup>[如皋]</sup> 将已煮成八成熟的整块连皮猪肉置素油中炸至皮皱，捞起，切成梳子大，扣碗（皮向下）加作料，笼蒸至烂，反扣入盘（皮向上），可衬豌豆头儿等绿菜。  
 1. 【[跑筋暴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_jien_bo.md#跑筋暴)】`po2 jien1 bo5` <sup>[东台]</sup> （詈语）跑得太急又太远。  
@@ -811,8 +812,8 @@
 1. 【[跑哪块](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_la_kuae.md#跑哪块)】`po2 la3 kuae5` <sup>[泰州]</sup> 怎么会，加强语气以表示否定：你出的题目这吖难，他～会做。｜一个才毕业的大学生，在南京人生地不熟的，～弄到个业务。  
 1. 【[跑龙套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lon_to.md#跑龙套)】`po2 lon2 to5` ① 在戏曲中扮演随从或兵卒，引申为无足轻重的小角色。<sup>\[东台\]</sup> ② 戏曲中担任跟班、随从、兵卒等角色。<sup>\[泰州\]</sup> ③ 在人手下做无关紧要的事<sup>\[泰州\]</sup>：他甚的都不会，主任只好安排他做些～的事。<sup>\[泰州\]</sup>  
 1. 【[跑路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_lv.md#跑路)】`po2 lv6` <sup>[如东]</sup> ① 走路：我俫一起～ ② 比喻离开：赶快～吧。  
-1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu` <small>/pʰɔ2 ma3 tʰɤ/<sup>兴化</sup></small> ① 指在一些城镇间流动经营谋生<sup>\[兴化\]</sup>：他是～的，见多识广。<sup>\[兴化\]</sup> ② 在水陆交通路线上的城市或者集镇往来做生意<sup>\[泰州\]</sup>：老周是～的出身，甚的事不曾见过。<sup>\[泰州\]</sup>  
-1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu2` <sup>[东台]</sup> ① 旧时卖艺、算命、相命等职业的人往来各地谋生。 ② 旧时指在沿海或沿江河城市做买卖。 ③ 经常往来于各地：他是个测绘员，一年到头～。  
+1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu` <small>/pʰɔ2 ma3 tʰɤ/<sup>兴化</sup>, /pʰɔ2 mɑ3 tʰəɪ/<sup>泰兴</sup></small> ① 指在一些城镇间流动经营谋生<sup>\[兴化\]</sup>：他是～的，见多识广。<sup>\[兴化\]</sup> ② 在水陆交通路线上的城市或者集镇往来做生意<sup>\[泰州\]</sup>：老周是～的出身，甚的事不曾见过。<sup>\[泰州\]</sup> ③ 旧谓在城镇、沿江沿海做生意为“跑码头”。<sup>\[泰兴\]</sup>  
+1. 【[跑码头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma_teu.md#跑码头)】`po2 ma3 teu2` ① 旧时卖艺、算命、相命等职业的人往来各地谋生。<sup>\[东台\]</sup> ② 旧时指在沿海或沿江河城市做买卖。<sup>\[东台\]</sup> ③ 经常往来于各地<sup>\[东台\]</sup>：他是个测绘员，一年到头～。<sup>\[东台\]</sup>  
 1. 【[跑马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ma.md#跑马)】`po2 ma3` <small>/pʰɔ2 ma3/<sup>兴化</sup></small> 暗指遗精。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>  
 1. 【[跑忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_man.md#跑忙)】`po2 man2` <small>/pʰɔ2 maŋ2/<sup>兴化</sup></small> ① 见“跑厨”。<sup>\[兴化\]</sup> ② 帮忙。见“撮忙”。<sup>\[兴化\]</sup>  
 1. 【[跑年账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_nin_zhan.md#跑年账)】`po2 nin2 zhan5` <sup>[兴化]</sup> 旧指穷人在春节期间沿门乞讨：当然，叫化子不算，他们盼第二天（春节）起，沿街逐户～（讨饭），恭喜大发财。（马春阳《借古喻今》）  
@@ -822,16 +823,18 @@
 1. 【[跑水脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_shuei_jiah.md#跑水脚)】`po2 shuei3 jiah7` <sup>[如皋]</sup> 长途采购、贩运。  
 1. 【[跑台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tae.md#跑台)】`po2 tae2` <sup>[如东]</sup> 来回走动：我是～的。  
 1. 【[跑滩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_taen.md#跑滩)】`po2 taen1` <sup>[东台]</sup> 河堰（圩子）与河之间的滩地，挖河时是挖土人的跑道，故叫跑滩。也称青坎。  
-1. 【[跑堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tan.md#跑堂)】`po2 tan2` ① 旧时餐馆里端盘传菜的业务工作。比喻从事一般性工作。<sup>\[如东\]</sup>：我俫是～的。<sup>\[如东\]</sup> ② 茶馆、餐厅、浴室等服务行业的服务员。<sup>\[东台\]</sup>  
+1. 【[跑堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tan.md#跑堂)】`po2 tan2` <small>/pʰɔ2 tʰɑŋ2/<sup>泰兴</sup></small> ① 旧时餐馆里端盘传菜的业务工作。比喻从事一般性工作。<sup>\[如东\]</sup>：我俫是～的。<sup>\[如东\]</sup> ② 茶馆、餐厅、浴室等服务行业的服务员。<sup>\[东台\]</sup> ③ 旧称酒店饭店的服务员。<sup>\[泰兴\]</sup>  
 1. 【[跑堂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tan_dii.md#跑堂的)】`po2 tan2 dii` ① 旧时餐馆里从事端盘传菜业务工作的员工。比喻帮忙的人。<sup>\[如东\]</sup> ② 在酒馆、饭馆、浴室从事服务工作的人。<sup>\[泰州\]</sup>  
 1. 【[跑掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tio.md#跑掉)】`po2 tio` <sup>[如东]</sup> ① 跑掉了：王平上午就～啊 ② 小孩夭折：伢儿生下来才三天就～啊。  
 1. 【[跑掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tio_a.md#跑掉啊)】`po2 tio a` <sup>[如皋]</sup> ① 已离开了。 ② 讳指小孩死了。  
 1. 【[跑腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tuei.md#跑腿)】`po2 tuei3` <sup>[如东]</sup> 为人帮忙做杂事。  
 1. 【[跑腿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tuei_dii.md#跑腿的)】`po2 tuei3 dii` <sup>[如东]</sup> 帮人做事的人。  
+1. 【[跑腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_tuei_zz.md#跑腿子)】`po2 tuei3 zz3` <small>/pʰɔ2 tʰəɪ3 t͡sɿ3/<sup>泰兴</sup></small> 为人做杂事<sup>\[泰兴\]</sup>  
 1. 【[跑腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_ty.md#跑腿)】`po2 ty3` ① ［引］为人奔走，做杂事的人<sup>\[东台\]</sup>：我又不是你的～，为甚的要帮你上传下达？<sup>\[东台\]</sup> ② 为他人奔走做杂事。<sup>\[泰州\]</sup>  
+1. 【[跑信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xien.md#跑信)】`po2 xien5` <small>/pʰɔ2 ɕiŋ5/<sup>泰兴</sup></small> 递送报纸信件。乡人言“送信”意为报告噩耗，称邮递员为“跑信的”。<sup>\[泰兴\]</sup>  
 1. 【[跑小海的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_hae_dii.md#跑小海的)】`po2 xio3 hae3 dii` <sup>[如东]</sup> 徒步下海从事捕捞作业的人。  
 1. 【[跑小货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_hu.md#跑小货)】`po2 xio3 hu5` <sup>[兴化]</sup> 旧指来往各地作小批量货物的贩运。  
-1. 【[跑小路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_lv.md#跑小路)】`po2 xio3 lv6` <sup>[东台]</sup> 暗指偷偷地玩女人的行为（俗称“嫖婆娘”）。  
+1. 【[跑小路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_lv.md#跑小路)】`po2 xio3 lv6` <small>/pʰɔ2 ɕiɔ3 lu1/<sup>泰兴</sup></small> ① 暗指偷偷地玩女人的行为（俗称“嫖婆娘”）。<sup>\[东台\]</sup> ② 谓私会情人；嫖女人。<sup>\[泰兴\]</sup>  
 1. 【[跑小路<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_lv_r.md#跑小路<sub>儿</sub>)】`po2 xio3 lv6 r` <small>/pʰɔ2 ɕiɔ3 nu1 ɚ/<sup>泰县</sup></small> （男人）不正派<sup>\[泰县\]</sup>：这个人～。<sup>\[泰县\]</sup>  
 1. 【[奅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po.md#奅)】`po3` <small>/pʰɔ3/<sup>如皋</sup></small> 缺少经验、言行不谨慎<sup>\[如皋\]</sup>：他做事太～，容易吃亏。<sup>\[如皋\]</sup>  
 1. 【[奅<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_r.md#奅<sub>儿</sub>)】`po3 r` <small>/pʰɔ˞3/<sup>如皋</sup></small> 稚嫩、不练达、少不更事<sup>\[如皋\]</sup>：少年～。<sup>\[如皋\]</sup>  
@@ -1353,7 +1356,7 @@
 1. 【[铺摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_taen_r.md#铺摊<sub>儿</sub>)】`pv1 taen1 r` <sup>[兴化]</sup> （喻）设置或增加机构：他每到一处，不曾开展工作，先忙吖～。  
 1. 【[铺天盖地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tin_gae_ti.md#铺天盖地)】`pv1 tin1 gae5 ti6` <sup>[如东]</sup> 到处都是：大雪～的落下来。  
 1. 【[铺天冚地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tin_kun_ti.md#铺天冚地)】`pv1 tin1 kun3 ti6` <sup>[如东]</sup> 到处都有：稻谷真多，～的。  
-1. 【[铺天撒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tin_saeh_ti.md#铺天撒地)】`pv1 tin1 saeh7 ti6` <sup>[如东]</sup> 到处都有：地下的黄豆～的。  
+1. 【[铺天撒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tin_saeh_ti.md#铺天撒地)】`pv1 tin1 saeh7 ti6` <small>/pʰu1 tʰĩ1 ɕiæʔ7 t͡ɕʰʝ1/<sup>泰兴</sup></small> ① 到处都有。<sup>\[如东\]</sup>：地下的黄豆～的。<sup>\[如东\]</sup> ② 上下左右，到处都是。<sup>\[泰兴\]</sup>：场上～的总是粮食。<sup>\[泰兴\]</sup>  
 1. 【[菩荠糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ji_go.md#菩荠糕)】`pv2 ji go1` <sup>[东台]</sup> 东台城传统小吃。取鲜荸荠淀粉和面粉、日糖、桂花发酵后上笼屉蒸熟即可。  
 1. 【[菩荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ji.md#菩荠)】`pv2 ji1` <sup>[东台]</sup> 草本水生作物，地下茎扁圆形，皮赤褐色或黑褐色，肉质洁白，味甜多汁，清脆可口，也可制淀粉。有的地方叫地栗、水栗、马蹄。  
 1. 【[菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh.md#菩萨)】`pv2 saeh` <sup>[兴化]</sup> ① 本为佛教中仅次于佛的人，但民间泛将佛、～和一切神衹都称为～：观音～；关帝～；土地～；老郎～（梨园始祖）。 ② （喻）指心地慈善的人：“……那是他们瞅着大奶奶是个～，姑娘又是腼腆小姐，固然是托懒来混。”（《红楼梦》五五）  

@@ -1839,6 +1839,8 @@
 1. 【[跌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih.md#跌)】`dih7` <small>/tiɪʔ7/<sup>兴化</sup></small> ① 把粉状物放在篾匾里，加水后不停颠动，迭加成颗粒或球形<sup>\[兴化\]</sup>：～圆子<sup>\[兴化\]</sup>｜（药店职工）二等的叫“刀上”，管切药和～丸药。（汪曾祺《异秉》）<sup>\[兴化\]</sup> ② 价格下降<sup>\[泰州\]</sup>：这两天青菜～咖价，只卖五角钱一斤。<sup>\[泰州\]</sup>  
 1. 【[跌博](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_bah.md#跌博)】`dih7 bah7` <sup>[兴化]</sup> 一种博彩形式，将数枚铜（铁）钱摔到地上，看哪一面朝上以决输赢：不多时走过许多～的人来……一霎时叮叮当当，都轮流着跌起来。（《广陵潮》八）  
 1. 【[跌膘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_bio.md#跌膘)】`dih7 bio1` <sup>[如皋]</sup> 瘦了：他一病，跌咖个大膘；猪子换圈就～。  
+1. 【[跌蹱蹱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_chon_chon.md#跌蹱蹱)】`dih7 chon5 chon5` <small>/tiʔ7 t͡sʰɔŋ5 t͡sʰɔŋ5/<sup>泰兴</sup></small> 走路极不稳的样子。<sup>\[泰兴\]</sup>  
+1. 【[跌打损伤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_da_suen_shan.md#跌打损伤)】`dih7 da3 suen3 shan1` <small>/tiʔ7 tɑ3 suəŋ3 sɑŋ1/<sup>泰兴</sup></small> 泛指因各种原因造成的伤痛。<sup>\[泰兴\]</sup>  
 1. 【[跌跌八八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_baeh_baeh.md#跌跌八八)】`dih7 dih7 baeh7 baeh7` <sup>[如皋]</sup> 见“跌跌𢴬𢴬”。  
 1. 【[跌跌八跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_baeh_qian.md#跌跌八跄)】`dih7 dih7 baeh7 qian1` <sup>[泰州]</sup> 大步走路时歪歪扭扭的样子：这细小伙～的也能走十几米唻。｜你望你这一刻儿跑得～的，教你少喝点儿你不听。  
 1. 【[跌跌八跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_baeh_qian.md#跌跌八跄)】`dih7 dih7 baeh7 qian5` <sup>[泰县]</sup> 踉踉跄跄：这个人走路～的。  
@@ -1848,9 +1850,9 @@
 1. 【[跌跌爬爬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_pa_pa.md#跌跌爬爬)】`dih7 dih7 pa2 pa2` <sup>[兴化]</sup> 因受惊而仓皇奔跑的情态：迎会队伍最后走来凶神恶煞的马弁，把看会的妇女儿童吓唬得～的。｜这兄弟三人，见那些人～，鼓着掌哈哈大笑。（《西游记》四七）  
 1. 【[跌跌跄跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_qian_qian.md#跌跌跄跄)】`dih7 dih7 qian1 qian1` <sup>[泰州]</sup> 受到惊吓以后腿部发软致使行走不稳的样子：看见警察来了，几个小痞子吓得～的直溜。  
 1. 【[跌跌跄跄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_dih_qian_qian.md#跌跌跄跄)】`dih7 dih7 qian5 qian5` <sup>[兴化]</sup> 形容被推搡而站立或行不稳的样子：那些站闲的人捱他挤得～的。｜全班弟兄～，前推后撞地站住了。（艾煊《乡关何处》）  
-1. 【[跌倒抓把泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_do_zhua_ba.md#跌倒抓把泥)】`dih7 do3 zhua1 ba3 ni2` <sup>[东台]</sup> 极其勤俭，不放过任何机会。  
+1. 【[跌倒抓把泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_do_zhua_ba.md#跌倒抓把泥)】`dih7 do3 zhua1 ba3 ni2` <small>/tiʔ7 tɔ3 t͡suɑ1 pɑ3 nʝ2/<sup>泰兴</sup></small> ① 极其勤俭，不放过任何机会。<sup>\[东台\]</sup> ② 喻十分顾持家业，不管干什么事总要为自己家庭带来点好处。<sup>\[泰兴\]</sup>  
 1. 【[跌咖个大元宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_ga_gu_da.md#跌咖个大元宝)】`dih7 ga gu da6 iun2 bo3` <sup>[如皋]</sup> 谑指小孩跌跤。  
-1. 【[跌跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_gen_teu.md#跌跟头)】`dih7 gen1 teu` <small>/tiɪʔ7 kən1 tʰɤ/<sup>兴化</sup>, /tiʔ7 kəŋ1 tʰei/<sup>如皋</sup></small> ① 摔倒。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② （喻）犯错误或受挫折<sup>\[兴化\]</sup>：他原是市里领导干部，在财色上～捱处理的。<sup>\[兴化\]</sup> ③ 走路时（被物绊脚等）突然倒下。<sup>\[泰州\]</sup> ④ 比喻因犯错误而受挫折<sup>\[泰州\]</sup>：他这回子～跌咖大啊唻，职务降吖三级。<sup>\[泰州\]</sup>  
+1. 【[跌跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_gen_teu.md#跌跟头)】`dih7 gen1 teu` <small>/tiɪʔ7 kən1 tʰɤ/<sup>兴化</sup>, /tiʔ7 kəŋ1 tʰei/<sup>如皋</sup>, /tiʔ7 kəŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 摔倒。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 跌倒。<sup>\[泰兴\]</sup> ③ （喻）犯错误或受挫折<sup>\[兴化\]</sup>：他原是市里领导干部，在财色上～捱处理的。<sup>\[兴化\]</sup> ④ 走路时（被物绊脚等）突然倒下。<sup>\[泰州\]</sup> ⑤ 比喻因犯错误而受挫折<sup>\[泰州\]</sup>：他这回子～跌咖大啊唻，职务降吖三级。<sup>\[泰州\]</sup>  
 1. 【[跌元宝跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_iun_bo_gen.md#跌元宝跟头)】`dih7 iun2 bo3 gen1 teu2` <sup>[如皋]</sup> ① 跌倒时背着地，头、足翘起的样子。 ② 春节间跌跤的避讳称。  
 1. 【[跌圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_iun_zz.md#跌圆子)】`dih7 iun2 zz` <sup>[如东]</sup> 一种加工食品的方法。把馅儿做好，放在盘篮中跌滚一层糯米屑，取出洒水，再跌滚，如此再三，形成圆子。  
 1. 【[跌价](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dih_jia.md#跌价)】`dih7 jia5` ① 物价下降。<sup>\[如东\]</sup>：今朝的虾儿又跌咖价。<sup>\[如东\]</sup> ② 降价；削价<sup>\[东台\]</sup>：老百姓希望房地产～。<sup>\[东台\]</sup>  
@@ -2621,7 +2623,7 @@
 1. 【[赌稽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_ji.md#赌稽)】`dv3 ji1` <sup>[如皋]</sup> ① 见“稽品”。 ② 输了又要赖账，说过了又要否认。 ③ 不承认，赖账。  
 1. 【[赌酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_jieu.md#赌酒)】`dv3 jieu3` <sup>[如东]</sup> 以酒作赌注。  
 1. 【[赌赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_lae.md#赌赖)】`dv3 lae6` <sup>[如皋]</sup> ① 见“赌稽”。 ② 不承认，赖账。  
-1. 【[赌品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_pien.md#赌品)】`dv3 pien3` <small>/tu3 pʰiɪ̃3/<sup>兴化</sup>, /tu3 pʰiəŋ3/<sup>如皋</sup></small> ① 赌博的品德休养。<sup>\[如皋\]</sup> ② 参赌者的品性，指是否作弊、经得起输赢，尤指输了钱是否发急、耍赖<sup>\[兴化\]</sup>：张三～不丑，输得再多不起急。<sup>\[兴化\]</sup> ③ 赌博者的品行，特指不设机关、不偷牌、不欠债等所谓的品行<sup>\[泰州\]</sup>：这个家伙～不好，你喊他来，我就不打唻。<sup>\[泰州\]</sup>  
+1. 【[赌品](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_pien.md#赌品)】`dv3 pien3` <small>/tu3 pʰiɪ̃3/<sup>兴化</sup>, /tu3 pʰiəŋ3/<sup>如皋</sup>, /tu3 pʰiŋ3/<sup>泰兴</sup></small> ① 赌博的品德休养。<sup>\[如皋\]</sup> ② 打牌、赌博的品性。<sup>\[泰兴\]</sup> ③ 参赌者的品性，指是否作弊、经得起输赢，尤指输了钱是否发急、耍赖<sup>\[兴化\]</sup>：张三～不丑，输得再多不起急。<sup>\[兴化\]</sup> ④ 赌博者的品行，特指不设机关、不偷牌、不欠债等所谓的品行<sup>\[泰州\]</sup>：这个家伙～不好，你喊他来，我就不打唻。<sup>\[泰州\]</sup>  
 1. 【[赌邪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qia.md#赌邪)】`dv3 qia2` <sup>[泰县]</sup> 霸道：这个人～。  
 1. 【[赌吃嫖遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qieh_pio_io.md#赌吃嫖遥)】`dv3 qieh7 pio2 io2` <small>/tu3 t͡ɕʰiəʔ7 pʰiɔ2 iɔ2/<sup>如皋</sup>, /tu3 t͡ɕʰiəʔ7 pʰiɔ2 iɔ2/<sup>泰兴</sup></small> ① 赌博、大吃大喝、乱搞性关系，任性玩乐。<sup>\[如皋\]</sup> ② 吃喝嫖赌，逍遥法外<sup>\[东台\]</sup>：他终于改掉啊～的恶习。<sup>\[东台\]</sup> ③ 泛指各种丑陋行径<sup>\[泰州\]</sup>：这小伙不胎谐，～全花色。<sup>\[泰州\]</sup> ④ 泛指沾各种恶习于一身<sup>\[泰兴\]</sup>  
 1. 【[赌钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qin.md#赌钱)】`dv3 qin2` <sup>[如东]</sup> 用钱钞进行赌博活动。  
@@ -2630,6 +2632,7 @@
 1. 【[赌局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_qioh.md#赌局)】`dv3 qioh8` <sup>[泰州]</sup> 赌赌运气：买彩票有甚的技巧啊，说咖白咖就是～。  
 1. 【[赌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_teu.md#赌头)】`dv3 teu` <sup>[如皋]</sup> 赌的兴致和收益，常冠以有～、无～。  
 1. 【[赌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_teu.md#赌头)】`dv3 teu2` <sup>[如皋]</sup> ① 为证明某种重大预见的可能性或请求采取重大行动，用自己的人头（生命）作押。 ② 赌博的组织者，以抽头、放债为目的。  
+1. 【[赌运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_yen.md#赌运)】`dv3 yen6` <small>/tu3 yəŋ1/<sup>泰兴</sup></small> 赌博的运气。<sup>\[泰兴\]</sup>  
 1. 【[赌虘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zha.md#赌虘)】`dv3 zha1` <sup>[如皋]</sup> 耍无赖，蛮不讲理。  
 1. 【[赌咒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu.md#赌咒)】`dv3 zheu5` 发誓。<sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[赌咒发誓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zheu_faeh_shr.md#赌咒发誓)】`dv3 zheu5 faeh7 shr` <sup>[东台]</sup> 用赌咒证明自己的清白：他常说谎，谁也不信他的～。  

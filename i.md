@@ -79,7 +79,7 @@
 1. 【[疑心生暗鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_shen_un.md#疑心生暗鬼)】`i2 xien1 shen1 un5 guei3` <sup>[东台]</sup> 因过度怀疑而产生错觉。  
 1. 【[移苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mio.md#移苗)】`i2 mio2` <sup>[如东]</sup> 将棉花或其他作物的幼苗由一地移栽到另一地去，叫做移苗。  
 1. 【[胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#胰子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup>, /ʝ2 t͡sɿ/<sup>如皋</sup></small> ① 胰脏<sup>\[如皋\]</sup><sup>\[兴化\]</sup> ② 蟹腮。<sup>\[如皋\]</sup> ③ 肥皂<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：香～。<sup>\[兴化\]</sup> ④ 蟹壳以下两片对称的类似白色脂肪的物质<sup>\[兴化\]</sup>：蟹～。<sup>\[兴化\]</sup>  
-1. 【[遗腹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_zz.md#遗腹子)】`i2 foh7 zz` <sup>[如东]</sup> 父亲死后生下来的孩子。  
+1. 【[遗腹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_zz.md#遗腹子)】`i2 foh7 zz` <small>/ʝ2 fɔʔ7 t͡sɿ/<sup>泰兴</sup></small> 父亲去世后出生的孩子<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[颐颗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ku.md#颐颗)】`i2 ku` <sup>[如皋]</sup> 呼鸭也。据乾隆《如皋县志》今读若“游”。  
 1. 【[以□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_bin.md#以□)】`i3 bin5` <sup>[泰县]</sup> 反正。  
 1. 【[以后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_heu.md#以后)】`i3 heu6` <sup>[如皋]</sup> 以后。  

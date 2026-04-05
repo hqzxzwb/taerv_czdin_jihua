@@ -3135,8 +3135,11 @@
 1. 【[锁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#锁)】`su3` <sup>[如东]</sup> 安装在门箱子抽屉等开合处，使人不能打开的金属器具，需要用钥匙才能打开。一种缝纫方法。在服装边缘或扣眼边上，密针线斜绞或钩连：～眼。  
 1. 【[锁壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_r.md#锁壳<sub>儿</sub>)】`su3 kah7 r` <sup>[如东]</sup> 房屋耳门与房门之间的地方。  
 1. 【[锁壳<sub>儿</sub>房子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_r_fan.md#锁壳<sub>儿</sub>房子)】`su3 kah7 r fan2 zz` <sup>[如皋]</sup> 老式房屋，是堂屋前有走廊，左、右房前出，形似旧式锁外壳的样子。  
+1. 【[锁壳式](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_sheh.md#锁壳式)】`su3 kah7 sheh` <small>/sɤɯ3 kʰɑʔ7 səʔ/<sup>泰兴</sup></small> 房屋的一种款式。一排房子中两头为完整的房子，而中间的留有走廊，形如铜锁壳。<sup>\[泰兴\]</sup>  
 1. 【[锁壳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_kah_zz.md#锁壳子)】`su3 kah7 zz` <sup>[兴化]</sup> （喻）三间两厢房屋的别称。由于两头前伸，形似老式铜锁，故名。  
+1. 【[锁口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_keu.md#锁口)】`su3 keu3` <small>/sɤɯ3 kʰəɪ3/<sup>泰兴</sup></small> 一种缝纫法。以斜交或勾连的针线缝纫衣物或扣眼。<sup>\[泰兴\]</sup>  
 1. 【[锁口子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_keu_zz.md#锁口子)】`su3 keu3 zz` <sup>[如皋]</sup> 见“脐带儿风”。  
+1. 【[锁纽扣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_nieu_keu_r.md#锁纽扣<sub>儿</sub>)】`su3 nieu3 keu1 r` <small>/sɤɯ3 nəɪ3 kʰəɪ˞1/<sup>泰兴</sup></small> 缝锁纽孔边沿，使之牢实。<sup>\[泰兴\]</sup>  
 1. 【[谇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suae.md#谇)】`suae5` <small>/suɛ5/<sup>如皋</sup></small> 怒嗔、唾面<sup>\[如皋\]</sup>：你再不说我就～你！把你的脸～啊蓝吖！<sup>\[如皋\]</sup>  
 1. 【[尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei.md#尿)】`suei1` <small>/suəɪ1/<sup>泰兴</sup></small> 尿，名词<sup>\[泰兴\]</sup>  
 1. 【[尿鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_bih.md#尿鳖)】`suei1 bih7` <sup>[兴化]</sup> 即尿壶。男子接尿用的壶一样的器物，大口，有柄，形状象鳖。  

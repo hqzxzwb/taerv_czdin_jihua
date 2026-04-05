@@ -624,13 +624,13 @@
 1. 【[掌柜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_kuei_dii.md#掌柜的)】`zhan3 kuei6 dii` <sup>[如东]</sup> ① 旧时指店老板。 ② 比喻当家人：我家～不在。  
 1. 【[掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_ngaen.md#掌眼)】`zhan3 ngaen3` <small>/t͡saŋ3 ɛ̃3/<sup>兴化</sup>, /t͡sã3 ŋẽ3/<sup>如皋</sup></small> 帮助观察掌握（品质等）<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我想去买双鞋子，请你帮吖～哿好？<sup>\[如皋\]</sup>｜明吖上城买电冰箱，请你一起去～。<sup>\[兴化\]</sup>｜人家介绍啊个女的，约咖见面，想请你一起过去帮吖我～。<sup>\[泰州\]</sup>  
 1. 【[掌气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_qi.md#掌气)】`zhan3 qi5` <sup>[兴化]</sup> 打气、加油：给车胎～｜你瞌睡隀𥅻盹的，怕要～啊。  
-1. 【[掌勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shah.md#掌勺)】`zhan3 shah8` <sup>[东台]</sup> 主持烹调。  
+1. 【[掌勺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_shah.md#掌勺)】`zhan3 shah8` <small>/t͡sɑŋ3 sɑʔ8/<sup>泰兴</sup></small> 主持烹调。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[掌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_teu.md#掌头)】`zhan3 teu2` <sup>[如皋]</sup> 排行第一。  
 1. 【[掌砣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_tu.md#掌砣)】`zhan3 tu2` <sup>[如皋]</sup> 司秤。  
 1. 【[掌舵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_tu.md#掌舵)】`zhan3 tu6` <sup>[东台]</sup> ① 行船时掌握船上的舵。 ② ［喻］掌握方向。  
-1. 【[掌作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zah.md#掌作)】`zhan3 zah7` <small>/t͡saŋ3 t͡saʔ7/<sup>兴化</sup>, /t͡sã3 t͡saʔ7/<sup>如皋</sup></small> ① 一个技艺工作班子的领袖。<sup>\[如皋\]</sup> ② 领头干技术活<sup>\[东台\]</sup>：同他一起学徒的张三已经做啊～师傅啊，他还在那许做小工。<sup>\[东台\]</sup> ③ 在作坊或工程中为头的师傅<sup>\[兴化\]</sup>：竣工酒摆好啊，只等～的一到就开席。<sup>\[兴化\]</sup> ④ 手艺人中工头兼做技术主管的人<sup>\[泰州\]</sup>：这件事你要同我俫～的去谈。<sup>\[泰州\]</sup>  
+1. 【[掌作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zah.md#掌作)】`zhan3 zah7` <small>/t͡saŋ3 t͡saʔ7/<sup>兴化</sup>, /t͡sã3 t͡saʔ7/<sup>如皋</sup>, /t͡sɑŋ3 t͡sɑʔ7/<sup>泰兴</sup></small> ① 一个技艺工作班子的领袖。<sup>\[如皋\]</sup> ② 领头干技术活<sup>\[东台\]</sup>：同他一起学徒的张三已经做啊～师傅啊，他还在那许做小工。<sup>\[东台\]</sup> ③ 在作坊或工程中为头的师傅<sup>\[兴化\]</sup>：竣工酒摆好啊，只等～的一到就开席。<sup>\[兴化\]</sup> ④ 手艺人中工头兼做技术主管的人<sup>\[泰州\]</sup>：这件事你要同我俫～的去谈。<sup>\[泰州\]</sup> ⑤ 某工作或行业为首的师父；主持人。<sup>\[泰兴\]</sup>  
 1. 【[掌掌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zhan_ngaen.md#掌掌眼)】`zhan3 zhan3 ngaen3` <sup>[东台]</sup> 帮助看看，参谋参谋：您帮我～，这套房子怎吖样？  
-1. 【[掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#掌子)】`zhan3 zz` <sup>[兴化]</sup> 钉或缝在鞋底上的皮：鞋～｜打～。  
+1. 【[掌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_zz.md#掌子)】`zhan3 zz` <small>/t͡saŋ3 t͡sɿ/<sup>兴化</sup>, /t͡sɑŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 钉或缝在鞋底上的皮<sup>\[兴化\]</sup>：鞋～<sup>\[兴化\]</sup>｜打～。<sup>\[兴化\]</sup> ② 钉在鞋底前后的皮或橡胶。<sup>\[泰兴\]</sup>  
 1. 【[涨饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bien.md#涨饼)】`zhan3 bien3` <small>/t͡saŋ3 piɪ̃3/<sup>兴化</sup>, /t͡sɑŋ3 piŋ3/<sup>泰县</sup></small> 一种饼的制作方法\[泰州：以馊粥为酵头，与面粉搅拌后发酵成糊，锅中放少许油，将糊舀入锅中，盖好锅盖，加热烤熟。\]\[兴化：用发酵的面糊或米粉糊烙饼。\]\[泰县：用酵做饼。\]  
 1. 【[涨潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_cho.md#涨潮)】`zhan3 cho2` <small>/t͡sɑŋ3 t͡sʰɔ2/<sup>泰兴</sup></small> ① 潮水水位升高<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 小孩尿床。<sup>\[如东\]</sup>：毛毛今朝涨吖潮。<sup>\[如东\]</sup>  
 1. 【[涨酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_go.md#涨酵)】`zhan3 go5` <small>/t͡saŋ3 kɔ5/<sup>兴化</sup></small> ① 让面粉发酵。<sup>\[东台\]</sup> ② 投入水和酵母（老酵）使面发酵。<sup>\[兴化\]</sup>  
@@ -1980,8 +1980,7 @@
 1. 【[纵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#纵)】`zon5` <small>/t͡sɔŋ5/<sup>如皋</sup></small> 奔腾<sup>\[如皋\]</sup>：马～得快。<sup>\[如皋\]</sup>  
 1. 【[综](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#综)】`zon5` <sup>[如皋]</sup> 织布机上控制经纱上下的篾篦状装置。  
 1. 【[𧺣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zon.md#𧺣)】`zon5` <sup>[兴化]</sup> 急走：他一听说有球赛，望体育馆直～。《广韵·钟韵》七恭切｜“～，急行也。又音纵。”  
-1. 【[喌喌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zu.md#喌喌)】`zu1 zu1` <sup>[如东]</sup> 呼鸡声。  
-1. 【[喌喌……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zu.md#喌喌……)】`zu2 zu2……` <sup>[如皋]</sup> 唤鸡声。  
+1. 【[喌喌……](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_zu.md#喌喌……)】`zu2 zu2` <small>/t͡sʊ2 t͡sʊ2/<sup>如皋</sup>, /t͡sɤɯ2 t͡sɤɯ2/<sup>泰兴</sup></small> 唤鸡声。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu.md#□)】`zu3` <small>/t͡sʊ3/<sup>如皋</sup></small> 副词同“总、都”，如皋词典写“左”<sup>\[如皋\]</sup>：这块田～是他种的。<sup>\[如皋\]</sup>  
 1. 【[左半边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_bun_bin.md#左半边)】`zu3 bun5 bin1` <sup>[如东]</sup> 人体方位的左边：花瓶摆啊在～。  
 1. 【[左耳搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zu_er_daeh.md#左耳搭)】`zu3 er3 daeh7` <sup>[如皋]</sup> 左耳刀儿（阝）：防阻院  

@@ -219,6 +219,7 @@
 1. 【[限限的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_kaen_dii.md#限限的)】`kaen3 kaen3 dii` <sup>[如皋]</sup> 将近够到，只差点点。  
 1. 【[嵌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen.md#嵌)】`kaen5` <sup>[东台]</sup> 把较小的东西卡进较大东西上面的凹处：～银；～入式。  
 1. 【[嵌灰墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_huei_qian.md#嵌灰墙)】`kaen5 huei1 qian2` <sup>[如皋]</sup> 用石灰将砖缝做成格线的墙，很精美。  
+1. 【[嵌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_ngaen.md#嵌眼)】`kaen5 ngaen` <small>/kʰɛ̃5 ŋɛ̃/<sup>泰兴</sup></small> 手指或脚趾的一种小疾。<sup>\[泰兴\]</sup>  
 1. 【[嵌肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_roh.md#嵌肉)】`kaen5 roh8` <sup>[如东]</sup> 把猪肉末嵌在鲫鱼、茄子等菜料中，叫做嵌肉。  
 1. 【[嵌山](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_shaen.md#嵌山)】`kaen5 shaen1` <sup>[如皋]</sup> 给室内梁架的框格间加装板料，使“山尖儿”分隔开。  
 1. 【[嵌山梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kaen_shaen_lian.md#嵌山梁)】`kaen5 shaen1 lian2` <sup>[如东]</sup> 房屋两侧的柱杆一半嵌在山墙内，称嵌山梁。  
@@ -882,7 +883,7 @@
 1. 【[睏倒啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_do_a.md#睏倒啊)】`kuen5 do3 a` <sup>[东台]</sup> 不均衡，压力几乎偏在某一方：父母生吖病，兄弟姐妹都要来服侍，不能～哪一家｜伢儿～哪个人身上都吃不消。  
 1. 【[睏二觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_er_go.md#睏二觉)】`kuen5 er6 go5` <sup>[如皋]</sup> 睡醒后再睡。  
 1. 【[睏复觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_foh_go.md#睏复觉)】`kuen5 foh7 go5` <sup>[如皋]</sup> 睡醒后再睡。  
-1. 【[睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go.md#睏觉)】`kuen5 go5` <small>/kʰuən5 kɔ5/<sup>兴化</sup>, /kʰuəŋ5 kɔ5/<sup>如皋</sup>, /kʰuəŋ5 kɔ5/<sup>泰县</sup></small> ① 睡觉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：他～去啊。<sup>\[泰县\]</sup> ② 指性行为。<sup>\[如东\]</sup> ③ 婚外性交。<sup>\[如皋\]</sup>  
+1. 【[睏觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go.md#睏觉)】`kuen5 go5` <small>/kʰuən5 kɔ5/<sup>兴化</sup>, /kʰuəŋ5 kɔ5/<sup>如皋</sup>, /kʰuəŋ5 kɔ5/<sup>泰兴</sup>, /kʰuəŋ5 kɔ5/<sup>泰县</sup></small> ① 睡觉。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：他～去啊。<sup>\[泰县\]</sup> ② 指性行为。<sup>\[如东\]</sup> ③ 婚外性交。<sup>\[如皋\]</sup>  
 1. 【[睏觉拾咖个枕头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_go_sheh_ga.md#睏觉拾咖个枕头)】`kuen5 go5 sheh8 ga gu zhen3 teu` <sup>[如皋]</sup> 再巧不过，再好不过。  
 1. 【[睏柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kuei.md#睏柜)】`kuen5 kuei6` <small>/kʰuəŋ5 kʰuei1/<sup>如皋</sup></small> ① 柜的一种。木制，长方形，里面可以贮藏粮食或其他东西，上面可以睡人，这种柜叫做睏柜。<sup>\[如东\]</sup> ② 商店常用以存放钱物兼作床的柜门向上的矮木柜。<sup>\[如皋\]</sup>  
 1. 【[睏裤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_kv.md#睏裤)】`kuen5 kv5` <small>/kʰuən5 kʰu5/<sup>兴化</sup>, /kʰuəŋ5 kʰu5/<sup>泰县</sup></small> 睡裤<sup>\[泰县\]</sup>\[兴化：睡觉时连在身上的单裤。\]：这条～蛮合身的。<sup>\[泰县\]</sup>  
@@ -891,11 +892,11 @@
 1. 【[睏㞗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏㞗)】`kuen5 qieu2` <sup>[兴化]</sup> 睡觉的粗俗说法：吃咖晚饭没事做，早点～。  
 1. 【[睏囚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏囚)】`kuen5 qieu2` <sup>[如皋]</sup> ① 碌碡。 ② 詈、昵语。指贪睡者。  
 1. 【[睏求](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏求)】`kuen5 qieu2` <sup>[泰县]</sup> 睡觉。  
-1. 【[睏球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏球)】`kuen5 qieu2` <sup>[东台]</sup> 贪睡的人（也作睏球）：这个～，怎吖还不起床？  
+1. 【[睏球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_qieu.md#睏球)】`kuen5 qieu2` <small>/kʰuəŋ5 t͡ɕʰiɤɯ2/<sup>泰兴</sup></small> ① 贪睡的人<sup>\[东台\]</sup>：这个～，怎吖还不起床？<sup>\[东台\]</sup> ② 戏称嗜睡者。喻碌碡。<sup>\[泰兴\]</sup>：街上人认不得乡下的碌碡：～。<sup>\[泰兴\]</sup>  
 1. 【[睏竖头觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_shv_teu_go.md#睏竖头觉)】`kuen5 shv6 teu go5` <sup>[如皋]</sup> 头竖着睡觉，多指坐势，也有站着或一边走一边睡的，统称为～。  
 1. 【[睏眨眨<sub>儿</sub>觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhaeh_zhaeh_r.md#睏眨眨<sub>儿</sub>觉)】`kuen5 zhaeh7 zhaeh7 r go5` <sup>[如皋]</sup> 刚入睡就醒了。  
-1. 【[睏中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhon_go.md#睏中觉)】`kuen5 zhon1 go5` 午睡  
-1. 【[睏早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zo_qi.md#睏早起)】`kuen5 zo3 qi3` <sup>[如东]</sup> 早晨起不来：毛毛喜欢～。  
+1. 【[睏中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zhon_go.md#睏中觉)】`kuen5 zhon1 go5` <small>/kʰuəŋ5 t͡sɔŋ1 kɔ5/<sup>泰兴</sup></small> 午睡。<sup>\[泰兴\]</sup>  
+1. 【[睏早起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuen_zo_qi.md#睏早起)】`kuen5 zo3 qi3` <small>/kʰuəŋ5 t͡sɔ3 t͡ɕʰʝ3/<sup>泰兴</sup></small> ① 早晨起不来。<sup>\[如东\]</sup>：毛毛喜欢～。<sup>\[如东\]</sup> ② 早晨懒睡。<sup>\[泰兴\]</sup>  
 1. 【[嗑牙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_nga.md#嗑牙)】`kuh7 nga2` <sup>[兴化]</sup> 闲谈：几个人没事就在一起闲～。  
 1. 【[嗑穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_qion.md#嗑穷)】`kuh7 qion2` <small>/kʰuʔ7 t͡ɕʰioŋ2/<sup>兴化</sup>, /kʰʊʔ7 t͡ɕʰiɔŋ2/<sup>如皋</sup></small> 哭穷。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老朱这几年混得不错，但是见吖老乡就～。<sup>\[兴化\]</sup>  
 1. 【[盇篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kuh_laen.md#盇篮)】`kuh7 laen2` 菜罩<sup>\[如东\]</sup>  
