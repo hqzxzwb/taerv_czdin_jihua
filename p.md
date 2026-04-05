@@ -1406,6 +1406,7 @@
 1. 【[铺盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_gae.md#铺盖)】`pv5 gae5` <sup>[如皋]</sup> 见“铺籍”。  
 1. 【[铺籍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#铺籍)】`pv5 qieh8` <sup>[如皋]</sup> 被、褥、帐、枕等的总称  
 1. 【[铺头境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_teu_jien.md#铺头境)】`pv5 teu2 jien1` <sup>[东台]</sup> 床头。  
+1. 【[铺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#铺子)】`pv5 zz` <small>/pʰu5 t͡sɿ/<sup>泰兴</sup></small> 店铺，小商店。<sup>\[泰兴\]</sup>  
 1. 【[伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#伏)】`pv6` <small>/pʰu1/<sup>如皋</sup></small> ① 母鸡（禽一类）孵蛋。<sup>\[如皋\]</sup> ② 母鸡周期性恋巢，是孵蛋的本能。这期间发热、吃食少，成天打咕咕。约3～5天恢复正常。<sup>\[如皋\]</sup> ③ 指禽类动物的繁育后代方式<sup>\[东台\]</sup>：～坊/大鸡～小鸡（母鸡伏在鸡蛋上，用体温使蛋内的胚胎发育成雏鸡）。也指用人工的方法育雏。<sup>\[东台\]</sup>  
 1. 【[埠口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_keu.md#埠口)】`pv6 keu3` <sup>[如东]</sup> 河边用以洗衣、洗菜的地方  
 1. 【[埠口踏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_keu_taeh_zz.md#埠口踏子)】`pv6 keu3 taeh8 zz` <sup>[如东]</sup> 由河岸至河底的阶梯，叫埠口踏子。由河水边伸出去的引桥，叫做埠口踏子。  
