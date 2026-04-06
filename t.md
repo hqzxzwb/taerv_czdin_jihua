@@ -2198,7 +2198,7 @@
 1. 【[土耳其](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_er_qi.md#土耳其)】`tv3 er3 qi2` <small>/tʰu3 ɚ3 t͡ɕʰʝ2/<sup>如皋</sup></small> ① 土气十足的人。<sup>\[如皋\]</sup> ② 谐音“土而奇”，常戏称土里土气的事物<sup>\[东台\]</sup>：这件衣服～，你看不上。<sup>\[东台\]</sup>  
 1. 【[土方草药，气死名医](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_fan_co_iah.md#土方草药，气死名医)】`tv3 fan1 co3 iah8 qi5 sz3 mien2 i1` <sup>[东台]</sup> 民间实践经验有时比名家的办法管用。  
 1. 【[土狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu.md#土狗)】`tv3 geu3` <sup>[兴化]</sup> 蝼蛄。  
-1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <small>/tʰu3 kei˞3/<sup>如皋</sup></small> ① 蝼蛄。<sup>\[如皋\]</sup> ② 即蝼蛄。<sup>\[东台\]</sup>  
+1. 【[土狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_r.md#土狗<sub>儿</sub>)】`tv3 geu3 r` <small>/tʰu3 kei˞3/<sup>如皋</sup></small> 蝼蛄。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[土狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_geu_zz.md#土狗子)】`tv3 geu3 zz` <small>/tʰu3 kəɪ3 t͡sɿ/<sup>泰兴</sup></small> 蝼蛄的俗称。有的地区称“地牛儿”。<sup>\[泰兴\]</sup>  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon` ① 给死人洗澡更衣的人。 ② 以殡葬为职业的人。<sup>\[泰州\]</sup>  
 1. 【[土工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_gon.md#土工)】`tv3 gon1` <small>/tʰu3 koŋ1/<sup>兴化</sup></small> ① 为死人洗澡、穿衣整容以及埋葬的人，叫土工。<sup>\[如东\]</sup> ② 旧称从事送葬、造坟等殡葬服务的人。<sup>\[兴化\]</sup>  
@@ -2226,7 +2226,7 @@
 1. 【[土头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土头)】`tv3 teu2` <sup>[兴化]</sup> 指土壤的肥瘠：这块田～不丑。  
 1. 【[土豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu.md#土豆)】`tv3 teu6` <small>/tʰu3 tʰəɪ1/<sup>泰兴</sup></small> 马铃薯。<sup>\[泰兴\]</sup>  
 1. 【[土豆搬家——滚蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_teu_bun_ga.md#土豆搬家——滚蛋)】`tv3 teu6 bun1 ga1 guen3 taen6` <sup>[东台]</sup>   
-1. 【[土地狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_r.md#土地狗<sub>儿</sub>)】`tv3 ti6 geu3 r` <sup>[泰县]</sup> ① 蝼站。 ② 骨子里捣蛋的人。  
+1. 【[土地狗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_r.md#土地狗<sub>儿</sub>)】`tv3 ti6 geu3 r` <sup>[泰县]</sup> ① 蝼蛄。 ② 骨子里捣蛋的人。  
 1. 【[土地狗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_geu_zz.md#土地狗子)】`tv3 ti6 geu3 zz` <sup>[兴化]</sup> 蝼蛄。  
 1. 【[土地工](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_gon.md#土地工)】`tv3 ti6 gon1` <sup>[如东]</sup> 用工制度的一种。因土地被企业征用而吸收的工人。  
 1. 【[土地会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_ti_huei.md#土地会)】`tv3 ti6 huei6` <sup>[如皋]</sup> 夏季祭祀土地菩萨的庙会，给一方住户送太平。  
