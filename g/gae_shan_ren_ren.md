@@ -7,6 +7,3 @@ gae1 shan6 ren2 ren6 beh7 deh7 xian1 ha6 cha1 ga5 zz da6 kuan1 kuan1
 + 歇后语。“大匡匡”，大略估计。
   * 东台方言词典
   * 泰兴方言辞典
-<!--
-泰兴大匡匡词条
--->

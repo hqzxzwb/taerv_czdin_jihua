@@ -63,6 +63,7 @@ There should be no blank line between adjacent entries.
 
 The line immediately after `# 中文词条` is the main normalized pronunciation line.
 
+- Determine the main pronunciation by first checking same-form entries already present in the repository, then checking `daen_cz.csv`, and finally making a combined judgment from both together with the source evidence.
 - If one written form has multiple pronunciations but the meaning is the same, separate whole readings with `,`.
 - If only one character within the word has multiple readings, separate those variants with `/`.
 - If the written form, pronunciation, and meaning all differ, split them into separate entries rather than merging them.
