@@ -12,8 +12,11 @@ jobs:
         with:
           python-version: '3.12.3' 
 
-      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+      - name: Build dictionary pages 🔧
         run: python3 deploy.py
+
+      - name: Build search page 🔍
+        run: python3 generate_search.py
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.6.1
