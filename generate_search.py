@@ -308,6 +308,35 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       text-decoration: none;
     }
 
+    header a.old-home {
+      color: #a8c4e8;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+
+    header a.old-home:hover {
+      text-decoration: underline;
+    }
+
+    .header-links {
+      background: #1e3a5f;
+      padding: 0.3rem 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      border-top: 1px solid #2d5a8e;
+    }
+
+    .header-links a {
+      color: #a8c4e8;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+
+    .header-links a:hover {
+      text-decoration: underline;
+    }
+
     .alpha-bar {
       background: #1e3a5f;
       padding: 0.4rem 0.5rem;
@@ -506,6 +535,11 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <h1><a href="https://github.com/hqzxzwb/taerv_czdin_jihua" target="_blank" rel="noopener">泰如辞典</a></h1>
 </header>
 
+<div class="header-links">
+  <a href="https://hqzxzwb.github.io/taerv_czdin_jihua/home.html" target="_blank" rel="noopener">旧版主页</a>
+  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNjEwMjM0OQ==&action=getalbum&album_id=2505440559352791041" target="_blank" rel="noopener">拼音方案</a>
+</div>
+
 <nav class="alpha-bar" id="alphaBar">
   <a href="#" data-letter="A">A</a>
   <a href="#" data-letter="B">B</a>
@@ -537,7 +571,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <div class="search-bar">
   <label for="q">搜索词条（支持汉字、拼音、解释）</label>
   <div class="search-row">
-    <input type="search" id="q" placeholder="例：分门 / fen1 men2 / 比较好" autocomplete="off" autofocus>
+    <input type="search" id="q" placeholder="例：摞 / lu6 / 叠放" autocomplete="off" autofocus>
     <select id="region">
       <option value="">不限</option>
       <option value="如皋">如皋</option>

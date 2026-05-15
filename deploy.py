@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"自动生成index.md"
+"自动生成home.md"
 
 import glob
 import os
@@ -262,7 +262,7 @@ def write_index(dirs, examples):
     """生成主页"""
     lines = []
     letter_index(dirs, lines)
-    f = open(os.path.join("docs", "index.md"), "w", encoding="U8")
+    f = open(os.path.join("docs", "home.md"), "w", encoding="U8")
     f.writelines(lines)
     f.writelines(examples)
 

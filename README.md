@@ -1,6 +1,6 @@
 收录泰如方言词汇
 
-- [已收录词汇](https://hqzxzwb.github.io/taerv_czdin_jihua/)
+- [在线检索](https://hqzxzwb.github.io/taerv_czdin_jihua/) [旧版主页](https://hqzxzwb.github.io/taerv_czdin_jihua/home.html)
 
 - [拼音方案](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNjEwMjM0OQ==&action=getalbum&album_id=2505440559352791041)
   - 在拼音方案的基础上，增加一个声调9。声调9不是一个独立声调，有的地方调值同上声（例如如皋），有的地方调值同阴平（例如泰兴），有的地方调值同阳平（例如如东局部）。它产生于对“一”字的省略。例如：百boh9块钱/一百元钱，个gu9人/一个人，刻keh9儿/一会儿。

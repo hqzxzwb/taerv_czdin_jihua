@@ -18,6 +18,9 @@ jobs:
       - name: Build search page 🔍
         run: python3 generate_search.py
 
+      - name: Set search page as index
+        run: cp docs/search.html docs/index.html
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.6.1
         with:
