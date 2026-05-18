@@ -35,7 +35,6 @@ CzYSubMeaning = namedtuple('CzYSubMeaning', ['source', 'pien_ien', 'supplement',
 
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚"
 LINK_PREFIX = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/"
-LINK_FORMAT = "%s#%s"
 PY_FORMAT = re.compile(r"^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-9]?$")
 
 
@@ -224,9 +223,6 @@ def collect_all_entries():
                 except Exception:
                     continue
 
-                # Build link (relative path only; prefix is added in JS)
-                link = LINK_FORMAT % (fname.replace("\\", "/"), w.text)
-
                 # Build meanings text (plain, for search indexing and display)
                 meaning_parts = []
                 for i, meaning in enumerate(w.meanings):
@@ -258,13 +254,13 @@ def collect_all_entries():
                 if not word_display:
                     word_display = w.raw_text
 
-                entry = {
-                    "w": word_display,      # word: erhua 儿 stored as 'ʳ', ligature with ʰ
-                    "p": w.pien_ien,        # pinyin
-                    "m": meaning_text,      # meaning
-                    "l": link,              # link (relative path, prefix added in JS)
-                    "s": sorted(source_tags),  # sources
-                }
+                entry = [
+                    word_display,          # [0] word: erhua 儿 stored as 'ʳ', ligature with ʰ
+                    w.pien_ien,            # [1] pinyin
+                    meaning_text,          # [2] meaning
+                    w.raw_text,            # [3] raw_text (used to build link in JS)
+                    sorted(source_tags),   # [4] sources
+                ]
                 entries.append(entry)
 
     return entries
@@ -607,6 +603,18 @@ function escapeRe(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+// Entry array indices
+const W = 0, P = 1, M = 2, T = 3, S = 4;
+
+function entryLink(entry) {
+  // Derive filename from first pinyin reading: strip tone digits, replace spaces with _
+  const firstReading = entry[P].split(',')[0].trim();
+  const filename = firstReading.replace(/[0-9]/g, '').replace(/ +/g, '_');
+  const dir = filename[0].toLowerCase();
+  const anchor = entry[T];
+  return dir + '/' + filename + '.md#' + anchor;
+}
+
 function fmtWord(raw) {
   // ʰ marks a ligature: underline the two chars before ʰ, hide ʰ itself
   let s = raw.replace(/(.)(.)ʰ/g, '<u>$1$2</u>');
@@ -631,11 +639,11 @@ function score(entry, terms) {
   let s = 0;
   for (const t of terms) {
     const tl = t.toLowerCase();
-    const w = entry.w.replace(/\u02b0/g, '').replace(/\u02b3/g, '儿');
-    const wNoR = entry.w.replace(/[\u02b0\u02b3]/g, '');
+    const w = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿');
+    const wNoR = entry[W].replace(/[\u02b0\u02b3]/g, '');
     if (w.includes(t) || wNoR.includes(t)) s += 10;
-    if (entry.p.toLowerCase().includes(tl)) s += 5;
-    if (entry.m.includes(t)) s += 1;
+    if (entry[P].toLowerCase().includes(tl)) s += 5;
+    if (entry[M].includes(t)) s += 1;
   }
   return s;
 }
@@ -664,20 +672,20 @@ function search(query) {
   const matches = [];
   for (const entry of DATA) {
     // Filter by region
-    if (region && !entry.s.includes(region)) continue;
+    if (region && !entry[S].includes(region)) continue;
 
     // Filter by initial letter of pinyin
-    if (letter && entry.p[0].toUpperCase() !== letter) continue;
+    if (letter && entry[P][0].toUpperCase() !== letter) continue;
 
-    const combined = entry.w.replace(/\u02b0/g, '').replace(/\u02b3/g, '儿') + ' ' + entry.p + ' ' + entry.m;
-    const combinedNoR = entry.w.replace(/[\u02b0\u02b3]/g, '') + ' ' + entry.p + ' ' + entry.m;
+    const combined = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿') + ' ' + entry[P] + ' ' + entry[M];
+    const combinedNoR = entry[W].replace(/[\u02b0\u02b3]/g, '') + ' ' + entry[P] + ' ' + entry[M];
     const combinedLower = combined.toLowerCase();
     const combinedNoRLower = combinedNoR.toLowerCase();
 
     // For pinyin queries, require query tokens to appear consecutively in the
     // pinyin token list, each as a prefix of the corresponding pinyin syllable.
     if (pinyinTerms) {
-      const pyTokens = entry.p.toLowerCase().split(/\s+/);
+      const pyTokens = entry[P].toLowerCase().split(/\s+/);
       let found = false;
       for (let i = 0; i <= pyTokens.length - pinyinTerms.length; i++) {
         if (pinyinTerms.every((qt, j) => pyTokens[i + j].startsWith(qt))) {
@@ -699,7 +707,7 @@ function search(query) {
   }
 
   // Sort by score descending, then by word length ascending
-  matches.sort((a, b) => b.s - a.s || a.entry.w.length - b.entry.w.length);
+  matches.sort((a, b) => b.s - a.s || a.entry[W].length - b.entry[W].length);
 
   const letterHint = letter ? `【${letter}】` : '';
 
@@ -721,19 +729,19 @@ function search(query) {
     wordSpan.className = 'entry-word';
 
     const wordLink = document.createElement('a');
-    wordLink.href = LINK_PREFIX + entry.l;
+    wordLink.href = LINK_PREFIX + entryLink(entry);
     wordLink.target = '_blank';
     wordLink.rel = 'noopener';
-    wordLink.innerHTML = highlight(fmtWord(entry.w), terms);
+    wordLink.innerHTML = highlight(fmtWord(entry[W]), terms);
     wordSpan.appendChild(wordLink);
 
     const pinyinCode = document.createElement('code');
     pinyinCode.className = 'entry-pinyin';
-    pinyinCode.innerHTML = highlight(entry.p, terms);
+    pinyinCode.innerHTML = highlight(entry[P], terms);
 
     const sourcesSpan = document.createElement('span');
     sourcesSpan.className = 'entry-sources';
-    for (const src of entry.s) {
+    for (const src of entry[S]) {
       const tag = document.createElement('span');
       tag.className = 'entry-source-tag src-' + src;
       tag.textContent = src;
@@ -742,7 +750,7 @@ function search(query) {
 
     const meaningDiv = document.createElement('div');
     meaningDiv.className = 'entry-meaning';
-    meaningDiv.innerHTML = highlight(entry.m, terms);
+    meaningDiv.innerHTML = highlight(entry[M], terms);
 
     const header = document.createElement('div');
     header.appendChild(wordSpan);
