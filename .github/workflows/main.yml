@@ -5,12 +5,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12.3' 
+          python-version: '3.12.13' 
 
       - name: Build dictionary pages 🔧
         run: python3 deploy.py

@@ -9,6 +9,7 @@ import json
 import os
 import re
 import string
+import subprocess
 
 # Reuse parsing logic from deploy.py
 from itertools import product
@@ -231,7 +232,23 @@ def collect_all_entries():
                     explanation = re.sub(r'<[^>]+>', '', explanation)
                     explanation = re.sub(r'\\?\[.*?\\?\]', '', explanation)
                     explanation = explanation.strip()
-                    meaning_parts.append(prefix + explanation)
+                    examples = []
+                    for sub in meaning.subs:
+                        for ex in sub.examples:
+                            if not ex:
+                                continue
+                            ex = ex.strip()
+                            if not ex:
+                                continue
+                            ex = re.sub(r'<[^>]+>', '', ex)
+                            ex = re.sub(r'\\?\[.*?\\?\]', '', ex)
+                            ex = re.sub(r'^例[：:]', '', ex)
+                            ex = ex.strip()
+                            if ex:
+                                ex = ex.replace('{', '').replace('}', '')
+                                examples.append(ex)
+                    example_text = f"{{{'；'.join(examples)}}}" if examples else ""
+                    meaning_parts.append(prefix + explanation + example_text)
                 meaning_text = "  ".join(meaning_parts)
 
                 # Build source tags for display
@@ -266,6 +283,194 @@ def collect_all_entries():
     return entries
 
 
+def get_recent_entries(limit=10):
+    """Get recently modified entries using git log -p, detecting actual changes."""
+    try:
+        # Get recently modified .md files with their diffs
+        result = subprocess.run(
+            ['git', 'log', '-p', '--pretty=format:%H%n%s', '-20', '--',
+             'a/', 'b/', 'c/', 'd/', 'e/', 'f/', 'g/', 'h/', 'i/', 'j/', 'k/', 'l/', 'm/', 'n/', 'o/', 'p/', 'q/', 'r/', 's/', 't/', 'u/', 'v/', 'x/', 'y/', 'z/'],
+            capture_output=True, text=True, timeout=1000
+        )
+        if result.returncode != 0:
+            return []
+        
+        # Parse git log output to extract modified entries
+        modified_entries_texts = set()  # Track which entry texts were modified
+        current_file = None
+        in_diff = False
+        diff_content = []
+        
+        for line in result.stdout.split('\n'):
+            # Detect diff start
+            if line.startswith('diff --git'):
+                in_diff = True
+                diff_content = [line]
+            elif in_diff:
+                diff_content.append(line)
+                # Look for lines that were changed (added or removed) in the entry structure
+                if line.startswith('+# ') or line.startswith('-# '):
+                    # Entry heading changed
+                    modified_entries_texts.add(line[3:].strip())
+                elif line.startswith('+') and not line.startswith('+++'):
+                    # Any content addition - mark as modified
+                    if line.strip() != '+':
+                        pass  # Keep looking
+                elif line.startswith('-') and not line.startswith('---'):
+                    # Any content removal - mark as modified
+                    if line.strip() != '-':
+                        pass  # Keep looking
+        
+        # Better approach: parse all recent commits' diffs and find entries that changed
+        # Use git show to get the actual modified lines and extract entry names
+        recent_entries_list = []
+        
+        result = subprocess.run(
+            ['git', 'log', '--pretty=format:%H', '--diff-filter=M', '-20', '--',
+             'a/', 'b/', 'c/', 'd/', 'e/', 'f/', 'g/', 'h/', 'i/', 'j/', 'k/', 'l/', 'm/', 'n/', 'o/', 'p/', 'q/', 'r/', 's/', 't/', 'u/', 'v/', 'x/', 'y/', 'z/'],
+            capture_output=True, text=True, timeout=1000
+        )
+        commits = result.stdout.strip().split('\n')
+        
+        # For each commit, find modified entries
+        processed_entries = set()  # Track to avoid duplicates
+        for commit_hash in commits[:20]:
+            if not commit_hash:
+                continue
+                
+            # Get list of modified files in this commit
+            file_result = subprocess.run(
+                ['git', 'show', '--name-only', '--pretty=format:', commit_hash],
+                capture_output=True, text=True, timeout=5
+            )
+            if file_result.returncode != 0:
+                continue
+            
+            for fname in file_result.stdout.strip().split('\n'):
+                if not fname.endswith('.md'):
+                    continue
+                
+                # Get the diff for this file
+                diff_result = subprocess.run(
+                    ['git', 'show', f'{commit_hash}:{fname}'],
+                    capture_output=True, text=True, timeout=5
+                )
+                if diff_result.returncode != 0:
+                    continue
+                
+                current_content = diff_result.stdout
+                current_content = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", current_content)
+                
+                # Get previous version
+                prev_result = subprocess.run(
+                    ['git', 'show', f'{commit_hash}~1:{fname}'],
+                    capture_output=True, text=True, timeout=5
+                )
+                prev_content = prev_result.stdout if prev_result.returncode == 0 else ""
+                prev_content = re.sub(r"<!--\n(.*\n)*?-->(\n|$)", "", prev_content)
+                
+                # Parse both versions
+                current_entries = {}
+                for cont in re.split(r"(?:\r?\n){2,}", current_content):
+                    if re.fullmatch(r'\s*', cont):
+                        continue
+                    try:
+                        w = parse_cont(cont, fname)
+                        current_entries[w.raw_text] = (cont, w)
+                    except Exception:
+                        continue
+                
+                prev_entries = {}
+                for cont in re.split(r"(?:\r?\n){2,}", prev_content):
+                    if re.fullmatch(r'\s*', cont):
+                        continue
+                    try:
+                        w = parse_cont(cont, fname)
+                        prev_entries[w.raw_text] = cont
+                    except Exception:
+                        continue
+                
+                # Find changed entries
+                for raw_text in current_entries:
+                    entry_key = (fname, raw_text)
+                    if entry_key in processed_entries:
+                        continue
+                    
+                    if raw_text not in prev_entries or current_entries[raw_text][0] != prev_entries[raw_text]:
+                        processed_entries.add(entry_key)
+                        cont, w = current_entries[raw_text]
+                        
+                        # Build meanings text
+                        meaning_parts = []
+                        for i, meaning in enumerate(w.meanings):
+                            prefix = ORDERS[i] + " " if len(w.meanings) > 1 else ""
+                            explanation = meaning.explanation
+                            explanation = re.sub(r'<[^>]+>', '', explanation)
+                            explanation = re.sub(r'\\?\[.*?\\?\]', '', explanation)
+                            explanation = explanation.strip()
+                            examples = []
+                            for sub in meaning.subs:
+                                for ex in sub.examples:
+                                    if not ex:
+                                        continue
+                                    ex = ex.strip()
+                                    if not ex:
+                                        continue
+                                    ex = re.sub(r'<[^>]+>', '', ex)
+                                    ex = re.sub(r'\\?\[.*?\\?\]', '', ex)
+                                    ex = re.sub(r'^例[：:]', '', ex)
+                                    ex = ex.strip()
+                                    if ex:
+                                        ex = ex.replace('{', '').replace('}', '')
+                                        examples.append(ex)
+                            example_text = f"{{{'；'.join(examples)}}}" if examples else ""
+                            meaning_parts.append(prefix + explanation + example_text)
+                        meaning_text = "  ".join(meaning_parts)
+                        
+                        # Build source tags
+                        source_tags = set()
+                        if w.source:
+                            source_tags.add(shrink_source(w.source))
+                        for meaning in w.meanings:
+                            for sub in meaning.subs:
+                                if sub.source:
+                                    source_tags.add(shrink_source(sub.source))
+                        
+                        # Build display word
+                        word_display = ''
+                        for cz, ien, *_ in w.mixed:
+                            raw_cz = re.sub(r'<sub>(.*?)</sub>', r'\1ʰ', cz)
+                            if ien == 'r' and '儿' in cz:
+                                word_display += '\u02b3'
+                            else:
+                                word_display += raw_cz
+                        if not word_display:
+                            word_display = w.raw_text
+                        
+                        entry = [
+                            word_display,
+                            w.pien_ien,
+                            meaning_text,
+                            w.raw_text,
+                            sorted(source_tags),
+                        ]
+                        recent_entries_list.append(entry)
+                        
+                        if len(recent_entries_list) >= limit:
+                            break
+                
+                if len(recent_entries_list) >= limit:
+                    break
+            
+            if len(recent_entries_list) >= limit:
+                break
+        
+        return recent_entries_list[:limit]
+    except Exception as e:
+        print(f"Warning: Could not get recent entries: {e}")
+        return []
+
+
 HTML_TEMPLATE = r"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -276,7 +481,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", serif;
+      font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
       background: #f0f4f8;
       color: #1a2433;
       min-height: 100vh;
@@ -495,6 +700,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       color: #1e2d3e;
     }
 
+    .entry-meaning span.entry-example {
+      font-family: "Noto Serif", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", "STZhongsong", Georgia, "Times New Roman", serif;
+      font-size: 0.8em;
+      color: #3d4d60;
+      background: transparent;
+      padding: 0;
+      margin: 0 0.15em;
+    }
+
     u { text-decoration: underline; }
 
     .entry-word sub {
@@ -562,10 +776,11 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <a href="#" data-letter="X">X</a>
   <a href="#" data-letter="Y">Y</a>
   <a href="#" data-letter="Z">Z</a>
+  <a href="#" id="randomBtn" title="随机词条">随机</a>
+  <a href="#" id="recentBtn" title="最近修改">最近</a>
 </nav>
 
 <div class="search-bar">
-  <label for="q">搜索词条（支持汉字、拼音、解释）</label>
   <div class="search-row">
     <input type="search" id="q" placeholder="例：摞 / lu6 / 叠放" autocomplete="off" autofocus>
     <select id="region">
@@ -582,7 +797,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   </div>
 </div>
 
-<p class="stats" id="stats"></p>
+<p class="stats" id="stats">正在加载方言辞典，请加载完成后再搜索。</p>
 
 <ul id="results"></ul>
 
@@ -592,12 +807,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 // ── Embedded dictionary data ──
 const LINK_PREFIX = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/";
 const DATA = __DATA_JSON__;
+const RECENT_DATA = __RECENT_DATA_JSON__;
 
 // ── Search logic ──
 const input = document.getElementById('q');
 const regionSelect = document.getElementById('region');
 const resultsList = document.getElementById('results');
 const stats = document.getElementById('stats');
+let renderTaskToken = 0;
+const RENDER_CHUNK_SIZE = 80;
 
 function escapeRe(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -634,6 +852,11 @@ function highlight(text, terms) {
   }).join('');
 }
 
+function renderMeaning(text) {
+  // Convert stored {example} blocks to styled inline code
+  return text.replace(/\{([^{}]+)\}/g, '<span class="entry-example">$1</span>');
+}
+
 function score(entry, terms) {
   // Return a relevance score; higher is better
   let s = 0;
@@ -649,10 +872,11 @@ function score(entry, terms) {
 }
 
 function search(query) {
+  const taskToken = ++renderTaskToken;
   query = query.trim();
   if (!query && !activeLetter) {
     resultsList.innerHTML = '';
-    stats.textContent = `共收录 ${DATA.length} 条词条，请输入关键词搜索或点击音序。`;
+    stats.textContent = `共收录 ${DATA.length} 个词，请输入关键词搜索或点击音序。`;
     return;
   }
 
@@ -717,59 +941,179 @@ function search(query) {
     return;
   }
 
-  const limit = 200;
-  const shown = matches.slice(0, limit);
-  stats.textContent = `${letterHint}${query ? `搜索"${query}"，` : ''}找到 ${matches.length} 条结果${matches.length > limit ? `，显示前 ${limit} 条` : ''}。`;
+  const shown = matches;
+  resultsList.innerHTML = '';
+  const baseStats = `${letterHint}${query ? `搜索"${query}"，` : ''}找到 ${matches.length} 条结果`;
+  stats.textContent = `${baseStats}。`;
 
-  const fragment = document.createDocumentFragment();
-  for (const { entry } of shown) {
-    const li = document.createElement('li');
+  function renderChunk(start) {
+    if (taskToken !== renderTaskToken) return;
 
-    const wordSpan = document.createElement('span');
-    wordSpan.className = 'entry-word';
+    const end = Math.min(start + RENDER_CHUNK_SIZE, shown.length);
+    const fragment = document.createDocumentFragment();
 
-    const wordLink = document.createElement('a');
-    wordLink.href = LINK_PREFIX + entryLink(entry);
-    wordLink.target = '_blank';
-    wordLink.rel = 'noopener';
-    wordLink.innerHTML = highlight(fmtWord(entry[W]), terms);
-    wordSpan.appendChild(wordLink);
+    for (let i = start; i < end; i++) {
+      const entry = shown[i].entry;
+      const li = document.createElement('li');
 
-    const pinyinCode = document.createElement('code');
-    pinyinCode.className = 'entry-pinyin';
-    pinyinCode.innerHTML = highlight(entry[P], terms);
+      const wordSpan = document.createElement('span');
+      wordSpan.className = 'entry-word';
 
-    const sourcesSpan = document.createElement('span');
-    sourcesSpan.className = 'entry-sources';
-    for (const src of entry[S]) {
-      const tag = document.createElement('span');
-      tag.className = 'entry-source-tag src-' + src;
-      tag.textContent = src;
-      sourcesSpan.appendChild(tag);
+      const wordLink = document.createElement('a');
+      wordLink.href = LINK_PREFIX + entryLink(entry);
+      wordLink.target = '_blank';
+      wordLink.rel = 'noopener';
+      wordLink.innerHTML = highlight(fmtWord(entry[W]), terms);
+      wordSpan.appendChild(wordLink);
+
+      const pinyinCode = document.createElement('code');
+      pinyinCode.className = 'entry-pinyin';
+      pinyinCode.innerHTML = highlight(entry[P], terms);
+
+      const sourcesSpan = document.createElement('span');
+      sourcesSpan.className = 'entry-sources';
+      for (const src of entry[S]) {
+        const tag = document.createElement('span');
+        tag.className = 'entry-source-tag src-' + src;
+        tag.textContent = src;
+        sourcesSpan.appendChild(tag);
+      }
+
+      const meaningDiv = document.createElement('div');
+      meaningDiv.className = 'entry-meaning';
+      meaningDiv.innerHTML = highlight(renderMeaning(entry[M]), terms);
+
+      const header = document.createElement('div');
+      header.appendChild(wordSpan);
+      header.appendChild(document.createTextNode(' '));
+      header.appendChild(pinyinCode);
+      header.appendChild(sourcesSpan);
+
+      li.appendChild(header);
+      li.appendChild(meaningDiv);
+      fragment.appendChild(li);
     }
 
-    const meaningDiv = document.createElement('div');
-    meaningDiv.className = 'entry-meaning';
-    meaningDiv.innerHTML = highlight(entry[M], terms);
+    resultsList.appendChild(fragment);
 
-    const header = document.createElement('div');
-    header.appendChild(wordSpan);
-    header.appendChild(document.createTextNode(' '));
-    header.appendChild(pinyinCode);
-    header.appendChild(sourcesSpan);
-
-    li.appendChild(header);
-    li.appendChild(meaningDiv);
-    fragment.appendChild(li);
+    if (end < shown.length) {
+      requestAnimationFrame(() => renderChunk(end));
+    }
   }
 
-  resultsList.innerHTML = '';
-  resultsList.appendChild(fragment);
+  requestAnimationFrame(() => renderChunk(0));
 }
 
 // Alpha-bar navigation
 let activeLetter = null;
 document.getElementById('alphaBar').addEventListener('click', e => {
+  const randomBtn = e.target.closest('#randomBtn');
+  if (randomBtn) {
+    e.preventDefault();
+    // Show 10 random entries
+    if (DATA.length === 0) return;
+    input.value = '';
+    activeLetter = null;
+    regionSelect.value = '';
+    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
+    // Get 10 random entries
+    const randomIndices = new Set();
+    while (randomIndices.size < Math.min(10, DATA.length)) {
+      randomIndices.add(Math.floor(Math.random() * DATA.length));
+    }
+    // Display random entries
+    resultsList.innerHTML = '';
+    for (const idx of randomIndices) {
+      const entry = DATA[idx];
+      const li = document.createElement('li');
+      const wordSpan = document.createElement('span');
+      wordSpan.className = 'entry-word';
+      const wordLink = document.createElement('a');
+      wordLink.href = LINK_PREFIX + entryLink(entry);
+      wordLink.target = '_blank';
+      wordLink.rel = 'noopener';
+      wordLink.innerHTML = fmtWord(entry[W]);
+      wordSpan.appendChild(wordLink);
+      const pinyinCode = document.createElement('code');
+      pinyinCode.className = 'entry-pinyin';
+      pinyinCode.innerHTML = entry[P];
+      const sourcesSpan = document.createElement('span');
+      sourcesSpan.className = 'entry-sources';
+      for (const src of entry[S]) {
+        const tag = document.createElement('span');
+        tag.className = 'entry-source-tag src-' + src;
+        tag.textContent = src;
+        sourcesSpan.appendChild(tag);
+      }
+      const meaningDiv = document.createElement('div');
+      meaningDiv.className = 'entry-meaning';
+      meaningDiv.innerHTML = renderMeaning(entry[M]);
+      const header = document.createElement('div');
+      header.appendChild(wordSpan);
+      header.appendChild(document.createTextNode(' '));
+      header.appendChild(pinyinCode);
+      header.appendChild(sourcesSpan);
+      li.appendChild(header);
+      li.appendChild(meaningDiv);
+      resultsList.appendChild(li);
+    }
+    stats.textContent = `随机词条`;
+    return;
+  }
+
+  const recentBtn = e.target.closest('#recentBtn');
+  if (recentBtn) {
+    e.preventDefault();
+    // Show recently modified entries
+    if (RECENT_DATA.length === 0) {
+      stats.textContent = '暂无最近修改的词条';
+      resultsList.innerHTML = '';
+      return;
+    }
+    input.value = '';
+    activeLetter = null;
+    regionSelect.value = '';
+    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
+    // Display recent entries by indices
+    resultsList.innerHTML = '';
+    for (const idx of RECENT_DATA) {
+      const entry = DATA[idx];
+      const li = document.createElement('li');
+      const wordSpan = document.createElement('span');
+      wordSpan.className = 'entry-word';
+      const wordLink = document.createElement('a');
+      wordLink.href = LINK_PREFIX + entryLink(entry);
+      wordLink.target = '_blank';
+      wordLink.rel = 'noopener';
+      wordLink.innerHTML = fmtWord(entry[W]);
+      wordSpan.appendChild(wordLink);
+      const pinyinCode = document.createElement('code');
+      pinyinCode.className = 'entry-pinyin';
+      pinyinCode.innerHTML = entry[P];
+      const sourcesSpan = document.createElement('span');
+      sourcesSpan.className = 'entry-sources';
+      for (const src of entry[S]) {
+        const tag = document.createElement('span');
+        tag.className = 'entry-source-tag src-' + src;
+        tag.textContent = src;
+        sourcesSpan.appendChild(tag);
+      }
+      const meaningDiv = document.createElement('div');
+      meaningDiv.className = 'entry-meaning';
+      meaningDiv.innerHTML = renderMeaning(entry[M]);
+      const header = document.createElement('div');
+      header.appendChild(wordSpan);
+      header.appendChild(document.createTextNode(' '));
+      header.appendChild(pinyinCode);
+      header.appendChild(sourcesSpan);
+      li.appendChild(header);
+      li.appendChild(meaningDiv);
+      resultsList.appendChild(li);
+    }
+    stats.textContent = `最近修改的 ${RECENT_DATA.length} 个词条`;
+    return;
+  }
+  
   const a = e.target.closest('a[data-letter]');
   if (!a) return;
   e.preventDefault();
@@ -796,7 +1140,7 @@ input.addEventListener('input', triggerSearch);
 regionSelect.addEventListener('change', triggerSearch);
 
 // Init stats
-stats.textContent = `共收录 ${DATA.length} 条词条，请输入关键词搜索或点击音序。`;
+stats.textContent = `共收录 ${DATA.length} 个词，请输入关键词搜索或点击音序。`;
 
 // Support URL ?q= parameter
 const urlParams = new URLSearchParams(window.location.search);
@@ -816,13 +1160,35 @@ def main():
     entries = collect_all_entries()
     print(f"Collected {len(entries)} entries.")
 
+    print("Collecting recently modified entries...")
+    recent_entries = get_recent_entries()
+    print(f"Collected {len(recent_entries)} recent entries.")
+
+    # Find indices of recent entries in the full entries list
+    # Build a map from (word, pinyin) to indices for matching
+    entry_key_to_indices = {}
+    for i, entry in enumerate(entries):
+        key = (entry[0], entry[1])  # (word, pinyin)
+        if key not in entry_key_to_indices:
+            entry_key_to_indices[key] = []
+        entry_key_to_indices[key].append(i)
+    
+    recent_indices = []
+    for recent_entry in recent_entries:
+        key = (recent_entry[0], recent_entry[1])
+        if key in entry_key_to_indices:
+            # Use the first matching index
+            idx = entry_key_to_indices[key][0]
+            recent_indices.append(idx)
+    
     data_json = json.dumps(entries, ensure_ascii=False, separators=(',', ':'))
+    recent_data_json = json.dumps(recent_indices, ensure_ascii=False, separators=(',', ':'))
 
     from datetime import datetime
     from zoneinfo import ZoneInfo
     timestamp = datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y年%m月%d号%-H点更新")
 
-    html = HTML_TEMPLATE.replace('__DATA_JSON__', data_json).replace('__TIMESTAMP__', timestamp)
+    html = HTML_TEMPLATE.replace('__DATA_JSON__', data_json).replace('__RECENT_DATA_JSON__', recent_data_json).replace('__TIMESTAMP__', timestamp)
 
     out_path = os.path.join("docs", "search.html")
     os.makedirs("docs", exist_ok=True)
