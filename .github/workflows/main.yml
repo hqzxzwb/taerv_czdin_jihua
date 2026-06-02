@@ -23,6 +23,10 @@ jobs:
       - name: Set search page as index
         run: cp docs/search.html docs/index.html
 
+      - name: Deploy to SF
+        run: |
+          sshpass -p '${{ secrets.SF_PASSWORD }}' scp -o StrictHostKeyChecking=no docs/index.html ${{ secrets.SF_USERNAME }}@web.sourceforge.net:/home/project-web/taerv/htdocs
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.6.1
         with:
