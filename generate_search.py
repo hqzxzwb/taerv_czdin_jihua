@@ -37,6 +37,9 @@ CzYSubMeaning = namedtuple('CzYSubMeaning', ['source', 'pien_ien', 'supplement',
 ORDERS = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚"
 LINK_PREFIX = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/"
 PY_FORMAT = re.compile(r"^([bpmfdtnlgkhjqxzcsr]|[zcs]h|ng|dd)?([aoeivuyrzm]+|ng)[nh]?[0-9]?$")
+SOURCE_NAMES = ["如皋", "如东", "兴化", "东台", "泰兴", "泰州", "泰县", "通用"]
+SOURCE_NAME_TO_ID = {name: i for i, name in enumerate(SOURCE_NAMES)}
+DEFAULT_SOURCE_ID = SOURCE_NAME_TO_ID["通用"]
 
 
 def parse_pinyin(pinyin):
@@ -206,6 +209,11 @@ def build_meaning_text(meanings, spec):
     return "  ".join(parts)
 
 
+def encode_sources(source_tags):
+    """Encode source names to compact numeric IDs for smaller JSON payload."""
+    return sorted({SOURCE_NAME_TO_ID.get(tag, DEFAULT_SOURCE_ID) for tag in source_tags})
+
+
 def collect_all_entries():
     """Parse all source .md files and return list of entry dicts for JSON embedding."""
     dirs = string.ascii_lowercase.replace('w', '')
@@ -271,12 +279,15 @@ def collect_all_entries():
                 if not word_display:
                     word_display = w.raw_text
 
+                # Compress pinyin for JSON payload: remove spaces between tone digit and next syllable initial.
+                pinyin_compact = re.sub(r'([0-9])\s+([A-Za-z])', r'\1\2', w.pien_ien)
+
                 entry = [
                     word_display,          # [0] word: erhua 儿 stored as 'ʳ', ligature with ʰ
-                    w.pien_ien,            # [1] pinyin
+                    pinyin_compact,        # [1] compact pinyin (render-side restores syllable spaces)
                     meaning_text,          # [2] meaning
                     w.raw_text,            # [3] raw_text (used to build link in JS)
-                    sorted(source_tags),   # [4] sources
+                    encode_sources(source_tags),  # [4] sources encoded as numeric IDs
                 ]
                 entries.append(entry)
 
@@ -446,13 +457,15 @@ def get_recent_entries(limit=10):
                                 word_display += raw_cz
                         if not word_display:
                             word_display = w.raw_text
+
+                        pinyin_compact = re.sub(r'([0-9])\s+([A-Za-z])', r'\1\2', w.pien_ien)
                         
                         entry = [
                             word_display,
-                            w.pien_ien,
+                            pinyin_compact,
                             meaning_text,
                             w.raw_text,
-                            sorted(source_tags),
+                            encode_sources(source_tags),
                         ]
                         recent_entries_list.append(entry)
                         
@@ -471,688 +484,13 @@ def get_recent_entries(limit=10):
         return []
 
 
-HTML_TEMPLATE = r"""<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>泰如辞典</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+TEMPLATE_PATH = os.path.join(os.path.dirname(__file__), "search_template.html")
 
-    body {
-      font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
-      background: #f0f4f8;
-      color: #1a2433;
-      min-height: 100vh;
-    }
 
-    header {
-      background: #1e3a5f;
-      color: #e8f0fb;
-      padding: 1.2rem 1.5rem;
-      display: flex;
-      align-items: baseline;
-      justify-content: center;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
+def load_html_template():
+    with open(TEMPLATE_PATH, "r", encoding="utf-8") as f:
+        return f.read()
 
-    header h1 {
-      font-size: 1.6rem;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-    }
-
-    header h1 a {
-      color: inherit;
-      text-decoration: none;
-    }
-
-    header a.old-home {
-      color: #a8c4e8;
-      font-size: 0.85rem;
-      text-decoration: none;
-    }
-
-    header a.old-home:hover {
-      text-decoration: underline;
-    }
-
-    .header-links {
-      background: #1e3a5f;
-      padding: 0.3rem 1rem;
-      display: flex;
-      justify-content: center;
-      gap: 1.5rem;
-      border-top: 1px solid #2d5a8e;
-    }
-
-    .header-links a {
-      color: #a8c4e8;
-      font-size: 0.85rem;
-      text-decoration: none;
-    }
-
-    .header-links a:hover {
-      text-decoration: underline;
-    }
-
-    .alpha-bar {
-      background: #1e3a5f;
-      padding: 0.4rem 0.5rem;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.25rem;
-      justify-content: center;
-    }
-
-    .alpha-bar a {
-      color: #a8c4e8;
-      text-decoration: none;
-      font-size: 1rem;
-      font-family: "Consolas", "Courier New", monospace;
-      padding: 0.2em 0.35em;
-      border-radius: 3px;
-      transition: background 0.15s, color 0.15s;
-    }
-
-    @media (hover: hover) {
-      .alpha-bar a:hover {
-        background: #a8c4e8;
-        color: #1e3a5f;
-      }
-    }
-
-    .alpha-bar a.active {
-      background: #a8c4e8;
-      color: #1e3a5f;
-    }
-
-    .search-bar {
-      max-width: 700px;
-      margin: 2rem auto 1rem;
-      padding: 0 1rem;
-    }
-
-    .search-bar label {
-      display: block;
-      font-size: 0.85rem;
-      color: #4a6a8a;
-      margin-bottom: 0.4rem;
-    }
-
-    .search-row {
-      display: flex;
-      gap: 0.5rem;
-    }
-
-    .search-bar input {
-      flex: 1;
-      min-width: 0;
-      padding: 0.65rem 1rem;
-      font-size: 1.1rem;
-      border: 2px solid #7aabcc;
-      border-radius: 6px;
-      background: #f8fbff;
-      color: #1a2433;
-      outline: none;
-      transition: border-color 0.2s;
-      font-family: inherit;
-    }
-
-    .search-bar input:focus {
-      border-color: #1e3a5f;
-    }
-
-    #region {
-      padding: 0.65rem 0.6rem;
-      font-size: 0.95rem;
-      border: 2px solid #7aabcc;
-      border-radius: 6px;
-      background: #f8fbff;
-      color: #1a2433;
-      outline: none;
-      cursor: pointer;
-      font-family: inherit;
-      transition: border-color 0.2s;
-    }
-
-    #region:focus {
-      border-color: #1e3a5f;
-    }
-
-    .stats {
-      max-width: 700px;
-      margin: 0 auto 1rem;
-      padding: 0 1rem;
-      font-size: 0.85rem;
-      color: #4a6a8a;
-    }
-
-    #results {
-      max-width: 700px;
-      margin: 0 auto 3rem;
-      padding: 0 1rem;
-      list-style: none;
-    }
-
-    #results li {
-      background: #f8fbff;
-      border: 1px solid #c0d8ee;
-      border-radius: 6px;
-      padding: 0.9rem 1.1rem;
-      margin-bottom: 0.7rem;
-      line-height: 1.7;
-      transition: box-shadow 0.15s;
-    }
-
-    #results li:hover {
-      box-shadow: 0 2px 8px rgba(30,58,95,0.12);
-    }
-
-    .entry-word {
-      font-size: 1.2rem;
-      font-weight: 700;
-      margin-right: 0.5rem;
-    }
-
-    .entry-word a {
-      color: #1e3a5f;
-      text-decoration: none;
-    }
-
-    .entry-word a:hover { text-decoration: underline; }
-
-    .entry-pinyin {
-      font-family: "Consolas", "Courier New", monospace;
-      font-size: 0.9rem;
-      color: #4a6a8a;
-      background: none;
-    }
-
-    .entry-sources {
-      display: inline-flex;
-      flex-wrap: wrap;
-      gap: 0.3rem;
-      margin-left: 0.4rem;
-      vertical-align: middle;
-    }
-
-    .entry-source-tag {
-      font-size: 0.7rem;
-      color: #1a3a5a;
-      border-radius: 3px;
-      padding: 0.05em 0.4em;
-    }
-    .src-如皋  { background: #d4edda; color: #1a5c2a; }
-    .src-如东  { background: #d1ecf1; color: #0c5460; }
-    .src-兴化  { background: #fff3cd; color: #856404; }
-    .src-东台  { background: #fde8d8; color: #7a3010; }
-    .src-泰兴  { background: #e2d9f3; color: #3d1a78; }
-    .src-泰州  { background: #fcd8e0; color: #7a1a30; }
-    .src-泰县  { background: #d8eafd; color: #1a3a7a; }
-    .src-通用  { background: #e8e8e8; color: #444444; }
-
-    .entry-meaning {
-      margin-top: 0.35rem;
-      font-size: 0.95rem;
-      color: #1e2d3e;
-    }
-
-    .entry-meaning span.entry-example {
-      font-family: "Noto Serif", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", "STZhongsong", Georgia, "Times New Roman", serif;
-      font-size: 0.8em;
-      color: #3d4d60;
-      background: transparent;
-      padding: 0;
-      margin: 0 0.15em;
-    }
-
-    u { text-decoration: underline; }
-
-    .entry-word sub {
-      vertical-align: baseline;
-      font-size: 0.65em;
-    }
-
-    mark {
-      background: #b3d9ff;
-      color: inherit;
-      border-radius: 2px;
-      padding: 0 1px;
-    }
-
-    .no-results {
-      text-align: center;
-      color: #4a6a8a;
-      padding: 3rem 1rem;
-      font-size: 1rem;
-    }
-
-    footer {
-      text-align: center;
-      padding: 1.5rem;
-      font-size: 0.8rem;
-      color: #4a6a8a;
-      border-top: 1px solid #c0d8ee;
-    }
-  </style>
-</head>
-<body>
-
-<header>
-  <h1><a href="https://github.com/hqzxzwb/taerv_czdin_jihua" target="_blank" rel="noopener">泰如辞典</a></h1>
-</header>
-
-<div class="header-links">
-  <a href="https://hqzxzwb.github.io/taerv_czdin_jihua/home.html" target="_blank" rel="noopener">旧版主页</a>
-  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNjEwMjM0OQ==&action=getalbum&album_id=2505440559352791041" target="_blank" rel="noopener">拼音方案</a>
-</div>
-
-<nav class="alpha-bar" id="alphaBar">
-  <a href="#" data-letter="A">A</a>
-  <a href="#" data-letter="B">B</a>
-  <a href="#" data-letter="C">C</a>
-  <a href="#" data-letter="D">D</a>
-  <a href="#" data-letter="E">E</a>
-  <a href="#" data-letter="F">F</a>
-  <a href="#" data-letter="G">G</a>
-  <a href="#" data-letter="H">H</a>
-  <a href="#" data-letter="I">I</a>
-  <a href="#" data-letter="J">J</a>
-  <a href="#" data-letter="K">K</a>
-  <a href="#" data-letter="L">L</a>
-  <a href="#" data-letter="M">M</a>
-  <a href="#" data-letter="N">N</a>
-  <a href="#" data-letter="O">O</a>
-  <a href="#" data-letter="P">P</a>
-  <a href="#" data-letter="Q">Q</a>
-  <a href="#" data-letter="R">R</a>
-  <a href="#" data-letter="S">S</a>
-  <a href="#" data-letter="T">T</a>
-  <a href="#" data-letter="U">U</a>
-  <a href="#" data-letter="V">V</a>
-  <a href="#" data-letter="X">X</a>
-  <a href="#" data-letter="Y">Y</a>
-  <a href="#" data-letter="Z">Z</a>
-  <a href="#" id="randomBtn" title="随机词条">随机</a>
-  <a href="#" id="recentBtn" title="最近修改">最近</a>
-</nav>
-
-<div class="search-bar">
-  <div class="search-row">
-    <input type="search" id="q" placeholder="例：摞 / lu6 / 叠放" autocomplete="off" autofocus>
-    <select id="region">
-      <option value="">不限</option>
-      <option value="如皋">如皋</option>
-      <option value="如东">如东</option>
-      <option value="兴化">兴化</option>
-      <option value="东台">东台</option>
-      <option value="泰兴">泰兴</option>
-      <option value="泰州">泰州</option>
-      <option value="泰县">泰县</option>
-      <option value="通用">通用</option>
-    </select>
-  </div>
-</div>
-
-<p class="stats" id="stats">正在加载方言辞典，请加载完成后再搜索。</p>
-
-<ul id="results"></ul>
-
-<footer><a href="https://github.com/hqzxzwb/taerv_czdin_jihua" target="_blank" rel="noopener">泰如辞典</a> __TIMESTAMP__</footer>
-
-<script>
-// ── Embedded dictionary data ──
-const LINK_PREFIX = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/";
-const DATA = __DATA_JSON__;
-const RECENT_DATA = __RECENT_DATA_JSON__;
-
-// ── Search logic ──
-const input = document.getElementById('q');
-const regionSelect = document.getElementById('region');
-const resultsList = document.getElementById('results');
-const stats = document.getElementById('stats');
-let renderTaskToken = 0;
-const RENDER_CHUNK_SIZE = 80;
-
-function escapeRe(s) {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
-// Entry array indices
-const W = 0, P = 1, M = 2, T = 3, S = 4;
-
-function entryLink(entry) {
-  // Derive filename from first pinyin reading: strip tone digits, replace spaces with _
-  const firstReading = entry[P].split(',')[0].trim();
-  const filename = firstReading.replace(/[0-9]/g, '').replace(/ +/g, '_');
-  const dir = filename[0].toLowerCase();
-  const anchor = entry[T];
-  return dir + '/' + filename + '.md#' + anchor;
-}
-
-function fmtWord(raw) {
-  // ʰ marks a ligature: underline the two chars before ʰ, hide ʰ itself
-  let s = raw.replace(/(.)(.)ʰ/g, '<u>$1$2</u>');
-  // ʳ replaces erhua 儿: render as subscript 儿
-  s = s.replace(/\u02b3/g, '<sub>儿</sub>');
-  return s;
-}
-
-function highlight(text, terms) {
-  if (!terms.length) return text;
-  const pattern = new RegExp('(' + terms.map(escapeRe).join('|') + ')', 'gi');
-  // Split on HTML tags, escape and highlight only text nodes
-  return text.split(/(<[^>]+>)/).map(part => {
-    if (part.startsWith('<')) return part; // keep tags as-is
-    const escaped = part.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    return escaped.replace(pattern, '<mark>$1</mark>');
-  }).join('');
-}
-
-function renderMeaning(text) {
-  // Convert stored {example} blocks to styled inline code
-  return text.replace(/\{([^{}]+)\}/g, '<span class="entry-example">$1</span>');
-}
-
-function score(entry, terms) {
-  // Return a relevance score; higher is better
-  let s = 0;
-  for (const t of terms) {
-    const tl = t.toLowerCase();
-    const w = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿');
-    const wNoR = entry[W].replace(/[\u02b0\u02b3]/g, '');
-    if (w.includes(t) || wNoR.includes(t)) s += 10;
-    if (entry[P].toLowerCase().includes(tl)) s += 5;
-    if (entry[M].includes(t)) s += 1;
-  }
-  return s;
-}
-
-function search(query) {
-  const taskToken = ++renderTaskToken;
-  query = query.trim();
-  if (!query && !activeLetter) {
-    resultsList.innerHTML = '';
-    stats.textContent = `共收录 ${DATA.length} 个词，请输入关键词搜索或点击音序。`;
-    return;
-  }
-
-  // Split on whitespace for multi-term search
-  const terms = query.split(/\s+/).filter(Boolean);
-
-  // If query is purely pinyin-like (letters + digits only), use syllable-aware matching:
-  // split both query and pinyin by spaces, require query tokens to appear as a
-  // consecutive subsequence in pinyin tokens where each query token is a prefix
-  // of the corresponding pinyin token (e.g. "fen m" matches "fen1 men2" but not "ben fen").
-  const isPinyinPhrase = /^[a-zA-Z0-9 ]+$/.test(query);
-  const pinyinTerms = isPinyinPhrase ? terms.map(t => t.toLowerCase()) : null;
-
-  const region = regionSelect.value;
-  const letter = activeLetter;
-
-  const matches = [];
-  for (const entry of DATA) {
-    // Filter by region
-    if (region && !entry[S].includes(region)) continue;
-
-    // Filter by initial letter of pinyin
-    if (letter && entry[P][0].toUpperCase() !== letter) continue;
-
-    const combined = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿') + ' ' + entry[P] + ' ' + entry[M];
-    const combinedNoR = entry[W].replace(/[\u02b0\u02b3]/g, '') + ' ' + entry[P] + ' ' + entry[M];
-    const combinedLower = combined.toLowerCase();
-    const combinedNoRLower = combinedNoR.toLowerCase();
-
-    // For pinyin queries, require query tokens to appear consecutively in the
-    // pinyin token list, each as a prefix of the corresponding pinyin syllable.
-    if (pinyinTerms) {
-      const pyTokens = entry[P].toLowerCase().split(/\s+/);
-      let found = false;
-      for (let i = 0; i <= pyTokens.length - pinyinTerms.length; i++) {
-        if (pinyinTerms.every((qt, j) => pyTokens[i + j].startsWith(qt))) {
-          found = true;
-          break;
-        }
-      }
-      if (!found) continue;
-    } else {
-      // Non-pinyin query: check each term matches somewhere (with or without erhua 儿)
-      const allMatch = terms.every(t => {
-        const tl = t.toLowerCase();
-        return combinedLower.includes(tl) || combinedNoRLower.includes(tl);
-      });
-      if (!allMatch) continue;
-    }
-
-    matches.push({ entry, s: score(entry, terms) });
-  }
-
-  // Sort by score descending, then by word length ascending
-  matches.sort((a, b) => b.s - a.s || a.entry[W].length - b.entry[W].length);
-
-  const letterHint = letter ? `【${letter}】` : '';
-
-  if (matches.length === 0) {
-    resultsList.innerHTML = '<li class="no-results">未找到相关词条。</li>';
-    stats.textContent = `${letterHint}${query ? `搜索"${query}"，` : ''}共 0 条结果。`;
-    return;
-  }
-
-  const shown = matches;
-  resultsList.innerHTML = '';
-  const baseStats = `${letterHint}${query ? `搜索"${query}"，` : ''}找到 ${matches.length} 条结果`;
-  stats.textContent = `${baseStats}。`;
-
-  function renderChunk(start) {
-    if (taskToken !== renderTaskToken) return;
-
-    const end = Math.min(start + RENDER_CHUNK_SIZE, shown.length);
-    const fragment = document.createDocumentFragment();
-
-    for (let i = start; i < end; i++) {
-      const entry = shown[i].entry;
-      const li = document.createElement('li');
-
-      const wordSpan = document.createElement('span');
-      wordSpan.className = 'entry-word';
-
-      const wordLink = document.createElement('a');
-      wordLink.href = LINK_PREFIX + entryLink(entry);
-      wordLink.target = '_blank';
-      wordLink.rel = 'noopener';
-      wordLink.innerHTML = highlight(fmtWord(entry[W]), terms);
-      wordSpan.appendChild(wordLink);
-
-      const pinyinCode = document.createElement('code');
-      pinyinCode.className = 'entry-pinyin';
-      pinyinCode.innerHTML = highlight(entry[P], terms);
-
-      const sourcesSpan = document.createElement('span');
-      sourcesSpan.className = 'entry-sources';
-      for (const src of entry[S]) {
-        const tag = document.createElement('span');
-        tag.className = 'entry-source-tag src-' + src;
-        tag.textContent = src;
-        sourcesSpan.appendChild(tag);
-      }
-
-      const meaningDiv = document.createElement('div');
-      meaningDiv.className = 'entry-meaning';
-      meaningDiv.innerHTML = highlight(renderMeaning(entry[M]), terms);
-
-      const header = document.createElement('div');
-      header.appendChild(wordSpan);
-      header.appendChild(document.createTextNode(' '));
-      header.appendChild(pinyinCode);
-      header.appendChild(sourcesSpan);
-
-      li.appendChild(header);
-      li.appendChild(meaningDiv);
-      fragment.appendChild(li);
-    }
-
-    resultsList.appendChild(fragment);
-
-    if (end < shown.length) {
-      requestAnimationFrame(() => renderChunk(end));
-    }
-  }
-
-  requestAnimationFrame(() => renderChunk(0));
-}
-
-// Alpha-bar navigation
-let activeLetter = null;
-document.getElementById('alphaBar').addEventListener('click', e => {
-  const randomBtn = e.target.closest('#randomBtn');
-  if (randomBtn) {
-    e.preventDefault();
-    // Show 10 random entries
-    if (DATA.length === 0) return;
-    input.value = '';
-    activeLetter = null;
-    regionSelect.value = '';
-    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
-    // Get 10 random entries
-    const randomIndices = new Set();
-    while (randomIndices.size < Math.min(10, DATA.length)) {
-      randomIndices.add(Math.floor(Math.random() * DATA.length));
-    }
-    // Display random entries
-    resultsList.innerHTML = '';
-    for (const idx of randomIndices) {
-      const entry = DATA[idx];
-      const li = document.createElement('li');
-      const wordSpan = document.createElement('span');
-      wordSpan.className = 'entry-word';
-      const wordLink = document.createElement('a');
-      wordLink.href = LINK_PREFIX + entryLink(entry);
-      wordLink.target = '_blank';
-      wordLink.rel = 'noopener';
-      wordLink.innerHTML = fmtWord(entry[W]);
-      wordSpan.appendChild(wordLink);
-      const pinyinCode = document.createElement('code');
-      pinyinCode.className = 'entry-pinyin';
-      pinyinCode.innerHTML = entry[P];
-      const sourcesSpan = document.createElement('span');
-      sourcesSpan.className = 'entry-sources';
-      for (const src of entry[S]) {
-        const tag = document.createElement('span');
-        tag.className = 'entry-source-tag src-' + src;
-        tag.textContent = src;
-        sourcesSpan.appendChild(tag);
-      }
-      const meaningDiv = document.createElement('div');
-      meaningDiv.className = 'entry-meaning';
-      meaningDiv.innerHTML = renderMeaning(entry[M]);
-      const header = document.createElement('div');
-      header.appendChild(wordSpan);
-      header.appendChild(document.createTextNode(' '));
-      header.appendChild(pinyinCode);
-      header.appendChild(sourcesSpan);
-      li.appendChild(header);
-      li.appendChild(meaningDiv);
-      resultsList.appendChild(li);
-    }
-    stats.textContent = `随机词条`;
-    return;
-  }
-
-  const recentBtn = e.target.closest('#recentBtn');
-  if (recentBtn) {
-    e.preventDefault();
-    // Show recently modified entries
-    if (RECENT_DATA.length === 0) {
-      stats.textContent = '暂无最近修改的词条';
-      resultsList.innerHTML = '';
-      return;
-    }
-    input.value = '';
-    activeLetter = null;
-    regionSelect.value = '';
-    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
-    // Display recent entries by indices
-    resultsList.innerHTML = '';
-    for (const idx of RECENT_DATA) {
-      const entry = DATA[idx];
-      const li = document.createElement('li');
-      const wordSpan = document.createElement('span');
-      wordSpan.className = 'entry-word';
-      const wordLink = document.createElement('a');
-      wordLink.href = LINK_PREFIX + entryLink(entry);
-      wordLink.target = '_blank';
-      wordLink.rel = 'noopener';
-      wordLink.innerHTML = fmtWord(entry[W]);
-      wordSpan.appendChild(wordLink);
-      const pinyinCode = document.createElement('code');
-      pinyinCode.className = 'entry-pinyin';
-      pinyinCode.innerHTML = entry[P];
-      const sourcesSpan = document.createElement('span');
-      sourcesSpan.className = 'entry-sources';
-      for (const src of entry[S]) {
-        const tag = document.createElement('span');
-        tag.className = 'entry-source-tag src-' + src;
-        tag.textContent = src;
-        sourcesSpan.appendChild(tag);
-      }
-      const meaningDiv = document.createElement('div');
-      meaningDiv.className = 'entry-meaning';
-      meaningDiv.innerHTML = renderMeaning(entry[M]);
-      const header = document.createElement('div');
-      header.appendChild(wordSpan);
-      header.appendChild(document.createTextNode(' '));
-      header.appendChild(pinyinCode);
-      header.appendChild(sourcesSpan);
-      li.appendChild(header);
-      li.appendChild(meaningDiv);
-      resultsList.appendChild(li);
-    }
-    stats.textContent = `最近修改的 ${RECENT_DATA.length} 个词条`;
-    return;
-  }
-  
-  const a = e.target.closest('a[data-letter]');
-  if (!a) return;
-  e.preventDefault();
-  const letter = a.dataset.letter;
-  if (activeLetter === letter) {
-    // Click same letter again to deactivate
-    activeLetter = null;
-    a.classList.remove('active');
-  } else {
-    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
-    activeLetter = letter;
-    a.classList.add('active');
-  }
-  triggerSearch();
-});
-
-// Debounce input
-let timer;
-function triggerSearch() {
-  clearTimeout(timer);
-  timer = setTimeout(() => search(input.value), 200);
-}
-input.addEventListener('input', triggerSearch);
-regionSelect.addEventListener('change', triggerSearch);
-
-// Init stats
-stats.textContent = `共收录 ${DATA.length} 个词，请输入关键词搜索或点击音序。`;
-
-// Support URL ?q= parameter
-const urlParams = new URLSearchParams(window.location.search);
-const initialQuery = urlParams.get('q');
-if (initialQuery) {
-  input.value = initialQuery;
-  search(initialQuery);
-}
-</script>
-</body>
-</html>
-"""
 
 
 def main():
@@ -1183,12 +521,13 @@ def main():
     
     data_json = json.dumps(entries, ensure_ascii=False, separators=(',', ':'))
     recent_data_json = json.dumps(recent_indices, ensure_ascii=False, separators=(',', ':'))
+    source_names_json = json.dumps(SOURCE_NAMES, ensure_ascii=False, separators=(',', ':'))
 
     from datetime import datetime
     from zoneinfo import ZoneInfo
     timestamp = datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y年%m月%d号%-H点更新")
 
-    html = HTML_TEMPLATE.replace('__DATA_JSON__', data_json).replace('__RECENT_DATA_JSON__', recent_data_json).replace('__TIMESTAMP__', timestamp)
+    html = load_html_template().replace('__DATA_JSON__', data_json).replace('__RECENT_DATA_JSON__', recent_data_json).replace('__SOURCE_NAMES_JSON__', source_names_json).replace('__TIMESTAMP__', timestamp)
 
     out_path = os.path.join("docs", "search.html")
     os.makedirs("docs", exist_ok=True)

@@ -1,0 +1,934 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>泰如辞典</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+      background: #f0f4f8;
+      color: #1a2433;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1e3a5f;
+      color: #e8f0fb;
+      padding: 1.2rem 1.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 0.25rem;
+      flex-wrap: wrap;
+    }
+
+    header h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    header h1 a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .header-timestamp {
+      font-size: 0.78rem;
+      color: #a8c4e8;
+      line-height: 1.2;
+    }
+
+    header a.old-home {
+      color: #a8c4e8;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+
+    header a.old-home:hover {
+      text-decoration: underline;
+    }
+
+    .header-links {
+      background: #1e3a5f;
+      padding: 0.3rem 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      border-top: 1px solid #2d5a8e;
+    }
+
+    .header-links a {
+      color: #a8c4e8;
+      font-size: 0.85rem;
+      text-decoration: none;
+    }
+
+    .header-links a:hover {
+      text-decoration: underline;
+    }
+
+    .alpha-bar {
+      background: #1e3a5f;
+      padding: 0.4rem 0.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      justify-content: center;
+    }
+
+    .alpha-bar a {
+      color: #a8c4e8;
+      text-decoration: none;
+      font-size: 1rem;
+      font-family: "Consolas", "Courier New", monospace;
+      padding: 0.2em 0.35em;
+      border-radius: 3px;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    @media (hover: hover) {
+      .alpha-bar a:hover {
+        background: #a8c4e8;
+        color: #1e3a5f;
+      }
+    }
+
+    .alpha-bar a.active {
+      background: #a8c4e8;
+      color: #1e3a5f;
+    }
+
+    .references-wrap {
+      max-width: 700px;
+      margin: 0.6rem auto 0;
+      padding: 0 1rem;
+    }
+
+    .references-wrap details {
+      background: #f8fbff;
+      border: 1px solid #c0d8ee;
+      border-radius: 6px;
+      color: #1e2d3e;
+      overflow: hidden;
+    }
+
+    .references-wrap summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 0.55rem 0.8rem;
+      font-size: 0.9rem;
+      color: #2f4f70;
+      user-select: none;
+      background: #eef5fc;
+    }
+
+    .references-wrap summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .references-wrap summary::before {
+      content: '▸';
+      margin-right: 0.4rem;
+      display: inline-block;
+      transition: transform 0.15s;
+    }
+
+    .references-wrap details[open] summary::before {
+      transform: rotate(90deg);
+    }
+
+    .references-list {
+      padding: 0.7rem 1rem 0.85rem;
+      line-height: 1.7;
+      font-size: 0.88rem;
+      color: #32465a;
+    }
+
+    .references-list li {
+      margin-left: 1rem;
+    }
+
+    .references-list .entry-source-tag {
+      margin-right: 0.45rem;
+      vertical-align: baseline;
+    }
+
+    .references-list .ref-count {
+      margin-left: 0.35rem;
+      color: #5a738d;
+      font-size: 0.84em;
+    }
+
+    .search-bar {
+      max-width: 700px;
+      margin: 0.6rem auto 1rem;
+      padding: 0 1rem;
+    }
+
+    .search-bar label {
+      display: block;
+      font-size: 0.85rem;
+      color: #4a6a8a;
+      margin-bottom: 0.4rem;
+    }
+
+    .search-row {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .search-input-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 0;
+    }
+
+    .search-bar input {
+      width: 100%;
+      padding: 0.65rem 0.2rem;
+      padding-right: 3.9rem;
+      font-size: 1.1rem;
+      border: 2px solid #7aabcc;
+      border-radius: 6px;
+      background: #f8fbff;
+      color: #1a2433;
+      outline: none;
+      transition: border-color 0.2s;
+      font-family: inherit;
+    }
+
+    .search-bar input:focus {
+      border-color: #1e3a5f;
+    }
+
+    .head-only-toggle {
+      position: absolute;
+      right: 0.45rem;
+      top: 50%;
+      transform: translateY(-50%);
+      border: 1px solid #b7cbe0;
+      background: rgba(248, 251, 255, 0.92);
+      color: #6b86a0;
+      font-size: 0.92rem;
+      line-height: 1.05;
+      padding: 0.24rem 0.34rem;
+      border-radius: 4px;
+      cursor: pointer;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .head-only-toggle:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .head-only-toggle.active {
+      color: #ffffff;
+      background: #1e3a5f;
+      border-color: #1e3a5f;
+    }
+
+    @media (hover: hover) {
+      .head-only-toggle:not(:disabled):hover {
+        background: #e3eef9;
+      }
+
+      .head-only-toggle.active:not(:disabled):hover {
+        background: #2a4a70;
+      }
+    }
+
+    #region {
+      padding: 0.65rem 0.6rem;
+      font-size: 0.95rem;
+      border: 2px solid #7aabcc;
+      border-radius: 6px;
+      background: #f8fbff;
+      color: #1a2433;
+      outline: none;
+      cursor: pointer;
+      font-family: inherit;
+      transition: border-color 0.2s;
+    }
+
+    #region:focus {
+      border-color: #1e3a5f;
+    }
+
+    .stats {
+      max-width: 700px;
+      margin: 0 auto 1rem;
+      padding: 0 1rem;
+      font-size: 0.85rem;
+      color: #4a6a8a;
+    }
+
+    #results {
+      max-width: 700px;
+      margin: 0 auto 3rem;
+      padding: 0 1rem;
+      list-style: none;
+    }
+
+    #results li {
+      background: #f8fbff;
+      border: 1px solid #c0d8ee;
+      border-radius: 6px;
+      padding: 0.9rem 1.1rem;
+      margin-bottom: 0.7rem;
+      line-height: 1.7;
+      transition: box-shadow 0.15s;
+    }
+
+    #results li:hover {
+      box-shadow: 0 2px 8px rgba(30,58,95,0.12);
+    }
+
+    .entry-word {
+      font-size: 1.2rem;
+      font-weight: 700;
+      margin-right: 0.5rem;
+    }
+
+    .entry-word a {
+      color: #1e3a5f;
+      text-decoration: none;
+    }
+
+    .entry-word a:hover { text-decoration: underline; }
+
+    .entry-pinyin {
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 0.9rem;
+      color: #4a6a8a;
+      background: none;
+    }
+
+    .entry-sources {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+    }
+
+    .entry-source-tag {
+      font-size: 0.7rem;
+      color: #1a3a5a;
+      border-radius: 3px;
+      padding: 0.05em 0.4em;
+    }
+    .src-如皋  { background: #d4edda; color: #1a5c2a; }
+    .src-如东  { background: #d1ecf1; color: #0c5460; }
+    .src-兴化  { background: #fff3cd; color: #856404; }
+    .src-东台  { background: #fde8d8; color: #7a3010; }
+    .src-泰兴  { background: #e2d9f3; color: #3d1a78; }
+    .src-泰州  { background: #fcd8e0; color: #7a1a30; }
+    .src-泰县  { background: #d8eafd; color: #1a3a7a; }
+    .src-通用  { background: #e8e8e8; color: #444444; }
+
+    .entry-meaning {
+      margin-top: 0.35rem;
+      font-size: 0.95rem;
+      color: #1e2d3e;
+    }
+
+    .entry-meaning span.entry-example {
+      font-family: "Noto Serif", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", "STZhongsong", Georgia, "Times New Roman", serif;
+      font-size: 0.8em;
+      color: #3d4d60;
+      background: transparent;
+      padding: 0;
+      margin: 0 0.15em;
+    }
+
+    u { text-decoration: underline; }
+
+    .entry-word sub {
+      vertical-align: baseline;
+      font-size: 0.65em;
+    }
+
+    mark {
+      background: #b3d9ff;
+      color: inherit;
+      border-radius: 2px;
+      padding: 0 1px;
+    }
+
+    .no-results {
+      text-align: center;
+      color: #4a6a8a;
+      padding: 3rem 1rem;
+      font-size: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.8rem;
+      color: #4a6a8a;
+      border-top: 1px solid #c0d8ee;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><a href="https://github.com/hqzxzwb/taerv_czdin_jihua" target="_blank" rel="noopener">泰如辞典</a></h1>
+  <div class="header-timestamp">__TIMESTAMP__</div>
+</header>
+
+<div class="header-links">
+  <a href="https://hqzxzwb.github.io/taerv_czdin_jihua/home.html" target="_blank" rel="noopener">旧版主页</a>
+  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNjEwMjM0OQ==&action=getalbum&album_id=2505440559352791041" target="_blank" rel="noopener">拼音方案</a>
+</div>
+
+<nav class="alpha-bar" id="alphaBar">
+  <a href="#" data-letter="A">A</a>
+  <a href="#" data-letter="B">B</a>
+  <a href="#" data-letter="C">C</a>
+  <a href="#" data-letter="D">D</a>
+  <a href="#" data-letter="E">E</a>
+  <a href="#" data-letter="F">F</a>
+  <a href="#" data-letter="G">G</a>
+  <a href="#" data-letter="H">H</a>
+  <a href="#" data-letter="I">I</a>
+  <a href="#" data-letter="J">J</a>
+  <a href="#" data-letter="K">K</a>
+  <a href="#" data-letter="L">L</a>
+  <a href="#" data-letter="M">M</a>
+  <a href="#" data-letter="N">N</a>
+  <a href="#" data-letter="O">O</a>
+  <a href="#" data-letter="P">P</a>
+  <a href="#" data-letter="Q">Q</a>
+  <a href="#" data-letter="R">R</a>
+  <a href="#" data-letter="S">S</a>
+  <a href="#" data-letter="T">T</a>
+  <a href="#" data-letter="U">U</a>
+  <a href="#" data-letter="V">V</a>
+  <a href="#" data-letter="X">X</a>
+  <a href="#" data-letter="Y">Y</a>
+  <a href="#" data-letter="Z">Z</a>
+  <a href="#" id="randomBtn" title="随机词条">随机</a>
+  <a href="#" id="recentBtn" title="最近修改">最近</a>
+</nav>
+
+<div class="references-wrap">
+  <details>
+    <summary>参考资料<span class="ref-count" id="totalEntryCount"></span></summary>
+    <ul class="references-list">
+      <li><span class="entry-source-tag src-如皋">如皋</span>如皋方言词典<span class="ref-count" data-source-name="如皋"></span></li>
+      <li><span class="entry-source-tag src-如东">如东</span>如东方言词典<span class="ref-count" data-source-name="如东"></span></li>
+      <li><span class="entry-source-tag src-兴化">兴化</span>兴化方言词典<span class="ref-count" data-source-name="兴化"></span></li>
+      <li><span class="entry-source-tag src-东台">东台</span>东台方言词典<span class="ref-count" data-source-name="东台"></span></li>
+      <li><span class="entry-source-tag src-泰兴">泰兴</span>泰兴方言辞典<span class="ref-count" data-source-name="泰兴"></span></li>
+      <li><span class="entry-source-tag src-泰州">泰州</span>泰州方言词典<span class="ref-count" data-source-name="泰州"></span></li>
+      <li><span class="entry-source-tag src-泰县">泰县</span>泰县方言志<span class="ref-count" data-source-name="泰县"></span></li>
+      <li><span class="entry-source-tag src-通用">通用</span>泰如通用词条<span class="ref-count" data-source-name="通用"></span></li>
+    </ul>
+  </details>
+</div>
+
+<div class="search-bar">
+  <div class="search-row">
+    <div class="search-input-wrap">
+      <input type="search" id="q" placeholder="正在加载，请稍候" autocomplete="off" autofocus disabled>
+      <button type="button" id="headOnlyToggle" class="head-only-toggle" aria-pressed="false" disabled>仅词头</button>
+    </div>
+    <select id="region" disabled>
+      <option value="">不限</option>
+      <option value="如皋">如皋</option>
+      <option value="如东">如东</option>
+      <option value="兴化">兴化</option>
+      <option value="东台">东台</option>
+      <option value="泰兴">泰兴</option>
+      <option value="泰州">泰州</option>
+      <option value="泰县">泰县</option>
+      <option value="通用">通用</option>
+    </select>
+  </div>
+</div>
+
+<p class="stats" id="stats"></p>
+
+<ul id="results"></ul>
+<div id="loadMoreSentinel" aria-hidden="true" style="height: 1px;"></div>
+
+<footer><a href="https://github.com/hqzxzwb/taerv_czdin_jihua" target="_blank" rel="noopener">泰如辞典</a></footer>
+
+<script>
+// ── Embedded dictionary data ──
+const LINK_PREFIX = "https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/";
+const DATA = __DATA_JSON__;
+const RECENT_DATA = __RECENT_DATA_JSON__;
+const SOURCE_NAMES = __SOURCE_NAMES_JSON__;
+
+// ── Search logic ──
+const input = document.getElementById('q');
+const headOnlyToggle = document.getElementById('headOnlyToggle');
+const regionSelect = document.getElementById('region');
+const resultsList = document.getElementById('results');
+const stats = document.getElementById('stats');
+const loadMoreSentinel = document.getElementById('loadMoreSentinel');
+const totalEntryCount = document.getElementById('totalEntryCount');
+const DEFAULT_PLACEHOLDER = '例：摞 / lu6 / 叠放';
+let renderTaskToken = 0;
+const LAZY_BATCH_SIZE = 80;
+let loadMoreObserver = null;
+let headOnlyMode = false;
+
+function escapeRe(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Entry array indices
+const W = 0, P = 1, M = 2, T = 3, S = 4;
+const REGION_TO_SOURCE_ID = Object.fromEntries(SOURCE_NAMES.map((name, i) => [name, i]));
+const DEFAULT_SOURCE_ID = REGION_TO_SOURCE_ID['通用'] ?? 0;
+
+function normalizeSourceId(source) {
+  if (typeof source === 'number' && Number.isFinite(source)) return source;
+  if (typeof source === 'string' && /^\d+$/.test(source)) return Number.parseInt(source, 10);
+  if (typeof source === 'string' && Object.prototype.hasOwnProperty.call(REGION_TO_SOURCE_ID, source)) {
+    return REGION_TO_SOURCE_ID[source];
+  }
+  return DEFAULT_SOURCE_ID;
+}
+
+function sourceNameById(sourceId) {
+  return SOURCE_NAMES[sourceId] || SOURCE_NAMES[DEFAULT_SOURCE_ID] || '通用';
+}
+
+function entrySourceIds(entry) {
+  return (entry[S] || []).map(normalizeSourceId);
+}
+
+function initReferenceCounts() {
+  const counts = new Array(SOURCE_NAMES.length).fill(0);
+  for (const entry of DATA) {
+    const ids = [...new Set(entrySourceIds(entry))];
+    for (const id of ids) {
+      if (id >= 0 && id < counts.length) {
+        counts[id] += 1;
+      }
+    }
+  }
+
+  for (const el of document.querySelectorAll('.ref-count[data-source-name]')) {
+    const sourceName = el.getAttribute('data-source-name') || '';
+    const sourceId = REGION_TO_SOURCE_ID[sourceName];
+    const count = Number.isInteger(sourceId) ? counts[sourceId] : 0;
+    el.textContent = `（${count}）`;
+  }
+}
+
+function entryLink(entry) {
+  // Derive filename from first pinyin reading: strip tone digits, replace spaces with _
+  const firstReading = formatPinyinDisplay(entry[P].split(',')[0].trim());
+  const filename = firstReading.replace(/[0-9]/g, '').replace(/ +/g, '_');
+  const dir = filename[0].toLowerCase();
+  const anchor = entry[T];
+  return dir + '/' + filename + '.md#' + anchor;
+}
+
+function formatPinyinDisplay(pinyin) {
+  return pinyin.replace(/([0-9])([A-Za-z])/g, '$1 $2');
+}
+
+function pinyinTokens(pinyin) {
+  return pinyin.toLowerCase().replace(/,/g, ' ').match(/[a-z]+[0-9]?/g) || [];
+}
+
+function fmtWord(raw) {
+  // ʰ marks a ligature: underline the two chars before ʰ, hide ʰ itself
+  let s = raw.replace(/(.)(.)ʰ/g, '<u>$1$2</u>');
+  // ʳ replaces erhua 儿: render as subscript 儿
+  s = s.replace(/\u02b3/g, '<sub>儿</sub>');
+  return s;
+}
+
+function highlight(text, terms) {
+  if (!terms.length) return text;
+  const pattern = new RegExp('(' + terms.map(escapeRe).join('|') + ')', 'gi');
+  // Split on HTML tags, escape and highlight only text nodes
+  return text.split(/(<[^>]+>)/).map(part => {
+    if (part.startsWith('<')) return part; // keep tags as-is
+    const escaped = part.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    return escaped.replace(pattern, '<mark>$1</mark>');
+  }).join('');
+}
+
+function renderMeaning(text) {
+  // Convert stored {example} blocks to styled inline code
+  return text.replace(/\{([^{}]+)\}/g, '<span class="entry-example">$1</span>');
+}
+
+function score(entry, terms) {
+  // Return a relevance score; higher is better
+  let s = 0;
+  const pinyinRawLower = entry[P].toLowerCase();
+  const pinyinShownLower = formatPinyinDisplay(entry[P]).toLowerCase();
+  for (const t of terms) {
+    const tl = t.toLowerCase();
+    const w = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿');
+    const wNoR = entry[W].replace(/[\u02b0\u02b3]/g, '');
+    if (w.includes(t) || wNoR.includes(t)) s += 10;
+    if (pinyinRawLower.includes(tl) || pinyinShownLower.includes(tl)) s += 5;
+    if (entry[M].includes(t)) s += 1;
+  }
+  return s;
+}
+
+function disconnectLazyObserver() {
+  if (loadMoreObserver) {
+    loadMoreObserver.disconnect();
+    loadMoreObserver = null;
+  }
+}
+
+function clearLazyState() {
+  disconnectLazyObserver();
+  loadMoreSentinel.style.display = 'none';
+}
+
+function renderEntry(entry, terms) {
+  const li = document.createElement('li');
+
+  const wordSpan = document.createElement('span');
+  wordSpan.className = 'entry-word';
+
+  const wordLink = document.createElement('a');
+  wordLink.href = LINK_PREFIX + entryLink(entry);
+  wordLink.target = '_blank';
+  wordLink.rel = 'noopener';
+  wordLink.innerHTML = highlight(fmtWord(entry[W]), terms);
+  wordSpan.appendChild(wordLink);
+
+  const pinyinCode = document.createElement('code');
+  pinyinCode.className = 'entry-pinyin';
+  pinyinCode.innerHTML = highlight(formatPinyinDisplay(entry[P]), terms);
+
+  const sourcesSpan = document.createElement('span');
+  sourcesSpan.className = 'entry-sources';
+  for (const srcId of entrySourceIds(entry)) {
+    const srcName = sourceNameById(srcId);
+    const tag = document.createElement('span');
+    tag.className = 'entry-source-tag src-' + srcName;
+    tag.textContent = srcName;
+    sourcesSpan.appendChild(tag);
+  }
+
+  const meaningDiv = document.createElement('div');
+  meaningDiv.className = 'entry-meaning';
+  meaningDiv.innerHTML = highlight(renderMeaning(entry[M]), terms);
+
+  const header = document.createElement('div');
+  header.appendChild(wordSpan);
+  header.appendChild(document.createTextNode(' '));
+  header.appendChild(pinyinCode);
+  header.appendChild(sourcesSpan);
+
+  li.appendChild(header);
+  li.appendChild(meaningDiv);
+  return li;
+}
+
+function search(query) {
+  const taskToken = ++renderTaskToken;
+  query = query.trim();
+
+  // Split on whitespace for multi-term search
+  const terms = query.split(/\s+/).filter(Boolean);
+  const hasQuery = terms.length > 0;
+
+  // If query is purely pinyin-like (letters + digits only), use syllable-aware matching:
+  // split both query and pinyin by spaces, require query tokens to appear as a
+  // consecutive subsequence in pinyin tokens where each query token is a prefix
+  // of the corresponding pinyin token (e.g. "fen m" matches "fen1 men2" but not "ben fen").
+  const isPinyinPhrase = hasQuery && /^[a-zA-Z0-9 ]+$/.test(query);
+  const pinyinTerms = isPinyinPhrase ? terms.map(t => t.toLowerCase()) : null;
+
+  const region = regionSelect.value;
+  const regionId = region ? REGION_TO_SOURCE_ID[region] : null;
+  const headOnly = headOnlyMode;
+  const letter = activeLetter;
+
+  const matches = [];
+  for (const entry of DATA) {
+    // Filter by region
+    if (regionId !== null && !entrySourceIds(entry).includes(regionId)) continue;
+
+    // Filter by initial letter of pinyin
+    if (letter && entry[P][0].toUpperCase() !== letter) continue;
+
+    const combined = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿') + ' ' + entry[P] + ' ' + entry[M];
+    const combinedNoR = entry[W].replace(/[\u02b0\u02b3]/g, '') + ' ' + entry[P] + ' ' + entry[M];
+    const combinedLower = combined.toLowerCase();
+    const combinedNoRLower = combinedNoR.toLowerCase();
+
+    // For pinyin queries, require query tokens to appear consecutively in the
+    // pinyin token list, each as a prefix of the corresponding pinyin syllable.
+    if (pinyinTerms) {
+      const pyTokens = pinyinTokens(entry[P]);
+      let found = false;
+      for (let i = 0; i <= pyTokens.length - pinyinTerms.length; i++) {
+        if (pinyinTerms.every((qt, j) => pyTokens[i + j].startsWith(qt))) {
+          found = true;
+          break;
+        }
+      }
+      if (!found) continue;
+    } else if (hasQuery) {
+      // Non-pinyin query: if headOnly is checked, only match entry headword.
+      const allMatch = terms.every(t => {
+        const tl = t.toLowerCase();
+        if (headOnly) {
+          const wordLower = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿').toLowerCase();
+          const wordNoRLower = entry[W].replace(/[\u02b0\u02b3]/g, '').toLowerCase();
+          return wordLower.includes(tl) || wordNoRLower.includes(tl);
+        }
+        return combinedLower.includes(tl) || combinedNoRLower.includes(tl);
+      });
+      if (!allMatch) continue;
+    }
+
+    matches.push({ entry, s: score(entry, terms) });
+  }
+
+  // Sort by score descending, then by word length ascending (only when query exists)
+  if (hasQuery) {
+    matches.sort((a, b) => b.s - a.s || a.entry[W].length - b.entry[W].length);
+  }
+
+  const letterHint = letter ? `【${letter}】` : '';
+
+  if (matches.length === 0) {
+    clearLazyState();
+    resultsList.innerHTML = '<li class="no-results">未找到相关词条。</li>';
+    stats.textContent = `${letterHint}${query ? `搜索"${query}"，` : ''}共 0 条词语。`;
+    return;
+  }
+
+  const shown = matches.map(item => item.entry);
+  resultsList.innerHTML = '';
+  const baseStats = `${letterHint}${query ? `搜索"${query}"，` : ''}找到 ${shown.length} 条词语`;
+  let rendered = 0;
+
+  function updateStats() {
+    stats.textContent = `${baseStats}。`;
+  }
+
+  function loadNextBatch() {
+    if (taskToken !== renderTaskToken) return;
+    if (rendered >= shown.length) {
+      clearLazyState();
+      updateStats();
+      return;
+    }
+
+    const end = Math.min(rendered + LAZY_BATCH_SIZE, shown.length);
+    const fragment = document.createDocumentFragment();
+    for (let i = rendered; i < end; i++) {
+      fragment.appendChild(renderEntry(shown[i], terms));
+    }
+    resultsList.appendChild(fragment);
+    rendered = end;
+    updateStats();
+
+    if (rendered >= shown.length) {
+      clearLazyState();
+    }
+  }
+
+  disconnectLazyObserver();
+  loadMoreSentinel.style.display = 'block';
+  loadMoreObserver = new IntersectionObserver((entries) => {
+    if (taskToken !== renderTaskToken) return;
+    if (entries.some(entry => entry.isIntersecting)) {
+      loadNextBatch();
+    }
+  }, {
+    root: null,
+    rootMargin: '300px 0px',
+    threshold: 0,
+  });
+  loadMoreObserver.observe(loadMoreSentinel);
+
+  loadNextBatch();
+}
+
+// Alpha-bar navigation
+let activeLetter = null;
+document.getElementById('alphaBar').addEventListener('click', e => {
+  const randomBtn = e.target.closest('#randomBtn');
+  if (randomBtn) {
+    e.preventDefault();
+    clearLazyState();
+    // Show 10 random entries
+    if (DATA.length === 0) return;
+    input.value = '';
+    activeLetter = null;
+    regionSelect.value = '';
+    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
+    // Get 10 random entries
+    const randomIndices = new Set();
+    while (randomIndices.size < Math.min(10, DATA.length)) {
+      randomIndices.add(Math.floor(Math.random() * DATA.length));
+    }
+    // Display random entries
+    resultsList.innerHTML = '';
+    for (const idx of randomIndices) {
+      const entry = DATA[idx];
+      const li = document.createElement('li');
+      const wordSpan = document.createElement('span');
+      wordSpan.className = 'entry-word';
+      const wordLink = document.createElement('a');
+      wordLink.href = LINK_PREFIX + entryLink(entry);
+      wordLink.target = '_blank';
+      wordLink.rel = 'noopener';
+      wordLink.innerHTML = fmtWord(entry[W]);
+      wordSpan.appendChild(wordLink);
+      const pinyinCode = document.createElement('code');
+      pinyinCode.className = 'entry-pinyin';
+      pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
+      const sourcesSpan = document.createElement('span');
+      sourcesSpan.className = 'entry-sources';
+      for (const srcId of entrySourceIds(entry)) {
+        const srcName = sourceNameById(srcId);
+        const tag = document.createElement('span');
+        tag.className = 'entry-source-tag src-' + srcName;
+        tag.textContent = srcName;
+        sourcesSpan.appendChild(tag);
+      }
+      const meaningDiv = document.createElement('div');
+      meaningDiv.className = 'entry-meaning';
+      meaningDiv.innerHTML = renderMeaning(entry[M]);
+      const header = document.createElement('div');
+      header.appendChild(wordSpan);
+      header.appendChild(document.createTextNode(' '));
+      header.appendChild(pinyinCode);
+      header.appendChild(sourcesSpan);
+      li.appendChild(header);
+      li.appendChild(meaningDiv);
+      resultsList.appendChild(li);
+    }
+    stats.textContent = `随机词条`;
+    return;
+  }
+
+  const recentBtn = e.target.closest('#recentBtn');
+  if (recentBtn) {
+    e.preventDefault();
+    clearLazyState();
+    // Show recently modified entries
+    if (RECENT_DATA.length === 0) {
+      stats.textContent = '暂无最近修改的词条';
+      resultsList.innerHTML = '';
+      return;
+    }
+    input.value = '';
+    activeLetter = null;
+    regionSelect.value = '';
+    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
+    // Display recent entries by indices
+    resultsList.innerHTML = '';
+    for (const idx of RECENT_DATA) {
+      const entry = DATA[idx];
+      const li = document.createElement('li');
+      const wordSpan = document.createElement('span');
+      wordSpan.className = 'entry-word';
+      const wordLink = document.createElement('a');
+      wordLink.href = LINK_PREFIX + entryLink(entry);
+      wordLink.target = '_blank';
+      wordLink.rel = 'noopener';
+      wordLink.innerHTML = fmtWord(entry[W]);
+      wordSpan.appendChild(wordLink);
+      const pinyinCode = document.createElement('code');
+      pinyinCode.className = 'entry-pinyin';
+      pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
+      const sourcesSpan = document.createElement('span');
+      sourcesSpan.className = 'entry-sources';
+      for (const srcId of entrySourceIds(entry)) {
+        const srcName = sourceNameById(srcId);
+        const tag = document.createElement('span');
+        tag.className = 'entry-source-tag src-' + srcName;
+        tag.textContent = srcName;
+        sourcesSpan.appendChild(tag);
+      }
+      const meaningDiv = document.createElement('div');
+      meaningDiv.className = 'entry-meaning';
+      meaningDiv.innerHTML = renderMeaning(entry[M]);
+      const header = document.createElement('div');
+      header.appendChild(wordSpan);
+      header.appendChild(document.createTextNode(' '));
+      header.appendChild(pinyinCode);
+      header.appendChild(sourcesSpan);
+      li.appendChild(header);
+      li.appendChild(meaningDiv);
+      resultsList.appendChild(li);
+    }
+    stats.textContent = `最近修改的 ${RECENT_DATA.length} 条词语`;
+    return;
+  }
+  
+  const a = e.target.closest('a[data-letter]');
+  if (!a) return;
+  e.preventDefault();
+  const letter = a.dataset.letter;
+  if (activeLetter === letter) {
+    // Click same letter again to deactivate
+    activeLetter = null;
+    a.classList.remove('active');
+  } else {
+    document.querySelectorAll('#alphaBar a.active').forEach(el => el.classList.remove('active'));
+    activeLetter = letter;
+    a.classList.add('active');
+  }
+  triggerSearch();
+});
+
+// Debounce input
+let timer;
+function triggerSearch() {
+  clearTimeout(timer);
+  timer = setTimeout(() => search(input.value), 200);
+}
+input.addEventListener('input', triggerSearch);
+headOnlyToggle.addEventListener('click', () => {
+  headOnlyMode = !headOnlyMode;
+  headOnlyToggle.classList.toggle('active', headOnlyMode);
+  headOnlyToggle.setAttribute('aria-pressed', headOnlyMode ? 'true' : 'false');
+  triggerSearch();
+});
+regionSelect.addEventListener('change', triggerSearch);
+
+// Init stats
+stats.textContent = `共收录 ${DATA.length} 个词，请输入关键词搜索或点击音序。`;
+if (totalEntryCount) {
+  totalEntryCount.textContent = `（${DATA.length}条词）`;
+}
+initReferenceCounts();
+input.placeholder = DEFAULT_PLACEHOLDER;
+input.disabled = false;
+headOnlyToggle.disabled = false;
+regionSelect.disabled = false;
+
+// Support URL ?q= parameter
+const urlParams = new URLSearchParams(window.location.search);
+const initialQuery = urlParams.get('q');
+if (initialQuery) {
+  input.value = initialQuery;
+  search(initialQuery);
+} else {
+  search('');
+}
+</script>
+</body>
+</html>
