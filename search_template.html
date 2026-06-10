@@ -6,9 +6,20 @@
   <title>泰如辞典</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
-
+    @font-face {
+      font-family: 'P1';
+      src: url('p1.woff2') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+    }
+      @font-face {
+      font-family: 'P2';
+      src: url('p2.woff2') format('woff2');
+      font-weight: normal;
+      font-style: normal;
+    }
     body {
-      font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+      font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", "P1", "P2", sans-serif;
       background: #f0f4f8;
       color: #1a2433;
       min-height: 100vh;
@@ -340,7 +351,7 @@
     }
 
     .entry-meaning span.entry-example {
-      font-family: "Noto Serif", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", "STZhongsong", Georgia, "Times New Roman", serif;
+      font-family: "Noto Serif", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", "STZhongsong", Georgia, "Times New Roman", "P1", "P2", serif;
       font-size: 0.8em;
       color: #3d4d60;
       background: transparent;
