@@ -442,7 +442,7 @@
 1. 【[慢慢较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢较)】`maen6 maen6 jio5` <sup>[泰县]</sup> 慢一点。  
 1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen6-2 maen6-3 r` <sup>[如皋]</sup> 极慢地。  
 1. 【[慢慢暇暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_xia_xia.md#慢慢暇暇)】`maen6 maen6 xia2 xia2` <sup>[东台]</sup> 像闲暇无事般不慌不忙。  
-1. 【[慢忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup></small> ① 见“慢慢叫”。<sup>\[如皋\]</sup> ② 不要着急<sup>\[泰州\]</sup>：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
+1. 【[慢忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup>, /mɛ̃1 mɑŋ2/<sup>泰兴</sup></small> 不忙，不要着急，等一等再<sup>\[泰州\]</sup>\[如皋：参见“慢慢叫”\]\[泰兴：又音maen6 van2\]：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
 1. 【[慢吖你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_nga_nii.md#慢吖你)】`maen6 nga nii3` <sup>[如皋]</sup> 礼貌用语。慢待了，对不起。  
 1. 【[慢噋噋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ten_ten_dii.md#慢噋噋的)】`maen6 ten1 ten1 dii` <sup>[如皋]</sup> 慢吞吞的。见“噋吖噋的”。  
 1. 【[慢条斯理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_tio_sz_li.md#慢条斯理)】`maen6 tio2 sz1 li3` <sup>[如东]</sup> 从容不迫，不慌不忙。  
