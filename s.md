@@ -3004,7 +3004,7 @@
 1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` <small>/sɔ5/<sup>兴化</sup>, /sɔ5/<sup>如皋</sup></small> 快（《集韵》“先到切，快也”）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你～点儿来。<sup>\[如皋\]</sup>｜你～点儿跑，不然赶不上。<sup>\[东台\]</sup>｜～点跑。<sup>\[兴化\]</sup>｜你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>  
 1. 【[𢜶大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶大)】`so5 da` <sup>[如皋]</sup> 快，迅速。  
 1. 【[𢜶大点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da_din_r.md#𢜶大点<sub>儿</sub>)】`so5 da din3 r` <small>/sɔ5 ta tiɪ̃3 ɚ/<sup>泰县</sup></small> 快点<sup>\[泰县\]</sup>：你～来，捉住这条狗子。<sup>\[泰县\]</sup>  
-1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <sup>[兴化]</sup> 形容快捷：现在交通便利，不管到哪许总蛮～的。也作“棱剌”。  
+1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <sup>[兴化]</sup> 形容快捷：现在交通便利，不管到哪许总蛮～的。也作“𢜶剌”。  
 1. 【[𢜶点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_din_r.md#𢜶点<sub>儿</sub>)】`so5 din3 r` 快点儿，时间缩短或者速度加快一些<sup>\[泰州\]</sup>：大家手上～，这点儿活技做掉下班。<sup>\[泰州\]</sup>  
 1. 【[𢜶剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_laeh.md#𢜶剌)】`so5 laeh` <sup>[兴化]</sup> 形容快捷。  
 1. 【[𢜶市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#𢜶市)】`so5 shr6` <sup>[兴化]</sup> 指某种商品在一时一地畅销：现在正是青黄不接，粮食是～！  
