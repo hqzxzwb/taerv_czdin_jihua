@@ -195,23 +195,41 @@ def shrink_source(source):
     return re.sub(r'(方言词典|方言志|方言辞典)\d?$', '', source)
 
 
-def build_meaning_text(meanings, spec):
-    """Build plain-text explanation for a list of meanings."""
-    parts = []
-    for i, meaning in enumerate(meanings):
-        prefix = ORDERS[i] + " " if len(meanings) > 1 else ""
-        explanation = meaning.explanation
-        # Strip markdown formatting
-        explanation = re.sub(r'<[^>]+>', '', explanation)
-        explanation = re.sub(r'\[.*?\]', '', explanation)
-        explanation = explanation.strip()
-        parts.append(prefix + explanation)
-    return "  ".join(parts)
-
-
 def encode_sources(source_tags):
     """Encode source names to compact numeric IDs for smaller JSON payload."""
     return sorted({SOURCE_NAME_TO_ID.get(tag, DEFAULT_SOURCE_ID) for tag in source_tags})
+
+
+def encode_sources_with_meanings(source_to_meanings):
+    """Encode sources with their meaning indices.
+    
+    Args:
+        source_to_meanings: dict mapping source name to set/list of meaning indices (0-based)
+    
+    Returns:
+        If single source: [source_id] for backward compatibility
+        If multiple sources: dict {source_id: [meaning_indices]} where indices are 1-based
+    """
+    if not source_to_meanings:
+        return []
+    
+    # Convert source names to IDs and indices to 1-based
+    result_dict = {}
+    max_id = 0
+    for source, meaning_indices in source_to_meanings.items():
+        source_id = SOURCE_NAME_TO_ID.get(source, DEFAULT_SOURCE_ID)
+        # Convert 0-based indices to 1-based for display
+        one_based_indices = sorted([idx + 1 for idx in meaning_indices])
+        result_dict[source_id] = one_based_indices
+        if one_based_indices:
+            max_id = max(one_based_indices)
+    
+    # If only one source, keep backward compatibility
+    if len(result_dict) == 1 or max_id <= 1:
+        return list(result_dict.keys())
+    
+    # Multiple sources: return dict with source_id as string key (for JSON)
+    return {source_id: indices for source_id, indices in sorted(result_dict.items())}
 
 
 def collect_all_entries():
@@ -259,14 +277,23 @@ def collect_all_entries():
                     meaning_parts.append(prefix + explanation + example_text)
                 meaning_text = "  ".join(meaning_parts)
 
-                # Build source tags for display
-                source_tags = set()
+                # Build source tags with meaning indices
+                source_to_meanings = {}
                 if w.source:
-                    source_tags.add(shrink_source(w.source))
-                for meaning in w.meanings:
+                    source = shrink_source(w.source)
+                    if source not in source_to_meanings:
+                        source_to_meanings[source] = set()
+                    # Main source applies to all meanings
+                    for idx in range(len(w.meanings)):
+                        source_to_meanings[source].add(idx)
+                
+                for meaning_idx, meaning in enumerate(w.meanings):
                     for sub in meaning.subs:
                         if sub.source:
-                            source_tags.add(shrink_source(sub.source))
+                            source = shrink_source(sub.source)
+                            if source not in source_to_meanings:
+                                source_to_meanings[source] = set()
+                            source_to_meanings[source].add(meaning_idx)
 
                 # Build display word from mixed: erhua '儿' (pinyin=r) stored as '儿ʳ', JS renders 儿 as subscript
                 word_display = ''
@@ -287,7 +314,7 @@ def collect_all_entries():
                     pinyin_compact,        # [1] compact pinyin (render-side restores syllable spaces)
                     meaning_text,          # [2] meaning
                     w.raw_text,            # [3] raw_text (used to build link in JS)
-                    encode_sources(source_tags),  # [4] sources encoded as numeric IDs
+                    encode_sources_with_meanings(source_to_meanings),  # [4] sources with meaning indices
                 ]
                 entries.append(entry)
 
@@ -438,14 +465,22 @@ def get_recent_entries(limit=10):
                             meaning_parts.append(prefix + explanation + example_text)
                         meaning_text = "  ".join(meaning_parts)
                         
-                        # Build source tags
-                        source_tags = set()
+                        # Build source tags with meaning indices
+                        source_to_meanings = {}
                         if w.source:
-                            source_tags.add(shrink_source(w.source))
-                        for meaning in w.meanings:
+                            source = shrink_source(w.source)
+                            if source not in source_to_meanings:
+                                source_to_meanings[source] = set()
+                            for idx in range(len(w.meanings)):
+                                source_to_meanings[source].add(idx)
+                        
+                        for meaning_idx, meaning in enumerate(w.meanings):
                             for sub in meaning.subs:
                                 if sub.source:
-                                    source_tags.add(shrink_source(sub.source))
+                                    source = shrink_source(sub.source)
+                                    if source not in source_to_meanings:
+                                        source_to_meanings[source] = set()
+                                    source_to_meanings[source].add(meaning_idx)
                         
                         # Build display word
                         word_display = ''
@@ -465,7 +500,7 @@ def get_recent_entries(limit=10):
                             pinyin_compact,
                             meaning_text,
                             w.raw_text,
-                            encode_sources(source_tags),
+                            encode_sources_with_meanings(source_to_meanings),
                         ]
                         recent_entries_list.append(entry)
                         

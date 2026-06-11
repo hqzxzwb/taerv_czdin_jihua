@@ -339,6 +339,12 @@
       border-radius: 3px;
       padding: 0.05em 0.4em;
     }
+    .entry-source-index {
+      font-size: 0.7rem;
+      padding: 0px;
+      margin: 0px;
+      background-color: none;
+    }
     .src-如皋  { background: #d4edda; color: #1a5c2a; }
     .src-如东  { background: #d1ecf1; color: #0c5460; }
     .src-兴化  { background: #fff3cd; color: #856404; }
@@ -525,10 +531,54 @@ function entrySourceIds(entry) {
   return (entry[S] || []).map(normalizeSourceId);
 }
 
+// Get meaning indices for a specific source, or empty if not applicable
+function getMeaningIndicesForSource(entry, sourceId) {
+  const sources = entry[S] || [];
+  // Single source format: [id, id, ...] - no specific meanings tracked
+  if (Array.isArray(sources)) {
+    return [];
+  }
+  // Multiple sources format: {"id": [meaning_indices], ...}
+  if (typeof sources === 'object' && sources !== null) {
+    return sources[sourceId.toString()] || [];
+  }
+  return [];
+}
+
+// Convert 1-based meaning index to circled digit
+const CIRCLED_DIGITS = ['⓪', '①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩', '⑪', '⑫', '⑬', '⑭', '⑮', '⑯', '⑰', '⑱', '⑲', '⑳'];
+function meaningIndexToCircled(idx) {
+  // idx is 1-based
+  return CIRCLED_DIGITS[idx] || idx.toString();
+}
+
+// Get all sources with their meaning indices for an entry
+function getSourcesWithMeanings(entry) {
+  const sources = entry[S];
+  if (!sources) return [];
+  
+  // Single source format or array: just IDs, no meaning indices
+  if (Array.isArray(sources)) {
+    return sources.map(id => ({ id: normalizeSourceId(id), meanings: [] }));
+  }
+  
+  // Multiple sources format: dict with meaning indices
+  if (typeof sources === 'object' && sources !== null) {
+    const result = [];
+    for (const [idStr, meanings] of Object.entries(sources)) {
+      const id = Number.parseInt(idStr, 10);
+      result.push({ id: normalizeSourceId(id), meanings: meanings || [] });
+    }
+    return result;
+  }
+  
+  return [];
+}
+
 function initReferenceCounts() {
   const counts = new Array(SOURCE_NAMES.length).fill(0);
   for (const entry of DATA) {
-    const ids = [...new Set(entrySourceIds(entry))];
+    const ids = [...new Set(getSourcesWithMeanings(entry).map(item => item.id))];
     for (const id of ids) {
       if (id >= 0 && id < counts.length) {
         counts[id] += 1;
@@ -632,12 +682,19 @@ function renderEntry(entry, terms) {
 
   const sourcesSpan = document.createElement('span');
   sourcesSpan.className = 'entry-sources';
-  for (const srcId of entrySourceIds(entry)) {
-    const srcName = sourceNameById(srcId);
+  for (const { id, meanings } of getSourcesWithMeanings(entry)) {
+    const srcName = sourceNameById(id);
     const tag = document.createElement('span');
     tag.className = 'entry-source-tag src-' + srcName;
     tag.textContent = srcName;
     sourcesSpan.appendChild(tag);
+    // If there are meaning indices, append them as circled digits
+    if (meanings.length > 0) {
+      const index = document.createElement('span');
+      index.className = 'entry-source-index';
+      index.textContent = meanings.map(meaningIndexToCircled).join('');
+      sourcesSpan.appendChild(index);
+    }
   }
 
   const meaningDiv = document.createElement('div');
@@ -678,7 +735,7 @@ function search(query) {
   const matches = [];
   for (const entry of DATA) {
     // Filter by region
-    if (regionId !== null && !entrySourceIds(entry).includes(regionId)) continue;
+    if (regionId !== null && !getSourcesWithMeanings(entry).map(item => item.id).includes(regionId)) continue;
 
     // Filter by initial letter of pinyin
     if (letter && entry[P][0].toUpperCase() !== letter) continue;
@@ -815,12 +872,19 @@ document.getElementById('alphaBar').addEventListener('click', e => {
       pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
       const sourcesSpan = document.createElement('span');
       sourcesSpan.className = 'entry-sources';
-      for (const srcId of entrySourceIds(entry)) {
-        const srcName = sourceNameById(srcId);
+      for (const { id, meanings } of getSourcesWithMeanings(entry)) {
+        const srcName = sourceNameById(id);
         const tag = document.createElement('span');
         tag.className = 'entry-source-tag src-' + srcName;
         tag.textContent = srcName;
         sourcesSpan.appendChild(tag);
+        // If there are meaning indices, append them as circled digits
+        if (meanings.length > 0) {
+          const index = document.createElement('span');
+          index.className = 'entry-source-index';
+          index.textContent = meanings.map(meaningIndexToCircled).join('');
+          sourcesSpan.appendChild(index);
+        }
       }
       const meaningDiv = document.createElement('div');
       meaningDiv.className = 'entry-meaning';
@@ -870,12 +934,19 @@ document.getElementById('alphaBar').addEventListener('click', e => {
       pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
       const sourcesSpan = document.createElement('span');
       sourcesSpan.className = 'entry-sources';
-      for (const srcId of entrySourceIds(entry)) {
-        const srcName = sourceNameById(srcId);
+      for (const { id, meanings } of getSourcesWithMeanings(entry)) {
+        const srcName = sourceNameById(id);
         const tag = document.createElement('span');
         tag.className = 'entry-source-tag src-' + srcName;
         tag.textContent = srcName;
         sourcesSpan.appendChild(tag);
+        // If there are meaning indices, append them as circled digits
+        if (meanings.length > 0) {
+          const index = document.createElement('span');
+          index.className = 'entry-source-index';
+          index.textContent = meanings.map(meaningIndexToCircled).join('');
+          sourcesSpan.appendChild(index);
+        }
       }
       const meaningDiv = document.createElement('div');
       meaningDiv.className = 'entry-meaning';
