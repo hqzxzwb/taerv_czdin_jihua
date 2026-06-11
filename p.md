@@ -566,14 +566,13 @@
 1. 【[鼻涕虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_chon.md#鼻涕虫)】`pieh8 ti5 chon2` <sup>[泰州]</sup> 蛞蝓，似去壳蜗牛。  
 1. 【[鼻涕拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_ti_la_sha.md#鼻涕拉沙)】`pieh8 ti5 la sha` <sup>[如东]</sup> 不断地流鼻涕。鼻孔上粘着鼻涕巴子。  
 1. 【[鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz.md#鼻子)】`pieh8 zz` <small>/pʰiəʔ8 t͡sɿ/<sup>如皋</sup>, /pʰiɪʔ8 t͡se/<sup>泰县</sup></small> ① 鼻子 ② 鼻涕<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：流清水～。<sup>\[如皋\]</sup> ③ 喻人格、脸面<sup>\[如皋\]</sup>：你做这种事。你哿要～啊？<sup>\[如皋\]</sup> ④ 器盖的钮。<sup>\[如皋\]</sup> ⑤ 五官之一——鼻。<sup>\[泰县\]</sup>  
-1. 【[鼻子朝北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_cho_boh.md#鼻子朝北)】`pieh8 zz cho2 boh7` <sup>[如东]</sup> 人死后，尸体停放的方向是头朝南、脚朝北。比喻人已死了。  
+1. 【[鼻子朝北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_cho_boh.md#鼻子朝北)】`pieh8 zz cho2 boh7` ① 人死后，尸体停放的方向是头朝南、脚朝北。比喻人已死了。<sup>\[如东\]</sup> ② 死人的含蓄说法（民间停放遗体头朝南面朝北）。<sup>\[东台\]</sup>  
 1. 【[鼻子漕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_co_r.md#鼻子漕<sub>儿</sub>)】`pieh8 zz co2 r` <sup>[如皋]</sup> 鼻唇沟。  
 1. 【[鼻子养儿——擤（哄）人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_ian_er.md#鼻子养儿——擤（哄）人)】`pieh8 zz ian3 er2 hon3 ren2` <sup>[东台]</sup>   
 1. 【[鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_jin.md#鼻子尖)】`pieh8 zz jin1` <sup>[东台]</sup> ［喻］有特别灵敏的嗅觉：馋猫～。  
 1. 【[鼻子尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_jin_r.md#鼻子尖<sub>儿</sub>)】`pieh8 zz jin1 r` <sup>[如皋]</sup> 喻人格、脸面。  
 1. 【[鼻子梁<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_lian_r.md#鼻子梁<sub>儿</sub>)】`pieh8 zz lian2 r` <sup>[如皋]</sup> 鼻梁。  
 1. 【[鼻子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_ngaen_r.md#鼻子眼<sub>儿</sub>)】`pieh8 zz ngaen3 r` <sup>[如皋]</sup> 鼻孔。  
-1. 【[鼻子朝北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_zho_boh.md#鼻子朝北)】`pieh8 zz zho1 boh7` <sup>[东台]</sup> 死人的含蓄说法（民间停放遗体头朝南面朝北）。  
 1. 【[乒乓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_pan.md#乒乓)】`pien1 pan1` <small>/pʰiəŋ1 pʰã1/<sup>如皋</sup></small> 常用于动词后，表不愿、消极反对、否定，或指物<sup>\[如皋\]</sup>：去做甚的～吖！我不要这个～！<sup>\[如皋\]</sup>  
 1. 【[姘夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_fv.md#姘夫)】`pien1 fv1` <sup>[如东]</sup> 非夫妻关系而发生性行为的男方：他是她的～。  
 1. 【[姘头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_teu.md#姘头)】`pien1 teu` <sup>[东台]</sup> 婚外性伙伴。也叫“搭头”。（多指女方）  
