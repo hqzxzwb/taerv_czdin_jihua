@@ -83,6 +83,11 @@
       text-decoration: underline;
     }
 
+    .head-coart-link {
+      line-height: 1.2;
+      vertical-align: bottom;
+    }
+
     .alpha-bar {
       background: #1e3a5f;
       padding: 0.4rem 0.5rem;
@@ -226,7 +231,6 @@
       background: rgba(248, 251, 255, 0.92);
       color: #6b86a0;
       font-size: 0.92rem;
-      line-height: 1.05;
       padding: 0.24rem 0.34rem;
       border-radius: 4px;
       cursor: pointer;
@@ -293,7 +297,7 @@
       border-radius: 6px;
       padding: 0.9rem 1.1rem;
       margin-bottom: 0.7rem;
-      line-height: 1.7;
+      line-height: 1.4;
       transition: box-shadow 0.15s;
     }
 
@@ -559,7 +563,7 @@ function pinyinTokens(pinyin) {
 
 function fmtWord(raw) {
   // ʰ marks a ligature: underline the two chars before ʰ, hide ʰ itself
-  let s = raw.replace(/(.)(.)ʰ/g, '<u>$1$2</u>');
+  let s = raw.replace(/(.)(.)ʰ/g, '$1<span class="head-coart-link">\u035C</span>$2');
   // ʳ replaces erhua 儿: render as subscript 儿
   s = s.replace(/\u02b3/g, '<sub>儿</sub>');
   return s;

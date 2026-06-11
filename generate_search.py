@@ -525,7 +525,7 @@ def main():
 
     from datetime import datetime
     from zoneinfo import ZoneInfo
-    timestamp = datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y年%m月%d号%-H点更新")
+    timestamp = datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y年%m月%d号更新")
 
     html = load_html_template().replace('__DATA_JSON__', data_json).replace('__RECENT_DATA_JSON__', recent_data_json).replace('__SOURCE_NAMES_JSON__', source_names_json).replace('__TIMESTAMP__', timestamp)
 

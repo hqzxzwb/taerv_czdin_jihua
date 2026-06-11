@@ -25,12 +25,10 @@ jobs:
 
       - name: Deploy to SF
         run: |
-          wget -c https://dialectfonts.sourceforge.io/p1.woff2 -P docs
-          wget -c https://dialectfonts.sourceforge.io/p2.woff2 -P docs
-          sshpass -p '${{ secrets.SF_PASSWORD }}' scp -o StrictHostKeyChecking=no docs/index.html docs/*.woff2 ${{ secrets.SF_USERNAME }}@web.sourceforge.net:/home/project-web/taerv/htdocs
+          sshpass -p '${{ secrets.SF_PASSWORD }}' scp -o StrictHostKeyChecking=no docs/index.html ${{ secrets.SF_USERNAME }}@web.sourceforge.net:/home/project-web/taerv/htdocs
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.6.1
+        uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: docs # The folder the action should deploy.
