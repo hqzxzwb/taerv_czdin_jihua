@@ -1354,11 +1354,11 @@
 1. 【[𠵨啰𠵨啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_lu_deh_lu.md#𠵨啰𠵨啰)】`deh7 lu1 deh7 lu1` <sup>[如皋]</sup> 见“𠵨𠵨啰啰”。  
 1. 【[𨁽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𨁽)】`deh7` <small>/təʔ7/<sup>泰县</sup></small> ① 跺脚 ② 用力顿脚，跺脚<sup>\[泰县\]</sup>：不要把地板～坏啊。<sup>\[泰县\]</sup> ③ 将足提起用力蹬向地面<sup>\[泰州\]</sup>：听说儿子把家里留啊结婚的钱弄吖去赌钱，他急咖在家里～脚。<sup>\[泰州\]</sup>｜你鞋子上全是烂泥，把脚～咖子再家来。<sup>\[泰州\]</sup>  
 1. 【[𨁽脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_jiah.md#𨁽脚)】`deh7 jiah7` <small>/təʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /təʔ7 t͡ɕiaʔ7/<sup>如皋</sup>, /təʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 脚用力向地上猛踩。跺脚。<sup>\[如东\]</sup> ② 跺脚、跳脚，状着急、发怒。<sup>\[如皋\]</sup> ③ 用脚猛力击地，多表示急躁、愤怒、悲痛等情绪。<sup>\[东台\]</sup> ④ 跺脚。<sup>\[兴化\]</sup> ⑤ 以足击地。可形容情绪激昂或极其悲伤、着急时的举动。<sup>\[泰兴\]</sup>  
-1. 【[𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𪐏)】`deh7` <sup>[如东]</sup> ① 粘，粘贴，黏：～咖一起啊。 ② 有粘性  
 1. 【[𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𪐏)】`deh7` <small>/təʔ7/<sup>如皋</sup>, /təʔ7/<sup>泰县</sup></small> 粘合<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup>：熔胶～缝口、～扯吆儿（空竹）。<sup>\[如皋\]</sup>｜把信封儿～起来。<sup>\[东台\]</sup>｜用胶把这块木片儿～上去。<sup>\[泰县\]</sup>  
 1. 【[𪐏发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_faeh.md#𪐏发)】`deh7 faeh7` <sup>[如东]</sup> 糨糊：在门上糊点儿～，把对联贴上去。  
 1. 【[𪐏手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_sheu.md#𪐏手)】`deh7 sheu3` <small>/təʔ7 sei3/<sup>如皋</sup></small> ① 粘手。<sup>\[如东\]</sup>：这种胶水～。<sup>\[如东\]</sup> ② 好像粘在手上，喻事情一时难以了结。<sup>\[如皋\]</sup>  
 1. 【[𪐏手货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_sheu_hu.md#𪐏手货)】`deh7 sheu3 hu5` <sup>[如东]</sup> 粘在手上甩不掉的东西。比喻某种事件与自己有牵连，很难脱身：我遇到一件～。  
+1. 【[𪐏ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh.md#𪐏ʲ)】`deh7` <sup>[如东]</sup> ① 粘，粘贴，黏：～咖一起啊。 ② 有粘性  
 1. 【[得的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deh_dii.md#得的)】`deh9 dii` <sup>[东台]</sup> 立即、抓紧、快一点：～跑，再晏就赶不上吖。  
 1. 【[墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den.md#墩)】`den1` <small>/təŋ1/<sup>如皋</sup></small> ① 量词<sup>\[如皋\]</sup>：一～糕（年糕，两块相迭）。<sup>\[如皋\]</sup> ② 地名通名<sup>\[如皋\]</sup>：五里～、十里～、青～。<sup>\[如皋\]</sup> ③ 小台子<sup>\[如皋\]</sup>：踩么儿～。<sup>\[如皋\]</sup> ④ 量词。见“坨”。<sup>\[如皋\]</sup>  
 1. 【[墩墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/den_den_r.md#墩墩<sub>儿</sub>)】`den1 den1 r` <sup>[如皋]</sup> 见“墩儿”。  

@@ -231,10 +231,10 @@
 1. 【[拜香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xian.md#拜香)】`bae5 xian1` <sup>[兴化]</sup> 旧时，父母为患病的小孩许愿，愈后逢迎神赛会即磕～还愿。届时，手持香凳，插安息香，自庙中出脚跑遍全城，逢庙宇、桥梁、巷口即磕头作揖，有的“披枷戴锁”，数步一回头，数步叩首。（见《兴化市志·民俗》）  
 1. 【[拜烛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh.md#拜烛)】`bae5 zhoh7` <sup>[东台]</sup> 旧时点天灯所用的小蜡蚀。  
 1. 【[拜烛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhoh_r.md#拜烛<sub>儿</sub>)】`bae5 zhoh7 r` <sup>[如皋]</sup> 拜神敬祖时用的小红烛。  
-1. 【[覅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#覅)】`bae5` 不要。加在动词之前，表示祈使别人不要做某事。<sup>\[东台\]</sup>：有事情直说，～客气<sup>\[东台\]</sup>｜你～缠事。<sup>\[东台\]</sup>  
 1. 【[覅缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_chin.md#覅缠)】`bae5 chin6` <sup>[东台]</sup> ［带责怪口气］不要搞错；不要磨蹭，耽误时间。  
 1. 【[覅就它吧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieu_ta_ba.md#覅就它吧)】`bae5 qieu6 ta1 ba1` <sup>[东台]</sup> 讨厌、气愤时的口头禅，相当于“算了吧”：你还自我感觉良好，～！  
 1. 【[覅虚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xy.md#覅虚)】`bae5 xy1` <sup>[东台]</sup> 不要过分惊慌：头疼？～！吃点儿药，马上好。  
+1. 【[覅ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#覅ʲ)】`bae5` 不要。加在动词之前，表示祈使别人不要做某事。<sup>\[东台\]</sup>：有事情直说，～客气<sup>\[东台\]</sup>｜你～缠事。<sup>\[东台\]</sup>  
 1. 【[八拜之交](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_bae_zhr_jio.md#八拜之交)】`baeh7 bae5 zhr1 jio1` <sup>[如东]</sup> 旧时异姓男子或女子结拜为兄弟或姐妹的关系，称八拜之交。  
 1. 【[八八钱，八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱，八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <small>/pæʔ7 pæʔ7 t͡ɕʰĩ2 pæʔ7 pæʔ7 xɤɯ5/<sup>泰兴</sup></small> 什么货色就是什么价钱，按质论价。乡间常用语，有“～，八八生意八八做”之说，含公平交易的意思。<sup>\[泰兴\]</sup>  
 1. 【[八八钱八八货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baeh_baeh_qin_baeh.md#八八钱八八货)】`baeh7 baeh7 qin2 baeh7 baeh7 hu5` <sup>[兴化]</sup> 以价论质：老兄，你覅嫌我俫货色丑，～！｜谚曰：～，八八生意八八做。  
@@ -1439,7 +1439,7 @@
 1. 【[饱楦楦的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_xiun_dii.md#饱楦楦的)】`bo3 xiun5 xiun5 dii` <small>/pɔ3 ɕyʊ̃5 ɕyʊ̃5 təɪ/<sup>泰兴</sup></small> 饱满。饱鼓鼓的。<sup>\[泰兴\]</sup>  
 1. 【[饱楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_xiun_zz.md#饱楦子)】`bo3 xiun5 zz` <sup>[如皋]</sup> 脸型饱满的样子。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_iun.md#□□)】`bo5 iun` <small>/pɔ5 yʊ̃/<sup>如皋</sup>, /pɔ5 yʊ̃/<sup>泰兴</sup></small> （詈）傻子，傻瓜，犹“丢架子的东西”<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
-1. 【[堡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  
+1. 【[堡ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo.md#堡ʲ)】`bo5` 地名用字。声调阴去。泰兴境内地名“堡”一般读此音：宣～，泰兴一镇，民间称宣家～。宣堡辖张家～、杨家～、石家～｜根思辖小杨家～、许家～  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien` <sup>[东台]</sup> 因果报应观念，意思是某人做坏事肯定没有好下场：这家伙作恶多端，早晚要遭～。  
 1. 【[报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien.md#报应)】`bo5 ien5` <small>/pɔ5 iəŋ5/<sup>如皋</sup>, /pɔ5 iŋ5/<sup>泰兴</sup></small> ① 詈语或昵语，指人<sup>\[如皋\]</sup>：我怎吖养吖你这个～的噁！这个～真难服侍！<sup>\[如皋\]</sup> ② 佛家有因果报应之说。指人生在世，行善作恶，都会得到相应回报，善有善报，恶有恶报。后多指作恶就有恶报。<sup>\[泰兴\]</sup>  
 1. 【[报应杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bo_ien_go_zz.md#报应杲子)】`bo5 ien5 go3 zz` <sup>[如东]</sup> 不争气的人。  

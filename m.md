@@ -1,11 +1,11 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## M
-1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  
+1. 【[呣ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣ʲ)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1, m meh` <sup>[东台]</sup> 对母亲的面称。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[兴化]</sup> 母亲。  
 1. 【[姆㜥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_mae.md#姆㜥)】`m1 mae1` <sup>[泰县]</sup> 妈妈。  
-1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m3` <small>/m3/<sup>如皋</sup></small> 令牛停下。另见“缓”（un3）。<sup>\[如皋\]</sup>  
+1. 【[呣ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣ʲ)】`m3` <small>/m3/<sup>如皋</sup></small> 令牛停下。另见“缓”（un3）。<sup>\[如皋\]</sup>  
 1. 【[嘛咪吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi_hon.md#嘛咪吽)】`ma1 mi1 hon1` <sup>[如皋]</sup> 打瞌𥅻，要睡觉。源于佛家六字诀“唵嘛呢叭咪吽”。举凡僧人念经打坐皆若睡貌，故而形成此俗语。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母亲。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  
@@ -442,7 +442,7 @@
 1. 【[慢慢较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢较)】`maen6 maen6 jio5` <sup>[泰县]</sup> 慢一点。  
 1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen6-2 maen6-3 r` <sup>[如皋]</sup> 极慢地。  
 1. 【[慢慢暇暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_xia_xia.md#慢慢暇暇)】`maen6 maen6 xia2 xia2` <sup>[东台]</sup> 像闲暇无事般不慌不忙。  
-1. 【[慢忙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup>, /mɛ̃1 mɑŋ2/<sup>泰兴</sup></small> 不忙，不要着急，等一等再<sup>\[泰州\]</sup>\[如皋：参见“慢慢叫”\]\[泰兴：又音maen6 van2\]：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
+1. 【[慢忙ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙ʲ)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup>, /mɛ̃1 mɑŋ2/<sup>泰兴</sup></small> 不忙，不要着急，等一等再<sup>\[泰州\]</sup>\[如皋：参见“慢慢叫”\]\[泰兴：又音maen6 van2\]：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
 1. 【[慢吖你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_nga_nii.md#慢吖你)】`maen6 nga nii3` <sup>[如皋]</sup> 礼貌用语。慢待了，对不起。  
 1. 【[慢噋噋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ten_ten_dii.md#慢噋噋的)】`maen6 ten1 ten1 dii` <sup>[如皋]</sup> 慢吞吞的。见“噋吖噋的”。  
 1. 【[慢条斯理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_tio_sz_li.md#慢条斯理)】`maen6 tio2 sz1 li3` <sup>[如东]</sup> 从容不迫，不慌不忙。  
@@ -1552,7 +1552,6 @@
 1. 【[毷饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_bien.md#毷饼)】`mo6 bien3` <sup>[东台]</sup> 已经发霉的饼。“毷”为借字。  
 1. 【[毷氉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_so.md#毷氉)】`mo6 so` <small>/mɔ1 sɔ/<sup>如皋</sup></small> ① 天气闷热，心情烦躁。<sup>\[如东\]</sup>：今朝～，不舒服。<sup>\[如东\]</sup> ② 天气闷热令人不适。<sup>\[如皋\]</sup> ③ 烦躁不安<sup>\[如皋\]</sup>：痱子～起来啊，伢儿在身上只抓。<sup>\[如皋\]</sup>  
 1. 【[貌相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_xian.md#貌相)】`mo6 xian5` <small>/mɔ6 ɕiaŋ5/<sup>兴化</sup></small> ① 指人的相貌<sup>\[兴化\]</sup>：这个小伙～不丑。<sup>\[兴化\]</sup> ② 从外表看人<sup>\[兴化\]</sup>：人不可～，海水不可斗量。<sup>\[兴化\]</sup>  
-1. 【[嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜)】`moh8` <small>/mɔʔ8/<sup>兴化</sup>, /mɔʔ8/<sup>如皋</sup></small> 欺骗、蒙蔽。《集韵·德韵》密北切～，《博雅》～戾，欺也。<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：你不要～人。<sup>\[兴化\]</sup>｜捱他说咖～住啊。<sup>\[兴化\]</sup>｜你不要～人，我不相信你的话。<sup>\[泰州\]</sup>｜你根本就不曾去过北京，你捱他～咖去啊唻。<sup>\[泰州\]</sup>  
 1. 【[嚜大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da.md#嚜大)】`moh8 da` <sup>[如皋]</sup> 蒙骗。  
 1. 【[嚜大佯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da_ian.md#嚜大佯)】`moh8 da ian2` <small>/mɔʔ8 ta iã2/<sup>如皋</sup></small> 蒙骗俩<sup>\[如皋\]</sup>：你不要同我玩～，我懂你的买买儿三。<sup>\[如皋\]</sup>  
 1. 【[嚜打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_da.md#嚜打)】`moh8 da` <sup>[兴化]</sup> 哄骗：～人｜～老实人。  
@@ -1561,6 +1560,7 @@
 1. 【[嚜洋盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ian_pun.md#嚜洋盘)】`moh8 ian2 pun2` <sup>[兴化]</sup> 哄骗外行：你少～，这些名堂我俫晓得。  
 1. 【[嚜人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_ren.md#嚜人)】`moh8 ren2` <sup>[泰州]</sup> 以花言巧语或假冒东西来欺诈人：这小伙欢喜～，你当心点儿。  
 1. 【[嚜中嚜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_zhon_moh.md#嚜中嚜)】`moh8 zhon moh8` <sup>[兴化]</sup> 你哄我，我骗他，互相欺骗：现在生意场上～，你要小心，谨防上当。  
+1. 【[嚜ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#嚜ʲ)】`moh8` <small>/mɔʔ8/<sup>兴化</sup>, /mɔʔ8/<sup>如皋</sup></small> 欺骗、蒙蔽。《集韵·德韵》密北切～，《博雅》～戾，欺也。<sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>：你不要～人。<sup>\[兴化\]</sup>｜捱他说咖～住啊。<sup>\[兴化\]</sup>｜你不要～人，我不相信你的话。<sup>\[泰州\]</sup>｜你根本就不曾去过北京，你捱他～咖去啊唻。<sup>\[泰州\]</sup>  
 1. 【[墨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh.md#墨)】`moh8` <sup>[如东]</sup> 写字绘画的用品，用煤烟或松烟等制成的黑色条状物。  
 1. 【[墨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_chuan.md#墨床)】`moh8 chuan2` <sup>[东台]</sup> 搁墨用的文玩，多为木或瓷器，今不多见。  
 1. 【[墨斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/moh_deu_r.md#墨斗<sub>儿</sub>)】`moh8 deu3 r` <sup>[如东]</sup> 工具。木制，长方形，似船，内装墨和墨线。木工用以在木料上弹线。  

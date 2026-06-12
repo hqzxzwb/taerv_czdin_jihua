@@ -1390,7 +1390,7 @@
 1. 【[印色油子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh_ieu_zz.md#印色油子)】`ien5 seh ieu2 zz` <sup>[兴化]</sup> 印泥。  
 1. 【[印色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_seh.md#印色)】`ien5 seh7` <small>/iŋ5 səʔ7/<sup>泰兴</sup></small> 印泥<sup>\[泰兴\]</sup>：把～盒子拿得来，我要盖脶印。<sup>\[泰兴\]</sup>  
 1. 【[印堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_tan.md#印堂)】`ien5 tan2` <sup>[东台]</sup> 指额部两眉之间：我看他～发黑，必有重病。  
-1. 【[印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#印子)】`ien5 zz` <small>/iəŋ5 t͡sɿ/<sup>如皋</sup>, /iŋ5 t͡sɿ/<sup>泰兴</sup></small> 印痕，痕迹。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：脚在地上⻊闹啊个～。<sup>\[如东\]</sup>  
+1. 【[印子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#印子)】`ien5 zz` <small>/iəŋ5 t͡sɿ/<sup>如皋</sup>, /iŋ5 t͡sɿ/<sup>泰兴</sup></small> 印痕，痕迹。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>：脚在地上⻊闹ʰ啊个～。<sup>\[如东\]</sup>  
 1. 【[印子钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz_qin.md#印子钱)】`ien5 zz qin2` <small>/iŋ5 t͡sɿ t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 高利贷的一种。约定期限，由债务人分期偿还，每还一期，在折子上盖印为记。<sup>\[东台\]</sup> ② 旧时的一种高利贷。放债人以高利放出贷款，限借债人分期偿还，每次还款，都在预立的折子上加盖一印为记，故名。<sup>\[泰兴\]</sup>  
 1. 【[应酬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu.md#应酬)】`ien5 cheu` <sup>[如东]</sup> 交际往来：经常要去～。  
 1. 【[应酬故事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_cheu_gv_shr.md#应酬故事)】`ien5 cheu gv5 shr` <sup>[如皋]</sup> 敷衍。  

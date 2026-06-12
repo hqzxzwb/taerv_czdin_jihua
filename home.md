@@ -365,11 +365,11 @@
 1. 【[拉里拉瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/la_lii_la_gua.md#拉里拉瓜)】`la1 lii la1 gua1` <small>/na1 nɿ na1 kua1/<sup>泰县</sup></small> ① 同“拉瓜”。<sup>\[东台\]</sup> ② 穿着不整洁<sup>\[泰县\]</sup>：这个人穿衣裳有点儿～。<sup>\[泰县\]</sup>  
 [更多...](./l.md)
 ## M
-1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  
+1. 【[呣ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣ʲ)】`m` <small>/m/<sup>兴化</sup></small> ① （叹词）<sup>\[东台\]</sup> ② 表示应答、肯定<sup>\[东台\]</sup>：～，晓得咖，就这吖。<sup>\[东台\]</sup> ③ 表示疑问<sup>\[东台\]</sup>：～？甚的？<sup>\[东台\]</sup> ④ 表示警告<sup>\[东台\]</sup>：～！你敢！<sup>\[东台\]</sup> ⑤ 叹词，表答应。<sup>\[兴化\]</sup>  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1, m meh` <sup>[东台]</sup> 对母亲的面称。  
 1. 【[姆妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_ma.md#姆妈)】`m ma1` <sup>[兴化]</sup> 母亲。  
 1. 【[姆㜥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m_mae.md#姆㜥)】`m1 mae1` <sup>[泰县]</sup> 妈妈。  
-1. 【[呣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣)】`m3` <small>/m3/<sup>如皋</sup></small> 令牛停下。另见“缓”（un3）。<sup>\[如皋\]</sup>  
+1. 【[呣ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/m.md#呣ʲ)】`m3` <small>/m3/<sup>如皋</sup></small> 令牛停下。另见“缓”（un3）。<sup>\[如皋\]</sup>  
 1. 【[嘛咪吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_mi_hon.md#嘛咪吽)】`ma1 mi1 hon1` <sup>[如皋]</sup> 打瞌𥅻，要睡觉。源于佛家六字诀“唵嘛呢叭咪吽”。举凡僧人念经打坐皆若睡貌，故而形成此俗语。  
 1. 【[妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma.md#妈)】`ma1` <sup>[东台]</sup> ① 母亲。 ② 年长的已婚妇女。  
 1. 【[妈妈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ma.md#妈妈)】`ma1 ma1` <sup>[如东]</sup> 母亲。  

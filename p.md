@@ -673,7 +673,7 @@
 1. 【[病歪歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_vae_vae.md#病歪歪)】`pien6 vae1 vae1` <small>/pʰiɪ̃6 uɛ1 uɛ1/<sup>兴化</sup></small> ① 因病而走路摇晃无力的样子。<sup>\[如东\]</sup> ② 因久病而身体虚弱的样子。也说“病咍咍”。<sup>\[兴化\]</sup>：队长老婆整日～的，说是得了痨病，黄巴黄巴的。（刘仁前《香河风情·香河纪事》）<sup>\[兴化\]</sup>  
 1. 【[病西施](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xi_shr.md#病西施)】`pien6 xi1 shr1` <sup>[如皋]</sup> 喻体弱而貌美的女子。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_do.md#□□)】`pih7 do1` <sup>[泰县]</sup> 学普通话又学不准确的人。  
-1. 【[丿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#丿)】`pih7` <sup>[东台]</sup> 同“䥕”“鐅”，现在多用此字：曹～｜潘～。  
+1. 【[丿ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#丿ʲ)】`pih7` <sup>[东台]</sup> 同“䥕”“鐅”，现在多用此字：曹～｜潘～。  
 1. 【[撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#撇)】`pih7` <small>/pʰiɪʔ7/<sup>兴化</sup>, /pʰiʔ7/<sup>如皋</sup></small> ① 捞取液体表面的东西：～粥饮汤、～沫。<sup>\[如皋\]</sup> ② 从表面舀汤。<sup>\[东台\]</sup> ③ 特指孩子撒娇、嗲<sup>\[东台\]</sup>：这个小伙有点儿～。<sup>\[东台\]</sup> ④ 汉字笔划，形状是“丿”。<sup>\[兴化\]</sup> ⑤ 弃置不顾、离开<sup>\[兴化\]</sup>：“……那管营心腹相待，也不忍～他……”（《水浒后传》四）<sup>\[兴化\]</sup> ⑥ 从液体表面上片取薄薄一层<sup>\[泰州\]</sup>：把汤高头的沫～掉。<sup>\[泰州\]</sup>  
 1. 【[撇倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_do.md#撇倒)】`pih7 do` <sup>[如东]</sup> 吆喝牛向左转的声音。  
 1. 【[撇嘋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_go.md#撇嘋)】`pih7 go` <sup>[如皋]</sup> 呼牛右转。辅以左手用牛绳晃触牛腹示意。  
@@ -1070,13 +1070,13 @@
 1. 【[澎/漰/泙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#澎/漰/泙)】`pon1` <small>/pʰoŋ1/<sup>兴化</sup>, /pʰɔŋ1/<sup>如皋</sup></small> ① 喷洒<sup>\[如皋\]</sup>：～酒、～醋<sup>\[如皋\]</sup> ② 溅<sup>\[东台\]</sup>：～了一身水。<sup>\[东台\]</sup> ③ 给冷饭冷菜洒点水加热<sup>\[兴化\]</sup>：拿水～下子，饭菜容易热。《兴化词典》作“烹”。<sup>\[兴化\]</sup> ④ 水丝飞扬<sup>\[泰州\]</sup>：天上～毛毛雨唻。<sup>\[泰州\]</sup>｜地下灰太多，扫的时候弄点ㄦ水～啊子。<sup>\[泰州\]</sup> ⑤ 油在热锅中溅起的样子<sup>\[泰州\]</sup>：锅里油～～的，快点ㄦ把菜放下去。<sup>\[泰州\]</sup>｜当心油～吖身上。<sup>\[泰州\]</sup>  
 1. 【[烹茶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_cha.md#烹茶)】`pon1 cha2` <small>/pʰɔŋ1 t͡sʰɑ2/<sup>泰兴</sup></small> 以滚烫热锅煮少量的开水曰烹茶。<sup>\[泰兴\]</sup>：摊点烧饼烹点茶<sup>\[泰兴\]</sup>  
 1. 【[砰通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_ton.md#砰通)】`pon1 ton` <small>/pʰɔŋ1 tʰɔŋ/<sup>泰兴</sup></small> 象声词。用力关门发出的响声。<sup>\[泰兴\]</sup>  
-1. 【[𢏳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳)】`pon1` <small>/pʰoŋ1/<sup>泰县</sup></small> 弹（棉花），用弓弦使板结的棉花蓬松开来。【集韻】披耕切，音怦。張絃也。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
 1. 【[𢏳花槌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_chuei_r.md#𢏳花槌<sub>儿</sub>)】`pon1 hua1 chuei2 r` <small>/pʰɔŋ1 xua1 t͡sʰuei˞2/<sup>如皋</sup></small> ① 用以弹击花弦子的木槌，像手榴弹。<sup>\[如皋\]</sup> ② 木制，条形，一头四方，一面有凸起，用以敲击𢏳花弦子。<sup>\[如东\]</sup>  
 1. 【[𢏳花弓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_gon.md#𢏳花弓)】`pon1 hua1 gon1` <small>/pʰɔŋ1 xua1 kɔŋ1/<sup>如皋</sup></small> ① 手工弹棉花的弓形工具。弓长约130cm，上有弦。<sup>\[如皋\]</sup> ② 手工弹棉花的工具，木制，弓形，长约130厘米，月牙口上拉𢏳花弦。<sup>\[如东\]</sup>  
 1. 【[𢏳花机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_ji.md#𢏳花机)】`pon1 hua1 ji1` <sup>[如皋]</sup> 弹棉花的机器。  
 1. 【[𢏳花匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_qian.md#𢏳花匠)】`pon1 hua1 qian6` <sup>[如皋]</sup> 手工𢏳棉花的工匠。  
 1. 【[𢏳花弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_xin_zz.md#𢏳花弦子)】`pon1 hua1 xin2 zz` <small>/pʰɔŋ1 xua1 ɕĩ2 t͡sɿ/<sup>如皋</sup></small> ① 弹花弓上的弦子，用牛筋制成。<sup>\[如皋\]</sup> ② 牛筋制，绞梭，有弹性。<sup>\[如东\]</sup>  
 1. 【[𢏳棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_hua.md#𢏳棉花)】`pon1 min2 hua1` <small>/pʰɔŋ1 mĩ2 xua1/<sup>如皋</sup></small> ① 弹棉花，使棉纤维蓬松，做成需要的样式。<sup>\[如皋\]</sup> ② 𢏳花槌敲击𢏳花弦子后，产生振动，使板结的棉花蓬松开来。<sup>\[如东\]</sup>  
+1. 【[𢏳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳ʲ)】`pon1` <small>/pʰoŋ1/<sup>泰县</sup></small> 弹（棉花），用弓弦使板结的棉花蓬松开来。【集韻】披耕切，音怦。張絃也。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
 1. 【[匉𠵹奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan_qi.md#匉𠵹奇)】`pon2 gan1 qi2` <small>/pʰɔŋ2 kɑŋ1 t͡ɕʰʝ2/<sup>泰兴</sup></small> 大言吓人。《泰兴方言辞典》作“烹冈奇”。<sup>\[泰兴\]</sup>：你不要用～，我不怕。<sup>\[泰兴\]</sup>  
 1. 【[搒棉匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_qian.md#搒棉匠)】`pon2 min2 qian6` <sup>[东台]</sup> 专门加工棉花（也称弹棉絮）的人。（搒，指用棍棒或竹板打。据《说文·段注》搒，蒲庚切，笞击也，）  
 1. 【[搒棉匠的活计——会弹（谈）不会纺（访）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_qian_dii.md#搒棉匠的活计——会弹（谈）不会纺（访）)】`pon2 min2 qian6 dii uh8 ji5 huei6 taen2 beh7 huei6 fan3` <sup>[东台]</sup>   

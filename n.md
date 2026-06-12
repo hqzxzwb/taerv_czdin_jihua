@@ -201,11 +201,11 @@
 1. 【[齉鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_pieh_zz.md#齉鼻子)】`nan5 pieh8 zz` <sup>[如东]</sup> 由于受了风寒导致鼻塞，发音不清，叫做齉鼻子。  
 1. 【[齉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#齉)】`nan6` <sup>[泰县]</sup> 由于受了风寒导致鼻塞，发音不清：～鼻子。  
 1. 【[呐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#呐)】`neh` <sup>[东台]</sup> 加上自成音节的“n”（嗯），构成“嗯～”，是答应和认可对方话时的习惯用语：嗯～，我明朝就去。  
-1. 【[抐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#抐)】`neh8` <small>/nəʔ8/<sup>如皋</sup></small> ① 紧握、捏、扼、攥<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把拳头～咖紧吖不要松。<sup>\[泰州\]</sup> ② 牢牢控制钱物，不让支出<sup>\[泰州\]</sup>：你把家里这两个钱～～好。<sup>\[泰州\]</sup>  
 1. 【[抐拳头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_qiun_teu.md#抐拳头)】`neh8 qiun2 teu` <sup>[如皋]</sup> 握起拳头。  
 1. 【[抐人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_ren_zz.md#抐人子)】`neh8 ren2 zz` <sup>[如皋]</sup> 收缩样疼痛：心里～。  
 1. 【[抐手钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_sheu_qin.md#抐手钱)】`neh8 sheu3 qin2` <small>/nəʔ8 sei3 t͡ɕʰĩ2/<sup>如皋</sup></small> ① 死者入殡，手中要拿着钱，这种钱，叫做抐手钱。新娘出嫁，手中要拿着钱，这种钱，叫做抐手钱。<sup>\[如东\]</sup> ② 新娘出家门时父母所给的红包。<sup>\[如皋\]</sup>  
 1. 【[抐猪食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh_zhv_sheh.md#抐猪食)】`neh8 zhv1 sheh8` <sup>[如皋]</sup> ① 调和猪食的同时把其中的团块捏碎。 ② 状手部若调猪食的动作。  
+1. 【[抐ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/neh.md#抐ʲ)】`neh8` <small>/nəʔ8/<sup>如皋</sup></small> ① 紧握、捏、扼、攥<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：把拳头～咖紧吖不要松。<sup>\[泰州\]</sup> ② 牢牢控制钱物，不让支出<sup>\[泰州\]</sup>：你把家里这两个钱～～好。<sup>\[泰州\]</sup>  
 1. 【[浓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#浓)】`nen2` <small>/nəŋ2/<sup>如皋</sup></small> 汁浓<sup>\[如皋\]</sup>：鱼汤～。<sup>\[如皋\]</sup>  
 1. 【[浓水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen_shuei.md#浓水)】`nen2 shuei3` <sup>[如皋]</sup> 含洗涤剂量足的水，去污力强。  
 1. 【[能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nen.md#能)】`nen2` <small>/nəŋ2/<sup>泰兴</sup></small> ① 超出自己的职责范围，主动积极地做某事是为了炫耀显示自己才能<sup>\[泰州\]</sup>：他又不是厂长，就像～煞咖，厂里的事样样都要问。<sup>\[泰州\]</sup>｜她嫌太～，块块多管闲事，没得一个人喜欢她。<sup>\[泰州\]</sup> ② 炫耀本事；喜好炫耀本事<sup>\[泰兴\]</sup>  
@@ -1323,7 +1323,7 @@
 1. 【[贰毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_mo_r.md#贰毛<sub>儿</sub>)】`ni6 mo2 r` <sup>[如皋]</sup> ① 初生小毛。 ② 软而密的体毛、毛鬟。古腻。  
 1. 【[𰍧𰍨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nia_nia_r.md#𰍧𰍨<sub>儿</sub>)】`nia1 nia2 r` <small>/nia1 nia˞2/<sup>如皋</sup></small> 双音节单纯词。状很小、极少，常与“奀奀儿”合用。\[如皋：有多种声调，也说nian nian r。\]：“家里米剩吖奀儿～。”<sup>\[如皋\]</sup>  
 1. 【[你<sub>家</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nia.md#你<sub>家</sub>)】`nia3` <small>/nia3/<sup>如皋</sup></small> ① “你家”合音。<sup>\[如皋\]</sup> ② “你家”的快读<sup>\[东台\]</sup>：～新妇哿曾有喜啊？<sup>\[东台\]</sup>  
-1. 【[㖸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah.md#㖸)】`niah` <sup>[兴化]</sup> ① 语气词，相当于“啊”“呀”：九月的螃蟹肥～！｜天冷，你要早点家来～！ ② 疑问：兄弟，人说的话你听见～？  
+1. 【[㖸ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah.md#㖸ʲ)】`niah` <sup>[兴化]</sup> ① 语气词，相当于“啊”“呀”：九月的螃蟹肥～！｜天冷，你要早点家来～！ ② 疑问：兄弟，人说的话你听见～？  
 1. 【[虐罚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_faeh.md#虐罚)】`niah8 faeh8` <sup>[如皋]</sup> ① 虐待、歧视：恶婆娘就是会～小新妇儿。 ② 刁难：你不要～他吧，让他走吧。 ③ 责罚：你惹啊这吖大的祸，我也不～你，你自己请身吧。  
 1. 【[虐煞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/niah_shaeh.md#虐煞)】`niah8 shaeh7` <sup>[如皋]</sup> 心毒手狠：他对伢儿太～，打起来要命！  
 1. 【[□□<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nian_nian_r.md#□□<sub>儿</sub>)】`nian nian r` <sup>[如皋]</sup> 小、少、一点点。  
@@ -1613,9 +1613,9 @@
 1. 【[脑勺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_shah_zz.md#脑勺子)】`no3 shah8 zz` <small>/lɔ3 saʔ8 t͡sɿ/<sup>兴化</sup>, /nɔ3 sɑʔ8 t͡sɿ/<sup>泰兴</sup></small> 头的后部<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“小玉这丫头要是回嘴，你替我刮他两～！”（马春阳《战友加亲邻》）<sup>\[兴化\]</sup>｜“哎也！是我走的慌了，脚后跟只打着脑杓子。”（《水浒传》三二）<sup>\[兴化\]</sup>｜大人说的话你都撂啊～后头去啊唻。<sup>\[泰州\]</sup>  
 1. 【[脑袋瓜<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_tae_gua_r.md#脑袋瓜<sub>儿</sub>)】`no3 tae6 gua1 r` <small>/nɔ3 tʰɛ1 kua˞1/<sup>如皋</sup></small> ① 脑袋头。<sup>\[如皋\]</sup> ② 脑力（智慧）<sup>\[如皋\]</sup>：他的～灵光。<sup>\[如皋\]</sup>  
 1. 【[脑头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_teu.md#脑头)】`no3 teu` <sup>[兴化]</sup> 头绪、来龙去脉：你先把～过节弄清爽再发表议论。  
-1. 【[闹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#闹)】`no6` 踩踏  
+1. 【[⻊<sub>闹</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no.md#⻊<sub>闹</sub>)】`no6` 踩踏  
+1. 【[⻊<sub>闹</sub>蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_cha_ngo.md#⻊<sub>闹</sub>蛼螯)】`no6 cha1 ngo` <sup>[如东]</sup> 捕取蛼螯的一种方式。双脚在海滩上踩动，使沙泥变软，将埋藏在沙泥中的蛼螯挤出来捕捉。  
 1. 【[闹包子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_bo_zz.md#闹包子)】`no6 bo1 zz` <small>/lɔ6 pɔ1 t͡sɿ/<sup>兴化</sup>, /nɔ1 pɔ1 t͡se/<sup>泰县</sup></small> ① 在某种事件中插一杠子，横生枝节<sup>\[东台\]</sup>：有不同意见好好说，不要在这许～。<sup>\[东台\]</sup> ② 大人戏称小孩在调皮捣蛋，增加麻烦。<sup>\[东台\]</sup> ③ 出不应有的笑话<sup>\[兴化\]</sup>：他这个高中生连借条也不会打，真是～。<sup>\[兴化\]</sup> ④ 无理取闹的人。<sup>\[泰县\]</sup> ⑤ 比喻犯下不应犯的错误<sup>\[泰州\]</sup>：本科生连个会议通知都写不好，你说哿是～。<sup>\[泰州\]</sup>  
-1. 【[闹蛼螯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_cha_ngo.md#闹蛼螯)】`no6 cha1 ngo` <sup>[如东]</sup> 捕取蛼螯的一种方式。双脚在海滩上踩动，使沙泥变软，将埋藏在沙泥中的蛼螯挤出来捕捉。  
 1. 【[闹场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chan.md#闹场)】`no6 chan` <small>/nɔ1 t͡sʰɑŋ/<sup>泰兴</sup></small> 开台锣鼓<sup>\[泰兴\]</sup>：打～<sup>\[泰兴\]</sup>  
 1. 【[闹缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_chin.md#闹缠)】`no6 chin6` 误将不相干的人或者事牵扯在一起<sup>\[泰州\]</sup>：这桩事情跟他俫两个没得点点儿关系，你就不要蹾吖这块～吧。<sup>\[泰州\]</sup>  
 1. 【[闹□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/no_co_co.md#闹□□)】`no6 co1 co1` <sup>[兴化]</sup> 吵嚷、喧哗：脚踏楼梯步步高，耳听金鸡～……（兴文《上梁嗑子》）  
