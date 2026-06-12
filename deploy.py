@@ -231,17 +231,16 @@ def parse_cont(cont, fname):
     return CzY(source, ti_fan_pien_ien, pien_ien, raw_pien_ien, word, raw_text, meanings, fname, sort_key, spec, mixed)
 
 def mix(word, pien_ien):
-    word = word.replace('ʲ', '')
     pien_ien = re.sub("-[a-z1-9]+", "", pien_ien)
     pien_ien = re.sub(r"（.*?）|[…，；—]", " ", pien_ien).strip()
     char_py_list = re.split(" +", pien_ien)
-    char_list = re.findall(r"[\w□](?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
+    char_list = re.findall(r"[^，—、：；×…？\*/（）]ʲ?(?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
     mix = []
     pi = 0
     i = 0
     while i < len(char_list):
         char = char_list[i]
-        if re.match(r'[\w□]', char[0]):
+        if re.match(r'[^，—、：；×…？\*/（）]', char[0]):
             if pi >= len(char_py_list):
                 break
             pien_ien = char_py_list[pi]

@@ -56,17 +56,16 @@ def strip_tio(ien):
 
 
 def mix(word, pien_ien):
-    word = word.replace('ʲ', '')
     pien_ien = re.sub(r"-[a-z1-9]+", "", pien_ien)
     pien_ien = re.sub(r"（.*?）|[…，；—]", " ", pien_ien).strip()
     char_py_list = re.split(r" +", pien_ien)
-    char_list = re.findall(r"[\w□](?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
+    char_list = re.findall(r"[^，—、：；×…？\*/（）]ʲ?(?:\wʰ)*|[，—、：；×…？\*]|（.*?）|/.+", word)
     result = []
     pi = 0
     i = 0
     while i < len(char_list):
         char = char_list[i]
-        if re.match(r'[\w□]', char[0]):
+        if re.match(r'[^，—、：；×…？\*/（）]', char[0]):
             if pi >= len(char_py_list):
                 break
             py = char_py_list[pi]
@@ -313,7 +312,6 @@ def collect_all_entries():
                     word_display,          # [0] word: erhua 儿 stored as 'ʳ', ligature with ʰ
                     pinyin_compact,        # [1] compact pinyin (render-side restores syllable spaces)
                     meaning_text,          # [2] meaning
-                    w.raw_text,            # [3] raw_text (used to build link in JS)
                     encode_sources_with_meanings(source_to_meanings),  # [4] sources with meaning indices
                 ]
                 entries.append(entry)

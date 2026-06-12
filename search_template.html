@@ -88,6 +88,14 @@
       vertical-align: bottom;
     }
 
+    .head-j {
+      text-decoration-line: underline;
+      text-decoration-style: wavy;
+      text-decoration-color: #1e3a5f;
+      text-decoration-thickness: 1px;
+      text-underline-offset: 4px;
+    }
+
     .alpha-bar {
       background: #1e3a5f;
       padding: 0.4rem 0.5rem;
@@ -319,7 +327,7 @@
     .entry-word a:hover { text-decoration: underline; }
 
     .entry-pinyin {
-      font-family: "Consolas", "Courier New", monospace;
+      font-family: serif;
       font-size: 0.9rem;
       color: #4a6a8a;
       background: none;
@@ -510,7 +518,7 @@ function escapeRe(s) {
 }
 
 // Entry array indices
-const W = 0, P = 1, M = 2, T = 3, S = 4;
+const W = 0, P = 1, M = 2, S = 3;
 const REGION_TO_SOURCE_ID = Object.fromEntries(SOURCE_NAMES.map((name, i) => [name, i]));
 const DEFAULT_SOURCE_ID = REGION_TO_SOURCE_ID['通用'] ?? 0;
 
@@ -565,7 +573,9 @@ function getSourcesWithMeanings(entry) {
   // Multiple sources format: dict with meaning indices
   if (typeof sources === 'object' && sources !== null) {
     const result = [];
-    for (const [idStr, meanings] of Object.entries(sources)) {
+    const entries = Object.entries(sources);
+    entries.sort((a, b) => a[1][0] - b[1][0]);
+    for (const [idStr, meanings] of entries) {
       const id = Number.parseInt(idStr, 10);
       result.push({ id: normalizeSourceId(id), meanings: meanings || [] });
     }
@@ -599,7 +609,7 @@ function entryLink(entry) {
   const firstReading = formatPinyinDisplay(entry[P].split(',')[0].trim());
   const filename = firstReading.replace(/[0-9]/g, '').replace(/ +/g, '_');
   const dir = filename[0].toLowerCase();
-  const anchor = entry[T];
+  const anchor = entry[W].replaceAll("ʳ", "儿");
   return dir + '/' + filename + '.md#' + anchor;
 }
 
@@ -616,6 +626,7 @@ function fmtWord(raw) {
   let s = raw.replace(/(.)(.)ʰ/g, '$1<span class="head-coart-link">\u035C</span>$2');
   // ʳ replaces erhua 儿: render as subscript 儿
   s = s.replace(/\u02b3/g, '<sub>儿</sub>');
+  s = s.replace(/(.)ʲ/gu, '<span class="head-j">$1</span>')
   return s;
 }
 
@@ -857,46 +868,7 @@ document.getElementById('alphaBar').addEventListener('click', e => {
     // Display random entries
     resultsList.innerHTML = '';
     for (const idx of randomIndices) {
-      const entry = DATA[idx];
-      const li = document.createElement('li');
-      const wordSpan = document.createElement('span');
-      wordSpan.className = 'entry-word';
-      const wordLink = document.createElement('a');
-      wordLink.href = LINK_PREFIX + entryLink(entry);
-      wordLink.target = '_blank';
-      wordLink.rel = 'noopener';
-      wordLink.innerHTML = fmtWord(entry[W]);
-      wordSpan.appendChild(wordLink);
-      const pinyinCode = document.createElement('code');
-      pinyinCode.className = 'entry-pinyin';
-      pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
-      const sourcesSpan = document.createElement('span');
-      sourcesSpan.className = 'entry-sources';
-      for (const { id, meanings } of getSourcesWithMeanings(entry)) {
-        const srcName = sourceNameById(id);
-        const tag = document.createElement('span');
-        tag.className = 'entry-source-tag src-' + srcName;
-        tag.textContent = srcName;
-        sourcesSpan.appendChild(tag);
-        // If there are meaning indices, append them as circled digits
-        if (meanings.length > 0) {
-          const index = document.createElement('span');
-          index.className = 'entry-source-index';
-          index.textContent = meanings.map(meaningIndexToCircled).join('');
-          sourcesSpan.appendChild(index);
-        }
-      }
-      const meaningDiv = document.createElement('div');
-      meaningDiv.className = 'entry-meaning';
-      meaningDiv.innerHTML = renderMeaning(entry[M]);
-      const header = document.createElement('div');
-      header.appendChild(wordSpan);
-      header.appendChild(document.createTextNode(' '));
-      header.appendChild(pinyinCode);
-      header.appendChild(sourcesSpan);
-      li.appendChild(header);
-      li.appendChild(meaningDiv);
-      resultsList.appendChild(li);
+      resultsList.appendChild(renderEntry(DATA[idx], ""));
     }
     stats.textContent = `随机词条`;
     return;
@@ -919,46 +891,7 @@ document.getElementById('alphaBar').addEventListener('click', e => {
     // Display recent entries by indices
     resultsList.innerHTML = '';
     for (const idx of RECENT_DATA) {
-      const entry = DATA[idx];
-      const li = document.createElement('li');
-      const wordSpan = document.createElement('span');
-      wordSpan.className = 'entry-word';
-      const wordLink = document.createElement('a');
-      wordLink.href = LINK_PREFIX + entryLink(entry);
-      wordLink.target = '_blank';
-      wordLink.rel = 'noopener';
-      wordLink.innerHTML = fmtWord(entry[W]);
-      wordSpan.appendChild(wordLink);
-      const pinyinCode = document.createElement('code');
-      pinyinCode.className = 'entry-pinyin';
-      pinyinCode.innerHTML = formatPinyinDisplay(entry[P]);
-      const sourcesSpan = document.createElement('span');
-      sourcesSpan.className = 'entry-sources';
-      for (const { id, meanings } of getSourcesWithMeanings(entry)) {
-        const srcName = sourceNameById(id);
-        const tag = document.createElement('span');
-        tag.className = 'entry-source-tag src-' + srcName;
-        tag.textContent = srcName;
-        sourcesSpan.appendChild(tag);
-        // If there are meaning indices, append them as circled digits
-        if (meanings.length > 0) {
-          const index = document.createElement('span');
-          index.className = 'entry-source-index';
-          index.textContent = meanings.map(meaningIndexToCircled).join('');
-          sourcesSpan.appendChild(index);
-        }
-      }
-      const meaningDiv = document.createElement('div');
-      meaningDiv.className = 'entry-meaning';
-      meaningDiv.innerHTML = renderMeaning(entry[M]);
-      const header = document.createElement('div');
-      header.appendChild(wordSpan);
-      header.appendChild(document.createTextNode(' '));
-      header.appendChild(pinyinCode);
-      header.appendChild(sourcesSpan);
-      li.appendChild(header);
-      li.appendChild(meaningDiv);
-      resultsList.appendChild(li);
+      resultsList.appendChild(renderEntry(DATA[idx], ""));
     }
     stats.textContent = `最近修改的 ${RECENT_DATA.length} 条词语`;
     return;
