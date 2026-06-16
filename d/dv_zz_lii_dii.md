@@ -1,5 +1,5 @@
 # 肚子里的蛔虫
-dv3 zz li dii huei2 chon2
+dv3 zz lii dii huei2 chon2
 > 东台方言词典
 - ［喻］指善于揣摩并迎合别人心理的人
   - 这小伙跟老板后头时间长吖，成吖老板～！
