@@ -2607,7 +2607,7 @@
 1. 【[肚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_r.md#肚<sub>儿</sub>)】`dv3 r` ① 胃。也叫“肚子”。 ② 牲畜的胃。<sup>\[如东\]</sup>：猪～。<sup>\[如东\]</sup> ③ 人的腹部。<sup>\[如东\]</sup>：小明的～痛。<sup>\[如东\]</sup>  
 1. 【[肚肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_tv_lii.md#肚肚里)】`dv3 tv6 lii` <sup>[泰县]</sup> 腹中。  
 1. 【[肚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz.md#肚子)】`dv3 zz` <small>/tu3 t͡sɿ/<sup>兴化</sup>, /tu3 t͡sɿ/<sup>泰兴</sup></small> ① 胃。<sup>\[如东\]</sup> ② 腹部。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：没得箇个～不要吃箇副泻药。<sup>\[泰兴\]</sup> ③ 比喻学问，涵养。<sup>\[如东\]</sup>：这个人有～。<sup>\[如东\]</sup> ④ 做菜肴的某些动物的胃<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：猪～；羊～；牛～。<sup>\[兴化\]</sup> ⑤ 心里<sup>\[兴化\]</sup>：（他跟蒋忠）会虽没有会过，～里有数了。（《武松》五）<sup>\[兴化\]</sup> ⑥ 身孕<sup>\[兴化\]</sup>：“……他说八年前就同老爷在京里认识，后来有了～……”（《官场现形记》二二）<sup>\[兴化\]</sup>  
-1. 【[肚子里的蛔虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz_li_dii.md#肚子里的蛔虫)】`dv3 zz li dii huei2 chon2` <sup>[东台]</sup> ［喻］指善于揣摩并迎合别人心理的人：这小伙跟老板后头时间长吖，成吖老板～！  
+1. 【[肚子里的蛔虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz_lii_dii.md#肚子里的蛔虫)】`dv3 zz lii dii huei2 chon2` <sup>[东台]</sup> ［喻］指善于揣摩并迎合别人心理的人：这小伙跟老板后头时间长吖，成吖老板～！  
 1. 【[肚子眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz_ngaen.md#肚子眼)】`dv3 zz ngaen3` 肚脐  
 1. 【[肚子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz_ngaen_r.md#肚子眼<sub>儿</sub>)】`dv3 zz ngaen3 r` <sup>[泰县]</sup> 肚脐。  
 1. 【[肚子吃咖像炮仗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dv_zz_qieh_ga.md#肚子吃咖像炮仗)】`dv3 zz qieh7 ga qian6 po5 chan` <sup>[如皋]</sup> 吃得过饱，胃胀起来。  

@@ -2272,15 +2272,16 @@
 1. 【[渡口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_keu.md#渡口)】`tv6 keu3` <sup>[如东]</sup> 渡船停靠的码头。用船渡人过河的地方。  
 1. 【[肚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv.md#肚)】`tv6` <sup>[东台]</sup> “肚”的又音：脸皮老老，～里饱饱｜耳不听～不恼。  
 1. 【[肚才](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_cae.md#肚才)】`tv6 cae2` <sup>[兴化]</sup> 谓人内在的知识和智慧：覅看他说话不多，～不坏！  
+1. 【[肚肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_chan.md#肚肠)】`tv6 chan` <small>/tʰu1 t͡sʰɑŋ/<sup>泰兴</sup></small> 内脏<sup>\[泰兴\]</sup>  
 1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_li.md#肚里)】`tv6 li` ① 心里<sup>\[泰州\]</sup>：你对他的好，他～都明白。<sup>\[泰州\]</sup> ② 物体中间空旷部分<sup>\[泰州\]</sup>：铫子～水透啊唻。<sup>\[泰州\]</sup> ③ 泛指物体里面<sup>\[泰州\]</sup>：不晓得他脑～想甚的。<sup>\[泰州\]</sup> ④ 事情内里<sup>\[泰州\]</sup>：三月份的奖金到现在都不发，这～有问题。<sup>\[泰州\]</sup>  
 1. 【[肚量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lian.md#肚量)】`tv6 lian6` <sup>[如皋]</sup> 气量。另读dv3 lian。  
 1. 【[肚里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii.md#肚里)】`tv6 lii` <small>/tʰu6 ləi/<sup>兴化</sup>, /tʰu1 ləɪ/<sup>泰兴</sup>, /tʰu1 tiɪ/<sup>泰县</sup></small> ① 里面 ② 腹中<sup>\[兴化\]</sup>：～饿；～疼。<sup>\[兴化\]</sup> ③ 心里、心地<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：石秀是个精细的人，看在～，便省得了……（《水浒传》四四）<sup>\[兴化\]</sup> ④ 里面<sup>\[泰县\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：这箱子～有甚的杲子我不晓得。<sup>\[泰县\]</sup>｜他一个猛子能伏咖水～好几分钟。<sup>\[兴化\]</sup>  
 1. 【[肚里唱空城计](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_chan_kon.md#肚里唱空城计)】`tv6 lii chan5 kon1 chen2 ji5` <sup>[如皋]</sup> 饿了。  
 1. 【[肚里二条啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_lii_er_tio.md#肚里二条啊)】`tv6 lii er6 tio2 a` <sup>[如皋]</sup> 比喻饿了，要吃。  
+1. 【[肚脐眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen_zz.md#肚脐眼子)】`tv6 qi ngaen3 zz` <small>/tʰu1 t͡ɕʰʝ ŋɛ̃3 t͡sɿ/<sup>泰兴</sup></small> 肚脐。<sup>\[泰兴\]</sup>  
 1. 【[肚脐眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen.md#肚脐眼)】`tv6 qi2 ngaen3` <sup>[东台]</sup> 肚脐。  
 1. 【[肚脐眼雕花——刻脐（客气）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen_dio.md#肚脐眼雕花——刻脐（客气）)】`tv6 qi2 ngaen3 dio1 hua1 keh7 qi2 （keh7 qi）` <sup>[东台]</sup>   
 1. 【[肚脐眼放屁——怎响（想）得起来的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen_fan.md#肚脐眼放屁——怎响（想）得起来的)】`tv6 qi2 ngaen3 fan5 pi5 zen3 xian3 deh7 qi3 lae2 dii` <sup>[东台]</sup>   
-1. 【[肚脐眼子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qi_ngaen_zz.md#肚脐眼子)】`tv6 qi2 ngaen3 zz` <small>/tʰu1 t͡ɕʰʝ2 ŋɛ̃3 t͡sɿ/<sup>泰兴</sup></small> 肚脐。<sup>\[泰兴\]</sup>  
 1. 【[肚全](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_qiun.md#肚全)】`tv6 qiun` <sup>[如皋]</sup> 成套猪内脏，含肝、肠、肚、肺、心。  
 1. 【[肚肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_roh.md#肚肉)】`tv6 roh8` <sup>[兴化]</sup> ① 用作菜肴的家畜、家禽的内脏。 ② 鱼肚皮上的肉。  
 1. 【[肚梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tv_sho.md#肚梢)】`tv6 sho1` 用来食用的动物内脏<sup>\[泰州\]</sup>：听吖说扬桥口有～卖，你去买点儿大肠家来。<sup>\[泰州\]</sup>  

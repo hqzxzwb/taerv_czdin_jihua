@@ -599,7 +599,7 @@
 1. 【[落将星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_jian_xien.md#落将星)】`lah8 jian5 xien1` <small>/laʔ8 t͡ɕiã5 ɕiəŋ1/<sup>如皋</sup></small> ① 迷信者认为，伟人是天上的星宿。伟人死亡之日见流星飞逝，称落将星。<sup>\[如东\]</sup> ② 迷信者称某伟人死之日所见较大的流星。并与“敲天鼓”相配。<sup>\[如皋\]</sup>  
 1. 【[落开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_kae.md#落开)】`lah8 kae1` <sup>[如东]</sup> 渔民到外海去作业，距离大陆很远，称落开。  
 1. 【[落口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_keu.md#落口)】`lah8 keu3` <small>/laʔ8 kʰei3/<sup>如皋</sup></small> ① 靠外。<sup>\[如东\]</sup>：凳子摆啊嫌～。<sup>\[如东\]</sup> ② 偏于外边。<sup>\[如皋\]</sup>  
-1. 【[落落饥肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_lah_ji_chan.md#落落饥肠)】`lah8 lah8 ji1 chan2` <sup>[如皋]</sup> 吃饱后休息休息，等胃内容消减后再行工作或睡觉。  
+1. 【[落落饥肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_lah_ji_chan.md#落落饥肠)】`lah8 lah8 ji1 chan` <small>/laʔ8 laʔ8 t͡ɕʝ1 t͡sʰã/<sup>如皋</sup></small> 吃饱后休息休息，等胃内容消减后再行工作或睡觉。\[如皋：又音lah8 lah8 ji1 tan\]  
 1. 【[落藜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_li.md#落藜)】`lah8 li2` <sup>[如东]</sup> 藜科植物藜，一年生草本。  
 1. 【[落礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_li.md#落礼)】`lah8 li3` <sup>[如东]</sup> 失礼。  
 1. 【[落里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lah_li.md#落里)】`lah8 li3` <small>/laʔ8 lʝ3/<sup>如皋</sup></small> ① 靠里。<sup>\[如东\]</sup>：桌子摆啊嫌～。<sup>\[如东\]</sup> ② 偏于里边<sup>\[如皋\]</sup>：他家住得～，转进去一段路才到。<sup>\[如皋\]</sup> ③ 引指内向，不太表露意见<sup>\[如皋\]</sup>：这个人～，话不多。<sup>\[如皋\]</sup>  
