@@ -115,7 +115,6 @@
 1. 【[鸡子翅膀只躴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz_zhr_ban.md#鸡子翅膀只躴)】`ji1 zz zhr5 ban zheh7 lan2` <sup>[如皋]</sup> 表天气炎热或闷热。  
 1. 【[麂毛草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mo_co.md#麂毛草)】`ji1 mo2 co3` <sup>[如东]</sup> 草本植物，丛生，叶细长，似猪毛。  
 1. 【[齑菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_cae.md#齑菜)】`ji1 cae5` <small>/t͡ɕi1 t͡sʰɛ5/<sup>兴化</sup></small> ① 见“酸齑菜”。“齑”古籍用“虀”，现也用“𪊆”。<sup>\[东台\]</sup> ② 小青菜用热水烫后发酵，色青黄，味微酸，可用米烧汤<sup>\[兴化\]</sup>：～散花坨子（肉圆）。<sup>\[兴化\]</sup>  
-1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo` <small>/t͡ɕʝ1 t͡sɔ/<sup>泰兴</sup></small> 焦虑，心神不宁<sup>\[泰兴\]</sup>  
 1. 【[齑糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zo.md#齑糟)】`ji1 zo1` <small>/t͡ɕʝ1 t͡sɔ1/<sup>泰兴</sup></small> ① 因琐碎小事而处于焦虑状态<sup>\[泰州\]</sup>：他就是个～人，一点儿小事，他有泡的作阴躁唻。<sup>\[泰州\]</sup>｜她这个人～啊不得命，大事小事都要操心。<sup>\[泰州\]</sup> ② 烦躁，不耐烦<sup>\[泰兴\]</sup>：你佼不要～，一刻儿就妥了<sup>\[泰兴\]</sup>  
 1. 【[𨳻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#𨳻)】`ji1` ① 门臼。 ② 拧着转  
 1. 【[几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#几)】`ji3` <sup>[如皋]</sup> 条几、香几等的通称。  
@@ -1331,6 +1330,7 @@
 1. 【[牮屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_oh.md#牮屋)】`jin5 oh7` <sup>[如皋]</sup> 用店子将屋由斜变正。  
 1. 【[牮正](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zhen.md#牮正)】`jin5 zhen5` <sup>[兴化]</sup> 用长木头支撑倾斜的房屋：房屋～。  
 1. 【[犍牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngeu.md#犍牛)】`jin5 ngeu2` <small>/t͡ɕĩ5 ŋəɪ2/<sup>泰兴</sup></small> ① 骟过的公牛。<sup>\[如东\]</sup> ② 公黄牛。<sup>\[泰州\]</sup> ③ 阉割过的公牛。<sup>\[泰兴\]</sup>  
+1. 【[犍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#犍子)】`jin5 zz` <sup>[兴化]</sup> 阉过的公牛。  
 1. 【[箭叶堇菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ih_qien_cae.md#箭叶堇菜)】`jin5 ih8 qien6 cae5` <sup>[如东]</sup> 多年生草本植物，无毛，叶基生，叶片通常三角状卵形或舌状三角形，上面有乳状白点。花淡紫色。蒴果椭圆形。  
 1. 【[箭头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_teu_y.md#箭头鱼)】`jin5 teu2 y2` <sup>[如东]</sup> 鲈形科动物箭头鱼。  
 1. 【[荐把草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ba_co.md#荐把草)】`jin5 ba3 co3` <small>/t͡ɕĩ5 pa3 t͡sʰɔ3/<sup>如皋</sup></small> 添燃料<sup>\[如皋\]</sup>：望锅膛里～。<sup>\[如皋\]</sup>  
@@ -1378,7 +1378,7 @@
 1. 【[见面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_min.md#见面)】`jin5 min6` <sup>[如东]</sup> 相见。  
 1. 【[见面兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_min_xion_ti.md#见面兄弟)】`jin5 min6 xion1 ti6` <sup>[如东]</sup> 同母异父的兄弟。  
 1. 【[见苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_mio.md#见苗)】`jin5 mio2` <sup>[如东]</sup> 看见苗头：不～。  
-1. 【[见么<sub>儿</sub>收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_mu_r_sheu.md#见么<sub>儿</sub>收)】`jin5 mu6 r sheu1` <sup>[兴化]</sup> 有什么拿什么，见什么要什么：他这次回乡，人家给他送东西来者不拒，～。  
+1. 【[见镘<sub>儿</sub>收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_mu_r_sheu.md#见镘<sub>儿</sub>收)】`jin5 mu6 r sheu1` <sup>[兴化]</sup> 有什么拿什么，见什么要什么：他这次回乡，人家给他送东西来者不拒，～。  
 1. 【[见颜光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngaen_guan.md#见颜光)】`jin5 ngaen2 guan` <sup>[东台]</sup> 快见到底，或效果明显了。  
 1. 【[见眼<sub>儿</sub>生情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngaen_r_shen.md#见眼<sub>儿</sub>生情)】`jin5 ngaen3 r shen1 qien2` <sup>[如东]</sup> 看见什么都要注意、关心：当学徒要～，才有长进。  
 1. 【[见眼生勤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ngaen_shen_qien.md#见眼生勤)】`jin5 ngaen3 shen1 qien2` <sup>[东台]</sup> 与“见麻”近义。有眼头见识、勤快：这青年懂事，遇事～，主动积极。  
@@ -1400,7 +1400,6 @@
 1. 【[豜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#豜子)】`jin5 zz` <sup>[如皋]</sup> 雄性小猪。与豚子（雌性小猪）相对。  
 1. 【[踺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#踺)】`jin5` <small>/t͡ɕĩ5/<sup>如皋</sup></small> ① 蹬挺<sup>\[如皋\]</sup>：端尿的刻儿，小家伙的腿子只～；他睡觉会望上～。<sup>\[如皋\]</sup> ② 脉冲式射动<sup>\[如皋\]</sup>：他游起来朝前只～。<sup>\[如皋\]</sup>  
 1. 【[踺鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_ji.md#踺鸡)】`jin5 ji1` <sup>[如皋]</sup> 水赤链蛇，游动很快，头常竖起。  
-1. 【[键子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#键子)】`jin5 zz` <sup>[兴化]</sup> 阉过的公牛。  
 1. 【[佼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio.md#佼)】`jio` <small>/t͡ɕiɔ/<sup>泰兴</sup></small> 们。泰兴多数地区通用。其余地方则习惯用lae。<sup>\[泰兴\]</sup>：我～<sup>\[泰兴\]</sup>｜你～（泰兴多数音nen3 jio）<sup>\[泰兴\]</sup>｜他～<sup>\[泰兴\]</sup>  
 1. 【[交大伏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_da_foh.md#交大伏)】`jio1 da6 foh8` <sup>[东台]</sup> 指进入大暑的那一天。  
 1. 【[交冬数九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_don_shv_jieu.md#交冬数九)】`jio1 don1 shv3 jieu3` <sup>[兴化]</sup> 从冬至日起，每九天为一“九”，共九个“九”。此间为一年中最寒冷的时期。  

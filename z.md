@@ -922,7 +922,6 @@
 1. 【[正孝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xio_zz.md#正孝子)】`zhen5 xio5 zz` <sup>[如东]</sup> 长子或长女为正孝子。  
 1. 【[正主<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhv_r.md#正主<sub>儿</sub>)】`zhen5 zhv3 r` <sup>[兴化]</sup> 事件的直接关系人：我是这许的客人，有事等～家来再说。｜“这一厘是欠着什么？”“这一厘么？～还不在家。”（《醒世恒言》三）  
 1. 【[正子时](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zz_shr.md#正子时)】`zhen5 zz3 shr2` <sup>[如皋]</sup> 半夜十二点正。  
-1. 【[瑱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#瑱)】`zhen5` <sup>[如皋]</sup> 帽～子：嵌在帽前的玉。  
 1. 【[糽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#糽)】`zhen5` <sup>[泰州]</sup> ① （如皋词典作捘zuen5） ② 多股纤维转动以后达到紧的程度：绳子的～松吖来唻，再上点儿～。｜这个头绳的～蛮紧的。  
 1. 【[紾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#紾)】`zhen5` <sup>[兴化]</sup> 把几股绳扭合成一根：麻绳上吖～就结实咖。  
 1. 【[镇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen.md#镇)】`zhen5` <small>/t͡sən5/<sup>兴化</sup></small> ① 集镇，市镇。宋代以后称县以下的小商业都市为镇。现代称县以下的行政单位为镇。<sup>\[如东\]</sup> ② 压服、制服<sup>\[兴化\]</sup>：几个小痞子大吵大闹，多亏老姜把他俫～住。<sup>\[兴化\]</sup>  
