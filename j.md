@@ -1172,6 +1172,7 @@
 1. 【[接手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_sheu.md#接手)】`jih7 sheu3` <sup>[如东]</sup> 接替。  
 1. 【[接趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_tan.md#接趟)】`jih7 tan5` <sup>[东台]</sup> 见别人正在忙，赶快接上去帮一把。  
 1. 【[接头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_teu.md#接头)】`jih7 teu` <sup>[东台]</sup> 经常地、接二连三：青菜萝卜汤，～～上｜他～来看望老人家。（此处“头”轻读）  
+1. 【[接头连<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_teu_lin_r.md#接头连<sub>儿</sub>)】`jih7 teu lin2 r` 接连不断的，络绎不绝的<sup>\[如东\]</sup>  
 1. 【[接头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_teu.md#接头)】`jih7 teu2` <sup>[如皋]</sup> 碰头。  
 1. 【[接头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_teu_zz.md#接头子)】`jih7 teu2 zz` <sup>[兴化]</sup> 骨牌的一种玩法，数家轮流出牌，点数相同的一头相接，无可接的则扣下一张牌，以终局扣点数少者为胜。也称“接龙”。  
 1. 【[接天风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jih_tin_fon.md#接天风)】`jih7 tin1 fon1` <sup>[如皋]</sup> ① 放风筝接到高空风力。 ② 办事情接到高层的人力、物力。  
