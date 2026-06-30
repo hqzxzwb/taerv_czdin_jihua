@@ -646,20 +646,24 @@ function renderMeaning(text) {
   return text.replace(/\{([^{}]+)\}/g, '<span class="entry-example">$1</span>');
 }
 
-function score(entry, terms) {
-  // Return a relevance score; higher is better
-  let s = 0;
-  const pinyinRawLower = entry[P].toLowerCase();
-  const pinyinShownLower = formatPinyinDisplay(entry[P]).toLowerCase();
+function normalizedHeadword(entry) {
+  return entry[W].replace(/[\u02b0\u02b2\u02b3]/g, '').replace(/儿/g, '').toLowerCase();
+}
+
+function headwordKeywordPosition(entry, terms) {
+  if (!terms.length) return Number.POSITIVE_INFINITY;
+  const wordLower = entry[W].replace(/[\u02b0\u02b2]/g, '').replace(/\u02b3/g, '儿').toLowerCase();
+  const wordNoRLower = entry[W].replace(/[\u02b0\u02b2\u02b3]/g, '').toLowerCase();
+  let sum = 0;
   for (const t of terms) {
     const tl = t.toLowerCase();
-    const w = entry[W].replace(/\u02b0/g, '').replace(/\u02b3/g, '儿');
-    const wNoR = entry[W].replace(/[\u02b0\u02b3]/g, '');
-    if (w.includes(t) || wNoR.includes(t)) s += 10;
-    if (pinyinRawLower.includes(tl) || pinyinShownLower.includes(tl)) s += 5;
-    if (entry[M].includes(t)) s += 1;
+    const i1 = wordLower.indexOf(tl);
+    const i2 = wordNoRLower.indexOf(tl);
+    const pos = Math.min(i1 === -1 ? Number.POSITIVE_INFINITY : i1, i2 === -1 ? Number.POSITIVE_INFINITY : i2);
+    if (!Number.isFinite(pos)) return Number.POSITIVE_INFINITY;
+    sum += pos;
   }
-  return s;
+  return sum;
 }
 
 function disconnectLazyObserver() {
@@ -761,13 +765,21 @@ function search(query) {
     if (pinyinTerms) {
       const pyTokens = pinyinTokens(entry[P]);
       let found = false;
+      let pinyinPos = Number.POSITIVE_INFINITY;
       for (let i = 0; i <= pyTokens.length - pinyinTerms.length; i++) {
         if (pinyinTerms.every((qt, j) => pyTokens[i + j].startsWith(qt))) {
           found = true;
+          pinyinPos = i;
           break;
         }
       }
       if (!found) continue;
+      matches.push({
+        entry,
+        headPos: headOnly ? headwordKeywordPosition(entry, terms) : Number.POSITIVE_INFINITY,
+        pinyinPos,
+      });
+      continue;
     } else if (hasQuery) {
       // Non-pinyin query: if headOnly is checked, only match entry headword.
       const allMatch = terms.every(t => {
@@ -782,13 +794,24 @@ function search(query) {
       if (!allMatch) continue;
     }
 
-    matches.push({ entry, s: score(entry, terms) });
+    matches.push({
+      entry,
+      headPos: headOnly ? headwordKeywordPosition(entry, terms) : Number.POSITIVE_INFINITY,
+      pinyinPos: Number.POSITIVE_INFINITY,
+    });
   }
 
-  // Sort by score descending, then by word length ascending (only when query exists)
-  if (hasQuery) {
-    matches.sort((a, b) => b.s - a.s || a.entry[W].length - b.entry[W].length);
-  }
+  // Sort by word length, then pinyin order.
+  // In head-only mode, prioritize earlier keyword positions in the headword.
+  matches.sort((a, b) => {
+    if (headOnly && hasQuery && a.headPos !== b.headPos) return a.headPos - b.headPos;
+    if (pinyinTerms && hasQuery && a.pinyinPos !== b.pinyinPos) return a.pinyinPos - b.pinyinPos;
+    const lenDiff = normalizedHeadword(a.entry).length - normalizedHeadword(b.entry).length;
+    if (lenDiff !== 0) return lenDiff;
+    const pinyinDiff = a.entry[P].localeCompare(b.entry[P], 'en', { sensitivity: 'base' });
+    if (pinyinDiff !== 0) return pinyinDiff;
+    return a.entry[W].localeCompare(b.entry[W], 'zh-Hans-CN');
+  });
 
   const letterHint = letter ? `【${letter}】` : '';
 
