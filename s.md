@@ -480,7 +480,7 @@
 1. 【[沙枣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zo.md#沙枣)】`sha1 zo3` <sup>[如东]</sup> 鼠李科植物沙枣，落叶小乔木。幼枝上具成对的剌。叶子长圆形。花黄绿色。耐碱。结核果，暗红色，卵形、长圆形或球形，味甜，可食。  
 1. 【[痧斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_baen.md#痧斑)】`sha1 baen1` <sup>[如皋]</sup> 麻疹并发的败血症，极危险。  
 1. 【[痧麻痘疹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ma_teu_zhen.md#痧麻痘疹)】`sha1 ma2 teu6 zhen3` <sup>[兴化]</sup> 泛指天花、麻疹一类的传染病：小大爷染上～之类的病危险㖸！  
-1. 【[痧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#痧子)】`sha1 zz` <sup>[如皋]</sup> 麻疹。  
+1. 【[痧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#痧子)】`sha1 zz` <small>/sa1 t͡sɿ/<sup>如皋</sup>, /sɑ1 t͡sɿ/<sup>泰兴</sup></small> 麻疹。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：宝宝出～。<sup>\[泰兴\]</sup>  
 1. 【[砂场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chan.md#砂场)】`sha1 chan2` <sup>[如东]</sup> 堆放黄沙、石子儿、瓜子片的场地。  
 1. 【[砂缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gan.md#砂缸)】`sha1 gan1` <small>/sa1 kaŋ1/<sup>兴化</sup>, /sa1 kã1/<sup>如皋</sup></small> ① 径略大于深的无釉大缸。多用于制酱。<sup>\[如皋\]</sup> ② 缸的一种。陶制，比较粗糙。圆桶形，体积大。高120厘米，口径88厘米，底径65厘米。用以装物。<sup>\[如东\]</sup> ③ 盛东西的器物，底小口大，陶土烧制而成，不上釉。<sup>\[兴化\]</sup>  
 1. 【[砂锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_gu.md#砂锅)】`sha1 gu1` <small>/sɑ1 kɤɯ1/<sup>泰兴</sup></small> ① 锅的一种。砂泥制，圆形，有盖，有的有柄或环。有各种规格。用来焖菜或煎中药。<sup>\[如东\]</sup> ② 用粘土为原料烧制成的锅。<sup>\[泰兴\]</sup>  
@@ -513,6 +513,7 @@
 1. 【[髿髿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sha_dii.md#髿髿的)】`sha1 sha1 dii` <sup>[泰州]</sup> ① 粉状、颗粒状的物体自然坠落的样子：袋子破啊唻，肚里的粉面～。｜你慢慢儿走，装得太满唻，弄得箩里黄豆～。 ② 鼻涕、口水、眼泪自然向下流淌的样子：她家伢儿没得人带，成天弄得鼻涕～。｜口水～。｜眼泪～。  
 1. 【[鲨鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y.md#鲨鱼)】`sha1 y2` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼，又名鲛鱼，体细长，长约60厘米。  
 1. 【[鲨鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_poh.md#鲨鱼白)】`sha1 y2 poh8` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼鳔。  
+1. 【[𥆝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#𥆝)】`sha1` <small>/sɑ1/<sup>泰兴</sup></small> 用眼睛偷偷地看（对照“睃su1”）<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
 1. 【[啥杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_go_zz.md#啥杲子)】`sha2 go3 zz` <sup>[兴化]</sup> 什么东西：你手里拿的～？｜今朝吃～？  
 1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` 蛇。  
 1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /sɑ2 t͡sʰɔŋ2 pɔʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
@@ -535,7 +536,6 @@
 1. 【[舍不得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_deh.md#舍不得)】`sha3 beh7 deh7` <sup>[东台]</sup> 不愿意放弃，不愿付出。  
 1. 【[舍得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_deh.md#舍得)】`sha3 deh` 舍得  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha5` 瓦器破裂\[泰州：（泰州词典作㽂，反切不合）\]：这个砂锅～啊唻，不能再煮东西唻。<sup>\[泰州\]</sup>  
-1. 【[厦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#厦子)】`sha5 zz` 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
 1. 【[嗄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#嗄)】`sha5` <small>/sa5/<sup>兴化</sup>, /sa5/<sup>如皋</sup>, /sa5/<sup>泰县</sup></small> （喉咙、嗓子）音嘶哑<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：～喉咙<sup>\[如皋\]</sup>｜喉咙～啊，话说不出来<sup>\[如东\]</sup>｜喉咙冻～啊。<sup>\[兴化\]</sup>｜喉咙喊～啊。<sup>\[兴化\]</sup>｜她是天生的～喉咙。<sup>\[泰州\]</sup>｜连续上吖一个星期的课，嗓子都说咖～啊。<sup>\[泰州\]</sup>｜他今吖喉咙～啊。<sup>\[泰县\]</sup>  
 1. 【[嗄巴喉咙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_heu_lon.md#嗄巴喉咙)】`sha5 ba heu2 lon2-3` <sup>[东台]</sup> 嗓子沙了，嗓音嘶哑不清脆：我是～喇叭声，唱歌难听。  
 1. 【[嗄巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_ba_zz.md#嗄巴子)】`sha5 ba1 zz` <small>/sɑ5 pɑ1 t͡sɿ/<sup>泰兴</sup></small> 若沙喉咙。<sup>\[泰兴\]</sup>  
@@ -545,6 +545,7 @@
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <small>/sa5 ɚ/<sup>兴化</sup>, /sa5 ɚ/<sup>泰县</sup></small> ① 见“舍子”。<sup>\[兴化\]</sup> ② 野外的小屋。<sup>\[泰县\]</sup>  
 1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <sup>[兴化]</sup> ① 位于村庄以外的小屋。 ② 较小的村落：张家～；李家～。也说“舍儿”。  
+1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
 1. 【[赦不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_tio.md#赦不掉)】`sha5 beh7 tio6` <small>/sɑ5 pəʔ7 tʰiɔ1/<sup>泰兴</sup></small> 逃脱不了。<sup>\[泰兴\]</sup>  
 1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` <small>/sa5 su5/<sup>兴化</sup>, /sa5 su5/<sup>如皋</sup>, /sɑ5 su5/<sup>泰兴</sup>, /sa5 su5/<sup>泰县</sup></small> 分寸、节制<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴：又说ha5 shv5\]：他说话没～<sup>\[如皋\]</sup>｜耍子啊没～啊。<sup>\[如皋\]</sup>｜这个人说话没～。<sup>\[兴化\]</sup>｜你这个人说话没得点儿～。<sup>\[泰县\]</sup>｜不要没～，箇桩事不能弄<sup>\[泰兴\]</sup>｜救灾的钱你都敢拿出来发福利，你真是没得～唻。<sup>\[泰州\]</sup>｜总共不过考啊300多分，他就说能上清华，你说他说话哿有个～。<sup>\[泰州\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha6` <sup>[如皋]</sup> 信口说，毫不谨慎：他的嘴～，把秘密～出去啊。  
@@ -1855,6 +1856,7 @@
 1. 【[善和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_hu.md#善和)】`shin6 hu` <sup>[兴化]</sup> 形容性情温和：“……其实，俺妈在这里头算是顶～的哩……”（《老残游记》十三）  
 1. 【[善门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men.md#善门)】`shin6 men2` <sup>[东台]</sup> ［喻］行善开了口子，有了先例：这个～一开许多人受益，但也可能引起攀比。  
 1. 【[善门难开](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_men_naen_kae.md#善门难开)】`shin6 men2 naen2 kae1` <sup>[兴化]</sup> （喻）好事难做，好人难当：最近帮吖几位穷乡邻，不想有钱的也来告贷，真是～。｜“……我们来救了一个，不救一个，他们打架了，这叫～。”（扬一《通天河》）  
+1. 【[善事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_shr.md#善事)】`shin6 shr6` <small>/ɕĩ1 sɿ1/<sup>泰兴</sup></small> 吉事；好事。<sup>\[泰兴\]</sup>：多做点儿～。<sup>\[泰兴\]</sup>  
 1. 【[梢把<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_ba_r.md#梢把<sub>儿</sub>)】`sho1 ba3 r` <sup>[如东]</sup> 装在犁梢上的木柄。  
 1. 【[梢瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_gua.md#梢瓜)】`sho1 gua1` <small>/sɔ1 kua1/<sup>兴化</sup></small> ① 菜瓜。见《本草纲目》。<sup>\[东台\]</sup> ② 即越瓜、葫芦科，为甜瓜的一个变种。瓠果圆筒形，较长，前端略粗，表面有瓦垄般隆起的条痕。瓜成熟后可生吃、凉拌菜，但主要用作腌菜或酱菜。<sup>\[兴化\]</sup>  
 1. 【[梢身大汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_shen_da_hun.md#梢身大汉)】`sho1 shen1 da6 hun5` <sup>[如东]</sup> 形容人的身体高大：他是个～，还怕你啊！  

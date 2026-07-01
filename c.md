@@ -552,7 +552,7 @@
 1. 【[㪕烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_laen_v.md#㪕烂污)】`chah7 laen6 v` <small>/t͡sʰaʔ7 lẽ1 ʋu/<sup>如皋</sup></small> ① 不负责任、敷衍、糖塞、胡混。<sup>\[如皋\]</sup> ② 给人惹下麻烦而又逃之夭夭<sup>\[泰州\]</sup>：是你惹啊事，你弄吖一当吖再走，不作兴～。<sup>\[泰州\]</sup>｜人家找上门唻，你现在～唻，先前你不会不动手的。<sup>\[泰州\]</sup>  
 1. 【[㪕米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_mi.md#㪕米)】`chah7 mi3` <small>/t͡sʰaʔ7 mʝ3/<sup>如皋</sup></small> ① 用盛器插入堆中取米。<sup>\[如皋\]</sup> ② 量米。渔民避讳语。因量与凉谐音，故避讳。<sup>\[东台\]</sup>  
 1. 【[㪕鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_y.md#㪕鱼)】`chah7 y2` <sup>[如皋]</sup> 用料㨟（hae3）从网中兜鱼。  
-1. 【[焯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#焯)】`chah7` <small>/t͡sʰaʔ7/<sup>如皋</sup></small> ① 一种烹调方法。把食物或莱放在锅中边煮边拌，半生半熟时即捞出来。<sup>\[如东\]</sup> ② 沸水浸烫蔬菜<sup>\[如皋\]</sup>：～黄菜、～菠菜、～萝卜。<sup>\[如皋\]</sup> ③ 把蔬菜放在开水中烫一下就取出来<sup>\[东台\]</sup>：把菠菜先～一下。<sup>\[东台\]</sup> ④ 一种烹调方法，特指将食物置滚水中稍稍浸烫后即取出，生肉焯之去腥，生蔬菜焯之烫熟且保持绿色<sup>\[泰州\]</sup>：你把青菜～咖子。<sup>\[泰州\]</sup>  
+1. 【[焯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#焯)】`chah7` <small>/t͡sʰaʔ7/<sup>如皋</sup>, /t͡sʰɑʔ7/<sup>泰兴</sup></small> ① 把蔬菜放在开水里稍煮即捞上来。<sup>\[泰兴\]</sup>：把萝卜缨子先～下子。<sup>\[泰兴\]</sup> ② 一种烹调方法。把食物或莱放在锅中边煮边拌，半生半熟时即捞出来。<sup>\[如东\]</sup> ③ 沸水浸烫蔬菜<sup>\[如皋\]</sup>：～黄菜、～菠菜、～萝卜。<sup>\[如皋\]</sup> ④ 把蔬菜放在开水中烫一下就取出来<sup>\[东台\]</sup>：把菠菜先～一下。<sup>\[东台\]</sup> ⑤ 一种烹调方法，特指将食物置滚水中稍稍浸烫后即取出，生肉焯之去腥，生蔬菜焯之烫熟且保持绿色<sup>\[泰州\]</sup>：你把青菜～咖子。<sup>\[泰州\]</sup>  
 1. 【[绰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah.md#绰)】`chah7` <sup>[泰州]</sup> （泰州词典作珿）以梳梳头，使发整齐：你把个头～咖子去吃喜酒。  
 1. 【[绰绰有余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_chah_ieu_y.md#绰绰有余)】`chah7 chah7 ieu3 y2` ① 很充足、宽裕，富余。<sup>\[东台\]</sup> ② 具有的实力完成某事显得非常宽裕<sup>\[泰州\]</sup>：二百万在泰州买个三室一厅，肯定～。<sup>\[泰州\]</sup>  
 1. 【[绰号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chah_ho.md#绰号)】`chah7 ho6` <sup>[如东]</sup> 在大名之外，根据人的某种特性取的名字。也称外号。  
@@ -679,7 +679,7 @@
 1. 【[唱赖污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_lae_v.md#唱赖污)】`chan5 lae6 v` <small>/t͡sʰɑŋ5 ne1 u/<sup>泰县</sup></small> 耍无赖<sup>\[泰县\]</sup>：这人～。<sup>\[泰县\]</sup>  
 1. 【[唱烂污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_laen_v.md#唱烂污)】`chan5 laen6 v` <sup>[东台]</sup> 言而无信，讲歪理耍赖、放讹：你的债务到啊期，不能～。也说“唱赖讹（lae6 u）”。见“擦烂污”“拆烂污”“䢢烂污”。  
 1. 【[唱烂污戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_laen_v_xi.md#唱烂污戏)】`chan5 laen6 v xi5` <sup>[东台]</sup> 同“唱烂污”。  
-1. 【[唱蛮蛮螺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_maen_maen_lu.md#唱蛮蛮螺<sub>儿</sub>)】`chan5 maen2 maen2 lu1 r` <sup>[如东]</sup> ① 唱儿歌：毛毛在下～。 ② 即兴编唱的谦词：我在下～。  
+1. 【[唱蛮蛮拉<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_maen_maen_la.md#唱蛮蛮拉<sub>儿</sub>)】`chan5 maen2 maen2 la1 r` <sup>[如东]</sup> ① 唱儿歌：毛毛在下～。 ② 即兴编唱的谦词：我在下～。  
 1. 【[唱白脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_poh_lin.md#唱白脸)】`chan5 poh8 lin3` <sup>[东台]</sup> ［喻］说话巧妙，委婉动听：遇事总要有人唱红脸，有人～。  
 1. 【[唱婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_pu_r.md#唱婆<sub>儿</sub>)】`chan5 pu2 r` <sup>[如东]</sup> ① 唱戏卖艺的女人。 ② 比喻喜欢唱歌的女人。  
 1. 【[唱七字传<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chan_qieh_cz_chun.md#唱七字传<sub>儿</sub>)】`chan5 qieh7 cz6 chun6 r` <sup>[如东]</sup> 以七个字为一行的韵文小说。有故事情节，有人物。采用民间曲调演唱，生动感人。  
@@ -1003,7 +1003,7 @@
 1. 【[抽筋抽骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_jien_cheu_gueh.md#抽筋抽骨)】`cheu1 jien1 cheu1 gueh7` <small>/t͡ɕʰiɤɯ1 t͡ɕiŋ1 t͡ɕʰiɤɯ1 kuəʔ7/<sup>泰兴</sup></small> 筋肉痉挛、抽搐<sup>\[泰兴\]</sup>：箇两天没劲，浑身～的疼。<sup>\[泰兴\]</sup>  
 1. 【[抽空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_kon.md#抽空)】`cheu1 kon5` <small>/t͡sʰei1 kʰɔŋ5/<sup>如皋</sup></small> 挤出时间。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：请你～来下子。<sup>\[如东\]</sup>  
 1. 【[抽牌九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_pae_jieu.md#抽牌九)】`cheu1 pae2 jieu3` <sup>[兴化]</sup> 卖糖果小贩在竹筒中放置刻有牌九点子的小竹筹一副，和顾客各抽几张，比点子决输赢。  
-1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <small>/t͡ɕʰiɤɯ1 t͡ɕʰĩ1/<sup>泰兴</sup></small> ① 穷折腾<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 紊乱；办事条件不够，勉强应付。<sup>\[泰兴\]</sup>：过点日子真是～，又没草又没粮的。<sup>\[泰兴\]</sup>  
+1. 【[抽牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽牵)】`cheu1 qin1` <small>/t͡ɕʰiɤɯ1 t͡ɕʰĩ1/<sup>泰兴</sup></small> ① 穷折腾<sup>\[东台\]</sup><sup>\[泰兴\]</sup> ② 紊乱；办事条件不够，勉强应付。\[泰兴：泰兴方言辞典又作“就牵”\]：过点日子真是～，又没草又没粮的。<sup>\[泰兴\]</sup>  
 1. 【[抽签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qin.md#抽签)】`cheu1 qin1` <sup>[泰州]</sup> ① 指人遇到事情犹豫不决，难下决策：你到底是去，还是不去，不要～。 ② 事物发展过程变化无常，始终没有结果：他本来答应帮忙的，后来说没得工夫，只好请老王，老王又说家里有事，你说哿～吖。  
 1. 【[抽穗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_qy.md#抽穗)】`cheu1 qy6` <sup>[如东]</sup> 麦子、玉米、高粱等农作物由叶鞘中长出穗头来。  
 1. 【[抽<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cheu_r.md#抽<sub>儿</sub>)】`cheu1 r` 抽屉  

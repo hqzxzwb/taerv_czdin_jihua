@@ -182,6 +182,7 @@
 1. 【[安装](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhuan.md#安装)】`un1 zhuan1` <sup>[如东]</sup> 按照一定的规定把机械或装饰物固定在一定的地方：～电风扇。  
 1. 【[庵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#庵)】`un1` <sup>[东台]</sup> 旧时的小草屋，后成为地名：富安南面有个九里～。  
 1. 【[庵堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_tan.md#庵堂)】`un1 tan2` <sup>[如东]</sup> 尼姑修行的地方。也叫尼姑庵。  
+1. 【[腕子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zz.md#腕子)】`un1 zz` <small>/ʊ̃1 t͡sɿ/<sup>泰兴</sup></small> 腕的俗称。<sup>\[泰兴\]</sup>：手～。<sup>\[泰兴\]</sup>｜脚～。<sup>\[泰兴\]</sup>  
 1. 【[蜿嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_jy_r.md#蜿嘴<sub>儿</sub>)】`un1 jy3 r` <sup>[如皋]</sup> 状双唇合收缩的样子。  
 1. 【[豌菜头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_cae_teu.md#豌菜头)】`un1 cae5 teu2` <sup>[东台]</sup> 豌豆最嫩的苗，冬春新鲜蔬菜之一。  
 1. 【[豌豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu.md#豌豆)】`un1 teu6` ① 豆科植物豌豆，一年生攀援草本。<sup>\[如东\]</sup> ② 豆名，一年生草本植物，接荚果，种子略呈球形，嫩叶、种子均可食用。<sup>\[泰州\]</sup>  

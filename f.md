@@ -695,6 +695,7 @@
 1. 【[粉撮撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zuh_zuh.md#粉撮撮)】`fen3 zuh7 zuh7` <sup>[泰县]</sup> 粉多而均匀：他脸上～的。  
 1. 【[粉子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_zz.md#粉子)】`fen3 zz` <sup>[兴化]</sup> 细粉末：药～；米～。  
 1. 【[粪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen.md#粪)】`fen5` <small>/fəŋ5/<sup>如皋</sup></small> ① 容器中的尿、屎及有机物沤成的腐败物<sup>\[如皋\]</sup>：倒～、舀～、挑～、浇～。不说“屙～”。<sup>\[如皋\]</sup> ② 肥料<sup>\[如皋\]</sup>：垩～。<sup>\[如皋\]</sup> ③ 屎尿混合物<sup>\[泰州\]</sup>：挑～<sup>\[泰州\]</sup>  
+1. 【[粪车子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cha_zz.md#粪车子)】`fen5 cha zz` <small>/fəŋ5 t͡sʰɑ t͡sɿ/<sup>泰兴</sup></small> 运粪的车子。<sup>\[泰兴\]</sup>  
 1. 【[粪车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_cha.md#粪车)】`fen5 cha1` <sup>[如皋]</sup> 装粪的车子。  
 1. 【[粪池](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chr.md#粪池)】`fen5 chr2` <sup>[如皋]</sup> 砖砌的大池，贮粪用。农家户户有，田头也常见。  
 1. 【[粪船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_chun.md#粪船)】`fen5 chun2` <sup>[如皋]</sup> 装粪的船。  
@@ -712,6 +713,7 @@
 1. 【[粪桶耳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ton_er_zz.md#粪桶耳子)】`fen5 ton3 er3 zz` <sup>[如皋]</sup> 用毛竹片抈成倒U形，两只，箍在粪桶墙子上，桶口露出半环，与粪桶夹子相勾。  
 1. 【[粪桶夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ton_gaeh_zz.md#粪桶夹子)】`fen5 ton3 gaeh7 zz` <sup>[如皋]</sup> 用粗篾竹抈成的专用于粪桶的系，主体呈U字形，两端各向内又呈小的U字形，与粪桶耳子相连后，将端部用绳扣住。旧时竹行专卖。  
 1. 【[粪桶还有两个耳朵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ton_ha_ieu.md#粪桶还有两个耳朵)】`fen5 ton3 ha2 ieu3 laen3 gu er3 du` <sup>[东台]</sup> （詈语）意为如果不带耳朵（不留心听），那连粪桶都不如。  
+1. 【[粪箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_xian.md#粪箱)】`fen5 xian` <small>/fəŋ5 ɕiɑŋ/<sup>泰兴</sup></small> 运粪肥用的木箱，有盖，可装于小木车上。<sup>\[泰兴\]</sup>  
 1. 【[𡊄箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ji.md#𡊄箕)】`fen5 ji1` <small>/fən5 t͡ɕi1/<sup>兴化</sup>, /fəŋ5 t͡ɕʝ1/<sup>如皋</sup></small> ① 簸箕，用来清除垃圾 ② 不是脶的指纹 ③ 苇篾编成，敞口，用于撮粮食、垃圾等东西。也称畚箕。<sup>\[如东\]</sup> ④ 人手上有缺口的脶纹。<sup>\[如东\]</sup> ⑤ 江芦篾编扼成的撮垃圾用具，像半只筐，家庭清洁用。<sup>\[如皋\]</sup> ⑥ 用粗竹篾编成的挑运具，挑灰、挑泥用。<sup>\[如皋\]</sup> ⑦ 用精篾片“翘二”编成的无孔的用具，磨坊撮粮用。<sup>\[如皋\]</sup> ⑧ 指纹的一类，呈马蹄形。<sup>\[如皋\]</sup> ⑨ 扫除器具，用来撮土或拉圾。<sup>\[兴化\]</sup> ⑩ 畚粮食的用具。<sup>\[兴化\]</sup>  
 1. 【[𡊄箕帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_ji_mo_zz.md#𡊄箕帽子)】`fen5 ji1 mo6 zz` <sup>[如皋]</sup> 一种𡊄箕形的女童帽。  
 1. 【[𡊄箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fen_qi.md#𡊄箕)】`fen5 qi` <sup>[东台]</sup> 打扫垃圾灰尘的工具。  

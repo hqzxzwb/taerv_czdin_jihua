@@ -455,6 +455,7 @@
 1. 【[热血奔心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xiuh_ben_xien.md#热血奔心)】`rih8 xiuh7 ben5 xien1` <sup>[东台]</sup> 形容奔走得很急促。  
 1. 【[热血疯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rih_xiuh_fon.md#热血疯)】`rih8 xiuh7 fon1` <sup>[如东]</sup> 一种皮肤病，多见于下肢，骚痒难忍。  
 1. 【[然](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin.md#然)】`rin2` <sup>[如皋]</sup> 钟爱：你越～他，他越忆你。另音：nin2。  
+1. 【[然的啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_dii_a.md#然的啊)】`rin2 dii a` <small>/ĩ2 təɪ a/<sup>泰兴</sup></small> 正确，表示认为正确<sup>\[泰兴\]</sup>  
 1. 【[染红蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_hon_taen.md#染红蛋)】`rin3 hon2 taen6` <sup>[东台]</sup> 家中生小孩，将鸡蛋染红，送亲戚朋友的一种民俗。  
 1. 【[染指甲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rin_zhr_gaeh.md#染指甲)】`rin3 zhr3 gaeh7` <sup>[泰州]</sup> 夏天，女孩采凤仙花的红色花瓣于酒杯中，加上明矾捣烂，敷在指甲上，用布包好系牢，此日指甲就变成红色。  
 1. 【[饶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ro.md#饶)】`ro2` <small>/ɻɔ2/<sup>泰兴</sup>, /ɻɔ2/<sup>泰县</sup></small> ① 饶恕，原谅，放过 ② 买卖东西时卖家再多给买家一些货物或者减去零头货价：再～我点儿。/再便宜一些吧（再送点东西给我吧）。 ③ 再加一点儿。<sup>\[如东\]</sup>：～一点儿吧。<sup>\[如东\]</sup> ④ 再增添一点的意思<sup>\[东台\]</sup>：再～点儿<sup>\[东台\]</sup>｜买的没得～的多。<sup>\[东台\]</sup> ⑤ 加<sup>\[泰县\]</sup>：已经足秤，再～点儿。<sup>\[泰县\]</sup> ⑥ 卖方多送给买方的货物<sup>\[泰州\]</sup>：做定的价钱，～不得。<sup>\[泰州\]</sup>｜这个菜是早上买黄瓜的时候饶得来的。<sup>\[泰州\]</sup> ⑦ 多给，增加，另外增添。<sup>\[泰兴\]</sup>：再～上点儿<sup>\[泰兴\]</sup> ⑧ 宽容，饶恕。<sup>\[泰兴\]</sup>：今朝～他下子<sup>\[泰兴\]</sup>  
