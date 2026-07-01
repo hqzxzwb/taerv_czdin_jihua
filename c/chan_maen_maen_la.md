@@ -1,5 +1,5 @@
-# 唱蛮蛮螺儿
-chan5 maen2 maen2 lu1 r
+# 唱蛮蛮拉儿
+chan5 maen2 maen2 la1 r
 > 如东方言词典
 - 唱儿歌。
   - 毛毛在下～。

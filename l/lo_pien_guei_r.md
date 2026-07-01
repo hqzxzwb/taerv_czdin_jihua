@@ -15,3 +15,13 @@ lo2 pien6 guei3 r
 # 痨病鬼儿开药店——半吃半卖
 lo2 pien6 guei3 r kae1 iah8 din5 bun5 qieh7 bun5 mae6
 > 东台方言词典
+
+# 痨病鬼儿开药店，带吃带卖
+lo2 pien6 guei3 r kae1 iah8 din5 dae5 qieh7 dae5 mae6
++ 歇后语。谓出售食品的小生意者之经营方式。
+  * 泰兴方言辞典
+
+# 痨病鬼儿吆鸭子，嘴嘘
+lo2 pien6 guei3 r io1 ngaeh7 zz zuei3 xy1
++ 谓人只说不做，嘴勤身子懒。
+  * 泰兴方言辞典

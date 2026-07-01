@@ -52,7 +52,7 @@ txe:zhon1 ven1
     + 补充说明
 ```
 
-There should be no blank line between adjacent entries.
+There should be one blank line between adjacent entries.
 
 ## File naming
 
