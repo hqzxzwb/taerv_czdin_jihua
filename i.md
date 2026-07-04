@@ -2000,11 +2000,11 @@
 1. 【[摇铃<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lien_r_cae.md#摇铃<sub>儿</sub>菜)】`io2 lien2 r cae5` <sup>[兴化]</sup> 初夏雨后，菜田中落下的菜籽发芽生出的小青菜。  
 1. 【[摇里豁落的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lii_huh_lah.md#摇里豁落的)】`io2 lii huh7 lah8 dii` <sup>[如皋]</sup> 状用物松动不牢固。  
 1. 【[摇橹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_lv.md#摇橹)】`io2 lv3` <sup>[如东]</sup> 船工来回推动橹柄使船前进。  
-1. 【[摇钱树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qin_shv.md#摇钱树)】`io2 qin2 shv6` ① ［喻］指获取钱财多的人或物<sup>\[东台\]</sup>：商店生意好，是他的～。<sup>\[东台\]</sup> ② 传说中的宝树，摇摇就会落下金钱，比喻借以生财的人或者事物。<sup>\[泰州\]</sup>  
+1. 【[摇钱树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qin_shv.md#摇钱树)】`io2 qin2 shv6` <small>/iɔ2 t͡ɕʰĩ2 su1/<sup>泰兴</sup></small> ① ［喻］指获取钱财多的人或物<sup>\[东台\]</sup>：商店生意好，是他的～。<sup>\[东台\]</sup> ② 传说中的宝树，摇摇就会落下金钱，比喻借以生财的人或者事物。<sup>\[泰州\]</sup> ③ 比喻借以生财的人或物。<sup>\[泰兴\]</sup>  
 1. 【[摇纱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_sha.md#摇纱)】`io2 sha1` <sup>[如皋]</sup> 用手摇车将纱子绕成筒管、纤管。  
-1. 【[摇头摆尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_bae_vei.md#摇头摆尾)】`io2 teu2 bae3 vei3` <sup>[如东]</sup> 狗见到主人时的亲情姿态。比喻阿谀奉承：王二侯看见李老板总是～的。  
+1. 【[摇头摆尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_bae_vei.md#摇头摆尾)】`io2 teu2 bae3 vei3` <small>/iɔ2 tʰəɪ2 pɛ3 ʋəɪ3/<sup>泰兴</sup></small> ① 狗见到主人时的亲情姿态。比喻阿谀奉承。<sup>\[如东\]</sup>：王二侯看见李老板总是～的。<sup>\[如东\]</sup> ② 喻卑屈柔顺之态，得意轻狂之貌，或悠然自得的样子。骂人语，谓狗。<sup>\[泰兴\]</sup>  
 1. 【[摇头窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_chuan.md#摇头窗)】`io2 teu2 chuan1` <sup>[兴化]</sup> 窗户的轴在两侧，开关时上下翻转。又称“翻窗”。  
-1. 【[摇头晃脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_huan_no.md#摇头晃脑)】`io2 teu2 huan5 no3` <sup>[如东]</sup> 头脑摇晃，表示自以为是或自我得意的样子。  
+1. 【[摇头晃脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_huan_no.md#摇头晃脑)】`io2 teu2 huan5 no3` <small>/iɔ2 tʰəɪ2 xuɑŋ5 nɔ3/<sup>泰兴</sup></small> ① 头脑摇晃，表示自以为是或自我得意的样子。<sup>\[如东\]</sup> ② 形容自得其乐、自以为是的样子。<sup>\[泰兴\]</sup>  
 1. 【[摇头活浪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_huh_lan.md#摇头活浪)】`io2 teu2 huh8 lan6` <sup>[如东]</sup> 摇摇晃晃：搭的一个架子～的。  
 1. 【[摇头掼脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_kuaen_no.md#摇头掼脑)】`io2 teu2 kuaen6 no3` <sup>[如东]</sup> ① 表示不耐烦的样子：他～的，不愿再听。 ② 表示不赞成：他听吖，～的跑掉啊。 ③ 不稳重：他站吖那许，～的。  
 1. 【[摇头<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_teu_r_ven.md#摇头<sub>儿</sub>瘟)】`io2 teu2 r ven1` <sup>[如皋]</sup> 头部不住摇动的病。借为詈语。  

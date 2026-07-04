@@ -2089,6 +2089,7 @@
 1. 【[魂不守舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_beh_sheu_sha.md#魂不守舍)】`huen2 beh7 sheu3 sha5-shae5` <sup>[如皋]</sup> 不定神。胡思乱想，行为出格。  
 1. 【[魂飞魄散](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_fei_poh_saen.md#魂飞魄散)】`huen2 fei1 poh7 saen5` <sup>[如东]</sup> 魂魄飞散了，表示受到极大的惊吓。  
 1. 【[魂落掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lah_tio_a.md#魂落掉啊)】`huen2 lah8 tio6 a` <sup>[如东]</sup> ① 魂灵已经失去，人快要死亡了。 ② 比喻人的头脑失去理智：～，那个教你做的！  
+1. 【[魂灵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lien.md#魂灵)】`huen2 lien2` <small>/xuəŋ2 liŋ2/<sup>泰兴</sup></small> 魂，灵魂；人的精神或意念。<sup>\[泰兴\]</sup>  
 1. 【[魂魄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_poh.md#魂魄)】`huen2 poh7` <sup>[如东]</sup> 中医认为，魂是人体肝的神明，主理性，魄是人体肺的神明，主本能。魂魄之间相生相克。现代把魂引申为人的生命、一种脱离物质的精神，称灵魂。比喻一个组织、一种运动、一次会议的核心思想。魄引申为一种气量。  
 1. 【[混合面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_huh_min.md#混合面)】`huen3 huh8 min6` <small>/xuəŋ3 xʊʔ8 mĩ1/<sup>泰兴</sup></small> 用不去皮壳的小麦轧成的面。<sup>\[泰兴\]</sup>  
 1. 【[混笼统](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_lon_ton.md#混笼统)】`huen3 lon2 ton3` <sup>[兴化]</sup> 形容含糊不清：你这些开支～子，最后怎吖结算？  

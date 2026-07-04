@@ -467,19 +467,22 @@
 1. 【[摸瞎子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_haeh_zz.md#摸瞎子)】`mah8 haeh7 zz` <small>/maʔ8 xæʔ7 t͡sɿ/<sup>兴化</sup>, /maʔ8 xeʔ7 t͡sɿ/<sup>如皋</sup></small> ① 在很暗时摸索着走路，或喻无先例做事。<sup>\[如皋\]</sup> ② 摸黑儿<sup>\[兴化\]</sup>：屋里黑洞洞的，坐啊～。<sup>\[兴化\]</sup>｜晚上不曾开灯，到家～。<sup>\[兴化\]</sup>  
 1. 【[摸黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_heh.md#摸黑)】`mah8 heh7` <sup>[如皋]</sup> 见“摸瞎子”。  
 1. 【[摸和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_hv.md#摸和)】`mah8 hv2` ① 打长牌 ② 打牌，也称摸牌。多指玩耷子和。<sup>\[如东\]</sup>  
+1. 【[摸夜作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_ia_zah.md#摸夜作)】`mah8 ia6 zah` <small>/mɑʔ8 iɑ1 t͡sɑʔ/<sup>泰兴</sup></small> 谓夜里干活。<sup>\[泰兴\]</sup>  
 1. 【[摸摸影<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_ien_r.md#摸摸影<sub>儿</sub>)】`mah8 mah8 ien3 r` <sup>[如东]</sup> 先去看一看，找一找：我去～。  
 1. 【[摸摸坛子肚里的把米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_tun_zz.md#摸摸坛子肚里的把米)】`mah8 mah8 tun2 zz tv6 lii dii ba3 mi3` <sup>[如皋]</sup> 摸摸家底有多少。  
-1. 【[摸门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_daeh_zz.md#摸门搭子)】`mah8 men2 daeh7 zz` <small>/maʔ8 mən2 tæʔ7 t͡sɿ/<sup>兴化</sup>, /maʔ8 məŋ2 teʔ7 t͡sɿ/<sup>如皋</sup></small> ① 喻人不在家，门关着，造访未遇。<sup>\[如皋\]</sup> ② （借）室内无人或寻人不遇<sup>\[兴化\]</sup>：昨天去找老刘，结果是～。<sup>\[兴化\]</sup> ③ 敲门时摸到门搭子，比喻登门拜访他人不遇<sup>\[泰州\]</sup>：昨天下午我到你家去找你，弄吖个～，你上哪块去的啊？<sup>\[泰州\]</sup>  
+1. 【[摸门搭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_daeh_zz.md#摸门搭子)】`mah8 men2 daeh7 zz` <small>/maʔ8 mən2 tæʔ7 t͡sɿ/<sup>兴化</sup>, /maʔ8 məŋ2 teʔ7 t͡sɿ/<sup>如皋</sup>, /mɑʔ8 məŋ2 tæʔ7 t͡sɿ/<sup>泰兴</sup></small> ① 喻人不在家，门关着，造访未遇。<sup>\[如皋\]</sup> ② （借）室内无人或寻人不遇<sup>\[兴化\]</sup>：昨天去找老刘，结果是～。<sup>\[兴化\]</sup> ③ 敲门时摸到门搭子，比喻登门拜访他人不遇<sup>\[泰州\]</sup>：昨天下午我到你家去找你，弄吖个～，你上哪块去的啊？<sup>\[泰州\]</sup> ④ 谓登门拜访，门上了锁，未遇到主人。<sup>\[泰兴\]</sup>  
 1. 【[摸门结子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_men_jih_zz.md#摸门结子)】`mah8 men2 jih7 zz` <sup>[如东]</sup> 大门关着，用绳结扣住，说明主人不在家：他～去啊。  
 1. 【[摸皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pi_r.md#摸皮<sub>儿</sub>)】`mah8 pi2 r` <small>/maʔ8 pʰʝ˞2/<sup>如皋</sup></small> 薄利<sup>\[如皋\]</sup>：这笔生意只能～。<sup>\[如皋\]</sup>  
 1. 【[摸屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pi_gu.md#摸屁股)】`mah8 pi5 gu` <sup>[兴化]</sup> 事后行为：人老早走啊，覅去～吧！｜肇事的老早逃走啊，这刻儿到现场～吧！  
+1. 【[摸屁股散谎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pi_gu_saen.md#摸屁股散谎)】`mah8 pi5 gu saen5 huan3` <small>/mɑʔ8 pʰʝ5 kɤɯ ɕiɛ̃5 xuɑŋ3/<sup>泰兴</sup></small> 说谎话。<sup>\[泰兴\]</sup>  
 1. 【[摸嫳嫳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_pih_pih_r.md#摸嫳嫳<sub>儿</sub>)】`mah8 pih7 pih7 r` <sup>[如东]</sup> 嫳嫳儿是一种飘浮着的丝绸，不形容摸着。比喻很难办到。  
+1. 【[摸秋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_qieu.md#摸秋)】`mah8 qieu1` <small>/mɑʔ8 t͡ɕʰiɤɯ1/<sup>泰兴</sup></small> 民俗。中秋之夜，偷偷地到人家田里“摸”一个什么瓜呀果的回来或送到还没有子嗣的人家，据说可以生儿子。称为“摸秋”。<sup>\[泰兴\]</sup>  
 1. 【[摸蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_qy.md#摸蛆)】`mah8 qy1` ① 磨蹭 ② 做事缓慢。<sup>\[如东\]</sup>：她还在家里～。<sup>\[如东\]</sup>  
 1. 【[摸蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_qy_zz.md#摸蛆子)】`mah8 qy1 zz` <sup>[如皋]</sup> 贬指行动缓慢，不敏捷。  
-1. 【[摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_sah.md#摸索)】`mah8 sah` <small>/maʔ8 saʔ/<sup>如皋</sup></small> ① 磨蹭 ② 见“摩气”。<sup>\[如皋\]</sup> ③ 贬指行动缓慢，不敏捷。<sup>\[如皋\]</sup>  
+1. 【[摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_sah.md#摸索)】`mah8 sah` <small>/maʔ8 saʔ/<sup>如皋</sup>, /mɑʔ8 sɑʔ/<sup>泰兴</sup></small> ① 磨蹭 ② 见“摩气”。<sup>\[如皋\]</sup> ③ 贬指行动缓慢，不敏捷。<sup>\[如皋\]</sup> ④ 动作缓慢，工作效率不高；不果断。<sup>\[泰兴\]</sup>  
 1. 【[摸索](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_sah.md#摸索)】`mah8 sah7` <sup>[如东]</sup> 做事缓慢：她就是～。  
 1. 【[摸生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_shen.md#摸生)】`mah8 shen1` <sup>[如皋]</sup> 生地、生事、生人，不熟悉、不了解，生打生的。  
-1. 【[摸手摸脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_sheu_mah_jiah.md#摸手摸脚)】`mah8 sheu3 mah8 jiah7` <sup>[兴化]</sup> 在身体各处抚摸：放规矩点儿，覅弄吖人身上～的。  
+1. 【[摸手摸脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_sheu_mah_jiah.md#摸手摸脚)】`mah8 sheu3 mah8 jiah7` <small>/maʔ8 sɤ3 maʔ8 t͡ɕiaʔ7/<sup>兴化</sup>, /mɑʔ8 ɕiɤɯ3 mɑʔ8 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 在身体各处抚摸<sup>\[兴化\]</sup>：放规矩点儿，覅弄吖人身上～的。<sup>\[兴化\]</sup> ② 小偷小摸；做小动作。<sup>\[泰兴\]</sup>  
 1. 【[摸头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_teu.md#摸头)】`mah8 teu` <sup>[如东]</sup> 好处：一定有～。  
 1. 【[摸细猪屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_xi_zhv_dio.md#摸细猪屌子)】`mah8 xi5 zhv1 dio3 zz` <sup>[东台]</sup> 戏称度量小，只算小气账。  
 1. 【[摸鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_y.md#摸鱼)】`mah8 y2` <sup>[如东]</sup> ① 徒手在水中捉鱼。旧时，渔人在冬天摸鱼，上身穿棉背心，赤脚露腿，背背插箩，手拿钢叉，下河，不畏冷水彻骨，先用钢叉鞭击水面，迫使游鱼钻进芦棵和洞穴，然后伸手去摸，常常得手。 ② 无目标地寻找，碰一碰运气：这次去是～。  

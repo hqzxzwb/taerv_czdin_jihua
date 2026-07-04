@@ -1452,14 +1452,14 @@
 1. 【[莳梧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_v.md#莳梧)】`chr6 v` <sup>[如东]</sup> 莳秧的一种工具。木制，也有牛角制，一头直，下部安装插秧的嘴儿；一头弯曲，放置秧苗。也写作“莳扶”。  
 1. 【[揣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#揣)】`chuae1` <small>/t͡sʰuɛ1/<sup>兴化</sup></small> ① 揣在怀里。<sup>\[东台\]</sup> ② 藏<sup>\[兴化\]</sup>：～啊在内衣袋里的钱捱小偷摸去啊。<sup>\[兴化\]</sup>｜……剩下一脚狗腿，把来～在杯里。（《水浒传》四）<sup>\[兴化\]</sup> ③ 塞给<sup>\[兴化\]</sup>：奶奶悄悄～啊五百块钱把我。<sup>\[兴化\]</sup> ④ 藏于人不见处<sup>\[泰州\]</sup>：你把皮夹子～啊好啊，当心小偷。<sup>\[泰州\]</sup> ⑤ 塞进<sup>\[泰州\]</sup>：你把旅行包里顺啊子，里头还能再～两样东西进去。<sup>\[泰州\]</sup>  
 1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1, chuae5` 用手掌压、揉：～酵  
-1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1` <small>/t͡sʰuɛ1/<sup>兴化</sup>, /t͡ɕʰyɛ1/<sup>泰兴</sup></small> ① 拳打<sup>\[兴化\]</sup>：～他几家伙。<sup>\[兴化\]</sup> ② 揉、扦<sup>\[兴化\]</sup>：～酵（揉面团）。<sup>\[兴化\]</sup> ③ 捶击<sup>\[泰兴\]</sup>：～他两拳头<sup>\[泰兴\]</sup> ④ 往里塞。或比喻已经吃饱了，还要硬吃。<sup>\[泰兴\]</sup>：硬～<sup>\[泰兴\]</sup>  
+1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae1` <small>/t͡sʰuɛ1/<sup>兴化</sup>, /t͡ɕʰyɛ1/<sup>泰兴</sup></small> ① 拳打<sup>\[兴化\]</sup>：～他几家伙。<sup>\[兴化\]</sup> ② 揉、扦<sup>\[兴化\]</sup>：～酵（揉面团）。<sup>\[兴化\]</sup> ③ 以手用力揉压。<sup>\[泰兴\]</sup>：～酵<sup>\[泰兴\]</sup>｜～他两拳头<sup>\[泰兴\]</sup> ④ 捶击<sup>\[泰兴\]</sup>：～他两拳头<sup>\[泰兴\]</sup> ⑤ 往里塞。或比喻已经吃饱了，还要硬吃。<sup>\[泰兴\]</sup>：硬～<sup>\[泰兴\]</sup>  
+1. 【[搋酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_go.md#搋酵)】`chuae1 go5` <small>/t͡sʰuɛ5 kɔ5/<sup>如皋</sup>, /t͡ɕʰyɛ1 kɔ5/<sup>泰兴</sup></small> ① 用拳、掌压、盘面团，使之面筋化，俗说“有筋韧”。<sup>\[如皋\]</sup> ② 调酵，以手揉搓揣击含酵母的面团。<sup>\[泰兴\]</sup>  
 1. 【[搋冷墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_len_den_r.md#搋冷墩<sub>儿</sub>)】`chuae1 len3 den1 r` <sup>[泰县]</sup> 暗下毒手：这个人老欢喜～。  
 1. 【[搋屎棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_shr_pan.md#搋屎棒)】`chuae1 shr3 pan6` <sup>[如皋]</sup> 比喻受指使而得罪人的人。  
 1. 【[揣实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_sheh.md#揣实)】`chuae2 sheh8` <small>/t͡sʰuɛ2 səʔ8/<sup>如皋</sup></small> 如皋白蒲话，责骂<sup>\[如皋\]</sup>：这个媚皮，才捱～咖的，又笑起来啊。<sup>\[如皋\]</sup>  
 1. 【[揣摩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_mu.md#揣摩)】`chuae3 mu2` <sup>[东台]</sup> 揣度，试其心志猜测其意图。  
 1. 【[膗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#膗)】`chuae3` <sup>[泰州]</sup> 脸宽肤黑、身材粗笨：他家这个丫头长得多～啊，还把人家吓咖唻！｜你望人家小刘长得多秀气啊，哪像你这吖～法子。  
 1. 【[搋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae.md#搋)】`chuae5` <sup>[东台]</sup> 用手掌压、揉，使搀入的东西和匀：～面｜泥壁的烂泥要用力～几下。  
-1. 【[搋酵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_go.md#搋酵)】`chuae5 go5` <sup>[如皋]</sup> 用拳、掌压、盘面团，使之面筋化，俗说“有筋韧”。  
 1. 【[膪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_teu.md#膪头)】`chuae5 teu2` <sup>[东台]</sup> 膪，《广韵》“竹卖切。”本意指猪胸腹部肥而松的肉，喻指说话、做事有悖常理，往被人利用，好心办傻事、蠢事或错事。  
 1. 【[踹冷墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_len_den_r.md#踹冷墩<sub>儿</sub>)】`chuae5 len3 den1 r` <sup>[东台]</sup> ① 冷不防踹上一脚。 ② ［喻］突然袭击，暗中伤人。  
 1. 【[踹足咖唻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chuae_zoh_ga_lae.md#踹足咖唻)】`chuae5 zoh7 ga lae` <sup>[东台]</sup> 踹足，用脚猛踢。这是气愤地骂人的话，相当于快滚蛋吧：我的好意你不懂，还怨我，～！｜～，你把好材料都做糟啊。  

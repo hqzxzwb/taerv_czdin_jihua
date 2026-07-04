@@ -178,13 +178,16 @@
 1. 【[摆样子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ian_zz.md#摆样子)】`bae3 ian6 zz` <sup>[如东]</sup> 摆摆花样，没有实际内容：那是～。  
 1. 【[摆玑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ji.md#摆玑)】`bae3 ji1` <sup>[东台]</sup> 自我吹嘘。也称摆臭玑。  
 1. 【[摆家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_jia_sz.md#摆家私)】`bae3 jia1 sz` <sup>[兴化]</sup> 炫耀自以为珍贵的东西：小元把文具盒、小本子一样、一样拿出来～。  
-1. 【[摆架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_jia_zz.md#摆架子)】`bae3 jia5 zz` <sup>[如东]</sup> 自高自大，装腔作势：不要～。  
+1. 【[摆架子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_jia_zz.md#摆架子)】`bae3 jia5 zz` <small>/pɛ3 t͡ɕiɑ5 t͡sɿ/<sup>泰兴</sup></small> ① 自高自大，装腔作势。<sup>\[如东\]</sup>：不要～。<sup>\[如东\]</sup> ② 装腔作势，自以为了不起。<sup>\[泰兴\]</sup>  
 1. 【[摆绢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_jiun_r.md#摆绢<sub>儿</sub>)】`bae3 jiun5 r` <sup>[如皋]</sup> 一种集体游戏。  
+1. 【[摆阔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_kuh.md#摆阔)】`bae3 kuh7` <small>/pɛ3 kʰʊʔ7/<sup>泰兴</sup></small> 显示阔气；讲排场。<sup>\[泰兴\]</sup>  
+1. 【[摆笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lah.md#摆笿)】`bae3 lah8` <small>/pɛ3 lɑʔ8/<sup>泰兴</sup></small> 四角形竹编小提篮，编眼成正方形。亦称“四角笿子”。<sup>\[泰兴\]</sup>  
 1. 【[摆理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_li.md#摆理)】`bae3 li3` <sup>[兴化]</sup> 闹纠纷的一方或双方，向别人诉说理由：陈家小两口斗嘴，丈母娘一到争吖～。  
 1. 【[摆脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin.md#摆脸)】`bae3 lin3` <sup>[如皋]</sup> 脸挂下来给人看。  
 1. 【[摆脸色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lin_seh.md#摆脸色)】`bae3 lin3 seh7` <small>/pɛ3 lĩ3 səʔ7/<sup>如皋</sup></small> ① 见“摆脸”。<sup>\[如皋\]</sup> ② 脸上故意显示冷漠之类表情以表示冷淡、生气<sup>\[泰州\]</sup>：又是哪个惹啊她，一进门就望吖她～。<sup>\[泰州\]</sup>  
-1. 【[摆老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo.md#摆老)】`bae3 lo3` <small>/pɛ3 lɔ3/<sup>兴化</sup>, /pɛ3 lɔ3/<sup>如皋</sup></small> ① 见“摆方子”。<sup>\[如皋\]</sup> ② 自吹自插。<sup>\[兴化\]</sup> ③ 作没有把握的许诺<sup>\[兴化\]</sup>：这件事不一定成功，你覅忙～。<sup>\[兴化\]</sup>  
+1. 【[摆老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo.md#摆老)】`bae3 lo3` <small>/pɛ3 lɔ3/<sup>兴化</sup>, /pɛ3 lɔ3/<sup>如皋</sup>, /pɛ3 lɔ3/<sup>泰兴</sup></small> ① 见“摆方子”。<sup>\[如皋\]</sup> ② 自吹自插。<sup>\[兴化\]</sup> ③ 作没有把握的许诺<sup>\[兴化\]</sup>：这件事不一定成功，你覅忙～。<sup>\[兴化\]</sup> ④ 摆老资格。<sup>\[泰兴\]</sup>  
 1. 【[摆老贤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo_xin.md#摆老贤)】`bae3 lo3 xin2` <sup>[如皋]</sup> 见“摆方子”。  
+1. 【[摆老资格](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lo_zz_geh.md#摆老资格)】`bae3 lo3 zz1 geh7` <small>/pɛ3 lɔ3 t͡sɿ1 kəʔ7/<sup>泰兴</sup></small> 以阅历多或地位高、年龄大而摆架子。<sup>\[泰兴\]</sup>  
 1. 【[摆弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_lon.md#摆弄)】`bae3 lon6` <sup>[兴化]</sup> 从事某项工作：他～电脑内行，我不行。  
 1. 【[摆麻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ma.md#摆麻)】`bae3 ma2` <small>/pɛ3 ma2/<sup>如皋</sup></small> ① 出风头、摆威风、高傲的样子<sup>\[如皋\]</sup> ② 以实力或故弄实力来吹嘘炫耀。<sup>\[如皋\]</sup>  
 1. 【[摆门面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_men_min.md#摆门面)】`bae3 men2 min6` <sup>[如东]</sup> 讲究排场，粉饰外表。  
@@ -198,20 +201,21 @@
 1. 【[摆谱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_pv_r.md#摆谱<sub>儿</sub>)】`bae3 pv3 r` <small>/pɛ3 pʰu3 ɚ/<sup>兴化</sup></small> ① 讲名位，摆排场。<sup>\[如东\]</sup> ② 讲究排场、显示阔气、摆架子<sup>\[兴化\]</sup>：才当个小科长，就欢喜在乡亲面前～。<sup>\[兴化\]</sup>  
 1. 【[摆席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_qieh.md#摆席)】`bae3 qieh8` <sup>[兴化]</sup> 设宴时铺设席面：“二小姐，快要～子，姨太太请你进去。”（《四杰传》十八）  
 1. 【[摆饰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_sheh.md#摆饰)】`bae3 sheh7` <sup>[如东]</sup> 按照规范摆放物品。  
-1. 【[摆胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen.md#摆胜)】`bae3 shen5` <small>/pɛ3 sən5/<sup>兴化</sup>, /pe3 səŋ5/<sup>泰县</sup></small> 炫耀<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：他在小报上登过一首短诗，老拿出来～。<sup>\[兴化\]</sup>｜……方元绿举起老鼠般的小火轮，全庄～……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜你不要～。<sup>\[泰县\]</sup>｜就是小伙出咖国，也不要在人家面前～。<sup>\[泰州\]</sup>  
+1. 【[摆胜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen.md#摆胜)】`bae3 shen5` <small>/pɛ3 sən5/<sup>兴化</sup>, /pɛ3 səŋ5/<sup>泰兴</sup>, /pe3 səŋ5/<sup>泰县</sup></small> 炫耀<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴：自我夸耀了不起。\]：他在小报上登过一首短诗，老拿出来～。<sup>\[兴化\]</sup>｜……方元绿举起老鼠般的小火轮，全庄～……（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup>｜你不要～。<sup>\[泰县\]</sup>｜就是小伙出咖国，也不要在人家面前～。<sup>\[泰州\]</sup>  
 1. 【[摆胜方子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shen_fan_zz.md#摆胜方子)】`bae3 shen5 fan1 zz` <sup>[东台]</sup> 吹嘘，炫耀自己。  
 1. 【[摆屎摊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shr_taen_r.md#摆屎摊<sub>儿</sub>)】`bae3 shr3 taen1 r` <sup>[泰州]</sup> 戏称儿童蹲在地上大便时，屙下一摊后移动位置再屙下一摊的行为。  
 1. 【[摆屎摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shr_taen_zz.md#摆屎摊子)】`bae3 shr3 taen1 zz` <sup>[兴化]</sup> （讽）将大便拉在地上：……房间里这股臭味不能闻，再一看，原来这些员外在地板上～。（扬二《朱元璋贩卖乌梅》）  
 1. 【[摆甩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shuae.md#摆甩)】`bae3 shuae3` <sup>[东台]</sup> 为出风头而摆排场。  
 1. 【[摆水碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_shuei_un.md#摆水碗)】`bae3 shuei3 un3` <sup>[如皋]</sup> 人将死，以碗盛清水，上搁一只筷，置室外，表示灵魂过奈何桥下阴间，不作游魂为祟。  
+1. 【[摆摊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_taen_zz.md#摆摊子)】`bae3 taen1 zz` <small>/pɛ3 tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 在街边或市场上陈列货物出售。<sup>\[泰兴\]</sup>  
 1. 【[摆坛场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_taen_chan.md#摆坛场)】`bae3 taen2 chan2` <small>/pe3 tʰɛ̃2 t͡sʰɑŋ2/<sup>泰县</sup></small> 摆开阵势，摆排场<sup>\[泰县\]</sup>：这回要～，跟他较量较量。<sup>\[泰县\]</sup>  
 1. 【[摆地摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_ti_taen.md#摆地摊)】`bae3 ti6 taen1` <small>/pɛ3 tʰəi6 tʰɛ̃1/<sup>兴化</sup></small> ① 指小本经营者将商品放在路边出售。<sup>\[兴化\]</sup> ② 将货物放在路边地上出售。<sup>\[泰州\]</sup> ③ 比喻将东西随地乱放的行为<sup>\[泰州\]</sup>：家里捱你弄得块块是东西，你把东西归归拢，不要在家～儿，哿好？<sup>\[泰州\]</sup>  
-1. 【[摆渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tv.md#摆渡)】`bae3 tv6` <sup>[如东]</sup> 用船载运人或物过河。  
+1. 【[摆渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_tv.md#摆渡)】`bae3 tv6` <small>/pɛ3 tʰu1/<sup>泰兴</sup></small> ① 用船载运人或物过河。<sup>\[如东\]</sup> ② 以船渡人过江河。<sup>\[泰兴\]</sup>  
 1. 【[摆瓦片<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_va_pin_r.md#摆瓦片<sub>儿</sub>)】`bae3 va3 pin5 r` <sup>[如皋]</sup> 投掷瓦片儿。  
 1. 【[摆箱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xian_zz.md#摆箱子)】`bae3 xian1 zz` <sup>[东台]</sup> 同“摆小”。  
 1. 【[摆小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_xio.md#摆小)】`bae3 xio3` <sup>[东台]</sup> 骂小孩的话。也作昵称。  
 1. 【[摆桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zhuah_zz.md#摆桌子)】`bae3 zhuah7 zz` <sup>[兴化]</sup> 设酒席、宴请：菜弄好啊，～吧！｜说着，胡三公子同了支剑峰、浦墨卿进来，～，同吃了饭。（《儒林外史》十八）  
-1. 【[摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zz.md#摆子)】`bae3 zz` <small>/pɛ3 t͡sɿ/<sup>兴化</sup>, /pe3 t͡se/<sup>泰县</sup></small> ① 忽好忽丑、不好掌握的青少年<sup>\[兴化\]</sup>：这个～，要收拾咖！<sup>\[兴化\]</sup> ② （禁忌语）家伙<sup>\[泰县\]</sup>：你这个～，不听话。<sup>\[泰县\]</sup> ③ 疟疾旧称，患者因高热周期性、定时性发作而寒战摆动，故名<sup>\[泰州\]</sup>：他这两天打～，在家里休息。<sup>\[泰州\]</sup> ④ 詈词，用于詈骂少年男子，取其“不停活动”之义<sup>\[泰州\]</sup>：小～不晓得跑啊哪块去啊。<sup>\[泰州\]</sup>｜这个细～哿有好事做，在学堂同人家打架。<sup>\[泰州\]</sup>  
+1. 【[摆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zz.md#摆子)】`bae3 zz` <small>/pɛ3 t͡sɿ/<sup>兴化</sup>, /pɛ3 t͡sɿ/<sup>泰兴</sup>, /pe3 t͡se/<sup>泰县</sup></small> ① 忽好忽丑、不好掌握的青少年<sup>\[兴化\]</sup>：这个～，要收拾咖！<sup>\[兴化\]</sup> ② （禁忌语）家伙<sup>\[泰县\]</sup>：你这个～，不听话。<sup>\[泰县\]</sup> ③ 疟疾。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：他这两天打～，在家里休息。<sup>\[泰州\]</sup>｜打～。<sup>\[泰兴\]</sup> ④ 詈词，用于詈骂少年男子，取其“不停活动”之义<sup>\[泰州\]</sup>：小～不晓得跑啊哪块去啊。<sup>\[泰州\]</sup>｜这个细～哿有好事做，在学堂同人家打架。<sup>\[泰州\]</sup>  
 1. 【[摆子打昏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zz_da_huen.md#摆子打昏)】`bae3 zz da3 huen1` <sup>[泰州]</sup> 因为打摆子身体发热而烧昏头脑，造成大脑糊涂，用来骂人健忘，詈词：自己放的东西都不晓得，你哿是摆子打啊昏吖。  
 1. 【[摆子病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae_zz_pien.md#摆子病)】`bae3 zz pien6` <small>/pɛ3 t͡sɿ pʰiɪ̃6/<sup>兴化</sup></small> ① 见“打摆子”。<sup>\[东台\]</sup> ② 疟疾。（喻）工作有冷热病。<sup>\[兴化\]</sup> ③ 情绪不正常。<sup>\[兴化\]</sup>  
 1. 【[拜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bae.md#拜)】`bae5` <small>/pɛ5/<sup>泰兴</sup></small> 认干亲。“拜啊他/她家”即“认他/她为干爸/干娘”。<sup>\[泰兴\]</sup>  
@@ -1608,12 +1612,12 @@
 1. 【[搬两脚鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_laen_jiah_y.md#搬两脚鱼)】`bun1 laen3 jiah7 y2` <sup>[东台]</sup> 用两只脚步行的戏称。  
 1. 【[搬苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_mio.md#搬苗)】`bun1 mio2` <sup>[如东]</sup> 将棉花或其他植物的幼苗从一块地里移栽到另一块地里，叫做搬苗。  
 1. 【[搬三弄四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_saen_lon_sz.md#搬三弄四)】`bun1 saen1 lon6 sz5` <sup>[如东]</sup> 搬弄是非：不要～的。  
-1. 【[搬舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shih_teu.md#搬舌头)】`bun1 shih8 teu` <small>/pũ1 siɪʔ8 tʰɤ/<sup>兴化</sup></small> 搬弄是非<sup>\[兴化\]</sup>：她闲得无聊，专门在门口～。<sup>\[兴化\]</sup>  
+1. 【[搬舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shih_teu.md#搬舌头)】`bun1 shih8 teu` <small>/pũ1 siɪʔ8 tʰɤ/<sup>兴化</sup>, /pʊ̃1 ɕiʔ8 tʰəɪ/<sup>泰兴</sup></small> ① 搬弄是非<sup>\[兴化\]</sup>：她闲得无聊，专门在门口～。<sup>\[兴化\]</sup> ② 说话。多指反复调解双方纠纷，反复讲解道理。<sup>\[泰兴\]</sup>  
 1. 【[搬是非](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_shr_fei.md#搬是非)】`bun1 shr6 fei1` <sup>[如皋]</sup> 搬弄是非。  
 1. 【[搬唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_su.md#搬唆)】`bun1 su1` <sup>[兴化]</sup> 搬弄是非：不是有人～，他弟兄不得参商。｜“我若略略开得口，便去～与舅姑。”（《清平山堂话本·快嘴李翠莲记》）  
-1. 【[搬淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_taen_hua.md#搬淡话)】`bun1 taen6 hua6` ① 把别人议论的话传到另外一些人耳中引起矛盾的行为。<sup>\[东台\]</sup> ② 搬弄是非<sup>\[泰州\]</sup>：你同她说话要注意点儿，这马马儿着实会～。<sup>\[泰州\]</sup>｜昨咖夜里他家家里小两口吵啊不得命，都是小李这家伙～惹的祸。<sup>\[泰州\]</sup>  
+1. 【[搬淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_taen_hua.md#搬淡话)】`bun1 taen6 hua6` <small>/pʊ̃1 tʰɛ1 xuɑ1/<sup>泰兴</sup></small> ① 把别人议论的话传到另外一些人耳中引起矛盾的行为。<sup>\[东台\]</sup> ② 搬弄是非<sup>\[泰州\]</sup>：你同她说话要注意点儿，这马马儿着实会～。<sup>\[泰州\]</sup>｜昨咖夜里他家家里小两口吵啊不得命，都是小李这家伙～惹的祸。<sup>\[泰州\]</sup> ③ 搬弄是非。<sup>\[泰兴\]</sup>  
 1. 【[搬淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_taen_hua_r.md#搬淡话<sub>儿</sub>)】`bun1 taen6 hua6 r` <sup>[如东]</sup> 背后传话，搬弄是非：她就欢喜～。  
-1. 【[搬豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_teu_fv.md#搬豆腐)】`bun1 teu6 fv` <small>/pʊ̃1 tʰei1 fu/<sup>如皋</sup></small> 买豆腐。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：上街去～。<sup>\[如东\]</sup>  
+1. 【[搬豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_teu_fv.md#搬豆腐)】`bun1 teu6 fv` <small>/pʊ̃1 tʰei1 fu/<sup>如皋</sup>, /pʊ̃1 tʰəɪ1 fʋ/<sup>泰兴</sup></small> 买豆腐。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：上街去～。<sup>\[如东\]</sup>  
 1. 【[搬碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_un_teu.md#搬碗头)】`bun1 un3 teu2` <sup>[兴化]</sup> 一家做的菜肴给另一家盛一点：他俫两家处得好，有好吃的常常～。  
 1. 【[搬楦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_teu.md#搬楦头)】`bun1 xiun5 teu` <sup>[东台]</sup> 原意是鞋匠楦鞋的楦头从这里搬到那里，喻指乱折腾。  
 1. 【[搬楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bun_xiun_zz.md#搬楦子)】`bun1 xiun5 zz` <sup>[兴化]</sup> 互相揭发隐私：他俫两家～，让些邻居看笑话。｜谚曰：鞋子店失火——～。  
