@@ -2078,6 +2078,7 @@
 1. 【[钓黑鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_heh_y.md#钓黑鱼)】`dio5 heh7 y2` <sup>[如皋]</sup> 钓竿、线均粗，钓钩用铁打制。钩上装小青蛙为饵。在有黑鱼的河边水草中不停提放，见吃就拖。  
 1. 【[钓咳生痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_keh_shen_taen.md#钓咳生痰)】`dio5 keh7 shen1 taen2` <sup>[泰州]</sup> 本来不需要咳嗽的人咳嗽而产生痰，比喻刻意提起某事而产生矛盾：他本来都不说咖，你又～，惹出话来啊。  
 1. 【[钓鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dio_y.md#钓鱼)】`dio5 y2` <sup>[如东]</sup> 捕鱼的一种方式。一根竹竿，前端系着线，线的末端系着鱼钩，鱼钩上附着饵料，抛入水中，鱼吞食之，即可钓起来捕取。  
+1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#□)】`do1` <small>/tɔ1/<sup>泰兴</sup></small> 作补语，全、遍、不遗漏<sup>\[泰兴\]</sup>：四转里跑啊～啊，总不曾寻到他人<sup>\[泰兴\]</sup>｜好话说咖～啊，他也不松口<sup>\[泰兴\]</sup>  
 1. 【[刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do.md#刀)】`do1` <small>/tɔ1/<sup>如皋</sup></small> ① 刀 ② 略切<sup>\[如皋\]</sup>：把菜～下子。<sup>\[如皋\]</sup>  
 1. 【[刀笔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_bieh.md#刀笔)】`do1 bieh7` <sup>[泰州]</sup> 擅长写公文类文章的人：他是机关里有名的～，重要的文件、领导的讲话都是他起草的。  
 1. 【[刀刀水清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_do_shuei_qien.md#刀刀水清)】`do1 do1 shuei3 qien1` <sup>[东台]</sup> ［喻］每一个环节或每一笔账目都很清楚，不前后乱扯。  
