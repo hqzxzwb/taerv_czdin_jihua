@@ -513,7 +513,6 @@
 1. 【[髿髿的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_sha_dii.md#髿髿的)】`sha1 sha1 dii` <sup>[泰州]</sup> ① 粉状、颗粒状的物体自然坠落的样子：袋子破啊唻，肚里的粉面～。｜你慢慢儿走，装得太满唻，弄得箩里黄豆～。 ② 鼻涕、口水、眼泪自然向下流淌的样子：她家伢儿没得人带，成天弄得鼻涕～。｜口水～。｜眼泪～。  
 1. 【[鲨鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y.md#鲨鱼)】`sha1 y2` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼，又名鲛鱼，体细长，长约60厘米。  
 1. 【[鲨鱼白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_y_poh.md#鲨鱼白)】`sha1 y2 poh8` <sup>[如东]</sup> 皱唇鲨科白斑星鲨鱼鳔。  
-1. 【[𥆝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#𥆝)】`sha1` <small>/sɑ1/<sup>泰兴</sup></small> 用眼睛偷偷地看（对照“睃su1”）<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
 1. 【[啥杲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_go_zz.md#啥杲子)】`sha2 go3 zz` <sup>[兴化]</sup> 什么东西：你手里拿的～？｜今朝吃～？  
 1. 【[蛇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#蛇)】`sha2` 蛇。  
 1. 【[蛇虫百脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_chon_boh_jiah.md#蛇虫百脚)】`sha2 chon2 boh7 jiah7` <small>/sa2 t͡sʰoŋ2 pɔʔ7 t͡ɕiaʔ7/<sup>兴化</sup>, /sɑ2 t͡sʰɔŋ2 pɔʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 泛指毒虫。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：这个地方～的，细伢儿不要在这许耍子。<sup>\[如东\]</sup> ② 泛指各种毒虫。<sup>\[兴化\]</sup> ③ 泛指各种在地上爬行的毒蛇、毒虫<sup>\[泰州\]</sup>：夏天晚上在草窠里走，要当心蛇虫百脚！<sup>\[泰州\]</sup>  
