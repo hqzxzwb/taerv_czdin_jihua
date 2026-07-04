@@ -397,8 +397,7 @@
 1. 【[蛮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_hua.md#蛮话)】`maen2 hua6` <small>/mɛ̃2 xua6/<sup>兴化</sup>, /mẽ2 xua1/<sup>如皋</sup></small> ① 不合情理、不合事实的话<sup>\[如皋\]</sup> ② 不合道理的话<sup>\[兴化\]</sup>：你说的甚的～，怎吖连信用都不讲的啦？<sup>\[兴化\]</sup> ③ 蛮横不讲道理的话<sup>\[泰州\]</sup>：你不去，还不肯旁人去，这说的甚的～！<sup>\[泰州\]</sup>  
 1. 【[蛮话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_hua_r.md#蛮话<sub>儿</sub>)】`maen2 hua6 r` <sup>[如皋]</sup> 小儿初学话，发音似是而非。  
 1. 【[蛮野](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ia.md#蛮野)】`maen2 ia3` <small>/mɛ̃2 ia3/<sup>兴化</sup>, /mẽ2 ia3/<sup>如皋</sup>, /mɛ̃2 ia3/<sup>泰县</sup></small> ① 言行粗野，毫无规矩。<sup>\[如皋\]</sup> ② “野蛮”的逆序词<sup>\[兴化\]</sup>：这个人太～，开口就骂，动手就打。<sup>\[兴化\]</sup> ③ 野蛮<sup>\[泰县\]</sup>  
-1. 【[蛮野忤天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ia_v_tin.md#蛮野忤天)】`maen2 ia3 v3 tin1` <sup>[如皋]</sup> 言行粗野，毫无规矩。  
-1. 【[蛮野忤天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ia_v_tin.md#蛮野忤天)】`maen2 ia3 v3 tin1` <small>/mɛ̃2 iɑ3 ʋ3 tʰĩ1/<sup>泰兴</sup></small> 蛮横，不讲道理。<sup>\[泰兴\]</sup>  
+1. 【[蛮野忤天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ia_v_tin.md#蛮野忤天)】`maen2 ia3 v3 tin1` <small>/mẽ2 ia3 ʋu3 tʰĩ1/<sup>如皋</sup>, /mɛ̃2 iɑ3 ʋ3 tʰĩ1/<sup>泰兴</sup></small> ① 言行粗野，毫无规矩。<sup>\[如皋\]</sup> ② 蛮横，不讲道理。<sup>\[泰兴\]</sup>  
 1. 【[蛮野舞天的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ia_v_tin.md#蛮野舞天的)】`maen2 ia3 v3 tin1 dii` <sup>[东台]</sup> 形容有的人太野蛮。  
 1. 【[蛮叽骨噜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ji_gueh_lv.md#蛮叽骨噜)】`maen2 ji1 gueh7 lv` <sup>[如东]</sup> 泛指外地人说方言，本地人听不懂：他俫～的，不晓得说甚的。  
 1. 【[蛮姐䗜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jia_lieu.md#蛮姐䗜)】`maen2 jia3 lieu` <sup>[如东]</sup> 蝉的一种。身体较小，背部绿色。鸣声时大时小。  

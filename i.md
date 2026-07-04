@@ -641,8 +641,7 @@
 1. 【[旺火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_hu.md#旺火)】`ian5 hu3` <sup>[如皋]</sup> 易燃，火旺貌：木头朽啊，烧锅总是不～；干木头～，火头直窜。  
 1. 【[漾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#漾)】`ian5` <small>/iɑŋ5/<sup>泰县</sup></small> 停留<sup>\[泰县\]</sup>：把圆子放吖锅里再～一刻儿。<sup>\[泰县\]</sup>  
 1. 【[漾下子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ha_zz.md#漾下子)】`ian5 ha zz` <sup>[东台]</sup> 等一下：你～，我先来敬酒｜不能急，～，再慢慢说。  
-1. 【[瀁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#瀁)】`ian5` <sup>[兴化]</sup> 使质轻的东西浮出水面并从容器中溢出：下河淘米，把里面糠皮、稗子～掉。《广韵·漾韵》余亮切“～，水溢荡貌”。  
-1. 【[瀁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#瀁)】`ian5` <small>/iɑŋ5/<sup>泰兴</sup></small> 把浮在水上面的物质轻轻倒掉。\[泰兴：方音若“样”。\]  
+1. 【[瀁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#瀁)】`ian5` <small>/iaŋ5/<sup>兴化</sup>, /iɑŋ5/<sup>泰兴</sup></small> ① 使质轻的东西浮出水面并从容器中溢出<sup>\[兴化\]</sup>：下河淘米，把里面糠皮、稗子～掉。<sup>\[兴化\]</sup> ② 把浮在水上面的物质轻轻倒掉。\[泰兴：方音若“样”。\]  
 1. 【[样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian.md#样)】`ian6` <small>/iaŋ6/<sup>兴化</sup></small> ① 挥舞、显示<sup>\[兴化\]</sup>：他把拳头一～，说：“你再使坏，别怪我不客气。”<sup>\[兴化\]</sup> ② 挥舞（手臂）<sup>\[泰州\]</sup>：他把手朝大家一～，人就上吖车开啊走啊。<sup>\[泰州\]</sup>  
 1. 【[样范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_faen.md#样范)】`ian6 faen6` <small>/iaŋ6 fɛ̃6/<sup>兴化</sup>, /iã1 fẽ/<sup>如皋</sup></small> ① 榜样，样子。<sup>\[如东\]</sup>：这双鞋子的～好。<sup>\[如东\]</sup> ② 模样<sup>\[兴化\]</sup>：这个花瓶～不丑。<sup>\[兴化\]</sup>｜“……此是过世老公公御前带出来的，外边那里有这～？”（《金瓶梅词话》十四）<sup>\[兴化\]</sup> ③ 褒指式样、款式<sup>\[如皋\]</sup>：衣裳考究有～。<sup>\[如皋\]</sup>  
 1. 【[样样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ian_ian.md#样样)】`ian6 ian6` <sup>[兴化]</sup> 每样，各式各样。  

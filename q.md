@@ -364,8 +364,7 @@
 1. 【[谢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#谢)】`qia6` <sup>[东台]</sup> ① 姓氏：～家湾。 ② 花落：这盆花还不曾～。  
 1. 【[谢啊转过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_a_zhun_gu.md#谢啊转过来啊)】`qia6 a zhun5 gu5 lae2 a` <sup>[如皋]</sup> 该谢的都谢遍了。  
 1. 【[谢口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_keu.md#谢口)】`qia6 keu3` <sup>[如皋]</sup> 事后埋怨。  
-1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mei.md#谢媒)】`qia6 mei2` <sup>[兴化]</sup> 婚俗，男女成婚后数日内，男家馈赠媒人烟、酒、糕点等礼物，表示谢意。  
-1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mei.md#谢媒)】`qia6 mei2` <small>/t͡ɕʰiɑ1 məɪ2/<sup>泰兴</sup></small> 酬谢媒人。<sup>\[泰兴\]</sup>  
+1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mei.md#谢媒)】`qia6 mei2` <small>/t͡ɕʰia6 məi2/<sup>兴化</sup>, /t͡ɕʰiɑ1 məɪ2/<sup>泰兴</sup></small> ① 婚俗，男女成婚后数日内，男家馈赠媒人烟、酒、糕点等礼物，表示谢意。<sup>\[兴化\]</sup> ② 酬谢媒人。<sup>\[泰兴\]</sup>  
 1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mi.md#谢媒)】`qia6 mi2` <small>/t͡ɕʰia1 mʝ2/<sup>如皋</sup></small> ① 旧时娶妻后生第一胎男婴，于三天内带礼物与红蛋、毛米粥去媒人家致谢。<sup>\[如皋\]</sup> ② 感谢媒人。男女成婚以后，男方馈送媒人礼物以表示感谢之意。<sup>\[泰州\]</sup>  
 1. 【[谢娘带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_nian_dae_zz.md#谢娘带子)】`qia6 nian2 dae5 zz` <sup>[如东]</sup> 姑娘出嫁时，新郎送给丈母娘一根带子，表示感谢对妻子的抚育之恩。过去是一根红布带子捆在草席上，现在是一条床单。  
 1. 【[谢谢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia.md#谢谢)】`qia6 qia6` <sup>[东台]</sup> 感谢的口语：～你。  

@@ -543,8 +543,7 @@
 1. 【[沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#沙)】`sha5` <small>/sa5/<sup>如皋</sup>, /sɑ5/<sup>泰兴</sup>, /sa5/<sup>泰县</sup></small> （菜）受虫咬而多孔<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[如东：（如东方言词典注音sā）\]：青菜～啊<sup>\[如皋\]</sup>｜这个菜～啊，买家去不好吃<sup>\[泰县\]</sup>｜菜～啊<sup>\[东台\]</sup>  
 1. 【[舍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#舍)】`sha5` <sup>[东台]</sup> 原指田头小草房，后用作地名：六里～｜王家～｜西～。  
 1. 【[舍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_r.md#舍<sub>儿</sub>)】`sha5 r` <small>/sa5 ɚ/<sup>兴化</sup>, /sa5 ɚ/<sup>泰县</sup></small> ① 见“舍子”。<sup>\[兴化\]</sup> ② 野外的小屋。<sup>\[泰县\]</sup>  
-1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <sup>[兴化]</sup> ① 位于村庄以外的小屋。 ② 较小的村落：张家～；李家～。也说“舍儿”。  
-1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
+1. 【[舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_zz.md#舍子)】`sha5 zz` <small>/sa5 t͡sɿ/<sup>兴化</sup></small> ① 位于村庄以外的小屋。<sup>\[兴化\]</sup> ② 较小的村落<sup>\[兴化\]</sup>：张家～；李家～。也说“舍儿”。<sup>\[兴化\]</sup> ③ 镶于正屋旁的厢屋<sup>\[泰州\]</sup>：他在旁边的空地上搭咖间～放东西。<sup>\[泰州\]</sup>  
 1. 【[赦不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_beh_tio.md#赦不掉)】`sha5 beh7 tio6` <small>/sɑ5 pəʔ7 tʰiɔ1/<sup>泰兴</sup></small> 逃脱不了。<sup>\[泰兴\]</sup>  
 1. 【[赦数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha_shv.md#赦数)】`sha5 shv5` <small>/sa5 su5/<sup>兴化</sup>, /sa5 su5/<sup>如皋</sup>, /sɑ5 su5/<sup>泰兴</sup>, /sa5 su5/<sup>泰县</sup></small> 分寸、节制<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[泰兴：又说ha5 shv5\]：他说话没～<sup>\[如皋\]</sup>｜耍子啊没～啊。<sup>\[如皋\]</sup>｜这个人说话没～。<sup>\[兴化\]</sup>｜你这个人说话没得点儿～。<sup>\[泰县\]</sup>｜不要没～，箇桩事不能弄<sup>\[泰兴\]</sup>｜救灾的钱你都敢拿出来发福利，你真是没得～唻。<sup>\[泰州\]</sup>｜总共不过考啊300多分，他就说能上清华，你说他说话哿有个～。<sup>\[泰州\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sha.md#□)】`sha6` <sup>[如皋]</sup> 信口说，毫不谨慎：他的嘴～，把秘密～出去啊。  
@@ -3009,8 +3008,7 @@
 1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` <small>/sɔ5/<sup>兴化</sup>, /sɔ5/<sup>如皋</sup>, /sɔ5/<sup>泰兴</sup></small> 快（《集韵》“先到切，快也”）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你～点儿来。<sup>\[如皋\]</sup>｜你～点儿跑，不然赶不上。<sup>\[东台\]</sup>｜～点跑。<sup>\[兴化\]</sup>｜你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>｜～点吃咖去上学。<sup>\[泰兴\]</sup>  
 1. 【[𢜶大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶大)】`so5 da` <sup>[如皋]</sup> 快，迅速。  
 1. 【[𢜶大点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da_din_r.md#𢜶大点<sub>儿</sub>)】`so5 da din3 r` <small>/sɔ5 ta tiɪ̃3 ɚ/<sup>泰县</sup></small> 快点<sup>\[泰县\]</sup>：你～来，捉住这条狗子。<sup>\[泰县\]</sup>  
-1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <sup>[兴化]</sup> 形容快捷：现在交通便利，不管到哪许总蛮～的。也作“𢜶剌”。  
-1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <small>/sɔ5 tɑ/<sup>泰兴</sup></small> 快，速度快。<sup>\[泰兴\]</sup>：他做事只叫个～。<sup>\[泰兴\]</sup>  
+1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <small>/sɔ5 ta/<sup>兴化</sup>, /sɔ5 tɑ/<sup>泰兴</sup></small> ① 形容快捷<sup>\[兴化\]</sup>：现在交通便利，不管到哪许总蛮～的。也作“𢜶剌”。<sup>\[兴化\]</sup> ② 快，速度快。<sup>\[泰兴\]</sup>：他做事只叫个～。<sup>\[泰兴\]</sup>  
 1. 【[𢜶点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_din_r.md#𢜶点<sub>儿</sub>)】`so5 din3 r` 快点儿，时间缩短或者速度加快一些<sup>\[泰州\]</sup>：大家手上～，这点儿活技做掉下班。<sup>\[泰州\]</sup>  
 1. 【[𢜶剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_laeh.md#𢜶剌)】`so5 laeh` <sup>[兴化]</sup> 形容快捷。  
 1. 【[𢜶马没好步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ma_meh_ho.md#𢜶马没好步)】`so5 ma3 meh8 ho3 pv6` <small>/sɔ5 mɑ3 məʔ8 xɔ3 pʰu1/<sup>泰兴</sup></small> 喻过分强调办事的速度，质量就不高。<sup>\[泰兴\]</sup>  
