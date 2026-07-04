@@ -1,4 +1,4 @@
 # 四转里
-sz5 zhun5 lei
+sz5 zhun5 lii
 + 周围。同“四转转儿”。
   * 泰兴
