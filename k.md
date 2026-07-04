@@ -1118,12 +1118,15 @@
 1. 【[库匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_qian.md#库匠)】`kv5 qian6` <sup>[如东]</sup> 为死人制作纸屋、纸箱、纸衣的小手工业者。  
 1. 【[库箬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_rah.md#库箬)】`kv5 rah` <small>/kʰu5 ɻɑʔ/<sup>泰兴</sup></small> 包裹果实的植物叶片<sup>\[泰兴\]</sup>：玉米～<sup>\[泰兴\]</sup>  
 1. 【[裤衩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_cha.md#裤衩)】`kv5 cha3` <sup>[东台]</sup> 同“裤头”。  
-1. 【[裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dae_zz.md#裤带子)】`kv5 dae5 zz` <sup>[兴化]</sup> ① 裤腰带。 ② （借）指女人作风：这个婆娘～不紧。  
+1. 【[裤带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dae_zz.md#裤带子)】`kv5 dae5 zz` <small>/kʰu5 tɛ5 t͡sɿ/<sup>兴化</sup>, /kʰu5 tɛ5 t͡sɿ/<sup>泰兴</sup></small> ① 裤腰带。<sup>\[兴化\]</sup> ② （借）指女人作风<sup>\[兴化\]</sup>：这个婆娘～不紧。<sup>\[兴化\]</sup> ③ 腰带。系裤的带子。<sup>\[泰兴\]</sup>  
+1. 【[裤裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dan.md#裤裆)】`kv5 dan1` <small>/kʰu5 tɑŋ1/<sup>泰兴</sup></small> 两条裤管相连的地方。<sup>\[泰兴\]</sup>  
 1. 【[裤裆巷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_dan_han.md#裤裆巷)】`kv5 dan1 han6` <sup>[东台]</sup> 原何垛场西一条形似裤衩的巷子，东台城名医姜子维私人医院（后为东台镇医院）住址也在此巷内。  
 1. 【[裤管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_gun_r.md#裤管<sub>儿</sub>)】`kv5 gun3 r` <sup>[如皋]</sup> 裤腿。  
 1. 【[裤管子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_gun_zz.md#裤管子)】`kv5 gun3 zz` <sup>[兴化]</sup> 裤腿。  
+1. 【[裤腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io.md#裤腰)】`kv5 io1` <small>/kʰu5 iɔ1/<sup>泰兴</sup></small> 裤子顶部束腰带的部位。<sup>\[泰兴\]</sup>  
 1. 【[裤腰带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae.md#裤腰带)】`kv5 io1 dae5` <sup>[泰州]</sup> 裤带，腰带。  
 1. 【[裤腰带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_io_dae_zz.md#裤腰带子)】`kv5 io1 dae5 zz` <sup>[如皋]</sup> 系裤子的带子。  
+1. 【[裤脚管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_jiah_gun.md#裤脚管)】`kv5 jiah7 gun3` <small>/kʰu5 t͡ɕiɑʔ7 kʊ̃3/<sup>泰兴</sup></small> 裤管。<sup>\[泰兴\]</sup>  
 1. 【[裤漉裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤漉裆)】`kv5 loh dan1` <sup>[东台]</sup> 两条裤腿相连的地方，也指人的阴部。  
 1. 【[裤祿裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_loh_dan.md#裤祿裆)】`kv5 loh dan1` <small>/kʰu5 lɔʔ tɑŋ1/<sup>泰兴</sup></small> 裤裆。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[裤头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kv_teu.md#裤头)】`kv5 teu2` <sup>[东台]</sup> 短裤。也叫裩子。  

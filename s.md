@@ -53,7 +53,7 @@
 1. 【[𢶍骑马布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi_ma_bv.md#𢶍骑马布)】`saeh7 qi2 ma3 bv5` <sup>[如皋]</sup> 把骑马布系于胯下。  
 1. 【[𢶍尿布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xy_bv.md#𢶍尿布)】`saeh7 xy1 bv5` <sup>[如皋]</sup> 见“𢶍衲子”。  
 1. 【[𣜂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂)】`saeh7` <sup>[兴化]</sup> 插在木器榫眼中的薄木楔，上粗下细，可使接榫处收紧，牢固。兴化词典作“㞚”，《集韵·洽韵》测洽切“～，楔也”。一读色洽切。  
-1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <small>/sæʔ7/<sup>泰县</sup></small> ① 器物不平或榫头不紧时添加的木楔。（东台词典作“㪪”，《集韵》𩐅，悉盍切，起也）<sup>\[东台\]</sup>：斫草之前先把刀～搕紧<sup>\[东台\]</sup>｜桌子那条腿下面要加块～才稳。（俗写“櫒”，或写“楔”）。<sup>\[东台\]</sup> ② 插入，加楔<sup>\[泰县\]</sup>：～个～儿。<sup>\[泰县\]</sup> ③ （泰州词典作㞚）<sup>\[泰州\]</sup> ④ 楔片<sup>\[泰州\]</sup>：椅子松吖，要加个～。<sup>\[泰州\]</sup> ⑤ 他把扇子望腰里一～，捧吖椅子外去乘凉去啊。<sup>\[泰州\]</sup> ⑥ 将上衣的下摆插入裤子里<sup>\[泰州\]</sup>：把衬衫～咖裤子里去。<sup>\[泰州\]</sup>｜把裤脚～咖袜子里去。<sup>\[泰州\]</sup> ⑦ 用力将绳、带束紧<sup>\[泰州\]</sup>：你把绳子～咖紧吖。<sup>\[泰州\]</sup>  
+1. 【[𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𣜂/楔)】`saeh7` <small>/ɕiæʔ7/<sup>泰兴</sup>, /sæʔ7/<sup>泰县</sup></small> ① 器物不平或榫头不紧时添加的木楔。（东台词典作“㪪”，《集韵》𩐅，悉盍切，起也）<sup>\[东台\]</sup>：斫草之前先把刀～搕紧<sup>\[东台\]</sup>｜桌子那条腿下面要加块～才稳。（俗写“櫒”，或写“楔”）。<sup>\[东台\]</sup> ② 插入，加楔<sup>\[泰县\]</sup>：～个～儿。<sup>\[泰县\]</sup> ③ （泰州词典作㞚）<sup>\[泰州\]</sup> ④ 楔片<sup>\[泰州\]</sup>：椅子松吖，要加个～。<sup>\[泰州\]</sup> ⑤ 他把扇子望腰里一～，捧吖椅子外去乘凉去啊。<sup>\[泰州\]</sup> ⑥ 将上衣的下摆插入裤子里<sup>\[泰州\]</sup>：把衬衫～咖裤子里去。<sup>\[泰州\]</sup>｜把裤脚～咖袜子里去。<sup>\[泰州\]</sup> ⑦ 用力将绳、带束紧<sup>\[泰州\]</sup>：你把绳子～咖紧吖。<sup>\[泰州\]</sup> ⑧ 插入榫头中的小木块，可使器物更坚实、牢固。<sup>\[泰兴\]</sup>：再加上个～就更好了<sup>\[泰兴\]</sup>  
 1. 【[三班倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen_do.md#三班倒)】`saen1 baen1 do3` <sup>[如东]</sup> 上班制度的一种。一昼夜分三个班次。  
 1. 【[三般两样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen_laen_ian.md#三般两样)】`saen1 baen1 laen3 ian6` <small>/ɕiɛ̃1 pɛ̃1 lɛ̃3 iɑŋ1/<sup>泰兴</sup></small> 各种各样，多种多样。<sup>\[泰兴\]</sup>：不要弄得～的，还是清一色的好些。<sup>\[泰兴\]</sup>  
 1. 【[三板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_baen.md#三板)】`saen1 baen3` <sup>[泰县]</sup> 隔房子的木板。  
@@ -2945,14 +2945,15 @@
 1. 【[臊气娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_r.md#臊气娘<sub>儿</sub>)】`so1 qi5 nian2 r` <sup>[如皋]</sup> 马陆。  
 1. 【[臊气娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_zz.md#臊气娘子)】`so1 qi5 nian2 zz` <small>/sɔ1 t͡ɕʰʝ5 niã2 t͡sɿ/<sup>如皋</sup></small> ① 马陆。多足纲，唇足亚纲。<sup>\[如皋\]</sup> ② 圆马陆科动物约安巨马陆或其它陆类动物。也称烧锅娘子。体长约12厘米，圆形，表面光滑。全体由多数环形节组成。体背面黑褐色。胸部每节有步肢1对；腹部每节有步肢2对。栖于阴湿地区，食草根及腐败植物，触之则蜷缩不动，并放出恶臭。<sup>\[如东\]</sup>  
 1. 【[臊气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_vei.md#臊气味)】`so1 qi5 vei6` <sup>[泰州]</sup> ① 动物身上发出的难闻气味。 ② 人畜的尿散发出的难闻气味。  
-1. 【[骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#骚)】`so1` <sup>[泰州]</sup> 行为举止显露对性的渴望。  
+1. 【[骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#骚)】`so1` <small>/sɔ1/<sup>泰兴</sup></small> ① 行为举止显露对性的渴望。<sup>\[泰州\]</sup> ② 淫荡。欲火中烧。<sup>\[泰兴\]</sup>：闷骚<sup>\[泰兴\]</sup>  
 1. 【[骚的辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_dii_laeh_dii.md#骚的辣的)】`so1 dii laeh8 dii` <sup>[东台]</sup> 形容出言吐语脏话、下流话多，很不文明。  
 1. 【[骚疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_geh_daeh.md#骚疙瘩)】`so1 geh7 daeh7` <sup>[泰州]</sup> 粉刺，生在人的面部以及胸、背、肩等部位毛囊中的锥形小红疙瘩，用力可以挤出白色粒状油脂，患者多为处于性意识萌动期的青年，故名。  
 1. 【[骚疙瘩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_geh_daeh_zz.md#骚疙瘩子)】`so1 geh7 daeh7 zz` <sup>[兴化]</sup> 青春痘。  
 1. 【[骚公鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_gon_ji.md#骚公鸡)】`so1 gon1 ji1` <sup>[兴化]</sup> ① 雄鸡。 ② （喻）乱搞两性关系的男人。  
 1. 【[骚括](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_guaeh.md#骚括)】`so1 guaeh7` <sup>[如东]</sup> 风风颠颠的样子：看她那个样子，多～。  
-1. 【[骚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_hu.md#骚货)】`so1 hu5` <small>/sɔ1 xo5/<sup>兴化</sup></small> ① 人举止轻佻。<sup>\[如东\]</sup> ② 指好卖弄风骚的妇女。<sup>\[东台\]</sup> ③ 骂人的话，指举止轻佻，生活作风糜烂的女人。<sup>\[兴化\]</sup> ④ 詈词，淫荡的女人。<sup>\[泰州\]</sup>  
+1. 【[骚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_hu.md#骚货)】`so1 hu5` <small>/sɔ1 xo5/<sup>兴化</sup>, /sɔ1 xɤɯ5/<sup>泰兴</sup></small> ① 人举止轻佻。<sup>\[如东\]</sup> ② 指好卖弄风骚的妇女。<sup>\[东台\]</sup> ③ 骂人的话，指举止轻佻，生活作风糜烂的女人。<sup>\[兴化\]</sup> ④ 詈词，淫荡的女人。<sup>\[泰州\]</sup> ⑤ 指淫荡的女人。<sup>\[泰兴\]</sup>  
 1. 【[骚话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_hua.md#骚话)】`so1 hua6` 涉及性的下流话<sup>\[泰州\]</sup>：这个狗东西他不说两句～就难过。<sup>\[泰州\]</sup>  
+1. 【[骚雄鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ion_ji.md#骚雄鸡)】`so1 ion2 ji1` <small>/sɔ1 iɔŋ2 t͡ɕʝ1/<sup>泰兴</sup></small> 比喻乱搞两性关系的男人。<sup>\[泰兴\]</sup>  
 1. 【[骚脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jiah.md#骚脚)】`so1 jiah7` <sup>[东台]</sup> 双脚乱蹬。  
 1. 【[骚筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jien.md#骚筋)】`so1 jien1` <small>/sɔ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 精索。见“肾筋”。<sup>\[如皋\]</sup> ② 见“肾筋”。<sup>\[如皋\]</sup>  
 1. 【[骚乐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_lah_r.md#骚乐<sub>儿</sub>)】`so1 lah8 r` <sup>[如皋]</sup> 卖弄风情的人。  
@@ -2967,7 +2968,7 @@
 1. 【[骚水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shuei.md#骚水)】`so1 shuei3` <sup>[如皋]</sup> 前列腺液  
 1. 【[骚𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_son.md#骚𪨊)】`so1 son2` <sup>[东台]</sup> （詈语）令人讨厌的事物。  
 1. 【[骚痘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_teu_zz.md#骚痘子)】`so1 teu6 zz` <sup>[兴化]</sup> 青春痘。又说“骚疙瘩子”。  
-1. 【[骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhv.md#骚猪)】`so1 zhv1` <small>/sɔ1 t͡su1/<sup>兴化</sup>, /sɔ1 t͡su1/<sup>如皋</sup>, /sɔ1 t͡su1/<sup>泰县</sup></small> ① 种公猪。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 没有阉割的公猪。<sup>\[兴化\]</sup> ③ 公猪。<sup>\[泰县\]</sup>  
+1. 【[骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhv.md#骚猪)】`so1 zhv1` <small>/sɔ1 t͡su1/<sup>兴化</sup>, /sɔ1 t͡su1/<sup>如皋</sup>, /sɔ1 t͡su1/<sup>泰兴</sup>, /sɔ1 t͡su1/<sup>泰县</sup></small> ① 种公猪。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup> ② 没有阉割的公猪。<sup>\[兴化\]</sup> ③ 公猪。<sup>\[泰县\]</sup>  
 1. 【[骚猪手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zhv_sheu.md#骚猪手)】`so1 zhv1 sheu3` <sup>[如皋]</sup> ① 帮猪配种的人。 ② 詈语，骂做事手快的人。  
 1. 【[𨃣脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_jiah.md#𨃣脚)】`so1 jiah7` <sup>[如皋]</sup> 腿脚悬空时的蹬踢动作。  
 1. 【[𨃣仰仰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_nian_nian_r.md#𨃣仰仰<sub>儿</sub>)】`so1 nian3 nian3 r` <sup>[如皋]</sup> 仰泳。  
@@ -3005,12 +3006,14 @@
 1. 【[燥市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#燥市)】`so5 shr6` <sup>[如皋]</sup> 特别畅销的行情。  
 1. 【[臊气娘娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_qi_nian_nian.md#臊气娘娘)】`so5 qi nian2 nian` <sup>[兴化]</sup> 即“马陆”，一种小型节肢动物，暗红色，触角和步足极细，生活在阴湿的地方，有臭腺孔，能放出像胺那样的气味。  
 1. 【[臊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_zz.md#臊子)】`so5 zz` 切好的肉丝或者肉丁。<sup>\[泰州\]</sup>  
-1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` <small>/sɔ5/<sup>兴化</sup>, /sɔ5/<sup>如皋</sup></small> 快（《集韵》“先到切，快也”）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你～点儿来。<sup>\[如皋\]</sup>｜你～点儿跑，不然赶不上。<sup>\[东台\]</sup>｜～点跑。<sup>\[兴化\]</sup>｜你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>  
+1. 【[𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so.md#𢜶)】`so5` <small>/sɔ5/<sup>兴化</sup>, /sɔ5/<sup>如皋</sup>, /sɔ5/<sup>泰兴</sup></small> 快（《集韵》“先到切，快也”）<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你～点儿来。<sup>\[如皋\]</sup>｜你～点儿跑，不然赶不上。<sup>\[东台\]</sup>｜～点跑。<sup>\[兴化\]</sup>｜你～点ㄦ跑，不然上班就来不洎唻。<sup>\[泰州\]</sup>｜～点吃咖去上学。<sup>\[泰兴\]</sup>  
 1. 【[𢜶大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶大)】`so5 da` <sup>[如皋]</sup> 快，迅速。  
 1. 【[𢜶大点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da_din_r.md#𢜶大点<sub>儿</sub>)】`so5 da din3 r` <small>/sɔ5 ta tiɪ̃3 ɚ/<sup>泰县</sup></small> 快点<sup>\[泰县\]</sup>：你～来，捉住这条狗子。<sup>\[泰县\]</sup>  
 1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <sup>[兴化]</sup> 形容快捷：现在交通便利，不管到哪许总蛮～的。也作“𢜶剌”。  
+1. 【[𢜶打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_da.md#𢜶打)】`so5 da` <small>/sɔ5 tɑ/<sup>泰兴</sup></small> 快，速度快。<sup>\[泰兴\]</sup>：他做事只叫个～。<sup>\[泰兴\]</sup>  
 1. 【[𢜶点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_din_r.md#𢜶点<sub>儿</sub>)】`so5 din3 r` 快点儿，时间缩短或者速度加快一些<sup>\[泰州\]</sup>：大家手上～，这点儿活技做掉下班。<sup>\[泰州\]</sup>  
 1. 【[𢜶剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_laeh.md#𢜶剌)】`so5 laeh` <sup>[兴化]</sup> 形容快捷。  
+1. 【[𢜶马没好步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_ma_meh_ho.md#𢜶马没好步)】`so5 ma3 meh8 ho3 pv6` <small>/sɔ5 mɑ3 məʔ8 xɔ3 pʰu1/<sup>泰兴</sup></small> 喻过分强调办事的速度，质量就不高。<sup>\[泰兴\]</sup>  
 1. 【[𢜶市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/so_shr.md#𢜶市)】`so5 shr6` <sup>[兴化]</sup> 指某种商品在一时一地畅销：现在正是青黄不接，粮食是～！  
 1. 【[宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh.md#宿)】`soh7` <sup>[泰州]</sup> 食品不新鲜：这个菜是昨朝子烧的，～咖唻。｜冰箱里的～菜最好不要再吃吤。  
 1. 【[宿场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_chan.md#宿场)】`soh7 chan` <sup>[如皋]</sup> 住宿之处。  
@@ -3515,7 +3518,7 @@
 1. 【[四仙桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah.md#四仙桌)】`sz5 xin1 zhuah7` <small>/sɿ5 ɕĩ1 t͡suaʔ7/<sup>如皋</sup></small> ① 房内打牌用的精制小方桌，四人座。<sup>\[如皋\]</sup> ② 一种木制方桌，每边可以坐一个人，共坐四人。<sup>\[泰州\]</sup>  
 1. 【[四仙桌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_xin_zhuah_zz.md#四仙桌子)】`sz5 xin1 zhuah7 zz` <small>/sɿ5 ɕĩ1 t͡suɑʔ7 t͡sɿ/<sup>泰兴</sup></small> 也称“四仙台子”。小的方桌，每边只坐一人。<sup>\[泰兴\]</sup>  
 1. 【[四只脚白，家家熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zheh_jiah_poh.md#四只脚白，家家熟)】`sz5 zheh jiah7 poh8 ga1 ga1 shoh8` <small>/sɿ5 t͡səʔ t͡ɕiɑʔ7 pʰɔʔ8 kɑ1 kɑ1 sɔʔ8/<sup>泰兴</sup></small> 本谓猫狗对邻家等很熟悉，借用于人对各处很熟悉了解，含有戏谑意。<sup>\[泰兴\]</sup>  
-1. 【[四转里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_lii.md#四转里)】`sz5 zhun5 lei` <small>/sɿ5 t͡sʊ̃5 ləɪ/<sup>泰兴</sup></small> 周围。同“四转转儿”。<sup>\[泰兴\]</sup>  
+1. 【[四转里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_lii.md#四转里)】`sz5 zhun5 lii` <small>/sɿ5 t͡sʊ̃5 ləɪ/<sup>泰兴</sup></small> 周围。同“四转转儿”。<sup>\[泰兴\]</sup>  
 1. 【[四转转<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_zhun_zhun_r.md#四转转<sub>儿</sub>)】`sz5 zhun5 zhun5 r` <small>/sɿ5 t͡sʊ̃5 t͡sʊ˞5/<sup>泰兴</sup></small> 四周围，周边，到处。<sup>\[泰兴\]</sup>：一到年底，街上～，块块是打年货的。<sup>\[泰兴\]</sup>  
 1. 【[肆误](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz_v.md#肆误)】`sz5 v` <small>/sɿ5 ʋu/<sup>如皋</sup></small> ① 因判断错误或操作不当造成坏的结果。与耽误、贻误近义。东台词典写“失误”<sup>\[东台\]</sup>：他的病太重，不能怪医生～。<sup>\[东台\]</sup> ② 意外差错或事故。如皋词典作“失误”<sup>\[如皋\]</sup>：出～。<sup>\[如皋\]</sup> ③ 延误<sup>\[如皋\]</sup>：病捱～下来啊。<sup>\[如皋\]</sup> ④ 由于没有抓紧办理而导致事情未能做好或者未能完成<sup>\[泰州\]</sup>：还以为他这件事早就弄吖好啊的，哪晓得捱他～下来啊，你说哿教人着躁。<sup>\[泰州\]</sup>  
 1. 【[似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sz.md#似)】`sz6` <sup>[泰州]</sup> 介词，用于形容词之后，表示比较：一声高～一声｜肚子一天大～一天｜他的成绩远远好～你。｜他的个子高～你。  

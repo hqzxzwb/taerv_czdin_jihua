@@ -994,10 +994,10 @@
 1. 【[富贵不断头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_guei_beh_tun.md#富贵不断头)】`fv5 guei5 beh7 tun6 teu2` <sup>[兴化]</sup> 指多次重复某一动作或某件事：（这个伙计）又邀客去了……三五邀，不算数；七八邀，不得成功；十几邀，～……（《武松》二）  
 1. 【[富贵碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_guei_un.md#富贵碗)】`fv5 guei5 un3` <sup>[东台]</sup> 亦称龙凤富贵碗。东台旧时婚俗，新房案台上放置一对～，碗内有双喜剪纸，桂圆红枣，以图吉祥，早生贵子。  
 1. 【[富贵鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_guei_y.md#富贵鱼)】`fv5 guei5 y2` <sup>[兴化]</sup> 放在新房桌上的一对红烧鲫鱼，㓾破的肚皮相对，取成双成对的吉兆。  
-1. 【[富色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_seh.md#富色)】`fv5 seh7` <small>/fʋ5 səʔ7/<sup>泰兴</sup></small> 样式华丽，制作精良，品质好等含义<sup>\[泰兴\]</sup>：他家的房子～吤<sup>\[泰兴\]</sup>  
 1. 【[富态](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tae.md#富态)】`fv5 tae` <sup>[兴化]</sup> ① 对胖子的恭维话，所谓“富贵之态”。 ② 形容物体宽大饱满。也说“富富态态”。  
 1. 【[富态](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tae.md#富态)】`fv5 tae5` <small>/fu5 tʰɛ5/<sup>如皋</sup>, /fʋ5 tʰɛ5/<sup>泰兴</sup></small> ① 身体肥胖。<sup>\[如东\]</sup>：你越来越～啊。<sup>\[如东\]</sup> ② 体积较大。<sup>\[如东\]</sup> ③ 丰满舒展的仪表<sup>\[如皋\]</sup>：他样子蛮～的。<sup>\[如皋\]</sup> ④ 人体发胖、物体丰满之形。<sup>\[东台\]</sup> ⑤ 肤色白净，体态丰腴的样子<sup>\[泰州\]</sup>：样子生得～。<sup>\[泰州\]</sup> ⑥ 胖乎乎的样子。<sup>\[泰兴\]</sup>  
 1. 【[富安民居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_un_mien_jy.md#富安民居)】`fv5 un1 mien2 jy1` <sup>[东台]</sup> 富安镇尚存一组明代民居建筑群。  
+1. 【[富余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_y.md#富余)】`fv5 y2` <small>/fʋ5 y2/<sup>泰兴</sup></small> 足够而有剩余。<sup>\[泰兴\]</sup>  
 1. 【[富足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zoh.md#富足)】`fv5 zoh7` <sup>[泰县]</sup> 结实：这把椅子～。  
 1. 【[负辜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gv.md#负辜)】`fv5 gv1` <sup>[兴化]</sup> 因出了力，吃了苦，不被理解而感到委屈：难怪她～，忙吖几天，还捱男人包怨。  
 1. 【[负苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kv.md#负苦)】`fv5 kv3` <sup>[兴化]</sup> 刻苦持家：这个伢儿真能～，把个小家庭弄得有条有理的。  

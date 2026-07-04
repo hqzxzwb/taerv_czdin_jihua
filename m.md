@@ -787,7 +787,7 @@
 1. 【[没嘴没面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zuei_meh_min.md#没嘴没面)】`meh8 zuei3 meh8 min6` <small>/məʔ8 t͡suəi3 məʔ8 miɪ̃6/<sup>兴化</sup>, /məʔ8 t͡suəɪ3 məʔ8 mĩ1/<sup>泰兴</sup></small> ① 任劳任怨<sup>\[兴化\]</sup>：小黄成天家里忙到家外，～的。<sup>\[兴化\]</sup> ② 为人随和<sup>\[兴化\]</sup>：她为人～的，从不跟人顶真。<sup>\[兴化\]</sup> ③ 说话不多，勤恳做事，品质好。<sup>\[泰兴\]</sup>  
 1. 【[没嘴瓢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/meh_zuei_pio.md#没嘴瓢)】`meh8 zuei3 pio2` <sup>[兴化]</sup> 无言可对：这次人赃俱获，叫他～。  
 1. 【[媒鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ngaeh.md#媒鸭)】`mei2 ngaeh7` <sup>[兴化]</sup> 驯养的野鸭，猎户用其引诱同类：这～是野生的，特灵。主人放飞后……暗中牵引鸭群向主人火力范围靠……（刘仁前《楚水风物·野鸡·野鸭》）  
-1. 【[媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ren.md#媒人)】`mei2 ren2` <sup>[如东]</sup> 介绍婚姻的人。  
+1. 【[媒人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_ren.md#媒人)】`mei2 ren2` <small>/məɪ2 ɻəŋ2/<sup>泰兴</sup></small> ① 介绍婚姻的人。<sup>\[如东\]</sup> ② 说合婚姻的人。<sup>\[泰兴\]</sup>  
 1. 【[媒熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_shoh.md#媒熟)】`mei2 shoh8` <sup>[如东]</sup> 由刚刚发生的一件事情，能够引出同样的另一件事情，称媒熟：这张牌～，我需要这张牌是完全有希望的。  
 1. 【[媒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_zz.md#媒子)】`mei2 zz` <small>/məɪ2 t͡se/<sup>泰县</sup></small> ① 引诱别人上勾的人。也叫引子。<sup>\[如东\]</sup> ② 媒介。<sup>\[泰县\]</sup>  
 1. 【[梅花糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mei_hua_go.md#梅花糕)】`mei2 hua1 go1` <sup>[泰州]</sup> 一种风味小吃，制法，将铜或铁铸的糕模（上有19个容积相同的孔，孔似今日冰淇淋形，上大下小，上为张开五瓣梅花之形，下为五面内凸倒梯形弧面）在炉火上烤热，用匙将发过酵的稀糊状小麦面粉舀进孔中形成包皮，将生肉糜（咸）或熟豆沙（甜）放进包皮，再以面糊覆盖，烤熟，用铁签取出即可食，松软可口，香味独特。以其形似梅花，故名。  
@@ -997,7 +997,7 @@
 1. 【[咪里马拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_lii_ma_la.md#咪里马拉)】`mi1 lii ma1 la` <small>/mʝ1 ləɪ mɑ1 lɑ/<sup>泰兴</sup></small> 拖拖拉拉<sup>\[泰兴\]</sup>  
 1. 【[咪马吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ma_hon.md#咪马吽)】`mi1 ma hon1` <sup>[兴化]</sup> 形容人胡涂、马虎或善于应付：这个人一头的～。此语套用佛经的“吗呢吽”。  
 1. 【[咪咪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#咪咪)】`mi1 mi` <sup>[如东]</sup> 猫叫唤的声音。  
-1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` ① 用嘴唇轻轻地喝一口。<sup>\[如东\]</sup>：～一口五粮液。<sup>\[如东\]</sup> ② 一次饮少量的酒或者饮料<sup>\[泰州\]</sup>：酒要是喝不惯，就随意～点ㄦ。<sup>\[泰州\]</sup>｜刚刚～啊一口，这个药还不算苦。<sup>\[泰州\]</sup>  
+1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi1` <small>/mʝ1/<sup>泰兴</sup></small> ① 用嘴唇轻轻地喝一口。<sup>\[如东\]</sup>：～一口五粮液。<sup>\[如东\]</sup> ② 一次饮少量的酒或者饮料<sup>\[泰州\]</sup>：酒要是喝不惯，就随意～点ㄦ。<sup>\[泰州\]</sup>｜刚刚～啊一口，这个药还不算苦。<sup>\[泰州\]</sup> ③ 小饮。<sup>\[泰兴\]</sup>：他～了一口酒。<sup>\[泰兴\]</sup>｜弄点小酒～～。<sup>\[泰兴\]</sup>  
 1. 【[渳渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_mi.md#渳渳)】`mi1 mi` <sup>[东台]</sup> 小口慢慢饮酒：他喜欢小～  
 1. 【[眯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#眯)】`mi1` <small>/mi1/<sup>兴化</sup>, /mʝ1/<sup>如皋</sup></small> ① 闭目养神<sup>\[如皋\]</sup>：眼睛～啊下。<sup>\[如皋\]</sup> ② 小睡<sup>\[如皋\]</sup>：吃咖中饭要～刻儿。<sup>\[如皋\]</sup> ③ 眼皮微微合缝，或短时间假寐<sup>\[东台\]</sup>：我在沙发上～下子就好啊。<sup>\[东台\]</sup> ④ 睡着<sup>\[兴化\]</sup>：他在椅子上～着咖。<sup>\[兴化\]</sup> ⑤ 小睡，稍微睡一会儿<sup>\[泰州\]</sup>：大家嫑则声，让他～一刻ㄦ。<sup>\[泰州\]</sup>｜心里有事睡不着，在床上～啊个盹儿就起来啊。<sup>\[泰州\]</sup> ⑥ 药瓶高头的字太小，你把眼睛～起来望吖看，写的是甚的？<sup>\[泰州\]</sup>  
 1. 【[眯咖麻咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ga_ma_ga.md#眯咖麻咖)】`mi1 ga ma1 ga` <sup>[泰州]</sup> 行为浑浑噩噩的样子：这吖大的人，成天～的，你怎吖好㖸。  
@@ -1024,7 +1024,7 @@
 1. 【[楣气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_qi.md#楣气)】`mi2 qi5` <sup>[如皋]</sup> 倒楣之气：去耍耍，冲冲～。  
 1. 【[楣人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_ren.md#楣人)】`mi2 ren2` <sup>[如皋]</sup> 倒楣的人。  
 1. 【[楣形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_xien.md#楣形)】`mi2 xien2` <sup>[如皋]</sup> 倒霉的样子。  
-1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi2` <sup>[兴化]</sup> 少量地喝一点：她经不起别人劝，～啊一口甜酒。  
+1. 【[渳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi.md#渳)】`mi2` <small>/mi2/<sup>兴化</sup></small> 少量地喝一点<sup>\[兴化\]</sup>：她经不起别人劝，～啊一口甜酒。<sup>\[兴化\]</sup>  
 1. 【[煤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_zz.md#煤子)】`mi2 zz` <sup>[泰州]</sup> 用易于引火的纸搓成的细纸卷，点着以后吹熄，让其自燃，引火之时，吹燃。就是多做点火、燃烧水烟只用。  
 1. 【[猕猴桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_heu_to.md#猕猴桃)】`mi2 heu2 to2` <sup>[如东]</sup> 猕猴桃科植物猕猴桃。  
 1. 【[眉花眼笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mi_hua_ngaen_xio.md#眉花眼笑)】`mi2 hua1 ngaen3 xio5` <sup>[兴化]</sup> 形容欢乐、嬉笑：老两口看见孙子不禁～。｜那尼姑贪财惹事，见了这两定细丝白银，～道……（《清平山堂话本·戒指儿记》）  

@@ -1418,7 +1418,7 @@
 1. 【[池水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_shuei.md#池水)】`chr2 shuei3` <sup>[如皋]</sup> 旧时本地水质较好的池塘水，常挑运回家烹茶，有别于天水、井水。  
 1. 【[池𧒘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_vae.md#池𧒘)】`chr2 vae1` <sup>[如皋]</sup> 一种腹大善鸣的蛙。一作“山～”：肚子吃咖像～。  
 1. 【[漦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr.md#漦)】`chr2` <small>/t͡sʰɿ2/<sup>如皋</sup>, /t͡sʰɿ2/<sup>泰兴</sup></small> ① 流涂<sup>\[如皋\]</sup>：血～啊褥单上吖。<sup>\[如皋\]</sup> ② 以脚底碾烂涂在地上<sup>\[泰兴\]</sup>：他吐啊口痰，又～掉啊<sup>\[泰兴\]</sup>  
-1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <small>/t͡sʰɿ2 tʝ3/<sup>如皋</sup></small> ① 锅里食物加热过程中沉淀在锅底，烧糊了。<sup>\[东台\]</sup> ② 粘锅<sup>\[如皋\]</sup>：煮䜺儿粥要耕几次，不要～。<sup>\[如皋\]</sup> ③ 煮粥或者煮面条、米粉之类食物时，烧糊沉淀并且黏在锅的底部<sup>\[泰州\]</sup>：锅子里头漦啊底。<sup>\[泰州\]</sup>  
+1. 【[漦底](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_di.md#漦底)】`chr2 di3` <small>/t͡sʰɿ2 tʝ3/<sup>如皋</sup>, /t͡sʰɿ2 t͡ɕʝ3/<sup>泰兴</sup></small> ① 锅里食物加热过程中沉淀在锅底，烧糊了。<sup>\[东台\]</sup> ② 粘锅<sup>\[如皋\]</sup>：煮䜺儿粥要耕几次，不要～。<sup>\[如皋\]</sup> ③ 煮粥或者煮面条、米粉之类食物时，烧糊沉淀并且黏在锅的底部<sup>\[泰州\]</sup>：锅子里头漦啊底。<sup>\[泰州\]</sup> ④ 煮稀饭时米或视子附于锅底难以起动。<sup>\[泰兴\]</sup>  
 1. 【[漦喖龙冬的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_lon_don.md#漦喖龙冬的)】`chr2 kv lon2 don1 dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[漦喖搨喖的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_kv_taeh_kv.md#漦喖搨喖的)】`chr2 kv taeh7 kv dii` <sup>[如皋]</sup> 黏稠物流涂，令人生厌状。  
 1. 【[漦𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_mu.md#漦𣳠)】`chr2 mu3` <small>/t͡sʰɿ2 mʊ3/<sup>如皋</sup></small> ① 从口中吐出沫花。口吐白沫。<sup>\[如东\]</sup>：螃蟹在路边上～。<sup>\[如东\]</sup> ② 口泛白沫。<sup>\[如皋\]</sup>  
@@ -1436,8 +1436,10 @@
 1. 【[滞饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_faen.md#滞饭)】`chr5 faen6` <sup>[泰州]</sup> 剩饭。  
 1. 【[滞饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_faen_un.md#滞饭碗)】`chr5 faen6 un3` <sup>[泰州]</sup> 碗中留有剩饭的碗：你把碗里的饭吃咖干净吖，没得哪个吃你的！｜吃不下去就少盛点儿，又要作个～唻。  
 1. 【[滞货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_hu.md#滞货)】`chr5 hu5` <sup>[泰州]</sup> ① 顾客挑选之后积压下的货物：听吖说马上要涨价，一个个像疯吖，店里的～都卖啊光吖。 ② 错过婚龄还未成婚的人：你自己多大唻，还嫌人家是～。  
+1. 【[滞货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_hu_r.md#滞货<sub>儿</sub>)】`chr5 hu5 r` <small>/t͡sʰɿ5 xɤɯ˞5/<sup>泰兴</sup></small> 剩下的东西。<sup>\[泰兴\]</sup>  
 1. 【[滞脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_jiah_r.md#滞脚<sub>儿</sub>)】`chr5 jiah7 r` ① 剩下的、不受欢迎的东西<sup>\[东台\]</sup>：今朝去菜场去迟啊，只能买点儿～。<sup>\[东台\]</sup> ② 吃剩的饭菜。<sup>\[泰州\]</sup> ③ 被人挑选以后剩下的货物<sup>\[泰州\]</sup>：好的都捱人家拣吖走啊，还有些～。<sup>\[泰州\]</sup>  
 1. 【[滞黏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_nin.md#滞黏)】`chr5 nin` <small>/t͡sʰɿ5 liɪ̃/<sup>兴化</sup>, /t͡sʰɿ5 nĩ/<sup>如皋</sup></small> ① 绵延难了<sup>\[如皋\]</sup>：病～吖<sup>\[如皋\]</sup>｜事情～吖。<sup>\[如皋\]</sup> ② 不易消化的食品<sup>\[东台\]</sup>：他可能吃咖～东西，不舒服。<sup>\[东台\]</sup> ③ ［喻］指事情进展不顺利<sup>\[东台\]</sup>：这件事几个月没动静，不晓得哪许～吖。<sup>\[东台\]</sup> ④ 形容人智商低，反应慢<sup>\[兴化\]</sup>：他天生是个～人，没得办法。<sup>\[兴化\]</sup>  
+1. 【[滞碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_un.md#滞碗)】`chr5 un` <small>/t͡sʰɿ5 ʊ̃/<sup>泰兴</sup></small> 有剩饭的碗<sup>\[泰兴\]</sup>  
 1. 【[滞粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zhoh.md#滞粥)】`chr5 zhoh7` <sup>[泰州]</sup> 剩下的粥。  
 1. 【[柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_zz.md#柿子)】`chr6 zz, shr6 zz` 柿子  
 1. 【[治艄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_sho.md#治艄)】`chr6 sho1` <sup>[如东]</sup> 帆船上的桅樯，竖在船尾右舷，固定在顶风梁上。也叫艄桅。  

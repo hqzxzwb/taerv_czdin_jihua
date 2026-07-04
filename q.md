@@ -285,7 +285,7 @@
 1. 【[笡头沰烧饼——𧺕沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_teu_dah_sho.md#笡头沰烧饼——𧺕沰)】`qia1 teu2 dah7 sho1 bien3 shah8 dah7` <sup>[东台]</sup>   
 1. 【[强住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_chuh_ga.md#强住咖)】`qia2 chuh ga` <sup>[如皋]</sup> 强制着、逼迫着：小家伙不用心，要～他做作业。  
 1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv` <sup>[如皋]</sup> 见“煞如”。  
-1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像<sup>\[泰县\]</sup>：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup> ③ 权且当作，退一步就算是的意思<sup>\[东台\]</sup>：今朝多走啊几十里冤枉路，～坐车旅游吧。<sup>\[东台\]</sup>  
+1. 【[强如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_rv.md#强如)】`qia2 rv2` <small>/t͡ɕʰia2 ɻu2/<sup>如皋</sup>, /t͡ɕʰiɑ2 ɻu2/<sup>泰兴</sup>, /t͡ɕʰia2 ɻu2/<sup>泰县</sup></small> ① 作为是、假定是、等于是<sup>\[如皋\]</sup>：把伢儿吃吧，～我吃咖。<sup>\[如皋\]</sup> ② 就当，好像<sup>\[泰县\]</sup>：这事你不要老计较，～不晓得。<sup>\[泰县\]</sup> ③ 权且当作，退一步就算是的意思<sup>\[东台\]</sup>：今朝多走啊几十里冤枉路，～坐车旅游吧。<sup>\[东台\]</sup> ④ 好似\[泰兴：（《泰兴方言辞典》释义“胜过；超过”）\]：淡笑～哭。<sup>\[泰兴\]</sup>  
 1. 【[斜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia.md#斜)】`qia2` <sup>[兴化]</sup> 蛮横无理：这个小伙～得很，无事别惹他。  
 1. 【[斜巴眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_ba_ngaen.md#斜巴眼)】`qia2 ba ngaen3` <sup>[兴化]</sup> 患斜视的人。  
 1. 【[斜凿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_cah.md#斜凿)】`qia2 cah8` <sup>[如东]</sup> 农具。前端金属制成，六七寸长，口宽而锋利，成一定斜角。装有木柄。用以除草、掘土等。木工工具。铁制，口角一边大一边小，用于铲平木板表面。  
@@ -365,6 +365,7 @@
 1. 【[谢啊转过来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_a_zhun_gu.md#谢啊转过来啊)】`qia6 a zhun5 gu5 lae2 a` <sup>[如皋]</sup> 该谢的都谢遍了。  
 1. 【[谢口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_keu.md#谢口)】`qia6 keu3` <sup>[如皋]</sup> 事后埋怨。  
 1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mei.md#谢媒)】`qia6 mei2` <sup>[兴化]</sup> 婚俗，男女成婚后数日内，男家馈赠媒人烟、酒、糕点等礼物，表示谢意。  
+1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mei.md#谢媒)】`qia6 mei2` <small>/t͡ɕʰiɑ1 məɪ2/<sup>泰兴</sup></small> 酬谢媒人。<sup>\[泰兴\]</sup>  
 1. 【[谢媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_mi.md#谢媒)】`qia6 mi2` <small>/t͡ɕʰia1 mʝ2/<sup>如皋</sup></small> ① 旧时娶妻后生第一胎男婴，于三天内带礼物与红蛋、毛米粥去媒人家致谢。<sup>\[如皋\]</sup> ② 感谢媒人。男女成婚以后，男方馈送媒人礼物以表示感谢之意。<sup>\[泰州\]</sup>  
 1. 【[谢娘带子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_nian_dae_zz.md#谢娘带子)】`qia6 nian2 dae5 zz` <sup>[如东]</sup> 姑娘出嫁时，新郎送给丈母娘一根带子，表示感谢对妻子的抚育之恩。过去是一根红布带子捆在草席上，现在是一条床单。  
 1. 【[谢谢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qia_qia.md#谢谢)】`qia6 qia6` <sup>[东台]</sup> 感谢的口语：～你。  
@@ -670,8 +671,9 @@
 1. 【[吃冲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon.md#吃冲)】`qieh7 chon5` <sup>[泰州]</sup> 麻将术语，别人听牌以后，打出的牌正好是别人所听的牌：他今吖的手局不好，老是～。  
 1. 【[吃冲羹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon_gen.md#吃冲羹)】`qieh7 chon5 gen1` <sup>[东台]</sup> ［喻］受到顶撞、责怪。  
 1. 【[吃重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chon.md#吃重)】`qieh7 chon6` <small>/t͡ɕʰiəʔ7 t͡sʰɔŋ1/<sup>如皋</sup>, /t͡ɕʰiəʔ7 t͡sʰɔŋ1/<sup>泰兴</sup></small> ① 负担沉重<sup>\[如皋\]</sup>：他这次还债蛮～。<sup>\[如皋\]</sup> ② 能以承重<sup>\[如皋\]</sup>：拖拉机能～，汽车不能～。<sup>\[如皋\]</sup> ③ 秤的称量大。<sup>\[如皋\]</sup> ④ 承担负担较重<sup>\[泰州\]</sup>：你教他出一千块人情，他有点～。<sup>\[泰州\]</sup> ⑤ 承受重压，负担重。<sup>\[泰兴\]</sup>  
+1. 【[吃滞饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chr_faen_un.md#吃滞饭碗)】`qieh7 chr5 faen un3` <small>/t͡ɕʰiəʔ7 t͡sʰɿ5 fɛ̃ ʊ̃3/<sup>泰兴</sup></small> 同“吃滞碗”<sup>\[泰兴\]</sup>  
 1. 【[吃滞饭碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chr_faen_un.md#吃滞饭碗)】`qieh7 chr5 faen6 un3` <sup>[如皋]</sup> 见“吃剩饭碗”。  
-1. 【[吃滞碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chr_un.md#吃滞碗)】`qieh7 chr5 un` <small>/t͡ɕʰiəʔ7 t͡sʰɿ5 ʊ̃/<sup>泰兴</sup></small> 剩饭，碗中饮食不吃光。多指小孩。<sup>\[泰兴\]</sup>  
+1. 【[吃滞碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chr_un.md#吃滞碗)】`qieh7 chr5 un` <small>/t͡ɕʰiəʔ7 t͡sʰɿ5 ʊ̃/<sup>泰兴</sup></small> 剩饭，碗中饮食不吃光。\[泰兴：也可指吃别人剩下的饭（吃//滞碗）\]  
 1. 【[吃穿用度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chun_ion_tv.md#吃穿用度)】`qieh7 chun1 ion6 tv6` <small>/t͡ɕʰiəʔ7 t͡sʰʊ̃1 iɔŋ1 tʰu1/<sup>泰兴</sup></small> 泛指日常生活资料及用费。<sup>\[泰兴\]</sup>  
 1. 【[吃住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chv.md#吃住)】`qieh7 chv` <small>/t͡ɕʰiəʔ7 t͡sʰu/<sup>兴化</sup></small> ① 强逼<sup>\[兴化\]</sup>：～他去上学。<sup>\[兴化\]</sup>｜～他把毛线衣穿起来。<sup>\[兴化\]</sup> ② 牢牢吸附<sup>\[兴化\]</sup>：烂泥～啊洗不下来。<sup>\[兴化\]</sup> ③ 利用他人理亏之处要挟他人做某事<sup>\[泰州\]</sup>：他家爸爸～他把拾到的皮夹子还把人家。<sup>\[泰州\]</sup>  
 1. 【[吃住啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_chv_a.md#吃住啊)】`qieh7 chv a` <small>/t͡ɕʰiəʔ7 t͡sʰu a/<sup>如皋</sup></small> ① 强制地<sup>\[如皋\]</sup>：天冷，伢儿不肯加衣裳，我只好～他穿。<sup>\[如皋\]</sup> ② 强行、逼迫<sup>\[东台\]</sup>：孩子本不愿学木匠，他老子硬是～小伙去学。<sup>\[东台\]</sup>  
