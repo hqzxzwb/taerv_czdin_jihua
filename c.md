@@ -2246,7 +2246,7 @@
 1. 【[村天辣地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_tin_laeh_ti.md#村天辣地)】`cuen1 tin1 laeh8 ti6` <sup>[泰州]</sup> 肆无忌惮地说下流粗野的话。  
 1. 【[村学堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_xiah_tan.md#村学堂)】`cuen1 xiah8 tan2` <sup>[泰州]</sup> 乡村学堂，旧时多指乡村私塾。  
 1. 【[村长](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_zhan.md#村长)】`cuen1 zhan3` <sup>[东台]</sup> 本指一村之长，也戏称或特指喜欢说村话的人：你这个老～，就是欢喜开玩笑！  
-1. 【[皴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#皴)】`cuen1` <small>/t͡sʰuəŋ1/<sup>如皋</sup></small> 皮肤冻裂<sup>\[如东\]</sup><sup>\[东台\]</sup>\[泰州：皮肤坼裂，皮肤因受冻、风吹等而呈干裂粗糙样子\]\[如皋：皮肤轻度龟裂\]：～手。<sup>\[如东\]</sup>｜冬天冷风吹，脸上容易～<sup>\[如皋\]</sup>｜她天再冷还要天天下冷水洗，手上怎吖得不～！<sup>\[泰州\]</sup>｜他在工地上一冬天做下来，两只手上～吖像橘子皮。<sup>\[泰州\]</sup>｜冬天我的手～吖。<sup>\[东台\]</sup>  
+1. 【[皴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen.md#皴)】`cuen1` <small>/t͡sʰuəŋ1/<sup>如皋</sup></small> 皮肤冻裂<sup>\[如东\]</sup><sup>\[东台\]</sup>\[：泰兴方言辞典\]\[：皮肤受寒皱裂皵起\]\[泰州：皮肤坼裂，皮肤因受冻、风吹等而呈干裂粗糙样子\]\[如皋：皮肤轻度龟裂\]：～手。<sup>\[如东\]</sup>｜冬天冷风吹，脸上容易～<sup>\[如皋\]</sup>｜她天再冷还要天天下冷水洗，手上怎吖得不～！<sup>\[泰州\]</sup>｜他在工地上一冬天做下来，两只手上～吖像橘子皮。<sup>\[泰州\]</sup>｜冬天我的手～吖。<sup>\[东台\]</sup>  
 1. 【[皴裂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_lih.md#皴裂)】`cuen1 lih8` <small>/t͡sʰuəŋ1 liʔ8/<sup>泰兴</sup></small> 冬天因寒气侵袭手脚，皮肤出现裂痕。<sup>\[泰兴\]</sup>  
 1. 【[存后手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_heu_sheu.md#存后手)】`cuen2 heu6 sheu3` <sup>[如皋]</sup> 为以后作准备。  
 1. 【[存吖个心眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cuen_nga_gu_xien.md#存吖个心眼<sub>儿</sub>)】`cuen2 nga gu xien1 ngaen3 r` <sup>[东台]</sup> 指暗暗做好应急准备：为啊防止对方死不认账，我～，把谈判过程录咖相。  
