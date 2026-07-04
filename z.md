@@ -366,7 +366,7 @@
 1. 【[揸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#揸)】`zha1` <sup>[兴化]</sup> 把手指伸张开：～开五指。  
 1. 【[揸手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_sheu.md#揸手)】`zha1 sheu3` <sup>[如东]</sup> 把手指张开来。  
 1. 【[渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#渣)】`zha1` <sup>[如皋]</sup> ① 饭粥将坏时的口感：粥～啊，不要吃咖。 ② 形容苍白色：听到法庭宣判死刑，他的脸暂时就白咖～啊。  
-1. 【[渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_zz.md#渣子)】`zha1 zz` ① 碎屑 ② 物品提出精华后剩下的东西。<sup>\[如东\]</sup>：甘蔗～。<sup>\[如东\]</sup> ③ 比喻品质恶劣对社会起破坏作用的人，如盜贼、骗子、流氓等。<sup>\[如东\]</sup>  
+1. 【[渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_zz.md#渣子)】`zha1 zz` <small>/t͡sɑ1 t͡sɿ/<sup>泰兴</sup></small> ① 碎屑 ② 物品提出精华后剩下的东西。<sup>\[如东\]</sup>：甘蔗～。<sup>\[如东\]</sup> ③ 比喻品质恶劣对社会起破坏作用的人，如盜贼、骗子、流氓等。<sup>\[如东\]</sup> ④ 渣滓。杂质，槽粕。也比喻思想品质恶劣、起破坏作用的人。\[泰兴：或音zha3 zz\]  
 1. 【[渣子客人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_zz_keh_ren.md#渣子客人)】`zha1 zz keh7 ren2` <sup>[如东]</sup> 无理取闹的人。  
 1. 【[虘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha.md#虘)】`zha1` <small>/t͡sa1/<sup>如皋</sup></small> ① 形容人不讲道理，说话不算数 ② 刚暴狡诈<sup>\[如皋\]</sup>：这小伙死～！<sup>\[如皋\]</sup> ③ 耍无赖，不讲理。<sup>\[如东\]</sup>：这个人～。<sup>\[如东\]</sup>  
 1. 【[虘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_hua.md#虘话)】`zha1 hua6` <small>/t͡sa1 xua1/<sup>如皋</sup></small> ① 强词夺理加恫吓的话。<sup>\[如皋\]</sup> ② 威胁、恫吓的言语。<sup>\[如东\]</sup>：王二说的都是～，你不要怕。<sup>\[如东\]</sup>  
@@ -2273,6 +2273,7 @@
 1. 【[龇牙郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lan.md#龇牙郎)】`zz1 nga2 lan2` <sup>[东台]</sup> （贬）形容一个人牙齿不全，嘴张开就很难看的样子。  
 1. 【[龇牙裂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lih_jy.md#龇牙裂嘴)】`zz1 nga2 lih8 jy3` <sup>[如东]</sup> ① 凶狠的样子。 ② 痛苦的样子。 ③ 比喻物体破损厉害：这条船～的，怎吖能下水？  
 1. 【[龇牙露齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lv_chr.md#龇牙露齿)】`zz1 nga2 lv6 chr3` <sup>[如东]</sup> 凶狠的样子。  
+1. 【[龇嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_zuei.md#龇嘴)】`zz1 zuei3` <small>/t͡sɿ1 t͡suəɪ3/<sup>泰兴</sup></small> 裂开双唇；花苞开放；植物萌芽。<sup>\[泰兴\]</sup>：他高兴得嘴龇啊龇的。<sup>\[泰兴\]</sup>  
 1. 【[仔猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_zhv.md#仔猪)】`zz3 zhv1` <sup>[如东]</sup> 小猪。  
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei` <small>/t͡sɿ3 məi/<sup>兴化</sup>, /t͡sɿ3 mei/<sup>如皋</sup>, /t͡sɿ3 məɪ/<sup>泰兴</sup>, /t͡sɿ3 məɪ/<sup>泰县</sup></small> ① 兄弟姐妹关系，或统称兄弟姐妹<sup>\[通用\]</sup><sup>\[兴化\]</sup>\[泰兴：又音zz3 mi，见于部分乡镇（调得刘陈、新街、马甸、宣堡）\]：～X个/兄弟姐妹X个<sup>\[通用\]</sup>｜他倈两个是～们<sup>\[通用\]</sup>｜他倈是～两个<sup>\[通用\]</sup> ② 年龄相仿的女性之间的互称。<sup>\[兴化\]</sup> ③ 在关系密切，年龄、辈份相当的两性之间，有时也互称～。<sup>\[兴化\]</sup>  
 1. 【[姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_mei.md#姊妹)】`zz3 mei6` ① 亲生姐妹。<sup>\[如东\]</sup> ② 同辈的女子。<sup>\[如东\]</sup> ③ 亲姐妹<sup>\[东台\]</sup>：她俫是～两个。<sup>\[东台\]</sup>  

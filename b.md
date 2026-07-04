@@ -1032,7 +1032,7 @@
 1. 【[本柿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_shr_zz.md#本柿子)】`ben3 shr6 zz` <sup>[如皋]</sup> 未嫁接的柿子，果实小，有籽。  
 1. 【[本谈话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_taen_hua.md#本谈话)】`ben3 taen2 hua6` <sup>[东台]</sup> 不做任何修饰的老实话。  
 1. 【[本套本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_to_ben.md#本套本)】`ben3 to5 ben3` <sup>[东台]</sup> 做的生意不赔也不赚。  
-1. 【[本桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ton.md#本桶)】`ben3 ton3` <small>/pəŋ3 tʰɔŋ3/<sup>泰兴</sup>, /pəŋ3 tʰoŋ3/<sup>泰县</sup></small> 粪桶。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：堤东地区说法\]  
+1. 【[本桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ton.md#本桶)】`ben3 ton3` <small>/pəŋ3 tʰɔŋ/<sup>泰兴</sup>, /pəŋ3 tʰoŋ3/<sup>泰县</sup></small> 粪桶。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[东台：堤东地区说法\]  
 1. 【[本瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_va.md#本瓦)】`ben3 va3` <sup>[兴化]</sup> 一种泥土烧制的弧形建筑材料，铺屋面用。也称“小瓦”“水瓦”。  
 1. 【[本乡本土](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xian_ben_tv.md#本乡本土)】`ben3 xian1 ben3 tv3` <small>/pəŋ3 ɕiɑŋ1 pəŋ3 tʰu3/<sup>泰兴</sup></small> 本地，家乡。<sup>\[泰兴\]</sup>  
 1. 【[本心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_xien.md#本心)】`ben3 xien1` <sup>[如东]</sup> 本来的心愿。  

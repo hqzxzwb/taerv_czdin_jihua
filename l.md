@@ -852,12 +852,13 @@
 1. 【[㱥𣩟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#㱥𣩟)】`len6 den` <sup>[兴化]</sup> 心灵因受惊而震动：听说周主任出车祸，我打啊一个～。㱥，《集韵避韵》郎邓切｜“～困病貌”。  
 1. 【[塄坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_kun.md#塄坎)】`len6 kun3` <sup>[如东]</sup> 田边上的土坡。  
 1. 【[愣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len.md#愣)】`len6` <small>/ləŋ1/<sup>如皋</sup></small> 发痴、惊呆<sup>\[如皋\]</sup>：他捱吓咖～住啊。<sup>\[如皋\]</sup>  
+1. 【[愣愣八八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_len_baeh_baeh.md#愣愣八八)】`len6 len6 baeh7 baeh7` <small>/ləŋ1 ləŋ1 pæʔ7 pæʔ7/<sup>泰兴</sup></small> 说话打隔顿，不能连续表达。多指因惊恐所致。<sup>\[泰兴\]</sup>  
 1. 【[愣愣㾭㾭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_len_jieu_jieu.md#愣愣㾭㾭)】`len6 len6 jieu5 jieu5` <sup>[兴化]</sup> 说话吞吞吐吐，欲言又止的样子：他今朝～的，怕有甚的话不敢说。  
 1. 【[愣头愣眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_ngaen.md#愣头愣眼)】`len6 teu2 len6 ngaen3` <sup>[如东]</sup> 呆板迟钝。  
 1. 【[愣头愣脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no.md#愣头愣脑)】`len6 teu2 len6 no3` <sup>[如东]</sup> 呆板迟钝：站吖在那许～的做甚的？  
 1. 【[愣头愣脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no.md#愣头愣脑的)】`len6 teu2 len6 no3 dii` <sup>[如皋]</sup> 愚鲁状。  
 1. 【[愣头青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_qien.md#愣头青)】`len6 teu2 qien1` <small>/lən6 tʰɤ2 t͡ɕʰin1/<sup>兴化</sup>, /ləŋ1 tʰei2 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 不会审时度势，只会说一不二，十分强硬的人。<sup>\[如皋\]</sup> ② 直率，没有间架的人。<sup>\[东台\]</sup> ③ 行为鲁葬的年轻人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个～，动不动就惹事。<sup>\[兴化\]</sup>｜这种事只有他这种～才做得出来。<sup>\[泰州\]</sup>  
-1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup></small> ① 说话口吃的人。<sup>\[如东\]</sup> ② 结巴，口吃患者。<sup>\[如皋\]</sup> ③ 口吃。<sup>\[如皋\]</sup>  
+1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup>, /ləŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 说话口吃的人。<sup>\[如东\]</sup> ② 结巴，口吃患者。<sup>\[如皋\]</sup> ③ 语言表达不流畅，口吃。<sup>\[泰兴\]</sup>  
 1. 【[棱凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#棱凳)】`len6 den5` <sup>[如东]</sup> 搁置棱条晒东西的凳子，有四条腿或三条腿的，也有两条腿的。  
 1. 【[棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#棱子)】`len6 zz` <sup>[如东]</sup> 直趟的竹竿或木棍，搁在棱凳上，放帘子，晒东西。  
 1. 【[楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#楞子)】`len6 zz` <sup>[如皋]</sup> 窗栅上的木、铁条。如皋词典写“棂子”。  

@@ -1635,7 +1635,7 @@
 1. 【[滑头滑脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_teu_huaeh_no.md#滑头滑脑)】`huaeh8 teu2 huaeh8 no3` <sup>[如东]</sup> 做事不稳当，不牢靠：那个人～的，你要注意。  
 1. 【[滑头码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_teu_ma_zz.md#滑头码子)】`huaeh8 teu2 ma3 zz` <sup>[如皋]</sup> 油滑、不诚实的人。  
 1. 【[滑头生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_teu_shen_i.md#滑头生意)】`huaeh8 teu2 shen1 i5` <sup>[如皋]</sup> 做买卖中行骗术。  
-1. 【[滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#滑子)】`huaeh8 zz` <sup>[如皋]</sup> ① 不诚实的人。 ② 隐语，指油：锅里放点～。  
+1. 【[滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zz.md#滑子)】`huaeh8 zz` <small>/xueʔ8 t͡sɿ/<sup>如皋</sup>, /xuæʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 不诚实的人。<sup>\[如皋\]</sup> ② 隐语，指油<sup>\[如皋\]</sup>：锅里放点～。<sup>\[如皋\]</sup> ③ 油的隐语。<sup>\[泰兴\]</sup>  
 1. 【[㹕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen.md#㹕)】`huaen1` <small>/xuẽ1/<sup>如皋</sup></small> ① 硬，不软和。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：～饭。<sup>\[如东\]</sup>｜饭煮得～，老人家不宜吃。<sup>\[如皋\]</sup> ② 强直，不灵活<sup>\[如皋\]</sup>：坐啊狠吖，身子发～。<sup>\[如皋\]</sup> ③ 骨质疏松<sup>\[如皋\]</sup>：骨头发咖～，不能跌跟头。<sup>\[如皋\]</sup>  
 1. 【[㹕强](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qian.md#㹕强)】`huaen1 qian2` <sup>[如东]</sup> ① 比较硬。 ② 比喻老人身体比较硬朗、健康。  
 1. 【[㹕硗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaen_qio.md#㹕硗)】`huaen1 qio1` <sup>[如东]</sup> 比较坚硬干燥：元麦𪎉子饭有些～。  
@@ -1698,6 +1698,7 @@
 1. 【[霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huah_shin.md#霍闪)】`huah8 shin3` <small>/xuɑʔ8 ɕĩ3/<sup>泰兴</sup>, /xuɑʔ8 ɕiɪ̃3/<sup>泰县</sup></small> 打闪，发生闪电<sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：落雨天～。<sup>\[泰县\]</sup>  
 1. 【[慌慌快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_huan_kuae.md#慌慌快)】`huan1 huan1 kuae5` <sup>[东台]</sup> 办事着急慌忙，速度快，但比较毛糙，质量不高。  
 1. 【[慌里慌张](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_lii_huan_zhan.md#慌里慌张)】`huan1 lii huan1 zhan1` <sup>[东台]</sup> 忙乱，不除一般沉着。  
+1. 【[慌手慌脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_sheu_huan_jiah.md#慌手慌脚)】`huan1 sheu3 huan1 jiah7` <small>/xuɑŋ1 ɕiɤɯ3 xuɑŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 形容急迫慌乱、慌张失措的样子。<sup>\[泰兴\]</sup>  
 1. 【[荒场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan.md#荒场)】`huan1 chan, huan1 tan` <sup>[如皋]</sup> 无主坟场。乱坟场。  
 1. 【[荒场𣜂/楔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_chan_saeh.md#荒场𣜂/楔)】`huan1 chan saeh7` <sup>[如皋]</sup> 詈语。毒骂某人死无葬身之地，只能朝荒场中硬插。  
 1. 【[荒草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_co.md#荒草)】`huan1 co3` <small>/xuã1 t͡sʰɔ3/<sup>如皋</sup></small> ① 生长在荒野的草，主要有乌蓝、仙棵、芒棵、茅草、狼尾草等。<sup>\[如东\]</sup> ② 相对于“行草”“沟岸草”和“熟草”而言，指田禾秸杆的大部（黄豆子、小麦秆子除外）。作饲料、燃料用。<sup>\[如皋\]</sup>  
@@ -1819,6 +1820,7 @@
 1. 【[黄道吉日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_to_jieh_rih.md#黄道吉日)】`huan2 to6 jieh7 rih8` <sup>[如东]</sup> 中国古人认为，青龙、明堂、金匮、天德、玉堂、司命六辰是吉神，六辰值日之时，为黄道吉日，诸事皆宜，不避凶忌。泛指可以办事的吉利日子。也称黄道日。  
 1. 【[黄土埋啊半截](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tv_mae_a.md#黄土埋啊半截)】`huan2 tv3 mae2 a bun5 qih8` <sup>[东台]</sup> ［引］已经活了半辈子，余生无多了。  
 1. 【[黄岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_un.md#黄岸)】`huan2 un6` <sup>[如皋]</sup> 古称捍海堰。宋代范仲淹重修，因称范公堤。因土色黄，习称～。  
+1. 【[黄相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_xian.md#黄相)】`huan2 xian5` <small>/xuɑŋ2 ɕiɑŋ5/<sup>泰兴</sup></small> 拒绝，不给人面子。不能满足对方的要求，当面拒绝，使人尴尬。<sup>\[泰兴\]</sup>  
 1. 【[黄鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y.md#黄鱼)】`huan2 y2` <sup>[东台]</sup> 一种海鱼，味鲜美。又称黄花鱼。身体扁，尾巴狭，腹部黄色，有大黄鱼小黄鱼之份。  
 1. 【[黄鱼车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_cha.md#黄鱼车)】`huan2 y2 cha1` <sup>[兴化]</sup> 一种三轮板车，主要用于小额货运。  
 1. 【[黄鱼脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_y_jiah.md#黄鱼脚)】`huan2 y2 jiah7` <sup>[兴化]</sup> 旧称妇女的天足，相对于裹脚。  
@@ -2280,15 +2282,18 @@
 1. 【[含笑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_xio.md#含笑)】`hun2 xio5` <sup>[如东]</sup> 微微地笑。  
 1. 【[寒菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_cae.md#寒菜)】`hun2 cae5` <small>/xʊ̃2 t͡sʰɛ5/<sup>如皋</sup></small> ① 冬天的蔬菜。<sup>\[如皋\]</sup> ② 泰州城北郊晚秋所产的一种长柄小叶大棵青菜，分青梗、白梗两种，长者一棵可达三尺，重者一棵可达数斤，主要用作腌制咸菜，以其产于秋冬交会之时，故名。<sup>\[泰州\]</sup>  
 1. 【[寒阵阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_chen_chen.md#寒阵阵)】`hun2 chen chen6` <sup>[如皋]</sup> 微冷。  
+1. 【[寒打脚上起](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_da_jiah_shan.md#寒打脚上起)】`hun2 da3 jiah7 shan qi3` <small>/xʊ̃2 tɑ3 t͡ɕiɑʔ7 sɑŋ t͡ɕʰʝ3/<sup>泰兴</sup></small> 寒冷从脚开始。<sup>\[泰兴\]</sup>  
 1. 【[寒打脚上起，风从头上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_da_jiah_shan.md#寒打脚上起，风从头上来)】`hun2 da3 jiah7 shan qi3 fon1 con2 teu2 shan lae2` <sup>[如皋]</sup>   
 1. 【[寒咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_haen_cae.md#寒咸菜)】`hun2 haen2 cae5` <sup>[如皋]</sup> 冬天吃的腌菜。  
 1. 【[寒火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_hu.md#寒火)】`hun2 hu3` <small>/xũ2 xo3/<sup>兴化</sup></small> ① 见“寒毛火”。<sup>\[兴化\]</sup> ② 人体因受寒凉导致嘴角上火，红肿乃至开裂<sup>\[泰州\]</sup>：他嘴上烧～，嘴边子都烧啊肿吖唻。<sup>\[泰州\]</sup>  
-1. 【[寒叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji_ji.md#寒叽叽)】`hun2 ji ji1` <sup>[如皋]</sup> 觉得微冷。  
+1. 【[寒衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_i.md#寒衣)】`hun2 i1` <small>/xʊ̃2 ʝ1/<sup>泰兴</sup></small> 御寒的衣服。<sup>\[泰兴\]</sup>：孟姜女送寒衣。<sup>\[泰兴\]</sup>  
+1. 【[寒叽叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_ji_ji.md#寒叽叽)】`hun2 ji ji1` <small>/xʊ̃2 t͡ɕʝ t͡ɕʝ1/<sup>如皋</sup>, /xʊ̃2 t͡ɕʝ t͡ɕʝ1/<sup>泰兴</sup></small> ① 觉得微冷。<sup>\[如皋\]</sup> ② 感觉冷的样子。\[泰兴：泰兴方言辞典作“寒饥饥”。\]  
+1. 【[寒假](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_jia.md#寒假)】`hun2 jia3` <small>/xʊ̃2 t͡ɕiɑ3/<sup>泰兴</sup></small> 学校冬天的假期。在春节前后。<sup>\[泰兴\]</sup>  
 1. 【[寒里天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lii_tin.md#寒里天)】`hun2 lii tin1` <sup>[兴化]</sup> ① 指一年中最冷的节气——小寒、大寒。 ② 泛指冬天。也说“寒天”。  
 1. 【[寒捞捞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo.md#寒捞捞)】`hun2 lo lo1` <sup>[如皋]</sup> 微冷。  
 1. 【[寒捞寒捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_hun_lo.md#寒捞寒捞的)】`hun2 lo1 hun2 lo1 dii` <sup>[东台]</sup> 同“寒瘆瘆的”。又作“寒闹闹的”。  
 1. 【[寒捞捞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lo_lo_dii.md#寒捞捞的)】`hun2 lo1 lo1 dii` <sup>[如皋]</sup> 寒冷或怕冷的样子。  
-1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` 二十四节气之一，通常在10月8日或9日。  
+1. 【[寒露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_lv.md#寒露)】`hun2 lv6` <small>/xũ2 lu6/<sup>兴化</sup>, /xʊ̃2 lu1/<sup>如皋</sup>, /xʊ̃2 lu1/<sup>泰兴</sup>, /xõ2 nu1/<sup>泰县</sup></small> 二十四节气之一，通常在10月8日或9日。<sup>\[通用\]</sup>  
 1. 【[寒毛火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_hu.md#寒毛火)】`hun2 mo hu3` <sup>[兴化]</sup> 身体时冷时热的感觉。也称“寒火”：他加衣裳嫌热，脱衣裳又说冷，就像得咖～  
 1. 【[寒毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo.md#寒毛)】`hun2 mo2` 人体皮肤表层的细毛。<sup>\[泰州\]</sup>\[东台：（又hu2 mo2）\]：他身上的～重，夏天都要穿长裤子。<sup>\[泰州\]</sup>  
 1. 【[寒毛直竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_cheh_shv.md#寒毛直竖)】`hun2 mo2 cheh8 shv6` <sup>[东台]</sup> 因为害怕，身上毫毛都竖了起来：反腐力度大，一些腐败分子吓得～。  
@@ -2296,10 +2301,11 @@
 1. 【[寒毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_r.md#寒毛<sub>儿</sub>)】`hun2 mo2 r` <sup>[如皋]</sup> 人体表的细毛。  
 1. 【[寒毛<sub>儿</sub>只竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_r_zheh.md#寒毛<sub>儿</sub>只竖)】`hun2 mo2 r zheh7 shv6` <sup>[如皋]</sup> 状怕冷。  
 1. 【[寒毛竖竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_mo_shv_shv.md#寒毛竖竖)】`hun2 mo2 shv6 shv6` <small>/xũ2 mɔ2 su6 su6/<sup>兴化</sup></small> ① 同“寒毛直竖”。<sup>\[东台\]</sup> ② 因害怕而毛发为之寒竖<sup>\[兴化\]</sup>：晚上听他说鬼，吓得～的。<sup>\[兴化\]</sup> ③ 人受到寒冷刺激或者由于心中恐惧，身上寒毛竖起的样子<sup>\[泰州\]</sup>：早上冻得～的。<sup>\[泰州\]</sup>｜鬼故事把人听得～的，瘆煞咖唻。<sup>\[泰州\]</sup>  
-1. 【[寒热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_rih.md#寒热)】`hun2 rih8` <sup>[兴化]</sup> 体温失常：他因为几天的旅途劳顿，回到家里～交作，病得不轻。  
-1. 【[寒食节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sheh_jih.md#寒食节)】`hun2 sheh8 jih7` <sup>[如东]</sup> 阴历四月初四日，禁火寒食。相传春秋时晋文公负其功臣介之推。介之推愤而隐于绵山。文公悔悟，烧山逼令出仕，介之推抱树焚死。人民同情介之推的遭遇，相约于其忌日禁火寒食，以为悼念。以后相沿成俗，称为寒食节。  
+1. 【[寒热](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_rih.md#寒热)】`hun2 rih8` <small>/xũ2 liɪʔ8/<sup>兴化</sup>, /xʊ̃2 iʔ8/<sup>泰兴</sup></small> ① 体温失常<sup>\[兴化\]</sup>：他因为几天的旅途劳顿，回到家里～交作，病得不轻。<sup>\[兴化\]</sup> ② 因受凉等原因而引起发热。谓身体不适。<sup>\[泰兴\]</sup>：身上没得～。<sup>\[泰兴\]</sup>  
+1. 【[寒食节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sheh_jih.md#寒食节)】`hun2 sheh8 jih7` <small>/xʊ̃2 səʔ8 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 阴历四月初四日，禁火寒食。相传春秋时晋文公负其功臣介之推。介之推愤而隐于绵山。文公悔悟，烧山逼令出仕，介之推抱树焚死。人民同情介之推的遭遇，相约于其忌日禁火寒食，以为悼念。以后相沿成俗，称为寒食节。<sup>\[如东\]</sup> ② 相传为纪念春秋时介子推而形成的节日，有吃冷食之俗。今已与清明相融。<sup>\[泰兴\]</sup>：清明寒食<sup>\[泰兴\]</sup>  
 1. 【[寒瘆瘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen.md#寒瘆瘆)】`hun2 shen shen5` <sup>[兴化]</sup> 因寒冷而欲颤的感觉：身上～的。  
 1. 【[寒瘆瘆的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_shen_shen_dii.md#寒瘆瘆的)】`hun2 shen5 shen5 dii` <sup>[东台]</sup> 身上发寒，嫌冷，不时打冷战：这天多冷！我身上～。  
+1. 【[寒烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sho_bien.md#寒烧饼)】`hun2 sho1 bien3` <small>/xʊ̃2 sɔ1 piŋ3/<sup>泰兴</sup></small> 发过酵的一种烧饼。绵软絮和，微酸，十分可口。<sup>\[泰兴\]</sup>  
 1. 【[寒酸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sun.md#寒酸)】`hun2 sun1` <sup>[泰州]</sup> 形容贫苦读书人的穷困窘态：请客没得一个像样的菜，也太～吖唻。  
 1. 【[寒丝丝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_sz_sz.md#寒丝丝)】`hun2 sz1 sz1` <small>/xũ2 sɿ1 sɿ1/<sup>兴化</sup>, /xʊ̃2 sɿ1 sɿ1/<sup>如皋</sup></small> ① 微冷。<sup>\[如皋\]</sup> ② 寒冷的感觉<sup>\[兴化\]</sup>：经风一吹身上～的。<sup>\[兴化\]</sup> ③ 害怕的心理<sup>\[兴化\]</sup>：我被他这一看，心里倒被他看得～的。（《火烧赤壁》六）<sup>\[兴化\]</sup>  
 1. 【[寒天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hun_tin.md#寒天)】`hun2 tin1` <small>/xʊ̃2 tʰĩ1/<sup>如皋</sup>, /xʊ̃2 tʰĩ1/<sup>泰兴</sup>, /xõ2 tʰiɪ̃1/<sup>泰县</sup></small> 冷天，冬天。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
@@ -2406,7 +2412,7 @@
 1. 【[和精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_jien.md#和精)】`hv2 jien1` <sup>[如东]</sup> 比喻打牌非常精明的人。  
 1. 【[壶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_r.md#壶<sub>儿</sub>)】`hv2 r` <sup>[如东]</sup> 长圆形的玻璃容器，如油壶儿、酒壶儿、醋壶儿等。  
 1. 【[湖绸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cheu.md#湖绸)】`hv2 cheu2` <sup>[泰州]</sup> 湖州所产的一种丝织物，经纬用生丝所制成的强拈丝线，染后表面有明显皱纹，做成衣服坚实耐穿。  
-1. 【[湖桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_san.md#湖桑)】`hv2 san1` <sup>[兴化]</sup> 一种树干不高，叶大而肥的桑树品种，叶用来喂蚕。  
+1. 【[湖桑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_san.md#湖桑)】`hv2 san1` <small>/xu2 saŋ1/<sup>兴化</sup>, /fʋ2 sɑŋ1/<sup>泰兴</sup></small> ① 一种树干不高，叶大而肥的桑树品种，叶用来喂蚕。<sup>\[兴化\]</sup> ② 桑树的一种。叶片肥大鲜嫩，是养蚕的上好饲料。<sup>\[泰兴\]</sup>  
 1. 【[湖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_xien.md#湖心)】`hv2 xien1` <sup>[兴化]</sup> 湖泊的中央：这纵堡湖上，湖边的芦柴稳稳的，～的水面平平的……（马春阳《双灯照》）  
 1. 【[狐大仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_xin.md#狐大仙)】`hv2 da6 xin1` <small>/xu2 ta ɕiɪ̃1/<sup>兴化</sup></small> 狐仙\[东台：旧时东台城称狐狸为“大仙”。逢年过节人们敬香供奉，祈求～保宅内老小平安。\]\[兴化：迷信的人惧狐、鼬为祟，敬称之为～\]：“……总以为有个～在跟着你哩！哪晓得你面前居然还用着细探子呢。”（《火烧赤壁》五）<sup>\[兴化\]</sup>  
 1. 【[狐狸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_li.md#狐狸)】`hv2 li2` <sup>[如东]</sup> 犬科动物狐狸，也称狐。  

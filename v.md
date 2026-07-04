@@ -521,6 +521,7 @@
 1. 【[挖墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_qian_jiah.md#挖墙脚)】`vaeh7 qian2 jiah7` <small>/ʋæʔ7 t͡ɕʰiɑŋ2 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 挖墙基。比喻破坏别人的基业。<sup>\[如东\]</sup> ② 拆台；比喻从根本上损害别人。<sup>\[泰兴\]</sup>  
 1. 【[挖艄篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_sho_go.md#挖艄篙)】`vaeh7 sho1 go1` <sup>[泰县]</sup> 加后劲。  
 1. 【[挖祖坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_zv_fen.md#挖祖坟)】`vaeh7 zv3 fen2` <sup>[如东]</sup> 把祖宗的棺材从坟墓中挖掘出来。表示对某人的深仇大恨。  
+1. 【[滑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh.md#滑)】`vaeh8` <small>/ʋæʔ8/<sup>泰兴</sup></small> 光溜，滑溜；滑动；狡诈，油滑。<sup>\[泰兴\]</sup>：滑头滑脑<sup>\[泰兴\]</sup>  
 1. 【[滑滴滴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh.md#滑滴滴)】`vaeh8 dieh7 dieh7` <small>/ʋæʔ8 tiɪʔ7 tiɪʔ7/<sup>泰县</sup></small> ① 指衣物平滑整洁。<sup>\[东台\]</sup> ② ［喻］事情办得调适、圆满。又作滑滴滴、滑滑滴滴。<sup>\[东台\]</sup> ③ 非常光滑<sup>\[泰县\]</sup>：这桌面漆得～的。<sup>\[泰县\]</sup> ④ 物体表面非常光滑的样子<sup>\[泰州\]</sup>：窗子擦得多干净吖，玻璃摸上去～的。<sup>\[泰州\]</sup> ⑤ 比喻事情安排非常妥帖，让人无可挑剔<sup>\[泰州\]</sup>：王漆匠的手艺没得话说，漆咖好的家具望上去～的。<sup>\[泰州\]</sup>  
 1. 【[滑滴滴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dieh_dii.md#滑滴滴的)】`vaeh8 dieh7 dieh7 dii` <sup>[如皋]</sup> ① 光滑：桌子面儿漆水好，～像镜子。 ② 整洁漂亮：他家伢儿站出来，身上总是收拾得～。  
 1. 【[滑滴屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaeh_dieh_dio_r.md#滑滴屌<sub>儿</sub>)】`vaeh8 dieh7 dio3 r` <sup>[东台]</sup> ① （贬） ② 形容滑溜溜的东西； ③ ［喻］指语言滑刷、甜蜜。  

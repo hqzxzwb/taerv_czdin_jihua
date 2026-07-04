@@ -1528,7 +1528,8 @@
 1. 【[游草狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_co_geu.md#游草狗)】`ieu2 co3 geu3` <sup>[如东]</sup> ① 发情期的母狗。 ② 比喻生活作风不好的女人。  
 1. 【[游游](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_ieu.md#游游)】`ieu2 ieu2` <small>/yʊ2 yʊ2/<sup>如皋</sup></small> 唤鸭之声。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[游扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_keu.md#游扣)】`ieu2 keu1` <sup>[如皋]</sup> ① 指打结不紧，容易松开、滑动。 ② 喻不坚决，犹豫，模棱两可：他说话带～，不可全信他。  
-1. 【[游闷闷<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_men_men_r.md#游闷闷<sub>儿</sub>水)】`ieu2 men6 men6 r shuei3` <sup>[如皋]</sup> 初学者头没于水中，一口气游，直至抬头换气。  
+1. 【[游闷闷<sub>儿</sub>水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_men_men_r.md#游闷闷<sub>儿</sub>水)】`ieu2 men5 men r shuei3` <sup>[如皋]</sup> 初学者头没于水中，一口气游，直至抬头换气。  
+1. 【[游闷水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_men_shuei.md#游闷水)】`ieu2 men5 shuei3` <small>/iɤɯ2 məŋ5 suəɪ3/<sup>泰兴</sup></small> 在水面以下游泳。<sup>\[泰兴\]</sup>  
 1. 【[游气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qi.md#游气)】`ieu2 qi5` <small>/iɤ2 t͡ɕʰi5/<sup>兴化</sup></small> ① 人死之前微弱的气息。<sup>\[东台\]</sup> ② 微弱的气息<sup>\[兴化\]</sup>：黄老头还有一口～，眼看就不行吖。<sup>\[兴化\]</sup>｜李逵看任原时，跌得昏晕，倒在献台边，口里只有些～。（《水浒传》七四）‖也作“悠气”<sup>\[兴化\]</sup>｜汪曾祺《大淖记事》有“十一子还有一丝悠悠气”句。<sup>\[兴化\]</sup> ③ 弥留之人口鼻中发出的极微弱的气息<sup>\[泰州\]</sup>：老的嘴上只剩吖点儿～，人怕的不行唻。<sup>\[泰州\]</sup>  
 1. 【[游青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_qien.md#游青)】`ieu2 qien1` <sup>[如东]</sup> 植物生长期限满了，由于温度和湿度的变化，在根部或茎部又生出新芽，叫游青。  
 1. 【[游神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shen.md#游神)】`ieu2 shen2` <sup>[兴化]</sup> （讽）生活无规律，爱在外游荡的人：他是个～，一天到晚不归家。  

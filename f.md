@@ -996,7 +996,7 @@
 1. 【[富贵鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_guei_y.md#富贵鱼)】`fv5 guei5 y2` <sup>[兴化]</sup> 放在新房桌上的一对红烧鲫鱼，㓾破的肚皮相对，取成双成对的吉兆。  
 1. 【[富色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_seh.md#富色)】`fv5 seh7` <small>/fʋ5 səʔ7/<sup>泰兴</sup></small> 样式华丽，制作精良，品质好等含义<sup>\[泰兴\]</sup>：他家的房子～吤<sup>\[泰兴\]</sup>  
 1. 【[富态](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tae.md#富态)】`fv5 tae` <sup>[兴化]</sup> ① 对胖子的恭维话，所谓“富贵之态”。 ② 形容物体宽大饱满。也说“富富态态”。  
-1. 【[富态](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tae.md#富态)】`fv5 tae5` <small>/fu5 tʰɛ5/<sup>如皋</sup></small> ① 身体肥胖。<sup>\[如东\]</sup>：你越来越～啊。<sup>\[如东\]</sup> ② 体积较大。<sup>\[如东\]</sup> ③ 丰满舒展的仪表<sup>\[如皋\]</sup>：他样子蛮～的。<sup>\[如皋\]</sup> ④ 人体发胖、物体丰满之形。<sup>\[东台\]</sup> ⑤ 肤色白净，体态丰腴的样子<sup>\[泰州\]</sup>：样子生得～。<sup>\[泰州\]</sup>  
+1. 【[富态](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_tae.md#富态)】`fv5 tae5` <small>/fu5 tʰɛ5/<sup>如皋</sup>, /fʋ5 tʰɛ5/<sup>泰兴</sup></small> ① 身体肥胖。<sup>\[如东\]</sup>：你越来越～啊。<sup>\[如东\]</sup> ② 体积较大。<sup>\[如东\]</sup> ③ 丰满舒展的仪表<sup>\[如皋\]</sup>：他样子蛮～的。<sup>\[如皋\]</sup> ④ 人体发胖、物体丰满之形。<sup>\[东台\]</sup> ⑤ 肤色白净，体态丰腴的样子<sup>\[泰州\]</sup>：样子生得～。<sup>\[泰州\]</sup> ⑥ 胖乎乎的样子。<sup>\[泰兴\]</sup>  
 1. 【[富安民居](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_un_mien_jy.md#富安民居)】`fv5 un1 mien2 jy1` <sup>[东台]</sup> 富安镇尚存一组明代民居建筑群。  
 1. 【[富足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zoh.md#富足)】`fv5 zoh7` <sup>[泰县]</sup> 结实：这把椅子～。  
 1. 【[负辜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gv.md#负辜)】`fv5 gv1` <sup>[兴化]</sup> 因出了力，吃了苦，不被理解而感到委屈：难怪她～，忙吖几天，还捱男人包怨。  

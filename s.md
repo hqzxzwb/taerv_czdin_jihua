@@ -1037,6 +1037,7 @@
 1. 【[拭条](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_tio.md#拭条)】`sheh7 tio2` <sup>[如皋]</sup> 手工搓棉条的竹桯子，用它在新的棉花上捻转一下，将沾上的纤维用“搓板”搓成“棉条儿”并抹下，供纺纱。  
 1. 【[湿布衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_bv_shaen.md#湿布衫)】`sheh7 bv5 shaen1` <sup>[兴化]</sup> （喻）难以摆脱的麻烦事：你惹的事自己处理，覅把～望我身上套。  
 1. 【[湿溚溚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_daeh_daeh_dii.md#湿溚溚的)】`sheh7 daeh7 daeh7 dii` <sup>[如皋]</sup> 饱含水份的样子。  
+1. 【[湿答答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_daeh_daeh.md#湿答答)】`sheh7 daeh7 daeh7` <small>/səʔ7 tæʔ7 tæʔ7/<sup>泰兴</sup></small> 形容潮湿的样子。<sup>\[泰兴\]</sup>  
 1. 【[湿𪐏𪐏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_deh_deh.md#湿𪐏𪐏)】`sheh7 deh7 deh7` <sup>[泰县]</sup> 湿漉漉。  
 1. 【[湿笃笃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_doh_doh.md#湿笃笃)】`sheh7 doh7 doh7` <sup>[泰县]</sup> 湿漉漉。  
 1. 【[湿二溚二的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_er_daeh_er.md#湿二溚二的)】`sheh7 er daeh7 er dii` <sup>[如皋]</sup> 说话不干不净，带草字：他说话～，我不高兴睬他。  
@@ -1048,7 +1049,9 @@
 1. 【[湿漉漉的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh_dii.md#湿漉漉的)】`sheh7 loh loh8 dii` <sup>[如皋]</sup> 湿漉漉的。  
 1. 【[湿漉漉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_loh_loh.md#湿漉漉)】`sheh7 loh8 loh8` <sup>[如东]</sup> 非常潮湿。  
 1. 【[湿卤卤的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_lu_lu_dii.md#湿卤卤的)】`sheh7 lu3 lu3 dii, sheh7 lu lu3 dii` <sup>[如皋]</sup> 润湿，含水份而挤不出。  
-1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <small>/səʔ7 t͡ɕʰi5/<sup>兴化</sup></small> ① 潮湿气<sup>\[兴化\]</sup>：这个房间里～太重，住啊不舒服。<sup>\[兴化\]</sup> ② 脚气。<sup>\[兴化\]</sup>：谚曰：冻疮变～，一年害四季。<sup>\[兴化\]</sup> ③ 俗称脚气，一种真菌感染性皮肤病<sup>\[泰州\]</sup>：他脚上有～，天天要弄热水烫脚。<sup>\[泰州\]</sup>  
+1. 【[湿气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi.md#湿气)】`sheh7 qi5` <small>/səʔ7 t͡ɕʰi5/<sup>兴化</sup>, /səʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 潮湿气<sup>\[兴化\]</sup>：这个房间里～太重，住啊不舒服。<sup>\[兴化\]</sup> ② 脚气。<sup>\[兴化\]</sup>：谚曰：冻疮变～，一年害四季。<sup>\[兴化\]</sup> ③ 俗称脚气，一种真菌感染性皮肤病<sup>\[泰州\]</sup>：他脚上有～，天天要弄热水烫脚。<sup>\[泰州\]</sup> ④ 指湿疹、手癣、脚癣等病症。<sup>\[泰兴\]</sup>  
+1. 【[湿气搭煞的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_qi_daeh_shaeh.md#湿气搭煞的)】`sheh7 qi5 daeh7 shaeh7 dii` <small>/səʔ7 t͡ɕʰʝ5 tæʔ7 ɕiæʔ7 təɪ/<sup>泰兴</sup></small> 湿，含水份多。<sup>\[泰兴\]</sup>  
+1. 【[湿（塞）手不粘（拈）事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_sheu_beh_nin.md#湿（塞）手不粘（拈）事)】`sheh7 sheu3 beh7 nin2 shr6, seh7 sheu3 beh7 nin2 shr6` <small>/səʔ7 ɕiɤɯ3 pəʔ7 nĩ2 sɿ1/<sup>泰兴</sup></small> 喻懒惰，双手塞在袖内什么事都不干。<sup>\[泰兴\]</sup>  
 1. 【[湿种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zhon.md#湿种)】`sheh7 zhon3` 浸种，为了促使稻种发芽、预防某些病害，在播种前用温水加少量石灰浸泡一定时间。<sup>\[泰州\]</sup>  
 1. 【[色<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_r.md#色<sub>儿</sub>)】`sheh7 r` <small>/sə˞7/<sup>如皋</sup></small> ① 一种博戏具。每粒正六面体，边长0.8CM，1～6点分刻于各面。一副6粒。玩时置碗中，可手掷，亦可加盖摇，看点数分高低。也称骰子。<sup>\[如东\]</sup> ② 也叫骰子。用骨头、木头或塑料制成的赌具，立体小方块，用手抛，六面分刻123456点。<sup>\[东台\]</sup> ③ 即色子。一种玩具、赌具。<sup>\[如皋\]</sup>  
 1. 【[虱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheh_zz.md#虱子)】`sheh7 zz` 虱子  
