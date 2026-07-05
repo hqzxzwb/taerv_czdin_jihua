@@ -76,9 +76,8 @@
 1. 【[㷈火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_hu.md#㷈火)】`uh7 hu3` <sup>[如东]</sup> 用灰把火种掩盖起来，进行保存，叫做㷈火。  
 1. 【[㷈烟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_in.md#㷈烟)】`uh7 in1` <sup>[如东]</sup> 用灰烬把火苗压住，烟雾微微冒出的状态。  
 1. 【[搕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh.md#搕)】`uh7` <small>/uʔ7/<sup>兴化</sup>, /ʊʔ7/<sup>如皋</sup></small> ① 横打<sup>\[如皋\]</sup>：拿棒头～屁股！<sup>\[如皋\]</sup> ② 击、打<sup>\[兴化\]</sup>：拿棍子～他几家伙。<sup>\[兴化\]</sup>  
-1. 【[搕里搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lii_uh_suh.md#搕里搕𢶍)】`uh7 lii uh7 suh7` <small>/ʊʔ7 nɿ ʊʔ7 sʊʔ7/<sup>泰县</sup></small> 垃圾多、不干净<sup>\[泰县\]</sup>：家里～的东西太多，要扫下子。<sup>\[泰县\]</sup>  
+1. 【[搕里搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lii_uh_suh.md#搕里搕𢶍)】`uh7 lii uh7 suh7` <small>/ʊʔ7 nɿ ʊʔ7 sʊʔ7/<sup>泰县</sup></small> ① 垃圾多、不干净<sup>\[泰县\]</sup>：家里～的东西太多，要扫下子。<sup>\[泰县\]</sup> ② “搕𢶍”的生动形式，非常肮脏的样子<sup>\[泰州\]</sup>：你房间里栋～的，怕的有好几天不打扫唻。<sup>\[泰州\]</sup>  
 1. 【[搕里搕𢶍的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lii_uh_suh.md#搕里搕𢶍的)】`uh7 lii uh7 suh7 dii` <sup>[如皋]</sup> 见“搕𢶍”。  
-1. 【[搕里搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_lii_uh_sun.md#搕里搕𢶍)】`uh7 lii uh7 sun5` <sup>[泰州]</sup> “搕𢶍”的生动形式，非常肮脏的样子：你房间里栋～的，怕的有好几天不打扫唻。  
 1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_suh.md#搕𢶍)】`uh7 suh` <sup>[泰县]</sup> ① 脏。 ② 不舒服。  
 1. 【[搕𢶍<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_suh_r.md#搕𢶍<sub>儿</sub>)】`uh7 suh r` <sup>[如皋]</sup> ① 垃圾。 ② 旧时买垃圾的叫声。  
 1. 【[搕𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/uh_suh.md#搕𢶍)】`uh7 suh7` <small>/ʊʔ7 sʊʔ7/<sup>如皋</sup></small> ① 状环境脏、阴暗潮湿<sup>\[如皋\]</sup>：地下室的～，不能住人。<sup>\[如皋\]</sup> ② 零碎零乱<sup>\[如皋\]</sup>：抽屉里～杲子多。<sup>\[如皋\]</sup> ③ 肮脏<sup>\[泰州\]</sup>：这个家里多少天不打扫唻，～煞咖。<sup>\[泰州\]</sup>｜你身上弄得块块是灰，～煞咖，先洗把澡再说。<sup>\[泰州\]</sup>  

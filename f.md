@@ -326,7 +326,7 @@
 1. 【[饭菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_cae.md#饭菜)】`faen6 cae5` <sup>[如东]</sup> 伙食的总称。  
 1. 【[饭苍蝇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_can_ien.md#饭苍蝇)】`faen6 can1 ien` <sup>[如皋]</sup> 舍蝇。双翅目。  
 1. 【[饭辰光](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chen_guan.md#饭辰光)】`faen6 chen2 guan` <sup>[如皋]</sup> 中午。  
-1. 【[饭匣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gaeh_zz.md#饭匣子)】`faen6 gaeh7 zz` <sup>[泰州]</sup> 铝制的有盖饭盒，一般为长方体，也有两头稍带弧度的。  
+1. 【[饭□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gaeh_zz.md#饭□子)】`faen6 gaeh7 zz` <sup>[泰州]</sup> 铝制的有盖饭盒，一般为长方体，也有两头稍带弧度的。  
 1. 【[饭锅巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gu_ba.md#饭锅巴)】`faen6 gu1 ba` <small>/fɛ̃1 kɤɯ1 pɑ/<sup>泰兴</sup></small> 锅巴。靠锅底的一层发黄微焦的硬饭。<sup>\[泰兴\]</sup>  
 1. 【[饭后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu.md#饭后)】`faen6 heu6` ① 下午。<sup>\[如东\]</sup>：～再说。<sup>\[如东\]</sup> ② 正午12点至下午3点这段时间。<sup>\[泰州\]</sup>  
 1. 【[饭后百步走，活到九十九](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_heu_boh_pv.md#饭后百步走，活到九十九)】`faen6 heu6 boh7 pv6 zeu3 huh8 do5 jieu3 sheh8 jieu3` <sup>[东台]</sup> 饭后适当运动有助于消化，有利于健康。  

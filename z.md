@@ -548,7 +548,7 @@
 1. 【[斫凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_den.md#斫凳)】`zhah7 den5` <small>/t͡sɑʔ7 təŋ5/<sup>泰兴</sup></small> ① 专供木工在进行斫、刨、凿、拼等工艺时所使用的厚而阔的特制木凳。<sup>\[泰州\]</sup> ② 木工用的长而宽的大木凳。<sup>\[泰兴\]</sup>  
 1. 【[斫刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_do.md#斫刀)】`zhah7 do1` <small>/t͡saʔ7 tɔ1/<sup>兴化</sup>, /t͡saʔ7 tɔ1/<sup>如皋</sup>, /t͡sɑʔ7 tɔ1/<sup>泰兴</sup>, /t͡sɑʔ7 tɔ1/<sup>泰县</sup></small> ① 劈竹木的专用刀。<sup>\[如皋\]</sup> ② 一种工具，长方形，刀背厚，后边有铁柄，主要用来砍毛竹。也叫砍刀。<sup>\[如东\]</sup> ③ 厚背的砍刀。<sup>\[兴化\]</sup> ④ 汉字笔划，形状是“刂”。<sup>\[兴化\]</sup> ⑤ 砍刀。<sup>\[泰县\]</sup> ⑥ 字笔划的一种部首。<sup>\[泰县\]</sup> ⑦ 砍物用的刀。<sup>\[泰兴\]</sup>  
 1. 【[斫沟岸草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_geu_un_co.md#斫沟岸草)】`zhah7 geu1 un6 co3` <sup>[如东]</sup> 割河岸边上的草。  
-1. 【[斫割刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_gu_do.md#斫割刀)】`zhah7 gu1 do1` <sup>[泰州]</sup> 螳螂。  
+1. 【[斫割刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_guh_do.md#斫割刀)】`zhah7 guh7 do1` <sup>[泰州]</sup> 螳螂。  
 1. 【[斫花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_hua_r.md#斫花<sub>儿</sub>)】`zhah7 hua1 r` <sup>[如皋]</sup> 用大斧下的碎木片。  
 1. 【[斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lan.md#斫螂)】`zhah7 lan` <small>/t͡saʔ7 laŋ2/<sup>兴化</sup>, /t͡saʔ7 lã/<sup>如皋</sup>, /t͡sɑʔ7 lɑŋ/<sup>泰兴</sup>, /t͡sɑʔ7 nɑŋ3/<sup>泰县</sup></small> 螳螂<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup>\[兴化：也称“刀螂”。\]\[东台：也称刀螂，斫刀。\]  
 1. 【[斫料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhah_lio.md#斫料)】`zhah7 lio6` <sup>[东台]</sup> 大材小用：为了打一张爬爬凳去锯大木料，我看是～啊。  

@@ -2093,8 +2093,8 @@
 1. 【[促𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_son.md#促𪨊)】`coh7 son2` <sup>[泰州]</sup> 詈词，骂搞恶作剧捉弄人的人：这个～说的话都是些药子，他的话不能听。  
 1. 【[簇光新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_guan_xien.md#簇光新)】`coh7 guan1 xien1` <sup>[如东]</sup> 非常新：这件衣服～。  
 1. 【[簇新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_xien.md#簇新)】`coh7 xien1` <sup>[泰县]</sup> 很新。  
-1. 【[簇斩之新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhae_zhr_xien.md#簇斩之新)】`coh7 zhae3 zhr1 xien1` <sup>[泰州]</sup> 衣服非常显眼亮丽的样子：～的衣裳。  
 1. 【[簇崭新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_xien.md#簇崭新)】`coh7 zhaen3 xien1` <small>/t͡sʰɔʔ7 t͡sɛ̃3 ɕin1/<sup>兴化</sup>, /t͡sʰɔʔ7 t͡sẽ3 ɕiəŋ1/<sup>如皋</sup>, /t͡sʰɔʔ7 t͡sɛ̃3 ɕiŋ1/<sup>泰县</sup></small> ① 极新。<sup>\[如东\]</sup>：这部车子～。<sup>\[如东\]</sup> ② 状全新。<sup>\[如皋\]</sup> ③ 极新；全新<sup>\[东台\]</sup>：这车子～。<sup>\[东台\]</sup> ④ 全新<sup>\[兴化\]</sup>：新房里布置啊～的家具，床上铺啊～的被褥。口语也说“簇崭儿”。<sup>\[兴化\]</sup> ⑤ 很新<sup>\[泰县\]</sup>：～的衣裳。<sup>\[泰县\]</sup> ⑥ 物品极好极新的样子<sup>\[泰州\]</sup>：他身上穿的是～的羽绒衫。<sup>\[泰州\]</sup>  
+1. 【[簇斩之新](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh_zhaen_zhr_xien.md#簇斩之新)】`coh7 zhaen3 zhr1 xien1` <sup>[泰州]</sup> 衣服非常显眼亮丽的样子：～的衣裳。  
 1. 【[蹙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#蹙)】`coh7` <sup>[泰州]</sup> 皱眉：望吖他眉头～咖紧紧的，像是有甚的心思。  
 1. 【[镞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#镞)】`coh7` <sup>[泰县]</sup> 刻纸：～花匾。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/coh.md#□)】`coh8` <sup>[泰县]</sup> 呼吸缓急不平。  

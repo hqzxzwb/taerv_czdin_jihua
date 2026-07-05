@@ -968,7 +968,7 @@
 1. 【[带打蚊子带乘凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_da_ven_zz.md#带打蚊子带乘凉)】`dae5 da3 ven2 zz dae5 chen2 lian` <small>/tɛ5 tɑ3 ʋəŋ2 t͡sɿ tɛ5 t͡sʰəŋ2 liɑŋ/<sup>泰兴</sup></small> 比喻干活、做事不认真负责，办干边玩。<sup>\[泰兴\]</sup>  
 1. 【[带带](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_dae.md#带带)】`dae5 dae5` <small>/tɛ5 tɛ5/<sup>泰兴</sup></small> 将就些，犹“带住点儿”、“𨑊住点儿”。<sup>\[泰兴\]</sup>  
 1. 【[带得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_deh_chv.md#带得住)】`dae5 deh7 chv6` <sup>[东台]</sup> 勉强过得去：天冷容易感冒，抵抗力强的还可以～。  
-1. 【[带点<sub>儿</sub>𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_din_r_so.md#带点<sub>儿</sub>𢜶)】`dae5 din2 r so5` <sup>[泰州]</sup> 加快一点速度：天不早唻，你俫大家手上都～，抓紧做掉好下班。  
+1. 【[带点<sub>儿</sub>𢜶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_din_r_so.md#带点<sub>儿</sub>𢜶)】`dae5 din9 r so5` 加快一点速度<sup>\[如东\]</sup>：天不早唻，你俫大家手上都～，抓紧做掉好下班。<sup>\[如东\]</sup>  
 1. 【[带饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_faen.md#带饭)】`dae5 faen6` <small>/tɛ5 fɛ̃6/<sup>兴化</sup>, /tɛ5 fẽ1/<sup>如皋</sup></small> ① 自带饭食。<sup>\[如皋\]</sup> ② 自家煮饭时也给别人顺带煮。<sup>\[如皋\]</sup> ③ 搭伙食\[兴化：也说“带伙”。\]：……每年馆金十二两银子，每日二分银子在和尚家代饭……（《儒林外史》二）<sup>\[兴化\]</sup>  
 1. 【[带过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带过)】`dae5 gu` <sup>[兴化]</sup> 偏偏、恰恰：～你越总好，他越怀疑，越不相信。‖西北部乡镇也作“歹怪”dae3 guae。  
 1. 【[带锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dae_gu.md#带锅)】`dae5 gu1` <small>/tɛ5 ko1/<sup>兴化</sup>, /tɛ5 kʊ1/<sup>如皋</sup>, /tɛ5 kɤɯ1/<sup>泰兴</sup></small> ① 顺带煮饭。<sup>\[如皋\]</sup> ② 比喻顺带受处罚。<sup>\[如皋\]</sup> ③ 请别家带做饭菜。<sup>\[兴化\]</sup> ④ （借）顺带<sup>\[兴化\]</sup>：“好的，我替你顺带……我家失火也把你家～。”（《皮五辣子》三）<sup>\[兴化\]</sup> ⑤ 将与锅中不同的食物加入其内一同煮食曰“带锅”。<sup>\[泰兴\]</sup>  
@@ -1504,12 +1504,12 @@
 1. 【[兜腮胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sae_hv_zz.md#兜腮胡子)】`deu1 sae1 hv2 zz` <small>/tɤ1 sɛ1 xu2 t͡sɿ/<sup>兴化</sup></small> ① 连着鬓角的胡须。<sup>\[兴化\]</sup> ② 连着鬓角的胡子。‖也作“毛胡子”。<sup>\[兴化\]</sup>  
 1. 【[兜馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_seu.md#兜馊)】`deu1 seu` <sup>[如皋]</sup> 啰唆，重复。  
 1. 【[兜馊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_seu.md#兜馊)】`deu1 seu1` <sup>[东台]</sup> 啰唆，说无用的话或不停地提问题。  
+1. 【[兜身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_shen.md#兜身)】`deu1 shen1` <sup>[泰州]</sup> 全身：儿子晚上结婚，老方～衣裳都是新的。  
 1. 【[兜收](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sheu.md#兜收)】`deu1 sheu1` <sup>[兴化]</sup> ① 收拾、理会：他在外头闯下祸来，只好叫他老子～。 ② 收揽：这些家人听了，却待发作，那白监生便来～……（《三刻》五）  
 1. 【[兜手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_sheu.md#兜手)】`deu1 sheu3` <sup>[如皋]</sup> 以手掌横击：～一个巴掌。  
 1. 【[兜坨粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_tu_fen.md#兜坨粉)】`deu1 tu2 fen3` <sup>[兴化]</sup> 勾芡。  
 1. 【[兜芯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_xien.md#兜芯)】`deu1 xien1` <small>/tei1 ɕiəŋ1/<sup>如皋</sup></small> ① 馅儿。<sup>\[如东\]</sup>：豆沙～。<sup>\[如东\]</sup> ② 包馅、馅子。<sup>\[如皋\]</sup>  
 1. 【[兜嘴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_zuei_r.md#兜嘴<sub>儿</sub>)】`deu1 zuei3 r` <sup>[如东]</sup> 套在牛嘴上的网袋。  
-1. 【[周身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_shen.md#周身)】`deu1 shen1` <sup>[泰州]</sup> “周”念deu1，全身：儿子晚上结婚，老方～衣裳都是新的。  
 1. 【[唗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#唗)】`deu1` <sup>[泰州]</sup> 大声呵斥：这个小伙捱他～啊几句，不曾敢再啰唆。  
 1. 【[抖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu.md#抖)】`deu3` <small>/tei3/<sup>如皋</sup></small> ① 好表现，好出风头<sup>\[如皋\]</sup>：这家伙～得交关。～狠吖要栽跟头的！<sup>\[如皋\]</sup> ② 鲁莽。<sup>\[如皋\]</sup> ③ 显摆，炫耀<sup>\[东台\]</sup>：有啊成绩不能～！<sup>\[东台\]</sup>  
 1. 【[抖抖边<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/deu_deu_bin_r.md#抖抖边<sub>儿</sub>)】`deu3 deu3 bin1 r` <sup>[泰县]</sup> 不稳重的人。  

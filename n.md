@@ -1300,7 +1300,6 @@
 1. 【[泥捾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_vaen_zz.md#泥捾子)】`ni2 vaen3 zz` <sup>[如皋]</sup> 建筑工人用以盛泥浆的用具。  
 1. 【[泥腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_xien_qi.md#泥腥气)】`ni2 xien1 qi5` <small>/nʝ2 ɕiəŋ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 泥土的腥味。<sup>\[如皋\]</sup> ② 沾有淤泥的臭味。<sup>\[如皋\]</sup>  
 1. 【[泥渣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_zha.md#泥渣)】`ni2 zha1` <sup>[兴化]</sup> 稀泥加水草、青草等沤制的肥料。  
-1. 【[黏黐嗀沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_chr_vah_dah.md#黏黐嗀沰)】`ni2 chr vah7 dah7` <sup>[泰州]</sup> 肮脏之物黏在手上而不容易甩脱：他身上全是柴油，～的，你让吖远吖点儿。  
 1. 【[抳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni.md#抳)】`ni6` <small>/nɿ1/<sup>泰县</sup></small> 糊<sup>\[泰县\]</sup>：把㞎㞎都弄～开来啊。<sup>\[泰县\]</sup>  
 1. 【[腻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni.md#腻)】`ni6` ① 不清楚，模糊<sup>\[如东\]</sup>：电视机～的/电视机画面不清楚<sup>\[如东\]</sup> ② 食品中油脂过多。<sup>\[如东\]</sup>：菜汤不能太～。<sup>\[如东\]</sup> ③ 纠缠不休<sup>\[东台\]</sup>：这人是个“皮五辣子”，～啊这块不肯走。<sup>\[东台\]</sup> ④ 食物中脂肪多<sup>\[东台\]</sup>：油～。<sup>\[东台\]</sup> ⑤ ［引］厌烦<sup>\[东台\]</sup>：这段唱腔已经听～啊。<sup>\[东台\]</sup> ⑥ 光润、细腻<sup>\[东台\]</sup>：滑～/细～。<sup>\[东台\]</sup> ⑦ 泛指黏糊之物。<sup>\[泰州\]</sup> ⑧ 涂抹（黏糊之物）<sup>\[泰州\]</sup>：伢儿来啊屎，～啊一裤子。<sup>\[泰州\]</sup> ⑨ 足底踩在烂物之上导致脚下滑动<sup>\[泰州\]</sup>：不注意脚底下～啊一脚狗屎。<sup>\[泰州\]</sup> ⑩ 脚下踩着物体来回滑动<sup>\[泰州\]</sup>：你把你吐啊地下的痰，弄脚～掉。<sup>\[泰州\]</sup>  
 1. 【[腻虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_chon.md#腻虫)】`ni6 chon2` <small>/nʝ1 t͡sʰɔŋ2/<sup>如皋</sup></small> ① 蚜虫。<sup>\[如皋\]</sup> ② 蚜虫，生活在植物的嫩茎嫩叶间，用针状口器刺吸汁液。<sup>\[东台\]</sup> ③ 菜蚜，寄生于十字花科蔬菜叶片上，体如针头而绵软的蚜虫。<sup>\[泰州\]</sup>  
@@ -1496,6 +1495,7 @@
 1. 【[黏饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien.md#黏饼)】`nin2 bien3` 中秋节日食品之一。用糯米粉加水调制面团，芝麻碾碎炒熟拌糖做馅，包成大元宵状压扁，成为直径五至六厘米的小饼，锅中放少许油，煎至焦黄。晾干以后，可以存放较长时间，以糯米粉性黏，故名。<sup>\[泰州\]</sup>  
 1. 【[黏饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_bien_r.md#黏饼<sub>儿</sub>)】`nin2 bien3 r` <sup>[如皋]</sup> 多为糯米粉做的有馅饼。  
 1. 【[黏虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chon.md#黏虫)】`nin2 chon2` <sup>[如皋]</sup> 俗名“麦蚕儿”。  
+1. 【[黏黐嗀沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chr_vah_dah.md#黏黐嗀沰)】`nin2 chr vah7 dah7` <sup>[泰州]</sup> 肮脏之物黏在手上而不容易甩脱：他身上全是柴油，～的，你让吖远吖点儿。  
 1. 【[黏搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_daeh_daeh.md#黏搭搭)】`nin2 daeh7 daeh7` <sup>[如东]</sup> ① 柔软黏和：糯米饭～的，真好吃 ② 潮湿而有黏性：身上出咖汗不曾洗，～的。  
 1. 【[黏沰沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏沰沰)】`nin2 dah7 dah7` <sup>[兴化]</sup> 形容黏糊：糯米糍巴～的。  
 1. 【[黏耷耷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_dah_dah.md#黏耷耷)】`nin2 dah7 dah7` <small>/niɪ̃2 tɑʔ7 tɑʔ7/<sup>泰县</sup></small> 物汁粘连不断<sup>\[泰县\]</sup>：银耳汤～。<sup>\[泰县\]</sup>  
