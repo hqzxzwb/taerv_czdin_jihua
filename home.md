@@ -390,8 +390,8 @@
 1. 【[麻而岔二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#麻而岔二)】`ma2 er cha er` <sup>[东台]</sup> 形容做事不上规矩。  
 1. 【[麻而木之](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_moh_zhr.md#麻而木之)】`ma2 er2 moh8 zhr1` <small>/mɑ2 ɚ2 mɔʔ8 t͡sɿ1/<sup>泰兴</sup></small> 麻木。骂人语。<sup>\[泰兴\]</sup>  
 1. 【[麻二扯二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_er_cha_er.md#麻二扯二)】`ma2 er6 cha3 er6` <sup>[泰县]</sup> 不规范，不正经。  
-1. 【[麻秸腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_tuei.md#麻秸腿)】`ma2 gae1 tuei3` <small>/mɑ2 kɛ1 tʰəɪ3/<sup>泰兴</sup></small> 比喻人消瘦，腿子细小。<sup>\[泰兴\]</sup>  
 1. 【[麻稭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_r.md#麻稭<sub>儿</sub>)】`ma2 gae1 r` <sup>[如皋]</sup> 苎麻去皮的秸秆，旧时点燃照明用。  
+1. 【[麻稭腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_tuei.md#麻稭腿)】`ma2 gae1 tuei3` <small>/mɑ2 kɛ1 tʰəɪ3/<sup>泰兴</sup></small> 比喻人消瘦，腿子细小。<sup>\[泰兴\]</sup>  
 1. 【[麻芥菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_gae_cae.md#麻芥菜)】`ma2 gae5 cae5` <sup>[如皋]</sup> 野芥菜。  
 1. 【[麻糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_go.md#麻糕)】`ma2 go1` ① 糕点的一种。米糏加水调和，做成糕，上面加芝麻，放在炉里拷熟，味香而韧绉。<sup>\[如东\]</sup> ② 泰州特产茶食之一，以炒熟的糯米粉、芝麻粉、绵白糖、核桃仁为原料，切片烘制而成，色泽灰白，质地酥脆，旧时多作为馈赠亲友佳物。<sup>\[泰州\]</sup>  
 1. 【[麻虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/ma_ha.md#麻虾)】`ma2 ha1` <sup>[泰州]</sup> 泰州产的一种体型极小的虾，呈青灰色，体半透明，以其小如芝麻粒，故名：～烧豆腐。  

@@ -52,7 +52,6 @@
 1. 【[横砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zhun.md#横砖)】`on2 zhun1` <sup>[如皋]</sup> 砌墙时，砖阔面向上以长顺墙而砌。与“丁”砖相对。  
 1. 【[横子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#横子)】`on2 zz` <sup>[如皋]</sup> 指杆秤。  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` <small>/ɔŋ5 t͡sɿ/<sup>泰兴</sup></small> ① 也叫二嗡子，即二胡。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：拉～<sup>\[泰兴\]</sup> ② 空竹<sup>\[泰州\]</sup>：扯～。<sup>\[泰州\]</sup>  
-1. 【[横吹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chuei.md#横吹)】`on5 chuei1` ① （兴化作hon2）<sup>\[泰州\]</sup> ② 没有节制地瞎吹牛<sup>\[泰州\]</sup>：你不要听他～，根本不是这一回事。<sup>\[泰州\]</sup>  
 1. 【[瓮子缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz_gan.md#瓮子缸)】`on5 zz gan1` <sup>[如皋]</sup> 一种高帮、大口小底的釉缸。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>兴化</sup>, /oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
@@ -68,4 +67,5 @@
 1. 【[𨞑<sub>儿</sub>烂泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_r_laen_ni.md#𨞑<sub>儿</sub>烂泥)】`on5 r laen6 ni2, ngon5 r laen6 ni2` <sup>[如皋]</sup> 河底淤泥。  
 1. 【[𨞑味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_vei_r.md#𨞑味<sub>儿</sub>)】`on5 vei6 r, ngon5 vei6 r` <sup>[如皋]</sup> 腐臭味。  
 1. 【[𨞑咂咂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zaeh_zaeh.md#𨞑咂咂)】`on5 zaeh7 zaeh7` <sup>[东台]</sup> 很臭。（原文作“䐥”，声调不合）  
+1. 【[横吹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chuei.md#横吹)】`on6 chuei1` 没有节制地瞎吹牛。<sup>\[泰州\]</sup>：你不要听他～，根本不是这一回事。<sup>\[泰州\]</sup>  
 **[▲](#音序检索)**  

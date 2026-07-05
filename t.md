@@ -476,7 +476,6 @@
 1. 【[搪弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_lon.md#搪弄)】`tan2 lon6` <sup>[兴化]</sup> 搪塞、敷衍：他再来催促就拿好话～他下子。  
 1. 【[搪塞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_seh.md#搪塞)】`tan2 seh7` <sup>[如东]</sup> 敷衍。  
 1. 【[搪相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xian.md#搪相)】`tan2 xian5` <sup>[如皋]</sup> 扶相、捧场。  
-1. 【[淌猫<sub>儿</sub>汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_zheh.md#淌猫<sub>儿</sub>汁)】`tan2 mo2 r zheh7` <small>/tʰɑŋ2 mɔ˞2 t͡səʔ7/<sup>泰兴</sup></small> 谑语。流泪。<sup>\[泰兴\]</sup>  
 1. 【[溏恭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_gon.md#溏恭)】`tan2 gon1` <sup>[兴化]</sup> 稀薄的不成形的大便。  
 1. 【[溏鸡屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ji_shr.md#溏鸡屎)】`tan2 ji1 shr3` <sup>[兴化]</sup> 稀薄的鸡粪。  
 1. 【[溏心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_xien.md#溏心)】`tan2 xien1` ① 蛋煮过或腌过后，蛋黄没有完全凝固的地方。<sup>\[东台\]</sup> ② 蛋煮熟后蛋黄没有完全凝固<sup>\[泰州\]</sup>：～鸡蛋。<sup>\[泰州\]</sup>  
@@ -514,6 +513,7 @@
 1. 【[淌猫<sub>儿</sub>屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_shr.md#淌猫<sub>儿</sub>屎)】`tan3 mo2 r shr3` <sup>[泰县]</sup> 流泪。  
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_suei.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r suei1` <small>/tʰɑŋ3 mɔ˞2 suəɪ1/<sup>泰兴</sup></small> 戏指流泪<sup>\[泰兴\]</sup>  
 1. 【[淌猫<sub>儿</sub>尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_xy.md#淌猫<sub>儿</sub>尿)】`tan3 mo2 r xy1` <sup>[如皋]</sup> 詈语。指流泪。  
+1. 【[淌猫<sub>儿</sub>汁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_r_zheh.md#淌猫<sub>儿</sub>汁)】`tan3 mo2 r zheh7` <small>/tʰɑŋ3 mɔ˞2 t͡səʔ7/<sup>泰兴</sup></small> 谑语。流泪。<sup>\[泰兴\]</sup>  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_suei.md#淌猫尿)】`tan3 mo2 suei1` <sup>[兴化]</sup> （戏）流泪。也说“淌麻油”。  
 1. 【[淌猫尿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_mo_xy.md#淌猫尿)】`tan3 mo2 xy1` 戏称淌眼泪<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你好好做，不然捱我熊吖还覅～！<sup>\[东台\]</sup>｜说咖急咖就～。<sup>\[泰州\]</sup>  
 1. 【[淌吖身大汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_nga_shen_da.md#淌吖身大汗)】`tan3 nga shen1 da6 hun6` <sup>[东台]</sup> ［喻］用了一大笔钱：这次些朋友来聚会，叫你～。  
