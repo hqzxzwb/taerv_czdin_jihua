@@ -191,7 +191,7 @@ def parse_cont(cont, fname):
 
 
 def shrink_source(source):
-    return re.sub(r'(方言词典|方言志|方言辞典)\d?$', '', source)
+    return re.sub(r'(方言词典|方言志|方言辞典|县志)\d*$', '', source)
 
 
 def encode_sources(source_tags):
