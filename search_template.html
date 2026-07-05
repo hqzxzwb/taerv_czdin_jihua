@@ -803,15 +803,17 @@ function search(query) {
 
   // Sort by word length, then pinyin order.
   // In head-only mode, prioritize earlier keyword positions in the headword.
-  matches.sort((a, b) => {
-    if (headOnly && hasQuery && a.headPos !== b.headPos) return a.headPos - b.headPos;
-    if (pinyinTerms && hasQuery && a.pinyinPos !== b.pinyinPos) return a.pinyinPos - b.pinyinPos;
-    const lenDiff = normalizedHeadword(a.entry).length - normalizedHeadword(b.entry).length;
-    if (lenDiff !== 0) return lenDiff;
-    const pinyinDiff = a.entry[P].localeCompare(b.entry[P], 'en', { sensitivity: 'base' });
-    if (pinyinDiff !== 0) return pinyinDiff;
-    return a.entry[W].localeCompare(b.entry[W], 'zh-Hans-CN');
-  });
+  if (hasQuery) {
+    matches.sort((a, b) => {
+      if (headOnly && hasQuery && a.headPos !== b.headPos) return a.headPos - b.headPos;
+      if (pinyinTerms && hasQuery && a.pinyinPos !== b.pinyinPos) return a.pinyinPos - b.pinyinPos;
+      const lenDiff = normalizedHeadword(a.entry).length - normalizedHeadword(b.entry).length;
+      if (lenDiff !== 0) return lenDiff;
+      const pinyinDiff = a.entry[P].localeCompare(b.entry[P], 'en', { sensitivity: 'base' });
+      if (pinyinDiff !== 0) return pinyinDiff;
+      return a.entry[W].localeCompare(b.entry[W], 'zh-Hans-CN');
+    });
+  }
 
   const letterHint = letter ? `【${letter}】` : '';
 
