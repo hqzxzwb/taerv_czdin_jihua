@@ -8,3 +8,8 @@ nun3 rih8 xia6 tin1
 nun3 rih8 xia6 tin1 dii
 > 如皋方言词典
 - 夏季意在奉劝人们制怒、节劳，注意情绪保养。
+
+# 暖热夏天
+nun3 rih8 xia6 tin1
++ 炎热的夏天。
+  * 泰兴方言辞典

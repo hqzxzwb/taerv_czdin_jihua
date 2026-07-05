@@ -1,4 +1,4 @@
 # 帽瑱子
-mo5 zhen5 zz
+mo6 zhen5 zz
 + 嵌在帽前的玉
   * 如皋方言词典
