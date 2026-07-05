@@ -87,8 +87,8 @@
 1. 【[喜鹊斑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_baen.md#喜鹊斑)】`xi3 qiah7 baen1` <sup>[如皋]</sup> 见“哑子砖”。  
 1. 【[喜鹊叫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_jio.md#喜鹊叫)】`xi3 qiah7 jio5` <sup>[如皋]</sup> ① 有人（客）到。 ② 遇喜事。  
 1. 【[喜鹊头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qiah_teu.md#喜鹊头)】`xi3 qiah7 teu2` <sup>[如皋]</sup> 婴儿胎发只有几大块，状若喜鹊。相传此兑多磨难。  
-1. 【[喜笺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜笺)】`xi3 qin, xi3 jin` <small>/ɕʝ3 t͡ɕʰĩ/<sup>泰兴</sup></small> 春节或家中有大喜事时张贴于门窗上的红色刻纸笺，表示喜庆。<sup>\[泰兴\]</sup>  
 1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin` <sup>[如东]</sup> 一块长方形的纸红色，中间雕花刻字飞金，下沿飘须。春节贴在大门、房门、耳门门楣以及照明方上，表示吉庆。如果当年有人去世，则贴紫色的喜钱，表示悼念。俗称过儿。  
+1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin, xi3 jin` <small>/ɕʝ3 t͡ɕʰĩ/<sup>泰兴</sup></small> 春节或家中有大喜事时张贴于门窗上的红色刻纸笺，表示喜庆。<sup>\[泰兴\]</sup>  
 1. 【[喜签](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜签)】`xi3 qin1` <sup>[东台]</sup> 贴春联时贴在门楣上、房梁上或者窗户上边框的一种刻纸。也叫“花签”“花钱”。  
 1. 【[喜钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin.md#喜钱)】`xi3 qin2` <small>/ɕʝ3 t͡ɕʰĩ2/<sup>如皋</sup>, /ɕʝ3 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 逢喜庆事给的赏钱，常用红纸包裹。<sup>\[如皋\]</sup> ② 办喜事时发的红包。<sup>\[东台\]</sup> ③ 有喜庆之事时，给人的赏钱。<sup>\[泰兴\]</sup>  
 1. 【[喜钱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_qin_r.md#喜钱<sub>儿</sub>)】`xi3 qin2 r` <sup>[泰县]</sup> 贴在门楣上的红色刻纸。  
@@ -929,7 +929,7 @@
 1. 【[星星点点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点)】`xien1 xien1 din3 din3` <sup>[如皋]</sup> 雨滴很稀。  
 1. 【[星星点点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点的)】`xien1 xien1 din3 din3 dii` <sup>[如皋]</sup> 散乱而稀疏的：开始落雨的刻儿是～。  
 1. 【[腥□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥□气)】`xien1 ngaen qi5` <sup>[东台]</sup> ① 东西虽少腥臭味不小。 ② ［喻］事情不大，却有废话：收一点儿东西，也是收，～！  
-1. 【[腥眼搭眵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_daeh_chr.md#腥眼搭眵)】`xien1 ngaen3 daeh7 chr1` <sup>[如东]</sup> 一种又肮脏又腥气的样子和气味。  
+1. 【[腥眼沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_dah_chr.md#腥眼沰黐)】`xien1 ngaen3 dah7 chr1` 一种又肮脏又腥气的样子和气味。\[如东：《如东方言词典》第三四字作“答眵”\]  
 1. 【[腥眼气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥眼气)】`xien1 ngaen3 qi5` <sup>[如东]</sup> 一种腥气味：从渔船上回来，衣裳上有一种～。  
 1. 【[腥气不剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh.md#腥气不剌的)】`xien1 qi beh laeh dii` <sup>[如皋]</sup> 对腥味表示厌恶的说法。  
 1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi vei6` <sup>[兴化]</sup> ① 腥气：这死鱼一股子～。 ② 指沾上违纪违法的事或惹上嫌疑：他一个人犯事，同办公室的人都沾上～。  
