@@ -64,6 +64,7 @@ There should be one blank line between adjacent entries.
 The line immediately after `# 中文词条` is the main normalized pronunciation line.
 
 - Determine the main pronunciation by first checking same-form entries already present in the repository, then checking `daen_cz.csv`, and finally making a combined judgment from both together with the source evidence.
+- When checking `daen_cz.csv`, remember its first five columns are `traditional,simplified,initial,final,tone`. For each character, query that one character against both the traditional and simplified columns, not only the beginning of the line. Use a replaceable pattern of the form `rg -n "^(TARGET,|[^,]*,TARGET,)" daen_cz.csv`, replacing `TARGET` with the single character being checked. Build the syllable as `initial + final + tone`; if `initial` is empty, use `final + tone`.
 - If one written form has multiple pronunciations but the meaning is the same, separate whole readings with `,`.
 - If only one character within the word has multiple readings, separate those variants with `/`.
 - If the written form, pronunciation, and meaning all differ, split them into separate entries rather than merging them.
