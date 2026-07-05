@@ -418,7 +418,7 @@ def write_page(dirs, path, sample_out, cz_ien):
     open(os.path.join("docs", "%s.md"%path), "w", encoding="U8").writelines(lines)
 
 def shrink_source(source):
-    return re.sub(r'(方言词典|方言志|方言辞典)\d?$', '', source)
+    return re.sub(r'(方言词典|方言志|方言辞典|县志)\d*$', '', source)
 
 def meaning_text(w, meaning):
     str = ""
