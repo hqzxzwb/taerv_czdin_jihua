@@ -246,6 +246,7 @@
 1. 【[癞皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_r.md#癞皮<sub>儿</sub>)】`lae6 pi2 r` <sup>[如皋]</sup> ① 指银屑病患者的皮屑。 ② 指程度轻的无赖。  
 1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <small>/lɛ6 pʰu2 tʰɔ2/<sup>兴化</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>如皋</sup></small> ① 苦瓜。北方人以壳为菜，味苦。本地人吃籽肉，味甜。<sup>\[如皋\]</sup> ② 即苦瓜，葫芦科。果实纺锤形或长圆筒形，表面有榴状凸起，成熟后色赤黄，瓤和种子鲜红，味甜，可食。<sup>\[兴化\]</sup> ③ 俗称苦瓜，草本植物，黄花，果实长圆而两头尖，可做蔬菜食用，表面布满瘤壮凸起，爬藤，故名。<sup>\[泰州\]</sup>  
 1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <sup>[兴化]</sup> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。 ② （喻）不爱整洁的人：像个～。  
+1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <small>/lɛ1 ʋ lɔŋ2/<sup>泰兴</sup></small> 不讲卫生，脏；写字不讲究，乱涂乱搨。<sup>\[泰兴\]</sup>  
 1. 【[癞屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xih_r.md#癞屑<sub>儿</sub>)】`lae6 xih7 r` <sup>[如皋]</sup> 见“癞皮儿”。  
 1. 【[癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz.md#癞子)】`lae6 zz` <sup>[东台]</sup> 身上长癣的人。  
 1. 【[癞子抓痒——𠫓咖来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz_zhua_ian.md#癞子抓痒——𠫓咖来啊)】`lae6 zz zhua1 ian3 teh7 ga lae2 a` <sup>[东台]</sup>   
@@ -258,12 +259,13 @@
 1. 【[赖呆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae.md#赖呆)】`lae6 dae1` <sup>[东台]</sup> 不识相，不知趣，赖着不走。（与“褦襶”不同）  
 1. 【[赖家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ga.md#赖家)】`lae6 ga1` <sup>[如皋]</sup> 恋家而不愿离开。  
 1. 【[赖嫁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ga.md#赖嫁)】`lae6 ga5` <sup>[如皋]</sup> 临出嫁时慢慢拖延时问，不愿离去。  
+1. 【[赖学](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_hah.md#赖学)】`lae6 hah8` <small>/lɛ1 xɑʔ8/<sup>泰兴</sup></small> 怕上学，逃学。<sup>\[泰兴\]</sup>  
 1. 【[赖学宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_hah_bo_r.md#赖学宝<sub>儿</sub>)】`lae6 hah8 bo3 r` <sup>[如皋]</sup> 詈语。指逃学的孩子。  
 1. 【[赖脝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_hen.md#赖脝)】`lae6 hen5` <sup>[东台]</sup> 总想加班加点，或因行为拖沓，迟迟不下工的行为。  
 1. 【[赖后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_heu_gen.md#赖后跟)】`lae6 heu6 gen1` <sup>[如皋]</sup> 布鞋帮后跟向后倾斜，鞋子因此不跟脚。常为踏后跟所致。  
 1. 【[赖婚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_huen.md#赖婚)】`lae6 huen1` <small>/lɛ1 xuəŋ1/<sup>如皋</sup></small> ① 撕毁婚约。旧时有定婚礼。后由于某些缘由不承认婚约。<sup>\[如皋\]</sup> ② 不承认原先答应的婚事。<sup>\[东台\]</sup>  
 1. 【[赖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lin.md#赖脸)】`lae6 lin3` <sup>[如皋]</sup> 小孩哭闹，不肯洗脸。  
-1. 【[赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi.md#赖皮)】`lae6 pi2` <small>/lɛ6 pʰi2/<sup>兴化</sup></small> ① 耍滑。<sup>\[如东\]</sup>：你不要耍～。<sup>\[如东\]</sup> ② 蛮不讲理的行为和作风。<sup>\[如东\]</sup> ③ 耍无赖作风的人。<sup>\[东台\]</sup> ④ 指说话不算数或赖账不还的人。<sup>\[兴化\]</sup> ⑤ 特指输了钱不认账的赌徒<sup>\[兴化\]</sup>：耍～。<sup>\[兴化\]</sup>  
+1. 【[赖皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi.md#赖皮)】`lae6 pi2` <small>/lɛ6 pʰi2/<sup>兴化</sup>, /lɛ1 pʰʝ2/<sup>泰兴</sup></small> ① 耍滑。<sup>\[如东\]</sup>：你不要耍～。<sup>\[如东\]</sup> ② 蛮不讲理的行为和作风。<sup>\[如东\]</sup> ③ 耍无赖作风的人。<sup>\[东台\]</sup> ④ 指说话不算数或赖账不还的人。<sup>\[兴化\]</sup> ⑤ 特指输了钱不认账的赌徒<sup>\[兴化\]</sup>：耍～。<sup>\[兴化\]</sup> ⑥ 讥讽赖账的人。<sup>\[泰兴\]</sup>  
 1. 【[赖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_gu.md#赖屁股)】`lae6 pi5 gu` <sup>[如皋]</sup> 臀部向后下赖蹲，极力不肯被拉走。  
 1. 【[赖晌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_shan.md#赖晌)】`lae6 shan5` <sup>[东台]</sup> 与“赖脝”近义，时间在中午。  
 1. 【[赖骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_so.md#赖骚)】`lae6 so1` <sup>[兴化]</sup> 形容撒泼耍赖的人：他欠债不还，还要玩～。  
@@ -2380,7 +2382,7 @@
 1. 【[雷声霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_huah_shin.md#雷声霍闪)】`luei2 shen1 huah7 shin3` <small>/ləɪ2 səŋ1 xuɑʔ8 ɕĩ3/<sup>泰兴</sup></small> ① 阴云密布，雷电交加。<sup>\[如东\]</sup> ② 比喻脾气急躁，大声说话的气势。<sup>\[如东\]</sup>：这个人说话～的。<sup>\[如东\]</sup> ③ 雷鸣电闪，令人震撼的样子。多指强雷雨。<sup>\[泰兴\]</sup>  
 1. 【[雷神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen.md#雷神)】`luei2 shen2` <sup>[如东]</sup> ① 传说主管打雷的神。也叫雷公、雷神菩萨、雷神老爷。 ② 比喻性格暴躁的人。  
 1. 【[雷神菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_pv_saeh.md#雷神菩萨)】`luei2 shen2 pv2 saeh` <small>/ləɪ2 səŋ2 pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 雷神<sup>\[泰兴\]</sup>  
-1. 【[雷神菩萨𠫓咖暴灰里，云里雾里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_pv_saeh.md#雷神菩萨𠫓咖暴灰里，云里雾里的)】`luei2 shen2 pv2 saeh teh7 ga po6 huei lii, yen2 lii v5 lii dii` <small>/ləɪ2 səŋ2 pʰu2 ɕiæʔ tʰəʔ7 ka pʰɔ1 xuəɪ ləɪ yəŋ2 ləɪ ʋ5 ləɪ təɪ/<sup>泰兴</sup></small> 歇后语。谓糊里糊涂，莫明其妙。<sup>\[泰兴\]</sup>  
+1. 【[雷神菩萨𠫓咖暴灰里，云里雾里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_pv_saeh.md#雷神菩萨𠫓咖暴灰里，云里雾里的)】`luei2 shen2 pv2 saeh teh7 ga po6 huei lii yen2 lii v5 lii dii` <small>/ləɪ2 səŋ2 pʰu2 ɕiæʔ tʰəʔ7 ka pʰɔ1 xuəɪ ləɪ yəŋ2 ləɪ ʋ5 ləɪ təɪ/<sup>泰兴</sup></small> 歇后语。谓糊里糊涂，莫明其妙。<sup>\[泰兴\]</sup>  
 1. 【[雷闪霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shin_huah_shin.md#雷闪霍闪)】`luei2 shin3 huah7 shin3` <sup>[兴化]</sup> 形容雷电交加：外头～的，覅出去！  
 1. 【[累人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_ren_zz.md#累人子)】`luei6 ren zz` <sup>[如皋]</sup> 劳累、疲乏。  
 1. 【[那<sub>个</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luh.md#那<sub>个</sub>)】`luh7` <sup>[如皋]</sup> “那个”的快读。  

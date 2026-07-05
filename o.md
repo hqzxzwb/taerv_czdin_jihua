@@ -51,14 +51,14 @@
 1. 【[横五六犟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_v_loh_qian.md#横五六犟)】`on2 v3 loh8 qian6` <sup>[兴化]</sup> 固执、顶牛，不服管教：这个小伙～的，一点不听话。  
 1. 【[横砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zhun.md#横砖)】`on2 zhun1` <sup>[如皋]</sup> 砌墙时，砖阔面向上以长顺墙而砌。与“丁”砖相对。  
 1. 【[横子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#横子)】`on2 zz` <sup>[如皋]</sup> 指杆秤。  
-1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` ① 也叫二嗡子，即二胡。<sup>\[东台\]</sup> ② 空竹<sup>\[泰州\]</sup>：扯～。<sup>\[泰州\]</sup>  
+1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on5 zz` <small>/ɔŋ5 t͡sɿ/<sup>泰兴</sup></small> ① 也叫二嗡子，即二胡。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：拉～<sup>\[泰兴\]</sup> ② 空竹<sup>\[泰州\]</sup>：扯～。<sup>\[泰州\]</sup>  
 1. 【[横吹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chuei.md#横吹)】`on5 chuei1` ① （兴化作hon2）<sup>\[泰州\]</sup> ② 没有节制地瞎吹牛<sup>\[泰州\]</sup>：你不要听他～，根本不是这一回事。<sup>\[泰州\]</sup>  
 1. 【[瓮子缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz_gan.md#瓮子缸)】`on5 zz gan1` <sup>[如皋]</sup> 一种高帮、大口小底的釉缸。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5, ngon5` <sup>[如皋]</sup> ① 鼻塞时的发音：他伤风，说话鼻子有点儿～。 ② 软腭缺损者的发音。  
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>兴化</sup>, /oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
-1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <sup>[如东]</sup> 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。  
+1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <small>/ɔŋ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。<sup>\[如东\]</sup> ② 指发音时鼻音浓重。<sup>\[泰兴\]</sup>  
 1. 【[齆鼻子菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_pv.md#齆鼻子菩萨)】`on5 pieh8 zz pv2 saeh7` <sup>[如东]</sup> 鼻腔阻塞嗅觉不灵敏，香臭不分。比喻分不清好坏：～进茅坑，香臭不分。  
 1. 【[齆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#齆子)】`on5 zz, ngon5 zz` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[𨞑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#𨞑)】`on5, ngon5` <sup>[如皋]</sup> 一种腐臭味：～味、～臭，发～。  

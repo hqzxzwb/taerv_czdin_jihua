@@ -152,7 +152,7 @@
 1. 【[绐弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_vaen.md#绐弯)】`tae6 vaen1` <sup>[东台]</sup> 变形，中间下垂：我家的旧沙发用吖几年，里面弹簧～。  
 1. 【[袋<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r.md#袋<sub>儿</sub>)】`tae6 r` <sup>[如东]</sup> 口袋。有布口袋麻口袋、草口袋、塑料口袋诸种。  
 1. 【[袋<sub>儿</sub>口朝下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_r_keu_cho.md#袋<sub>儿</sub>口朝下)】`tae6 r keu3 cho2 ha6` <sup>[东台]</sup> ［喻］大方，舍得掏钱用。  
-1. 【[塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#塌)】`taeh7` <sup>[东台]</sup> 坡度小，平缓，不陡：堤东沙土的河坎比较～。  
+1. 【[塌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#塌)】`taeh7` 坡度小，平缓，不陡<sup>\[东台\]</sup>：堤东沙土的河坎比较～。<sup>\[东台\]</sup>  
 1. 【[塌汊<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha_r.md#塌汊<sub>儿</sub>)】`taeh7 cha r` <sup>[如皋]</sup> 分汉而又淤浅的河段。  
 1. 【[塌成](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_chen.md#塌成)】`taeh7 chen2` <sup>[如东]</sup> 在耷子和游戏中，由耷子、坎儿和杠构成的成和（hv2），称塌成。  
 1. 【[塌话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_hua.md#塌话)】`taeh7 hua` <sup>[兴化]</sup> 差劲：质量～｜他手艺～。  
@@ -1547,10 +1547,11 @@
 1. 【[跳格格<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_geh_geh_r.md#跳格格<sub>儿</sub>)】`tio5 geh7 geh7 r` <sup>[如皋]</sup> 跳格子游戏。  
 1. 【[跳格子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_geh_zz.md#跳格子)】`tio5 geh7 zz` <sup>[如东]</sup> 一种游戏。在地上画五层格子，玩者以一只脚跳进格子，把里面的（𧒘儿）蛤蜊壳踢向前面一个格子，即为成功。以后继续踢，直至全部踢出，即为赢家。  
 1. 【[跳行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_han.md#跳行)】`tio5 han2` <sup>[东台]</sup> ① 读或写时漏行。 ② 改行，转换职业。  
-1. 【[跳加官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jia_gun.md#跳加官)】`tio5 jia1 gun1` <sup>[东台]</sup> 旧时一种傩戏。表演者头戴面具，手持吉祥条幅或元宝，在锣鼓声中起舞、祝福。  
+1. 【[跳加官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jia_gun.md#跳加官)】`tio5 jia1 gun1` <small>/tʰiɔ5 t͡ɕiɑ1 kʊ̃1/<sup>泰兴</sup></small> ① 旧时一种傩戏。表演者头戴面具，手持吉祥条幅或元宝，在锣鼓声中起舞、祝福。<sup>\[东台\]</sup> ② 旧时戏曲开场或在演出中遇显贵到场时，加演的舞蹈节目，表示庆贺。<sup>\[泰兴\]</sup>  
 1. 【[跳雀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_jiah_r.md#跳雀<sub>儿</sub>)】`tio5 jiah7 r` <sup>[兴化]</sup> ① 形容小孩活泼可爱，像小鸟那样跳来跳去：小孙女又是唱，又是闹，像个～。 ② （喻）热情、好客：我去看孙子，媳妇像个～，又是倒茶又是拿水果，一定要留下来多住几天。  
 1. 【[跳龙门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_lon_men.md#跳龙门)】`tio5 lon2 men2` <sup>[如皋]</sup> 葬俗之一，相木入穴前着“孝子”从墓穴上纵向越过并抛下一把硬币，表示龙鳞片片。  
 1. 【[跳码<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ma_r.md#跳码<sub>儿</sub>)】`tio5 ma3 r` <small>/tʰiɔ5 ma˞3/<sup>如皋</sup>, /tʰiɔ5 ma3 ɚ/<sup>泰县</sup></small> ① 河中立梯，架板至岸边，供洗用的设施。<sup>\[如皋\]</sup> ② 水码头。<sup>\[泰县\]</sup>  
+1. 【[跳马伕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ma_fv.md#跳马伕)】`tio5 ma3 fv` <small>/tʰiɔ5 mɑ3 fʋ/<sup>泰兴</sup></small> 贬语。谓跳动不停歇，令人厌烦。<sup>\[泰兴\]</sup>  
 1. 【[跳马弁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_ma_pin.md#跳马弁)】`tio5 ma3 pin6` <sup>[东台]</sup> 旧时每逢迎神赛会，就有装扮马弁的人头上用红布扎黄元（即黄纸），手持铁棒，沿街吆喝，为神灵出行开道。  
 1. 【[跳门槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_men_kaen.md#跳门槛)】`tio5 men2 kaen3` <small>/tʰiɔ5 məŋ2 kʰɛ̃3/<sup>泰县</sup></small> ① 从这个门槛跳进那个门槛，叫做跳门槛。也叫跳槽。寡妇改嫁。<sup>\[如东\]</sup> ② 跳槽。<sup>\[泰县\]</sup> ③ 寡妇改嫁。<sup>\[泰县\]</sup>  
 1. 【[跳面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tio_min.md#跳面)】`tio5 min6` <small>/tʰiɔ5 miɪ̃6/<sup>兴化</sup>, /tʰiɔ5 mĩ1/<sup>如皋</sup></small> ① 大刀面。<sup>\[如皋\]</sup> ② 生产刀切面的一道工序。通过人工上下颠动带起粗木杠压擀面杖，将面团擀成薄片，然后用刀（似铡刀）将面皮切成细面条。<sup>\[兴化\]</sup> ③ 一种面条制作方法，亦指按此制作方法制成的面条。将粗长木杠或竹杠一端放在特制面案顶端孔内压在面团之上，擀面师傅双手握杠跨骑木杠或者竹杠的另一端，一脚悬空，一脚落地，一上一下跳着移动，借助身体下坠力量用杠反复下压面团，最终擀成薄薄的面皮，用刀切成面条。<sup>\[泰州\]</sup>  

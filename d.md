@@ -1222,6 +1222,7 @@
 1. 【[耷舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shih_r.md#耷舌<sub>儿</sub>)】`dah7 shih8 r` <small>/tɑʔ7 ɕiɪʔ8 ɚ/<sup>泰县</sup></small> ① 一种布鞋。<sup>\[泰县\]</sup> ② 帽檐。<sup>\[泰县\]</sup> ③ 舌头不灵活，说话含糊的人<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[泰县：结巴。\]：他是个～，你同他唩蛮唩不清。<sup>\[泰州\]</sup>  
 1. 【[耷帅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_shuae.md#耷帅)】`dah7 shuae5` <sup>[如皋]</sup> 贬指愚笨者、弱者。  
 1. 【[耷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz.md#耷子)】`dah7 zz` <small>/taʔ7 t͡sɿ/<sup>如皋</sup></small> ① 娇惯成性者<sup>\[如皋\]</sup>：叼子～，爬上桌子。<sup>\[如皋\]</sup> ② 耷子和等和种的基本构成单位，由三张花色相同数码相连的牌组成。<sup>\[如东\]</sup>  
+1. 【[耷子话多，瘸子路多](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz_hua_du.md#耷子话多，瘸子路多)】`dah7 zz hua6 du1 qya2 zz lv6 du1` <small>/tɑʔ7 t͡sɿ xuɑ1 tɤɯ1 t͡ɕʰyɑ2 t͡sɿ lu1 tɤɯ1/<sup>泰兴</sup></small> 谓越是说话不方便却说得越多。多指乱插话。（存疑）<sup>\[泰兴\]</sup>  
 1. 【[耷子和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_zz_hv.md#耷子和)】`dah7 zz hv2` <small>/taʔ7 t͡sɿ fu2/<sup>如皋</sup></small> ① 旧式纸牌的一种玩法。<sup>\[如皋\]</sup> ② 一种智力博戏，产生在清朝中叶之后。以纸牌为工具，分万儿、饼儿、条儿、大将和星儿五种，共125张。入局四人，三人打牌，每人22张，凑成六搭即为成和。胜负以和数多少为依据。最高和数达1 1200和。这是群众博戏活动的方式之一，流行在苏北地区。<sup>\[如东\]</sup>  
 1. 【[𠹥𠹥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_dii.md#𠹥𠹥的)】`dah7 dah7 dii` <sup>[泰州]</sup> 真如大家所说的那样，意谓不出所料：早就算到他这种人不会这吖安逸，弄到临了～还就是他在背后搞鬼。  
 1. 【[𠹥𠹥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_dah_r.md#𠹥𠹥<sub>儿</sub>)】`dah7 dah7 r` <sup>[如皋]</sup> 常滞留者：他是个～，你有功夫陪他，能喷个半大天。  
@@ -1230,7 +1231,7 @@
 1. 【[𠹥㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_pah.md#𠹥㗘)】`dah7 pah7` <small>/taʔ7 pʰaʔ7/<sup>兴化</sup>, /taʔ7 pʰaʔ7/<sup>如皋</sup>, /tɑʔ7 pʰɑʔ7/<sup>泰兴</sup>, /tɑʔ7 pʰɑʔ7/<sup>泰县</sup></small> ① 漫无边际的吹牛说大话。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 同“𠹥呱”。语言较粗。<sup>\[东台\]</sup> ③ 闲聊<sup>\[兴化\]</sup>：几个人没事晒太阳～。<sup>\[兴化\]</sup> ④ 聊天。<sup>\[泰县\]</sup> ⑤ 随意闲聊议论<sup>\[泰州\]</sup>：没得个牢事，成天同这些马马儿～。<sup>\[泰州\]</sup>｜大家抓紧做活技，不要～。<sup>\[泰州\]</sup>  
 1. 【[𠹥涎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_saen.md#𠹥涎)】`dah7 saen2` <sup>[如皋]</sup> ① 以舌下打，并弹射出唾沫星子以溅人。 ② 随地吐涎。  
 1. 【[𠹥淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen.md#𠹥淡)】`dah7 taen6` <sup>[泰县]</sup> 搬弄是非。  
-1. 【[𠹥淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua.md#𠹥淡话)】`dah7 taen6 hua6` <sup>[泰州]</sup> 背后随意议论他人是非：听吖～的人说他家拆迁弄吖三套房子。  
+1. 【[𠹥淡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua.md#𠹥淡话)】`dah7 taen6 hua6` <small>/tɑʔ7 tʰɛ1 xuɑ1/<sup>泰兴</sup></small> ① 背后随意议论他人是非<sup>\[泰州\]</sup>：听吖～的人说他家拆迁弄吖三套房子。<sup>\[泰州\]</sup> ② 说毫无意义的话。<sup>\[泰兴\]</sup>  
 1. 【[𠹥淡话<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_taen_hua_r.md#𠹥淡话<sub>儿</sub>)】`dah7 taen6 hua6 r` <sup>[如皋]</sup> 闲谈中说是非话。  
 1. 【[𧩧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah.md#𧩧)】`dah7` <sup>[泰州]</sup> 捏造事实诬陷他人。《泰县方言补·人部》：“无其事而以言栽害之曰～。泰以言诬栽曰～害人。”：这事不是人家做的，你就不能～人家！  
 1. 【[𨃚咕𨃚咕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dah_gv_dah_gv.md#𨃚咕𨃚咕的)】`dah7 gv1 dah7 gv1 dii` <sup>[东台]</sup> 形容走路慢、脚头很重。  

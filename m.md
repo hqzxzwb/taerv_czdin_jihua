@@ -1357,6 +1357,7 @@
 1. 【[喵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#喵)】`mio` <sup>[如皋]</sup> 猫叫声。  
 1. 【[描红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_hon.md#描红)】`mio2 hon2` <sup>[如东]</sup> 练习毛笔字的一种方法。在红色的字上蒙纸，照着描绘，叫做描红。  
 1. 【[描剪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_jin.md#描剪)】`mio2 jin3` <small>/miɔ2 t͡ɕĩ3/<sup>泰兴</sup></small> 理发师用的一种细长的小剪刀。<sup>\[泰兴\]</sup>  
+1. 【[瞄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#瞄)】`mio2` <small>/miɔ2/<sup>泰兴</sup></small> 细细地看；注视。<sup>\[泰兴\]</sup>  
 1. 【[苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio.md#苗)】`mio2` <sup>[东台]</sup> 形容词，指饼或馒头酵的水分偏多，与“壮酵馒头”相对。  
 1. 【[苗情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_qien.md#苗情)】`mio2 qien2` <sup>[兴化]</sup> 指秧苗的肥瘠和长势：看～补施肥料。  
 1. 【[苗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mio_teu.md#苗头)】`mio2 teu` <sup>[如东]</sup> 略微显露情况发展的趋势。  
@@ -1514,7 +1515,6 @@
 1. 【[瞀亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_lian.md#瞀亮)】`mo3 lian6` <sup>[泰州]</sup> 人刚脱离黑暗环境之时，眼睛突然受到阳光刺激而睁不开，或者不能适应特别强烈光的照射而使眼睛昏花：你才走黑处跑出来，这一刻儿突然望到太阳，怎吖得不～㖸。  
 1. 【[覒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#覒)】`mo3` <sup>[东台]</sup> 窥视。（《广韵》莫报切，邪视也。）：小偷～好啊，她家里没得人，好下手。  
 1. 【[铆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#铆)】`mo3` <small>/mɔ3/<sup>如皋</sup></small> 捆扎。<sup>\[如皋\]</sup>  
-1. 【[帽瑱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhen_zz.md#帽瑱子)】`mo5 zhen5 zz` <small>/mɔ5 t͡səŋ5 t͡sɿ/<sup>如皋</sup></small> 嵌在帽前的玉<sup>\[如皋\]</sup>  
 1. 【[冒不投空](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_beh_teu_kon.md#冒不投空)】`mo6 beh teu2 kon1` <sup>[兴化]</sup> 突然地：这件事～的想不起来。  
 1. 【[冒充](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chon.md#冒充)】`mo6 chon1` ① 假的充当真的。<sup>\[如东\]</sup> ② 用假的充当真的。<sup>\[东台\]</sup>  
 1. 【[冒戳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_chuah.md#冒戳)】`mo6 chuah7` <sup>[如东]</sup> 冒充。  
@@ -1552,6 +1552,7 @@
 1. 【[帽檐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_in_zz.md#帽檐子)】`mo6 in2 zz` <sup>[东台]</sup> 帽四周突出的部分。  
 1. 【[帽勒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_leh_zz.md#帽勒子)】`mo6 leh8 zz` <sup>[东台]</sup> 旧时老年妇女装饰，左右两片呈荷花瓣状，像箍一样系在头部，用翡翠或珍珠点缀。  
 1. 【[帽舌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_shih_zz.md#帽舌子)】`mo6 shih8 zz` <sup>[东台]</sup> 帽前沿遮阳的部分。  
+1. 【[帽瑱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zhen_zz.md#帽瑱子)】`mo6 zhen5 zz` <small>/mɔ1 t͡səŋ5 t͡sɿ/<sup>如皋</sup></small> 嵌在帽前的玉<sup>\[如皋\]</sup>  
 1. 【[帽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz.md#帽子)】`mo6 zz` <sup>[如东]</sup> 保护头脑的装具，棉制、草制、铁制或塑料制，一般椭圆形。规格很多。戴在头上可以保温、遮阳以及保护安全。  
 1. 【[帽子没墙子——顶好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo_zz_meh_qian.md#帽子没墙子——顶好)】`mo6 zz meh8 qian2 zz dien3 ho3` <sup>[东台]</sup>   
 1. 【[毷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mo.md#毷)】`mo6` <small>/mɔ1/<sup>泰县</sup></small> ① 东西发霉后长出的茸毛状的霉菌。“毷”为借字。东台词典写“䤓”（《说文·酉部》，䤓，霉也）。<sup>\[东台\]</sup>：饼上吖～。<sup>\[东台\]</sup> ② 物体表面的霉菌。<sup>\[泰县\]</sup>  

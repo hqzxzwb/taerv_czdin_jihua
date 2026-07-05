@@ -268,7 +268,7 @@
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng` <sup>[如东]</sup> 回答问题的词语，表示赞成或同意。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng1` <sup>[东台]</sup> （叹词）表示应答。  
 1. 【[嗯啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_a.md#嗯啊)】`ng1 a` <small>/1 əʔ/<sup>泰县</sup></small> 好的<sup>\[泰县\]</sup>：“你快点儿去吧！”“～，我就去。”<sup>\[泰县\]</sup>  
-1. 【[嗯哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_na.md#嗯哪)】`ng1 na` <sup>[东台]</sup> （叹词）表示应诺：～，就这吖办吧！  
+1. 【[嗯哪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_na.md#嗯哪)】`ng1 na` （叹词）表示应诺<sup>\[东台\]</sup>：～，就这吖办吧！<sup>\[东台\]</sup>  
 1. 【[嗯吖啊的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng_nga_a_dii.md#嗯吖啊的)】`ng1 nga a1 dii` <sup>[东台]</sup> 吞吞吐吐应付的口音。  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng2` <sup>[东台]</sup> （叹词）表示疑问：～？  
 1. 【[嗯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ng.md#嗯)】`ng5` <sup>[东台]</sup> （叹词）表示厌恶：～，好啦，重复的话不要再说！  
@@ -1176,7 +1176,7 @@
 1. 【[摮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#摮)】`ngo6` <small>/ŋɔ1/<sup>如皋</sup></small> 横击<sup>\[如皋\]</sup>：～脚踝（guae3）儿。<sup>\[如皋\]</sup>  
 1. 【[俄萝卜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_lu_poh.md#俄萝卜)】`ngu2 lu2 poh` <sup>[泰县]</sup> 胡萝卜。  
 1. 【[蛾眉月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_mei_iuh.md#蛾眉月)】`ngu2 mei2 iuh8` <sup>[如皋]</sup> 新月。  
-1. 【[蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zz.md#蛾子)】`ngu2 zz` 飞蛾  
+1. 【[蛾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_zz.md#蛾子)】`ngu2 zz` <small>/ŋɤɯ2 t͡sɿ/<sup>泰兴</sup></small> ① 飞蛾 ② 飞蛾<sup>\[泰兴\]</sup>  
 1. 【[讹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu.md#讹)】`ngu2` <small>/o2/<sup>泰县</sup></small> ① 错误<sup>\[东台\]</sup>：以～传～。<sup>\[东台\]</sup> ② 讹诈<sup>\[东台\]</sup><sup>\[泰县\]</sup>：～钱。<sup>\[东台\]</sup>｜他要～你的钱。<sup>\[泰县\]</sup>  
 1. 【[讹痴答蛮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_chr_daeh_maen.md#讹痴答蛮)】`ngu2 chr1 daeh7 maen2` <sup>[兴化]</sup> 因说不清事由或道理而胡搅蛮缠。  
 1. 【[讹舛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngu_chun.md#讹舛)】`ngu2 chun` <sup>[兴化]</sup> 见“讹错”。  
@@ -1751,7 +1751,8 @@
 1. 【[暖轿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_qio.md#暖轿)】`nun3 qio6` ① 花轿进场后，由一对童男童女坐在轿上，直到新娘上轿。这个过程，叫做暖轿。<sup>\[如东\]</sup> ② 结婚前一天男方的有关仪式程序。这一天女方称“待女”。<sup>\[东台\]</sup>  
 1. 【[暖日夏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_rih_xia_tin.md#暖日夏天)】`nun3 rih8 xia6 tin1` <sup>[如东]</sup> 天气比较炎热：～的，这吖多人挤啊一起做甚的？  
 1. 【[暖日夏天的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_rih_xia_tin.md#暖日夏天的)】`nun3 rih8 xia6 tin1 dii` <sup>[如皋]</sup> 夏季意在奉劝人们制怒、节劳，注意情绪保养。  
-1. 【[暖寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_sheu.md#暖寿)】`nun3 sheu6` <sup>[东台]</sup> 庆贺整生日前一天的准备事务，包括款待先来的客人。  
+1. 【[暖热夏天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_rih_xia_tin.md#暖热夏天)】`nun3 rih8 xia6 tin1` <small>/nʊ̃3 iʔ8 ɕiɑ1 tʰĩ1/<sup>泰兴</sup></small> 炎热的夏天。<sup>\[泰兴\]</sup>  
+1. 【[暖寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_sheu.md#暖寿)】`nun3 sheu6` <small>/nʊ̃3 ɕiɤɯ1/<sup>泰兴</sup></small> ① 庆贺整生日前一天的准备事务，包括款待先来的客人。<sup>\[东台\]</sup> ② 旧俗在贺生日的前一天，家人和亲友为老人祝寿饮酒，称暖寿。<sup>\[泰兴\]</sup>  
 1. 【[暖天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_tin.md#暖天)】`nun3 tin1` <small>/lũ3 tʰiɪ̃1/<sup>兴化</sup>, /nʊ̃3 tʰĩ1/<sup>如皋</sup></small> ① 春秋季（相对于热天而言）。<sup>\[如皋\]</sup> ② 春、秋天。冬季里温和的天气，也称暖天。<sup>\[如东\]</sup> ③ 热天：～，没得酒客，我们坐下来乘乘凉，再好没有了。（《武松》四）<sup>\[兴化\]</sup>  
 1. 【[暖天时候](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_tin_shr_heu.md#暖天时候)】`nun3 tin1 shr2 heu` <small>/nʊ̃3 tʰĩ1 sɿ2 xei/<sup>如皋</sup></small> ① 见“暖天”。<sup>\[如皋\]</sup> ② 春季。<sup>\[如皋\]</sup>  
 1. 【[餪寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nun_sheu.md#餪寿)】`nun3 sheu6` <sup>[如皋]</sup> ① 老人将过生日，身体不好，先行祝寿。 ② 出室女提前一日祝寿。  

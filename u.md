@@ -244,7 +244,7 @@
 1. 【[按时按顿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shr_un_den.md#按时按顿)】`un5 shr2 un5 den5` <sup>[泰州]</sup> 一天三顿准时吃饭：吃饭要～。  
 1. 【[暗处](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chv.md#暗处)】`un5 chv5` <sup>[如皋]</sup> ① 阴暗处。 ② 隐蔽处。  
 1. 【[暗底下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_di_ha.md#暗底下)】`un5 di3 ha6` 私下；理应  
-1. 【[暗房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_fan.md#暗房)】`un5 fan2` <small>/ũ5 faŋ2/<sup>兴化</sup>, /ʊ̃5 fã2/<sup>如皋</sup></small> ① 产妇的住房。光线暗，通风少，旧称产妇婴儿“毫光低”。<sup>\[如皋\]</sup> ② 暗室。<sup>\[兴化\]</sup> ③ 产妇在产褥期内居住的房间：“这是～，姑少爷可不必进来……”（《广陵潮》八七）<sup>\[兴化\]</sup>  
+1. 【[暗房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_fan.md#暗房)】`un5 fan2` <small>/ũ5 faŋ2/<sup>兴化</sup>, /ʊ̃5 fã2/<sup>如皋</sup>, /ʊ̃5 fɑŋ2/<sup>泰兴</sup></small> ① 产妇的住房。光线暗，通风少，旧称产妇婴儿“毫光低”。<sup>\[如皋\]</sup> ② 暗室。<sup>\[兴化\]</sup> ③ 产妇在产褥期内居住的房间<sup>\[兴化\]</sup>：“这是～，姑少爷可不必进来……”（《广陵潮》八七）<sup>\[兴化\]</sup> ④ 旧称产妇的卧房。<sup>\[泰兴\]</sup>  
 1. 【[暗角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_gah_lah.md#暗角落)】`un5 gah7 lah` <sup>[如东]</sup> 没有光线的地方。特指墙角。比喻吃了亏：出灯火钱，坐～。  
 1. 【[暗沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_geu.md#暗沟)】`un5 geu1` <sup>[如东]</sup> 地下排水沟。  
 1. 【[暗号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ho.md#暗号)】`un5 ho6` <sup>[如东]</sup> 彼此约定的秘密信号。  
@@ -256,21 +256,22 @@
 1. 【[暗里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii.md#暗里)】`un5 lii` <sup>[如皋]</sup> 暗中、隐蔽地。  
 1. 【[暗里到黑里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_do_heh.md#暗里到黑里)】`un5 lii do5 heh7 lii` <sup>[如皋]</sup> 经常整天干，并且带暗干。  
 1. 【[暗里黑里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_heh_lii.md#暗里黑里的)】`un5 lii heh7 lii dii` <sup>[如皋]</sup> 见“暗里到黑里”。  
+1. 【[暗里摸洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_mah_ton.md#暗里摸洞)】`un5 lii mah8 ton6` <small>/ʊ̃5 ləɪ mɑʔ8 tʰɔŋ1/<sup>泰兴</sup></small> 形容很暗；没有光亮，伸手不见五指。<sup>\[泰兴\]</sup>  
 1. 【[暗隆隆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lon_lon.md#暗隆隆)】`un5 lon lon` <sup>[如东]</sup> 光线暗淡：外面～的。  
 1. 【[暗摸摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_mah_mah.md#暗摸摸)】`un5 mah8 mah8` <sup>[如东]</sup> 光线暗淡：家里～的  
 1. 【[暗门子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_men_zz.md#暗门子)】`un5 men2 zz` <sup>[兴化]</sup> 暗娼。  
 1. 【[暗木](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_moh.md#暗木)】`un5 moh8` <small>/ʊ̃5 mɔʔ8/<sup>如皋</sup></small> ① 墙内填的木材，有加固作用。<sup>\[如皋\]</sup> ② 藏在墙体中间的木柱。<sup>\[如东\]</sup>  
 1. 【[暗吖下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_nga_ha.md#暗吖下)】`un5 nga ha` <sup>[如皋]</sup> 隐蔽着，不愿使公开。  
 1. 【[暗病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_pien.md#暗病)】`un5 pien6` <small>/ũ5 pʰiɪ̃6/<sup>兴化</sup></small> ① 难以启齿的疾病，如性病等。<sup>\[兴化\]</sup> ② 潜服期较长，一时从表面看不出的病<sup>\[兴化\]</sup>：他面黄肌瘦的，身上有～。<sup>\[兴化\]</sup>  
-1. 【[暗埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_pon_pon.md#暗埲埲)】`un5 pon6 pon6` <small>/ũ5 pʰoŋ6 pʰoŋ6/<sup>兴化</sup></small> 形容昏暗<sup>\[兴化\]</sup>：阴雨天，这家里～。<sup>\[兴化\]</sup>  
+1. 【[暗埲埲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_pon_pon.md#暗埲埲)】`un5 pon6 pon6` <small>/ũ5 pʰoŋ6 pʰoŋ6/<sup>兴化</sup>, /ʊ̃5 pʰɔŋ1 pʰɔŋ1/<sup>泰兴</sup></small> ① 形容昏暗<sup>\[兴化\]</sup>：阴雨天，这家里～。<sup>\[兴化\]</sup> ② 暗；很不明亮。<sup>\[泰兴\]</sup>  
 1. 【[暗疾讲较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_qieh_jian_jio.md#暗疾讲较)】`un5 qieh8 jian3 jio5` <sup>[如皋]</sup> 不便明言的病，多指阴部、肛部疾患。  
 1. 【[暗疾毛病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_qieh_mo_pien.md#暗疾毛病)】`un5 qieh8 mo2 pien6` <sup>[如皋]</sup> 见“暗疾讲较”。  
 1. 【[暗桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_qio.md#暗桥)】`un5 qio2` <sup>[如皋]</sup> 桥面隐在水下的桥。  
 1. 【[暗闩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuaen_zz.md#暗闩子)】`un5 shuaen1 zz` <sup>[如皋]</sup> 旧式门闩上的止推销，可防从外拨开门。  
 1. 【[暗霜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_shuan.md#暗霜)】`un5 shuan1` <small>/ʊ̃5 suã1/<sup>如皋</sup></small> ① 夜生成，清晨即消的微霜。<sup>\[如皋\]</sup> ② 霜很小，霜晶不明显。<sup>\[如东\]</sup>  
 1. 【[暗剃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ti.md#暗剃)】`un5 ti5` <sup>[如东]</sup> 在双方都不明白的情况下被抵消了：这两张牌捱～掉啊。  
-1. 【[暗地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ti_lii.md#暗地里)】`un5 ti6 lii` <sup>[如东]</sup> 私下，背后。  
-1. 【[暗星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xien.md#暗星)】`un5 xien1` <small>/ʊ̃5 ɕiəŋ1/<sup>如皋</sup></small> ① 没有星星或者星光很暗的晚上 ② 阴历二十四到初六之间的夜空，月亮在天空时间不长，或者就不出现月亮，称为～。与“亮星”相对。<sup>\[如皋\]</sup> ③ 阴历二十四至初六之间，月亮在天空出现的时间不长或者不出现，称暗星。<sup>\[如东\]</sup>  
+1. 【[暗地里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_ti_lii.md#暗地里)】`un5 ti6 lii` <small>/ʊ̃5 t͡ɕʰʝ1 ləɪ/<sup>泰兴</sup></small> ① 私下，背后。<sup>\[如东\]</sup> ② 私下里；背地里；暗中。<sup>\[泰兴\]</sup>  
+1. 【[暗星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xien.md#暗星)】`un5 xien1` <small>/ʊ̃5 ɕiəŋ1/<sup>如皋</sup>, /ʊ̃5 ɕiŋ/<sup>泰兴</sup></small> ① 没有星星或者星光很暗的晚上 ② 阴历二十四到初六之间的夜空，月亮在天空时间不长，或者就不出现月亮，称为～。与“亮星”相对。<sup>\[如皋\]</sup> ③ 阴历二十四至初六之间，月亮在天空出现的时间不长或者不出现，称暗星。<sup>\[如东\]</sup> ④ 没有月亮的黑夜。月光明亮则谓之亮星。<sup>\[泰兴\]</sup>  
 1. 【[暗消天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_xio_tin.md#暗消天)】`un5 xio1 tin1` <sup>[东台]</sup> 阴到多云并慢慢转晴的天气。  
 1. 【[暗语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_y.md#暗语)】`un5 y3` <sup>[如东]</sup> 秘密规定的语言：你俫之间联系必须用～。  
 1. 【[暗账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhan.md#暗账)】`un5 zhan5` <sup>[如东]</sup> 秘密的账目。  

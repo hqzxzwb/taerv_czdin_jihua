@@ -2120,6 +2120,7 @@
 1. 【[涌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#涌)】`ion3` <sup>[如东]</sup> 源源不断地流出来，表示非常多：他的钞票是～的。  
 1. 【[涌市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shr.md#涌市)】`ion3 shr6` <small>/iɔŋ3 sɿ1/<sup>如皋</sup></small> ① 营业繁忙。<sup>\[如皋\]</sup> ② 人气很旺，买卖活跃的市场<sup>\[东台\]</sup>：早晨七点钟菜场进入～。<sup>\[东台\]</sup>  
 1. 【[甬堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_tan.md#甬堂)】`ion3 tan2` <sup>[如东]</sup> 两屋之间的通道。  
+1. 【[蛹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zz.md#蛹子)】`ion3 zz` <small>/iɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 昆虫从幼虫到成虫的过渡状态，在此期间幼虫不动不食，外皮变厚，体形缩短，其状如死，称为蛹虫。<sup>\[泰兴\]</sup>：蚕～。<sup>\[泰兴\]</sup>｜蛆～。<sup>\[泰兴\]</sup>  
 1. 【[壅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#壅)】`ion5` <sup>[东台]</sup> 堆，塞，遮蔽：把被子～好，防止受凉｜给棉花根～土。  
 1. 【[壅痕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_hen_r.md#壅痕<sub>儿</sub>)】`ion5 hen2 r` <sup>[东台]</sup> 人皮肤上出现的较深的皱纹：他脸上～越来越多啊。  
 1. 【[壅后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_heu_gen.md#壅后跟)】`ion5 heu6 gen1` <sup>[如皋]</sup> 鞋后跟有折痕而下塌。～的鞋子不跟脚，走路拖啊拖的。  

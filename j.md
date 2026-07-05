@@ -1433,7 +1433,7 @@
 1. 【[交待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tae.md#交待)】`jio1 tae6` <sup>[泰州]</sup> 警告：你～他，再不过来上班，就不要来唻。  
 1. 【[交尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_vei.md#交尾)】`jio1 vei3` <sup>[如东]</sup> 动物交配。  
 1. 【[交卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xia.md#交卸)】`jio1 xia5` <sup>[东台]</sup> 移交事务，解脱自己。  
-1. 【[娇养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇养)】`jio1 ian1` <sup>[如皋]</sup> ① 柔弱。 ② 娇气，不愿吃苦。  
+1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <sup>[如皋]</sup> ① 柔弱。 ② 娇气，不愿吃苦。  
 1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <small>/t͡ɕiɔ1 iɑŋ1/<sup>泰县</sup></small> 娇嫩<sup>\[泰县\]</sup>：这个花～，不大好管理。<sup>\[泰县\]</sup>  
 1. 【[娇娇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#娇娇<sub>儿</sub>)】`jio1 jio1 r` <sup>[如皋]</sup> 指虚弱易病的身体或人。  
 1. 【[娇客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_keh.md#娇客)】`jio1 keh7` <sup>[东台]</sup> ① 娇气，难服侍。 ② 指女婿：堂前的～。  
