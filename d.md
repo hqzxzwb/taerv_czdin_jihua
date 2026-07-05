@@ -2501,7 +2501,7 @@
 1. 【[碓撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chen.md#碓撑)】`duei5 chen1` <sup>[如东]</sup> 支撑碓头的木叉。  
 1. 【[碓齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chr.md#碓齿)】`duei5 chr3` <sup>[如东]</sup> 碓嘴上用以磕脱谷物皮壳的牙齿。  
 1. 【[碓扶手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fv_sheu.md#碓扶手)】`duei5 fv2 sheu3` <sup>[如东]</sup> 悬在梁上下垂的两根绳子，下端系着扁木，用于踏碓人扶手。  
-1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_qieu.md#碓臼)】`duei5 qieu6` <small>/tuəi5 t͡ɕʰiɤ6/<sup>兴化</sup></small> ① 石制，圆柱形，中间有锥体形的凹塘，用以磕脱谷物皮壳或磕碎谷物。<sup>\[如东\]</sup> ② 舂米的用具，上碓下臼，木、石制成。<sup>\[兴化\]</sup>  
+1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_qieu.md#碓臼)】`duei5 qieu6` <small>/tuəi5 t͡ɕʰiɤ6/<sup>兴化</sup>, /təɪ5 t͡ɕʰiɤɯ/<sup>泰兴</sup></small> ① 石制，圆柱形，中间有锥体形的凹塘，用以磕脱谷物皮壳或磕碎谷物。<sup>\[如东\]</sup> ② 舂米的用具，上碓下臼，木、石制成。<sup>\[兴化\]</sup> ③ 舂米用具。石质，内呈圆锥形，埋于地下，口与地面相平。<sup>\[泰兴\]</sup>  
 1. 【[碓身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_shen.md#碓身)】`duei5 shen1` <sup>[如东]</sup> 安装碓嘴儿的一根木杠，长约1.5米，直径约0.3米。  
 1. 【[碓桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhuan.md#碓桩)】`duei5 zhuan1` <sup>[如东]</sup> 支撑碓身的两根木柱。  
 1. 【[碓嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zuei.md#碓嘴)】`duei5 zuei3` <sup>[如东]</sup> 安装在碓身上的一根木柱，底端安装着碓齿。  

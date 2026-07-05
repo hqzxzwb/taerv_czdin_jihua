@@ -221,6 +221,7 @@
 1. 【[碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#碗)】`un3` <small>/ʊ̃3/<sup>如皋</sup></small> ① 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。<sup>\[如皋\]</sup> ② 瓷或竹、木金属塑料制，圆形，口大，无盖，无环。有头碗、大碗、碗、三红、饭碗、汤碗（也称茶碗、酒碗）诸规格。有花纹。主要用于盛饭、装菜。<sup>\[如东\]</sup> ③ 量词，用于灯、灯笼<sup>\[泰州\]</sup>：你上街区买～灯家来。<sup>\[泰州\]</sup>  
 1. 【[碗菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_cae.md#碗菜)】`un3 cae5` <sup>[如皋]</sup> 宴席中用碗或品锅盛装的有汤的一类菜，又称“大菜”。“碗”与“碟”相对。  
 1. 【[碗橱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_chv.md#碗橱)】`un3 chv2` <sup>[东台]</sup> 放置食具及饭菜的橱柜。  
+1. 【[碗大的胡椒辣不煞个人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_da_dii_hv.md#碗大的胡椒辣不煞个人)】`un3 da6 dii hv2 jio1 laeh8 beh7 shaeh7 gu ren2` <small>/ʊ̃3 tɑ1 təɪ fʋ2 t͡ɕiɔ1 læʔ8 pəʔ7 ɕiæʔ7 kɤɯ ɻəŋ2/<sup>泰兴</sup></small> 喻看上去很可怕，但实际上没有什么了不起。<sup>\[泰兴\]</sup>  
 1. 【[碗底<sub>儿</sub>朝天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_di_r_cho.md#碗底<sub>儿</sub>朝天)】`un3 di3 r cho2 tin1` <sup>[如皋]</sup> 吃光了，碗内已无食物。  
 1. 【[碗端户](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_dun_hv.md#碗端户)】`un3 dun1 hv6` <sup>[泰县]</sup> 家道稍好的人家  
 1. 【[碗里抓菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_lii_zhua_lien.md#碗里抓菱)】`un3 lii zhua1 lien2` <small>/ũ3 ləi t͡sua1 liɪ̃2/<sup>兴化</sup></small> ① 形容很容易办到的事情\[兴化：也说成“碗里抓泥”。\]：这件事～，一句话。<sup>\[兴化\]</sup> ② 用手同时抓住在碗中的多只老菱，喻指看似很难、实际极易。菱生于河，菱实隐在菱叶之下且与花柄相连，人坐木盆之中翻开菱叶发现菱后，只能一只一只地摘，还要注意保持木盆平衡，以防止翻盆落水，故有此喻<sup>\[泰州\]</sup>：同他调个工种，对你当厂长的来说，还不是～啊！<sup>\[泰州\]</sup>  
@@ -228,9 +229,11 @@
 1. 【[碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r.md#碗<sub>儿</sub>)】`un3 r` <small>/ũ3 ɚ/<sup>兴化</sup></small> 外形像碗一样的东西，如抽屉把手<sup>\[兴化\]</sup>：铜～。<sup>\[兴化\]</sup>  
 1. 【[碗<sub>儿</sub>菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_cae.md#碗<sub>儿</sub>菜)】`un3 r cae5` <sup>[如皋]</sup> 席间碗装的菜。  
 1. 【[碗<sub>儿</sub>大核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_da_heh.md#碗<sub>儿</sub>大核桃)】`un3 r da6 heh8 to2` <small>/ũ3 ɚ ta6 xəʔ8 tʰɔ2/<sup>兴化</sup></small> 惯用语，出了事情不声张，在内部或有关人中间了结<sup>\[兴化\]</sup>：这件事最好～的办吖，不要兴师动众的。<sup>\[兴化\]</sup>  
+1. 【[碗<sub>儿</sub>大，盘<sub>儿</sub>小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_da_pun.md#碗<sub>儿</sub>大，盘<sub>儿</sub>小)】`un3 r da6 pun2 r xio3` <small>/ʊ˞3 tɑ1 pʰʊ˞2 ɕiɔ3/<sup>泰兴</sup></small> 喻各种情况、大事小事的来龙去脉都非常清楚。<sup>\[泰兴\]</sup>  
 1. 【[碗<sub>儿</sub>青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_qien.md#碗<sub>儿</sub>青)】`un3 r qien1` <sup>[如皋]</sup> 冬季上市的一种青菜，叶柄扁绿色，叶片圆，微蜿，似碗。  
 1. 【[碗<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_y.md#碗<sub>儿</sub>鱼)】`un3 r y2` <sup>[如皋]</sup> 席间用的装碗的整鱼，亦为菜名。  
 1. 【[碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu.md#碗头)】`un3 teu2` <sup>[兴化]</sup> 碗中食物的表面：他手捧一碗粥，～上放吖一筷子咸菜。｜（主人）把这青菜炒肉夹了许多堆在面～上……（《儒林外史》四五）  
+1. 【[碗头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_y.md#碗头鱼)】`un3 teu2 y2` <small>/ʊ̃3 tʰəɪ2 y2/<sup>泰兴</sup></small> 谓大小正好煮一碗的鱼。<sup>\[泰兴\]</sup>  
 1. 【[碗瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_va_cz.md#碗瓦瓷)】`un3 va3 cz2` <sup>[兴化]</sup> 见“瓷瓦子”。  
 1. 【[碗盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhaen.md#碗盏)】`un3 zhaen` <sup>[兴化]</sup> 碗碟等餐具：你把桌上～收拾收拾。｜老太太听了，把细瓷～和银镶的杯盘逐件看了遍……（《儒林外史》三）  
 1. 【[碗盏家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhaen_ga_hu.md#碗盏家伙)】`un3 zhaen ga1 hu` <sup>[兴化]</sup> 泛指与餐饮有关的器具：正说着，只见厨子挑了～进来。（《官场现形记》一）  

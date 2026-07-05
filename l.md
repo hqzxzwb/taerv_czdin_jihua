@@ -251,7 +251,7 @@
 1. 【[癞子抓痒——𠫓咖来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz_zhua_ian.md#癞子抓痒——𠫓咖来啊)】`lae6 zz zhua1 ian3 teh7 ga lae2 a` <sup>[东台]</sup>   
 1. 【[褦襶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae.md#褦襶)】`lae6 dae` <sup>[如皋]</sup> ① 衣饰不整。 ② 处事不严谨。俗说：～和尚没得个好道场做。  
 1. 【[褦襶配褦襶，坏锅子配啊个翘锅盖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_dae_pi_lae.md#褦襶配褦襶，坏锅子配啊个翘锅盖)】`lae6 dae pi5 lae6 dae，huae6 gu1 zz pi5 a gu qio2 gu1 gae5` <sup>[如皋]</sup> 门当户对，只能这样配了。  
-1. 【[赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#赖)】`lae6` ① 不承认。<sup>\[如东\]</sup>：你不要～啊。<sup>\[如东\]</sup> ② 抵赖<sup>\[泰州\]</sup>：我亲眼看见你先大人的，你还想～啊。<sup>\[泰州\]</sup> ③ 身体向下或向后坠<sup>\[泰州\]</sup>：他把屁股～下来，你拉不动他。<sup>\[泰州\]</sup> ④ 耍赖留在某处不离开<sup>\[泰州\]</sup>：你～啊这块不走，人家店里不能不关门吖。<sup>\[泰州\]</sup>  
+1. 【[赖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae.md#赖)】`lae6` <small>/lɛ1/<sup>泰兴</sup></small> ① 抵赖<sup>\[如东\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你不要～啊。<sup>\[如东\]</sup>｜我亲眼看见你先大人的，你还想～啊。<sup>\[泰州\]</sup>｜格桩事肯定是他弄的，～也～不掉。<sup>\[泰兴\]</sup> ② 身体向下或向后坠<sup>\[泰州\]</sup>：他把屁股～下来，你拉不动他。<sup>\[泰州\]</sup> ③ 耍赖留在某处不离开<sup>\[泰州\]</sup>：你～啊这块不走，人家店里不能不关门吖。<sup>\[泰州\]</sup>  
 1. 【[赖擦花<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_caeh_hua_r.md#赖擦花<sub>儿</sub>)】`lae6 caeh7 hua1 r` <sup>[泰县]</sup> 故意模糊界限。  
 1. 【[赖贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ceh.md#赖贼)】`lae6 ceh8` 游戏时偷牌、反悔的行为<sup>\[泰州\]</sup>：大家打牌打啊玩的，你～就没得意思唻。<sup>\[泰州\]</sup>  
 1. 【[赖贼痞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ceh_pi.md#赖贼痞)】`lae6 ceh8 pi3` <sup>[泰州]</sup> 游戏时违反游戏规则的人：他是个出咖名的～，没得一个人高兴同他打牌。  
@@ -858,10 +858,10 @@
 1. 【[愣头愣脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no.md#愣头愣脑)】`len6 teu2 len6 no3` <sup>[如东]</sup> 呆板迟钝：站吖在那许～的做甚的？  
 1. 【[愣头愣脑的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_len_no.md#愣头愣脑的)】`len6 teu2 len6 no3 dii` <sup>[如皋]</sup> 愚鲁状。  
 1. 【[愣头青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_teu_qien.md#愣头青)】`len6 teu2 qien1` <small>/lən6 tʰɤ2 t͡ɕʰin1/<sup>兴化</sup>, /ləŋ1 tʰei2 t͡ɕʰiəŋ1/<sup>如皋</sup></small> ① 不会审时度势，只会说一不二，十分强硬的人。<sup>\[如皋\]</sup> ② 直率，没有间架的人。<sup>\[东台\]</sup> ③ 行为鲁葬的年轻人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个～，动不动就惹事。<sup>\[兴化\]</sup>｜这种事只有他这种～才做得出来。<sup>\[泰州\]</sup>  
-1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup>, /ləŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 说话口吃的人。<sup>\[如东\]</sup> ② 结巴，口吃患者。<sup>\[如皋\]</sup> ③ 语言表达不流畅，口吃。<sup>\[泰兴\]</sup>  
+1. 【[愣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#愣子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup>, /ləŋ1 t͡sɿ/<sup>泰兴</sup></small> 结巴，口吃患者。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[棱凳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#棱凳)】`len6 den5` <sup>[如东]</sup> 搁置棱条晒东西的凳子，有四条腿或三条腿的，也有两条腿的。  
 1. 【[棱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#棱子)】`len6 zz` <sup>[如东]</sup> 直趟的竹竿或木棍，搁在棱凳上，放帘子，晒东西。  
-1. 【[楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#楞子)】`len6 zz` <sup>[如皋]</sup> 窗栅上的木、铁条。如皋词典写“棂子”。  
+1. 【[楞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_zz.md#楞子)】`len6 zz` <small>/ləŋ1 t͡sɿ/<sup>如皋</sup>, /ləŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 窗栅上的木、铁条。\[如皋：如皋词典写“棂子”。\] ② 木制品中的某个部分。<sup>\[泰兴\]</sup>：木头～<sup>\[泰兴\]</sup>｜床～<sup>\[泰兴\]</sup>  
 1. 【[睖瞪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_den.md#睖瞪)】`len6 den1` <small>/ləŋ1 təŋ1/<sup>如皋</sup></small> 发愣，目直视<sup>\[如皋\]</sup>：他捱吓咖～吖。<sup>\[如皋\]</sup>  
 1. 【[论](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len.md#论)】`len6` <sup>[如皋]</sup> 约数，即“以……为单位”：～百的、～万的。  
 1. 【[论长道短](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/len_chan_to_dun.md#论长道短)】`len6 chan2 to6 dun3` <sup>[东台]</sup> 议论别人的是非好坏。  
@@ -1248,15 +1248,16 @@
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_suei_ko.md#零打碎敲)】`lien2 da3 suei5 ko1` <sup>[如东]</sup> 一点儿一点儿的：这批货不要～的卖。  
 1. 【[零打碎敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_da_xy_ko.md#零打碎敲)】`lien2 da3 xy5 ko1` ① ［喻］指以零零碎碎、断断续续的方式进行或处理。<sup>\[东台\]</sup> ② 不能成整进行买卖，意谓零碎卖出或者买进<sup>\[泰州\]</sup>：他今朝拿一点儿货，明朝弄一点儿货，就这格局～的，一年也进不少货唻。<sup>\[泰州\]</sup>  
 1. 【[零答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_daeh.md#零答)】`lien2 daeh7` <sup>[如东]</sup> 说话啰唆：这个人的嘴～咖交关。  
-1. 【[零用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion.md#零用)】`lien2 ion6` <sup>[东台]</sup> 零碎地用钱。  
-1. 【[零用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion_qin.md#零用钱)】`lien2 ion6 qin2` <sup>[如东]</sup> 放在身上随时开支的小钱。也称零花钱：㨔你几个～。  
+1. 【[零用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion.md#零用)】`lien2 ion6` <small>/liŋ2 iɔŋ1/<sup>泰兴</sup></small> ① 零碎地用钱。<sup>\[东台\]</sup> ② 零碎花用。<sup>\[泰兴\]</sup>  
+1. 【[零用钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_ion_qin.md#零用钱)】`lien2 ion6 qin2` <small>/liŋ2 iɔŋ1 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 放在身上随时开支的小钱。也称零花钱。<sup>\[如东\]</sup>：㨔你几个～。<sup>\[如东\]</sup> ② 零花的钱。<sup>\[泰兴\]</sup>  
 1. 【[零卖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_mae.md#零卖)】`lien2 mae6` <sup>[如东]</sup> 零星地向外出售。  
 1. 【[零钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_qin.md#零钱)】`lien2 qin2` <sup>[东台]</sup> 小额钱币，不是整钱。  
 1. 【[零肉碎剐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_roh_xy_gua.md#零肉碎剐)】`lien2 roh8 xy5 gua3` <small>/liəŋ2 ɻɔʔ8 ɕy5 kua3/<sup>如皋</sup></small> ① 剐刑。<sup>\[如皋\]</sup> ② 碎割<sup>\[如皋\]</sup>：一只整猪子捱人～的吃掉啊。<sup>\[如皋\]</sup> ③ 在痛苦中慢慢遭受折磨和消耗。<sup>\[东台\]</sup>  
 1. 【[零碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_suei.md#零碎)】`lien2 suei5` <sup>[如东]</sup> 不完整的东西。  
+1. 【[零蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_taen.md#零蛋)】`lien2 taen6` <small>/liŋ2 tʰɛ̃1/<sup>泰兴</sup></small> 零分。表示没有。阿拉伯数字“0”略显蛋形，故称。含诙谐意。<sup>\[泰兴\]</sup>：他考试得了个～。<sup>\[泰兴\]</sup>  
 1. 【[零头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu.md#零头)】`lien2 teu` ① 剩下的一点儿。<sup>\[如东\]</sup>：这是一点儿～。<sup>\[如东\]</sup> ② 多余的一点儿。<sup>\[如东\]</sup> ③ 不足一个整数计量单位的物件<sup>\[泰州\]</sup>：剩吖这点儿～做双鞋子都不够。<sup>\[泰州\]</sup> ④ 不足一个整数计量单位的钱<sup>\[泰州\]</sup>：我身上不曾带～，没得钱找。<sup>\[泰州\]</sup>  
 1. 【[零头钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu_qin.md#零头钱)】`lien2 teu qin2` <sup>[兴化]</sup> ① 币值小的钱，如1元、1角。 ② 整数以外的钱：外出旅行时手口里要多放些～。  
-1. 【[零头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu.md#零头)】`lien2 teu2` <sup>[东台]</sup> ① 不够一定单位（计算单位、包装等）的零碎数量。 ② 材料使用后的边角料。  
+1. 【[零头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu.md#零头)】`lien2 teu2` <small>/liŋ2 tʰəɪ2/<sup>泰兴</sup></small> ① 不够一定单位（计算单位、包装等）的零碎数量。<sup>\[东台\]</sup> ② 材料使用后的边角料。<sup>\[东台\]</sup> ③ 不够一定单位（如计算单位、包装单位等）的零碎数量；材料使用后剩下来的零碎部分。<sup>\[泰兴\]</sup>  
 1. 【[零头<sub>儿</sub>钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu_r_qin.md#零头<sub>儿</sub>钱)】`lien2 teu2 r qin2` <sup>[如皋]</sup> 零钱。  
 1. 【[零头碎脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_teu_suei_no.md#零头碎脑)】`lien2 teu2 suei5 no3` <sup>[兴化]</sup> ① 零散而杂乱的东西：她收拾～的东西，准备回娘家。 ② 零乱的话题：这些～的事不要在会上说。  
 1. 【[零碎酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_xy_jieu.md#零碎酒)】`lien2 xy5 jieu3` <sup>[东台]</sup> ［喻］事情未结束，点点滴滴、缠缠拉拉不得了结。  
@@ -1494,7 +1495,7 @@
 1. 【[恋土难移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tv_naen_i.md#恋土难移)】`lin6 tv3 naen2 i2` <sup>[兴化]</sup> 因顾恋乡土，不思外出：我因～，前些年老同学要我上深圳发展也不曾去。｜“……他那里常有书来取我入伙，我只为一，不曾去的……”（《水浒传》三一）‖也作“故土难离”。  
 1. 【[恋玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_vaen.md#恋玩)】`lin6 vaen2` <sup>[兴化]</sup> 贪玩：这个伢儿～，把功课全荒掉啊。  
 1. 【[楝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin.md#楝)】`lin6` <sup>[东台]</sup> 落叶乔木，叶子互生，羽状复叶，小叶卵形或披针形，花小，淡紫色，果实椭圆形。  
-1. 【[楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv.md#楝树)】`lin6 shv6` ① 楝科植物苦楝，落叶乔木。<sup>\[如东\]</sup> ② 本地常见落叶乔木的一种。<sup>\[泰州\]</sup>  
+1. 【[楝树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv.md#楝树)】`lin6 shv6` <small>/lĩ1 su1/<sup>泰兴</sup></small> ① 楝科植物苦楝，落叶乔木。<sup>\[如东\]</sup> ② 本地常见落叶乔木的一种。<sup>\[泰州\]</sup> ③ 多年生木本植物。乡间颇多，其叶、果皆苦不可尝，故有“苦楝”之说。<sup>\[泰兴\]</sup>  
 1. 【[楝树牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_shv_ngeu_r.md#楝树牛<sub>儿</sub>)】`lin6 shv6 ngeu2 r` <sup>[如东]</sup> 天牛科昆虫星天牛。  
 1. 【[敹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#敹)】`lio1` <sup>[泰州]</sup> 大针粗缝：被单𠫓咖来啊，你同他～两针。｜你去拿个针把麻袋口～起来。  
 1. 【[㞠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#㞠)】`lio2` <sup>[兴化]</sup> ① 男子的外生殖器。 ② 雄性驴、马等的外生殖器。原文作“屪”，《字汇·尸部》力宵切，“～，男阴名”：谚曰驴～子向东，马～子向西。  
@@ -2332,7 +2333,7 @@
 1. 【[剆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#剆)】`lu3` <small>/lo3/<sup>兴化</sup>, /lʊ3/<sup>如皋</sup>, /lɤɯ3/<sup>泰兴</sup>, /no3/<sup>泰县</sup></small> ① 划，割 ② 用刀刃拉，锯切<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：钝刀切肉一一慢慢儿～。<sup>\[如皋\]</sup>｜他从挂啊下的猪肉上～啊二斤忙中饭菜。<sup>\[东台\]</sup>｜～一块肉不小心把手～开啊。《广韵·哿韵》来可切<sup>\[兴化\]</sup>｜“～，相击也，亦斫也。”<sup>\[兴化\]</sup>｜结巴太紧解不下来，拿个刀来～啊子。<sup>\[泰州\]</sup> ③ 纠缠。<sup>\[泰县\]</sup>  
 1. 【[剆劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_jien.md#剆劲)】`lu3 jien5` <small>/no3 t͡ɕiŋ5/<sup>泰县</sup></small> 磨工<sup>\[泰县\]</sup>：～大<sup>\[泰县\]</sup>  
 1. 【[剆剆<sub>儿</sub>藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_r_ten.md#剆剆<sub>儿</sub>藤)】`lu3 lu3 r ten2` <small>/lʊ3 lʊ˞3 tʰəŋ2/<sup>如皋</sup></small> ① 葎草，也叫“割人藤”、“拉拉藤”。 ② 一种长刺的藤。葎草。<sup>\[如东\]</sup> ③ 比喻喜欢纠缠的人。<sup>\[如东\]</sup>：她像～一样。<sup>\[如东\]</sup> ④ 葎草、拉拉草。桑科，多年生草本植物。<sup>\[如皋\]</sup> ⑤ 喻会胡搅蛮缠的人。<sup>\[如皋\]</sup>  
-1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` <small>/lo3 lo3 tʰən2/<sup>兴化</sup>, /no3 no3 tʰəŋ2/<sup>泰县</sup></small> ① 本指一种缠绕攀援的藤蔓。<sup>\[东台\]</sup> ② ［喻］纠缠不休的人<sup>\[东台\]</sup>：那人蛮不讲理，像～一样缠吖他。<sup>\[东台\]</sup> ③ 一种茎上布满小刺的蔓生植物，即葎草。<sup>\[兴化\]</sup> ④ （喻）能长时间纠缠的人<sup>\[兴化\]</sup>：她是有名的～，捱她沾上难脱身！<sup>\[兴化\]</sup> ⑤ 惯于纠缠人的人。<sup>\[泰县\]</sup> ⑥ 葎草长满倒刺的藤。<sup>\[泰州\]</sup> ⑦ 比喻一旦惹上以后就会死命纠缠、不依不饶的人<sup>\[泰州\]</sup>：这户儿是个～，你不要惹他，最好让他远点儿。<sup>\[泰州\]</sup>  
+1. 【[剆剆藤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_ten.md#剆剆藤)】`lu3 lu3 ten2` <small>/lo3 lo3 tʰən2/<sup>兴化</sup>, /lɤɯ3 lɤɯ3 tʰəŋ2/<sup>泰兴</sup>, /no3 no3 tʰəŋ2/<sup>泰县</sup></small> ① 本指一种缠绕攀援的藤蔓。<sup>\[东台\]</sup> ② ［喻］纠缠不休的人<sup>\[东台\]</sup>：那人蛮不讲理，像～一样缠吖他。<sup>\[东台\]</sup> ③ 一种茎上布满小刺的蔓生植物，即葎草。<sup>\[兴化\]</sup> ④ （喻）能长时间纠缠的人<sup>\[兴化\]</sup>：她是有名的～，捱她沾上难脱身！<sup>\[兴化\]</sup> ⑤ 惯于纠缠人的人。<sup>\[泰县\]</sup> ⑥ 葎草长满倒刺的藤。<sup>\[泰州\]</sup> ⑦ 比喻一旦惹上以后就会死命纠缠、不依不饶的人<sup>\[泰州\]</sup>：这户儿是个～，你不要惹他，最好让他远点儿。<sup>\[泰州\]</sup> ⑧ 喻反复纠缠不清，不讲道理。<sup>\[泰兴\]</sup>  
 1. 【[剆嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_san_zz.md#剆嗓子)】`lu3 san3 zz` <sup>[如皋]</sup> 刀割喉部。  
 1. 【[剆手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_sheu.md#剆手)】`lu3 sheu3` <sup>[如东]</sup> 割手。  
 1. 【[那](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#那)】`lu5` 远指代词  
@@ -2371,11 +2372,15 @@
 1. 【[雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei.md#雷)】`luei2` <sup>[东台]</sup> 云层因放电而发出的巨响：打～｜～电｜～雨｜春～。  
 1. 【[雷暴雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_bo_y.md#雷暴雨)】`luei2 bo5 y3` <sup>[兴化]</sup> 由积雨云产生的雷电，并伴有暴雨：……正好这天夜里下起了～，雨大风狂，雷电交加。（兴文《逮住哪个是哪个》）  
 1. 【[雷打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da.md#雷打)】`luei2 da3` <sup>[如东]</sup> 遭受雷击：老杨树遭～。  
-1. 【[雷打火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da_hu_sho.md#雷打火烧)】`luei2 da3 hu3 sho1` <small>/luəi2 ta3 xo3 sɔ1/<sup>兴化</sup></small> ① 地面遭受雷电袭击燃烧，灾难特别严重。<sup>\[如东\]</sup>：遭受～。<sup>\[如东\]</sup> ② 形容又急又快。<sup>\[如东\]</sup>：张明下田做活技～的，个个都怕他。<sup>\[如东\]</sup> ③ 比如声势浩大。<sup>\[如东\]</sup> ④ （喻）形容非常急迫的样子<sup>\[兴化\]</sup>：他这次要债就像～的，若不还就怕要动粗。<sup>\[兴化\]</sup>  
-1. 【[雷堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#雷堆)】`luei2 duei1` <sup>[兴化]</sup> 笨重、不利索：他胖得太～。｜“你这嘴脸生得各样，相貌有些～……”（《西游记》三十）也作“累堆”。  
+1. 【[雷打火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da_hu_sho.md#雷打火烧)】`luei2 da3 hu3 sho1` <small>/luəi2 ta3 xo3 sɔ1/<sup>兴化</sup>, /ləɪ2 tɑ3 xɤɯ3 sɔ1/<sup>泰兴</sup></small> ① 地面遭受雷电袭击燃烧，灾难特别严重。<sup>\[如东\]</sup>：遭受～。<sup>\[如东\]</sup> ② 形容又急又快。<sup>\[如东\]</sup>：张明下田做活技～的，个个都怕他。<sup>\[如东\]</sup> ③ 比如声势浩大。<sup>\[如东\]</sup> ④ （喻）形容非常急迫的样子<sup>\[兴化\]</sup>：他这次要债就像～的，若不还就怕要动粗。<sup>\[兴化\]</sup> ⑤ 形容非常急迫，火烧眉毛的样子。<sup>\[泰兴\]</sup>  
+1. 【[雷大雨小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da_y_xio.md#雷大雨小)】`luei2 da6 y3 xio3` <small>/ləɪ2 tɑ1 y3 ɕiɔ3/<sup>泰兴</sup></small> 比喻话说得很有声势，或计划订得很庞大，而实际行动却很少。<sup>\[泰兴\]</sup>  
+1. 【[雷堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#雷堆)】`luei2 duei1` <small>/luəi2 tuəi1/<sup>兴化</sup>, /ləɪ2 təɪ1/<sup>泰兴</sup></small> ① 笨重、不利索<sup>\[兴化\]</sup>：他胖得太～。<sup>\[兴化\]</sup>｜“你这嘴脸生得各样，相貌有些～……”（《西游记》三十）也作“累堆”。<sup>\[兴化\]</sup> ② 粗笨，臃肿，累赘。<sup>\[泰兴\]</sup>  
+1. 【[雷轰轰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_hon_hon_dii.md#雷轰轰的)】`luei2 hon1 hon1 dii` <small>/ləɪ2 xɔŋ1 xɔŋ1 təɪ/<sup>泰兴</sup></small> 雷鸣电闪，大雨将至的样子。<sup>\[泰兴\]</sup>  
 1. 【[雷劈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_pieh.md#雷劈)】`luei2 pieh7` <sup>[如东]</sup> 雷打。  
-1. 【[雷声霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_huah_shin.md#雷声霍闪)】`luei2 shen1 huah7 shin3` <sup>[如东]</sup> ① 阴云密布，雷电交加。 ② 比喻脾气急躁，大声说话的气势：这个人说话～的。  
+1. 【[雷声霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_huah_shin.md#雷声霍闪)】`luei2 shen1 huah7 shin3` <small>/ləɪ2 səŋ1 xuɑʔ8 ɕĩ3/<sup>泰兴</sup></small> ① 阴云密布，雷电交加。<sup>\[如东\]</sup> ② 比喻脾气急躁，大声说话的气势。<sup>\[如东\]</sup>：这个人说话～的。<sup>\[如东\]</sup> ③ 雷鸣电闪，令人震撼的样子。多指强雷雨。<sup>\[泰兴\]</sup>  
 1. 【[雷神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen.md#雷神)】`luei2 shen2` <sup>[如东]</sup> ① 传说主管打雷的神。也叫雷公、雷神菩萨、雷神老爷。 ② 比喻性格暴躁的人。  
+1. 【[雷神菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_pv_saeh.md#雷神菩萨)】`luei2 shen2 pv2 saeh` <small>/ləɪ2 səŋ2 pʰu2 ɕiæʔ/<sup>泰兴</sup></small> 雷神<sup>\[泰兴\]</sup>  
+1. 【[雷神菩萨𠫓咖暴灰里，云里雾里的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_pv_saeh.md#雷神菩萨𠫓咖暴灰里，云里雾里的)】`luei2 shen2 pv2 saeh teh7 ga po6 huei lii, yen2 lii v5 lii dii` <small>/ləɪ2 səŋ2 pʰu2 ɕiæʔ tʰəʔ7 ka pʰɔ1 xuəɪ ləɪ yəŋ2 ləɪ ʋ5 ləɪ təɪ/<sup>泰兴</sup></small> 歇后语。谓糊里糊涂，莫明其妙。<sup>\[泰兴\]</sup>  
 1. 【[雷闪霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shin_huah_shin.md#雷闪霍闪)】`luei2 shin3 huah7 shin3` <sup>[兴化]</sup> 形容雷电交加：外头～的，覅出去！  
 1. 【[累人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_ren_zz.md#累人子)】`luei6 ren zz` <sup>[如皋]</sup> 劳累、疲乏。  
 1. 【[那<sub>个</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luh.md#那<sub>个</sub>)】`luh7` <sup>[如皋]</sup> “那个”的快读。  

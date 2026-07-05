@@ -1285,8 +1285,9 @@
 1. 【[尖钻看一眼，呆子相到晚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zun_kun_ieh.md#尖钻看一眼，呆子相到晚)】`jin1 zun1 kun5 ieh7 ngaen3 dae1 zz xian5 do5 vaen3` <sup>[东台]</sup> 聪明人悟性好，不必卖呆。  
 1. 【[尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz.md#尖子)】`jin1 zz` <small>/t͡ɕĩ1 t͡sɿ/<sup>如皋</sup>, /t͡ɕĩ1 t͡sɿ/<sup>泰兴</sup></small> 拔尖人物<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>：他是我俫班级里的～。<sup>\[如皋\]</sup>｜在单位里头，她是个业务～，样样拿得出手。<sup>\[东台\]</sup>｜箇个伢儿从小就是班上的～。<sup>\[泰兴\]</sup>  
 1. 【[尖子生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_zz_shen.md#尖子生)】`jin1 zz shen1` <sup>[东台]</sup> 冒尖的学生：过分宠爱～，对他俫的成长不利。  
-1. 【[搛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#搛)】`jin1` <small>/t͡ɕiɪ̃1/<sup>兴化</sup></small> ① 用筷子夹 ② 用筷子夹<sup>\[东台\]</sup>：时下宾馆餐厅里专备公筷，便于～菜给客人。<sup>\[东台\]</sup> ③ 用筷子或火剪等夹取物品，《集韵·沾韵》坚嫌切<sup>\[兴化\]</sup>：“～，夹持也”。<sup>\[兴化\]</sup> ④ 用筷子夹起食物<sup>\[泰州\]</sup>：自己～吖吃，不要客气。<sup>\[泰州\]</sup>  
-1. 【[搛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_cae.md#搛菜)】`jin1 cae5` <sup>[如皋]</sup> 以筷夹取菜。  
+1. 【[搛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin.md#搛)】`jin1` <small>/t͡ɕiɪ̃1/<sup>兴化</sup>, /t͡ɕĩ1/<sup>泰兴</sup></small> ① 用筷子夹 ② 用筷子夹<sup>\[东台\]</sup>：时下宾馆餐厅里专备公筷，便于～菜给客人。<sup>\[东台\]</sup> ③ 用筷子或火剪等夹取物品<sup>\[兴化\]</sup> ④ 用筷子夹起食物<sup>\[泰州\]</sup>：自己～吖吃，不要客气。<sup>\[泰州\]</sup> ⑤ 夹取，夹持。<sup>\[泰兴\]</sup>  
+1. 【[搛菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_cae.md#搛菜)】`jin1 cae5` <small>/t͡ɕĩ1 t͡sʰɛ5/<sup>如皋</sup>, /t͡ɕĩ1 t͡ɕʰiɛ5/<sup>泰兴</sup></small> 以筷夹取菜。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
+1. 【[搛肥肉人吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_fei_roh_ren.md#搛肥肉人吃)】`jin1 fei2 roh8 ren2 jieh7` <small>/t͡ɕĩ1 fəɪ2 ɻɔʔ8 ɻəŋ2 t͡ɕiəʔ7/<sup>泰兴</sup></small> 喻恶意地假装称赞别人。<sup>\[泰兴\]</sup>  
 1. 【[搛咸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_haen.md#搛咸)】`jin1 haen2` <sup>[兴化]</sup> 用筷子夹菜：～吃。  
 1. 【[搛炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_taen.md#搛炭)】`jin1 taen5` <sup>[如皋]</sup> 燃后很结实。必须搛才能清除的蜂窝煤碴。  
 1. 【[搛小菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jin_xio_cae.md#搛小菜)】`jin1 xio3 cae5` <sup>[如东]</sup> 用筷子从碗或盘中夹菜：快点儿～吃咖。  

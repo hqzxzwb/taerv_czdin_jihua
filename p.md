@@ -1078,7 +1078,7 @@
 1. 【[𢏳花匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_qian.md#𢏳花匠)】`pon1 hua1 qian6` <sup>[如皋]</sup> 手工𢏳棉花的工匠。  
 1. 【[𢏳花弦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_hua_xin_zz.md#𢏳花弦子)】`pon1 hua1 xin2 zz` <small>/pʰɔŋ1 xua1 ɕĩ2 t͡sɿ/<sup>如皋</sup></small> ① 弹花弓上的弦子，用牛筋制成。<sup>\[如皋\]</sup> ② 牛筋制，绞梭，有弹性。<sup>\[如东\]</sup>  
 1. 【[𢏳棉花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_hua.md#𢏳棉花)】`pon1 min2 hua1` <small>/pʰɔŋ1 mĩ2 xua1/<sup>如皋</sup></small> ① 弹棉花，使棉纤维蓬松，做成需要的样式。<sup>\[如皋\]</sup> ② 𢏳花槌敲击𢏳花弦子后，产生振动，使板结的棉花蓬松开来。<sup>\[如东\]</sup>  
-1. 【[𢏳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳ʲ)】`pon1` <small>/pʰoŋ1/<sup>泰县</sup></small> 弹（棉花），用弓弦使板结的棉花蓬松开来。【集韻】披耕切，音怦。張絃也。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>  
+1. 【[𢏳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#𢏳ʲ)】`pon1` <small>/pʰɔŋ1/<sup>泰兴</sup>, /pʰoŋ1/<sup>泰县</sup></small> 弹（棉花），用弓弦使板结的棉花蓬松开来。【集韻】披耕切，音怦。張絃也。<sup>\[如东\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：今朝他家～棉花。<sup>\[泰县\]</sup>｜棉花是才～过啊的。<sup>\[泰州\]</sup>｜～棉花<sup>\[泰兴\]</sup>  
 1. 【[匉𠵹奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_gan_qi.md#匉𠵹奇)】`pon2 gan1 qi2` <small>/pʰɔŋ2 kɑŋ1 t͡ɕʰʝ2/<sup>泰兴</sup></small> 大言吓人。《泰兴方言辞典》作“烹冈奇”。<sup>\[泰兴\]</sup>：你不要用～，我不怕。<sup>\[泰兴\]</sup>  
 1. 【[搒棉匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_qian.md#搒棉匠)】`pon2 min2 qian6` <sup>[东台]</sup> 专门加工棉花（也称弹棉絮）的人。（搒，指用棍棒或竹板打。据《说文·段注》搒，蒲庚切，笞击也，）  
 1. 【[搒棉匠的活计——会弹（谈）不会纺（访）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_min_qian_dii.md#搒棉匠的活计——会弹（谈）不会纺（访）)】`pon2 min2 qian6 dii uh8 ji5 huei6 taen2 beh7 huei6 fan3` <sup>[东台]</sup>   
@@ -1096,8 +1096,9 @@
 1. 【[篷子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz_chun.md#篷子船)】`pon2 zz chun2` <small>/pʰoŋ2 t͡sɿ t͡sʰũ2/<sup>兴化</sup>, /pʰɔŋ2 t͡sɿ t͡sʰʊ̃2/<sup>如皋</sup></small> ① 帆船。船家忌“翻”，改称“篷子”。<sup>\[如皋\]</sup> ② 舱面圈着芦席或竹席的船。<sup>\[兴化\]</sup>  
 1. 【[蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#蓬)】`pon2` <sup>[泰州]</sup> （头发）松乱（*髼）：～头  
 1. 【[蓬情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qien.md#蓬情)】`pon2 qien2` <sup>[如东]</sup> 热情：这个姑娘～。  
-1. 【[蓬松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_son.md#蓬松)】`pon2 son1` <sup>[如东]</sup> 虚松：这块田的泥土～。  
+1. 【[蓬松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_son.md#蓬松)】`pon2 son1` <small>/pʰɔŋ2 sɔŋ1/<sup>泰兴</sup></small> ① 虚松。<sup>\[如东\]</sup>：这块田的泥土～。<sup>\[如东\]</sup> ② 干松、杂乱松散，毫无水分。<sup>\[泰兴\]</sup>  
 1. 【[蓬头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu.md#蓬头)】`pon2 teu2` <sup>[如东]</sup> ① 头发蓬松散乱。铁钉钉头被压粗了，不好再向里进：钉儿～。 ② 比喻事情已经说死，不好改变了：已经～啊。  
+1. 【[蓬头野人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_ia_ren.md#蓬头野人)】`pon2 teu2 ia3 ren2` <small>/pʰɔŋ2 tʰəɪ2 iɑ3 ɻəŋ2/<sup>泰兴</sup></small> 谓头发散乱如飞蓬，貌似野人。形容人外貌不整。<sup>\[泰兴\]</sup>  
 1. 【[蓬头拉稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_la_xi.md#蓬头拉稀)】`pon2 teu2 la1 xi1` <sup>[泰州]</sup> 头发散乱而稀疏的样子：你也把你的头梳梳好，成天～的，太不装形式唻。  
 1. 【[蓬头剌稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_laeh_xi.md#蓬头剌稀)】`pon2 teu2 laeh8 xi1` <sup>[兴化]</sup> 形容头发蓬乱：她成天～的。｜只见她～的，像才起来的样子。  
 1. 【[蓬头<sub>儿</sub>鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_r_ji.md#蓬头<sub>儿</sub>鸡)】`pon2 teu2 r ji1` <sup>[如东]</sup> 头上有一束冠毛的鸡，叫做蓬头儿鸡。  
@@ -1137,6 +1138,7 @@
 1. 【[碰鼻子转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pieh_zz_zhun.md#碰鼻子转弯)】`pon5 pieh8 zz zhun3 vaen1` <sup>[兴化]</sup> ① 遇阻拐弯：一直朝东走，～就到他家。 ② 碰钉子回头：你劝他不听，他要碰鼻子才转弯哎。  
 1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun` <sup>[东台]</sup> 试一试有没有运气。  
 1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun5` <sup>[泰州]</sup> 在无把握的情况下采取某种措施试试：话不要说咖死啊，你去～，作兴能考上吖㖸。  
+1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun5` <small>/pɔŋ5 pɔŋ5 kʰʊ̃5/<sup>泰兴</sup></small> 试试看。<sup>\[泰兴\]</sup>  
 1. 【[碰碰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r.md#碰碰<sub>儿</sub>)】`pon5 pon5 r` <small>/pʰɔŋ5 pʰɔ˞5/<sup>如皋</sup></small> ① 无规律、不定准。<sup>\[如皋\]</sup> ② 指行动不定的人<sup>\[如皋\]</sup>：他是个～，难寻。<sup>\[如皋\]</sup> ③ 也许。<sup>\[如东\]</sup>：～会成功。耷子和的一种进牌方式。两张相同花色的牌，吃进另一张相同花色的牌，叫做碰碰儿。<sup>\[如东\]</sup>  
 1. 【[碰碰<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r_zhan.md#碰碰<sub>儿</sub>账)】`pon5 pon5 r zhan5` <sup>[如东]</sup> 也许有机会：这次下去，～会成功的。  
 1. 【[碰巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qio.md#碰巧)】`pon5 qio3` <sup>[如东]</sup> 偶然遇上的机会：～，钱包捱我拈到啊。  
@@ -1376,24 +1378,26 @@
 1. 【[菩萨鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_saeh_y.md#菩萨鱼)】`pv2 saeh7 y2` <sup>[如东]</sup> 攀鲈科动物歧尾斗鱼，体型极为侧扁，略似纺锤形。  
 1. 【[葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_to.md#葡萄)】`pv2 to2` <sup>[如东]</sup> 葡萄科植物葡萄，高大缠绕藤本。  
 1. 【[蒲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#蒲)】`pv2` <sup>[东台]</sup> ① 菖蒲：～剑。端午节民间有插艾草和菖蒲的风俗。 ② 蒲草。可做蒲包。  
-1. 【[蒲包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo.md#蒲包)】`pv2 bo1` <small>/pʰu2 pɔ1/<sup>如皋</sup></small> ① 蒲叶编成的大小不等的包，作包裹用。<sup>\[如皋\]</sup> ② 用香蒲叶编成的草包，通常用于包装水产品、打石灰印的洋灰粉，或其它杂物。<sup>\[东台\]</sup>  
+1. 【[蒲包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo.md#蒲包)】`pv2 bo1` <small>/pʰu2 pɔ1/<sup>如皋</sup>, /pʰu2 pɔ1/<sup>泰兴</sup></small> ① 蒲叶编成的大小不等的包，作包裹用。<sup>\[如皋\]</sup> ② 用香蒲叶编成的草包，通常用于包装水产品、打石灰印的洋灰粉，或其它杂物。<sup>\[东台\]</sup> ③ 用蒲草编成的装东西的用具。<sup>\[泰兴\]</sup>  
 1. 【[蒲包干<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo_gun_r.md#蒲包干<sub>儿</sub>)】`pv2 bo1 gun1 r` <small>/pʰu2 pɔ1 kũ1 ɚ/<sup>兴化</sup>, /pʰu2 pɔ1 kʊ˞1/<sup>如皋</sup></small> ① 一种用小蒲包灌豆腐脑儿榨成圆饼后油炸的豆腐。<sup>\[如皋\]</sup> ② 豆制品，用点过卤的豆浆在圆筒形蒲包中压成，有细密的织纹，比豆腐略老，可凉拌，也可烧菜。<sup>\[兴化\]</sup>  
 1. 【[蒲包嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo_jy.md#蒲包嘴)】`pv2 bo1 jy3` <sup>[如皋]</sup> 形容嘴大，满嘴吞，一副贪婪相。  
 1. 【[蒲包里的钉子——个个想出头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo_lii_dii.md#蒲包里的钉子——个个想出头)】`pv2 bo1 lii dii dien1 zz gu5 gu5 xian3 chueh7 teu2` <sup>[东台]</sup>   
-1. 【[蒲包嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo_zuei.md#蒲包嘴)】`pv2 bo1 zuei3` <sup>[兴化]</sup> ① 大而阔的口形。 ② 善啖的人：他这张～吃起来厉害哩！  
+1. 【[蒲包嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_bo_zuei.md#蒲包嘴)】`pv2 bo1 zuei3` <small>/pʰu2 pɔ1 t͡suəi3/<sup>兴化</sup>, /pʰu2 pɔ1 t͡suəɪ3/<sup>泰兴</sup></small> ① 大而阔的口形。<sup>\[兴化\]</sup> ② 善啖的人<sup>\[兴化\]</sup>：他这张～吃起来厉害哩！<sup>\[兴化\]</sup> ③ 谓嘴大而宽厚。<sup>\[泰兴\]</sup>  
+1. 【[蒲草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_co.md#蒲草)】`pv2 co3` <small>/pʰu2 t͡sʰɔ3/<sup>泰兴</sup></small> 生于水边的草，叶片可编蒲包、蒲席。<sup>\[泰兴\]</sup>  
 1. 【[蒲公英](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_gon_ien.md#蒲公英)】`pv2 gon1 ien1` <sup>[如东]</sup> 菊科植物蒲公英，又名水山药，多年生草本。  
-1. 【[蒲鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_hae.md#蒲鞋)】`pv2 hae2` <small>/pʰu2 xɛ2/<sup>兴化</sup>, /pʰu2 xɛ2/<sup>如皋</sup></small> ① 蒲叶编成的矮帮鞋。多产于姜堰。<sup>\[如皋\]</sup> ② 用旱蒲叶子编织的草鞋，有帮。穿着轻便、透气、扒滑。<sup>\[如东\]</sup> ③ 旧时农村用蒲叶、棉絮等编织的鞋履，轻松柔软，但不耐穿。<sup>\[东台\]</sup> ④ 用蒲草编织的鞋。<sup>\[兴化\]</sup>  
+1. 【[蒲鞋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_hae.md#蒲鞋)】`pv2 hae2` <small>/pʰu2 xɛ2/<sup>兴化</sup>, /pʰu2 xɛ2/<sup>如皋</sup>, /pʰu2 xɛ2/<sup>泰兴</sup></small> ① 蒲叶编成的矮帮鞋。多产于姜堰。<sup>\[如皋\]</sup> ② 用旱蒲叶子编织的草鞋，有帮。穿着轻便、透气、扒滑。<sup>\[如东\]</sup> ③ 旧时农村用蒲叶、棉絮等编织的鞋履，轻松柔软，但不耐穿。<sup>\[东台\]</sup> ④ 用蒲草编织的鞋。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
 1. 【[蒲黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_huan.md#蒲黄)】`pv2 huan2` <sup>[如东]</sup> 香蒲科植物长苞香蒲花粉。  
 1. 【[蒲棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_pan.md#蒲棒)】`pv2 pan6` <sup>[如东]</sup> 香蒲科植物长苞香蒲果穗。  
+1. 【[蒲棒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_pan_teu.md#蒲棒头)】`pv2 pan6 teu` <small>/pʰu2 pʰɑŋ1 tʰəɪ/<sup>泰兴</sup></small> 蒲草；亦指蒲草的花果。<sup>\[泰兴\]</sup>  
 1. 【[蒲棒头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_pan_teu_r.md#蒲棒头<sub>儿</sub>)】`pv2 pan6 teu r` <sup>[如皋]</sup> 蒲的穗状花序。旧时点燃熏蚊，又作火绒绳，供击石取火用。  
 1. 【[蒲荠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qi.md#蒲荠)】`pv2 qi2` <sup>[兴化]</sup> 荸荠。“菩荠”。  
-1. 【[蒲席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#蒲席)】`pv2 qieh8` <small>/pʰu2 t͡ɕʰiəʔ8/<sup>兴化</sup>, /pʰu2 t͡ɕʰiəʔ8/<sup>如皋</sup></small> ① 蒲叶编成的席，坐垫用。<sup>\[如皋\]</sup> ② 用香蒲叶编织的席子。<sup>\[东台\]</sup> ③ 用蒲叶编成的可铺在床上御寒的片状物。<sup>\[兴化\]</sup>  
+1. 【[蒲席](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qieh.md#蒲席)】`pv2 qieh8` <small>/pʰu2 t͡ɕʰiəʔ8/<sup>兴化</sup>, /pʰu2 t͡ɕʰiəʔ8/<sup>如皋</sup>, /pʰu2 t͡ɕʰiʔ8/<sup>泰兴</sup></small> ① 蒲叶编成的席，坐垫用。<sup>\[如皋\]</sup> ② 用香蒲叶编织的席子。<sup>\[东台\]</sup> ③ 用蒲叶编成的可铺在床上御寒的片状物。<sup>\[兴化\]</sup> ④ 用蒲草编织的席子。<sup>\[泰兴\]</sup>  
 1. 【[蒲锹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio.md#蒲锹)】`pv2 qio1` ① 农具。铁制，锹身长，扇面呈弧形，似蒲叶。有柄。用于挖泥。<sup>\[如东\]</sup> ② 农具。像蒲叶一样长长的铁锹。也称“划锹”。<sup>\[东台\]</sup>  
 1. 【[蒲锹头子饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qio_teu_zz.md#蒲锹头子饼)】`pv2 qio1 teu2 zz bien3` <sup>[东台]</sup> 旧时东台夏季的一种传统面食。用剩粥自然发酵后加大麦或玉米粉调和，做成类似蒲锹形状的面饼。  
 1. 【[蒲芹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qyen.md#蒲芹)】`pv2 qyen` 芹菜  
 1. 【[蒲芹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_qyen.md#蒲芹)】`pv2 qyen2` <sup>[如皋]</sup> 芹菜。有水芹、早芹两种，早芹香气较浓，又名“香芹”，亦称“药芹”，有药用价值。  
 1. 【[蒲蒻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_rah.md#蒲蒻)】`pv2 rah8` <sup>[如东]</sup> 昋蒲科植物长苞香蒲根茎。  
-1. 【[蒲扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_shin.md#蒲扇)】`pv2 shin5` <small>/pʰu2 sĩ5/<sup>如皋</sup></small> ① 用蒲叶编成的扇子。<sup>\[如皋\]</sup> ② 棕榈叶制作的扇子。也称芭蕉扇。<sup>\[如东\]</sup> ③ 用香蒲叶编织的扇子。<sup>\[东台\]</sup>  
+1. 【[蒲扇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_shin.md#蒲扇)】`pv2 shin5` <small>/pʰu2 sĩ5/<sup>如皋</sup>, /pʰu2 ɕĩ5/<sup>泰兴</sup></small> ① 用蒲叶编成的扇子。<sup>\[如皋\]</sup> ② 棕榈叶制作的扇子。也称芭蕉扇。<sup>\[如东\]</sup> ③ 用香蒲叶编织的扇子。<sup>\[东台\]</sup> ④ 用蒲葵叶编成的扇子。<sup>\[泰兴\]</sup>  
 1. 【[蒲鳀鲨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_ti_sha.md#蒲鳀鲨)】`pv2 ti2 sha1` <sup>[如东]</sup> 魟科动物赤魟，也称海鳐鱼、鲦鱼。  
 1. 【[蒲团](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_tun.md#蒲团)】`pv2 tun2` <sup>[东台]</sup> 用香蒲叶、稻草等材料编成的圆形垫子，历来为寺院和尚、尼姑、道士打坐清修的坐具。  
 1. 【[□子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_zz.md#□子)】`pv3 zz` 未加工成器的长方形木方\[泰州：（泰州词典作樸子）\]：这几个～是留啊打三门橱用的。<sup>\[泰州\]</sup>  

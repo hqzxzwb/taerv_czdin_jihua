@@ -652,7 +652,7 @@
 1. 【[喉头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_teu.md#喉头)】`heu2 teu2` <sup>[如东]</sup> 介于咽喉和气管之间的部分，由甲状软骨、环状软骨、会厌软骨等构成。喉头是呼吸器官的一部分，喉内有声带，它是发音器官。  
 1. 【[喉下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_xia.md#喉下)】`heu2 xia6` <sup>[泰县]</sup> 言下之意：～的话，我就不能来啊。  
 1. 【[喉下的话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_xia_dii_hua.md#喉下的话)】`heu2 xia6 dii hua6` <sup>[兴化]</sup> 想说而没有出口的话：他～，这块不是说理的地方，回头再说。  
-1. 【[猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#猴)】`heu2` <small>/xɤ2/<sup>兴化</sup>, /xəɪ2/<sup>泰兴</sup></small> ① 精明、机灵<sup>\[兴化\]</sup>：这小伙～唻，十几岁一个人到上海寻爸爸。<sup>\[兴化\]</sup>｜他太～，那吖高的大树一爬就上去啊。<sup>\[兴化\]</sup> ② 急迫、匆忙<sup>\[兴化\]</sup>：覅～，时间早𪠸！<sup>\[兴化\]</sup> ③ 曲屈不伸、棲息<sup>\[兴化\]</sup>：（因遭水灾）居民叫苦不迭，大家搭起板架，～在上面，大有上古构木为巢的景况。（《广陵潮》四八）<sup>\[兴化\]</sup> ④ 像猴那样蹲在（高处）<sup>\[泰州\]</sup>：他成天～啊在床上看电视。<sup>\[泰州\]</sup> ⑤ 停留在某处<sup>\[泰州\]</sup>：你这样子老～啊在家里要憋出病的，哪怕出去旅游散散心也是好的。<sup>\[泰州\]</sup> ⑥ 向上爬，攀登。<sup>\[泰兴\]</sup>：～上树。<sup>\[泰兴\]</sup> ⑦ 突起；凸起。<sup>\[泰兴\]</sup>  
+1. 【[猴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu.md#猴)】`heu2` <small>/xɤ2/<sup>兴化</sup>, /xəɪ2/<sup>泰兴</sup></small> ① 精明、机灵<sup>\[兴化\]</sup>：这小伙～唻，十几岁一个人到上海寻爸爸。<sup>\[兴化\]</sup>｜他太～，那吖高的大树一爬就上去啊。<sup>\[兴化\]</sup> ② 急迫、匆忙<sup>\[兴化\]</sup>：覅～，时间早𪠸！<sup>\[兴化\]</sup> ③ 曲屈不伸、棲息<sup>\[兴化\]</sup>：（因遭水灾）居民叫苦不迭，大家搭起板架，～在上面，大有上古构木为巢的景况。（《广陵潮》四八）<sup>\[兴化\]</sup> ④ 像猴那样蹲在（高处）<sup>\[泰州\]</sup>：他成天～啊在床上看电视。<sup>\[泰州\]</sup> ⑤ 停留在某处<sup>\[泰州\]</sup>：你这样子老～啊在家里要憋出病的，哪怕出去旅游散散心也是好的。<sup>\[泰州\]</sup> ⑥ 向上爬，攀登。<sup>\[泰兴\]</sup>：～上树。<sup>\[泰兴\]</sup>｜他一～就上去了。<sup>\[泰兴\]</sup> ⑦ 突起；凸起。<sup>\[泰兴\]</sup>  
 1. 【[猴把戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_ba_xi.md#猴把戏)】`heu2 ba3 xi` <small>/xəɪ2 pɑ3 ɕʝ/<sup>泰兴</sup></small> 用猴子耍的把戏。<sup>\[泰兴\]</sup>  
 1. 【[猴猴心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_heu_xien.md#猴猴心)】`heu2 heu2 xien1` <sup>[东台]</sup> 干某事的兴趣突然上来了：李厂长要上这个项目，起啊～，拦都拦不住。  
 1. 【[猴慌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/heu_huan.md#猴慌)】`heu2 huan1` <sup>[兴化]</sup> 形容忙乱、不沉着：你覅～，开车子还有阵儿唻！  
@@ -1583,7 +1583,7 @@
 1. 【[搳嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_jy_ba_r.md#搳嘴巴<sub>儿</sub>)】`huaeh7 jy3 ba1 r` <sup>[如皋]</sup> 打耳光。  
 1. 【[搳泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_ni.md#搳泥)】`huaeh7 ni2` <sup>[如皋]</sup> 用锨之类将泥抓起：他在船上用搳锹～，把罱的河泥搳到半坎子上。  
 1. 【[搳巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qio.md#搳巧)】`huaeh7 qio3` <small>/xuæʔ7 t͡ɕʰiɔ3/<sup>兴化</sup>, /xueʔ7 t͡ɕʰiɔ3/<sup>如皋</sup></small> 说话取巧以捉弄别人、讨便宜<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：你家婆婆的外孙女儿把啊我家舅舅的外甥（你是我的老婆）。<sup>\[如皋\]</sup>｜他喜欢～，最好离他远一点。<sup>\[兴化\]</sup>  
-1. 【[搳拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qiun.md#搳拳)】`huaeh7 qiun2` <small>/xueʔ7 t͡ɕʰyʊ̃2/<sup>如皋</sup></small> 划拳。<sup>\[如皋\]</sup>\[东台：饮酒时双方同时伸出手指说一个数，谁说的数目跟双方所伸手指的总数相符，就算谁赢。输者喝酒。\]  
+1. 【[搳拳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_qiun.md#搳拳)】`huaeh7 qiun2` <small>/xueʔ7 t͡ɕʰyʊ̃2/<sup>如皋</sup>, /xuæʔ7 t͡ɕʰyʊ̃2/<sup>泰兴</sup></small> 划拳。<sup>\[如皋\]</sup>\[泰兴：通俗的酒令。两人同时相对出拳，各猜所伸手指的合计数，猜对者为胜。\]\[东台：饮酒时双方同时伸出手指说一个数，谁说的数目跟双方所伸手指的总数相符，就算谁赢。输者喝酒。\]  
 1. 【[搳手膀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_sheu_ban_zz.md#搳手膀子)】`huaeh7 sheu3 ban3 zz` <sup>[如皋]</sup> 甩手膀子。  
 1. 【[搳水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_shuei.md#搳水)】`huaeh7 shuei3` <sup>[如皋]</sup> ① 把积水掀排掉。 ② 使力甩去水。 ③ 用离心力脱水。  
 1. 【[搳水机](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_shuei_ji.md#搳水机)】`huaeh7 shuei3 ji1` <sup>[如皋]</sup> 脱水机。  
@@ -1591,6 +1591,7 @@
 1. 【[搳消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_xio.md#搳消)】`huaeh7 xio1` <sup>[东台]</sup> 抵消；扯平。  
 1. 【[搳账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zhan.md#搳账)】`huaeh7 zhan5` <sup>[东台]</sup> 债权债务相互抵消：他给我的货，价值几乎等于欠我的钱，这吖一来可以～啊。  
 1. 【[搳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳ʲ)】`huaeh7` <sup>[如皋]</sup> ① 挥。 ② 吃：～了两碗。  
+1. 【[搳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳ʲ)】`huaeh7` <small>/xuæʔ7/<sup>泰兴</sup></small> 以掌击。<sup>\[泰兴\]</sup>：～他个耳刮子。<sup>\[泰兴\]</sup>  
 1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <small>/xuæʔ7/<sup>兴化</sup>, /xueʔ7/<sup>如皋</sup></small> ① 撕裂、割裂<sup>\[如皋\]</sup>：手上捱树枝儿～咖个口子，只冒血。<sup>\[如皋\]</sup> ② 开裂<sup>\[如东\]</sup><sup>\[兴化\]</sup>：这个布洞剪～掉啊。<sup>\[如东\]</sup>｜褂子～开来啊。<sup>\[兴化\]</sup>｜～口子<sup>\[兴化\]</sup>｜三岔～子。<sup>\[兴化\]</sup>  
 1. 【[豁边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#豁边)】`huaeh7 bin1` <small>/xuæʔ7 piɪ̃1/<sup>泰县</sup></small> ① 事情超出了原来的范围和程度。<sup>\[如东\]</sup>：这件事～吖，要出问题。<sup>\[如东\]</sup> ② 中途变卦<sup>\[泰县\]</sup>：本来说好他去的，现在～吖。<sup>\[泰县\]</sup>  
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
@@ -1852,7 +1853,12 @@
 1. 【[晃麻油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_ma_ieu.md#晃麻油)】`huan5 ma2 ieu2` <sup>[兴化]</sup> 用装有长柄的空心铜锤，在研磨过的熟芝麻浆上不停地压，让麻油渗出，油渣沉于缸底。  
 1. 【[晃荡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huan_tan.md#晃荡)】`huan5 tan6` <sup>[如东]</sup> 闲逛，游荡。  
 1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>泰兴</sup></small> 击、打<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～他两家伙；～他嘴巴子。<sup>\[兴化\]</sup>｜～他个vah7 jien1<sup>\[泰兴\]</sup>  
-1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <sup>[如皋]</sup> 朽：柱棵脚儿～掉啊。  
+1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>如皋</sup>, /xuəʔ7/<sup>泰兴</sup></small> ① 朽<sup>\[如皋\]</sup>：柱棵脚儿～掉啊。<sup>\[如皋\]</sup> ② 因日久受潮而朽坏，而表面无大变化。比喻人品质低劣。<sup>\[泰兴\]</sup> ③ 腐朽\[如东：竹、木等物纤维组织腐烂变质。\]\[兴化：质地坏朽，而外形无明显变化\]：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ④ 品质、素质、能力差<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：成绩～、质料～。<sup>\[如皋\]</sup>｜这种布～。<sup>\[如东\]</sup>｜～胚料<sup>\[兴化\]</sup>｜～货。<sup>\[兴化\]</sup>｜他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup>  
+1. 【[㱮大鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大鲞)】`hueh7 da5 xian3` <sup>[如皋]</sup> 见“㱮货”。  
+1. 【[㱮大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大响)】`hueh7 da6 xian3` <sup>[东台]</sup> （詈语）指质量很差的东西：我去年买的沙发是个～，已经破得不像样吖。  
+1. 【[㱮大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大响)】`hueh7 da6 xian3` <small>/xuəʔ7 tɑ1 ɕiɑŋ3/<sup>泰兴</sup></small> 骂人语。坏东西。<sup>\[泰兴\]</sup>  
+1. 【[㱮货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#㱮货)】`hueh7 hu5` <small>/xuəʔ7 xʊ5/<sup>如皋</sup>, /xuəʔ7 xɤɯ5/<sup>泰兴</sup></small> ① 詈语，指差劲儿的人。<sup>\[如皋\]</sup> ② （詈语）指质量差的物品，也指素质差的人（多指女性）。<sup>\[东台\]</sup> ③ 烂货，比喻作风不正派的女性。<sup>\[泰州\]</sup> ④ 骂人语。多指女人作风不正派。<sup>\[泰兴\]</sup>  
+1. 【[㱮坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pei.md#㱮坯)】`hueh7 pei1` <small>/xuəʔ7 pʰəɪ1/<sup>泰兴</sup></small> 骂人语。坏东西。<sup>\[泰兴\]</sup>  
 1. 【[䶤𪘼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_laeh.md#䶤𪘼)】`hueh7 laeh` <sup>[如皋]</sup> 象声词：啮物声、咀嚼声。  
 1. 【[寣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#寣)】`hueh7` <small>/xuəʔ7/<sup>如皋</sup></small> 小睡<sup>\[如皋\]</sup>：吃咖饭，隑啊沙发上～着咖刻儿。<sup>\[如皋\]</sup>  
 1. 【[寣着咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_zhah_ga.md#寣着咖)】`hueh7 zhah7 ga` <sup>[东台]</sup> 刚刚迷迷糊糊地入睡：我才～，电话一响，赶快起身。  
@@ -1860,15 +1866,12 @@
 1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah` <small>/xuəʔ7 liaʔ/<sup>兴化</sup>, /xuəʔ7 liaʔ/<sup>如皋</sup></small> ① 得罪，伤害<sup>\[东台\]</sup>：我不曾～你，你甚的门儿偏要跟我过不去？<sup>\[东台\]</sup> ② 得罪人<sup>\[如皋\]</sup>：他～我的，我不曾～他。<sup>\[如皋\]</sup> ③ 轻视、侮慢<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你嘴里不要～人。<sup>\[兴化\]</sup>｜“……哥哥何不去见见他，挂个名儿，在府里也体面些，外人也不敢～你。”（《梼杌闲评》九）<sup>\[兴化\]</sup>｜我俫不曾有哪个～咖他啊。<sup>\[泰州\]</sup>  
 1. 【[忽略人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah_ren.md#忽略人)】`hueh7 liah ren2` <sup>[如皋]</sup> 得罪人或引起误会。  
 1. 【[忽略](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_liah.md#忽略)】`hueh7 liah8` <sup>[如东]</sup> 没有注意：这件事我～咖，朆做。  
-1. 【[惚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#惚)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>如皋</sup></small> ① 腐朽\[如东：竹、木等物纤维组织腐烂变质。\]\[兴化：质地坏朽，而外形无明显变化\]：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ② 品质、素质、能力差<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：成绩～、质料～。<sup>\[如皋\]</sup>｜这种布～。<sup>\[如东\]</sup>｜～胚料<sup>\[兴化\]</sup>｜～货。<sup>\[兴化\]</sup>｜他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup> ③ 惊恐<sup>\[兴化\]</sup>：心里吓得～里～秃的。<sup>\[兴化\]</sup>  
-1. 【[惚大鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#惚大鲞)】`hueh7 da5 xian3` <sup>[如皋]</sup> 见“惚货”。  
-1. 【[惚大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#惚大响)】`hueh7 da6 xian3` <sup>[东台]</sup> （詈语）指质量很差的东西：我去年买的沙发是个～，已经破得不像样吖。  
+1. 【[惚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#惚)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup></small> 惊恐<sup>\[兴化\]</sup>：心里吓得～里～秃的。<sup>\[兴化\]</sup>  
 1. 【[惚得加几](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh_jia_ji.md#惚得加几)】`hueh7 deh7 jia1 ji` <sup>[东台]</sup> 非常坏，或者素质太差的意思：那个骗子真～｜那个伢儿整天上网吧，成绩～。（见“加几”）  
 1. 【[惚得响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_deh_xian.md#惚得响)】`hueh7 deh7 xian3` <sup>[如东]</sup> ① 形容材料没有什么作用：这种木材～。 ② 形容人没有什么才能：王二～。  
 1. 【[惚灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_den.md#惚灯)】`hueh7 den1` ① 指素质差的人。<sup>\[东台\]</sup> ② 表面道貌岸然内里品行恶劣的人<sup>\[泰州\]</sup>：他是出咖名的～，你最好让他远吖点儿。<sup>\[泰州\]</sup>  
 1. 【[惚咖没得钩墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ga_meh_deh.md#惚咖没得钩墙)】`hueh7 ga meh8 deh7 geu1 qian` <sup>[东台]</sup> 形容坏到极点。  
 1. 【[惚咖没得影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_ga_meh_deh.md#惚咖没得影子)】`hueh7 ga meh8 deh7 ien3 zz` <sup>[东台]</sup> 同“惚咖没得钩墙”。  
-1. 【[惚货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#惚货)】`hueh7 hu5` <small>/xuəʔ7 xʊ5/<sup>如皋</sup></small> ① 詈语，指差劲儿的人。<sup>\[如皋\]</sup> ② （詈语）指质量差的物品，也指素质差的人（多指女性）。<sup>\[东台\]</sup> ③ 烂货，比喻作风不正派的女性。<sup>\[泰州\]</sup>  
 1. 【[惚名](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_mien.md#惚名)】`hueh7 mien2` <small>/xuəʔ7 miɪ̃2/<sup>兴化</sup></small> 绰号<sup>\[兴化\]</sup>\[泰州：贬义绰号\]：他喜欢给人起～。<sup>\[兴化\]</sup>｜谚曰：人无～不发。<sup>\[兴化\]</sup>  
 1. 【[惚棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pan.md#惚棒)】`hueh7 pan6` ① 詈语，指人不务正业、不求上进 ② 有偷鸡摸狗、坑蒙拐骗之类不端行为的男性，詈词。<sup>\[泰州\]</sup>  
 1. 【[惚坯料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pi_lio.md#惚坯料)】`hueh7 pi1 lio6` ① 坏习惯；不良习性。（参见“坏癖”）<sup>\[东台\]</sup> ② 詈词，坏到极点的毛坯，比喻从小就没有养成好的行为习惯<sup>\[泰州\]</sup>：你要改掉你这个开口就在臊子的～。<sup>\[泰州\]</sup>｜他有个起床之前先在床上吃支烟的～。<sup>\[泰州\]</sup>  

@@ -245,7 +245,7 @@
 1. 【[夹肢窝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zhr_u_r.md#夹肢窝<sub>儿</sub>)】`gaeh7 zhr1 u1 r` 腋窝  
 1. 【[夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh_zz.md#夹子)】`gaeh7 zz` <small>/kæʔ7 t͡sɿ/<sup>泰兴</sup></small> 夹物的器具。<sup>\[泰兴\]</sup>：老鼠～<sup>\[泰兴\]</sup>  
 1. 【[荚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaeh.md#荚)】`gaeh7` <sup>[如皋]</sup> 量词：一～玉米、一～棉花。  
-1. 【[尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_ga.md#尴尬)】`gaen1 ga5` <small>/kɛ̃1 ka5/<sup>兴化</sup></small> ① 此词源于吴语，现在转为普通话。意为困窘、难堪。<sup>\[东台\]</sup> ② 左右为难<sup>\[兴化\]</sup>：你家夫妻吵架，倒让来客～！<sup>\[兴化\]</sup> ③ 神色不自然<sup>\[兴化\]</sup>：他一言，你一语，把小胡说得蛮～的。<sup>\[兴化\]</sup> ④ 可疑、蹊跷<sup>\[兴化\]</sup>：这个人来得～。<sup>\[兴化\]</sup>  
+1. 【[尴尬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_ga.md#尴尬)】`gaen1 ga5` <small>/kɛ̃1 ka5/<sup>兴化</sup>, /kɛ̃1 kɑ5/<sup>泰兴</sup></small> ① 此词源于吴语，现在转为普通话。意为困窘、难堪。<sup>\[东台\]</sup> ② 左右为难<sup>\[兴化\]</sup>：你家夫妻吵架，倒让来客～！<sup>\[兴化\]</sup> ③ 神色不自然<sup>\[兴化\]</sup>：他一言，你一语，把小胡说得蛮～的。<sup>\[兴化\]</sup> ④ 可疑、蹊跷<sup>\[兴化\]</sup>：这个人来得～。<sup>\[兴化\]</sup> ⑤ 处境困难或事情棘手，难以应付。<sup>\[泰兴\]</sup>  
 1. 【[间半](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_bun.md#间半)】`gaen1 bun5` <sup>[兴化]</sup> 独眼的隐语。  
 1. 【[间栈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_chaen.md#间栈)】`gaen1 chaen6` <sup>[兴化]</sup> 把房间隔开的简易墙壁：一个大房间用三合板做～，隔成里外两间。  
 1. 【[间脚<sub>儿</sub>跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gaen_jiah_r_po.md#间脚<sub>儿</sub>跑)】`gaen1 jiah7 r po2` <sup>[东台]</sup> ① 本指走路有意绕过某些物体。 ② ［喻］叙述事情有意回避或隐瞒某些环节。  
@@ -885,8 +885,9 @@
 1. 【[搞七捻三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieh_nin_saen.md#搞七捻三)】`go3 qieh7 nin3 saen1` <sup>[泰州]</sup> 纠缠在一起：这小伙没得牢事，成天同这几个马马儿～的，也不怕人家说闲话。  
 1. 【[搞恘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieu.md#搞恘)】`go3 qieu` <sup>[如东]</sup> 搬弄是非，制造矛盾。  
 1. 【[搞恘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_qieu.md#搞恘)】`go3 qieu1` 不安分，胡来，乱搞。  
+1. 【[搞三缠四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_saen_chin_sz.md#搞三缠四)】`go3 saen1 chin6 sz5` <small>/kɔ3 ɕiɛ̃1 t͡ɕʰĩ1 sɿ5/<sup>泰兴</sup></small> 乱七八糟；乱扯乱拉。<sup>\[泰兴\]</sup>  
 1. 【[搞事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shr.md#搞事)】`go3 shr6` <sup>[如皋]</sup> 搞事情。  
-1. 【[搞骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_so.md#搞骚)】`go3 so1` <small>/kɔ3 sɔ1/<sup>泰县</sup></small> ① 进行轻佻的争斗。<sup>\[如东\]</sup> ② 故意骚扰，找麻烦，闹纠纷。<sup>\[东台\]</sup> ③ 争斗<sup>\[泰县\]</sup>：伢儿在下～。<sup>\[泰县\]</sup>  
+1. 【[搞骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_so.md#搞骚)】`go3 so1` <small>/kɔ3 sɔ1/<sup>泰兴</sup>, /kɔ3 sɔ1/<sup>泰县</sup></small> ① 进行轻佻的争斗。<sup>\[如东\]</sup> ② 故意骚扰，找麻烦，闹纠纷。<sup>\[东台\]</sup> ③ 争斗<sup>\[泰县\]</sup>：伢儿在下～。<sup>\[泰县\]</sup> ④ 谓相互闹矛盾，不安定。<sup>\[泰兴\]</sup>  
 1. 【[搞血](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xiuh.md#搞血)】`go3 xiuh7` <sup>[如皋]</sup> 胡说八道。  
 1. 【[杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zeh.md#杲昃)】`go3 zeh` <sup>[东台]</sup> “东西”的意思。杲，日出东方，代表东；昃，日落西方，代表西：你今吖买些甚的～？｜那家伙不是个～。  
 1. 【[杲昃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zeh.md#杲昃)】`go3 zeh7, go3 zz` 东西，物事：你在做甚的～。  
@@ -2134,14 +2135,17 @@
 1. 【[牯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zz.md#牯子)】`gv3 zz` <sup>[兴化]</sup> 公牛。  
 1. 【[股子香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zz_xian.md#股子香)】`gv3 zz xian1` <sup>[兴化]</sup> 用色纸条束成的神香。  
 1. 【[鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv.md#鼓)】`gv3` <small>/ku3/<sup>泰县</sup></small> ① 风吹<sup>\[泰县\]</sup>：大风把晒啊天井里的衣裳都～掉啊。<sup>\[泰县\]</sup> ② 凸起<sup>\[泰州\]</sup>：包～得这样子，里头装的甚的？<sup>\[泰州\]</sup> ③ 风将物体吹离原地<sup>\[泰州\]</sup>：起大风，家里～得块块是塘灰。<sup>\[泰州\]</sup>  
+1. 【[鼓槌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_chuei_zz.md#鼓槌子)】`gv3 chuei2 zz` <small>/ku3 t͡sʰuəɪ2 t͡sɿ/<sup>泰兴</sup></small> 敲鼓的槌子。<sup>\[泰兴\]</sup>  
 1. 【[鼓鼓拐拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_guae_guae.md#鼓鼓拐拐)】`gv3 gv3 guae3 guae3` <sup>[泰州]</sup> 有一定伸缩性的布袋之类，装满物品后饱满凸出，显得很大的样子：你的袋子里头灌的些甚的东西，～的。  
 1. 【[鼓鼓秾秾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_gv_non_non.md#鼓鼓秾秾)】`gv3 gv3 non2 non2` <sup>[东台]</sup> 饱满：衣裳穿得～。秾，《广韵》“女容切，衣厚貌。”  
 1. 【[鼓见子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_jin_zz.md#鼓见子)】`gv3 jin5 zz` <sup>[泰县]</sup> 鼓棒：这副～漂亮。  
 1. 【[鼓楼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_leu.md#鼓楼)】`gv3 leu2` <sup>[东台]</sup> 位于旧时东台城县署衙门附近，两淮盐运司分司厅东。明崇祯五年（1632年）两淮盐运司东台分司周际明兴建。跨越丁字形街口，砖木结构，上下两层，单翅阁楼。  
+1. 【[鼓楼街](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_leu_gae.md#鼓楼街)】`gv3 leu2 gae1` <small>/ku3 ləɪ2 kɛ1/<sup>泰兴</sup></small> 泰兴城中的大街。旧时曾有设置大鼓的楼，用以击鼓报警或按时击鼓报时，故名。<sup>\[泰兴\]</sup>  
+1. 【[鼓楼街的麻雀<sub>儿</sub>，经过阵中阵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_leu_gae_dii.md#鼓楼街的麻雀<sub>儿</sub>，经过阵中阵)】`gv3 leu2 gae1 dii mah2 jiah r jien1 gu chen6 zhon1 chen6` <small>/ku3 ləɪ2 kɛ1 təɪ mɑʔ2 t͡ɕiɑ˞ t͡ɕiŋ1 kɤɯ t͡sʰəŋ1 t͡sɔŋ1 t͡sʰəŋ1/<sup>泰兴</sup></small> 喻经过多次磨炼摔打，具有丰富的实践经验和应变能力。<sup>\[泰兴\]</sup>  
 1. 【[鼓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_r.md#鼓<sub>儿</sub>)】`gv3 r` <sup>[兴化]</sup> 一种上下略小，中间凸出的鼓形瓷器，有盖，用于盛放食品等：绿瓷～。  
 1. 【[鼓<sub>儿</sub>不响掉过来敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_r_beh_xian.md#鼓<sub>儿</sub>不响掉过来敲)】`gv3 r beh7 xian3 tio6 gu5 lae2 ko1` <sup>[东台]</sup> 这办法不行，就调换另一种办法。  
-1. 【[鼓<sub>儿</sub>书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_r_shv.md#鼓<sub>儿</sub>书)】`gv3 r shv1` <sup>[如皋]</sup> 打鼓点儿说唱的唱本。  
-1. 【[鼓胀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zhan_pien.md#鼓胀病)】`gv3 zhan5 pien6` <sup>[东台]</sup> 亦称“水鼓胀”，中医指由水气、痰血、寄生虫等原因引起的腹部膨胀的疾病。  
+1. 【[鼓<sub>儿</sub>书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_r_shv.md#鼓<sub>儿</sub>书)】`gv3 r shv1` <small>/ku˞3 su1/<sup>如皋</sup>, /ku˞3 su1/<sup>泰兴</sup></small> ① 打鼓点儿说唱的唱本。<sup>\[如皋\]</sup> ② 曲艺名。用小鼓、小锣等击板演唱、演说，是一种简易、喜闻乐见的表演形式。<sup>\[泰兴\]</sup>  
+1. 【[鼓胀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_zhan_pien.md#鼓胀病)】`gv3 zhan5 pien6` <small>/ku3 t͡sɑŋ5 pʰiŋ1/<sup>泰兴</sup></small> ① 亦称“水鼓胀”，中医指由水气、痰血、寄生虫等原因引起的腹部膨胀的疾病。<sup>\[东台\]</sup> ② 中医学病症名。由水、气、瘀血、寄生虫等原因引起的腹部膨胀的病。<sup>\[泰兴\]</sup>  
 1. 【[固属](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_shoh.md#固属)】`gv5 shoh` <small>/ku5 sɔʔ/<sup>兴化</sup>, /ku5 sɔʔ/<sup>泰兴</sup></small> ① 连词，固然<sup>\[兴化\]</sup>：自己开店～好，哪许有这吖多本钱吖？<sup>\[兴化\]</sup>｜小张～不对，但也不能揪住不放。<sup>\[兴化\]</sup> ② 固然是，用于表示承认某个事实，也不否认另外一个事实<sup>\[泰州\]</sup>：他动手打你～他不对，当时你也不派骂他，都要注意点儿。<sup>\[泰州\]</sup> ③ 固然<sup>\[泰兴\]</sup>  
 1. 【[故典<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_din_r.md#故典<sub>儿</sub>)】`gv5 din3 r` <sup>[兴化]</sup> 故事：他肚里～不少。  
 1. 【[故套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gv_to.md#故套)】`gv5 to5` <small>/ku5 tʰɔ5/<sup>泰兴</sup></small> 陈规；俗套。<sup>\[泰兴\]</sup>  

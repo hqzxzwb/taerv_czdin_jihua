@@ -697,9 +697,9 @@
 1. 【[想吃没骨枣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qieh_meh_gueh.md#想吃没骨枣<sub>儿</sub>)】`xian3 qieh7 meh8 gueh7 zo3 r` <sup>[东台]</sup> 枣儿总是有骨，即核子，喻指想法不可能实现。  
 1. 【[想吃天鹅肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qieh_tin_ngu.md#想吃天鹅肉)】`xian3 qieh7 tin1 ngu2 roh8` <sup>[如皋]</sup> 想空头，妄想。  
 1. 【[想绝头<sub>儿</sub>主意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_qiuh_teu_r.md#想绝头<sub>儿</sub>主意)】`xian3 qiuh8 teu2 r zhv3 i` <sup>[如皋]</sup> 想刁促的主意治人。  
-1. 【[想天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tin_faeh.md#想天法)】`xian3 tin1 faeh7` <small>/ɕiaŋ3 tʰiɪ̃1 fæʔ7/<sup>兴化</sup></small> 想尽一切办法<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：你放心，你要做生意，我一总帮你筹一点本钱。<sup>\[兴化\]</sup>｜伢儿上学是个大事，你就是～都要帮我这个忙。<sup>\[泰州\]</sup>  
+1. 【[想天法](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_tin_faeh.md#想天法)】`xian3 tin1 faeh7` <small>/ɕiaŋ3 tʰiɪ̃1 fæʔ7/<sup>兴化</sup>, /ɕiɑŋ3 tʰĩ1 fæʔ7/<sup>泰兴</sup></small> 想尽一切办法<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你放心，你要做生意，我一总帮你筹一点本钱。<sup>\[兴化\]</sup>｜伢儿上学是个大事，你就是～都要帮我这个忙。<sup>\[泰州\]</sup>  
 1. 【[想嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_vah.md#想嗀)】`xian3 vah7` <sup>[如皋]</sup> 作呕。见“作嗀”。  
-1. 【[想心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xien_sz.md#想心思)】`xian3 xien1 sz` <small>/ɕiaŋ3 ɕin1 sɿ/<sup>兴化</sup></small> ① 为了一个疑难问题发愁。<sup>\[如东\]</sup> ② 发愁<sup>\[兴化\]</sup>：转眼开学，他为儿子的学费～。<sup>\[兴化\]</sup> ③ 希望达到某种目的<sup>\[兴化\]</sup>：他成天想小王的心思。<sup>\[兴化\]</sup>  
+1. 【[想心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xien_sz.md#想心思)】`xian3 xien1 sz` <small>/ɕiaŋ3 ɕin1 sɿ/<sup>兴化</sup>, /ɕiɑŋ3 ɕiŋ1 sɿ/<sup>泰兴</sup></small> ① 为了一个疑难问题发愁。<sup>\[如东\]</sup> ② 发愁<sup>\[兴化\]</sup>：转眼开学，他为儿子的学费～。<sup>\[兴化\]</sup> ③ 希望达到某种目的<sup>\[兴化\]</sup>：他成天想小王的心思。<sup>\[兴化\]</sup> ④ 考虑问题；思索。<sup>\[泰兴\]</sup>  
 1. 【[想心思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_xien_sz.md#想心思)】`xian3 xien1 sz1` <sup>[泰州]</sup> ① 思考重要的事或为难的事：马上就要到发工资的日子唻，李厂长就要～唻。 ② 希望达到某种目的：听说走外头调啊个科长来，你就不要在想科长的心思唻。 ③ 发愁：听说厂里要他下岗，他这两天坐啊家里～。  
 1. 【[想周年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zheu_nin.md#想周年)】`xian3 zheu1 nin` <sup>[泰州]</sup> 想出折腾人的、令人不解的主意，詈语：晚上值班，本来大家说咖好啊，一个星期一轮蛮好的，不晓得是哪个又～，非要改成一天一轮。  
 1. 【[想周年烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_zheu_nin_sho.md#想周年烧)】`xian3 zheu1 nin sho1` <sup>[如皋]</sup> 想空头，妄想。  
@@ -1908,7 +1908,7 @@
 1. 【[楦饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_bo.md#楦饱)】`xiun5 bo3` 吃饱，食物填满肠胃<sup>\[泰州\]</sup>：你管他菜好菜丑，只要能把肚子～就行。<sup>\[泰州\]</sup>  
 1. 【[楦<sub>儿</sub>派<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_r_pae_r.md#楦<sub>儿</sub>派<sub>儿</sub>)】`xiun5 r pae5 r` <small>/ɕyũ5 ɚ pʰɛ5 ɚ/<sup>兴化</sup></small> 绕着弯儿向人要吃要喝或索取线物<sup>\[兴化\]</sup>：他看中你的东西，～的弄到手才安逸。<sup>\[兴化\]</sup>  
 1. 【[楦头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_teu_zz.md#楦头子)】`xiun5 teu2 zz` <sup>[如皋]</sup> 见“鞋楦子”。  
-1. 【[楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zz.md#楦子)】`xiun5 zz` ① 工具。椭圆形，一般木制，形似人脚，用以为鞋整形。<sup>\[如东\]</sup> ② 制鞋、制帽、补袜所用的模型。<sup>\[东台\]</sup>  
+1. 【[楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_zz.md#楦子)】`xiun5 zz` <small>/ɕyʊ̃5 t͡sɿ/<sup>泰兴</sup></small> ① 工具。椭圆形，一般木制，形似人脚，用以为鞋整形。<sup>\[如东\]</sup> ② 制鞋、制帽、补袜所用的模型。<sup>\[东台\]</sup> ③ 制鞋帽所用的模型，多用木制。<sup>\[泰兴\]</sup>  
 1. 【[渲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#渲)】`xiun5` <sup>[如皋]</sup> 逐渐扩展：皮五同倪四隔壁，他把芦笆障望倪家一边～。  
 1. 【[谖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun.md#谖)】`xiun5` <small>/ɕyũ5/<sup>兴化</sup>, /ɕyʊ̃5/<sup>如皋</sup></small> ① 诱取<sup>\[如皋\]</sup>：儿子～老子的钱用。<sup>\[如皋\]</sup> ② 用巧妙的话试探，或引诱对方吐露真情<sup>\[东台\]</sup>：他真不晓得内情，你～他也没用。<sup>\[东台\]</sup> ③ 绕着弯儿向人索取<sup>\[兴化\]</sup>：～吖吃｜～吖玩。<sup>\[兴化\]</sup>  
 1. 【[谖吖吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiun_nga_qieh.md#谖吖吃)】`xiun5 nga qieh7` <sup>[东台]</sup> 用花言巧语提示对方请自己吃饭：嘴馋的人到处～！  
@@ -1968,7 +1968,7 @@
 1. 【[碎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy.md#碎)】`xy5` <sup>[如皋]</sup> 详细：～账儿。  
 1. 【[碎啊穰吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_a_ran_nga.md#碎啊穰吖)】`xy5 a ran2 nga` <sup>[如皋]</sup> 粉碎了。  
 1. 【[碎啊砟啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_a_zha_a.md#碎啊砟啊)】`xy5 a zha3 a` <sup>[如皋]</sup> 粉碎了。  
-1. 【[碎撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cuh.md#碎撮)】`xy5 cuh7` <sup>[如皋]</sup> 形容细小纷杂：说～话、杲子～。  
+1. 【[碎撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cuh.md#碎撮)】`xy5 cuh7` <small>/ɕy5 t͡sʰʊʔ7/<sup>如皋</sup></small> 形容细小纷杂<sup>\[如皋\]</sup>：说～话、杲子～。<sup>\[如皋\]</sup>  
 1. 【[碎撮话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cuh_hua.md#碎撮话)】`xy5 cuh7 hua6` <sup>[如皋]</sup> 见“屑子话”。  
 1. 【[碎瓷花瓶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz_hua_pien.md#碎瓷花瓶)】`xy5 cz2 hua1 pien2` <sup>[东台]</sup> 实指开片哥窑花瓶，喻指不能碰、惹不得的人。  
 1. 【[碎瓷碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xy_cz_un.md#碎瓷碗)】`xy5 cz2 un3` <sup>[如皋]</sup> ① 即古瓷碗，釉面似有不规则裂纹的一种。 ② 比喻毛病多而不断。  

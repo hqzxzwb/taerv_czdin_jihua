@@ -331,7 +331,7 @@
 1. 【[哇乌打乌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_da_v.md#哇乌打乌)】`va1 v1 da3 v1` <sup>[泰州]</sup> 同“哇污沰污”。  
 1. 【[哇污沰酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_dah_jian.md#哇污沰酱)】`va1 v1 dah7 jian5` <sup>[泰州]</sup> ① 呕吐出的污物像酱一样沾在物体上面，喻指脏迹斑斑的样子：他身上～的，你俫让他远吖点儿哉。｜下午油漆，你把家里地下铺点儿旧报纸，不要把家里弄得～的。 ② 喻指指食物烧糊以后不清爽的样子：他烧的菜～的，叫你一望就不想吃。  
 1. 【[哇污沰污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_dah_v.md#哇污沰污)】`va1 v1 dah7 v1` <sup>[泰州]</sup> ① 呕吐出的污物附着在一处，指脏迹斑斑的样子：你这工作服上块块都是油斑，～的，还不快点脱咖来洗。 ② 喻指指食物烧糊以后不清爽的样子：他哿会做个菜吵，天好的东西，他弄出来也是～的。  
-1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va1` <sup>[兴化]</sup> 抓：猫子把他的手～破啊。《集韵·麻的》乌瓜切｜“～，手捉物。”  
+1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va1` <small>/ua1/<sup>兴化</sup></small> 抓<sup>\[兴化\]</sup>：猫子把他的手～破啊。<sup>\[兴化\]</sup>  
 1. 【[搲苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_kv.md#搲苦)】`va1 kv3` <sup>[兴化]</sup> 懊悔、痛苦：他心里～。  
 1. 【[搲碗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_un_r.md#搲碗<sub>儿</sub>)】`va1 un3 r` <small>/ua1 õ3 ɚ/<sup>泰县</sup></small> ① 挖出腐烂部分的水果。<sup>\[泰县\]</sup> ② 坏女人。<sup>\[泰县\]</sup> ③ 挖去腐烂部分的苹果、梨子、山芋、萝卜等<sup>\[泰州\]</sup>：好苹果要三块一斤，这些～块钱一斤。<sup>\[泰州\]</sup>  
 1. 【[洼翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#洼翻)】`va1 faen1` <sup>[东台]</sup> 发生了差错、故障：机器突然停下来，不晓得哪许～吖。  
@@ -340,20 +340,23 @@
 1. 【[洼污沰酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_dah_jian.md#洼污沰酱)】`va1 v dah7 jian5` <sup>[兴化]</sup> 肮脏、不洁：这个小饭馆子～的，叫人坐不下来。  
 1. 【[溛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#溛)】`va1` <sup>[如东]</sup> ① 液体表面不平：水在～动。 ② 液体溢出来：桶里的水～出来啊。  
 1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <sup>[如皋]</sup> 繁体“划”。向内拨、扒：（要求小孩吃饭）快点儿～！～草。  
+1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <small>/uɑ2/<sup>泰兴</sup></small> 以手指使物向身边靠近<sup>\[泰兴\]</sup>：～点豆子来嚼嚼。<sup>\[泰兴\]</sup>  
 1. 【[划船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_chun.md#划船)】`va2 chun2` <sup>[东台]</sup> 在船上用桨拨水前进。  
 1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <sup>[如皋]</sup> 用笊筢把散落在地上的草扒过来，集中起来。见“拾草”。  
+1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <small>/uɑ2 t͡sʰɔ3/<sup>泰兴</sup></small> 以笊耙拖地前进取拾地面乱草。<sup>\[泰兴\]</sup>  
 1. 【[划草鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co_guei.md#划草鬼)】`va2 co3 guei3` <sup>[如皋]</sup> 詈语。贬指成人扒草、拾草以助度日的小孩，以其穷困、肮脏、粗野、顽劣、不读书，素质低下为特征。  
 1. 【[划草鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co_guei_r.md#划草鬼<sub>儿</sub>)】`va2 co3 guei3 r` <sup>[东台]</sup> （詈语）流浪在外的孩子。  
 1. 【[划饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#划饭)】`va2 faen6` <small>/ʋa2 fẽ1/<sup>如皋</sup></small> ① 见“扒饭”。<sup>\[如皋\]</sup> ② 嘴唇贴碗边，用筷子把饭拨进嘴吃。见“扒饭”。<sup>\[如皋\]</sup>  
 1. 【[划风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_fon.md#划风)】`va2 fon1` <sup>[如东]</sup> 顶着风向前走。  
-1. 【[划水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_shuei.md#划水)】`va2 shuei3` <small>/ʋa2 suei3/<sup>如皋</sup></small> ① 鱼的胸、腹鳍。<sup>\[如皋\]</sup> ② 在水中用手划动，使自己的身体前进。<sup>\[如东\]</sup>  
+1. 【[划垅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_lon_zz.md#划垅子)】`va2 lon3 zz` <small>/uɑ2 lɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 以钉耙使田地表面成垅。<sup>\[泰兴\]</sup>  
+1. 【[划水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_shuei.md#划水)】`va2 shuei3` <small>/ʋa2 suei3/<sup>如皋</sup>, /uɑ2 suəɪ3/<sup>泰兴</sup></small> ① 鱼的胸、腹鳍。<sup>\[如皋\]</sup> ② 在水中用手划动，使自己的身体前进。<sup>\[如东\]</sup> ③ 游泳。双臂划水以使身体前进。<sup>\[泰兴\]</sup>  
 1. 【[划子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zz.md#划子)】`va2 zz` <small>/uɑ2 t͡sɿ/<sup>泰兴</sup></small> 用桨拨水前行的小船。<sup>\[泰兴\]</sup>  
 1. 【[划子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_zz_chun.md#划子船)】`va2 zz chun2` <sup>[泰州]</sup> 两只桨划水行驶的小船。  
 1. 【[娃娃脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_va_lin.md#娃娃脸)】`va2 va2 lin3` <sup>[兴化]</sup> 形容成年人长得像孩子似的脸型：老吴是个～。  
 1. 【[㧚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#㧚)】`va3` <small>/ʋa3/<sup>如皋</sup></small> ① 划（劃）<sup>\[如皋\]</sup>：～破。<sup>\[如皋\]</sup> ② 弯着手指爪取。<sup>\[如东\]</sup>  
 1. 【[佤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#佤)】`va3` <sup>[如皋]</sup> 我、我家。如皋西北乡音。  
-1. 【[咓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#咓)】`va3` ① 呕吐 ② 呕吐。<sup>\[如东\]</sup>：小明吃进去的东西全部～出来啊。<sup>\[如东\]</sup>  
-1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <small>/ua3/<sup>兴化</sup>, /ʋa3/<sup>如皋</sup>, /ua3/<sup>泰县</sup></small> ① 舀；（用勺）挖 ② 用勺子等挖取油膏、砂糖、西瓜瓤等。<sup>\[如皋\]</sup> ③ 用凹状器皿把东西取出来。<sup>\[如东\]</sup>：用瓢～米。<sup>\[如东\]</sup> ④ 指舀、挖。（《集韵。麻韵》“搲，乌瓜切，手捉物”）<sup>\[东台\]</sup>：到缸里～米。<sup>\[东台\]</sup> ⑤ 用勺或瓢取物<sup>\[兴化\]</sup>：～米；～干面；～西瓜吃。<sup>\[兴化\]</sup> ⑥ 把手弯成勺状抓取<sup>\[泰县\]</sup>：去，～把米来煮饭。（《集韵》上声马韵乌瓦切：“吴俗谓手爬物曰～”。）<sup>\[泰县\]</sup> ⑦ 捞取物品<sup>\[泰县\]</sup>：你到米缸里～点米来。<sup>\[泰县\]</sup> ⑧ 用凹状器皿挖取<sup>\[泰州\]</sup>：～西瓜<sup>\[泰州\]</sup>｜你～一勺儿大椒放吖锅里。<sup>\[泰州\]</sup>｜～一把米<sup>\[泰州\]</sup>  
+1. 【[咓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#咓)】`va3` 呕吐。<sup>\[如东\]</sup>：小明吃进去的东西全部～出来啊。<sup>\[如东\]</sup>  
+1. 【[搲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#搲)】`va3` <small>/ua3/<sup>兴化</sup>, /ʋa3/<sup>如皋</sup>, /uɑ3/<sup>泰兴</sup>, /ua3/<sup>泰县</sup></small> 用勺、瓢等挖取<sup>\[泰兴\]</sup>\[泰县：把手弯成勺状抓取；捞取物品\]\[东台：指舀、挖。\]\[如东：用凹状器皿把东西取出来。\]\[泰州：用凹状器皿挖取\]\[如皋：用勺子等挖取油膏、砂糖、西瓜瓤等。\]\[兴化：用勺或瓢取物\]：用瓢～米。<sup>\[如东\]</sup>｜到缸里～米。<sup>\[东台\]</sup>｜～米；～干面；～西瓜吃。<sup>\[兴化\]</sup>｜去，～把米来煮饭。<sup>\[泰县\]</sup>｜你到米缸里～点米来。<sup>\[泰县\]</sup>｜～西瓜<sup>\[泰州\]</sup>｜你～一勺儿大椒放吖锅里。<sup>\[泰州\]</sup>｜～一把米<sup>\[泰州\]</sup>  
 1. 【[搲返心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen_xien.md#搲返心)】`va3 faen3 xien1` <sup>[如东]</sup> 从外往里挖东西：陈志萍是个～，只顾往自己家里捞东西。  
 1. 【[搲疙瘩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_geh_daeh.md#搲疙瘩)】`va3 geh7 daeh` <sup>[兴化]</sup> 用汤匙将米粉或面粉和成的薄浆舀入汤中，煮熟后成团状。  
 1. 【[搲米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_mi.md#搲米)】`va3 mi3` <sup>[东台]</sup> 量米。渔民避讳语。因量与凉谐音，故避讳。  

@@ -364,7 +364,7 @@
 1. 【[嗓囊管<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_nan_gun_r.md#嗓囊管<sub>儿</sub>)】`san3 nan2 gun3 r` <small>/sã3 nã2 kʊ˞3/<sup>如皋</sup></small> 喉咙，嗓子眼儿<sup>\[如皋\]</sup>\[如东：《如东方言词典》作“嗓朗（lan2）管儿”。\]  
 1. 【[嗓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz.md#嗓子)】`san3 zz` <sup>[如东]</sup> 喉咙。  
 1. 【[嗓子眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_zz_ngaen_r.md#嗓子眼<sub>儿</sub>)】`san3 zz ngaen3 r` <small>/sã3 t͡sɿ ŋe˞3/<sup>如皋</sup></small> 咽喉区的气管和食管<sup>\[如皋\]</sup>：千不怕，万不怕，就怕～𧰵坝！<sup>\[如皋\]</sup>  
-1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup>｜老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup>  
+1. 【[搡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san.md#搡)】`san3` <small>/saŋ3/<sup>兴化</sup>, /sã3/<sup>如皋</sup>, /sɑŋ3/<sup>泰兴</sup></small> ① 猛力推拉。<sup>\[如皋\]</sup> ② 强推或强拉。<sup>\[如东\]</sup>：你不要～他。<sup>\[如东\]</sup> ③ 来回推拉<sup>\[东台\]</sup>：用力一～。<sup>\[东台\]</sup> ④ 猛推<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：推推～～<sup>\[兴化\]</sup>｜老和尚大怒……提着郭孝子的领子，一路推～出门……（《儒林外史》三八）<sup>\[兴化\]</sup>｜老王上去抓住他的领子一～，他脸都吓咖白咖。<sup>\[泰州\]</sup>｜你个女将同男的推推～～的，像个甚的样子。<sup>\[泰州\]</sup> ⑤ 用力推拉。<sup>\[泰兴\]</sup>：～门<sup>\[泰兴\]</sup>｜～他<sup>\[泰兴\]</sup>  
 1. 【[搡拾人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_sheh_ren.md#搡拾人)】`san3 sheh8 ren2` <sup>[如东]</sup> 用恶言骂人：你不～。  
 1. 【[磉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku.md#磉窠)】`san3 ku1` <small>/sã3 kʰʊ1/<sup>如皋</sup>, /sɑŋ3 kʰɤɯ/<sup>泰兴</sup></small> 柱下石礅<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[磉窠墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/san_ku_den_r.md#磉窠墩<sub>儿</sub>)】`san3 ku1 den1 r` <sup>[如皋]</sup> 见“磉窠”。  
@@ -3123,8 +3123,8 @@
 1. 【[梭子里没有线——空来往](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_zz_lii_meh.md#梭子里没有线——空来往)】`su1 zz lii meh8 ieu3 xin5 kon1 lae2 van3` <sup>[东台]</sup>   
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1, su2` <small>/sʊ1/<sup>如皋</sup></small> 偷视、闪视<sup>\[如皋\]</sup>：贼眼只～。又有斜视、目不正视等义。<sup>\[如皋\]</sup>  
 1. 【[睃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su.md#睃)】`su1` <small>/sɤɯ1/<sup>泰兴</sup></small> ① 斜着眼睛看<sup>\[东台\]</sup>：拿眼睛一～，发现他啊躲在角落里。<sup>\[东台\]</sup> ② 看；望。<sup>\[泰兴\]</sup>：他眼睛～啊～的。<sup>\[泰兴\]</sup>  
-1. 【[蓑衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i.md#蓑衣)】`su1 i1` ① 一种雨具。用关草或棕丝编织而成，穿或披在身上可以挡雨。也叫下苫。<sup>\[如东\]</sup> ② 用龙须草制成的披在身上的避雨用具。<sup>\[东台\]</sup>  
-1. 【[蓑衣虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon.md#蓑衣虫)】`su1 i1 chon2` <small>/so1 i1 t͡sʰoŋ2/<sup>兴化</sup></small> ① 蛷螋。《说文·虫部》：“蛷，多足虫也。”《广雅疏证》卷十下，王念孙注：“……今扬州人谓之～……长可盈寸，行于壁上，往来甚捷。”<sup>\[兴化\]</sup> ② 蛷螋，一种昆虫，身多线状细足，似披蓑衣，故名。<sup>\[泰州\]</sup>  
+1. 【[蓑衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i.md#蓑衣)】`su1 i1` <small>/sɤɯ1 ʝ1/<sup>泰兴</sup></small> ① 一种雨具。用关草或棕丝编织而成，穿或披在身上可以挡雨。也叫下苫。<sup>\[如东\]</sup> ② 用龙须草制成的披在身上的避雨用具。<sup>\[东台\]</sup> ③ 用草或棕编成的防雨工具。<sup>\[泰兴\]</sup>：时霉天，～斗篷不离肩。<sup>\[泰兴\]</sup>  
+1. 【[蓑衣虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon.md#蓑衣虫)】`su1 i1 chon2` <small>/so1 i1 t͡sʰoŋ2/<sup>兴化</sup>, /sɤɯ1 ʝ1 t͡sʰɔŋ2/<sup>泰兴</sup></small> ① 蛷螋。《说文·虫部》：“蛷，多足虫也。”《广雅疏证》卷十下，王念孙注：“……今扬州人谓之～……长可盈寸，行于壁上，往来甚捷。”<sup>\[兴化\]</sup> ② 蛷螋，一种昆虫，身多线状细足，似披蓑衣，故名。<sup>\[泰州\]</sup> ③ 蚰蜒。像蜈蚣而略小。<sup>\[泰兴\]</sup>  
 1. 【[蓑衣虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_chon_r.md#蓑衣虫<sub>儿</sub>)】`su1 i1 chon2 r` <sup>[如皋]</sup> 花蚰蜒。  
 1. 【[蓑衣草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_i_co.md#蓑衣草)】`su1 i1 co3` <sup>[兴化]</sup> 即龙须草，亦称“蓑草”，可用来编制装衣或搓绳：～两股，绞成细绳，过去是穿制钱用的……（汪曾祺《岁寒三友》）  
 1. 【[趖抛抛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/su_po_po_r.md#趖抛抛<sub>儿</sub>)】`su1 po1 po1 r` <sup>[如皋]</sup> 游戏名。用砖“搭台”，设斜面，各人以铜钞（玻璃球等）高举、抛下，击斜坡后滚向前。过“疆线”为“呆子”，近疆线为先，余为次，以先击后，击中为胜。  
@@ -3157,8 +3157,10 @@
 1. 【[岁月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_iuh.md#岁月)】`suei5 iuh8` <sup>[东台]</sup> 年月：～不饶人。  
 1. 【[岁交春](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_jio_chuen.md#岁交春)】`suei5 jio1 chuen1` <sup>[兴化]</sup> 正月初一子时（指0时至1时前那段）正逢立春。20世纪仅有1943年一次：谚曰：百年难遇～。  
 1. 【[岁数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_shv.md#岁数)】`suei5 shv` 年龄，年岁  
+1. 【[碎撮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_cuh.md#碎撮)】`suei5 cuh7` <small>/suəɪ5 t͡sʰʊʔ7/<sup>泰兴</sup></small> 碎杂纷乱。<sup>\[泰兴\]</sup>  
 1. 【[碎鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_guh_zz.md#碎鸽子)】`suei5 guh7 zz` <small>/suəi5 kuʔ7 t͡sɿ/<sup>兴化</sup></small> 生活琐事\[兴化：（《兴化方言词典》注音suei5 goh7 zz，注音字用“鸽”，疑误，此处推定guh7音）\]：些女将一见面说不尽的～话。<sup>\[兴化\]</sup>  
 1. 【[碎碎叨叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_suei_do_do.md#碎碎叨叨)】`suei5 suei5 do1 do1` <sup>[兴化]</sup> 形容人说话过于啰唆：王大妈说起来～的，不晓得甚的意思。  
+1. 【[碎碎穰穰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suei_suei_ran_ran.md#碎碎穰穰)】`suei5 suei5 ran2 ran` <small>/suəɪ5 suəɪ5 ɻɑŋ2 ɻɑŋ/<sup>泰兴</sup></small> 粉碎的样子<sup>\[泰兴\]</sup>  
 1. 【[孙猴子翻跟头——十万八千里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen_heu_zz_faen.md#孙猴子翻跟头——十万八千里)】`suen1 heu2 zz faen1 gen1 teu sheh8 vaen6 baeh7 qin1 li3` <sup>[东台]</sup>   
 1. 【[孙猴子扛芭蕉扇——小不下来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen_heu_zz_kan.md#孙猴子扛芭蕉扇——小不下来)】`suen1 heu2 zz kan2 ba1 jio1 shin5 xio3 beh7 ha6 lae2` <sup>[东台]</sup>   
 1. 【[孙猴子做皇帝——毛手毛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/suen_heu_zz_zu.md#孙猴子做皇帝——毛手毛脚)】`suen1 heu2 zz zu5 huan2 di5 mo2 sheu3 mo2 jiah7` <sup>[东台]</sup>   
@@ -3230,7 +3232,7 @@
 1. 【[蒜瓣<sub>儿</sub>膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_baen_r_mah.md#蒜瓣<sub>儿</sub>膜子)】`sun5 baen5 r mah8 zz` <sup>[如东]</sup> 蒜瓣儿膜子非常薄比喻十分精明吝啬的人：这人是个～。  
 1. 【[蒜发](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_faeh.md#蒜发)】`sun5 faeh7` 青壮年人头上的白头发<sup>\[泰州\]</sup>：他才三十几岁，头上就长吖～吤。<sup>\[泰州\]</sup>  
 1. 【[蒜叶<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ih_r.md#蒜叶<sub>儿</sub>)】`sun5 ih8 r` <sup>[如皋]</sup> 青大蒜叶，切碎作佐料。  
-1. 【[蒜苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_mio.md#蒜苗)】`sun5 mio2` <small>/sũ5 miɔ2/<sup>兴化</sup>, /sʊ̃5 miɔ2/<sup>如皋</sup></small> ① 蒜薹。<sup>\[如皋\]</sup> ② 嫩的蒜薹。<sup>\[兴化\]</sup> ③ 蒜薹，大蒜的嫩花柄。<sup>\[泰州\]</sup>  
+1. 【[蒜苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_mio.md#蒜苗)】`sun5 mio2` <small>/sũ5 miɔ2/<sup>兴化</sup>, /sʊ̃5 miɔ2/<sup>如皋</sup>, /sʊ̃5 miɔ2/<sup>泰兴</sup></small> ① 蒜薹。<sup>\[如皋\]</sup> ② 嫩的蒜薹。<sup>\[兴化\]</sup> ③ 蒜薹，大蒜的嫩花柄。<sup>\[泰州\]</sup> ④ 嫩的蒜薹，可食用。<sup>\[泰兴\]</sup>  
 1. 【[蒜泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_ni.md#蒜泥)】`sun5 ni2` <sup>[东台]</sup> 将蒜头捣碎如泥。  
 1. 【[蒜皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_pi_r.md#蒜皮<sub>儿</sub>)】`sun5 pi2 r` <sup>[如皋]</sup> 大蒜的鳞茎及蒜瓣外的包膜。  
 1. 【[蒜头<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_teu_r_pieh.md#蒜头<sub>儿</sub>鼻子)】`sun5 teu2 r pieh8 zz` <sup>[如皋]</sup> 蒜头儿样的鼻子。  
