@@ -822,7 +822,7 @@
 1. 【[吃砚墨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_nin_moh_shuei.md#吃砚墨水)】`qieh7 nin6 moh8 shuei3` <small>/t͡ɕʰiəʔ7 nĩ1 mɔʔ8 suəɪ3/<sup>泰兴</sup></small> 指读书写字，学习文化。<sup>\[泰兴\]</sup>  
 1. 【[吃闹羊花酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_no_ian_hua.md#吃闹羊花酒)】`qieh7 no6 ian2 hua1 jieu3` <sup>[如皋]</sup> 临死刑前喝用闹羊花浸的麻醉药酒。  
 1. 【[吃筢头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pa_teu.md#吃筢头)】`qieh7 pa2 teu` <sup>[如东]</sup> ① 挨打：你再调皮，当心～ ② 比喻吃亏：这趟交易又～。  
-1. 【[吃排头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pae_teu.md#吃排头)】`qieh7 pae2 teu` <sup>[兴化]</sup> 挨批评，受责怪：这位下乡干部乱表态，回机关吃咖排头。  
+1. 【[吃筢头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pa_teu.md#吃筢头)】`qieh7 pa2 teu` <sup>[兴化]</sup> 挨批评，受责怪：这位下乡干部乱表态，回机关吃咖筢头。  
 1. 【[吃㗘头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pah_teu_zz.md#吃㗘头子)】`qieh7 pah7 teu2 zz` <sup>[如皋]</sup> 比喻被责骂。  
 1. 【[吃喷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pen.md#吃喷)】`qieh7 pen5` <small>/t͡ɕʰiəʔ7 pʰəŋ5/<sup>如皋</sup></small> ① 遭责备。<sup>\[如皋\]</sup> ② 讨没趣。<sup>\[如皋\]</sup> ③ 遭没趣。<sup>\[如东\]</sup>：他这次去是～。<sup>\[如东\]</sup>  
 1. 【[吃喷的副脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_pen_dii_fv.md#吃喷的副脸)】`qieh7 pen5 dii fv lin3` <small>/t͡ɕʰiəʔ7 pʰəŋ5 tei fu lĩ3/<sup>如皋</sup></small> 指习惯性的受责者<sup>\[如皋\]</sup>：他生来是～，你不骂他他不好过！<sup>\[如皋\]</sup>  
