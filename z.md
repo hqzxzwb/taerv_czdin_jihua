@@ -1098,16 +1098,18 @@
 1. 【[照把势打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_shr_da.md#照把势打)】`zho5 ba3 shr da3` <sup>[兴化]</sup> 按照原来的计划办：他来不来你覅管，你～。  
 1. 【[照把子摵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_zz_seh.md#照把子摵)】`zho5 ba3 zz seh7` <small>/t͡sɔ5 pa3 t͡se səʔ7/<sup>泰县</sup></small> ① 照现成套路走，省得创新<sup>\[东台\]</sup>：不管他俫怎吖看，你的节目还是照你的把子摵！<sup>\[东台\]</sup> ② 按样子办<sup>\[泰县\]</sup>：你～不会错。<sup>\[泰县\]</sup>  
 1. 【[照把子拾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_zz_sheh.md#照把子拾)】`zho5 ba3 zz sheh8` <sup>[兴化]</sup> 按既定的样子办：你～，不会错。  
+1. 【[照靶子射](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ba_zz_sha.md#照靶子射)】`zho5 ba3 zz sha6` <small>/t͡sɔ5 pɑ3 t͡sɿ sɑ1/<sup>泰兴</sup></small> 照着样子办。<sup>\[泰兴\]</sup>  
 1. 【[照本抄号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ben_cho_ho.md#照本抄号)】`zho5 ben3 cho1 ho6` <small>/t͡sɔ5 pən3 t͡sʰɔ1 xɔ6/<sup>兴化</sup>, /t͡sɔ5 pəŋ3 t͡sʰɔ1 xɔ1/<sup>如皋</sup></small> ① 按进价出售，不赚。<sup>\[如皋\]</sup> ② 旧商业用语，即按成本价出售<sup>\[兴化\]</sup>：我～，一文都不曾寻你的。“抄”也作“钞”。<sup>\[兴化\]</sup>  
+1. 【[照本销号](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ben_xio_ho.md#照本销号)】`zho5 ben3 xio1 ho6` <small>/t͡sɔ5 pəŋ3 ɕiɔ1 xɔ1/<sup>泰兴</sup></small> 按本钱卖出，不赚钱。<sup>\[泰兴\]</sup>  
 1. 【[照本宣科](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ben_xiun_ku.md#照本宣科)】`zho5 ben3 xiun1 ku1` <sup>[泰州]</sup> 道士对照经本念诵道家咒语，喻指讲课、发言之时，只是死板照着课文、讲稿念读，不能结合实际灵活讲解发挥：这位先生每次讲课都是～，学生上他的课就打瞌睡，他还是照讲他的。  
 1. 【[照常](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_chan.md#照常)】`zho5 chan2` <sup>[兴化]</sup> 也许：你不要看他年纪轻啊！～他的医学好，见识大……（《火烧赤壁》八）  
 1. 【[照直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cheh.md#照直)】`zho5 cheh8` <sup>[如皋]</sup> ① 一直，不拐弯。 ② 按事实说、写，不瞒不改。  
 1. 【[照顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_gv.md#照顾)】`zho5 gv5` <sup>[如东]</sup> ① 优待：这点儿东西是～你的。 ② 护理：老人身体不好，请你～下子。  
-1. 【[照会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huei.md#照会)】`zho5 huei` <sup>[东台]</sup> ① 关照。 ② 警告性告知，含有最后通牒意味：我～你下子，你再不守信，别怪我不客气！  
-1. 【[照会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huei.md#照会)】`zho5 huei6` 特地知会：箇件事我～过他了。  
+1. 【[照会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_huei.md#照会)】`zho5 huei` <small>/t͡sɔ5 xuəɪ/<sup>泰兴</sup></small> ① 关照；嘱咐。<sup>\[泰兴\]</sup> ② 关照。<sup>\[东台\]</sup> ③ 警告性告知，含有最后通牒意味<sup>\[东台\]</sup>：我～你下子，你再不守信，别怪我不客气！<sup>\[东台\]</sup>  
 1. 【[照应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ien.md#照应)】`zho5 ien` <sup>[兴化]</sup> 嘱附：他临行～家里人火烛小心。  
 1. 【[照应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_ien.md#照应)】`zho5 ien5` ① 照顾 ② 关照。<sup>\[如东\]</sup>：你俫出门之后，互相之间要～。<sup>\[如东\]</sup>  
 1. 【[照远不照近](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_iun_beh_zho.md#照远不照近)】`zho5 iun3 beh7 zho5 qien6` <sup>[东台]</sup> 远处的东西看得见，近处东西反而看不清：你是～，本村就有这方面人才，何必舍近求远？  
+1. 【[照见的宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_jin_dii_bo.md#照见的宝)】`zho5 jin5 dii bo3` <small>/t͡sɔ5 t͡ɕĩ5 təɪ pɔ3/<sup>泰兴</sup></small> 早就预料到的，果然在预料之中。<sup>\[泰兴\]</sup>  
 1. 【[照见人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_jin_ren.md#照见人)】`zho5 jin5 ren2` <sup>[如皋]</sup> 薄粥。  
 1. 【[照抹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_maeh.md#照抹)】`zho5 maeh` <sup>[东台]</sup> 照看并且收拾、整理：工程扫尾工作请你～下子。  
 1. 【[照明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_mien.md#照明)】`zho5 mien2` <sup>[如东]</sup> 用灯光照亮室内、场地等：点灯～。  
@@ -1121,10 +1123,13 @@
 1. 【[照雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_xiuh.md#照雪)】`zho5 xiuh7` <sup>[如东]</sup> 眼睛接受光线的程度：程斌患吖青光眼后，就不～咖。  
 1. 【[照照摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zho_mah.md#照照摸)】`zho5 zho mah8` <sup>[兴化]</sup> 偷窃成性，见什么输什么：他是个～，你同我𥉊住点儿。  
 1. 【[照准](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zhuen.md#照准)】`zho5 zhuen3` <sup>[如东]</sup> 对准：～屁股打下去。  
+1. 【[罩衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_i.md#罩衣)】`zho5 i1` <small>/t͡sɔ5 ʝ1/<sup>泰兴</sup></small> 外衣，罩衫。<sup>\[泰兴\]</sup>  
 1. 【[罩梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_lian.md#罩梁)】`zho5 lian2` <sup>[如东]</sup> 屋梁的一种结构形式。下边一根梁横贯前后边檐，上边一根梁横贯前后二架，这种结构形式称罩梁。  
 1. 【[罩<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_r_den.md#罩<sub>儿</sub>灯)】`zho5 r den1` <small>/t͡sɔ˞5 təŋ1/<sup>如皋</sup>, /t͡sɔ5 ɚ təŋ1/<sup>泰县</sup></small> ① 有葫芦形玻璃罩和可调式灯头的煤油灯或豆油灯。<sup>\[如皋\]</sup> ② 一种煤油灯。在灯头的上面，扣着一只圆鼓形的玻璃罩，起抽气、挡风和聚光的作用。<sup>\[如东\]</sup> ③ 旧时照明用的玻璃罩煤油灯。<sup>\[东台\]</sup> ④ 煤油灯。<sup>\[泰县\]</sup>  
 1. 【[罩衫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_shaen.md#罩衫)】`zho5 shaen1` <sup>[东台]</sup> 为防风、护脏而加的外衣。  
 1. 【[罩网](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_van.md#罩网)】`zho5 van3` <sup>[如皋]</sup> 罩状的小渔网。  
+1. 【[罩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zz.md#罩子)】`zho5 zz` <small>/t͡sɔ5 t͡sɿ/<sup>泰兴</sup></small> 遮盖东西的器具。<sup>\[泰兴\]</sup>  
+1. 【[罩子灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_zz_den.md#罩子灯)】`zho5 zz den1` <small>/t͡sɔ5 t͡sɿ təŋ1/<sup>泰兴</sup></small> 一种玻璃制成的煤油灯，上有玻罩，点着后比较明亮。<sup>\[泰兴\]</sup>  
 1. 【[竹帘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_lin_zz.md#竹帘子)】`zhoh lin2 zz` <sup>[如皋]</sup> 门窗用的竹丝扼成的卷帘。  
 1. 【[□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_qi.md#□气)】`zhoh7 qi5` <sup>[东台]</sup> 傍晚的气体，与早晨阳气上升相对。  
 1. 【[㔉田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhoh_tin.md#㔉田)】`zhoh7 tin2` <sup>[东台]</sup> 用锄头或钉筢翻地。  
@@ -1419,6 +1424,7 @@
 1. 【[痣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#痣)】`zhr5` <small>/t͡sɿ5/<sup>如皋</sup></small> ① 器物上微小损伤的痕迹<sup>\[如皋\]</sup>：碗上有块～。<sup>\[如皋\]</sup> ② 皮肤上隆起的有色斑点。<sup>\[泰州\]</sup>  
 1. 【[置](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr.md#置)】`zhr5` <sup>[如皋]</sup> 添置大件、成批物件：～家私、～嫁妆。  
 1. 【[置家如置骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ga_rv_zhr.md#置家如置骨)】`zhr5 ga1 rv2 zhr5 gueh7` <sup>[东台]</sup> 添置家俬，扩大家业像长骨头一样艰难。  
+1. 【[置家私](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jia_sz.md#置家私)】`zhr5 jia1 sz` <small>/t͡sɿ5 t͡ɕiɑ1 sɿ/<sup>泰兴</sup></small> 配置、购买家庭的各种财产、物品。<sup>\[泰兴\]</sup>  
 1. 【[置酒容易请客难](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_jieu_ion_i.md#置酒容易请客难)】`zhr5 jieu3 ion2 i6 qien3 keh7 naen2` <sup>[东台]</sup> 办酒席只是花钱，而请客涉及请谁、怎么请，谁陪同、客人是否赏光、能否按时到等主人难以掌控的难题。  
 1. 【[置备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_pei.md#置备)】`zhr5 pei6` <sup>[如皋]</sup> 添置物件。  
 1. 【[翅膀拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhr_ban_guae_zz.md#翅膀拐子)】`zhr5 ban guae3 zz` <sup>[兴化]</sup> 翅膀。（喻）自立能力：“～嘿，现在出落得像个人了，～硬了，瞧不起妈了……”（《马春阳作品选·月郎和她的娘舅们》）  

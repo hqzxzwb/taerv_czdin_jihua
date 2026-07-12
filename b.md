@@ -992,7 +992,7 @@
 1. 【[畚斗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_deu_r.md#畚斗<sub>儿</sub>)】`ben1 deu3 r` <small>/pən1 tɤ3 ɚ/<sup>兴化</sup>, /pəŋ1 tei˞3/<sup>如皋</sup>, /pəŋ1 tɤɯ3 ɚ/<sup>泰县</sup></small> ① 簸箕或𡊄箕。<sup>\[如皋\]</sup> ② 粪箕。撮物工具。<sup>\[兴化\]</sup> ③ 簸箕。<sup>\[泰县\]</sup>  
 1. 【[畚头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_teu.md#畚头)】`ben1 teu` <small>/pəŋ1 tʰəɪ/<sup>泰兴</sup></small> 畚粮食的器具，多以竹篾编成。<sup>\[泰兴\]</sup>  
 1. 【[贲家集](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_ga_qieh.md#贲家集)】`ben1 ga1 qieh8` <sup>[东台]</sup> 古东台地名，现属海安县。  
-1. 【[锛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#锛)】`ben1` <sup>[如东]</sup> 一种工具。刃具长条形，刃头尖，刃口扁而宽，柄与刃具呈丁字形。通称镐头。用以劈木料或翻硬土。  
+1. 【[锛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben.md#锛)】`ben1` <small>/pəŋ1/<sup>泰兴</sup></small> ① 一种铁制工具，有木柄，用于削平木料、劈柴等。<sup>\[泰兴\]</sup> ② 一种工具。刃具长条形，刃头尖，刃口扁而宽，柄与刃具呈丁字形。通称镐头。用以劈木料或翻硬土。<sup>\[如东\]</sup>  
 1. 【[锛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_zz.md#锛子)】`ben1 zz` <sup>[东台]</sup> 一种劈柴，挖掘硬实地面的工具。  
 1. 【[本茶叶树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_cha_ih_shv.md#本茶叶树)】`ben3 cha2 ih8 shv6` <sup>[如皋]</sup> 本地长的茶树。  
 1. 【[本场话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_chan_hua.md#本场话)】`ben3 chan2 hua6` <sup>[如东]</sup> 泰如方言中对泰如话的说法。  

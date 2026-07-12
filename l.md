@@ -2510,15 +2510,16 @@
 1. 【[路不平，有人铲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_beh_pien_ieu.md#路不平，有人铲)】`lv6 beh7 pien2 ieu3 ren2 chaen3` <sup>[东台]</sup> 不公平的事情不得人心，总会有人反对。  
 1. 【[路边上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_bin_shan.md#路边上)】`lv6 bin1 shan` <sup>[如东]</sup> 道路的边沿：你站吖～等我。  
 1. 【[路灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_den.md#路灯)】`lv6 den1` <sup>[如东]</sup> 安装在道路两边柱杆上照明的灯。  
-1. 【[路倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_do.md#路倒)】`lv6 do3` <small>/lu6 tɔ3/<sup>兴化</sup>, /nu1 tɔ3/<sup>泰县</sup></small> ① 因贫病冻饿而倒毙路上的人<sup>\[兴化\]</sup>：一般人家死了人，他是不管的，他管的是无后的孤寡和～。（汪曾棋《故里杂记》）《清稗类钞》<sup>\[兴化\]</sup>｜～尸<sup>\[兴化\]</sup>｜骂人之辞，谓其死于道路，不及寿终正寝也。<sup>\[兴化\]</sup> ② 在路上死的人。<sup>\[泰县\]</sup> ③ 因为各种原因在路上倒下死亡<sup>\[泰州\]</sup>：他家老子是酒喝咖醉啊～走的。<sup>\[泰州\]</sup>  
+1. 【[路倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_do.md#路倒)】`lv6 do3` <small>/lu6 tɔ3/<sup>兴化</sup>, /lu1 tɔ3/<sup>泰兴</sup>, /nu1 tɔ3/<sup>泰县</sup></small> ① 倒毙于途中者。<sup>\[泰兴\]</sup> ② 因贫病冻饿而倒毙路上的人<sup>\[兴化\]</sup>：一般人家死了人，他是不管的，他管的是无后的孤寡和～。（汪曾棋《故里杂记》）《清稗类钞》<sup>\[兴化\]</sup>｜～尸：骂人之辞，谓其死于道路，不及寿终正寝也。<sup>\[兴化\]</sup> ③ 在路上死的人。<sup>\[泰县\]</sup> ④ 因为各种原因在路上倒下死亡<sup>\[泰州\]</sup>：他家老子是酒喝咖醉啊～走的。<sup>\[泰州\]</sup>  
 1. 【[路引](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ien.md#路引)】`lv6 ien3` <sup>[兴化]</sup> ① 路单：（张万户给程万里）又取出一张～，以防一路盘诘。（《醒世恒言》十九） ② 路径、地址：在大城市找人家，没得～万难。  
 1. 【[路影](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ien.md#路影)】`lv6 ien3` <sup>[兴化]</sup> 道路被破坏或被掩埋后残留的迹象：……那雪已下的混混沌沌价白……那到厢房里的一条路已看不出～……（《老残游记》七）。“……这条～一顺来的，并无第二条路……”（《老残游记》八）  
 1. 【[路祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ji.md#路祭)】`lv6 ji5` <small>/lu6 t͡ɕi5/<sup>兴化</sup>, /lu1 t͡ɕʝ5/<sup>如皋</sup></small> ① 见“留茶”。<sup>\[如皋\]</sup> ② （讽）边走边吃零食<sup>\[兴化\]</sup>：吴二腰里有啊钱就摆～。<sup>\[兴化\]</sup> ③ 出殡之日，亲友在灵柩经过的途中设馔、化纸祭奠死者亡灵。<sup>\[泰州\]</sup>  
 1. 【[路口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_keu.md#路口)】`lv6 keu3` <sup>[如东]</sup> 道路入口的地方：你把篮子放吖～上。  
-1. 【[路粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lian.md#路粮)】`lv6 lian2` <sup>[兴化]</sup> 带在旅途中吃的方便食品：“……后来松子支前，桂香又用它包鸡蛋给松子做～……”（马春阳《姐妹烟缘船迷传》）  
+1. 【[路粮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_lian.md#路粮)】`lv6 lian2` <small>/lu6 liaŋ2/<sup>兴化</sup>, /lu1 liɑŋ2/<sup>泰兴</sup></small> ① 旅行路上吃的干粮等食品。<sup>\[泰兴\]</sup> ② 带在旅途中吃的方便食品<sup>\[兴化\]</sup>：“……后来松子支前，桂香又用它包鸡蛋给松子做～……”（马春阳《姐妹烟缘船迷传》）<sup>\[兴化\]</sup>  
 1. 【[路旁人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_pan_ren.md#路旁人)】`lv6 pan2 ren2` <sup>[兴化]</sup> 行人、不相干的人：小王跟小黄离婚以后，见吖面就像～。  
 1. 【[路上不遇桥上遇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shan_beh_y.md#路上不遇桥上遇)】`lv6 shan beh7 y6 qio2 shan y6` <sup>[东台]</sup> 人总有偶然相遇的可能，做事要留后路。  
 1. 【[路上说话，草窠里有人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shan_shuh_hua.md#路上说话，草窠里有人)】`lv6 shan shuh7 hua6 co3 ku1 lii ieu3 ren2` <sup>[东台]</sup> 提醒人说话注意保密。  
+1. 【[路数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shv.md#路数)】`lv6 shv` <small>/lu1 su/<sup>泰兴</sup></small> 规矩；礼仪；门路。<sup>\[泰兴\]</sup>  
 1. 【[路头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu.md#路头)】`lv6 teu` <sup>[如皋]</sup> 门路、相关人或单位的关系：他的～多，你寻他帮帮忙。  
 1. 【[路头熟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_shoh.md#路头熟)】`lv6 teu shoh8` <sup>[如皋]</sup> 熟悉路径和人际情况，便于办事。  
 1. 【[路头债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_zhae.md#路头债)】`lv6 teu zhae5` <sup>[如皋]</sup> 指多走冤枉路：跑得快，少啊～。  
@@ -2526,7 +2527,7 @@
 1. 【[路头神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_shen.md#路头神)】`lv6 teu2 shen2` <sup>[东台]</sup> 传说中又叫“玄坛菩萨”，正月初五祭财神，俗称接“路头神”。  
 1. 【[路头债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_teu_zhae.md#路头债)】`lv6 teu2 zhae5` <sup>[兴化]</sup> 为办一件事跑了多趟冤枉路：还～。  
 1. 【[路小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_xio.md#路小)】`lv6 xio3` <sup>[泰县]</sup> 在途中生的婴儿。  
-1. 【[路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#路子)】`lv6 zz` <small>/lu6 t͡sɿ/<sup>兴化</sup></small> ① 门径<sup>\[兴化\]</sup>：老陈～多，有难事找他帮帮忙。<sup>\[兴化\]</sup> ② 人的米路、来头<sup>\[兴化\]</sup>：这个人～不正，大家提防点儿。<sup>\[兴化\]</sup> ③ 纹路<sup>\[如东\]</sup> ④ 物体表面的一道道划痕<sup>\[如东\]</sup> ⑤ 门路，各种人脉关系<sup>\[泰州\]</sup>：他在外头的～多。<sup>\[泰州\]</sup>  
+1. 【[路子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_zz.md#路子)】`lv6 zz` <small>/lu6 t͡sɿ/<sup>兴化</sup>, /lu1 t͡sɿ/<sup>泰兴</sup></small> ① 门径<sup>\[兴化\]</sup>：老陈～多，有难事找他帮帮忙。<sup>\[兴化\]</sup> ② 门路；方法；窍门。<sup>\[泰兴\]</sup>：他的朋友多，～宽。<sup>\[泰兴\]</sup> ③ 人的米路、来头<sup>\[兴化\]</sup>：这个人～不正，大家提防点儿。<sup>\[兴化\]</sup> ④ 纹路<sup>\[如东\]</sup> ⑤ 物体表面的一道道划痕<sup>\[如东\]</sup> ⑥ 门路，各种人脉关系<sup>\[泰州\]</sup>：他在外头的～多。<sup>\[泰州\]</sup>  
 1. 【[露](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv.md#露)】`lv6` <small>/lu1/<sup>如皋</sup></small> ① 裸露。<sup>\[如东\]</sup> ② 承受露水<sup>\[如皋\]</sup>：花草要放吖外头～、日晒夜～。<sup>\[如皋\]</sup>  
 1. 【[露啊湿咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_a_sheh_ga.md#露啊湿咖)】`lv6 a sheh7 ga` <sup>[如皋]</sup> 被露水浸湿了。  
 1. 【[露二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_er.md#露二)】`lv6 er6` <sup>[如东]</sup> 瓦屋屋面上瓦片之间的距离等于两指，称露二。  

@@ -1133,32 +1133,32 @@
 1. 【[歇咖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_ga_zz.md#歇咖子)】`xih7 ga zz` <sup>[东台]</sup> 歇一下；短时间休息。  
 1. 【[歇觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_go.md#歇觉)】`xih7 go5` <sup>[兴化]</sup> 睡觉：他己经～啊，覅吵！  
 1. 【[歇个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_gu.md#歇个)】`xih7 gu` <sup>[如皋]</sup> 见“早晚”。  
-1. 【[歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah.md#歇脚)】`xih7 jiah7` ① 休息。<sup>\[如东\]</sup>：我俫在五总桥～。<sup>\[如东\]</sup> ② 暂停前进休息一下，又叫歇肩，卸去肩上的担负<sup>\[东台\]</sup>：走啊这吖远，让我～吃口烟。<sup>\[东台\]</sup>  
+1. 【[歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah.md#歇脚)】`xih7 jiah7` <small>/ɕiʔ7 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 行路疲乏时停下来休息；停止，休止。<sup>\[泰兴\]</sup> ② 休息。<sup>\[如东\]</sup>：我俫在五总桥～。<sup>\[如东\]</sup> ③ 暂停前进休息一下，又叫歇肩，卸去肩上的担负<sup>\[东台\]</sup>：走啊这吖远，让我～吃口烟。<sup>\[东台\]</sup>  
 1. 【[歇脚墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jiah_den_r.md#歇脚墩<sub>儿</sub>)】`xih7 jiah7 den1 r` <sup>[如皋]</sup> 旅程中途的停歇处。  
 1. 【[歇劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_jien.md#歇劲)】`xih7 jien5` <small>/ɕiʔ7 t͡ɕiəŋ5/<sup>如皋</sup></small> ① 放松，松懈 ② 临时休息。<sup>\[如皋\]</sup> ③ 松劲，不愿继续。<sup>\[如皋\]</sup> ④ 休息。<sup>\[如东\]</sup>：明朝～，不劳动吖。<sup>\[如东\]</sup>  
 1. 【[歇刻<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r_gon.md#歇刻<sub>儿</sub>工夫)】`xih7 keh r gon1 fv` <sup>[东台]</sup> 同“歇歇儿工夫”。  
 1. 【[……歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#……歇刻<sub>儿</sub>)】`xih7 keh9 r` <sup>[如皋]</sup> 见“早晚”。  
-1. 【[歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#歇刻<sub>儿</sub>)】`xih7 keh9 r` ① 过一会儿。 ② 休息一会儿。<sup>\[如东\]</sup>：我俫～再跑吧。<sup>\[如东\]</sup>  
+1. 【[歇刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keh_r.md#歇刻<sub>儿</sub>)】`xih7 keh9 r` <small>/ɕiʔ7 kʰə˞1/<sup>泰兴</sup></small> ① 过一会儿。 ② 休息一会儿。<sup>\[如东\]</sup>：我俫～再跑吧。<sup>\[如东\]</sup> ③ 等一会儿；休息一下。<sup>\[泰兴\]</sup>  
 1. 【[歇口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_keu_qi.md#歇口气)】`xih7 keu3 qi5` <sup>[如皋]</sup> 休息一会儿。  
 1. 【[歇凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_lian.md#歇凉)】`xih7 lian2` <sup>[兴化]</sup> 乘凉：到树下～。｜（那牛通）见一座茂林甚觉阴凉，就走进林中，拣一块大石头坐着～。（《说岳全传》六七）  
 1. 【[歇力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_lieh.md#歇力)】`xih7 lieh8` ① 休息 ② 休息。<sup>\[如东\]</sup>  
-1. 【[歇人不歇车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_ren_beh_xih.md#歇人不歇车)】`xih7 ren2 beh7 xih7 cha1` <sup>[兴化]</sup> ① 在抗旱排涝时，踏车的人轮换休息，而让水车连续运转：水车支成了，～，翻起来了。（马春阳《风里雨里》） ② （喻）任务紧迫时，换班休息而工作不停。  
+1. 【[歇人不歇车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_ren_beh_xih.md#歇人不歇车)】`xih7 ren2 beh7 xih7 cha1` <small>/ɕiɪʔ7 lən2 pəʔ7 ɕiɪʔ7 t͡sʰa1/<sup>兴化</sup>, /ɕiʔ7 ɻəŋ2 pəʔ7 ɕiʔ7 t͡sʰɑ1/<sup>泰兴</sup></small> ① 谓人员轮流休息，工作不停止。<sup>\[泰兴\]</sup> ② 在抗旱排涝时，踏车的人轮换休息，而让水车连续运转<sup>\[兴化\]</sup>：水车支成了，～，翻起来了。（马春阳《风里雨里》）<sup>\[兴化\]</sup> ③ （喻）任务紧迫时，换班休息而工作不停。<sup>\[兴化\]</sup>  
 1. 【[歇日子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_rih_zz.md#歇日子)】`xih7 rih8 zz` <sup>[如东]</sup> 隔日：～再来。  
 1. 【[歇生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_shen_i.md#歇生意)】`xih7 shen1 i` <sup>[兴化]</sup> 旧谓被解雇：过去，对老板稍有得罪，就～。也说“停生意”。  
-1. 【[歇神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_shen.md#歇神)】`xih7 shen2` <sup>[如皋]</sup> 劝告语，要求安心定神，不胡思乱想或胡作非为。  
-1. 【[歇手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_sheu.md#歇手)】`xih7 sheu3` <sup>[如皋]</sup> 见“歇作”。  
+1. 【[歇神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_shen.md#歇神)】`xih7 shen2` <small>/ɕiʔ7 səŋ2/<sup>如皋</sup>, /ɕiʔ7 səŋ2/<sup>泰兴</sup></small> ① 休息，养息精神。<sup>\[泰兴\]</sup> ② 劝告语，要求安心定神，不胡思乱想或胡作非为。<sup>\[如皋\]</sup>  
+1. 【[歇手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_sheu.md#歇手)】`xih7 sheu3` <small>/ɕiʔ7 sei3/<sup>如皋</sup>, /ɕiʔ7 ɕiɤɯ3/<sup>泰兴</sup></small> ① 停止手中的工作。<sup>\[泰兴\]</sup> ② 见“歇作”。<sup>\[如皋\]</sup>  
 1. 【[歇市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_shr.md#歇市)】`xih7 shr6` <sup>[如皋]</sup> 店家上门休息。  
 1. 【[歇宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_soh.md#歇宿)】`xih7 soh7` <sup>[兴化]</sup> 住宿：来不洎就留啊这块～也好的。｜是夜，即留承信于衙门～。（《京本通俗小说·冯玉梅团圆》）  
 1. 【[歇台](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_tae.md#歇台)】`xih7 tae2` <small>/ɕiɪʔ7 tʰɛ2/<sup>兴化</sup></small> ① 结束、完结<sup>\[兴化\]</sup>：这爿小饭店一天到晚忙吖不得～。<sup>\[兴化\]</sup> ② 戏台暂歇。引申指暂无事情在手而得到休息<sup>\[泰州\]</sup>：走早上起来就忙，忙到这一刻儿不曾～。<sup>\[泰州\]</sup>  
 1. 【[歇夏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xia.md#歇夏)】`xih7 xia6` <small>/ɕiɪʔ7 ɕia6/<sup>兴化</sup></small> ① 农村习俗，盛夏，毛脚女婿到岳家小住，让小两口相互了解，联络感情。<sup>\[兴化\]</sup> ② 夏日，接女儿回娘家小住<sup>\[兴化\]</sup>：按婚前的商定，六月接王小姐回家～，这是兴化多年来俗成的婚嫁规矩。（毕飞宇《明天遥遥无期》）<sup>\[兴化\]</sup> ③ 民俗，旧时农村每年夏天伏天时将已出嫁的女儿接回娘家小住休息。<sup>\[泰州\]</sup>  
 1. 【[歇闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xiaen.md#歇闲)】`xih7 xiaen2` <sup>[兴化]</sup> 停工休息：国庆节放长假，他正在家里～。  
-1. 【[歇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih.md#歇歇)】`xih7 xih` <small>/ɕiɪʔ7 ɕiɪʔ/<sup>兴化</sup></small> ① 休息休息。<sup>\[如东\]</sup> ② 停一会儿<sup>\[兴化\]</sup>：你覅忙，～再做不迟。<sup>\[兴化\]</sup>｜“……我后半天进城不迟，～再收拾罢”。（《儿女英雄传》一）<sup>\[兴化\]</sup> ③ 休想<sup>\[兴化\]</sup>：凭你也想欺人，～吧！<sup>\[兴化\]</sup>  
+1. 【[歇歇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih.md#歇歇)】`xih7 xih` <small>/ɕiɪʔ7 ɕiɪʔ/<sup>兴化</sup>, /ɕiʔ7 ɕiʔ/<sup>泰兴</sup></small> ① 休息一下；休息。<sup>\[泰兴\]</sup> ② 休息休息。<sup>\[如东\]</sup> ③ 停一会儿<sup>\[兴化\]</sup>：你覅忙，～再做不迟。<sup>\[兴化\]</sup>｜“……我后半天进城不迟，～再收拾罢”。（《儿女英雄传》一）<sup>\[兴化\]</sup> ④ 休想<sup>\[兴化\]</sup>：凭你也想欺人，～吧！<sup>\[兴化\]</sup>  
 1. 【[歇歇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_r.md#歇歇<sub>儿</sub>)】`xih7 xih r` <sup>[东台]</sup> 同“歇刻儿”，指很短的一段时间。  
 1. 【[歇歇<sub>儿</sub>工夫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_r_gon.md#歇歇<sub>儿</sub>工夫)】`xih7 xih r gon1 fv` <sup>[东台]</sup> 意同“歇歇儿”。  
 1. 【[歇歇脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_jiah.md#歇歇脚)】`xih7 xih7 jiah7` <sup>[如东]</sup> 休息一会儿：我俫跑啊交关时间吖，现在～吧。  
 1. 【[歇歇神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_xih_shen.md#歇歇神)】`xih7 xih7 shen2` <small>/ɕiʔ7 ɕiʔ7 səŋ2/<sup>如皋</sup></small> ① 见“歇神”。<sup>\[如皋\]</sup> ② （贬）不再劳烦<sup>\[东台\]</sup>：有人过问这件事，你就～吧。<sup>\[东台\]</sup>  
 1. 【[歇作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zah.md#歇作)】`xih7 zah7` <small>/ɕiɪʔ7 t͡saʔ7/<sup>兴化</sup>, /ɕiʔ7 t͡saʔ7/<sup>如皋</sup></small> ① 停止作业。<sup>\[如皋\]</sup> ② 结束，不再进行。<sup>\[东台\]</sup> ③ 停工<sup>\[兴化\]</sup>：木匠吃晚饭。<sup>\[兴化\]</sup> ④ 停业<sup>\[兴化\]</sup>：这个店半死不活的，不如早点～。<sup>\[兴化\]</sup>  
-1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <small>/ɕiʔ7 t͡sei5/<sup>如皋</sup>, /ɕiʔ7 t͡ɕiɤɯ5/<sup>泰兴</sup></small> ① 夏季中午休息。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ② 下雨天，中午停止下雨的一段时间，叫做歇昼。<sup>\[如东\]</sup> ③ 午睡<sup>\[泰兴\]</sup>  
+1. 【[歇昼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zheu.md#歇昼)】`xih7 zheu5` <small>/ɕiʔ7 t͡sei5/<sup>如皋</sup>, /ɕiʔ7 t͡ɕiɤɯ5/<sup>泰兴</sup></small> ① 多指夏日午睡。<sup>\[泰兴\]</sup> ② 夏季中午休息。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ③ 下雨天，中午停止下雨的一段时间，叫做歇昼。<sup>\[如东\]</sup>  
 1. 【[歇中觉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih_zhon_go.md#歇中觉)】`xih7 zhon1 go5` <sup>[兴化]</sup> 睡午觉：他饭后总要～，这个是雷打不动的。｜“才吃了一口饭，歇了中觉了。你且这屋里略坐坐”。（《红楼梦》七二）  
 1. 【[洽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#洽)】`xih7` <sup>[东台]</sup> 联系。（反切不合）  
 1. 【[糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xih.md#糏)】`xih7, xyeh7, xiuh7` 面粉  

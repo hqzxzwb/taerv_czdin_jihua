@@ -10,7 +10,6 @@
 1. 【[迂夫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_fv_zz.md#迂夫子)】`y1 fv1 zz3` <small>/y1 fʋ1 t͡sɿ3/<sup>泰兴</sup></small> ① 言行拘泥于旧准则，不能适应时代潮流的读书人，贬义。<sup>\[泰州\]</sup> ② 言行坚持原则，不肯媚俗或者同流合污的人。<sup>\[泰州\]</sup> ③ 迂腐的读书人<sup>\[泰兴\]</sup>  
 1. 【[迂瘕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_ha.md#迂瘕)】`y1 ha2` <sup>[兴化]</sup> 迂腐、守旧，作事过于顶真。也称“瘕魔”。  
 1. 【[迂痰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_taen.md#迂痰)】`y1 taen2` <sup>[兴化]</sup> 见“迂”。  
-1. 【[迂拙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_zhuh.md#迂拙)】`y1 zhuh7` <small>/y1 t͡sʊʔ7/<sup>泰兴</sup></small> 迂呆笨拙。<sup>\[泰兴\]</sup>：你怎么箇吖～？连箇个理总定不过来？<sup>\[泰兴\]</sup>  
 1. 【[余](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y.md#余)】`y2` <sup>[泰州]</sup> 积攒（钱钞、物品等）：太太～啊不少布头子，妈妈把它俫拼吖一条被面单子。｜他上小学就开始～邮票唻。｜你把压岁钱～起来，留啊开学交学费。｜他这几年～啊不少钱。  
 1. 【[余多滞少](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_du_chr_sho.md#余多滞少)】`y2 du1 chr5 sho3` <sup>[兴化]</sup> 指挑拣后剩下的：这筐苹果由你们先拿，～全把我。  
 1. 【[余钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/y/y_qin.md#余钱)】`y2 qin2` 攒钱<sup>\[泰州\]</sup>：老两口儿拼命～，准备同儿子买房子。<sup>\[泰州\]</sup>  

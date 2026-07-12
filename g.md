@@ -566,12 +566,13 @@
 1. 【[今吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga.md#今吖)】`gen1 nga` 今天。  
 1. 【[今吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_zz.md#今吖子)】`gen1 nga zz` <sup>[东台]</sup> 今天。又作“今朝”。  
 1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin zz` <sup>[如皋]</sup> 今年。  
+1. 【[今年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin.md#今年)】`gen1 nin2, gen1 nin0` <small>/kəŋ1 nĩ2/<sup>泰兴</sup></small> 今年。<sup>\[泰兴\]</sup>  
 1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin2 zz` <sup>[东台]</sup> 今年。  
 1. 【[今<sub>儿</sub>个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_gu.md#今<sub>儿</sub>个)】`gen1 r gu` <sup>[兴化]</sup> 今天，兴化西北部说法。同“今儿子”。  
 1. 【[今<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_zz.md#今<sub>儿</sub>子)】`gen1 r zz` <sup>[兴化]</sup> 今天：～我值班。西北少数村镇也说“今儿个”。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <sup>[兴化]</sup> 说话的这一天：～是个好日子。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho, gen1 do` <sup>[泰县]</sup> 今天：我～不去。  
-1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho1` <small>/kəŋ1 t͡sɔ1/<sup>泰兴</sup></small> 今天<sup>\[泰兴\]</sup>  
+1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <small>/kəŋ1 t͡sɔ/<sup>泰兴</sup></small> 今天<sup>\[泰兴\]</sup>  
 1. 【[庚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#庚)】`gen1` <sup>[东台]</sup> ① 天干第七位。 ② 年龄：先生贵～几何？  
 1. 【[庚帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tih.md#庚帖)】`gen1 tih7` <small>/kəŋ1 tʰiʔ7/<sup>泰兴</sup></small> 旧俗订婚时男女双方交换的写有姓名、生辰八字、籍贯、祖宗三代等内容的帖子。其上载有年庚，故名。<sup>\[泰兴\]</sup>  
 1. 【[更把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba.md#更把)】`gen1 ba` <sup>[如东]</sup> ① 一更天（19时至20时）。 ② 大约一更（两个小时）左右。  
@@ -609,7 +610,8 @@
 1. 【[跟哥哥进城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gu_gu_jien.md#跟哥哥进城)】`gen1 gu1 gu1 jien5 chen2` <sup>[东台]</sup> 喻指跟着处于优势的人们沾光，或有榜样可仿效。  
 1. 【[跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_heu.md#跟后)】`gen1 heu6` <small>/kən1 xɤ6/<sup>兴化</sup>, /kəŋ1 xei1/<sup>如皋</sup></small> 紧接着，随后<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个酒老李先喝，～就是老周喝。<sup>\[泰州\]</sup>  
 1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <sup>[如皋]</sup> 近朱者赤，近墨者黑。  
-1. 【[跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#跟脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① （鞋子）合脚<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[兴化：也说“抱脚”。\]：“……莫忙，让我把鞋子脱掉，鞋子不～，不好动手……”（《皮五辣子》三）<sup>\[兴化\]</sup>｜这双走鞋嫌大，穿吖脚上不～。<sup>\[泰州\]</sup> ② 小孩跟着大人跑。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>  
+1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <small>/kəŋ1 xɔ3 ɻəŋ2 xɑʔ8 xɔ3 ɻəŋ2/<sup>泰兴</sup></small> 谓近朱者赤，跟品德高尚的人在一起必定受其影响，成为好人。<sup>\[泰兴\]</sup>  
+1. 【[跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#跟脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 谓鞋子大小合适，便于走路；小孩跟路。<sup>\[泰兴\]</sup> ② （鞋子）合脚<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[兴化：也说“抱脚”。\]：“……莫忙，让我把鞋子脱掉，鞋子不～，不好动手……”（《皮五辣子》三）<sup>\[兴化\]</sup>｜这双走鞋嫌大，穿吖脚上不～。<sup>\[泰州\]</sup> ③ 小孩跟着大人跑。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>  
 1. 【[跟脚铃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah_lien_r.md#跟脚铃<sub>儿</sub>)】`gen1 jiah7 lien2 r` <sup>[如东]</sup> 经常跟着大人外出的孩子  
 1. 【[跟□啊去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jio_a_qy.md#跟□啊去啊)】`gen1 jio3 a qy5 a` <sup>[如东]</sup> 很快地跟着人向前跑去：他听到箇个消息，～。  
 1. 【[跟路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_lv.md#跟路)】`gen1 lv6` <small>/kən1 lu6/<sup>兴化</sup>, /kəŋ1 nu1/<sup>泰县</sup></small> ① 跟随。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>｜这个伢儿会～。<sup>\[泰县\]</sup> ② 喜欢跟别人走。<sup>\[东台\]</sup> ③ 大人外出，小孩紧紧相随<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个伢儿会～，你到哪块他跟到哪块。<sup>\[兴化\]</sup>｜这个伢儿欢喜～。<sup>\[泰州\]</sup> ④ 也指狗随主人外出<sup>\[兴化\]</sup>：这小狗会～。<sup>\[兴化\]</sup>  
@@ -620,12 +622,14 @@
 1. 【[跟吖后头转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_heu_teu.md#跟吖后头转)】`gen1 nga heu6 teu zhun5` <sup>[如皋]</sup> 见“随弯儿就弯儿”。  
 1. 【[跟吖人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_ren.md#跟吖人)】`gen1 nga ren2` <sup>[如皋]</sup> 指女性非婚随男性生活。  
 1. 【[跟屁虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_pi_chon.md#跟屁虫)】`gen1 pi5 chon2` <sup>[东台]</sup> ① 老跟在别人后面的人。 ② 没有主见，人云亦云者。  
-1. 【[跟前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin.md#跟前)】`gen1 qin2` <small>/kəŋ1 t͡ɕʰĩ2/<sup>泰兴</sup></small> ① 面前 ② 身边。<sup>\[东台\]</sup> ③ 身边；附近。<sup>\[泰兴\]</sup>  
+1. 【[跟伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_pun.md#跟伴)】`gen1 pun6` <small>/kəŋ1 pʰʊ̃1/<sup>泰兴</sup></small> 与人作伴同行或协作做事。<sup>\[泰兴\]</sup>  
+1. 【[跟前](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin.md#跟前)】`gen1 qin2` <small>/kəŋ1 t͡ɕʰĩ/<sup>泰兴</sup></small> ① 面前 ② 身边。<sup>\[东台\]</sup> ③ 身边；附近；面前<sup>\[泰兴\]</sup>  
 1. 【[跟前跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_qin_gen_heu.md#跟前跟后)】`gen1 qin2 gen1 heu6` <sup>[东台]</sup> 跟来跟去，多指小孩子。  
-1. 【[跟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ren.md#跟人)】`gen1 ren2` ① 女方有了婆家。<sup>\[如东\]</sup>：兰兰已经跟吖人。<sup>\[如东\]</sup> ② 特指旧时女子未经三媒六证迎娶程序，与人同居成夫妻，有贬义。<sup>\[东台\]</sup> ③ 女子未履行法定手续而与人同居<sup>\[泰州\]</sup>：她在外头也是没得办法才～的。<sup>\[泰州\]</sup>  
+1. 【[跟人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ren.md#跟人)】`gen1 ren2` <small>/kəŋ1 ɻəŋ2/<sup>泰兴</sup></small> ① 旧指妇女嫁人。含贬义。<sup>\[泰兴\]</sup> ② 女方有了婆家。<sup>\[如东\]</sup>：兰兰已经跟吖人。<sup>\[如东\]</sup> ③ 特指旧时女子未经三媒六证迎娶程序，与人同居成夫妻，有贬义。<sup>\[东台\]</sup> ④ 女子未履行法定手续而与人同居<sup>\[泰州\]</sup>：她在外头也是没得办法才～的。<sup>\[泰州\]</sup>  
+1. 【[跟人跑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ren_po.md#跟人跑)】`gen1 ren2 po2` <small>/kəŋ1 ɻəŋ2 pʰɔ2/<sup>泰兴</sup></small> 谓妇女与男人私奔。也说“跟人溜”。<sup>\[泰兴\]</sup>  
 1. 【[跟手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_sheu.md#跟手)】`gen1 sheu3` <sup>[兴化]</sup> ① 随手：他一进家，～把门关起来。 ② 随后：你先去，我把家里安排下子～就到。也作“跟后”。  
 1. 【[跟趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tan.md#跟趟)】`gen1 tan5` <small>/kən1 tʰaŋ5/<sup>兴化</sup></small> ① 跟上。<sup>\[如东\]</sup>：能够～。<sup>\[如东\]</sup> ② 紧随大伙儿的步伐。<sup>\[东台\]</sup> ③ 养鸭术语<sup>\[兴化\]</sup>：指单头鸭跟上群鸭。<sup>\[兴化\]</sup> ④ （喻）跟上潮流，融入群体<sup>\[兴化\]</sup>：“我早叫你看破、看破，要～，放灵光些……”（马春阳《你该住红楼》）<sup>\[兴化\]</sup> ⑤ 赶上一般人水平<sup>\[兴化\]</sup>：他学习才跟上趟。<sup>\[兴化\]</sup>  
-1. 【[跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_teu.md#跟头)】`gen1 teu` <small>/kəŋ1 tʰei/<sup>如皋</sup></small> ① 倒台、失败、挫折。<sup>\[如皋\]</sup> ② 身体倒翻呈头朝地姿势<sup>\[泰州\]</sup>：他俫几个人当中，就数小李的～翻得好。<sup>\[泰州\]</sup> ③ 人走路时被物绊倒突然倒下<sup>\[泰州\]</sup>：年纪大的晚上跌咖个～，脸上的皮都磕掉啊。<sup>\[泰州\]</sup>  
+1. 【[跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_teu.md#跟头)】`gen1 teu` <small>/kəŋ1 tʰei/<sup>如皋</sup>, /kəŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 倒台、失败、挫折。<sup>\[如皋\]</sup> ② 身体倒翻呈头朝地姿势<sup>\[泰州\]</sup>：他俫几个人当中，就数小李的～翻得好。<sup>\[泰州\]</sup> ③ 人走路时被物绊倒突然倒下<sup>\[泰州\]</sup>：年纪大的晚上跌咖个～，脸上的皮都磕掉啊。<sup>\[泰州\]</sup> ④ 摔倒，跌倒<sup>\[泰兴\]</sup>：跌～。<sup>\[泰兴\]</sup> ⑤ 人体向下弯曲翻转的动作<sup>\[泰兴\]</sup>：翻～<sup>\[泰兴\]</sup>  
 1. 【[跟同](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ton.md#跟同)】`gen1 ton2` <sup>[泰州]</sup> 随在后面同行或者同做某事：你俫两个就～老李上南京去吧。  
 1. 【[哽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#哽)】`gen3` <sup>[如东]</sup> 堵塞：水沟捱～住啊。  
 1. 【[哽咽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ih.md#哽咽)】`gen3 ih7` <sup>[如东]</sup> 哭时不能痛快地出声。  
