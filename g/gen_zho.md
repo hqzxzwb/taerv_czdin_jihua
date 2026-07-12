@@ -11,6 +11,6 @@ gen1 zho/do
   - 我～不去。
 
 # 今朝
-gen1 zho1
+gen1 zho
 + 今天
   * 泰兴方言辞典
