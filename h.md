@@ -1121,10 +1121,11 @@
 1. 【[欢喜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xi.md#欢喜)】`hu1 xi3` <sup>[泰州]</sup> 喜欢，喜欢：茨菇烧肉是最～吃的菜。  
 1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_dy.md#灰堆)】`hu1 dy1` <sup>[东台]</sup> 农家存放垃圾和抛灰的地方。可作肥料。（这里“灰”为特殊读法。）  
 1. 【[胢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu.md#胢)】`hu1` <sup>[东台]</sup> 肿起：捱百脚咬啊下子，这刻儿脚上～起来啊。东台词典写“䏨”。  
+1. 【[䗙䘆舍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_sha_zz.md#䗙䘆舍子)】`hu2 xin sha5 zz` <small>/xɤɯ2 ɕĩ sɑ5 t͡sɿ/<sup>泰兴</sup></small> 蚓粪小堆，常见于蚯蚓洞口地面上<sup>\[泰兴\]</sup>  
 1. 【[䗙䘆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin.md#䗙䘆)】`hu2 xin1` <small>/xo2 ɕiɪ̃5/<sup>兴化</sup>, /xʊ2 ɕĩ1/<sup>如皋</sup>, /xɤɯ2 ɕĩ/<sup>泰兴</sup>, /xo2 ɕiɪ̃1/<sup>泰县</sup></small> 蚯蚓<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如东：又俗音“河香”\]\[东台：又名曲蟮\]  
 1. 【[䗙䘆翻跟头——腰里悬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_faen_gen.md#䗙䘆翻跟头——腰里悬)】`hu2 xin1 faen1 gen1 teu2 io1 lii xiun2` <sup>[东台]</sup>   
 1. 【[䗙䘆呵屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_hu_dio.md#䗙䘆呵屌<sub>儿</sub>)】`hu2 xin1 hu1 dio3 r` <sup>[如皋]</sup> 据说小孩包皮水肿是～所致。  
-1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <small>/xʊ2 ɕĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 曲张的静脉血管。<sup>\[如皋\]</sup> ② 皮下主静脉血管。<sup>\[如皋\]</sup>  
+1. 【[䗙䘆筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_jien.md#䗙䘆筋)】`hu2 xin1 jien1` <small>/xʊ2 ɕĩ1 t͡ɕiəŋ1/<sup>如皋</sup></small> 皮下主静脉血管。<sup>\[如皋\]</sup>  
 1. 【[䗙䘆路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_xin_lv.md#䗙䘆路)】`hu2 xin1 lv6` <sup>[如皋]</sup> 羊肠小道。  
 1. 【[何必](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_bieh.md#何必)】`hu2 bieh7` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
 1. 【[何的个甚的苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hu_dii_gu_shen.md#何的个甚的苦)】`hu2 dii gu shen2 nii kv3` <sup>[如皋]</sup> 叹息语，表示做了不愿、无价值、无必要的事。  
