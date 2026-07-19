@@ -8,3 +8,8 @@ xien1 qi5 beh7 laeh
 xien1 qi beh laeh dii
 > 如皋方言词典
 - 对腥味表示厌恶的说法。
+
+# 腥气不剌的
+xien1 qi beh laeh dii
++ 谓含有浓烈的腥味。
+  * 泰兴方言辞典
