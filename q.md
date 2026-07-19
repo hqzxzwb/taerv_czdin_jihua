@@ -523,10 +523,12 @@
 1. 【[像够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_geu.md#像够)】`qian6 geu5` 是足够怎样，表示达到“非常，很”的程度<sup>\[泰州\]</sup>：这小伙～坏的，人家下岗的人找他办事也要花钱他才肯办。你今朝子烧的这个菜盐放吖多啊，～咸的唻，根本就不能进嘴。<sup>\[泰州\]</sup>  
 1. 【[像个人<sub>儿</sub>灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_gu_ren_r.md#像个人<sub>儿</sub>灯)】`qian6 gu ren2 r den1` <sup>[东台]</sup> （贬）某人本来很一般，还装作有点出众。  
 1. 【[像个头绪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_gu_teu_xy.md#像个头绪)】`qian6 gu teu2 xy6` <sup>[东台]</sup> （贬）某人本来档次不高，还装作有身份，有本事的样子。  
-1. 【[像模像样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mu_qian_ian.md#像模像样)】`qian6 mu2 qian6 ian6` <small>/t͡ɕʰiaŋ6 mo2 t͡ɕʰiaŋ6 iaŋ6/<sup>兴化</sup></small> ① 装模作样<sup>\[兴化\]</sup>：他今朝上丈母家去，穿得～的。<sup>\[兴化\]</sup>｜今天请客，免不得把房间布置得～的。<sup>\[兴化\]</sup> ② “像模样”的生动形式，意谓达到乃至超过特定事物应具有的水平或者标准<sup>\[泰州\]</sup>：明朝大学的老同学到泰州来，中上吃饭要找一家～的饭店。<sup>\[泰州\]</sup>｜团委打算在五四这天搞一台～的晚会。<sup>\[泰州\]</sup>  
+1. 【[像样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ian.md#像样)】`qian6 ian6` <small>/t͡ɕʰiɑŋ1 iɑŋ1/<sup>泰兴</sup></small> 美观，漂亮。<sup>\[泰兴\]</sup>  
+1. 【[像模像样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_mu_qian_ian.md#像模像样)】`qian6 mu2 qian6 ian6` <small>/t͡ɕʰiaŋ6 mo2 t͡ɕʰiaŋ6 iaŋ6/<sup>兴化</sup>, /t͡ɕʰiɑŋ1 mɤɯ2 t͡ɕʰiɑŋ1 iɑŋ1/<sup>泰兴</sup></small> ① 正式的。非常正规，漂亮、体面。<sup>\[泰兴\]</sup> ② 装模作样<sup>\[兴化\]</sup>：他今朝上丈母家去，穿得～的。<sup>\[兴化\]</sup>｜今天请客，免不得把房间布置得～的。<sup>\[兴化\]</sup> ③ “像模样”的生动形式，意谓达到乃至超过特定事物应具有的水平或者标准<sup>\[泰州\]</sup>：明朝大学的老同学到泰州来，中上吃饭要找一家～的饭店。<sup>\[泰州\]</sup>｜团委打算在五四这天搞一台～的晚会。<sup>\[泰州\]</sup>  
 1. 【[像吖神吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_nga_shen_nga.md#像吖神吖)】`qian6 nga shen2 nga` <small>/t͡ɕʰiã1 ŋa səŋ2 ŋa/<sup>如皋</sup></small> ① 十分相像。又称：“神像”。<sup>\[如皋\]</sup> ② 非常像。<sup>\[如皋\]</sup>  
 1. 【[像泥牛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ni_ngeu_r.md#像泥牛<sub>儿</sub>)】`qian6 ni2 ngeu2 r` <sup>[如皋]</sup> 浑身泥水的样子。  
 1. 【[像如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_rv.md#像如)】`qian6 rv2` <sup>[如东]</sup> 好像：～见过的一样。也作“强如”。  
+1. 【[像心像意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_xien_qian_i.md#像心像意)】`qian6 xien1 qian6 i5` <small>/t͡ɕʰiɑŋ1 ɕiŋ1 t͡ɕʰiɑŋ1 ʝ5/<sup>泰兴</sup></small> 真心实意；认认真真。<sup>\[泰兴\]</sup>  
 1. 【[匠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ren.md#匠人)】`qian6 ren` <small>/t͡ɕʰiɑŋ1 ɻəŋ/<sup>泰兴</sup></small> ① 具有一定专业技能的小手工业者，如木匠、瓦匠等。通称手艺人。<sup>\[如东\]</sup> ② 木工，工匠。泛称各种手艺人。如机匠、瓦匠、木匠、篾匠等等。<sup>\[泰兴\]</sup>  
 1. 【[唴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian.md#唴)】`qian6` <sup>[如东]</sup> 小儿哭闹不止。  
 1. 【[戗场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_chan.md#戗场)】`qian6 chan2` <sup>[如东]</sup> 将场地翻松洒水整平。将稻秸或麦秸撒乱在场地上。  
@@ -1326,13 +1328,13 @@
 1. 【[舅老<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_lo_r.md#舅老<sub>儿</sub>)】`qieu6 lo3 r` <sup>[泰县]</sup> 内兄弟。  
 1. 【[舅姆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_mu_zz.md#舅姆子)】`qieu6 mu zz` <sup>[东台]</sup> 妻子的兄弟的妻子。又作舅婆子，舅子马马儿。  
 1. 【[舅母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_mu.md#舅母)】`qieu6 mu` 舅妈，舅舅的妻子  
-1. 【[舅母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_mu.md#舅母)】`qieu6 mu3` <sup>[如东]</sup> 舅舅的妻子。  
+1. 【[舅母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_mu.md#舅母)】`qieu6 mu` <small>/t͡ɕʰiɤɯ1 mɤɯ/<sup>泰兴</sup></small> 舅舅的妻子。<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
 1. 【[舅奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_nae_nae.md#舅奶奶)】`qieu6 nae3 nae` ① 母亲的舅母。<sup>\[如东\]</sup> ② 父亲或母亲的舅妈。<sup>\[东台\]</sup> ③ 妻子的兄弟的配偶。<sup>\[泰州\]</sup>  
-1. 【[舅舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu.md#舅舅)】`qieu6 qieu` 舅舅，妈妈的哥哥或弟弟  
-1. 【[舅舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu.md#舅舅)】`qieu6 qieu6` <sup>[如东]</sup> 母亲的哥哥、弟弟。亦称舅父、娘舅。  
+1. 【[舅舅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu.md#舅舅)】`qieu6 qieu` <small>/t͡ɕʰiɤɯ1 t͡ɕʰiɤɯ/<sup>泰兴</sup></small> 母亲的兄弟。<sup>\[泰兴\]</sup>\[如东：亦称舅父、娘舅。\]  
+1. 【[舅舅家有条牛，外甥派个头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_ga_ieu.md#舅舅家有条牛，外甥派个头)】`qieu6 qieu6 ga1 ieu3 tio2 ngeu2 vae6 shen1 pae5 gu5 teu2` <small>/t͡ɕʰiɤɯ1 t͡ɕʰiɤɯ1 kɑ1 iɤɯ3 tʰiɔ2 ŋəɪ2 ʋɛ1 səŋ1 pʰɛ5 kɤɯ5 tʰəɪ2/<sup>泰兴</sup></small> 谓舅舅十分关爱外甥和外甥女。<sup>\[泰兴\]</sup>  
 1. 【[舅舅理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_qieu_li.md#舅舅理)】`qieu6 qieu6 li3` <sup>[兴化]</sup> 歪理、只对自己有利的理由：……讲一种胡搅蛮缠的歪理，叫做“讲～”。（汪曾祺《八千岁》）。  
 1. 【[舅太爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_tae_i.md#舅太爷)】`qieu6 tae5 i` <sup>[兴化]</sup> （借）对蛮横无理、妄自尊大者的鄙称：本地把蛮不讲理的人叫做～。（汪曾祺《鲍团长》）  
-1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` <small>/t͡ɕʰiɤɯ1 t͡se/<sup>泰县</sup></small> ① 妻子的兄弟。<sup>\[如东\]</sup> ② 舅舅。<sup>\[泰县\]</sup> ③ 妻子的哥哥和弟弟。<sup>\[泰州\]</sup>  
+1. 【[舅子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz.md#舅子)】`qieu6 zz` <small>/t͡ɕʰiɤɯ1 t͡sɿ/<sup>泰兴</sup>, /t͡ɕʰiɤɯ1 t͡se/<sup>泰县</sup></small> ① 妻子的兄弟。<sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 舅舅。<sup>\[泰县\]</sup>  
 1. 【[舅子婆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_zz_pu_r.md#舅子婆<sub>儿</sub>)】`qieu6 zz pu2 r` <sup>[如东]</sup> 舅子的妻子。  
 1. 【[切](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih.md#切)】`qih7` <sup>[如东]</sup> 用刀把物品切成若干部分：～西瓜。  
 1. 【[切板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qih_baen.md#切板)】`qih7 baen3` <small>/t͡ɕʰiʔ7 pɛ̃3/<sup>泰兴</sup></small> 厨具，砧板、切菜板<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  

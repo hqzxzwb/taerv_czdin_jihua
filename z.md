@@ -1613,7 +1613,7 @@
 1. 【[锥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei.md#锥)】`zhuei1` <small>/t͡suəi1/<sup>兴化</sup>, /t͡suei1/<sup>如皋</sup></small> ① （蜂）蜇人 ② 动词<sup>\[如皋\]</sup>：拿锥子～洞儿。<sup>\[如皋\]</sup> ③ 钻<sup>\[兴化\]</sup>：板壁上捱他～啊一个洞。<sup>\[兴化\]</sup> ④ 蜂、蝎等用毒针蜇人，俗谓～人。<sup>\[兴化\]</sup> ⑤ 蜂、蝎子之类蜇人<sup>\[泰州\]</sup>：他的脸上捱胡峰～啊肿起来啊。<sup>\[泰州\]</sup>｜你俫让吖远吖点儿，当心这些蜜蜂儿～人。<sup>\[泰州\]</sup>  
 1. 【[锥跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_qio.md#锥跷)】`zhuei1 qio1` <sup>[如皋]</sup> 见“支跷”。  
 1. 【[锥跷话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_qio_hua.md#锥跷话)】`zhuei1 qio1 hua6` <sup>[如皋]</sup> 见“怮跷话”。  
-1. 【[锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz.md#锥子)】`zhuei1 zz` <small>/t͡suei1 t͡sɿ/<sup>如皋</sup></small> 喻专注的人<sup>\[如皋\]</sup>：他是个寻钱的～。<sup>\[如皋\]</sup>  
+1. 【[锥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz.md#锥子)】`zhuei1 zz` <small>/t͡suei1 t͡sɿ/<sup>如皋</sup>, /t͡suəɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 锥。尖端锐利，用来钻孔的工具。<sup>\[泰兴\]</sup> ② 喻专注的人<sup>\[如皋\]</sup>：他是个寻钱的～。<sup>\[如皋\]</sup>  
 1. 【[锥子𠫓咖尿桶里——扦尿（谦虚）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_zz_teh_ga.md#锥子𠫓咖尿桶里——扦尿（谦虚）)】`zhuei1 zz teh7 ga xy1 ton3 lii qin1 xy1` <sup>[东台]</sup>   
 1. 【[坠人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_ren_zz.md#坠人子)】`zhuei5 ren zz` <sup>[如皋]</sup> 下坠样不适感。  
 1. 【[坠人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhuei_ren.md#坠人)】`zhuei5 ren2` <sup>[兴化]</sup> 腹部感到沉重，就像内急的感觉：山芋吃多啊有点～。  

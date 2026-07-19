@@ -929,15 +929,17 @@
 1. 【[星星点点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点)】`xien1 xien1 din3 din3` <sup>[如皋]</sup> 雨滴很稀。  
 1. 【[星星点点的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_din_din.md#星星点点的)】`xien1 xien1 din3 din3 dii` <sup>[如皋]</sup> 散乱而稀疏的：开始落雨的刻儿是～。  
 1. 【[腥□气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥□气)】`xien1 ngaen qi5` <sup>[东台]</sup> ① 东西虽少腥臭味不小。 ② ［喻］事情不大，却有废话：收一点儿东西，也是收，～！  
+1. 【[腥眼瞎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_haeh_qi.md#腥眼瞎气)】`xien1 ngaen haeh7 qi5` <small>/ɕiŋ1 ŋɛ̃ xæʔ7 t͡ɕʰʝ5/<sup>泰兴</sup></small> 只有一点点，很少的一点。谓人吝啬。<sup>\[泰兴\]</sup>  
 1. 【[腥眼沰黐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_dah_chr.md#腥眼沰黐)】`xien1 ngaen3 dah7 chr1` 一种又肮脏又腥气的样子和气味。\[如东：《如东方言词典》第三四字作“答眵”\]  
 1. 【[腥眼气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ngaen_qi.md#腥眼气)】`xien1 ngaen3 qi5` <sup>[如东]</sup> 一种腥气味：从渔船上回来，衣裳上有一种～。  
 1. 【[腥气不剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh.md#腥气不剌的)】`xien1 qi beh laeh dii` <sup>[如皋]</sup> 对腥味表示厌恶的说法。  
+1. 【[腥气不剌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh.md#腥气不剌的)】`xien1 qi beh laeh dii` <small>/ɕiŋ1 t͡ɕʰʝ pəʔ læʔ təɪ/<sup>泰兴</sup></small> 谓含有浓烈的腥味。<sup>\[泰兴\]</sup>  
 1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi vei6` <sup>[兴化]</sup> ① 腥气：这死鱼一股子～。 ② 指沾上违纪违法的事或惹上嫌疑：他一个人犯事，同办公室的人都沾上～。  
 1. 【[腥气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi.md#腥气)】`xien1 qi5` ① 鱼腥味。<sup>\[如东\]</sup>：鱼网非常～。<sup>\[如东\]</sup> ② 动物的肉、血发出的难闻气味。<sup>\[泰州\]</sup>  
 1. 【[腥气不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_beh_laeh.md#腥气不剌)】`xien1 qi5 beh7 laeh` <sup>[泰州]</sup> “腥气”的生动形式，腥气味非常浓烈：大人在这块㓾鱼，你摸咖做甚的，～的，你快同我让吖远吖点儿哉。  
 1. 【[腥气搭吽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_daeh_hon.md#腥气搭吽)】`xien1 qi5 daeh7 hon1` <sup>[东台]</sup> 嘲讽某人在人情交往中出手不大，却喜欢显摆：不就两瓶酒啊，还老挂啊嘴上，～的！  
 1. 【[腥气勃剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_peh_laeh.md#腥气勃剌)】`xien1 qi5 peh8 laeh` <sup>[东台]</sup> 腥臭味很浓：在菜场治啊半天鱼，身上～的。  
-1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi5 vei6` <sup>[泰州]</sup> ① 动物的肉、血发出的难闻气味：才吃过螃蟹，手上全是～。 ② 物品燃烧发出的难闻气味：家里哪块来的～，哪个在家里烧纸的啊？  
+1. 【[腥气味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qi_vei.md#腥气味)】`xien1 qi5 vei6` <small>/ɕiŋ1 t͡ɕʰʝ ʋəɪ1/<sup>泰兴</sup></small> ① 鱼、虾、血的气味；荤食气味。<sup>\[泰兴\]</sup> ② 动物的肉、血发出的难闻气味<sup>\[泰州\]</sup>：才吃过螃蟹，手上全是～。<sup>\[泰州\]</sup> ③ 物品燃烧发出的难闻气味<sup>\[泰州\]</sup>：家里哪块来的～，哪个在家里烧纸的啊？<sup>\[泰州\]</sup>  
 1. 【[腥<sub>儿</sub>瞎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_r_haeh_qi.md#腥<sub>儿</sub>瞎气)】`xien1 r haeh7 qi5` <sup>[兴化]</sup> ① 腥气。 ② 形容少得可怜：父母双贺六十岁，当老总的儿子～的拿出一百块，亏他大出手。  
 1. 【[芯大的蜡烛不经点](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_da_dii_laeh.md#芯大的蜡烛不经点)】`xien1 da6 dii laeh8 zhoh beh7 jien1 din3` <small>/ɕiŋ1 tɑ1 təɪ læʔ8 t͡sɔʔ pəʔ7 t͡ɕiŋ1 tĩ3/<sup>泰兴</sup></small> 喻人贪心大了，往往连本钱都捞不回来，或谓当道的时间不会太长。<sup>\[泰兴\]</sup>  
 1. 【[芯子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#芯子)】`xien1 zz` <sup>[如皋]</sup> 馅儿、包馅。  

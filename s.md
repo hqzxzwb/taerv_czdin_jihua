@@ -29,7 +29,7 @@
 1. 【[腮巴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ba.md#腮巴)】`sae1 ba` <sup>[兴化]</sup> 即腮帮子，两颊的下半部。  
 1. 【[腮巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ba_zz.md#腮巴子)】`sae1 ba1 zz` <sup>[如皋]</sup> 脸颊外侧：他～上满是胡子。  
 1. 【[腮帮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_r.md#腮帮<sub>儿</sub>)】`sae1 ban1 r` <sup>[如东]</sup> 面部颧骨以下部分。  
-1. 【[腮帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_zz.md#腮帮子)】`sae1 ban1 zz` <small>/sɛ1 pã1 t͡sɿ/<sup>如皋</sup></small> ① 脸颊内侧<sup>\[如皋\]</sup>：～上有啊疳疮，疼得没魂。<sup>\[如皋\]</sup> ② 见“颌腮”。<sup>\[如皋\]</sup>  
+1. 【[腮帮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_ban_zz.md#腮帮子)】`sae1 ban1 zz` <small>/sɛ1 pã1 t͡sɿ/<sup>如皋</sup></small> 脸颊内侧\[如皋：见“颌腮”。\]：～上有啊疳疮，疼得没魂。<sup>\[如皋\]</sup>  
 1. 【[腮肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_roh.md#腮肉)】`sae1 roh8` <sup>[如皋]</sup> ① 咀嚼肌。 ② 猪头肉中腮部的精肉团。  
 1. 【[赛如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_rv.md#赛如)】`sae5 rv` <small>/sɛ5 lu/<sup>兴化</sup>, /sɛ5 ɻu/<sup>如皋</sup></small> ① 如同<sup>\[如皋\]</sup>：伢儿吃咖，～我吃咖。他到场就～我到场。<sup>\[如皋\]</sup> ② 见“煞如”。<sup>\[如皋\]</sup> ③ 胜过、超过<sup>\[兴化\]</sup>：大顾虽说是个庄子，～小集镇。<sup>\[兴化\]</sup> ④ 犹如、就像<sup>\[兴化\]</sup>：“‘阁王好见，小鬼难当’。他们这些人～就是些小鬼，你同他们缠些什么……”（《官场现形记》三五）也作“胜如”。<sup>\[兴化\]</sup> ⑤ 如同，就像<sup>\[泰州\]</sup>：我家爸爸成天只顾忙他单位上的事，家里的事都不问，这个家里有他～没得他。<sup>\[泰州\]</sup>  
 1. 【[赛如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sae_rv.md#赛如)】`sae5 rv2` <sup>[如皋]</sup> 见“强如”。  

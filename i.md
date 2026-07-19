@@ -1953,11 +1953,11 @@
 1. 【[幺二沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_geu.md#幺二沟)】`io1 er geu1` <sup>[兴化]</sup> 山沟的隐语（“幺二”之后是“三”，“三”和“山”谐音）。“下～”即走向深渊，不可救药之谓也。  
 1. 【[幺扣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_keu.md#幺扣)】`io1 keu1` <sup>[如东]</sup> 环形圆扣：打～。  
 1. 【[腰不得直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_beh_deh_cheh.md#腰不得直)】`io1 beh7 deh7 cheh8` <sup>[如东]</sup> 站不起来。比喻内心有愧：自从出咖那件事，他总是～。  
-1. 【[腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_bo.md#腰包)】`io1 bo1` <sup>[东台]</sup> 指钱包：掏～。  
+1. 【[腰包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_bo.md#腰包)】`io1 bo1` <small>/iɔ1 pɔ1/<sup>泰兴</sup></small> 钱包。<sup>\[泰兴\]</sup><sup>\[东台\]</sup>：掏～。<sup>\[泰兴\]</sup>｜掏～。<sup>\[东台\]</sup>  
 1. 【[腰餐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_caen.md#腰餐)】`io1 caen1` <sup>[兴化]</sup> 见“腰顿子”。  
 1. 【[腰顿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_den_r.md#腰顿<sub>儿</sub>)】`io1 den5 r` <sup>[泰县]</sup> 午饭前的副餐。  
 1. 【[腰顿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_den_zz.md#腰顿子)】`io1 den5 zz` <small>/iɔ1 tən5 t͡sɿ/<sup>兴化</sup></small> ① 在两次正餐之间吃的一顿<sup>\[兴化\]</sup>：栽秧、割麦活技重，中间要吃～。也称“腰餐”。<sup>\[兴化\]</sup> ② 早饭与中饭，或者中饭与晚饭中间的一顿饭。夏天白天时间长，农村干活的人早晨五点左右就吃早饭下田，中午要到12点左右，晚上7点左右才吃晚饭，两顿正餐之间相隔时间较长，需要中间进食补充体力，腰顿饭食一般是早饭或者中饭剩下来的饭菜<sup>\[泰州\]</sup>：过啊重阳，日头短吖唻，夏天做活技就不要吃～唻。<sup>\[泰州\]</sup>  
-1. 【[腰箍丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_daen.md#腰箍丹)】`io1 gv1 daen1` <sup>[泰州]</sup> 带状疱疹，由水痘、带状疱疹病毒引起的急性感染性皮肤病，红色斑块环绕腰部，故名。坊间认为斑块绕身一周，就有生命危险。  
+1. 【[腰箍丹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_daen.md#腰箍丹)】`io1 gv1 daen1` <small>/iɔ1 ku1 tɛ̃1/<sup>泰兴</sup></small> ① 带状疱疹。多生于腰间，故名。<sup>\[泰兴\]</sup> ② 带状疱疹，由水痘、带状疱疹病毒引起的急性感染性皮肤病，红色斑块环绕腰部，故名。坊间认为斑块绕身一周，就有生命危险。<sup>\[泰州\]</sup>  
 1. 【[腰箍梁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_lian.md#腰箍梁)】`io1 gv1 lian2` <sup>[兴化]</sup> 在多层建筑每一层上部的墙体四周，用钢筋混凝土捣制的圈梁。  
 1. 【[腰箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_zz.md#腰箍子)】`io1 gv1 zz` <sup>[兴化]</sup> 腰围：你～壮，小来小去的不在乎。  
 1. 【[腰鼓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_gv_zz.md#腰鼓子)】`io1 gv3 zz` <sup>[如皋]</sup> 腰围。  
@@ -1970,12 +1970,12 @@
 1. 【[腰门<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_men_r.md#腰门<sub>儿</sub>)】`io1 men2 r` <sup>[如皋]</sup> 大门外的外开式半高门，用以挡雨或防小孩外出。  
 1. 【[腰眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ngaen.md#腰眼)】`io1 ngaen3` <small>/iɔ1 ŋẽ3/<sup>如皋</sup></small> ① 腰侧软区。<sup>\[如皋\]</sup> ② 人体背部肾脏的位置，称腰眼。<sup>\[如东\]</sup> ③ 身体两侧腰部<sup>\[泰州\]</sup>：他～上疼，哿是得咖甚的毛病吖？<sup>\[泰州\]</sup>  
 1. 【[腰眼里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ngaen_lii.md#腰眼里)】`io1 ngaen3 lii` <sup>[东台]</sup> 指人的腰部两边。  
-1. 【[腰裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qyen.md#腰裙)】`io1 qyen2` <small>/iɔ1 t͡ɕʰyəŋ2/<sup>如皋</sup></small> ① 旧时女式长裙，下摆至地，不见小脚。多为黑缎料百摺裙。<sup>\[如皋\]</sup> ② 束在腰间的一种裙子，扁面长，能够围绕身体一周半，用于挡风和护脏。<sup>\[如东\]</sup>  
-1. 【[腰身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shen.md#腰身)】`io1 shen1` <sup>[如东]</sup> 腰围：量量～是多少。  
+1. 【[腰裙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_qyen.md#腰裙)】`io1 qyen2` <small>/iɔ1 t͡ɕʰyəŋ2/<sup>如皋</sup>, /iɔ1 t͡ɕʰyəŋ2/<sup>泰兴</sup></small> ① 旧时妇女束在腰部的大裙子。<sup>\[泰兴\]</sup> ② 旧时女式长裙，下摆至地，不见小脚。多为黑缎料百摺裙。<sup>\[如皋\]</sup> ③ 束在腰间的一种裙子，扁面长，能够围绕身体一周半，用于挡风和护脏。<sup>\[如东\]</sup>  
+1. 【[腰身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_shen.md#腰身)】`io1 shen1` <small>/iɔ1 səŋ1/<sup>泰兴</sup></small> ① 身段，体态；衣服腰部的尺寸。<sup>\[泰兴\]</sup> ② 腰围。<sup>\[如东\]</sup>：量量～是多少。<sup>\[如东\]</sup>  
 1. 【[腰岸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_un.md#腰岸)】`io1 un6` <small>/iɔ1 õ1/<sup>泰县</sup></small> ① 大田中间的一条小堤岸。<sup>\[如东\]</sup> ② 大田中间的一道小堤岸。<sup>\[泰县\]</sup> ③ 大田中的不供行走的小埂，以其位于大田中部，故名。下河农村水田面积大而狭长，由于田的两侧高低存在落差，田中进水以后，当地表高处秧苗水至秧的中部时，地表低处秧苗则已完全浸没水中。一般是在大田中间部位堆一小埂亦即腰岸，进水之时在腰岸上扒一小口，水从高处流入低处，低处秧苗水至秧的中部以后，将口堵上，继续进水直至高处秧苗水至秧的中部为止。例如<sup>\[泰州\]</sup>：这块田不曾弄得平，你在田里扒个腰岸。<sup>\[泰州\]</sup>  
 1. 【[腰岸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_un_zz.md#腰岸子)】`io1 un6 zz` <sup>[兴化]</sup> 种植水稻时，在长而斜的田块中，临时壅起的小岸，防止水由高向低流失。  
 1. 【[腰心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_xien.md#腰心)】`io1 xien1` <sup>[泰县]</sup> 羊的睾丸。  
-1. 【[腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#腰子)】`io1 zz` 肾脏。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[腰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#腰子)】`io1 zz` <small>/iɔ1 t͡sɿ/<sup>泰兴</sup></small> 肾脏。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[腰子桶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz_ton.md#腰子桶)】`io1 zz ton3` <sup>[如皋]</sup> 大的腰形木桶。推车用。  
 1. 【[邀而不欲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_er_beh_ioh.md#邀而不欲)】`io1 er beh7 ioh8` <small>/iɔ1 ɚ pəʔ7 iɔʔ8/<sup>泰县</sup></small> 不爽快、不诚心<sup>\[泰县\]</sup>：这个人做事有点儿～的。<sup>\[泰县\]</sup>  
 1. 【[邀罾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zen_zz.md#邀罾子)】`io1 zen1 zz` <sup>[泰县]</sup> 取鱼的网。  

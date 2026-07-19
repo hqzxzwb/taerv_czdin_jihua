@@ -1702,6 +1702,7 @@
 1. 【[锯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy.md#锯)】`jy5` <sup>[如东]</sup> 用带齿的工具来回拉动，使木料、石料、钢材等分开来，叫做锯。  
 1. 【[锯床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_chuan.md#锯床)】`jy5 chuan2` <sup>[如东]</sup> 锯金属材料的机床。常见的有弓锯床和圆锯床两种。弓锯床所用的刀具是长条形的，圆锯床所用的刀具是圆盘形的。  
 1. 【[锯倒树捉老鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_do_shv_zhuah.md#锯倒树捉老鸦)】`jy5 do3 shv6 zhuah7 lo3 nga1` <sup>[如皋]</sup> 偏执于固定思维，不会实事求是。  
+1. 【[锯倒树捉乌鸦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_do_shv_zhuah.md#锯倒树捉乌鸦)】`jy5 do3 shv6 zhuah7 v1 ia` <small>/t͡ɕy5 tɔ3 su1 t͡suɑʔ7 ʋ1 iɑ/<sup>泰兴</sup></small> 喻工作方法呆板不灵活，拘泥于陈规俗套。<sup>\[泰兴\]</sup>  
 1. 【[锯口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_keu.md#锯口)】`jy5 keu3` <small>/t͡ɕy5 kʰei3/<sup>如皋</sup></small> ① 锯齿处。<sup>\[如东\]</sup> ② 下锯的部位。<sup>\[如东\]</sup> ③ 锯下来的脚料。<sup>\[如皋\]</sup>  
 1. 【[锯木屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_moh_xiuh_r.md#锯木屑<sub>儿</sub>)】`jy5 moh8 xiuh7 r` <sup>[如皋]</sup> 比喻初学拉胡琴，声音嘶哑难听。  
 1. 【[锯匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jy_qian.md#锯匠)】`jy5 qian6` <small>/t͡ɕy5 t͡ɕʰiaŋ6/<sup>兴化</sup>, /t͡ɕy5 t͡ɕʰiã/<sup>如皋</sup></small> ① 旧指拉锯剖原木、解木方、木板的工人。这项工作今已由机械取代。<sup>\[兴化\]</sup><sup>\[如皋\]</sup> ② 以拉锯解析木头为职业的工匠<sup>\[泰州\]</sup>：现在的木料全部用电锯，～望不到唻。<sup>\[泰州\]</sup>  

@@ -2412,6 +2412,7 @@
 1. 【[喌喌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_r.md#喌喌<sub>儿</sub>)】`du2 du2 r` <sup>[如皋]</sup> 见“喌儿”。  
 1. 【[喌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_r.md#喌<sub>儿</sub>)】`du2 r` <sup>[如皋]</sup> ① 儿语，指鸡。 ② 唤鸡声。  
 1. 【[垛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du.md#垛)】`du3` <sup>[如皋]</sup> ① 草𧂐（zz5）。 ② 整齐的砖堆。 ③ 墙身加大处。  
+1. 【[垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_zz.md#垛子)】`du3 zz` <small>/tɤɯ3 t͡sɿ/<sup>泰兴</sup></small> 一定数量的砖头垒成一垛为一个垛子。<sup>\[泰兴\]</sup>：砖头～。<sup>\[泰兴\]</sup>  
 1. 【[朵<sub>儿</sub>肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_r_roh.md#朵<sub>儿</sub>肉)】`du3 r roh8` <sup>[如皋]</sup> 肌肉束。  
 1. 【[朵<sub>儿</sub>针](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_r_zhen.md#朵<sub>儿</sub>针)】`du3 r zhen1` <sup>[如皋]</sup> 簪，尾部常缀以玉石玛瑙。  
 1. 【[朵子板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_zz_baen.md#朵子板)】`du3 zz baen3` <sup>[如东]</sup> 床顶上位于大贺门下部的两块花板。  
@@ -2419,6 +2420,7 @@
 1. 【[躲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du.md#躲)】`du3` 躲藏  
 1. 【[躲兵燹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_bien_xin.md#躲兵燹)】`du3 bien1 xin3` <sup>[东台]</sup> 旧时东台老百姓躲避反动军队侵扰的行动。抗日战争时称“躲飞机”。  
 1. 【[躲得了初一，躲不了十五](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_deh_lio_chv.md#躲得了初一，躲不了十五)】`du3 deh7 lio3 chv1 ieh7 du3 beh7 lio3 sheh8 v3` <sup>[东台]</sup> 躲藏不是办法，总有一天被发现。  
+1. 【[躲躲悒悒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_ieh_ieh.md#躲躲悒悒)】`du3 du ieh7 ieh` <small>/tɤɯ3 tɤɯ iʔ7 iʔ/<sup>泰兴</sup></small> 躲躲闪闪；不大气。<sup>\[泰兴\]</sup>：箇个伢儿～的，怕见生人。<sup>\[泰兴\]</sup>  
 1. 【[躲躲蒙蒙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_mon_mon.md#躲躲蒙蒙)】`du3 du3 mon2 mon` <sup>[兴化]</sup> 捉迷藏。  
 1. 【[躲躲蒙寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_du_mon_qien.md#躲躲蒙寻)】`du3 du3 mon2 qien2` <sup>[东台]</sup> 也叫躲啊寻、躲猫猫、捉迷藏：几个小伢子在家屋团团～呢。  
 1. 【[躲野猫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_ia_mo_r.md#躲野猫<sub>儿</sub>)】`du3 ia3 mo2 r` <sup>[泰县]</sup> 捉迷藏。  
@@ -2433,7 +2435,8 @@
 1. 【[躲闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shin.md#躲闪)】`du3 shin3` <sup>[如东]</sup> 避让：遇到困难不要～。  
 1. 【[躲水猫猫<sub>儿</sub>寻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shuei_mo_mo.md#躲水猫猫<sub>儿</sub>寻)】`du3 shuei3 mo2 mo2 r qien2` <sup>[如皋]</sup> 水中捉迷藏。  
 1. 【[躲水蒙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_shuei_mon_zz.md#躲水蒙子)】`du3 shuei3 mon2 zz` <sup>[兴化]</sup> 捉迷藏。  
-1. 【[躲雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_y.md#躲雨)】`du3 y3` <sup>[如东]</sup> 走进有顶篷的地方，避免被雨水淋湿。  
+1. 【[躲雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_y.md#躲雨)】`du3 y3` <small>/tɤɯ3 y3/<sup>泰兴</sup></small> 避雨。<sup>\[泰兴\]</sup><sup>\[如东\]</sup>  
+1. 【[躲账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_zhan.md#躲账)】`du3 zhan5` <small>/tɤɯ3 t͡sɑŋ5/<sup>泰兴</sup></small> 避债。<sup>\[泰兴\]</sup>  
 1. 【[剁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du.md#剁)】`du5` <small>/tʊ5/<sup>如皋</sup>, /tɤɯ5/<sup>泰兴</sup></small> ① 用刀向下砍。<sup>\[如东\]</sup>：～肉。<sup>\[如东\]</sup> ② 文字删削<sup>\[如皋\]</sup>：中间～掉一大段文字。如皋词典写“剟”。<sup>\[如皋\]</sup> ③ 举起刀斧用力向下砍断<sup>\[泰州\]</sup>：把排骨～啊子。<sup>\[泰州\]</sup> ④ 砍，用力切割，斫。<sup>\[泰兴\]</sup>：～骨头<sup>\[泰兴\]</sup>  
 1. 【[剁□刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_lah_do.md#剁□刀)】`du5 lah do1` <small>/tɤɯ5 lɑʔ tɔ1/<sup>泰兴</sup></small> 詈语，具体含义不详<sup>\[泰兴\]</sup>：枪毙杀头～<sup>\[泰兴\]</sup>  
 1. 【[剁肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/du_roh.md#剁肉)】`du5 roh8` <sup>[如东]</sup> ① 把肉砍碎：中午吃饺儿，我切莱，你～。 ② 把肉割下来。  

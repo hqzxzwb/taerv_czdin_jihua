@@ -141,7 +141,8 @@
 1. 【[解捆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_kuen.md#解捆)】`gae3 kuen3` <sup>[兴化]</sup> 脱衣：他忙吖三天三夜不曾～。  
 1. 【[解缆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_laen.md#解缆)】`gae3 laen3` <sup>[兴化]</sup> 把拴船的铁索或粗绳从桩上解下：～开船。  
 1. 【[解落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_lah.md#解落)】`gae3 lah8` <sup>[如东]</sup> 拿份额：老板的～是3成。  
-1. 【[解手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_sheu.md#解手)】`gae3 sheu3` ① 小便。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 指大小便。<sup>\[东台\]</sup>  
+1. 【[解劝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_qiun.md#解劝)】`gae3 qiun5` <small>/kɛ3 t͡ɕʰyʊ̃5/<sup>泰兴</sup></small> 劝解矛盾的双方。<sup>\[泰兴\]</sup>  
+1. 【[解手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_sheu.md#解手)】`gae3 sheu3` <small>/kɛ3 ɕiɤɯ3/<sup>泰兴</sup></small> ① 小便。<sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 指大小便。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[解套](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_to.md#解套)】`gae3 to5` <sup>[如皋]</sup> 破解圈套，脱离困苦。  
 1. 【[解怀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_vae.md#解怀)】`gae3 vae2` <small>/kɛ3 ʋɛ2/<sup>如皋</sup></small> ① 解开胸怀以哺乳。指生第一胎<sup>\[如皋\]</sup>：她十八岁～；哪个女的不曾解过怀。<sup>\[如皋\]</sup> ② 女子第一次怀孕、生育。<sup>\[东台\]</sup>  
 1. 【[解小手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gae_xio_sheu.md#解小手)】`gae3 xio3 sheu3` <small>/kɛ3 ɕiɔ3 ɕiɤɯ3/<sup>泰兴</sup></small> 小便。<sup>\[泰兴\]</sup>  

@@ -102,7 +102,7 @@
 1. 【[派𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_gan.md#派𠵹)】`pae5 gan1` <small>/pʰɛ5 kaŋ1/<sup>兴化</sup>, /pʰɛ5 kã1/<sup>如皋</sup></small> ① 用话暗示<sup>\[如皋\]</sup>：她玩～，说“老松林的包儿多好吃”，就是要人家去买得来请她。<sup>\[如皋\]</sup> ② 用语言暗示自己的要求<sup>\[兴化\]</sup>：你有话直说，覅～。<sup>\[兴化\]</sup>  
 1. 【[派头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_teu.md#派头)】`pae5 teu` <small>/pʰɛ5 tʰəɪ/<sup>泰兴</sup></small> 气派、气势。<sup>\[泰兴\]</sup>  
 1. 【[䟺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae.md#䟺)】`pae6` <small>/pʰe1/<sup>泰县</sup></small> 在泥水中踩踏<sup>\[泰县\]</sup>：你看看把鞋子～啊这个样子。<sup>\[泰县\]</sup>  
-1. 【[稗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_zz.md#稗子)】`pae6 zz` <sup>[如东]</sup> 禾本科植物稗，一年生草本。高约130厘米。秆直立或广展，线形。叶稍秃净。圆锥花序直立。颖果。生长在沼泽地，为水稻田杂草之一。  
+1. 【[稗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_zz.md#稗子)】`pae6 zz` <small>/pʰɛ1 t͡sɿ/<sup>泰兴</sup></small> ① 叶子像稻禾的杂草。生于稻田，有害于稻子的生长。<sup>\[泰兴\]</sup>：拔～。<sup>\[泰兴\]</sup> ② 禾本科植物稗，一年生草本。高约130厘米。秆直立或广展，线形。叶稍秃净。圆锥花序直立。颖果。生长在沼泽地，为水稻田杂草之一。<sup>\[如东\]</sup>  
 1. 【[败顶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_dien.md#败顶)】`pae6 dien3` <sup>[兴化]</sup> 头顶光秃：他四十岁不到，就败啊顶。  
 1. 【[败家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_ga_xio.md#败家小)】`pae6 ga1 xio3` <small>/pʰɛ1 kɑ1 ɕiɔ3/<sup>泰兴</sup></small> 不务正业、挥霍家产、使家庭破落的子弟。<sup>\[泰兴\]</sup>  
 1. 【[败家小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pae_jia_xio.md#败家小)】`pae6 jia1 xio3` <small>/pʰɛ6 t͡ɕia1 ɕiɔ3/<sup>兴化</sup>, /pʰe1 t͡ɕia1 ɕiɔ3/<sup>泰县</sup></small> ① 指不务正业，挥霍家产的败家子。<sup>\[兴化\]</sup> ② 败家子。<sup>\[泰县\]</sup>  

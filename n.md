@@ -505,8 +505,9 @@
 1. 【[矮团墩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_tun_den.md#矮团墩)】`ngae3 tun2 den1` <sup>[东台]</sup> 形容某人个子矮、身体壮实。（有戏称意味）  
 1. 【[矮网<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_van_r.md#矮网<sub>儿</sub>)】`ngae3 van3 r` <sup>[如东]</sup> 网具的一种。麻线结成，长条形，底部装着脚子（陶瓷），无小网袋。作业时，插在沙滩上，利用潮水涨落拦鱼  
 1. 【[矮虽矮，一肚拐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_xy_ngae_ieh.md#矮虽矮，一肚拐)】`ngae3 xy1 ngae3 ieh7 dv3 guae3` <sup>[东台]</sup> 个子矮的人往往主意多，虽不显眼，但不好对付。  
-1. 【[矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz.md#矮子)】`ngae3 zz` <small>/ŋɛ3 t͡sɿ/<sup>如皋</sup></small> ① 身材矮小的人。<sup>\[如东\]</sup> ② 喻身份低人一等<sup>\[如皋\]</sup>：大家都去应酬，我不做～。<sup>\[如皋\]</sup>  
-1. 【[矮子里头选将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz_li_teu.md#矮子里头选将军)】`ngae3 zz li3 teu xiun3 jian1 jyen1` <sup>[东台]</sup> 喻指相对而言，差中选好。  
+1. 【[矮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz.md#矮子)】`ngae3 zz` <small>/ŋɛ3 t͡sɿ/<sup>如皋</sup>, /ŋɛ3 t͡sɿ/<sup>泰兴</sup></small> ① 身材矮小的人。<sup>\[泰兴\]</sup><sup>\[如东\]</sup> ② 喻身份低人一等<sup>\[如皋\]</sup>：大家都去应酬，我不做～。<sup>\[如皋\]</sup>  
+1. 【[矮子里头选将军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz_li_teu.md#矮子里头选将军)】`ngae3 zz li3 teu xiun3 jian1 jyen1` <small>/ŋɛ3 t͡sɿ lʝ3 tʰəɪ ɕyʊ̃3 t͡ɕiɑŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① 在差的中间选好的。<sup>\[泰兴\]</sup> ② 喻指相对而言，差中选好。<sup>\[东台\]</sup>  
+1. 【[矮子𨂝河，越𨂝越深](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_zz_paen_hu.md#矮子𨂝河，越𨂝越深)】`ngae3 zz paen2 hu2 iuh8 paen2 iuh8 shen1` <small>/ŋɛ3 t͡sɿ pʰɛ̃2 xɤɯ2 yʊʔ8 pʰɛ̃2 yʊʔ8 səŋ1/<sup>泰兴</sup></small> 喻问题越来越严重。<sup>\[泰兴\]</sup>  
 1. 【[爱忱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_chen.md#爱忱)】`ngae5 chen` <small>/ŋɛ5 t͡sʰəŋ/<sup>如皋</sup></small> 对人的看重、关爱<sup>\[如皋\]</sup>：她～你有钱。<sup>\[如皋\]</sup>  
 1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho3` <small>/ɛ5 xɔ3/<sup>兴化</sup>, /ŋɛ5 xɔ3/<sup>如皋</sup></small> 顾惜体面，注意仪表，衣着整齐整洁<sup>\[如皋\]</sup><sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：伢儿不～，脏吖死啊。<sup>\[如皋\]</sup>｜伢儿～，新衣裳上吖身就不瞎搂，生怕弄吖坏啊。<sup>\[如皋\]</sup>｜王家二新妇真～，跑出来总是格格铮铮的。<sup>\[兴化\]</sup>｜你这个伢儿一点儿都不～，新衣裳穿吖不到半天，就弄吖脏吖唻。<sup>\[泰州\]</sup>  
 1. 【[爱好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngae_ho.md#爱好)】`ngae5 ho5` <sup>[如东]</sup> 对某种事物有浓厚的兴趣：～游泳。  
@@ -1317,7 +1318,7 @@
 1. 【[腻污沰枯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_v_dah_kv.md#腻污沰枯)】`ni6 v1 dah7 kv1` <sup>[东台]</sup> 与“腻污搭糟”近义。  
 1. 【[腻外](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_vae.md#腻外)】`ni6 vae` <sup>[如东]</sup> 菜肴油腻过分，味道不正：今朝烧的粉丝有些～。  
 1. 【[腻味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_vei.md#腻味)】`ni6 vei6` <sup>[如皋]</sup> 腻烦、不甘味。  
-1. 【[腻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_zz.md#腻子)】`ni6 zz` ① 油漆前用石膏、水泥等调和、打底、补平。<sup>\[东台\]</sup> ② 一种泥状黏糊物体，油漆前涂抹在器物表面，用于填补缝隙、凹处，保持表面平整。油漆家具“腻子”多以桐油、石膏、松香等物混合而成，粉墙多用石灰、桐油、草纸等物混合而成。<sup>\[泰州\]</sup> ③ 一种瓦工工具，分为木制、铁制两种，粉墙之时用于抹平石灰、泥浆。（这一条存疑）<sup>\[泰州\]</sup>  
+1. 【[腻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_zz.md#腻子)】`ni6 zz` <small>/nʝ1 t͡sɿ/<sup>泰兴</sup></small> ① 油漆时为使表面平滑所用的泥状物。<sup>\[泰兴\]</sup> ② 油漆前用石膏、水泥等调和、打底、补平。<sup>\[东台\]</sup> ③ 一种泥状黏糊物体，油漆前涂抹在器物表面，用于填补缝隙、凹处，保持表面平整。油漆家具“腻子”多以桐油、石膏、松香等物混合而成，粉墙多用石灰、桐油、草纸等物混合而成。<sup>\[泰州\]</sup> ④ 一种瓦工工具，分为木制、铁制两种，粉墙之时用于抹平石灰、泥浆。（这一条存疑）<sup>\[泰州\]</sup>  
 1. 【[贰卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_ka.md#贰卡)】`ni6 ka3` <sup>[如皋]</sup> 鱼肉中游离的芒刺。多在背尾部。  
 1. 【[贰毛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ni_mo_r.md#贰毛<sub>儿</sub>)】`ni6 mo2 r` <sup>[如皋]</sup> ① 初生小毛。 ② 软而密的体毛、毛鬟。古腻。  
 1. 【[𰍧𰍨<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nia_nia_r.md#𰍧𰍨<sub>儿</sub>)】`nia1 nia2 r` <small>/nia1 nia˞2/<sup>如皋</sup></small> 双音节单纯词。状很小、极少，常与“奀奀儿”合用。\[如皋：有多种声调，也说nian nian r。\]：“家里米剩吖奀儿～。”<sup>\[如皋\]</sup>  
