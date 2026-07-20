@@ -272,7 +272,7 @@ def collect_all_entries():
                             if ex:
                                 ex = ex.replace('{', '').replace('}', '')
                                 examples.append(ex)
-                    example_text = f"{{{'；'.join(examples)}}}" if examples else ""
+                    example_text = f"{{{'｜'.join(examples)}}}" if examples else ""
                     meaning_parts.append(prefix + explanation + example_text)
                 meaning_text = "  ".join(meaning_parts)
 
@@ -459,7 +459,7 @@ def get_recent_entries(limit=10):
                                     if ex:
                                         ex = ex.replace('{', '').replace('}', '')
                                         examples.append(ex)
-                            example_text = f"{{{'；'.join(examples)}}}" if examples else ""
+                            example_text = f"{{{'｜'.join(examples)}}}" if examples else ""
                             meaning_parts.append(prefix + explanation + example_text)
                         meaning_text = "  ".join(meaning_parts)
                         
