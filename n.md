@@ -817,7 +817,7 @@
 1. 【[恶作](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_zah.md#恶作)】`ngah7 zah7` <sup>[东台]</sup> 厉害，过分：双方争夺得十分～｜太～的人不好共事。  
 1. 【[鄂家埭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngah_ga_tae.md#鄂家埭)】`ngah8 ga tae6` <sup>[如皋]</sup> 如皋江安镇的自然村名。  
 1. 【[𠵫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#𠵫)】`ngan` <sup>[如皋]</sup> 语气助词：这杲子重～，难拿啷！  
-1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <small>/aŋ1 sɿ1/<sup>兴化</sup>, /ŋã1 sɿ/<sup>如皋</sup></small> 黄颡鱼。又音 ngan1 cz1/3。\[如皋：喻小孩胡闹蛮吵的样子。\]\[泰州：大头平扁，大口圆吻小眼，上下颌有绒毛状的细齿；胸部长平无鳞，后部稍稍侧扁，呈青黄色带不规则褐色斑纹；背鳍灰黑带黄，均具发达硬刺，活动时能发声。\]\[兴化：生活在沟河中的小型鱼类，无鳞。俗称“䱀䲉钉子”。又比喻会争会闹的人。\]：他像个～。<sup>\[兴化\]</sup>  
+1. 【[䱀䲉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz.md#䱀䲉)】`ngan1 sz1` <small>/aŋ1 sɿ1/<sup>兴化</sup>, /ŋã1 sɿ/<sup>如皋</sup>, /ŋɑŋ1 sɿ1/<sup>泰兴</sup></small> 黄颡鱼。又音 ngan1 cz1/3。<sup>\[泰兴\]</sup>\[如皋：喻小孩胡闹蛮吵的样子。\]\[泰州：大头平扁，大口圆吻小眼，上下颌有绒毛状的细齿；胸部长平无鳞，后部稍稍侧扁，呈青黄色带不规则褐色斑纹；背鳍灰黑带黄，均具发达硬刺，活动时能发声。\]\[兴化：生活在沟河中的小型鱼类，无鳞。俗称“䱀䲉钉子”。又比喻会争会闹的人。\]：他像个～。<sup>\[兴化\]</sup>  
 1. 【[䱀䲉鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_sz_y.md#䱀䲉鱼)】`ngan1 sz1 y2` 黄颡鱼<sup>\[如东\]</sup><sup>\[东台\]</sup>：～涎/～皮肤中分泌的黏液。<sup>\[如东\]</sup>｜～颊骨<sup>\[如东\]</sup>  
 1. 【[咉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan.md#咉)】`ngan1` <sup>[兴化]</sup> ① 喧闹：伢儿～饭｜～觉。 ② 争闹：每回分东西他总要～一气。｜她成天～吖要分家。 ③ 《广韵·荡韵》乌郎切“～，～～咽悲也。”  
 1. 【[咉窠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngan_ku.md#咉窠)】`ngan1 ku1` <sup>[如皋]</sup> 蚊子晨昏聚飞交配，咉咉有声。  

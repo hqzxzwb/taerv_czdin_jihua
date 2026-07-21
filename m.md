@@ -488,6 +488,7 @@
 1. 【[摸细猪屌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_xi_zhv_dio.md#摸细猪屌子)】`mah8 xi5 zhv1 dio3 zz` <sup>[东台]</sup> 戏称度量小，只算小气账。  
 1. 【[摸鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_y.md#摸鱼)】`mah8 y2` <sup>[如东]</sup> ① 徒手在水中捉鱼。旧时，渔人在冬天摸鱼，上身穿棉背心，赤脚露腿，背背插箩，手拿钢叉，下河，不畏冷水彻骨，先用钢叉鞭击水面，迫使游鱼钻进芦棵和洞穴，然后伸手去摸，常常得手。 ② 无目标地寻找，碰一碰运气：这次去是～。  
 1. 【[摸鱼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_y_r.md#摸鱼<sub>儿</sub>)】`mah8 y2 r` <sup>[如皋]</sup> 胡猜，乱碰。  
+1. 【[漠𪎉子粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_haen_zz_zhoh.md#漠𪎉子粥)】`mah8 haen zz zhoh7` <small>/mɑʔ8 xɛ̃ t͡sɿ t͡sɔʔ7/<sup>泰兴</sup></small> 没有打底粮的𪎉子粥。<sup>\[泰兴\]</sup>  
 1. 【[膜络<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_lah_r.md#膜络<sub>儿</sub>)】`mah8 lah8 r` <sup>[如皋]</sup> 视觉模糊，视物若影，又像异物在闪动  
 1. 【[膜膜<sub>儿</sub>冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_r_don.md#膜膜<sub>儿</sub>冻)】`mah8 mah8 r don5` <sup>[如皋]</sup> 薄冰。  
 1. 【[膜膜<sub>儿</sub>厚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mah_mah_r_heu.md#膜膜<sub>儿</sub>厚)】`mah8 mah8 r heu6` <sup>[如东]</sup> 形容很薄很薄：这块布～。  

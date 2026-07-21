@@ -499,7 +499,7 @@
 1. 【[夏至](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr.md#夏至)】`xia6 zhr5` 二十四节气之一。通常在6月21或22日。  
 1. 【[夏至草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_zhr_co.md#夏至草)】`xia6 zhr5 co3` <sup>[如东]</sup> 唇形科植物夏至草，多年生直立草本。高约60厘米。茎方形，被有倒生细毛。叶掌状，3全裂，裂片有钝锯齿或小裂，两面均密生细毛。花冠白色，钟状。小坚果褐色，长圆状，三棱形。生长在水边、路旁。棉蚜等害虫常寄生在这种草上过冬。  
 1. 【[些些<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xia_xia_r.md#些些<sub>儿</sub>)】`xia9 xia1-3 r` <sup>[如皋]</sup> ① 很少：剩吖～。 ② 可能性很小：报告可以送，等批复就～咾。  
-1. 【[辖住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaeh_chv.md#辖住)】`xiaeh8 chv` 倚仗权势或者抓住他人弱点强迫他人做某事\[泰州：（泰州词典作挟）\]：他家老子～他同厂长赔礼打招呼。<sup>\[泰州\]</sup>  
+1. 【[辖住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaeh_chv.md#辖住)】`xiaeh8 chv` <small>/ɕiæʔ8 t͡sʰu/<sup>泰兴</sup></small> ① 倚仗权势或者抓住他人弱点强迫他人做某事\[泰州：（泰州词典作挟）\]：他家老子～他同厂长赔礼打招呼。<sup>\[泰州\]</sup> ② 制约着，迫使做事\[泰兴：（泰兴方言辞典作“煞”）\]  
 1. 【[闲扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_cha.md#闲扯)】`xiaen2 cha3` <sup>[东台]</sup> 漫无边际地随便聊天。  
 1. 【[闲端午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_dun_v.md#闲端午)】`xiaen2 dun1 v` <sup>[如皋]</sup> 端午节不在农忙时段。  
 1. 【[闲话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xiaen_hua.md#闲话)】`xiaen2 hua6` <sup>[东台]</sup> ① 与正题无关的话。 ② 引人猜疑的、背地里议论的是非话：男同志一般不要单独找女士谈心，免得人家说～。  
@@ -887,7 +887,7 @@
 1. 【[心子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_zz.md#心子)】`xien1 zz` <small>/ɕiŋ1 t͡se/<sup>泰县</sup></small> 馅儿<sup>\[泰县\]</sup>：肉～。<sup>\[泰县\]</sup>  
 1. 【[新秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_chen.md#新秤)】`xien1 chen5` <sup>[如皋]</sup> 市秤。与“老秤”相对。  
 1. 【[新坟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fen.md#新坟)】`xien1 fen2` <sup>[如皋]</sup> 新埋未满三年的坟。  
-1. 【[新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fv.md#新妇)】`xien1 fv` <small>/ɕin1 fu/<sup>兴化</sup>, /ɕiəŋ1 fu/<sup>如皋</sup>, /ɕiŋ1 fu/<sup>泰县</sup></small> ① 儿媳 ② 指儿子之妻。<sup>\[如皋\]</sup> ③ 新娘。本地一般指儿媳。<sup>\[东台\]</sup> ④ 儿媳妇<sup>\[兴化\]</sup>：“我家～心好手巧，打着灯笼天下难找……”（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup> ⑤ 媳妇。<sup>\[泰县\]</sup> ⑥ 儿子之妻，儿媳妇。<sup>\[泰州\]</sup>  
+1. 【[新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fv.md#新妇)】`xien1 fv` <small>/ɕin1 fu/<sup>兴化</sup>, /ɕiəŋ1 fu/<sup>如皋</sup>, /ɕiŋ1 fʋ/<sup>泰兴</sup>, /ɕiŋ1 fu/<sup>泰县</sup></small> ① 儿媳 ② 指儿子之妻。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ③ 新娘。本地一般指儿媳。<sup>\[东台\]</sup> ④ 儿媳妇<sup>\[兴化\]</sup>：“我家～心好手巧，打着灯笼天下难找……”（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup> ⑤ 媳妇。<sup>\[泰县\]</sup> ⑥ 儿子之妻，儿媳妇。<sup>\[泰州\]</sup>  
 1. 【[新妇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_fv.md#新妇)】`xien1 fv6` <sup>[如东]</sup> 新娶的媳妇。也指儿媳妇。  
 1. 【[新官上任三把火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gun_shan_ren.md#新官上任三把火)】`xien1 gun1 shan6 ren6 saen1 ba3 hu3` ① 新上任的干部特别有激情和积极性。<sup>\[东台\]</sup> ② 新上任的官员通常激情旺，积极性高。<sup>\[东台\]</sup>  
 1. 【[新姑爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_gv_i.md#新姑爷)】`xien1 gv1 i` <sup>[兴化]</sup> 新女婿：～上门，薄粥三盆。  
@@ -896,7 +896,7 @@
 1. 【[新秧子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ian_zz.md#新秧子)】`xien1 ian1 zz` <sup>[兴化]</sup> （喻）新手：厂长是个～，经验不足。  
 1. 【[新开头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kae_teu.md#新开头)】`xien1 kae1 teu2` <sup>[如东]</sup> 当初：～就是这吖的。  
 1. 【[新筐笿<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_kuan_lah_r.md#新筐笿<sub>儿</sub>)】`xien1 kuan1 lah r` <sup>[如皋]</sup> ① 贬指某种物件。 ② 贬指某种想法。  
-1. 【[新来乍到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lae_cha_do.md#新来乍到)】`xien1 lae2 cha6 do5` <sup>[泰州]</sup> 新到某地或者新处某个环境：局长新来乍到，对人头的情况还不熟悉。  
+1. 【[新来乍到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lae_cha_do.md#新来乍到)】`xien1 lae2 cha6 do5` 新到某地或者新处某个环境<sup>\[泰州\]</sup>：局长～，对人头的情况还不熟悉。<sup>\[泰州\]</sup>  
 1. 【[新来乍到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lae_zha_do.md#新来乍到)】`xien1 lae2 zha5 do5` <sup>[兴化]</sup> 俗指后来者：你～的，对情况不熟悉。‖也作“初来乍到”。  
 1. 【[新郎官](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lan_gun.md#新郎官)】`xien1 lan gun1` <small>/ɕiŋ1 nɑŋ kõ1/<sup>泰县</sup></small> ① 新郎。泰县方言志作“新娘官”。<sup>\[泰县\]</sup> ② 新郎。<sup>\[泰州\]</sup>  
 1. 【[新郎倌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_lan_gun.md#新郎倌)】`xien1 lan2 gun1` <small>/ɕiəŋ1 lã2 kʊ̃1/<sup>如皋</sup></small> ① 新郎 ② 新郎。<sup>\[如皋\]</sup><sup>\[如东\]</sup> ③ 也叫“新郎”，新婚男子。<sup>\[东台\]</sup>  
@@ -904,7 +904,8 @@
 1. 【[新米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_mi_r.md#新米<sub>儿</sub>)】`xien1 mi3 r` <sup>[兴化]</sup> 刚收获的稻谷碾出的米：～上市｜～粥｜～饭。  
 1. 【[新娘房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_fan.md#新娘房)】`xien1 nian fan2` <sup>[泰州]</sup> 结婚用的卧室，洞房。  
 1. 【[新娘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_r.md#新娘<sub>儿</sub>)】`xien1 nian r` <sup>[泰县]</sup> 蜻蜓。“蛵蛉”讹音。  
-1. 【[新娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz.md#新娘子)】`xien1 nian zz` <sup>[如皋]</sup> ① 新娘。结婚三年内未生育者称。现刚结婚女子统称～。 ② 瓢虫。鞘翅目。  
+1. 【[新娘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz.md#新娘子)】`xien1 nian zz` <small>/ɕiəŋ1 niã t͡sɿ/<sup>如皋</sup>, /ɕiŋ1 niɑŋ t͡sɿ/<sup>泰兴</sup></small> ① 新娘。结婚三年内未生育者称。现刚结婚女子统称～。<sup>\[如皋\]</sup> ② 瓢虫。鞘翅目。<sup>\[如皋\]</sup> ③ 刚结婚或刚婚不久的女子。<sup>\[泰兴\]</sup>  
+1. 【[新娘子的马子三日香](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_dii.md#新娘子的马子三日香)】`xien1 nian zz dii ma3 zz saen1 rih xian1` <small>/ɕiŋ1 niɑŋ t͡sɿ təɪ mɑ3 t͡sɿ ɕiɛ̃1 iʔ ɕiɑŋ1/<sup>泰兴</sup></small> 比喻对新来的人、新做的事最初几天兴趣很大，但未必能持久。\[泰兴：续句为“三天一过臭夯夯”。\]  
 1. 【[新娘子房](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_fan.md#新娘子房)】`xien1 nian zz fan2` <sup>[如皋]</sup> 新房，结婚的房间。  
 1. 【[新娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian.md#新娘)】`xien1 nian2` <sup>[如东]</sup> 刚结婚的女子。  
 1. 【[新娘子进吖房，媒人丢一旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nian_zz_jien.md#新娘子进吖房，媒人丢一旁)】`xien1 nian2 zz jien5 nga fan2 mei2 ren2 dieu1 ieh7 pan2` <sup>[东台]</sup> 有事有人无事无人的势利心态。  
@@ -912,11 +913,13 @@
 1. 【[新年大头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_da_teu.md#新年大头的)】`xien1 nin2 da6 teu2 dii` <sup>[如皋]</sup> 指春节间及刚过春节。  
 1. 【[新年头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_teu.md#新年头)】`xien1 nin2 teu2` <sup>[泰州]</sup> 农历正月开头几天，一般指正月初一至正月十八期间：～里，你俫伢儿望见人要恭喜人。  
 1. 【[新年头里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_nin_teu_lii.md#新年头里)】`xien1 nin2 teu2 lii` <small>/ɕin1 liɪ̃2 tʰɤ2 ləi/<sup>兴化</sup></small> ① 春节期间。此时有许多规矩、禁忌，要说恭维话、发财话、长寿话，不说不吉利的话。例如，恭禧发财。<sup>\[如东\]</sup> ② 正月初的几天<sup>\[兴化\]</sup>：～说话要图吉利。<sup>\[兴化\]</sup> ③ 指农历正月初一至初十这段时间。在此期间，有诸如不骂人、不说不吉利话等禁忌<sup>\[泰州\]</sup>：～的，你说这些话哿顺遂啊！<sup>\[泰州\]</sup>  
+1. 【[新女婿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_ny_xy.md#新女婿)】`xien1 ny3 xy` <small>/ɕiŋ1 ny3 ɕy/<sup>泰兴</sup></small> 岳家称新结婚的女婿。<sup>\[泰兴\]</sup>  
 1. 【[新亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#新亲)】`xien1 qien1` <small>/ɕin1 t͡ɕʰin1/<sup>兴化</sup>, /ɕiəŋ1 t͡ɕʰiəŋ1/<sup>如皋</sup></small> 新结亲而建立的亲戚关系。<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：刘、吴两家是才结的一门～。<sup>\[兴化\]</sup>  
 1. 【[新净](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien.md#新净)】`xien1 qien6` <sup>[如皋]</sup> 新鲜。  
 1. 【[新净事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_qien_shr.md#新净事)】`xien1 qien6 shr` <sup>[如皋]</sup> 新鲜事。  
 1. 【[新上市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shan_shr.md#新上市)】`xien1 shan6 shr6` <sup>[如皋]</sup> 适时上市的食品。  
 1. 【[新式床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_sheh_chuan.md#新式床)】`xien1 sheh7 chuan2` <sup>[如东]</sup> 床的一种。结构比较简单，四根床柱，正方形，中上部车成葫芦状。床体很结实。  
+1. 【[新市复烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_shr_foh_sho.md#新市复烧饼)】`xien1 shr6 foh7 sho1 bien` <small>/ɕiŋ1 sɿ1 fɔʔ7 sɔ1 piŋ/<sup>泰兴</sup></small> 乡间美食之一。以虾、猪肉、韭菜等作馅裹于面皮中以文火炊之，用手轻揿，烘熟出锅，不焦不糊，薄而圆，脆而香，乡人尤喜食。<sup>\[泰兴\]</sup>  
 1. 【[新新头头的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xien_teu_teu.md#新新头头的)】`xien1 xien1 teu2 teu2 dii` <sup>[如皋]</sup> 指春节间及刚过春节。  
 1. 【[新鲜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xin.md#新鲜)】`xien1 xin1` <sup>[兴化]</sup> ① 异常亲热：嫂子刚进门，跟小姑子两个人没魂～。｜处朋友不能忽冷忽热，要既不～，也不烦恼。 ② （借）多日不见的熟人：二老爹多日不见，你是～人吖！  
 1. 【[新鲜人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xien_xin_ren.md#新鲜人)】`xien1 xin1 ren2` <sup>[泰州]</sup> 谑称较长时间没有见到而突然现身的熟人：老翟，是～，今吖怎吖有空来的？  
