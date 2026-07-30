@@ -1945,6 +1945,7 @@
 1. 【[回锅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu.md#回锅)】`huei2 gu1` <small>/xuəɪ2 kɤɯ1/<sup>泰兴</sup></small> 谓重新烹调已熟的食品。<sup>\[泰兴\]</sup>：～肉<sup>\[泰兴\]</sup>  
 1. 【[回锅肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_roh.md#回锅肉)】`huei2 gu1 roh8` <sup>[东台]</sup> 先将猪肉煮至七成熟，后加桂皮、料酒、姜、葱、糖、酱油下锅烧，称之为～。  
 1. 【[回过味来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_gu_vei_lae.md#回过味来)】`huei2 gu5 vei6 lae` <sup>[东台]</sup> 醒悟明白原来不十分清楚、不十分理解的事情。  
+1. 【[回后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_heu.md#回后)】`huei2 heu6` 之后，然后<sup>\[如东\]</sup>  
 1. 【[回好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_ho.md#回好)】`huei2 ho3` <sup>[兴化]</sup> 旧婚俗，经“合婚”，如认为可婚配，即通知女方，并征询聘礼条件，谓～。  
 1. 【[回伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hu.md#回伙)】`huei2 hu3` <sup>[东台]</sup> 原指不打算一起吃饭的意愿，［喻］辞职不干：企业关爱工人，工人也就极少～不干。  
 1. 【[回汗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_hun.md#回汗)】`huei2 hun6` <sup>[如皋]</sup> 出汗衣湿，静下来觉得冷。  
