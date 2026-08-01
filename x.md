@@ -1433,7 +1433,7 @@
 1. 【[小产](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chaen.md#小产)】`xio3 chaen3` ① 自然流产。<sup>\[如东\]</sup> ② 流产，在妊娠最初12周内胎儿的非正常娩出。现在多说“早产”。<sup>\[泰州\]</sup>  
 1. 【[小肠膜子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_mah_zz.md#小肠膜子)】`xio3 chan2 mah8 zz` <sup>[如皋]</sup> 猪小肠刮去肉质后剩下的膜子。灌香肠用。  
 1. 【[小肠皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_pi_r.md#小肠皮<sub>儿</sub>)】`xio3 chan2 pi2 r` <sup>[如皋]</sup> 制肠衣刮下的猪小肠肉质部分。可做“扎肠”煮成“红肠”。  
-1. 【[小肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠气)】`xio3 chan2 qi5` <small>/ɕiɔ3 t͡sʰaŋ2 t͡ɕʰi5/<sup>兴化</sup>, /ɕiɔ3 t͡sʰã2 t͡ɕʰʝ5/<sup>如皋</sup>, /ɕiɔ3 t͡sʰɑŋ2 t͡sʰɿ5/<sup>泰县</sup></small> 疝气。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>  
+1. 【[小肠气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_qi.md#小肠气)】`xio3 chan2 qi5` <small>/ɕiɔ3 t͡sʰaŋ2 t͡ɕʰi5/<sup>兴化</sup>, /ɕiɔ3 t͡sʰã2 t͡ɕʰʝ5/<sup>如皋</sup>, /ɕiɔ3 t͡sʰɑŋ2 t͡ɕʰʝ5/<sup>泰兴</sup>, /ɕiɔ3 t͡sʰɑŋ2 t͡sʰɿ5/<sup>泰县</sup></small> 疝气。<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：把你～打下来（威胁语）<sup>\[泰兴\]</sup>  
 1. 【[小唱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chan_r.md#小唱<sub>儿</sub>)】`xio3 chan5 r` <small>/ɕiɔ3 t͡sʰaŋ5 ɚ/<sup>兴化</sup>, /ɕiɔ3 t͡sʰɑ˞5/<sup>泰兴</sup></small> ① 短小的民间小调。<sup>\[兴化\]</sup> ② 民间以唱为主的一种艺术表演形式，艺人多在农闲季节游走于乡间“卖唱儿”糊口，称卖“小唱儿”。<sup>\[泰兴\]</sup>  
 1. 【[小秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_chen.md#小秤)】`xio3 chen5` <sup>[如皋]</sup> 一般家用杆秤。称量上限20市斤，下限0两，分二纽：头纽看面花，打5-20市斤；二纽看怀花，打0两5市斤。  
 1. 【[小潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_cho.md#小潮)】`xio3 cho2` <small>/ɕiɔ3 t͡sʰɔ2/<sup>如皋</sup></small> ① 小汛。<sup>\[如皋\]</sup> ② 潮水水位低的海潮，称小潮。<sup>\[如东\]</sup>  
@@ -1727,7 +1727,7 @@
 1. 【[小劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zaen_roh.md#小劗肉)】`xio3 zaen1 roh8` <sup>[如皋]</sup> 小肉圆。又分油炸、水煮两种。  
 1. 【[小账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhan.md#小账)】`xio3 zhan5` <sup>[如东]</sup> 大账以外的账册。  
 1. 【[小沾小刮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhin_xio_guaeh.md#小沾小刮)】`xio3 zhin1 xio3 guaeh7` <sup>[泰州]</sup> 借助参与其事从中捞取小的好处：这丫头旁的方面的情况还好，就是这个～的毛病，怎吖说她都改不掉。  
-1. 【[小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zho.md#小照)】`xio3 zho5` <small>/ɕiɔ3 t͡sɔ5/<sup>泰县</sup></small> ① 照片，特指自己的尺寸较小的照片。<sup>\[如东\]</sup> ② 照片。<sup>\[泰县\]</sup> ③ 照片，照相机拍摄出的人物肖像<sup>\[泰州\]</sup>：领会员证要交一张一寸的～。<sup>\[泰州\]</sup>  
+1. 【[小照](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zho.md#小照)】`xio3 zho5` <small>/ɕiɔ3 t͡sɔ/<sup>泰兴</sup>, /ɕiɔ3 t͡sɔ5/<sup>泰县</sup></small> 照片<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>\[泰州：照相机拍摄出的人物肖像\]\[如东：特指自己的尺寸较小的照片。\]：领会员证要交一张一寸的～。<sup>\[泰州\]</sup>  
 1. 【[小猪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_r.md#小猪<sub>儿</sub>)】`xio3 zhv1 r` <sup>[泰县]</sup> 小猪。  
 1. 【[小猪<sub>儿</sub>行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zhv_r_han.md#小猪<sub>儿</sub>行)】`xio3 zhv1 r han2` <sup>[如皋]</sup> 苗猪行。  
 1. 【[小灶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xio_zo.md#小灶)】`xio3 zo5` <sup>[东台]</sup> ［喻］特殊对待：今吖老师开个～，给你补补课。  
@@ -1797,7 +1797,7 @@
 1. 【[凶时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_shr_chen.md#凶时辰)】`xion1 shr2 chen2` <sup>[如皋]</sup> 见“恶时辰”。  
 1. 【[凶死](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_sz.md#凶死)】`xion1 sz3` <small>/ɕiɔŋ1 sɿ3/<sup>泰兴</sup></small> 年轻力壮而突然死亡；非正常死亡。<sup>\[泰兴\]</sup>  
 1. 【[凶凶胖胖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_xion_pan_pan.md#凶凶胖胖)】`xion1 xion1 pan5 pan5` <sup>[如皋]</sup> 健壮、精神饱满。通常适用于老弱者。  
-1. 【[胸膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_mah.md#胸膜)】`xion1 mah8` <sup>[东台]</sup> 本指人体肺脏表面和胸腔内壁的浆膜，东台民间常指胸部，或暗指乳房部位。  
+1. 【[胸膜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_mah.md#胸膜)】`xion1 mah8` <sup>[东台]</sup> 指胸部，或暗指乳房部位。  
 1. 【[訩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#訩)】`xion1` <sup>[如东]</sup> 训斥人：他就欢喜～人。  
 1. 【[熊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion.md#熊)】`xion2` <small>/ɕioŋ2/<sup>兴化</sup>, /ɕioŋ2/<sup>泰县</sup></small> 训斥<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰县\]</sup>：他捱爷～吖一顿。<sup>\[东台\]</sup>｜他动不动就～人。<sup>\[兴化\]</sup>｜一上班就捱～吖一顿。<sup>\[泰州\]</sup>｜同他这种人没得必要客气，～他的皮。<sup>\[泰州\]</sup>｜～人。<sup>\[泰县\]</sup>  
 1. 【[雄不起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xion_beh_qi_lae.md#雄不起来)】`xion2 beh7 qi3 lae2` <sup>[如皋]</sup> 心有余而力不足。  
