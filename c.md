@@ -1123,6 +1123,7 @@
 1. 【[缠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin.md#缠)】`chin6` <small>/t͡sʰĩ1/<sup>如皋</sup></small> ① 暗中有不正当关系<sup>\[如皋\]</sup>：他家翁媳底下是～的。<sup>\[如皋\]</sup> ② 艰难困苦<sup>\[如皋\]</sup>：他家过日子是～的<sup>\[如皋\]</sup>｜这个人的将来是～的。<sup>\[如皋\]</sup> ③ 糟<sup>\[如皋\]</sup>：这件事发咖～，捱他搞啊～吖。<sup>\[如皋\]</sup> ④ 把绳索裹绕在物体上。<sup>\[如东\]</sup>：用绳子把竹竿～紧。<sup>\[如东\]</sup>  
 1. 【[缠扯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_cha.md#缠扯)】`chin6 cha3` <small>/t͡sʰĩ1 t͡sʰa3/<sup>如皋</sup></small> ① 互相牵连交叉<sup>\[如皋\]</sup>：夫妻底下用钱是～的。<sup>\[如皋\]</sup> ② 汇总后平均算<sup>\[如皋\]</sup>：做生意总有寻有折，～下来不折就算了。<sup>\[如皋\]</sup>  
 1. 【[缠缠拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_chin_la_la.md#缠缠拉拉)】`chin6 chin6 la1 la1` <sup>[东台]</sup> 磨磨蹭蹭，耽误时间。  
+1. 【[缠搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_daeh.md#缠搭)】`chin6 daeh` <small>/t͡ɕʰĩ1 tæʔ/<sup>泰兴</sup></small> 纠缠；麻烦；让人嫌烦。<sup>\[泰兴\]</sup>  
 1. 【[缠的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_dii.md#缠的)】`chin6 dii` <sup>[如东]</sup> ① 乱：这堆绳索～ ② 糊涂：这个人脑子～。  
 1. 【[缠话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_hua.md#缠话)】`chin6 hua6` <sup>[如皋]</sup> 事理糊涂不清的话。  
 1. 【[缠浑汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chin_huen_tan.md#缠浑汤)】`chin6 huen2 tan1` <sup>[如东]</sup> 趁机纠缠：他在下～。  
@@ -1383,6 +1384,7 @@
 1. 【[痴潮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_cho.md#痴潮)】`chr1 cho2` <sup>[如皋]</sup> 超期不退的潮水。  
 1. 【[痴痴冻冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_chr_don_don.md#痴痴冻冻)】`chr1 chr1 don5 don5` <sup>[泰县]</sup> 呆头呆脑。  
 1. 【[痴呆坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_dae_huae.md#痴呆坏)】`chr1 dae1 huae6` <sup>[泰州]</sup> 以表面上傻乎乎的样子掩饰实质上伤害他人的行为：不要望吖他这个老实样子，这小伙骨子里～。  
+1. 【[痴瞪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_den.md#痴瞪)】`chr1 den` <small>/t͡sʰɿ1 təŋ/<sup>泰兴</sup></small> 反应迟缓<sup>\[泰兴\]</sup>：～货/反应迟缓、不会办事者<sup>\[泰兴\]</sup>  
 1. 【[痴冻冻的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_don_don_dii.md#痴冻冻的)】`chr1 don5 don5 dii` <sup>[东台]</sup> 形容十分痴迷，不肯走开。  
 1. 【[痴儿想奶喝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_er_xian_nae.md#痴儿想奶喝)】`chr1 er xian3 nae3 huh7` <sup>[东台]</sup> ① ［喻］痴呆呆地等待别人给好处，还不知别人是否答应。 ② 喻指痴心妄想。  
 1. 【[痴狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_geu.md#痴狗)】`chr1 geu3` <small>/t͡sʰɿ1 kei3/<sup>如皋</sup></small> ① 狂犬。<sup>\[如东\]</sup> ② 精神错乱之犬（非狂犬病）<sup>\[如皋\]</sup>：～狗会乱咬人，连主人总咬。<sup>\[如皋\]</sup>  
@@ -1394,7 +1396,7 @@
 1. 【[痴里核登的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_lii_heh_den.md#痴里核登的)】`chr1 lii heh8 den1 dii` <sup>[如皋]</sup> ① 形容人不聪明。 ② 刚苏醒时或受惊后的迟钝状态。  
 1. 【[痴里亨敦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_lii_hen_den.md#痴里亨敦)】`chr1 lii hen1 den1` <sup>[泰县]</sup> 迟钝。  
 1. 【[痴里木足](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_lii_moh_zoh.md#痴里木足)】`chr1 lii moh8 zoh7` <sup>[东台]</sup> 同“痴里目瞪”。（参见“木足”）  
-1. 【[痴里目瞪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_lii_moh_den.md#痴里目瞪)】`chr1 lii moh8 den1` ① 目瞪口呆，反应迟钝的样子。<sup>\[东台\]</sup> ② 人反应迟钝<sup>\[泰州\]</sup>：这小伙～的，你让他去负责公司的公关工作，怕的有问题。<sup>\[泰州\]</sup>  
+1. 【[痴里目瞪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_lii_moh_den.md#痴里目瞪)】`chr1 lii moh8 den1` <small>/t͡sʰɿ1 ləɪ mɔʔ8 təŋ1/<sup>泰兴</sup></small> 目瞪口呆，反应迟钝的样子。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[泰州：人反应迟钝\]：这小伙～的，你让他去负责公司的公关工作，怕的有问题。<sup>\[泰州\]</sup>  
 1. 【[痴眯眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_mi_ngaen_r.md#痴眯眼<sub>儿</sub>)】`chr1 mi1 ngaen3 r` <sup>[东台]</sup> 视力不好，总要靠近某物才能看清的眼睛及人。  
 1. 【[痴迷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_mi.md#痴迷)】`chr1 mi2` <sup>[泰县]</sup> 痴情。  
 1. 【[痴盼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chr_paen.md#痴盼)】`chr1 paen5` <small>/t͡sʰɿ1 pʰɛ̃5/<sup>泰县</sup></small> 呆看，像个痴子<sup>\[泰县\]</sup>：他紧吖站吖那块望，像个～。<sup>\[泰县\]</sup>  

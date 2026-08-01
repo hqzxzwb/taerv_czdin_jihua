@@ -1852,7 +1852,7 @@
 1. 【[扇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zz.md#扇子)】`shin5 zz` <small>/ɕĩ5 t͡sɿ/<sup>泰兴</sup></small> 扇动生风的用具。<sup>\[泰兴\]</sup>  
 1. 【[扇子面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zz_min.md#扇子面)】`shin5 zz min6` <sup>[兴化]</sup> 像折扇打开时的半圆形。  
 1. 【[苫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#苫)】`shin5` <small>/ɕiɪ̃5/<sup>泰县</sup></small> ① 给草屋添补或铺上草<sup>\[东台\]</sup>：～草屋。<sup>\[东台\]</sup> ② 用席、布等遮盖<sup>\[东台\]</sup>：起天色咖，快点儿把场上的麦～好。<sup>\[东台\]</sup> ③ 用东西遮盖<sup>\[泰县\]</sup>：快点儿把场上的豆儿～起来。<sup>\[泰县\]</sup>  
-1. 【[骟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#骟)】`shin5` ① 阉割 ② 除去牲畜的睾丸或卵巢。<sup>\[东台\]</sup> ③ 割除动物睾丸<sup>\[泰州\]</sup>：～公猪<sup>\[泰州\]</sup>  
+1. 【[骟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#骟)】`shin5` <small>/ɕĩ5/<sup>泰兴</sup></small> 阉割，除去牲畜的睾丸或卵巢<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>：～公猪<sup>\[泰州\]</sup>  
 1. 【[骟猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zhv.md#骟猪)】`shin5 zhv1` <sup>[如东]</sup> 割掉猪的睾丸或卵巢。  
 1. 【[骟猪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin_zhv_zz.md#骟猪子)】`shin5 zhv1 zz` <small>/ɕĩ5 t͡su1 t͡sɿ/<sup>泰兴</sup></small> 阉割猪的睾丸或卵巢。<sup>\[泰兴\]</sup>  
 1. 【[善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shin.md#善)】`shin6` <sup>[东台]</sup> 动词，如银杏嫁接叫～白果，瓜类人工授粉叫～瓜，都是为了改良品种或提高坐果率。  
@@ -2878,8 +2878,9 @@
 1. 【[黍根](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_gen.md#黍根)】`shv3 gen1` <sup>[如东]</sup> 禾本科植物黍根。  
 1. 【[黍茎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jien.md#黍茎)】`shv3 jien1` <sup>[如东]</sup> 禾本科植物黍茎。  
 1. 【[数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv.md#数)】`shv5` <sup>[东台]</sup> ① 数目。 ② 事情的原委、底细或基本情况：哑巴吃饺子一心中有～。  
-1. 【[数范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_faen.md#数范)】`shv5 faen` <small>/su5 fɛ̃/<sup>兴化</sup>, /su5 fẽ/<sup>如皋</sup></small> ① 准备、打算<sup>\[兴化\]</sup>：我～明吖子进城看戏带买书。也说“预办”。<sup>\[兴化\]</sup> ② 准备。<sup>\[如皋\]</sup>  
+1. 【[数范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_faen.md#数范)】`shv5 faen` <small>/su5 fɛ̃/<sup>兴化</sup>, /su5 fẽ/<sup>如皋</sup>, /su5 fɛ̃/<sup>泰兴</sup></small> 准备、打算<sup>\[兴化\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：我～明吖子进城看戏带买书。也说“预办”。<sup>\[兴化\]</sup>  
 1. 【[数范](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_faen.md#数范)】`shv5 faen5` <sup>[东台]</sup> 也称“数意”，筹划、准备：元旦后就～春节的事。  
+1. 【[数摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_mah.md#数摸)】`shv5 mah` <small>/su5 mɑʔ/<sup>泰兴</sup></small> 对情况、底细的掌握<sup>\[泰兴\]</sup>：有～<sup>\[泰兴\]</sup>｜没～<sup>\[泰兴\]</sup>  
 1. 【[漱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv.md#漱)】`shv5` <sup>[泰州]</sup> 含水荡洗口腔：他忙吖嘴也不～就吃早饭。  
 1. 【[漱嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy.md#漱嘴)】`shv5 jy3` ① 漱口；刷牙 ② 漱口。<sup>\[东台\]</sup> ③ 含水荡洗口腔<sup>\[泰州\]</sup>：他嘴里出血，弄点儿水把他～。<sup>\[泰州\]</sup> ④ 用牙刷、牙膏刷牙<sup>\[泰州\]</sup>：你嘴里有烟味，快弄点儿弄牙膏～去。<sup>\[泰州\]</sup>  
 1. 【[漱嘴缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shv_jy_gan_r.md#漱嘴缸<sub>儿</sub>)】`shv5 jy3 gan1 r` <sup>[泰县]</sup> 漱口杯。  

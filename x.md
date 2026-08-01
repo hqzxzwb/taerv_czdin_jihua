@@ -1242,6 +1242,7 @@
 1. 【[嫌丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_cheu.md#嫌丑)】`xin2 cheu3` <sup>[如东]</sup> 人或物不漂亮。表示不满意：这双鞋子我～。  
 1. 【[嫌烦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_faen.md#嫌烦)】`xin2 faen2` <small>/ɕiɪ̃2 fɛ̃2/<sup>兴化</sup></small> ① 怕麻烦<sup>\[兴化\]</sup>：黄大妈倒也不是～，实在看这光景不是过日子人家模样……（《广陵潮》一）<sup>\[兴化\]</sup> ② 喜爱安静<sup>\[兴化\]</sup>：老爷爷看书要安静，小孩子打打闹闹的他～。<sup>\[兴化\]</sup> ③ 对外界的频繁骚扰感到厌恶<sup>\[泰州\]</sup>：只要你不～，我就天天来麻烦你。<sup>\[泰州\]</sup>  
 1. 【[嫌好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ho.md#嫌好)】`xin2 ho3` 实际效果或者结果超过期望，表示非常满意<sup>\[泰州\]</sup>：你买的这件衣裳把我穿吖身上～。<sup>\[泰州\]</sup>  
+1. 【[嫌好识丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ho_sheh_cheu.md#嫌好识丑)】`xin2 ho3 sheh7 cheu3` <small>/ɕĩ2 xɔ3 səʔ7 t͡ɕʰiɤɯ3/<sup>泰兴</sup></small> 嫌好嫌坏；说好道丑，这也不好，那也不好。<sup>\[泰兴\]</sup>  
 1. 【[嫌好识歹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ho_sheh_dae.md#嫌好识歹)】`xin2 ho3 sheh7 dae3` <sup>[东台]</sup> 就是过分挑剔。  
 1. 【[嫌好嫌丑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_ho_xin_cheu.md#嫌好嫌丑)】`xin2 ho3 xin2 cheu3` <sup>[泰州]</sup> 形容人挑剔苛求：不是我不肯弄饭，他这人难玩，到时候他～的，你吃不消他唠叨。  
 1. 【[嫌里不气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lii_beh_qi.md#嫌里不气)】`xin2 lii beh7 qi5` <sup>[兴化]</sup> 令人生厌的样子：这个人～的，凡事总有他来打岔。  

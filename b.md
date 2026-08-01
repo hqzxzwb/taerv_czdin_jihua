@@ -1115,7 +1115,7 @@
 1. 【[毕干的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_gun_dii.md#毕干的)】`bieh7 gun1 dii` <sup>[如皋]</sup> 很干燥。  
 1. 【[毕静的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_dii.md#毕静的)】`bieh7 qien6 dii` <sup>[东台]</sup> 形容十分安静：办公室里～，只能听见键盘滴滴哒哒打字的声音。  
 1. 【[毕静无声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_v_shen.md#毕静无声)】`bieh7 qien6 v2 shen1` <sup>[泰州]</sup> 非常安静，没有声响：会场里～。  
-1. 【[滗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#滗)】`bieh7` <small>/piəʔ7/<sup>如皋</sup></small> ① 挡住渣滓，把液体舀出来。<sup>\[如东\]</sup>：把汤～出来。<sup>\[如东\]</sup> ② 去渣<sup>\[如皋\]</sup>：～粥饮汤。<sup>\[如皋\]</sup> ③ 去汤<sup>\[如皋\]</sup>：～黄泔水。<sup>\[如皋\]</sup>  
+1. 【[滗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#滗)】`bieh7` <small>/piəʔ7/<sup>如皋</sup>, /piʔ7/<sup>泰兴</sup></small> 挡住渣滓，把液体倒出来。<sup>\[如东\]</sup><sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：把汤～出来。<sup>\[如东\]</sup>｜～粥饮汤（去渣）<sup>\[如皋\]</sup>｜～黄泔水（去汤）<sup>\[如皋\]</sup>  
 1. 【[碧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh.md#碧)】`bieh7` <sup>[东台]</sup> 清澈；经过整治，内河的水～清的，可以看见水中的鱼类。  
 1. 【[碧绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_loh.md#碧绿)】`bieh7 loh8` <sup>[东台]</sup> 绿得耀眼，特别：～色。  
 1. 【[碧清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien.md#碧清)】`bieh7 qien1` <sup>[泰州]</sup> 水非常清澄的状态：河里的水经过治理，有变得～的唻。｜这个水望吖像～的，里头不晓得多少细菌唻。  

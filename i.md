@@ -1669,7 +1669,6 @@
 1. 【[有说头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shuh_teu.md#有说头)】`ieu3 shuh7 teu` <sup>[如皋]</sup> 值得说，有所据。  
 1. 【[有数](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv.md#有数)】`ieu3 shv5` <small>/iɤɯ3 su5/<sup>泰兴</sup></small> ① 心里清楚明白 ② 知道数目，心里清楚。<sup>\[如东\]</sup>：他是来要账的，我心里～。<sup>\[如东\]</sup> ③ 数目不多。<sup>\[如东\]</sup>：花这几个钱，～。<sup>\[如东\]</sup> ④ 了解，清楚，明白<sup>\[泰州\]</sup>：账上还有钱，只有你会计个人～。<sup>\[泰州\]</sup>｜到时候话该怎吖说，他心里～，你就不要担心唻。<sup>\[泰州\]</sup>｜哪个真关心她，哪个是虚情假意，她心里～得很。<sup>\[泰州\]</sup> ⑤ 谓了解情况，心中有底。<sup>\[泰兴\]</sup>：瞎子吃馄饨，心中～<sup>\[泰兴\]</sup>  
 1. 【[有数的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv_dii.md#有数的)】`ieu3 shv5 dii` <small>/yʊ3 su5 tei/<sup>如皋</sup></small> 尖端的、上乘的、出名的<sup>\[如皋\]</sup>：如皋出的博士是～<sup>\[如皋\]</sup>｜真正的名牌产品是～。<sup>\[如皋\]</sup>  
-1. 【[有数摸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_shv_mah.md#有数摸)】`ieu3 shv5 mah` <small>/iɤɯ3 su5 mɑʔ/<sup>泰兴</sup></small> 心中有数。<sup>\[泰兴\]</sup>  
 1. 【[有头发的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_faeh_dii.md#有头发的)】`ieu3 teu2 faeh7 dii` <sup>[兴化]</sup> 指有身家、有责任能力的：他俫几个人撞的祸，人家只拣～的抓。  
 1. 【[有头有脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_ieu_lin.md#有头有脸)】`ieu3 teu2 ieu3 lin3` <sup>[泰州]</sup> 具有脸面，多指具有一定地位、名誉的人：他家老的过世，局里几个～的人全部送吖花圈。｜今朝下午的会，基层单位～的人来得不多。  
 1. 【[有头有尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ieu_teu_ieu_vei.md#有头有尾)】`ieu3 teu2 ieu3 vei3` <small>/iɤɯ3 tʰəɪ2 iɤɯ3 ʋəɪ3/<sup>泰兴</sup></small> 有开头，有结尾。形容连贯完整，清楚明白，有始有终。<sup>\[泰兴\]</sup>  
