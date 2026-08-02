@@ -1142,8 +1142,7 @@
 1. 【[碰屁股不转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pi_gu_beh.md#碰屁股不转弯)】`pon5 pi5 gu beh7 zhun3 vaen1` <sup>[如皋]</sup> 状空间过小。  
 1. 【[碰鼻子转弯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pieh_zz_zhun.md#碰鼻子转弯)】`pon5 pieh8 zz zhun3 vaen1` <sup>[兴化]</sup> ① 遇阻拐弯：一直朝东走，～就到他家。 ② 碰钉子回头：你劝他不听，他要碰鼻子才转弯哎。  
 1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun` <sup>[东台]</sup> 试一试有没有运气。  
-1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun5` <sup>[泰州]</sup> 在无把握的情况下采取某种措施试试：话不要说咖死啊，你去～，作兴能考上吖㖸。  
-1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun5` <small>/pɔŋ5 pɔŋ5 kʰʊ̃5/<sup>泰兴</sup></small> 试试看。<sup>\[泰兴\]</sup>  
+1. 【[碰碰看](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_kun.md#碰碰看)】`pon5 pon5 kun5` <small>/pɔŋ5 pɔŋ5 kʰʊ̃5/<sup>泰兴</sup></small> 在无把握的情况下试试<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：话不要说咖死啊，你去～，作兴能考上吖㖸。<sup>\[泰州\]</sup>  
 1. 【[碰碰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r.md#碰碰<sub>儿</sub>)】`pon5 pon5 r` <small>/pʰɔŋ5 pʰɔ˞5/<sup>如皋</sup></small> ① 无规律、不定准。<sup>\[如皋\]</sup> ② 指行动不定的人<sup>\[如皋\]</sup>：他是个～，难寻。<sup>\[如皋\]</sup> ③ 也许。<sup>\[如东\]</sup>：～会成功。耷子和的一种进牌方式。两张相同花色的牌，吃进另一张相同花色的牌，叫做碰碰儿。<sup>\[如东\]</sup>  
 1. 【[碰碰<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_r_zhan.md#碰碰<sub>儿</sub>账)】`pon5 pon5 r zhan5` <sup>[如东]</sup> 也许有机会：这次下去，～会成功的。  
 1. 【[碰巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qio.md#碰巧)】`pon5 qio3` <sup>[如东]</sup> 偶然遇上的机会：～，钱包捱我拈到啊。  
@@ -1267,8 +1266,7 @@
 1. 【[泼水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_shuei.md#泼水)】`puh7 shuei3` <sup>[如东]</sup> 将水使劲倒出去。一种婚俗。晚上，女儿出嫁前，将洗脸水泼在花轿前表示到婆家以后不再想娘家。  
 1. 【[泼趖趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_su_su.md#泼趖趖)】`puh7 su1 su1` <sup>[如皋]</sup> 恶狠狠的快速的走路：这个泼妇，～的去同人家打架。  
 1. 【[泼天撒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_tin_saeh_ti.md#泼天撒地)】`puh7 tin1 saeh7 ti6` <sup>[如皋]</sup> 见“泼泼撒撒”。  
-1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <sup>[如皋]</sup> ① 促化音。掉转船头，本义。 ② 搬移笨重物品：～缸、～天水、～砖头、～嫁妆。 ③ 搬弄：～来～去、～是非。 ④ 抚养、教育：～伢儿、把伢儿～咖大呀。  
-1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <small>/pʰʊʔ8/<sup>泰兴</sup></small> 搬运；将物移动。<sup>\[泰兴\]</sup>：将船上的货物～到岸上。<sup>\[泰兴\]</sup>  
+1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <small>/pʰʊʔ8/<sup>如皋</sup>, /pʰʊʔ8/<sup>泰兴</sup></small> ① 促化音。掉转船头，本义。<sup>\[如皋\]</sup> ② 搬移笨重物品<sup>\[如皋\]</sup>：～缸、～天水、～砖头、～嫁妆。<sup>\[如皋\]</sup> ③ 搬弄<sup>\[如皋\]</sup>：～来～去、～是非。<sup>\[如皋\]</sup> ④ 抚养、教育<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～伢儿、把伢儿～咖大呀。<sup>\[如皋\]</sup>｜把伢儿～咖大啊<sup>\[泰兴\]</sup> ⑤ 搬运；将物移动。<sup>\[泰兴\]</sup>：将船上的货物～到岸上。<sup>\[泰兴\]</sup>  
 1. 【[跋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#跋)】`puh8` <sup>[兴化]</sup> ① 摩擦：脚～脚｜把蛮好的一双布鞋～坏啊。 ② 调教：～伢儿不容易！  
 1. 【[跋搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋搅)】`puh8 jio3` <sup>[兴化]</sup> 各方面开销：现在私人建房，材料、人工好算，～大发咖！也作“盘搅”。  
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  

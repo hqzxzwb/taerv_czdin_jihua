@@ -245,8 +245,7 @@
 1. 【[癞皮狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_geu.md#癞皮狗)】`lae6 pi2 geu3` <sup>[如东]</sup> ① 狗的皮肤上长了许多癞疮。 ② 比喻非常肮脏的人：他像～。 ③ 比喻蛮不讲理的人：他是一个～。  
 1. 【[癞皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_r.md#癞皮<sub>儿</sub>)】`lae6 pi2 r` <sup>[如皋]</sup> ① 指银屑病患者的皮屑。 ② 指程度轻的无赖。  
 1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <small>/lɛ6 pʰu2 tʰɔ2/<sup>兴化</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>如皋</sup></small> ① 苦瓜。北方人以壳为菜，味苦。本地人吃籽肉，味甜。<sup>\[如皋\]</sup> ② 即苦瓜，葫芦科。果实纺锤形或长圆筒形，表面有榴状凸起，成熟后色赤黄，瓤和种子鲜红，味甜，可食。<sup>\[兴化\]</sup> ③ 俗称苦瓜，草本植物，黄花，果实长圆而两头尖，可做蔬菜食用，表面布满瘤壮凸起，爬藤，故名。<sup>\[泰州\]</sup>  
-1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <sup>[兴化]</sup> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。 ② （喻）不爱整洁的人：像个～。  
-1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <small>/lɛ1 ʋ lɔŋ2/<sup>泰兴</sup></small> 不讲卫生，脏；写字不讲究，乱涂乱搨。<sup>\[泰兴\]</sup>  
+1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <small>/lɛ6 u loŋ2/<sup>兴化</sup>, /lɛ1 ʋ lɔŋ2/<sup>泰兴</sup></small> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。<sup>\[兴化\]</sup> ② （喻）不爱整洁的人<sup>\[兴化\]</sup>：像个～。<sup>\[兴化\]</sup> ③ 不讲卫生，脏；写字不讲究，乱涂乱搨。<sup>\[泰兴\]</sup>  
 1. 【[癞屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xih_r.md#癞屑<sub>儿</sub>)】`lae6 xih7 r` <sup>[如皋]</sup> 见“癞皮儿”。  
 1. 【[癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz.md#癞子)】`lae6 zz` <sup>[东台]</sup> 身上长癣的人。  
 1. 【[癞子抓痒——𠫓咖来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz_zhua_ian.md#癞子抓痒——𠫓咖来啊)】`lae6 zz zhua1 ian3 teh7 ga lae2 a` <sup>[东台]</sup>   

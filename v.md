@@ -339,11 +339,9 @@
 1. 【[洼污](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v.md#洼污)】`va1 v` <sup>[兴化]</sup> 肮脏、不洁：“不要紧，我不考究，～～，吃下去大补。”（《皮五辣子》二）  
 1. 【[洼污沰酱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_v_dah_jian.md#洼污沰酱)】`va1 v dah7 jian5` <sup>[兴化]</sup> 肮脏、不洁：这个小饭馆子～的，叫人坐不下来。  
 1. 【[溛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#溛)】`va1` <sup>[如东]</sup> ① 液体表面不平：水在～动。 ② 液体溢出来：桶里的水～出来啊。  
-1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <sup>[如皋]</sup> 繁体“划”。向内拨、扒：（要求小孩吃饭）快点儿～！～草。  
-1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <small>/uɑ2/<sup>泰兴</sup></small> 以手指使物向身边靠近<sup>\[泰兴\]</sup>：～点豆子来嚼嚼。<sup>\[泰兴\]</sup>  
+1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va2` <small>/ʋa2/<sup>如皋</sup>, /uɑ2/<sup>泰兴</sup></small> ① 向内拨、扒<sup>\[如皋\]</sup>：（要求小孩吃饭）快点儿～！<sup>\[如皋\]</sup>｜～草。<sup>\[如皋\]</sup> ② 以手指使物向身边靠近<sup>\[泰兴\]</sup>：～点豆子来嚼嚼。<sup>\[泰兴\]</sup>  
 1. 【[划船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_chun.md#划船)】`va2 chun2` <sup>[东台]</sup> 在船上用桨拨水前进。  
-1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <sup>[如皋]</sup> 用笊筢把散落在地上的草扒过来，集中起来。见“拾草”。  
-1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <small>/uɑ2 t͡sʰɔ3/<sup>泰兴</sup></small> 以笊耙拖地前进取拾地面乱草。<sup>\[泰兴\]</sup>  
+1. 【[划草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co.md#划草)】`va2 co3` <small>/ʋa2 t͡sʰɔ3/<sup>如皋</sup>, /uɑ2 t͡sʰɔ3/<sup>泰兴</sup></small> ① 用笊筢把散落在地上的草扒过来，集中起来。见“拾草”。<sup>\[如皋\]</sup> ② 以笊耙拖地前进取拾地面乱草。<sup>\[泰兴\]</sup>  
 1. 【[划草鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co_guei.md#划草鬼)】`va2 co3 guei3` <sup>[如皋]</sup> 詈语。贬指成人扒草、拾草以助度日的小孩，以其穷困、肮脏、粗野、顽劣、不读书，素质低下为特征。  
 1. 【[划草鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_co_guei_r.md#划草鬼<sub>儿</sub>)】`va2 co3 guei3 r` <sup>[东台]</sup> （詈语）流浪在外的孩子。  
 1. 【[划饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#划饭)】`va2 faen6` <small>/ʋa2 fẽ1/<sup>如皋</sup></small> ① 见“扒饭”。<sup>\[如皋\]</sup> ② 嘴唇贴碗边，用筷子把饭拨进嘴吃。见“扒饭”。<sup>\[如皋\]</sup>  
@@ -395,7 +393,7 @@
 1. 【[凹塘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan.md#凹塘)】`va5 tan` <small>/uɑ5 tʰɑŋ/<sup>泰兴</sup></small> ① 很浅的小水塘。<sup>\[泰兴\]</sup> ② 小的凹陷<sup>\[泰兴\]</sup>  
 1. 【[凹塘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_tan_r.md#凹塘<sub>儿</sub>)】`va5 tan2 r` <small>/ʋa5 tʰa˞2/<sup>如皋</sup></small> ① 小的凹陷处<sup>\[如皋\]</sup>：桌面子有个～。<sup>\[如皋\]</sup> ② 低凹的地方。<sup>\[如东\]</sup> ③ 泛指地面上的小的低洼之处。<sup>\[泰州\]</sup>  
 1. 【[洼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#洼)】`va5` ① 凹陷 ② 比较浅的水塘，叫做洼。<sup>\[如东\]</sup> ③ 地势较低，相对于高而言。<sup>\[东台\]</sup>  
-1. 【[划](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划)】`va6` <sup>[如皋]</sup> 繁体“劃”。切割：～玻璃；手捱瓦瓷～下来呀，则将冒血。  
+1. 【[划/劃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va.md#划/劃)】`va6` <small>/ʋa1/<sup>如皋</sup>, /uɑ1/<sup>泰兴</sup></small> 切割<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：～玻璃<sup>\[如皋\]</sup>｜手捱瓦瓷～下来呀，则将冒血。<sup>\[如皋\]</sup>｜～玻璃<sup>\[泰兴\]</sup>｜手～啊破啊<sup>\[泰兴\]</sup>  
 1. 【[画二涂二](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_er_tv_er.md#画二涂二)】`va6 er6 tv2 er6` <sup>[如皋]</sup> 乱涂乱搨，卷面不清：他写字～的，一点儿不认真。  
 1. 【[画翻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_faen.md#画翻)】`va6 faen1` <sup>[如皋]</sup> 出了变故、差错，变得复杂了：这件事～吖，难吖啦！  
 1. 【[画焦芜鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/va_jio_v_guei.md#画焦芜鬼)】`va6 jio1 v2 guei3` <sup>[东台]</sup> 形容一塌糊涂，不可收拾。  

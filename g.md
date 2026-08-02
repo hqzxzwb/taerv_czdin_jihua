@@ -571,9 +571,7 @@
 1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin2 zz` <sup>[东台]</sup> 今年。  
 1. 【[今<sub>儿</sub>个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_gu.md#今<sub>儿</sub>个)】`gen1 r gu` <sup>[兴化]</sup> 今天，兴化西北部说法。同“今儿子”。  
 1. 【[今<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_zz.md#今<sub>儿</sub>子)】`gen1 r zz` <sup>[兴化]</sup> 今天：～我值班。西北少数村镇也说“今儿个”。  
-1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <sup>[兴化]</sup> 说话的这一天：～是个好日子。  
-1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho, gen1 do` <sup>[泰县]</sup> 今天：我～不去。  
-1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <small>/kəŋ1 t͡sɔ/<sup>泰兴</sup></small> 今天<sup>\[泰兴\]</sup>  
+1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <small>/kən1 t͡sɔ/<sup>兴化</sup>, /kəŋ1 t͡sɔ/<sup>泰兴</sup>, /kəŋ1 t͡sɔ/<sup>泰县</sup></small> 今天\[泰兴：也说gen1 do\]\[泰县：也说gen1 do\]\[兴化：说话的这一天\]：～是个好日子。<sup>\[兴化\]</sup>｜我～不去。<sup>\[泰县\]</sup>  
 1. 【[庚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen.md#庚)】`gen1` <sup>[东台]</sup> ① 天干第七位。 ② 年龄：先生贵～几何？  
 1. 【[庚帖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_tih.md#庚帖)】`gen1 tih7` <small>/kəŋ1 tʰiʔ7/<sup>泰兴</sup></small> 旧俗订婚时男女双方交换的写有姓名、生辰八字、籍贯、祖宗三代等内容的帖子。其上载有年庚，故名。<sup>\[泰兴\]</sup>  
 1. 【[更把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ba.md#更把)】`gen1 ba` <sup>[如东]</sup> ① 一更天（19时至20时）。 ② 大约一更（两个小时）左右。  
@@ -610,8 +608,7 @@
 1. 【[跟跟<sub>儿</sub>隑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gen_r_kae.md#跟跟<sub>儿</sub>隑)】`gen1 gen1 r kae5` <sup>[如东]</sup> 跟着别人走：他是一个～。  
 1. 【[跟哥哥进城](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_gu_gu_jien.md#跟哥哥进城)】`gen1 gu1 gu1 jien5 chen2` <sup>[东台]</sup> 喻指跟着处于优势的人们沾光，或有榜样可仿效。  
 1. 【[跟后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_heu.md#跟后)】`gen1 heu6` <small>/kən1 xɤ6/<sup>兴化</sup>, /kəŋ1 xei1/<sup>如皋</sup></small> 紧接着，随后<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这个酒老李先喝，～就是老周喝。<sup>\[泰州\]</sup>  
-1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <sup>[如皋]</sup> 近朱者赤，近墨者黑。  
-1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <small>/kəŋ1 xɔ3 ɻəŋ2 xɑʔ8 xɔ3 ɻəŋ2/<sup>泰兴</sup></small> 谓近朱者赤，跟品德高尚的人在一起必定受其影响，成为好人。<sup>\[泰兴\]</sup>  
+1. 【[跟好人，学好人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_ho_ren_hah.md#跟好人，学好人)】`gen1 ho3 ren2 hah8 ho3 ren2` <small>/kəŋ1 xɔ3 ɻəŋ2 xaʔ8 xɔ3 ɻəŋ2/<sup>如皋</sup>, /kəŋ1 xɔ3 ɻəŋ2 xɑʔ8 xɔ3 ɻəŋ2/<sup>泰兴</sup></small> ① 近朱者赤，近墨者黑。<sup>\[如皋\]</sup> ② 谓近朱者赤，跟品德高尚的人在一起必定受其影响，成为好人。<sup>\[泰兴\]</sup>  
 1. 【[跟脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah.md#跟脚)】`gen1 jiah7` <small>/kən1 t͡ɕiaʔ7/<sup>兴化</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰兴</sup>, /kəŋ1 t͡ɕiɑʔ7/<sup>泰县</sup></small> ① 谓鞋子大小合适，便于走路；小孩跟路。<sup>\[泰兴\]</sup> ② （鞋子）合脚<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>\[兴化：也说“抱脚”。\]：“……莫忙，让我把鞋子脱掉，鞋子不～，不好动手……”（《皮五辣子》三）<sup>\[兴化\]</sup>｜这双走鞋嫌大，穿吖脚上不～。<sup>\[泰州\]</sup> ③ 小孩跟着大人跑。<sup>\[如东\]</sup>：这个伢儿欢喜～。<sup>\[如东\]</sup>  
 1. 【[跟脚铃<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jiah_lien_r.md#跟脚铃<sub>儿</sub>)】`gen1 jiah7 lien2 r` <sup>[如东]</sup> 经常跟着大人外出的孩子  
 1. 【[跟□啊去啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_jio_a_qy.md#跟□啊去啊)】`gen1 jio3 a qy5 a` <sup>[如东]</sup> 很快地跟着人向前跑去：他听到箇个消息，～。  

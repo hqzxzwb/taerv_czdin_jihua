@@ -1433,8 +1433,7 @@
 1. 【[交待](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_tae.md#交待)】`jio1 tae6` <sup>[泰州]</sup> 警告：你～他，再不过来上班，就不要来唻。  
 1. 【[交尾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_vei.md#交尾)】`jio1 vei3` <sup>[如东]</sup> 动物交配。  
 1. 【[交卸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_xia.md#交卸)】`jio1 xia5` <sup>[东台]</sup> 移交事务，解脱自己。  
-1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <sup>[如皋]</sup> ① 柔弱。 ② 娇气，不愿吃苦。  
-1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <small>/t͡ɕiɔ1 iɑŋ1/<sup>泰县</sup></small> 娇嫩<sup>\[泰县\]</sup>：这个花～，不大好管理。<sup>\[泰县\]</sup>  
+1. 【[娇央](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_ian.md#娇央)】`jio1 ian1` <small>/t͡ɕiɔ1 iã1/<sup>如皋</sup>, /t͡ɕiɔ1 iɑŋ/<sup>泰兴</sup>, /t͡ɕiɔ1 iɑŋ1/<sup>泰县</sup></small> ① 柔弱，娇嫩<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰兴\]</sup>：这个花～，不大好管理。<sup>\[泰县\]</sup> ② 娇气，不愿吃苦。<sup>\[如皋\]</sup>  
 1. 【[娇娇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_jio_r.md#娇娇<sub>儿</sub>)】`jio1 jio1 r` <sup>[如皋]</sup> 指虚弱易病的身体或人。  
 1. 【[娇客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_keh.md#娇客)】`jio1 keh7` <sup>[东台]</sup> ① 娇气，难服侍。 ② 指女婿：堂前的～。  
 1. 【[娇妙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_mio.md#娇妙)】`jio1 mio` <sup>[兴化]</sup> 对人的蔑称：～，你也想出风头！  
@@ -1564,8 +1563,7 @@
 1. 【[决口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_keu.md#决口)】`jiuh7 keu3` <sup>[东台]</sup> 堤岸溃决，河水外注的现象：1921年、1931年洪泽湖大堤～，台城全都淹没在水中。  
 1. 【[决明子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_mien_zz.md#决明子)】`jiuh7 mien2 zz` <sup>[如东]</sup> 豆科植物决明，也叫野花生。  
 1. 【[决算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_sun.md#决算)】`jiuh7 sun5` <sup>[东台]</sup> 依照年度预算执行结算而编制的会计年报。  
-1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` <sup>[东台]</sup> 晕倒；失去知觉：～过去啊。  
-1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` <sup>[泰州]</sup> 哭泣过度而至昏迷抽搐状态：她哭咖～过去啊，嘴里白沫直翻。｜这细小伙性子躁，一哭就～过去啊唻。  
+1. 【[厥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#厥)】`jiuh7` ① 晕倒；失去知觉<sup>\[东台\]</sup>：～过去啊。<sup>\[东台\]</sup> ② 哭泣过度而至昏迷抽搐状态<sup>\[泰州\]</sup>：她哭咖～过去啊，嘴里白沫直翻。<sup>\[泰州\]</sup>｜这细小伙性子躁，一哭就～过去啊唻。<sup>\[泰州\]</sup>  
 1. 【[撅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撅)】`jiuh7` <sup>[兴化]</sup> 翘起：～嘴｜秤杆～得老高。《广韵·月韵》居月切“～，～拨物也”。  
 1. 【[撧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh.md#撧)】`jiuh7` <small>/t͡ɕyuʔ7/<sup>兴化</sup>, /t͡ɕyʊʔ7/<sup>泰兴</sup>, /t͡ɕyʊʔ7/<sup>泰县</sup></small> 折断（*𢴭/㔢/撅）<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～断一只筷子。<sup>\[东台\]</sup>｜把筷子～断<sup>\[兴化\]</sup>｜～树枝。《广韵·薛韵》子悦切“～，～断物也”。<sup>\[兴化\]</sup>｜他把竹子～咖。<sup>\[泰县\]</sup>｜他把筷子～咖断吖。<sup>\[泰州\]</sup>｜你～咖根树枝啊。<sup>\[泰州\]</sup>｜把烧饼～下来个人一半。<sup>\[泰兴\]</sup>  
 1. 【[撧咖断吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jiuh_ga_tun_nga.md#撧咖断吖)】`jiuh7 ga tun6 nga` <sup>[如皋]</sup> 扳折：树棒儿捱～。  

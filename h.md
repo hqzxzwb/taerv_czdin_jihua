@@ -1592,8 +1592,7 @@
 1. 【[搳锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_xin.md#搳锨)】`huaeh7 xin1` <sup>[如皋]</sup> 头部呈箕形，专以抄走烂河泥甩上河坎的锹。  
 1. 【[搳消](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_xio.md#搳消)】`huaeh7 xio1` <sup>[东台]</sup> 抵消；扯平。  
 1. 【[搳账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_zhan.md#搳账)】`huaeh7 zhan5` <sup>[东台]</sup> 债权债务相互抵消：他给我的货，价值几乎等于欠我的钱，这吖一来可以～啊。  
-1. 【[搳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳ʲ)】`huaeh7` <sup>[如皋]</sup> ① 挥。 ② 吃：～了两碗。  
-1. 【[搳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳ʲ)】`huaeh7` <small>/xuæʔ7/<sup>泰兴</sup></small> 以掌击。<sup>\[泰兴\]</sup>：～他个耳刮子。<sup>\[泰兴\]</sup>  
+1. 【[搳ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#搳ʲ)】`huaeh7` <small>/xueʔ7/<sup>如皋</sup>, /xuæʔ7/<sup>泰兴</sup></small> ① 挥。<sup>\[如皋\]</sup> ② 吃<sup>\[如皋\]</sup>：～了两碗。<sup>\[如皋\]</sup> ③ 以掌击。<sup>\[泰兴\]</sup>：～他个耳刮子。<sup>\[泰兴\]</sup>  
 1. 【[豁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh.md#豁)】`huaeh7` <small>/xuæʔ7/<sup>兴化</sup>, /xueʔ7/<sup>如皋</sup></small> ① 撕裂、割裂<sup>\[如皋\]</sup>：手上捱树枝儿～咖个口子，只冒血。<sup>\[如皋\]</sup> ② 开裂<sup>\[如东\]</sup><sup>\[兴化\]</sup>：这个布洞剪～掉啊。<sup>\[如东\]</sup>｜褂子～开来啊。<sup>\[兴化\]</sup>｜～口子<sup>\[兴化\]</sup>｜三岔～子。<sup>\[兴化\]</sup>  
 1. 【[豁边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_bin.md#豁边)】`huaeh7 bin1` <small>/xuæʔ7 piɪ̃1/<sup>泰县</sup></small> ① 事情超出了原来的范围和程度。<sup>\[如东\]</sup>：这件事～吖，要出问题。<sup>\[如东\]</sup> ② 中途变卦<sup>\[泰县\]</sup>：本来说好他去的，现在～吖。<sup>\[泰县\]</sup>  
 1. 【[豁虎跳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huaeh_hv_tio.md#豁虎跳)】`huaeh7 hv3 tio5` <sup>[如皋]</sup> 侧空翻、前空翻。  
@@ -1858,8 +1857,7 @@
 1. 【[㧾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㧾)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>泰兴</sup></small> 击、打<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：～他两家伙；～他嘴巴子。<sup>\[兴化\]</sup>｜～他个vah7 jien1<sup>\[泰兴\]</sup>  
 1. 【[㱮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh.md#㱮)】`hueh7` <small>/xuəʔ7/<sup>兴化</sup>, /xuəʔ7/<sup>如皋</sup>, /xuəʔ7/<sup>泰兴</sup></small> ① 朽<sup>\[如皋\]</sup>：柱棵脚儿～掉啊。<sup>\[如皋\]</sup> ② 因日久受潮而朽坏，而表面无大变化。比喻人品质低劣。<sup>\[泰兴\]</sup> ③ 腐朽\[如东：竹、木等物纤维组织腐烂变质。\]\[兴化：质地坏朽，而外形无明显变化\]：木头～咖<sup>\[兴化\]</sup>｜布～咖。<sup>\[兴化\]</sup> ④ 品质、素质、能力差<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：成绩～、质料～。<sup>\[如皋\]</sup>｜这种布～。<sup>\[如东\]</sup>｜～胚料<sup>\[兴化\]</sup>｜～货。<sup>\[兴化\]</sup>｜他这个人～吤，专门敲人家外地人的竹杠。<sup>\[泰州\]</sup>  
 1. 【[㱮大鲞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大鲞)】`hueh7 da5 xian3` <sup>[如皋]</sup> 见“㱮货”。  
-1. 【[㱮大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大响)】`hueh7 da6 xian3` <sup>[东台]</sup> （詈语）指质量很差的东西：我去年买的沙发是个～，已经破得不像样吖。  
-1. 【[㱮大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大响)】`hueh7 da6 xian3` <small>/xuəʔ7 tɑ1 ɕiɑŋ3/<sup>泰兴</sup></small> 骂人语。坏东西。<sup>\[泰兴\]</sup>  
+1. 【[㱮大响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_da_xian.md#㱮大响)】`hueh7 da6 xian3` <small>/xuəʔ7 tɑ1 ɕiɑŋ3/<sup>泰兴</sup></small> ① （詈语）指质量很差的东西<sup>\[东台\]</sup>：我去年买的沙发是个～，已经破得不像样吖。<sup>\[东台\]</sup> ② 骂人语。坏东西。<sup>\[泰兴\]</sup>  
 1. 【[㱮货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_hu.md#㱮货)】`hueh7 hu5` <small>/xuəʔ7 xʊ5/<sup>如皋</sup>, /xuəʔ7 xɤɯ5/<sup>泰兴</sup></small> ① 詈语，指差劲儿的人。<sup>\[如皋\]</sup> ② （詈语）指质量差的物品，也指素质差的人（多指女性）。<sup>\[东台\]</sup> ③ 烂货，比喻作风不正派的女性。<sup>\[泰州\]</sup> ④ 骂人语。多指女人作风不正派。<sup>\[泰兴\]</sup>  
 1. 【[㱮坯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_pei.md#㱮坯)】`hueh7 pei1` <small>/xuəʔ7 pʰəɪ1/<sup>泰兴</sup></small> 骂人语。坏东西。<sup>\[泰兴\]</sup>  
 1. 【[䶤𪘼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hueh_laeh.md#䶤𪘼)】`hueh7 laeh` <sup>[如皋]</sup> 象声词：啮物声、咀嚼声。  

@@ -1730,8 +1730,7 @@
 1. 【[蒙脸纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_lin_zhr.md#蒙脸纸)】`mon2 lin3 zhr3` <sup>[泰州]</sup> 死者停床之时覆盖在死者脸上的黄纸。  
 1. 【[蒙蒙<sub>儿</sub>过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_mon_r_gu.md#蒙蒙<sub>儿</sub>过)】`mon2 mon2 r gu5` <sup>[如皋]</sup> 从面前、门前闪过、掩面而过，表示不愿相见。  
 1. 【[蒙蒙<sub>儿</sub>亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_mon_r_lian.md#蒙蒙<sub>儿</sub>亮)】`mon2 mon2 r lian6` <sup>[如皋]</sup> 天刚亮，可见度差。  
-1. 【[蒙吖鼓里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_nga_gv_lii.md#蒙吖鼓里)】`mon2 nga1 gv3 lii` <sup>[如东]</sup> 人在鼓声里，不知外面的情况。  
-1. 【[蒙吖鼓里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_nga_gv_lii.md#蒙吖鼓里)】`mon2 nga1 gv3 lii` <small>/mɔŋ2 ŋɑ1 ku3 ləɪ/<sup>泰兴</sup></small> 受蒙蔽、欺骗。<sup>\[泰兴\]</sup>  
+1. 【[蒙吖鼓里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_nga_gv_lii.md#蒙吖鼓里)】`mon2 nga gv3 lii` <small>/mɔŋ2 ŋa ku3 ləɪ/<sup>泰兴</sup></small> ① 人在鼓声里，不知外面的情况。<sup>\[如东\]</sup> ② 受蒙蔽、欺骗。<sup>\[泰兴\]</sup>  
 1. 【[蒙眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_ngaen.md#蒙眼)】`mon2 ngaen3` <sup>[兴化]</sup> ① 牲畜拉磨时蒙在眼上的罩子。 ② 眼镜的贬义说法。  
 1. 【[蒙情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_qien.md#蒙情)】`mon2 qien2` <sup>[兴化]</sup> 客套话，表示承情：前朝～替我带东西家来，实在过意不去。  
 1. 【[蒙心肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mon_xien_roh.md#蒙心肉)】`mon2 xien1 roh8` <sup>[如皋]</sup> 横膈肌。  

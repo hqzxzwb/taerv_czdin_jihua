@@ -129,8 +129,7 @@
 1. 【[意忸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_nieu_r.md#意忸<sub>儿</sub>)】`i5 nieu5 r` <sup>[东台]</sup> 与“意怪臭”近义。  
 1. 【[意趄<sub>儿</sub>风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qia_r_fon.md#意趄<sub>儿</sub>风)】`i5 qia5 r fon1` <small>/ʝ5 t͡ɕʰia˞5 fɔŋ1/<sup>如皋</sup></small> ① 一阵风式的偏信、偏爱<sup>\[如皋\]</sup>：你不要～吧，进口货就没得差的啦？<sup>\[如皋\]</sup> ② 凭着想象而瞎说。<sup>\[如东\]</sup>：不要～，哪许有这回事。<sup>\[如东\]</sup>  
 1. 【[意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz.md#意思)】`i5 sz` <small>/i5 sɿ/<sup>兴化</sup>, /ʝ5 sɿ/<sup>如皋</sup></small> ① 稍许<sup>\[如皋\]</sup>：他～有点儿发热。<sup>\[如皋\]</sup> ② 表示心意<sup>\[兴化\]</sup>：请大家到水乡酒楼小聚，～下子。<sup>\[兴化\]</sup> ③ 侍弄、服待、照顾<sup>\[兴化\]</sup>：这盆吊兰～得真好。老王生病的时候，爱人～得真好！<sup>\[兴化\]</sup> ④ 象征性的表示<sup>\[泰州\]</sup>：这套房子起码要得三百万，收啊你五十万，只是表示个～，将来有人说到啊，也好算把啊钱的。<sup>\[泰州\]</sup> ⑤ 情意，心意<sup>\[泰州\]</sup>：人情钱多钱少是一回事，出与不出又是一回事，你的～到啊也就可以唻。<sup>\[泰州\]</sup>  
-1. 【[意思意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_i_sz.md#意思意思)】`i5 sz i5 sz` <small>/ʝ5 sɿ ʝ5 sɿ/<sup>泰兴</sup></small> ① 聊表心意。<sup>\[如东\]</sup>：送点儿东西，～。<sup>\[如东\]</sup> ② 以送礼、请客等方式表示心意；表示一点心意。<sup>\[泰兴\]</sup>  
-1. 【[意思意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_i_sz.md#意思意思)】`i5 sz i5 sz` <sup>[东台]</sup> ① 请客送礼略表一下心意：客人来啊这许总要～。 ② 对自己讲话的谦词：我随便讲吖几点，只是～，仅供参考。  
+1. 【[意思意思](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_i_sz.md#意思意思)】`i5 sz i5 sz` <small>/ʝ5 sɿ ʝ5 sɿ/<sup>泰兴</sup></small> ① 聊表心意。<sup>\[如东\]</sup>：送点儿东西，～。<sup>\[如东\]</sup> ② 以送礼、请客等方式表示心意；表示一点心意。<sup>\[泰兴\]</sup> ③ 请客送礼略表一下心意<sup>\[东台\]</sup>：客人来啊这许总要～。<sup>\[东台\]</sup> ④ 对自己讲话的谦词<sup>\[东台\]</sup>：我随便讲吖几点，只是～，仅供参考。<sup>\[东台\]</sup>  
 1. 【[意思间](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_jiaen.md#意思间)】`i5 sz jiaen1` <sup>[东台]</sup> 稍微有那么一点感觉：这道菜～有点鹾（咸）｜他说话的～不怎吖情愿。  
 1. 【[意思账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_sz_zhan.md#意思账)】`i5 sz zhan5` <small>/i5 sɿ t͡saŋ5/<sup>兴化</sup>, /ʝ5 sɿ t͡sã5/<sup>如皋</sup>, /ʝ5 sɿ t͡sɑŋ5/<sup>泰兴</sup></small> ① 敷衍、象征性的表示，并无深交。<sup>\[如皋\]</sup> ② 聊表心意<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：我这点红纸角落只是～。<sup>\[东台\]</sup>｜礼物太轻，不过是一点～。<sup>\[兴化\]</sup>｜他既然请你，你多少花两个钱，～，不伤廉惠。<sup>\[泰州\]</sup>｜到啊年底，多少也要发两个钱，～。<sup>\[泰州\]</sup> ③ 表面文章，缺乏实际意义<sup>\[兴化\]</sup>：干部上街扫地不过是～而已。<sup>\[兴化\]</sup> ④ 表示一下意思。<sup>\[泰兴\]</sup>  
 1. 【[意误意懒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_v_i_laen.md#意误意懒)】`i5 v i5 laen3` <sup>[兴化]</sup> 犹豫不定：开店的事我一直～的，拿不定主意。  
@@ -1188,7 +1187,6 @@
 1. 【[樱桃水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shuei.md#樱桃水)】`ien1 to2 shuei3` <sup>[如东]</sup> 蔷薇科植物樱桃树的新鲜果实，经加工取得的液汁。  
 1. 【[樱桃树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_to_shv.md#樱桃树)】`ien1 to2 shv6` <sup>[如东]</sup> 蔷薇科植物樱桃，落叶乔木，高约3米。树皮灰棕色，有明显的皮孔。叶互生，长卵圆形，2-4裂，边缘具重锯齿。花先叶开放。总状花序。花白色或粉红色，略有芳香。核果球形，成熟时鲜红色，内含种子一枚，味甜。庭园栽培。木材坚硬致密，可制家具。  
 1. 【[洇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#洇)】`ien1` <sup>[东台]</sup> 液体落在纸上或土上向四周渗透：这种纸写毛笔字容易～｜一场小雨把泥土～湿咖。  
-1. 【[瀴人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren.md#瀴人)】`ien1 ren2` <sup>[如东]</sup> 感觉很凉：太阳才下山，我就觉察～。  
 1. 【[璎珞柏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lah_boh.md#璎珞柏)】`ien1 lah8 boh7` <sup>[如东]</sup> 乔木树皮褐色，纵裂成长条薄片脱落。大枝平展，小叶下垂，三棱形。三叶轮生，披针形，顶端尖锐，表面有一条较宽的白粉带，不成深槽。球果，熟时蓝黑色。森材坚硬，可供建筑、桥梁等用。为观赏树。  
 1. 【[缨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#缨子)】`ien1 zz` <sup>[东台]</sup> 本指系在服装或器物上的穗状饰物，借指像缨子一样的东西：萝卜～（叶子）。  
 1. 【[罂粟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_soh.md#罂粟)】`ien1 soh7` <sup>[如东]</sup> 罂粟科植物罂粟，一年生或两年生草本。茎直立。高约150厘米。叶互生，长椭圆形，边缘具不规则锯齿或羽状浅裂。花顶生，白色、粉红色或紫红色。蒴果卵状球形，黄褐色，种子多数，棕褐色。栽培。  
@@ -1231,7 +1229,7 @@
 1. 【[阴脚拐<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jiah_guae_r.md#阴脚拐<sub>儿</sub>)】`ien1 jiah7 guae3 r` <sup>[东台]</sup> 见“阴杀鬼投胎”。  
 1. 【[阴壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_kah.md#阴壳)】`ien1 kah7` <sup>[如皋]</sup> 花生荚内籽不足浆，干瘪状或无籽、或空壳、或泥土。  
 1. 【[阴冷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_len.md#阴冷)】`ien1 len3` <sup>[如东]</sup> 比较寒冷：没有太阳，比较～。  
-1. 【[阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#阴凉)】`ien1 lian2` <small>/iəŋ1 liã2/<sup>如皋</sup>, /iŋ1 liɑŋ2/<sup>泰兴</sup></small> ① 遮住阳光而凉爽。<sup>\[如皋\]</sup> ② 凉快。<sup>\[如东\]</sup>：树荫下头～。<sup>\[如东\]</sup> ③ 阳光照不到的使人感到凉爽的地方。<sup>\[泰兴\]</sup>：乘～<sup>\[泰兴\]</sup>  
+1. 【[阴凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian.md#阴凉)】`ien1 lian2` <small>/iəŋ1 liã2/<sup>如皋</sup>, /iŋ1 liɑŋ/<sup>泰兴</sup></small> ① 遮住阳光而凉爽。<sup>\[如皋\]</sup> ② 凉快。<sup>\[如东\]</sup>：树荫下头～。<sup>\[如东\]</sup> ③ 阳光照不到的使人感到凉爽的地方。<sup>\[泰兴\]</sup>：乘～<sup>\[泰兴\]</sup>  
 1. 【[阴凉搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_daeh_daeh.md#阴凉搭搭)】`ien1 lian2 daeh7 daeh7` <sup>[如东]</sup> 凉爽宜人：现在～的舒服吤。  
 1. 【[阴历](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh.md#阴历)】`ien1 lieh` 一般指农历  
 1. 【[阴历年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lieh_nin.md#阴历年)】`ien1 lieh8 nin2` <sup>[如皋]</sup> 春节。  
@@ -1425,6 +1423,7 @@
 1. 【[瀴凉沰沰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰的)】`ien5 lian dah7 dah7 dii` <small>/iəŋ5 liã taʔ7 taʔ7 tei/<sup>如皋</sup></small> 凉爽<sup>\[如皋\]</sup>：伢儿额头上是～的。<sup>\[如皋\]</sup>  
 1. 【[瀴凉沰沰<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_lian_dah_dah.md#瀴凉沰沰<sub>儿</sub>的)】`ien5 lian dah7 dah7 r dii` <sup>[如皋]</sup> 清凉宜人。  
 1. 【[瀴人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren_zz.md#瀴人子)】`ien5 ren zz` <small>/iəŋ5 ɻəŋ t͡sɿ/<sup>如皋</sup></small> 凉气袭人<sup>\[如皋\]</sup>：这个家里终日见不到阳光，特别～，不能住人。<sup>\[如皋\]</sup>  
+1. 【[瀴人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren.md#瀴人)】`ien5 ren2` <sup>[如东]</sup> 感觉很凉：太阳才下山，我就觉察～。  
 1. 【[窨井](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jien.md#窨井)】`ien5 jien3` ① 上下水道或其他管线工程中，为便于检查或疏通而设置的井状建筑物。<sup>\[如东\]</sup> ② 地下管线工程中，为便于检查或疏通管道而设置的井状建筑物。<sup>\[东台\]</sup>  
 1. 【[窨水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shuei.md#窨水)】`ien5 shuei3` <small>/in5 suəi3/<sup>兴化</sup></small> ① 将水放进田里，使土地潮湿。<sup>\[如东\]</sup>：土地干燥，要～。<sup>\[如东\]</sup> ② 冬干时，给麦田上一点水，保持土壤湿润。<sup>\[兴化\]</sup>  
 1. 【[荫沰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_dah.md#荫沰)】`ien5 dah7` <sup>[泰县]</sup> 凉快  

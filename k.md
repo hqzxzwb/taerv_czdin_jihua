@@ -241,8 +241,7 @@
 1. 【[搉搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah.md#搉搉)】`kah7 kah` <sup>[兴化]</sup> （儿童语）休想、办不到：你想赢我啊？～！  
 1. 【[搉牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pae_zz.md#搉牌子)】`kah7 pae2 zz` <sup>[如东]</sup> ① 把店铺的门牌砸坏了。 ② 商品的质量和信誉遭到损坏。  
 1. 【[搉枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_qian.md#搉枪)】`kah7 qian1` <sup>[如皋]</sup> 儿时自制的玩具手枪。  
-1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <small>/kʰaʔ7 pʰei/<sup>如皋</sup></small> 下决心，准备付出代价<sup>\[如皋\]</sup>：我～一夜不睡，单要看住他！<sup>\[如皋\]</sup>  
-1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <small>/kʰɑʔ7 pʰəɪ/<sup>泰兴</sup></small> 谓有了充分准备；反正是这样。<sup>\[泰兴\]</sup>  
+1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <small>/kʰaʔ7 pʰei/<sup>如皋</sup>, /kʰɑʔ7 pʰəɪ/<sup>泰兴</sup></small> ① 下决心，准备付出代价<sup>\[如皋\]</sup>：我～一夜不睡，单要看住他！<sup>\[如皋\]</sup> ② 谓有了充分准备；反正是这样。<sup>\[泰兴\]</sup>  
 1. 【[确生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shen.md#确生)】`kah7 shen` <sup>[如皋]</sup> 见“确备”。  
 1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun3` <sup>[泰县]</sup> 装有墨粉的安瓿。  
 1. 【[炕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan.md#炕)】`kan1` <small>/kʰɑŋ1/<sup>泰县</sup></small> ① 烤<sup>\[泰县\]</sup>：～山芋。<sup>\[泰县\]</sup> ② 干烤，在热锅中、炭火旁烤热烤熟食品<sup>\[泰州\]</sup>：把冷烧饼放锅肚里～啊子再吃。<sup>\[泰州\]</sup>｜我最欢喜吃～山芋。<sup>\[泰州\]</sup>  

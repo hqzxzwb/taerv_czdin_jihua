@@ -48,8 +48,7 @@
 1. 【[靸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_zz.md#靸子)】`saeh7 zz` <sup>[兴化]</sup> ① 木屐。 ② 拖鞋。  
 1. 【[𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh.md#𢶍)】`saeh7` <small>/sæʔ7/<sup>兴化</sup></small> ① 把东西藏在身上。（东台词典写“扱”，《说文·手部》“扱，收也，从手，及声，楚洽切。”）<sup>\[东台\]</sup>：他把东西～咖腰里。<sup>\[东台\]</sup> ② 掖<sup>\[兴化\]</sup>：～裤子<sup>\[兴化\]</sup>｜～袍子角<sup>\[兴化\]</sup>｜～被头。<sup>\[兴化\]</sup>  
 1. 【[𢶍咖腰里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_ga_io_lii.md#𢶍咖腰里)】`saeh7 ga io1 lii` <sup>[如皋]</sup> 插在腰间：他把手枪～。  
-1. 【[𢶍裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_kv_zz.md#𢶍裤子)】`saeh7 kv5 zz` <sup>[如皋]</sup> 把裤腰掖进腰带下。  
-1. 【[𢶍裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_kv_zz.md#𢶍裤子)】`saeh7 kv5 zz` <small>/ɕiæʔ7 kʰu5 t͡sɿ/<sup>泰兴</sup></small> 把裤子束紧、把裤腰𢶍进裤带以使紧。<sup>\[泰兴\]</sup>  
+1. 【[𢶍裤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_kv_zz.md#𢶍裤子)】`saeh7 kv5 zz` <small>/seʔ7 kʰu5 t͡sɿ/<sup>如皋</sup>, /ɕiæʔ7 kʰu5 t͡sɿ/<sup>泰兴</sup></small> ① 把裤腰掖进腰带下。<sup>\[如皋\]</sup> ② 把裤子束紧、把裤腰𢶍进裤带以使紧。<sup>\[泰兴\]</sup>  
 1. 【[𢶍衲子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_nuh_zz.md#𢶍衲子)】`saeh7 nuh8 zz` <sup>[如皋]</sup> 给婴儿胯下系衲子，防大小便。  
 1. 【[𢶍骑马布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_qi_ma_bv.md#𢶍骑马布)】`saeh7 qi2 ma3 bv5` <sup>[如皋]</sup> 把骑马布系于胯下。  
 1. 【[𢶍尿布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saeh_xy_bv.md#𢶍尿布)】`saeh7 xy1 bv5` <sup>[如皋]</sup> 见“𢶍衲子”。  
