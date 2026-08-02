@@ -2328,8 +2328,8 @@
 1. 【[愿得](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_deh.md#愿得)】`iun6 deh` <small>/yʊ̃1 təʔ/<sup>如皋</sup></small> 愿意付出代价<sup>\[如皋\]</sup>：只要伢儿好，我再苦总是～的。<sup>\[如皋\]</sup>  
 1. 【[愿情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qien.md#愿情)】`iun6 qien2` <small>/yũ6 t͡ɕʰin2/<sup>兴化</sup></small> “情愿”的逆序词<sup>\[兴化\]</sup>：这是我～的，不是旁人勒逼的。<sup>\[兴化\]</sup>  
 1. 【[愿戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xi.md#愿戏)】`iun6 xi5` <sup>[如东]</sup> 旧时给菩萨祈祷时，许下的戏，叫做愿戏。唱愿戏，由许愿人出资，观众不付钱。  
-1. 【[愿心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xien.md#愿心)】`iun6 xien1` <sup>[如东]</sup> 心愿：这个是还我的～  
-1. 【[愿心服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xien_foh_shv.md#愿心服输)】`iun6 xien1 foh8 shv1` <sup>[兴化]</sup> 心甘情愿：“我死也～，不过有个小小的请求。”（兴文：《鲢鱼宝》）  
+1. 【[愿心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xien.md#愿心)】`iun6 xien1` <small>/yʊ̃1 ɕiŋ1/<sup>泰兴</sup></small> ① 心愿。<sup>\[如东\]</sup>：这个是还我的～<sup>\[如东\]</sup> ② 愿意，同意<sup>\[泰兴\]</sup>：他～上学。<sup>\[泰兴\]</sup>  
+1. 【[愿心服输](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_xien_foh_shv.md#愿心服输)】`iun6 xien1 foh8 shv1` <small>/yũ6 ɕin1 fɔʔ8 su1/<sup>兴化</sup>, /yʊ̃1 ɕiŋ1 fɔʔ8 su1/<sup>泰兴</sup></small> ① 心甘情愿<sup>\[兴化\]</sup>：我死也～，不过有个小小的请求。（兴文：《鲢鱼宝》）<sup>\[兴化\]</sup> ② 心甘情愿地认输。<sup>\[泰兴\]</sup>  
 1. 【[院落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_lah.md#院落)】`iun6 lah8` <sup>[东台]</sup> 也叫院子。房屋前后用墙或栅栏围起来的空地。  
 1. 【[院墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_qian.md#院墙)】`iun6 qian2` <sup>[如东]</sup> 包围住宅的墙。  
 1. 【[院子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/iun_zz.md#院子)】`iun6 zz` <sup>[如东]</sup> 住宅前面用墙围住的地块，称院子。也称场院。  

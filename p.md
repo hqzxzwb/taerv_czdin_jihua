@@ -495,7 +495,7 @@
 1. 【[焙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#焙)】`pi6` <small>/pʰʝ1/<sup>如皋</sup></small> ① 置乾器中加热并炒。<sup>\[如皋\]</sup> ② 用微火烘<sup>\[东台\]</sup>：请你帮吖～下子焦糏。<sup>\[东台\]</sup>  
 1. 【[痱子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_zz.md#痱子)】`pi6 zz` <sup>[东台]</sup> 夏季常见的皮肤病：三伏天热出一身～，抓得破皮烂肉的。  
 1. 【[篦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi.md#篦)】`pi6` <small>/pʰʝ1/<sup>如皋</sup></small> 用篦子梳。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：用篦子～头发。<sup>\[如皋\]</sup>  
-1. 【[篦夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh.md#篦夹)】`pi6 gaeh7` <small>/pʰʝ1 keʔ7/<sup>如皋</sup></small> ① 见“篦䇫”。<sup>\[如皋\]</sup> ② 即“篦子”，竹制的梳头用具，中间有梁，两侧有密齿。<sup>\[东台\]</sup>  
+1. 【[篦夹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh.md#篦夹)】`pi6 gaeh7` <small>/pʰʝ1 keʔ7/<sup>如皋</sup>, /pʰʝ1 kæʔ7/<sup>泰兴</sup></small> ① 见“篦䇫”。<sup>\[如皋\]</sup> ② 即“篦子”，竹制的梳头用具，中间有梁，两侧有密齿。<sup>\[东台\]</sup> ③ 梳齿细而密的梳子。<sup>\[泰兴\]</sup>：常州生产的～是很出名的。<sup>\[泰兴\]</sup>  
 1. 【[篦夹齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_gaeh_chr.md#篦夹齿)】`pi6 gaeh7 chr3` <sup>[如皋]</sup> 雏鸟刚长出大羽毛根部的样子，亦指这时的雏鸟。  
 1. 【[篦䇫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_ji.md#篦䇫)】`pi6 ji1` <sup>[如皋]</sup> 篦子和梳子。如膏城北大街南端旧称篦䇫巷，这里生产的作坊和店家多。  
 1. 【[篦头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pi_teu.md#篦头)】`pi6 teu2` <small>/pʰɿ1 tʰɤɯ2/<sup>泰县</sup></small> ① 梳理头发。<sup>\[如东\]</sup>：早晨起来要～。<sup>\[如东\]</sup> ② 梳头：等我篦好头再跟你走。<sup>\[泰县\]</sup>  
@@ -677,7 +677,7 @@
 1. 【[病西施](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pien_xi_shr.md#病西施)】`pien6 xi1 shr1` <sup>[如皋]</sup> 喻体弱而貌美的女子。  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_do.md#□□)】`pih7 do1` <sup>[泰县]</sup> 学普通话又学不准确的人。  
 1. 【[丿ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#丿ʲ)】`pih7` <sup>[东台]</sup> 同“䥕”“鐅”，现在多用此字：曹～｜潘～。  
-1. 【[撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#撇)】`pih7` <small>/pʰiɪʔ7/<sup>兴化</sup>, /pʰiʔ7/<sup>如皋</sup></small> ① 捞取液体表面的东西：～粥饮汤、～沫。<sup>\[如皋\]</sup> ② 从表面舀汤。<sup>\[东台\]</sup> ③ 特指孩子撒娇、嗲<sup>\[东台\]</sup>：这个小伙有点儿～。<sup>\[东台\]</sup> ④ 汉字笔划，形状是“丿”。<sup>\[兴化\]</sup> ⑤ 弃置不顾、离开<sup>\[兴化\]</sup>：“……那管营心腹相待，也不忍～他……”（《水浒后传》四）<sup>\[兴化\]</sup> ⑥ 从液体表面上片取薄薄一层<sup>\[泰州\]</sup>：把汤高头的沫～掉。<sup>\[泰州\]</sup>  
+1. 【[撇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#撇)】`pih7` <small>/pʰiɪʔ7/<sup>兴化</sup>, /pʰiʔ7/<sup>如皋</sup>, /pʰiʔ7/<sup>泰兴</sup></small> ① 捞取液体表面的东西<sup>\[如皋\]</sup>：～粥饮汤、～沫。<sup>\[如皋\]</sup> ② 从表面舀汤。<sup>\[东台\]</sup> ③ 特指孩子撒娇、嗲<sup>\[东台\]</sup>：这个小伙有点儿～。<sup>\[东台\]</sup> ④ 汉字笔划，形状是“丿”。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup> ⑤ 弃置不顾、离开<sup>\[兴化\]</sup>：“……那管营心腹相待，也不忍～他……”（《水浒后传》四）<sup>\[兴化\]</sup> ⑥ 从液体表面上片取薄薄一层<sup>\[泰州\]</sup>：把汤高头的沫～掉。<sup>\[泰州\]</sup> ⑦ 在液体面上平舀。<sup>\[泰兴\]</sup>：把粥膜子～掉。<sup>\[泰兴\]</sup>｜把上面的油～掉。<sup>\[泰兴\]</sup>  
 1. 【[撇倒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_do.md#撇倒)】`pih7 do` <sup>[如东]</sup> 吆喝牛向左转的声音。  
 1. 【[撇嘋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_go.md#撇嘋)】`pih7 go` <sup>[如皋]</sup> 呼牛右转。辅以左手用牛绳晃触牛腹示意。  
 1. 【[撇油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_ieu.md#撇油)】`pih7 ieu2` <sup>[东台]</sup> ① 把汤水中的浮油捞掉。 ② 假公济私捞好处。  
@@ -685,7 +685,7 @@
 1. 【[撇脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_jiah_r.md#撇脚<sub>儿</sub>)】`pih7 jiah7 r` <sup>[如皋]</sup> 见“撇撇脚儿”。  
 1. 【[撇侉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_kua.md#撇侉)】`pih7 kua3` <sup>[东台]</sup> 故意学外地人的口音说话，或学说普通话说得生硬：他才外去半年，就有些～啊。  
 1. 【[撇撇脚<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_pih_jiah_r.md#撇撇脚<sub>儿</sub>)】`pih7 pih7 jiah7 r` <sup>[如皋]</sup> 脚掌不能平实着地的脚型。  
-1. 【[撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_qien.md#撇清)】`pih7 qien1` <small>/pʰiɪʔ7 t͡ɕʰin1/<sup>兴化</sup></small> ① 辩白自己与某事无关<sup>\[东台\]</sup>：你不要～，忙吖洗干净身子。<sup>\[东台\]</sup> ② 装着清白或辩称自己清白<sup>\[兴化\]</sup>：有事说事，覅先忙～。<sup>\[兴化\]</sup>｜“……我娘自来人前会～，干净暗里养着女婿”。（《金瓶梅词话》八三）<sup>\[兴化\]</sup> ③ 撇开自己与相关人或事的关系以示清白<sup>\[泰州\]</sup>：这桩事他撇不清。<sup>\[泰州\]</sup>  
+1. 【[撇清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_qien.md#撇清)】`pih7 qien1` <small>/pʰiɪʔ7 t͡ɕʰin1/<sup>兴化</sup>, /pʰiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 辩白自己与某事无关<sup>\[东台\]</sup>：你不要～，忙吖洗干净身子。<sup>\[东台\]</sup> ② 装着清白或辩称自己清白<sup>\[兴化\]</sup>：有事说事，覅先忙～。<sup>\[兴化\]</sup>｜“……我娘自来人前会～，干净暗里养着女婿”。（《金瓶梅词话》八三）<sup>\[兴化\]</sup> ③ 撇开自己与相关人或事的关系以示清白<sup>\[泰州\]</sup>：这桩事他撇不清。<sup>\[泰州\]</sup> ④ 自称清白。<sup>\[泰兴\]</sup>：不要假～。<sup>\[泰兴\]</sup>  
 1. 【[撇子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_zz.md#撇子)】`pih7 zz` <sup>[兴化]</sup> 一种散口的容器，上有密布的小孔：篮～（苇篾编成）｜塑料～。  
 1. 【[鐅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih.md#鐅)】`pih7` <sup>[东台]</sup> 熬盐的浅锅。又作“䥕”。今又作“丿”。  
 1. 【[鐅缸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pih_gan_r.md#鐅缸<sub>儿</sub>)】`pih7 gan1 r` <sup>[如皋]</sup> 一种浅缸。  
@@ -1264,6 +1264,7 @@
 1. 【[泼趖趖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_su_su.md#泼趖趖)】`puh7 su1 su1` <sup>[如皋]</sup> 恶狠狠的快速的走路：这个泼妇，～的去同人家打架。  
 1. 【[泼天撒地](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_tin_saeh_ti.md#泼天撒地)】`puh7 tin1 saeh7 ti6` <sup>[如皋]</sup> 见“泼泼撒撒”。  
 1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <sup>[如皋]</sup> ① 促化音。掉转船头，本义。 ② 搬移笨重物品：～缸、～天水、～砖头、～嫁妆。 ③ 搬弄：～来～去、～是非。 ④ 抚养、教育：～伢儿、把伢儿～咖大呀。  
+1. 【[盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#盘)】`puh8` <small>/pʰʊʔ8/<sup>泰兴</sup></small> 搬运；将物移动。<sup>\[泰兴\]</sup>：将船上的货物～到岸上。<sup>\[泰兴\]</sup>  
 1. 【[跋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh.md#跋)】`puh8` <sup>[兴化]</sup> ① 摩擦：脚～脚｜把蛮好的一双布鞋～坏啊。 ② 调教：～伢儿不容易！  
 1. 【[跋搅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋搅)】`puh8 jio3` <sup>[兴化]</sup> 各方面开销：现在私人建房，材料、人工好算，～大发咖！也作“盘搅”。  
 1. 【[跋绞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/puh_jio.md#跋绞)】`puh8 jio3` <sup>[东台]</sup> 花销、费用：这一类的活动～太大，划不来，以后不能再搞啊。（“跋”疑似“盘”促化）  

@@ -2376,6 +2376,7 @@
 1. 【[呲𠺟呲𠺟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_kv_cz_kv.md#呲𠺟呲𠺟)】`cz1 kv cz1 kv` <sup>[如皋]</sup> 见“呲𠺟”。  
 1. 【[呲里不剌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lii_beh_laeh.md#呲里不剌)】`cz1 lii beh7 laeh8` <sup>[兴化]</sup> 形容烫人：烫得～的。“不剌”元曲中常见之，是一种衬字，多用在词后，有加强语气的作用。  
 1. 【[雌黄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_huan.md#雌黄)】`cz1 huan2` <sup>[东台]</sup> 原指矿物质，橙黄色，可做原料，古时用来涂改文字：信口～（指乱加评论。）  
+1. 【[雌老虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_lo_hv.md#雌老虎)】`cz1 lo3 hv3` <small>/t͡sʰɿ1 lɔ3 fʋ3/<sup>泰兴</sup></small> 也称母老虎。骂人语。比喻凶狠泼辣的女人。<sup>\[泰兴\]</sup>  
 1. 【[雌冒雄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_mo_ion.md#雌冒雄)】`cz1 mo ion2` 形容人不男不女  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_nga_lae_zuei.md#龇牙咧嘴)】`cz1 nga2 lae3 zuei3` <sup>[如东]</sup> ① 凶狠的样子：你看她那个～样子。 ② 疼痛难忍的样子：王明肚子疼吖～的。  
 1. 【[嗣父母](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/cz_fv_mu.md#嗣父母)】`cz2 fv6 mu3` <sup>[如皋]</sup> 过继的父母。  

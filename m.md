@@ -1769,7 +1769,7 @@
 1. 【[摩人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ren.md#摩人)】`mu2 ren2` <sup>[如皋]</sup> 纠缠、盘弄、玩耍。  
 1. 【[摩踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_taeh_cha.md#摩踏车)】`mu2 taeh8 cha1` <sup>[如皋]</sup> 摩托车。  
 1. 【[模样](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_ian.md#模样)】`mu2 ian6` <sup>[如东]</sup> 标准的形样：这套家具～不错。  
-1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <small>/mo2 t͡sɿ/<sup>兴化</sup></small> ① 模样、轮廓<sup>\[东台\]</sup>：这个丫头脸～跟她妈长得一样。<sup>\[东台\]</sup> ② （喻）样子<sup>\[兴化\]</sup>：你俫两个人秉性相同，像一个～里倒出来的。<sup>\[兴化\]</sup> ③ 各类不同材质的浇铸金属溶液或压制粉末用的标准磨具。<sup>\[泰州\]</sup>  
+1. 【[模子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_zz.md#模子)】`mu2 zz` <small>/mo2 t͡sɿ/<sup>兴化</sup>, /mɤɯ2 t͡sɿ/<sup>泰兴</sup></small> ① 模样、轮廓<sup>\[东台\]</sup>：这个丫头脸～跟她妈长得一样。<sup>\[东台\]</sup> ② （喻）样子<sup>\[兴化\]</sup>：你俫两个人秉性相同，像一个～里倒出来的。<sup>\[兴化\]</sup> ③ 各类不同材质的浇铸金属溶液或压制粉末用的标准磨具。<sup>\[泰州\]</sup> ④ 制物的型器，样品。<sup>\[泰兴\]</sup>  
 1. 【[磨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu.md#磨)】`mu2` <small>/mo2/<sup>兴化</sup></small> ① 物体与物体紧密接触，来回移动，把物体表面磨光滑或锋利。<sup>\[如东\]</sup>：～刀。<sup>\[如东\]</sup> ② 形容缺齿的人慢慢咀嚼的样子<sup>\[兴化\]</sup>：他牙口不好，一个烧饼半天才～下去。<sup>\[兴化\]</sup>  
 1. 【[磨床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_chuan.md#磨床)】`mu2 chuan2` <sup>[如东]</sup> 装配高速旋转砂轮磨制工件表面的机床，使工件表面光洁，提高精确度。  
 1. 【[磨刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mu_do.md#磨刀)】`mu2 do1` <sup>[如东]</sup> 将刀口放在石或砖上磨锋利。  

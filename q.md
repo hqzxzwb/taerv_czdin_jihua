@@ -445,11 +445,12 @@
 1. 【[墙板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_baen.md#墙板)】`qian2 baen3` <sup>[如东]</sup> 房间两边的板。棺材两边的板。  
 1. 【[墙塴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_bon_r.md#墙塴<sub>儿</sub>)】`qian2 bon5 r` <sup>[如皋]</sup> 墙角内、夹墙间。两墙相夹的暗处。  
 1. 【[墙倒壁塌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_bieh_taeh.md#墙倒壁塌的)】`qian2 do3 bieh7 taeh7 dii` <sup>[如皋]</sup> 房屋严重毁坏的样子。  
+1. 【[墙倒众人推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_zhon_ren.md#墙倒众人推)】`qian2 do3 zhon5 ren tuei1` <small>/t͡ɕʰiɑŋ2 tɔ3 t͡sɔŋ5 ɻəŋ tʰəɪ1/<sup>泰兴</sup></small> 谓落井下石。指一人失势，大家便乘机践踏或打击他。<sup>\[泰兴\]</sup>  
 1. 【[墙倒众人推](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_do_zhon_ren.md#墙倒众人推)】`qian2 do3 zhon5 ren2 ty1` <small>/t͡ɕʰiã2 tɔ3 t͡sɔŋ5 ɻəŋ2 tʰy1/<sup>如皋</sup></small> ① 大家跟着对失势者落井下石。<sup>\[如皋\]</sup> ② ［喻］在失势或倒霉时备受欺负<sup>\[东台\]</sup>：这个局长被“双规”以后，他老婆都捱人骂，真是～！<sup>\[东台\]</sup>  
 1. 【[墙垛子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_du_zz.md#墙垛子)】`qian2 du3 zz` <sup>[如皋]</sup> 墙体上起稳定加固作用的方柱状凸出结构。  
 1. 【[墙角落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_gah_lah.md#墙角落)】`qian2 gah7 lah` <sup>[兴化]</sup> ① 墙角。 ② 墙壁附近的地方。  
 1. 【[墙拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_guae_zz.md#墙拐子)】`qian2 guae3 zz` <sup>[兴化]</sup> 两堵墙相接而形成的墙角：他躲啊这边，偷偷看对过那家大门。  
-1. 【[墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_jiah.md#墙脚)】`qian2 jiah7` <sup>[东台]</sup> 墙根，比喻基础：你这个不是挖我～？  
+1. 【[墙脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_jiah.md#墙脚)】`qian2 jiah7` <small>/t͡ɕʰiɑŋ2 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 墙根，比喻基础。<sup>\[东台\]</sup>：你这个不是挖我～？<sup>\[东台\]</sup> ② 墙的基础部分。<sup>\[泰兴\]</sup>  
 1. 【[墙泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_ni.md#墙泥)】`qian2 ni2` <sup>[如皋]</sup> 年久的墙中的干泥，风化后有肥力，可做农田基肥。  
 1. 【[墙上的芦苇——根底浅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_shan_dii_lv.md#墙上的芦苇——根底浅)】`qian2 shan dii lv2 vei3 gen1 di3 qin3` <sup>[东台]</sup>   
 1. 【[墙上画<sub>儿</sub>底朝上——倒贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qian_shan_hua_r.md#墙上画<sub>儿</sub>底朝上——倒贴)】`qian2 shan hua6 r di3 cho2 shan6 do5 tih7` <sup>[东台]</sup>   

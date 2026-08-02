@@ -773,7 +773,7 @@
 1. 【[商品经济](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_pien_jien_ji.md#商品经济)】`shan1 pien3 jien1 ji5` <sup>[如东]</sup> 为商品交换而生产的经济。  
 1. 【[商情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_qien.md#商情)】`shan1 qien2` <sup>[如东]</sup> 市场上物价和供应的情况  
 1. 【[墒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan.md#墒)】`shan1` <sup>[如皋]</sup> 见“墒口儿”。  
-1. 【[墒沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_geu.md#墒沟)】`shan1 geu1` <small>/saŋ1 kɤ1/<sup>兴化</sup></small> ① 田间排水的沟槽。<sup>\[如东\]</sup> ② 在田间开挖的排灌沟渠。<sup>\[兴化\]</sup>  
+1. 【[墒沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_geu.md#墒沟)】`shan1 geu1` <small>/saŋ1 kɤ1/<sup>兴化</sup>, /sɑŋ1 kəɪ1/<sup>泰兴</sup></small> ① 田间排水的沟槽。<sup>\[如东\]</sup> ② 在田间开挖的排灌沟渠。<sup>\[兴化\]</sup> ③ 田垄间小而浅的小沟，起排水降渍作用。<sup>\[泰兴\]</sup>  
 1. 【[墒口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_keu.md#墒口)】`shan1 keu3` <sup>[东台]</sup> 农田里行水的沟，在两畈田中间。也叫墒沟。  
 1. 【[墒口<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_keu_r.md#墒口<sub>儿</sub>)】`shan1 keu3 r` <sup>[如皋]</sup> 墙沟，畦间排灌用的水槽。  
 1. 【[□不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shan_beh_chv.md#□不住)】`shan2 beh7 chv6` <small>/sã2 pəʔ7 t͡sʰu1/<sup>如皋</sup></small> 没注意、一不小心<sup>\[如皋\]</sup>  

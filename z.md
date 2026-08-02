@@ -1853,7 +1853,7 @@
 1. 【[遭啊瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_a_ven.md#遭啊瘟)】`zo1 a ven1` <sup>[东台]</sup> ［喻］被某种事情弄得一塌糊涂，凌乱不堪，像遭了瘟疫。  
 1. 【[遭报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo.md#遭报)】`zo1 bo5` <sup>[兴化]</sup> 迷信指受到报应：他做尽坏事，而今遭啊报。  
 1. 【[遭报应](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_bo_ien.md#遭报应)】`zo1 bo5 ien5` <sup>[如皋]</sup> 指做了坏事，受到了惩罚。  
-1. 【[遭横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_hon_shr.md#遭横事)】`zo1 hon6 shr6` <small>/t͡sɔ1 xoŋ6 sɿ6/<sup>兴化</sup></small> ① 遭遇凶事或其他意外的祸患<sup>\[兴化\]</sup>：“……小徒自来不晓得赌钱，平日连门也不出，今日遭这样横事。”（《梼杌闲评》十四）<sup>\[兴化\]</sup>｜谚曰：家有贤妻，夫不～。<sup>\[兴化\]</sup> ② 遭遇重大意外事故或者重大意外灾害<sup>\[泰州\]</sup>：家有贤妻，夫不～。<sup>\[泰州\]</sup>  
+1. 【[遭横事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_hon_shr.md#遭横事)】`zo1 hon6 shr6` <small>/t͡sɔ1 xoŋ6 sɿ6/<sup>兴化</sup>, /t͡sɔ1 xɔŋ1 sɿ1/<sup>泰兴</sup></small> ① 遭遇凶事或其他意外的祸患<sup>\[兴化\]</sup>：“……小徒自来不晓得赌钱，平日连门也不出，今日遭这样横事。”（《梼杌闲评》十四）<sup>\[兴化\]</sup>｜谚曰：家有贤妻，夫不～。<sup>\[兴化\]</sup> ② 遭遇重大意外事故或者重大意外灾害<sup>\[泰州\]</sup>：家有贤妻，夫不～。<sup>\[泰州\]</sup> ③ 遭遇灾难、横祸。<sup>\[泰兴\]</sup>  
 1. 【[遭洋罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_ian_qy.md#遭洋罪)】`zo1 ian2 qy6` <sup>[如东]</sup> 比喻非常难过：我在这许等于～。  
 1. 【[遭罪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_qy.md#遭罪)】`zo1 qy6` <small>/t͡sɔ1 t͡ɕʰy1/<sup>如皋</sup></small> ① 见“遭瘟”。<sup>\[如皋\]</sup> ② 日子难过，受苦，不顺心。<sup>\[如皋\]</sup> ③ 过分忙碌、劳累。<sup>\[如皋\]</sup> ④ 不方便、不习惯。<sup>\[如皋\]</sup>  
 1. 【[遭天色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zo_tin_seh.md#遭天色)】`zo1 tin1 seh7` <sup>[如皋]</sup> 遭受不良天气造成的灾害。  

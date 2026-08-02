@@ -2023,9 +2023,10 @@
 1. 【[巡访](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_fan.md#巡访)】`xyen2 fan3` <sup>[东台]</sup> 巡查访问。  
 1. 【[循家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ga.md#循家)】`xyen2 ga1` <sup>[如东]</sup> 玩耷子和，三人打牌，一人休息，休息之人称循家。  
 1. 【[驯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_hu.md#驯和)】`xyen2 hu2` <sup>[如皋]</sup> 驯服柔和，柔顺，用于状下级、晚辈。  
-1. 【[榫眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ngaen.md#榫眼)】`xyen3 ngaen3` <small>/ɕyəŋ3 ŋẽ3/<sup>如皋</sup></small> ① 母榫。<sup>\[如皋\]</sup> ② 卯眼。<sup>\[如东\]</sup>  
+1. 【[榫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen.md#榫)】`xyen3` <small>/ɕyəŋ3/<sup>泰兴</sup></small> 制竹、木、石等器物时，为使两材结合所特制之凹凸处。比喻两个事物的联系。<sup>\[泰兴\]</sup>：斗缝合～<sup>\[泰兴\]</sup>  
+1. 【[榫眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ngaen.md#榫眼)】`xyen3 ngaen3` <small>/ɕyəŋ3 ŋẽ3/<sup>如皋</sup>, /ɕyəŋ3 ŋɛ̃3/<sup>泰兴</sup></small> ① 母榫。<sup>\[如皋\]</sup> ② 卯眼。<sup>\[如东\]</sup> ③ 器物上承受榫头的凹形小洞。<sup>\[泰兴\]</sup>：用凿子打～<sup>\[泰兴\]</sup>  
 1. 【[榫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_teu.md#榫头)】`xyen3 teu` <sup>[如皋]</sup> 公榫。  
-1. 【[榫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_teu.md#榫头)】`xyen3 teu2` ① 某些工件利用凹凸方式相连接的地方的凸出部分，称榫头。<sup>\[如东\]</sup>：立柱～打啊在头上。<sup>\[如东\]</sup> ② 竹、木等构件利用凹凸方式相接，凸出的部分为～。<sup>\[东台\]</sup>  
+1. 【[榫头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_teu.md#榫头)】`xyen3 teu2` <small>/ɕyəŋ3 tʰəɪ2/<sup>泰兴</sup></small> ① 某些工件利用凹凸方式相连接的地方的凸出部分，称榫头。<sup>\[如东\]</sup>：立柱～打啊在头上。<sup>\[如东\]</sup> ② 竹、木等构件利用凹凸方式相接，凸出的部分为～。<sup>\[东台\]</sup> ③ 器物或构件上利用凹凸方式相连接的部分。<sup>\[泰兴\]</sup>：椅子的～松了<sup>\[泰兴\]</sup>  
 1. 【[笋瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_gua.md#笋瓜)】`xyen3 gua1` <small>/ɕyəŋ3 kuɑ1/<sup>泰兴</sup></small> ① 葫芦科植物笋瓜，一年生蔓生藤本。茎长约5米，全体被刚毛。茎呈五角棱，中空。单叶互生，圆形或心脏形，浅裂作五角形。卷须腋生。花淡黄色。瓠果，长圆形，黄白色。种子扁平，淡黄白色。田间种植。是普通蔬菜。<sup>\[如东\]</sup> ② 一年生蔓性草本蔬菜，与南瓜、冬瓜基本同时播种、移栽，果实黄白色长圆形，通常用于夏秋季炒菜、烧汤。<sup>\[东台\]</sup> ③ 一年生的蔓生植物，藤、叶、花均类似番瓜，瓜为白色或者淡黄，类菠萝形，表面光滑，20世纪60年代以前，是泰州夏天主要蔬菜品种之一，切成丝状炒食，以其颜色似笋，故名。<sup>\[泰州\]</sup> ④ 一种作蔬菜的瓜。<sup>\[泰兴\]</sup>  
 1. 【[笋衣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_i.md#笋衣)】`xyen3 i1` <sup>[如皋]</sup> 竹笋的包，其内层嫩者可食。  
 1. 【[笋鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ji.md#笋鸡)】`xyen3 ji1` <small>/ɕyəŋ3 t͡ɕʝ1/<sup>泰兴</sup></small> ① 一二斤重，还未啼叫的小公鸡。因其肉嫩鲜美，故名。<sup>\[东台\]</sup> ② 未啼的小公鸡。<sup>\[泰兴\]</sup>  

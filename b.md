@@ -1120,6 +1120,7 @@
 1. 【[碧绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_loh.md#碧绿)】`bieh7 loh8` <sup>[东台]</sup> 绿得耀眼，特别：～色。  
 1. 【[碧清](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien.md#碧清)】`bieh7 qien1` <sup>[泰州]</sup> 水非常清澄的状态：河里的水经过治理，有变得～的唻。｜这个水望吖像～的，里头不晓得多少细菌唻。  
 1. 【[碧清的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_dii.md#碧清的)】`bieh7 qien1 dii` <small>/piəʔ7 t͡ɕʰiəŋ1 tei/<sup>如皋</sup></small> ① 见“清沰沰的”。<sup>\[如皋\]</sup> ② 很清澈。<sup>\[如皋\]</sup>  
+1. 【[碧青碧绿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_qien_bieh_loh.md#碧青碧绿)】`bieh7 qien1 bieh7 loh8` <small>/piʔ7 t͡ɕʰiŋ1 piʔ7 lɔʔ8/<sup>泰兴</sup></small> 鲜艳的青色、绿色。<sup>\[泰兴\]</sup>  
 1. 【[笔直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_cheh.md#笔直)】`bieh7 cheh8` 非常直。<sup>\[如东\]</sup><sup>\[泰州\]</sup>：这条路～。<sup>\[如东\]</sup>｜～的马路<sup>\[泰州\]</sup>  
 1. 【[笔直的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_cheh_dii.md#笔直的)】`bieh7 cheh8 dii` <sup>[东台]</sup> 直立，一点也不弯曲。  
 1. 【[笔陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bieh_deu.md#笔陡)】`bieh7 deu3` <sup>[泰州]</sup> 非常陡峭：他在这个～的高头，我生愁他跌咖来。  

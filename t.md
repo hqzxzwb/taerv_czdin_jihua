@@ -553,6 +553,7 @@
 1. 【[耥刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_do.md#耥刀)】`tan5 do1` <sup>[如皋]</sup> 在河底推割水草的工具，竹篙根部装有像水牛角的刀。  
 1. 【[耥河草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_hu_co.md#耥河草)】`tan5 hu2 co3` <sup>[如皋]</sup> 用刀推割河底水草根部，再用两根竹竿夹绞取之。也称绞河草。  
 1. 【[耥秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_ian.md#耥秧)】`tan5 ian1` <small>/tʰã5 iã1/<sup>如皋</sup></small> ① 用耥子在稻田里中耕。<sup>\[如皋\]</sup> ② 用一种齿耙在秧苗间来回拉动，把泥土壅在秧根下，这种劳动称耥秧。<sup>\[如东\]</sup>  
+1. 【[耥耙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_pa.md#耥耙)】`tan5 pa` <small>/tʰɑŋ5 pʰɑ/<sup>泰兴</sup></small> 用于稻田中耕耘的一种农具。<sup>\[泰兴\]</sup>  
 1. 【[耥子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_zz.md#耥子)】`tan5 zz` <sup>[如皋]</sup> 水田中耕器，有长柄。木架下面有向后斜的铁齿，推则压草，拉则松土，兼拔草根。  
 1. 【[趟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#趟)】`tan5` <small>/tʰaŋ5/<sup>兴化</sup></small> ① 量词，群<sup>\[兴化\]</sup>：刚才一～人走过去啊。<sup>\[兴化\]</sup>｜一～鸭子。<sup>\[兴化\]</sup> ② 量词，次，回<sup>\[泰州\]</sup>：为啊这个项目跑啊四～南京。<sup>\[泰州\]</sup> ③ 量词，聚集在一起的人或物<sup>\[泰州\]</sup>：上午九点多钟来啊一～人，十点多钟又来啊一～人。<sup>\[泰州\]</sup> ④ 量词，车船的版次<sup>\[泰州\]</sup>：这～车子开啊走啊唻。<sup>\[泰州\]</sup>  
 1. 【[趟浑水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan_huen_xy.md#趟浑水)】`tan5 huen2 xy3` <sup>[东台]</sup> ［喻］跟着别人干坏事。  

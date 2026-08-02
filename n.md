@@ -1095,6 +1095,7 @@
 1. 【[敖势](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_shr.md#敖势)】`ngo2 shr5` <small>/ŋɔ2 sɿ5/<sup>如皋</sup>, /ɔ2 sɿ5/<sup>泰县</sup></small> ① 上举的曲度<sup>\[如皋\]</sup>：大殿飞角～大。<sup>\[如皋\]</sup> ② 装腔作势的样子。<sup>\[泰县\]</sup> ③ 弯曲的模样。<sup>\[泰县\]</sup>  
 1. 【[敖相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_xian.md#敖相)】`ngo2 xian5` <small>/ŋɔ2 ɕiã5/<sup>如皋</sup></small> 不和的迹象<sup>\[如皋\]</sup>：看他两个人的～不对劲。<sup>\[如皋\]</sup>  
 1. 【[熬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo.md#熬)】`ngo2` ① 一种烹调方法。把大米或鱼肉等放在锅里用火长时间的熬煎，使之烂透。<sup>\[如东\]</sup>：～粥。<sup>\[如东\]</sup> ② 忍耐。<sup>\[如东\]</sup>：～日子。<sup>\[如东\]</sup> ③ 将含油的东西放在锅中加热干炕，使油渗出<sup>\[泰州\]</sup>：买点儿脂油家来～啊子，留啊早上下面吃。<sup>\[泰州\]</sup> ④ 强忍痛苦艰难坚持<sup>\[泰州\]</sup>：再苦几年，～到儿子大学毕业有啊工作就好啊唻。<sup>\[泰州\]</sup> ⑤ 人在急要大小便时拼命憋住<sup>\[泰州\]</sup>：一直～到下啊车才上茅厕，把人～煞咖唻。<sup>\[泰州\]</sup>  
+1. 【[熬不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_beh_chv.md#熬不住)】`ngo2 beh7 chv6` <small>/ŋɔ2 pəʔ7 t͡sʰu1/<sup>泰兴</sup></small> 忍耐不了，无法忍受。<sup>\[泰兴\]</sup>  
 1. 【[熬阵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_chen_zz.md#熬阵子)】`ngo2 chen6 zz` <sup>[如东]</sup> 孕妇在分娩前忍受阵痛。  
 1. 【[熬灯费火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_den_fei_hu.md#熬灯费火)】`ngo2 den1 fei5 hu3` <sup>[兴化]</sup> （借）指夜间工作或迟眠：“你要是帮我浇了茄子水，我也用不着～的了。”（春阳《大队长和他的妻子》）  
 1. 【[熬灯费油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_den_fei_ieu.md#熬灯费油)】`ngo2 den1 fei5 ieu2` <sup>[东台]</sup> ［喻］工作生活辛苦吃力。  
