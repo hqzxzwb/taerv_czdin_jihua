@@ -34,6 +34,7 @@
 1. 【[奇整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zhen.md#奇整)】`qi2 zhen` <sup>[如东]</sup> 长相出众。  
 1. 【[旗杆上的灯笼——高明](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun_shan_dii.md#旗杆上的灯笼——高明)】`qi2 gun1 shan6 dii den1 lon2 go1 mien2` <sup>[东台]</sup>   
 1. 【[旗杆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gun.md#旗杆)】`qi2 gun3` <sup>[如皋]</sup> 地名通名：东陈乡旧有村名冒家～。  
+1. 【[旗子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zz.md#旗子)】`qi2 zz` <small>/t͡ɕʰʝ2 t͡sɿ/<sup>泰兴</sup></small> 用绸、布、纸等制成的长方形、方形、三角形的标志，多挂于杆子上或墙上。<sup>\[泰兴\]</sup>  
 1. 【[祁帮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_ban.md#祁帮)】`qi2 ban1` <sup>[如皋]</sup> 示字旁。  
 1. 【[粸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#粸)】`qi2` <sup>[东台]</sup> 东台传统茶食，六瓣形，外地称为“老虎脚爪”。有咸、甜之分，原产地为镇江，故名“京江～”；咸～内有中药“茨罗”，能勾起人们食欲。  
 1. 【[粸<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_r.md#粸<sub>儿</sub>)】`qi2 r` <small>/t͡ɕʰi2 ɚ/<sup>兴化</sup>, /t͡ɕʰʝ˞2/<sup>如皋</sup></small> ① 六丫儿糯饼。炉内烘熟，烹糖薰红为糖～，先加盐不烹糖，色白是䴛～。<sup>\[如皋\]</sup> ② 一种面食，六个角，分咸、甜两种，在炉中烤熟。谓自镇江传入，故名“京江～”。<sup>\[兴化\]</sup>：稻饼。<sup>\[兴化\]</sup>  
@@ -916,8 +917,7 @@
 1. 【[漆风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_fon.md#漆风)】`qieh7 fon1` <sup>[如皋]</sup> 漆引起的过敏性皮炎。  
 1. 【[漆咖高头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_ga_go_teu.md#漆咖高头)】`qieh7 ga go1 teu` <small>/t͡ɕʰiəʔ7 ka kɔ1 tʰei/<sup>如皋</sup></small> 专注于<sup>\[如皋\]</sup>：他接受啊任务，就～做，不完不歇。<sup>\[如皋\]</sup>  
 1. 【[漆黑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_heh.md#漆黑)】`qieh7 heh7` <sup>[东台]</sup> 非常黑，暗淡无光。  
-1. 【[漆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian.md#漆匠)】`qieh7 qian` ① 从事油漆业务的小手工业者。<sup>\[如东\]</sup> ② 油漆家具器物船只建筑的工匠。<sup>\[泰州\]</sup>  
-1. 【[漆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian.md#漆匠)】`qieh7 qian6` <sup>[东台]</sup> 做油漆活的工匠。  
+1. 【[漆匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_qian.md#漆匠)】`qieh7 qian` <small>/t͡ɕʰiəʔ7 t͡ɕʰiɑŋ/<sup>泰兴</sup></small> 做油漆活的工匠。<sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup>  
 1. 【[漆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shuei.md#漆水)】`qieh7 shuei` <small>/t͡ɕʰiəʔ7 suei/<sup>如皋</sup></small> 油漆的成色<sup>\[如皋\]</sup>：～好。<sup>\[如皋\]</sup>  
 1. 【[漆水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_shuei.md#漆水)】`qieh7 shuei3` <small>/t͡ɕʰiəʔ7 suəi3/<sup>兴化</sup></small> ① 指器物表面涂漆的厚度、亮度以及新旧程度<sup>\[兴化\]</sup>：这套家具～不丑。<sup>\[兴化\]</sup> ② 漆在物体表面的漆<sup>\[泰州\]</sup>：他家买的这个家具的～没得话说。<sup>\[泰州\]</sup>  
 1. 【[缉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh.md#缉)】`qieh7` <small>/t͡ɕʰiəʔ7/<sup>如皋</sup></small> ① 一种缝衣针法，又称“针针倒”<sup>\[如皋\]</sup>：～鞋口。<sup>\[如皋\]</sup> ② 一种缝纫方法。用相连的针脚密密地缝，称缉。<sup>\[如东\]</sup>  

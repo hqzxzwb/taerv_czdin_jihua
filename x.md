@@ -1228,7 +1228,7 @@
 1. 【[鲜活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_huh.md#鲜活)】`xin1 huh8` <sup>[如东]</sup> 非常新鲜：这些鱼都是～的。  
 1. 【[鲜篮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_laen.md#鲜篮)】`xin1 laen2` <sup>[如东]</sup> 盛鱼虾等鲜货的矮帮竹篮。也称鐅篮。  
 1. 【[鲜朗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lan.md#鲜朗)】`xin1 lan` <small>/ɕiɪ̃1 nɑŋ/<sup>泰县</sup></small> 明亮<sup>\[泰县\]</sup>：这家里蛮～的。<sup>\[泰县\]</sup>  
-1. 【[鲜亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lian.md#鲜亮)】`xin1 lian6` <sup>[兴化]</sup> 光鲜明亮：这套家具蛮～的。｜这块花布真～。  
+1. 【[鲜亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lian.md#鲜亮)】`xin1 lian6` <small>/ɕiɪ̃1 liaŋ6/<sup>兴化</sup>, /ɕĩ1 liɑŋ1/<sup>泰兴</sup></small> ① 光鲜明亮<sup>\[兴化\]</sup>：这套家具蛮～的。<sup>\[兴化\]</sup>｜这块花布真～。<sup>\[兴化\]</sup> ② 光明亮清；眼睛感觉视物清明。<sup>\[泰兴\]</sup>  
 1. 【[鲜淋鲜红](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lien_xin_hon.md#鲜淋鲜红)】`xin1 lien2 xin1 hon2` <sup>[如东]</sup> 形容水淋红艳：这朵月季花～的。  
 1. 【[鲜料气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_lio_qi.md#鲜料气)】`xin1 lio6 qi5` <sup>[如东]</sup> 腥气味儿：这些鱼不曾加作料，有～。  
 1. 【[鲜气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xin_qi.md#鲜气)】`xin1 qi5` <small>/ɕĩ1 t͡ɕʰʝ5/<sup>如皋</sup></small> ① 鲜味，含鲜味食品，主要指蛼螯、蚬子、蚶子、鱼、虾、蟹等<sup>\[如皋\]</sup>：奶奶欢喜吃～。<sup>\[如皋\]</sup> ② 菜肴中有鱼鲜味儿。<sup>\[如东\]</sup>：菜里没得一点儿～。<sup>\[如东\]</sup>  

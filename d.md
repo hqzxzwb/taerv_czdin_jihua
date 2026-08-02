@@ -1655,7 +1655,7 @@
 1. 【[滴斤滴两](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_jien_dieh_lian.md#滴斤滴两)】`dieh7 jien1 dieh7 lian3` ① 称得非常准确。比喻小气。<sup>\[如东\]</sup>：他算得一的，哪许好多给你咯？<sup>\[如东\]</sup> ② 计算精细，一丝一毫也不放过。意同“算筋算骨”。<sup>\[东台\]</sup>  
 1. 【[滴溜骨碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_lieu_gueh_loh.md#滴溜骨碌)】`dieh7 lieu gueh7 loh` <sup>[东台]</sup> 形容旋转或转动快速：那个人两只眼睛～直转。  
 1. 【[滴气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qi.md#滴气)】`dieh7 qi5` <sup>[兴化]</sup> 注意整洁，讲究仪表的习惯：她交关～，走出来清清雅雅的。  
-1. 【[滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shuei.md#滴水)】`dieh7 shuei3` <small>/tiəʔ7 suei3/<sup>如皋</sup>, /tiɪʔ7 ɕyəɪ3/<sup>泰县</sup></small> ① 建筑材料，泥制，似瓦，前端有一垂体，呈月牙形，安装在瓦棱顶端下部，供滴水用。<sup>\[如东\]</sup> ② 檐口承水瓦与“猫儿头”相配。<sup>\[如皋\]</sup> ③ 屋檐口的下瓦。<sup>\[泰县\]</sup>  
+1. 【[滴水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shuei.md#滴水)】`dieh7 shuei3` <small>/tiəʔ7 suei3/<sup>如皋</sup>, /tiʔ7 suəɪ3/<sup>泰兴</sup>, /tiɪʔ7 ɕyəɪ3/<sup>泰县</sup></small> ① 建筑材料，泥制，似瓦，前端有一垂体，呈月牙形，安装在瓦棱顶端下部，供滴水用。<sup>\[如东\]</sup> ② 檐口承水瓦与“猫儿头”相配。<sup>\[如皋\]</sup> ③ 屋檐口的下瓦。<sup>\[泰县\]</sup> ④ 屋檐下面承受檐头滴水的部分。特制之瓦，如舌下垂，以便滴水，故名。<sup>\[泰兴\]</sup>  
 1. 【[滴水成冰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shuei_chen_bien.md#滴水成冰)】`dieh7 shuei3 chen2 bien1` <sup>[如皋]</sup> 水滴刚滴下就结成冰了。表示很冷。  
 1. 【[滴水成冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shuei_chen_don.md#滴水成冻)】`dieh7 shuei3 chen2 don5` <sup>[泰州]</sup> 水一滴下就变成冰，形容严寒天气：外头～，你出去要加件衣裳。  
 1. 【[滴水灌流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shuei_gun_lieu.md#滴水灌流)】`dieh7 shuei3 gun5 lieu2` <sup>[东台]</sup> 老式瓦屋封檐板上引流雨水的铁皮管道，上端开口，下方呈扁圆形，一节节联在一起。  

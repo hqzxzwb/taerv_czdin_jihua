@@ -930,7 +930,7 @@
 1. 【[窖作掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zah_tio_a.md#窖作掉啊)】`go5 zah7 tio a` <sup>[如皋]</sup> 浪费了。  
 1. 【[窖爪<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhua_r.md#窖爪<sub>儿</sub>)】`go5 zhua3 r` <sup>[泰县]</sup> 鞋子。  
 1. 【[窖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#窖子)】`go5 zz` <sup>[兴化]</sup> 收藏东西的地洞或坑：地～；粮食～。  
-1. 【[膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#膏)】`go5` <sup>[泰州]</sup> ① 给机器上油使之润滑：这把锁锈啊唻，～点ㄦ油就好开唻。 ② 给油灯注油，使灯芯燃烧发光：汽油灯要～点ㄦ油。  
+1. 【[膏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#膏)】`go5` <small>/kɔ5/<sup>泰兴</sup></small> ① 给机器上油使之润滑<sup>\[泰州\]</sup>：这把锁锈啊唻，～点ㄦ油就好开唻。<sup>\[泰州\]</sup> ② 给油灯注油，使灯芯燃烧发光<sup>\[泰州\]</sup>：汽油灯要～点ㄦ油。<sup>\[泰州\]</sup> ③ 动词。灌注涂抹油膏使滑润。<sup>\[泰兴\]</sup>：链条要～下子油。<sup>\[泰兴\]</sup>  
 1. 【[膏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_cha.md#膏车)】`go5 cha1` <sup>[如东]</sup> 给牛车轴承掭油，使之润滑。  
 1. 【[膏油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ieu.md#膏油)】`go5 ieu2` <small>/kɔ5 yʊ2/<sup>如皋</sup></small> 添油（给油灯添油、给器件添润滑油等等）<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[东台\]</sup>：给脚踏车～<sup>\[东台\]</sup>  
 1. 【[膏雪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xiuh.md#膏雪)】`go5 xiuh7` <sup>[如皋]</sup> 下大雪。  
@@ -2023,11 +2023,12 @@
 1. 【[擀子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_zz.md#擀子)】`gun3 zz` <sup>[如皋]</sup> 擀棉花条儿用的搓具。  
 1. 【[管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#管)】`gun3` <small>/kũ3/<sup>兴化</sup></small> ① 堤岸名称。民国初，大豫盐垦公司开挖干河，埋设涵管，排咸人海。从西向东，每距一匡田埋设涵管一只，共四只。自西向东，每两匡建筑南北土路一条，称马路。由于这些马路与涵管在同一条直线上，因此，称这些马路为一管马路、二管马路……这些马路由四条发展到十条，贯通区内。后来，人们把管叫成贯，如一贯马路、二贯马路等，共十贯。<sup>\[如东\]</sup> ② 不管、无论<sup>\[兴化\]</sup>：你这种歪理，～你说到那许都不中。<sup>\[兴化\]</sup> ③ 不管，任凭怎么样<sup>\[泰州\]</sup>：你～他是哪块的钱，发咖把你就用。<sup>\[泰州\]</sup> ④ 负责供应或者保障<sup>\[泰州\]</sup>：在饭店里当服务员，一个月2000块，～两顿饭。<sup>\[泰州\]</sup>  
 1. 【[管草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_co.md#管草)】`gun3 co3` <small>/kũ3 t͡sʰɔ3/<sup>兴化</sup>, /kʊ̃3 t͡sʰɔ3/<sup>如皋</sup></small> ① 删过的整齐的稻草。<sup>\[如皋\]</sup> ② 整齐的稻草。<sup>\[东台\]</sup> ③ 经过删选后整齐的稻草，可用来搓绳、编草苫或盖屋等。<sup>\[兴化\]</sup> ④ 经过删选的整齐的糯稻草，用来搓绳、编苫、盖棚<sup>\[泰州\]</sup>：弄些～来搓绳子。<sup>\[泰州\]</sup>  
-1. 【[管饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_faen.md#管饭)】`gun3 faen6` <sup>[泰州]</sup> 负责供给饮食：他同木匠谈吖好啊，中上不～。  
+1. 【[管饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_faen.md#管饭)】`gun3 faen6` <small>/kʊ̃3 fɛ̃1/<sup>泰兴</sup></small> ① 负责供给饮食<sup>\[泰州\]</sup>：他同木匠谈吖好啊，中上不～。<sup>\[泰州\]</sup> ② 供应饭食<sup>\[泰兴\]</sup>  
 1. 【[管闲事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_haen_shr.md#管闲事)】`gun3 haen2 shr6` <sup>[如皋]</sup> ① 过问份外之事或不必管的事。 ② 欲望满足了：吃咖点儿酒不～。  
 1. 【[管业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ih.md#管业)】`gun3 ih8` <sup>[兴化]</sup> 对不动产拥有产权，并管理营运：店房三间，由兄弟二人共同～。｜善继死后，两所大宅子，都卖与叔叔善述～。（《古今小说》十）  
 1. 【[管嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_jy.md#管嘴)】`gun3 jy3` <small>/kʊ̃3 t͡ɕy3/<sup>如皋</sup>, /kõ3 t͡ɕy3/<sup>泰县</sup></small> ① 解决吃饭问题。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：他家里伢儿多，拿的工作勉勉强强家里人～。<sup>\[泰州\]</sup> ② （下对上）听话，行动上服从，为其争气<sup>\[东台\]</sup>：你要帮我～，不要惹人家发笑。<sup>\[东台\]</sup> ③ 争气<sup>\[泰县\]</sup>：这次你要～，否则以后我不能为你说情吖。<sup>\[泰县\]</sup> ④ 控制自己嘴巴，（不乱说、不乱吃东西等）<sup>\[泰州\]</sup>：这小伙再不～，要得罪人的。<sup>\[泰州\]</sup>｜你又不～，天天吃减肥药有甚的用。<sup>\[泰州\]</sup>  
 1. 【[管伴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pun.md#管伴)】`gun3 pun6` <sup>[兴化]</sup> 配合一起相宜：一个教师、一个医生，两个文人一起～。｜一个硬、一个软，两样东西不～。  
+1. 【[管吃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qieh.md#管吃)】`gun3 qieh7` <small>/kʊ̃3 t͡ɕʰiəʔ7/<sup>泰兴</sup></small> 负责供应伙食。也作管嘴。<sup>\[泰兴\]</sup>：乡人云：“癞宝端端坐，一世不忍饿；田鸡跳一丈，管嘴管不上。”<sup>\[泰兴\]</sup>  
 1. 【[管情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qien.md#管情)】`gun3 qien2` <sup>[兴化]</sup> 逢亲友家婚嫁寿庆或砌房造屋，前往庆贺，谓之～。  
 1. 【[管事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_shr.md#管事)】`gun3 shr6` <sup>[东台]</sup> ① 负责处理事务。 ② 旧时大户人家的管家，或商店里经理的旧称。  
 1. 【[管他娘肏𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_ta_nian_reh.md#管他娘肏𪨊)】`gun3 ta nian2 reh8 son2` <small>/kuẽ3 tʰa niã2 ɻəʔ8 sɔŋ2/<sup>如皋</sup></small> 不管什么事都不要问。<sup>\[如皋\]</sup>  

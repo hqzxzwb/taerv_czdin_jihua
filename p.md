@@ -166,8 +166,9 @@
 1. 【[𩔈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#𩔈)】`pah7` <small>/pʰaʔ7/<sup>如皋</sup>, /pʰɑʔ7/<sup>泰县</sup></small> 阔大，尤其描述脸、脚<sup>\[如皋\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：一双大～脚、一张大～脸。或写“奤”。<sup>\[如皋\]</sup>｜他的脚～吤。<sup>\[泰县\]</sup>｜这个细丫头生吖张大～脸，不好看。<sup>\[泰州\]</sup>｜他的脚～，店里卖的鞋子穿吖脚上嫌勒人。<sup>\[泰州\]</sup>  
 1. 【[𩔈脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_jiah.md#𩔈脚)】`pah7 jiah7` <sup>[东台]</sup> 又大又宽的脚：他那双～，43码的鞋子还嫌小！（此处奤，古籍作𩔈，《广韵》匹各切，面大貌）  
 1. 【[𩔈头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_teu.md#𩔈头)】`pah7 teu2` <sup>[东台]</sup> 又大又笨的脑袋瓜。  
+1. 【[箔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#箔)】`pah8` <small>/pʰɑʔ8/<sup>泰兴</sup></small> 涂过金属粉的纸，作冥钱用。如“锡箔”。<sup>\[泰兴\]</sup>  
 1. 【[箔箔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pah_r.md#箔箔<sub>儿</sub>)】`pah8 pah8 r` <sup>[如皋]</sup> 见“箔子”。  
-1. 【[箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_zz.md#箔子)】`pah8 zz` <small>/pʰaʔ8 t͡sɿ/<sup>兴化</sup>, /pʰaʔ8 t͡sɿ/<sup>如皋</sup></small> ① 用芦柴、竹子和经子绳扼成片，作晒具、卧具、遮阳具。<sup>\[如皋\]</sup> ② 矮栅栏。用芦苇、树枝等编成，用以挡鸡犬。<sup>\[如皋\]</sup> ③ 涂上一层薄锡的纸，民间多折叠成元宝形，用来当作纸钱焚化给亡人，以示悼念。<sup>\[东台\]</sup> ④ 芦苇编的帘子，柴箔子。<sup>\[东台\]</sup> ⑤ 芦苇、竹篾编成的帘子。<sup>\[兴化\]</sup> ⑥ 俗称锡箔，上面涂着一层锡的纸，用来折成元宝状焚化给亡人。<sup>\[泰州\]</sup>  
+1. 【[箔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_zz.md#箔子)】`pah8 zz` <small>/pʰaʔ8 t͡sɿ/<sup>兴化</sup>, /pʰaʔ8 t͡sɿ/<sup>如皋</sup>, /pʰɑʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 用芦柴、竹子和经子绳扼成片，作晒具、卧具、遮阳具。<sup>\[如皋\]</sup> ② 矮栅栏。用芦苇、树枝等编成，用以挡鸡犬。<sup>\[如皋\]</sup> ③ 涂上一层薄锡的纸，民间多折叠成元宝形，用来当作纸钱焚化给亡人，以示悼念。<sup>\[东台\]</sup> ④ 芦苇编的帘子，柴箔子。<sup>\[东台\]</sup> ⑤ 芦苇、竹篾编成的帘子。<sup>\[兴化\]</sup> ⑥ 俗称锡箔，上面涂着一层锡的纸，用来折成元宝状焚化给亡人。<sup>\[泰州\]</sup> ⑦ 以粗竹编就的用具，用以养蚕等。<sup>\[泰兴\]</sup>：乡人云：“寿星老儿睏箔子，挨竹（足）搞。”<sup>\[泰兴\]</sup>  
 1. 【[薄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah.md#薄)】`pah8` <small>/pʰaʔ8/<sup>兴化</sup>, /pʰaʔ8/<sup>如皋</sup>, /pʰɑʔ8/<sup>泰兴</sup>, /pʰɑʔ8/<sup>泰县</sup></small> ① 气体或者液体浓度低。<sup>\[通用\]</sup>：～粥<sup>\[通用\]</sup> ② 形容粥或汤稀、含水多<sup>\[兴化\]</sup>：～粥<sup>\[兴化\]</sup>｜～汤。<sup>\[兴化\]</sup>  
 1. 【[薄刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_do.md#薄刀)】`pah8 do1` <small>/pʰaʔ8 tɔ1/<sup>兴化</sup>, /pʰaʔ8 tɔ1/<sup>如皋</sup>, /pʰɑʔ8 tɔ1/<sup>泰县</sup></small> ① 菜刀 ② 厨刀，前口呈弧形。<sup>\[如皋\]</sup> ③ 厨具，长方形，刀身薄，一面锋利，一面厚钝，有柄。用来加工鱼、肉、菜等。也叫莱刀。<sup>\[如东\]</sup> ④ 切菜的刀。<sup>\[东台\]</sup> ⑤ 菜刀。<sup>\[兴化\]</sup> ⑥ 切菜刀<sup>\[泰县\]</sup>：把～磨下子。<sup>\[泰县\]</sup> ⑦ 家庭切菜的刀，菜刀。<sup>\[泰州\]</sup>  
 1. 【[薄咖浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_ga_jian.md#薄咖浆)】`pah8 ga jian1` <sup>[如皋]</sup> 糟了、完了。源自给豆浆点卤失败。  
@@ -554,7 +555,7 @@
 1. 【[鼻根子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_gen_zz.md#鼻根子)】`pieh8 gen1 zz` <sup>[如皋]</sup> 在眉心下部。  
 1. 【[鼻孔眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_kon_ngaen_r.md#鼻孔眼<sub>儿</sub>)】`pieh8 kon3 ngaen3 r` <sup>[泰县]</sup> 鼻孔。  
 1. 【[鼻青眼肿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_qien_ngaen_zhon.md#鼻青眼肿)】`pieh8 qien1 ngaen3 zhon3` <sup>[如东]</sup> 形容伤势十分严重：他捱打得～的。  
-1. 【[鼻屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr.md#鼻屎)】`pieh8 shr3` <small>/pʰiɪʔ8 sɿ3/<sup>兴化</sup></small> ① 鼻腔里干结的鼻涕和其他分泌物。<sup>\[兴化\]</sup> ② 鼻涕。<sup>\[泰州\]</sup> ③ 鼻腔内凝结的污物。<sup>\[泰州\]</sup>  
+1. 【[鼻屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr.md#鼻屎)】`pieh8 shr3` <small>/pʰiɪʔ8 sɿ3/<sup>兴化</sup>, /pʰiʔ8 sɿ3/<sup>泰兴</sup></small> ① 鼻腔里干结的鼻涕和其他分泌物。<sup>\[兴化\]</sup> ② 鼻涕。<sup>\[泰州\]</sup> ③ 鼻腔内凝结的污物。<sup>\[泰州\]</sup> ④ 干鼻涕。鼻腔内的分泌物。<sup>\[泰兴\]</sup>：《玉如意》第3回：“这是鼻涕淌到嘴里顺便话，叫我那时拿什么脸儿去见人。”<sup>\[泰兴\]</sup>  
 1. 【[鼻屎拉衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr_la_fv.md#鼻屎拉衭)】`pieh8 shr3 la1 fv1` <sup>[泰州]</sup> 鼻涕一直流到胸前衣服前襟之上，意谓非常邋遢的样子：他家夫妻两个都上班，伢儿没得人带，弄得成天～的。  
 1. 【[鼻屎拉沙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_shr_la_sha.md#鼻屎拉沙)】`pieh8 shr3 la1 sha1` <sup>[泰县]</sup> 流鼻涕。  
 1. 【[鼻塌嘴歪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_taeh_jy_vae.md#鼻塌嘴歪)】`pieh8 taeh7 jy3 vae1` ① 形容难看、狼狈的样子。<sup>\[东台\]</sup> ② 鼻子凹陷嘴唇歪在一边，意谓脸部伤势严重<sup>\[泰州\]</sup>：他的脸捱小痞子打得鼻塌嘴歪的。<sup>\[泰州\]</sup>  
@@ -571,6 +572,8 @@
 1. 【[鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz.md#鼻子)】`pieh8 zz` <small>/pʰiəʔ8 t͡sɿ/<sup>如皋</sup>, /pʰiɪʔ8 t͡se/<sup>泰县</sup></small> ① 鼻子 ② 鼻涕<sup>\[如皋\]</sup><sup>\[泰县\]</sup>：流清水～。<sup>\[如皋\]</sup> ③ 喻人格、脸面<sup>\[如皋\]</sup>：你做这种事。你哿要～啊？<sup>\[如皋\]</sup> ④ 器盖的钮。<sup>\[如皋\]</sup> ⑤ 五官之一——鼻。<sup>\[泰县\]</sup>  
 1. 【[鼻子朝北](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_cho_boh.md#鼻子朝北)】`pieh8 zz cho2 boh7` ① 人死后，尸体停放的方向是头朝南、脚朝北。比喻人已死了。<sup>\[如东\]</sup> ② 死人的含蓄说法（民间停放遗体头朝南面朝北）。<sup>\[东台\]</sup>  
 1. 【[鼻子漕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_co_r.md#鼻子漕<sub>儿</sub>)】`pieh8 zz co2 r` <sup>[如皋]</sup> 鼻唇沟。  
+1. 【[鼻子底下一横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_di_ha.md#鼻子底下一横)】`pieh8 zz di3 ha ieh7 on2` <small>/pʰiʔ8 t͡sɿ t͡ɕʝ3 xɑ iʔ7 ɔŋ2/<sup>泰兴</sup></small> 指嘴巴；喻指吃饭的问题。<sup>\[泰兴\]</sup>  
+1. 【[鼻子底下就是路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_di_ha.md#鼻子底下就是路)】`pieh8 zz di3 ha qieu6 shr6 lv6` <small>/pʰiʔ8 t͡sɿ t͡ɕʝ3 xɑ t͡ɕʰiɤɯ1 sɿ1 lu1/<sup>泰兴</sup></small> 谓张口请教人就知道路怎么走。<sup>\[泰兴\]</sup>  
 1. 【[鼻子养儿——擤（哄）人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_ian_er.md#鼻子养儿——擤（哄）人)】`pieh8 zz ian3 er2 hon3 ren2` <sup>[东台]</sup>   
 1. 【[鼻子尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_jin.md#鼻子尖)】`pieh8 zz jin1` <sup>[东台]</sup> ［喻］有特别灵敏的嗅觉：馋猫～。  
 1. 【[鼻子尖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zz_jin_r.md#鼻子尖<sub>儿</sub>)】`pieh8 zz jin1 r` <sup>[如皋]</sup> 喻人格、脸面。  
@@ -762,6 +765,7 @@
 1. 【[瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_r_jy.md#瓢<sub>儿</sub>嘴)】`pio2 r jy3` <small>/pʰiɔ˞2 t͡ɕy3/<sup>如皋</sup></small> ① 嘴大、嘴唇常扭动的样子。<sup>\[如皋\]</sup> ② 嘴大，嘴唇前伸。<sup>\[如东\]</sup>  
 1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zuei.md#瓢嘴)】`pio2 zuei3` <sup>[兴化]</sup> ① 撅着嘴并微微颤动的样子：……宜荣夫妇瓢着嘴儿唠叨地走了。（马春阳《月朗和她的娘舅们》） ② 两唇颤动，将要啼哭的样子：他被骂得直～，又不敢哭出声来。  
 1. 【[□孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_suen_r.md#□孙<sub>儿</sub>)】`pio3 suen1 r` <sup>[如皋]</sup> 长房长孙，刚生时称。  
+1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_vah.md#□□)】`pio3 vah` <small>/pʰiɔ3 uɑʔ/<sup>泰兴</sup></small> 谓猛吃猛喝，不顾别人，形象差。蒋华镇西江边有一庄名～镇。<sup>\[泰兴\]</sup>  
 1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio3` <small>/pʰiɔ3/<sup>如皋</sup></small> ① 吃相粗鄙。<sup>\[如皋\]</sup> ② 人的牙齿突露唇外<sup>\[泰州\]</sup>：他的门牙有点ㄦ～。<sup>\[泰州\]</sup>｜他是个～牙齿。<sup>\[泰州\]</sup>  
 1. 【[嘌嘴㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy_pah.md#嘌嘴㗘)】`pio3 jy3 pah7` <sup>[东台]</sup> 形容喜欢吹牛说大话，办事不牢靠的人：那是个～，不要听他的。  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <small>/pʰiɔ5 liã/<sup>如皋</sup></small> ① 识相、知趣<sup>\[如皋\]</sup>：你放吖～吖点儿，少吃点儿苦！<sup>\[如皋\]</sup> ② 利索<sup>\[如皋\]</sup>：手段～，做得～。<sup>\[如皋\]</sup> ③ 美观，出色。<sup>\[如东\]</sup>  

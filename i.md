@@ -72,11 +72,11 @@
 1. 【[爷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#爷)】`i2` <small>/i2/<sup>兴化</sup>, /ʝ2/<sup>如皋</sup></small> ① 叔叔（扬州音） ② 叔叔。称父亲的弟弟或比父亲年轻的长辈。<sup>\[如皋\]</sup> ③ 父亲的弟弟。通称叔父。<sup>\[如东\]</sup> ④ 父亲（兴盐边界某些村舍语）<sup>\[兴化\]</sup>  
 1. 【[疑猜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cae.md#疑猜)】`i2 cae` 怀疑<sup>\[如东\]</sup>  
 1. 【[疑里大惑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_lii_da_hoh.md#疑里大惑)】`i2 lii da6 hoh8` <sup>[兴化]</sup> 疑心：他那个要笑不笑的样子，把人弄得～的。  
-1. 【[疑三惑四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_saen_hoh_sz.md#疑三惑四)】`i2 saen1 hoh8 sz5` ① 猜测怀疑。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 不是怀疑这样，就是怀疑那样，总是怀疑不已<sup>\[泰州\]</sup>：上头有红头文件，你就不要再～的。<sup>\[泰州\]</sup>  
+1. 【[疑三惑四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_saen_hoh_sz.md#疑三惑四)】`i2 saen1 hoh8 sz5` <small>/ʝ2 ɕiɛ̃1 xɔʔ8 sɿ5/<sup>泰兴</sup></small> ① 猜测怀疑。<sup>\[如东\]</sup>：不要～的。<sup>\[如东\]</sup> ② 不是怀疑这样，就是怀疑那样，总是怀疑不已<sup>\[泰州\]</sup>：上头有红头文件，你就不要再～的。<sup>\[泰州\]</sup> ③ 疑惑；怀疑。<sup>\[泰兴\]</sup>  
 1. 【[疑心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien.md#疑心)】`i2 xien1` <sup>[如东]</sup> 怀疑。  
 1. 【[疑心重](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_chon.md#疑心重)】`i2 xien1 chon6` <sup>[如东]</sup> 怀疑心很重：这个人～。  
 1. 【[疑心病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_pien.md#疑心病)】`i2 xien1 pien6` <sup>[如东]</sup> 患有怀疑心理症：这个人有～。  
-1. 【[疑心生暗鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_shen_un.md#疑心生暗鬼)】`i2 xien1 shen1 un5 guei3` <sup>[东台]</sup> 因过度怀疑而产生错觉。  
+1. 【[疑心生暗鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_xien_shen_un.md#疑心生暗鬼)】`i2 xien1 shen1 un5 guei3` <small>/ʝ2 ɕiŋ1 səŋ1 ʊ̃5 kuəɪ3/<sup>泰兴</sup></small> ① 因过度怀疑而产生错觉。<sup>\[东台\]</sup> ② 谓有了疑虑之心易产生误会。<sup>\[泰兴\]</sup>  
 1. 【[移苗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_mio.md#移苗)】`i2 mio2` <sup>[如东]</sup> 将棉花或其他作物的幼苗由一地移栽到另一地去，叫做移苗。  
 1. 【[胰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zz.md#胰子)】`i2 zz` <small>/i2 t͡sɿ/<sup>兴化</sup>, /ʝ2 t͡sɿ/<sup>如皋</sup></small> ① 胰脏<sup>\[如皋\]</sup><sup>\[兴化\]</sup> ② 蟹腮。<sup>\[如皋\]</sup> ③ 肥皂<sup>\[如皋\]</sup><sup>\[兴化\]</sup>：香～。<sup>\[兴化\]</sup> ④ 蟹壳以下两片对称的类似白色脂肪的物质<sup>\[兴化\]</sup>：蟹～。<sup>\[兴化\]</sup>  
 1. 【[遗腹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_foh_zz.md#遗腹子)】`i2 foh7 zz` <small>/ʝ2 fɔʔ7 t͡sɿ/<sup>泰兴</sup></small> 父亲去世后出生的孩子<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  

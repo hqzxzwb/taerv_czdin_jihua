@@ -455,6 +455,7 @@
 1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <small>/ɔʔ7 sɛ̃1 tʰɤ2/<sup>兴化</sup>, /ɔʔ7 ɕiɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> ① 山墙和靠近山墙的地方<sup>\[兴化\]</sup>：他在～栽啊两棵水杉。<sup>\[兴化\]</sup>｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）<sup>\[兴化\]</sup> ② 房屋的山墙边。<sup>\[泰兴\]</sup>  
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
+1. 【[䐥通味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_ton_vei.md#䐥通味)】`on1 ton vei6` <small>/ɔŋ1 tʰɔŋ ʋəɪ1/<sup>泰兴</sup></small> 食品变质后产生的难闻的气味。封闭日久、空气不流通而产生的异味。<sup>\[泰兴\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
 1. 【[滃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#滃)】`on1` <small>/ɔŋ1/<sup>泰兴</sup></small> 因墨汁、墨水含水量太足写字时纸面水渍四染。<sup>\[泰兴\]</sup>  
 1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on1 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  

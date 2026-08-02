@@ -23,6 +23,7 @@
 1. 【[屋山头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_shaen_teu.md#屋山头)】`oh7 shaen1 teu2` <small>/ɔʔ7 sɛ̃1 tʰɤ2/<sup>兴化</sup>, /ɔʔ7 ɕiɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> ① 山墙和靠近山墙的地方<sup>\[兴化\]</sup>：他在～栽啊两棵水杉。<sup>\[兴化\]</sup>｜……望见泰伯祠的大殿，～倒了半边。（《儒林外史》五五）<sup>\[兴化\]</sup> ② 房屋的山墙边。<sup>\[泰兴\]</sup>  
 1. 【[沃动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_ton.md#沃动)】`oh7 ton` <sup>[如东]</sup> 濛濛细雨密集地下着：外头的雨落咖～。  
 1. 【[䐥臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cheu.md#䐥臭)】`on1 cheu5` 很臭<sup>\[泰州\]</sup>：你几天不换袜子，～的。<sup>\[泰州\]</sup>  
+1. 【[䐥通味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_ton_vei.md#䐥通味)】`on1 ton vei6` <small>/ɔŋ1 tʰɔŋ ʋəɪ1/<sup>泰兴</sup></small> 食品变质后产生的难闻的气味。封闭日久、空气不流通而产生的异味。<sup>\[泰兴\]</sup>  
 1. 【[嗡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#嗡子)】`on1 zz` <sup>[兴化]</sup> 空竹：扯～（抖空竹）。  
 1. 【[滃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#滃)】`on1` <small>/ɔŋ1/<sup>泰兴</sup></small> 因墨汁、墨水含水量太足写字时纸面水渍四染。<sup>\[泰兴\]</sup>  
 1. 【[瓮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#瓮子)】`on1 zz` <small>/ɔŋ1 t͡sɿ/<sup>泰兴</sup></small> 陶制盛器，小口大腹。<sup>\[泰兴\]</sup>  
@@ -60,6 +61,7 @@
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <small>/ɔŋ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。<sup>\[如东\]</sup> ② 指发音时鼻音浓重。<sup>\[泰兴\]</sup>  
 1. 【[齆鼻子菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_pv.md#齆鼻子菩萨)】`on5 pieh8 zz pv2 saeh7` <sup>[如东]</sup> 鼻腔阻塞嗅觉不灵敏，香臭不分。比喻分不清好坏：～进茅坑，香臭不分。  
+1. 【[齆鼻子遇到臭猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_y.md#齆鼻子遇到臭猪头)】`on5 pieh8 zz y6 do cheu5 zhv1 teu2` <small>/ɔŋ5 pʰiʔ8 t͡sɿ y1 tɔ t͡ɕʰiɤɯ5 t͡su1 tʰəɪ2/<sup>泰兴</sup></small> 喻相差不多；不能识别好歹。<sup>\[泰兴\]</sup>：《玉如意》第3回：“真正不怕猪头臭，一样撞着䐥鼻子神。”<sup>\[泰兴\]</sup>  
 1. 【[齆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#齆子)】`on5 zz, ngon5 zz` <sup>[如皋]</sup> 软腭缺损者。  
 1. 【[𨞑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#𨞑)】`on5, ngon5` <sup>[如皋]</sup> 一种腐臭味：～味、～臭，发～。  
 1. 【[𨞑胨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_don.md#𨞑胨)】`on5 don5` <sup>[泰县]</sup> 臭味难闻：这间房子有～臭。  
