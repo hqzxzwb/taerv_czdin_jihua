@@ -478,7 +478,6 @@
 1. 【[大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian.md#大娘)】`da5 nian` <small>/ta5 niã/<sup>如皋</sup></small> ① 指称已婚青壮年女人。<sup>\[如皋\]</sup> ② 相对“姑娘”，特指已婚青年女子，少妇<sup>\[泰州\]</sup>：她结咖婚是～吖。<sup>\[泰州\]</sup>  
 1. 【[大娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_ga.md#大娘家)】`da5 nian6 ga` <sup>[兴化]</sup> 已婚妇女。区别于“姑娘”。  
 1. 【[大派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pae.md#大派)】`da5 pae5` <sup>[泰州]</sup> “大派头”的简称，为显派头在用钱上做大方状：大家都是工薪阶层，没得必要耍～。  
-1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da5 ren2` <sup>[泰州]</sup> ① 对父母叔伯等长辈的敬称：父亲～｜母亲～ ② 封建时代在官场中下属对上司的称呼，今多用作调侃、讥讽：院长～已经发咖话，你再说也没得用。  
 1. 【[大嫂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_so_zz.md#大嫂子)】`da5 so3 zz` <sup>[如皋]</sup> ① 大哥的妻子。 ② 对已婚妇女的尊称。  
 1. 【[这](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#这)】`da5` <sup>[东台]</sup> 指示代词，近指。“这（zha5）”的口语音。  
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#大)】`da6` 大，不小  
@@ -781,9 +780,9 @@
 1. 【[大曲（麯）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qioh.md#大曲（麯）)】`da6 qioh7` <sup>[兴化]</sup> 用曲霉和粮食酿成的酒，有曲香：洋河～；双沟～。  
 1. 【[大曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qioh.md#大曲)】`da6 qioh7` <sup>[兴化]</sup> 京剧唱段，区别于地方戏唱腔：他高兴的时候喜欢吼几句～。  
 1. 【[大取](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qy.md#大取)】`da6 qy3` <sup>[如东]</sup> 渔船到远洋去从事捕捞作业，称大取。  
-1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren` <small>/ta1 ɻəŋ/<sup>如皋</sup></small> ① 成年人。<sup>\[如皋\]</sup><sup>\[泰州\]</sup> ② 长辈。<sup>\[如皋\]</sup>  
+1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren` <small>/ta1 ɻəŋ/<sup>如皋</sup></small> 成年人<sup>\[如东\]</sup><sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
+1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren` <small>/ta1 ɻəŋ/<sup>如皋</sup></small> ① 长辈<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰州\]</sup> ② 对父母叔伯等长辈的敬称<sup>\[泰州\]</sup>：父亲～<sup>\[泰州\]</sup>｜母亲～<sup>\[泰州\]</sup> ③ 封建时代在官场中下属对上司的称呼，今多用作调侃、讥讽<sup>\[泰州\]</sup>：院长～已经发咖话，你再说也没得用。<sup>\[泰州\]</sup> ④ 旧社会对官僚的称谓。<sup>\[如东\]</sup>  
 1. 【[大人吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_nga.md#大人吖)】`da6 ren nga` <sup>[如皋]</sup> 发育成为成年人了。  
-1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da6 ren2` <sup>[如东]</sup> ① 成年人。 ② 长辈。 ③ 旧社会对官僚的称谓。  
 1. 【[大人不计小人过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_beh_ji.md#大人不计小人过)】`da6 ren2 beh7 ji5 xio3 ren2 gu5` <small>/tɑ1 ɻəŋ2 pəʔ7 t͡ɕʝ5 ɕiɔ3 ɻəŋ2 kɤɯ5/<sup>泰兴</sup></small> 有修养有身份的人不计较其他人的过错。常用于谦敬，希望对方宽容自己或他人的过错。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[大人家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_ga.md#大人家)】`da6 ren2 ga1` <small>/tɑ1 ɻɑŋ2 kɑ1/<sup>泰兴</sup></small> 大户人家，官宦人家。<sup>\[泰兴\]</sup>：当年横巷黄姓八家是～呀<sup>\[泰兴\]</sup>  
 1. 【[大人物](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren_veh.md#大人物)】`da6 ren2 veh8` <small>/tɑ1 ɻəŋ2 ʋəʔ8/<sup>泰兴</sup></small> 指有地位有名望的人。<sup>\[泰兴\]</sup>  
