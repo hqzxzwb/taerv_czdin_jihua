@@ -1356,8 +1356,7 @@
 1. 【[寡人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#寡人)】`gua3 ren` <small>/kua3 ɻəŋ/<sup>如皋</sup></small> ① 胃中𤵥人，或是饥饿感，或是想吃油腻的感觉。<sup>\[如皋\]</sup> ② 肚子里没油水，难受。<sup>\[东台\]</sup>  
 1. 【[寡人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren_zz.md#寡人子)】`gua3 ren zz` <sup>[如皋]</sup> 见“寡人”。  
 1. 【[寡水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shuei.md#寡水)】`gua3 shuei3` <sup>[兴化]</sup> 汤汁中营养成分少：清汤～。  
-1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <sup>[兴化]</sup> 饶舌的人‖也说“寡话嘴”：他是个～，见吖人说个不停。｜田尔耕本是个～夸诈之人……（《梼杌闲评》十一）  
-1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <small>/kuɑ3 t͡suəɪ3/<sup>泰兴</sup></small> 卖弄唇舌。<sup>\[泰兴\]</sup>  
+1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <small>/kua3 t͡suəi3/<sup>兴化</sup>, /kuɑ3 t͡suəɪ3/<sup>泰兴</sup></small> ① 饶舌的人‖也说“寡话嘴”。<sup>\[兴化\]</sup>：他是个～，见吖人说个不停。<sup>\[兴化\]</sup>｜田尔耕本是个～夸诈之人……（《梼杌闲评》十一）<sup>\[兴化\]</sup> ② 卖弄唇舌。<sup>\[泰兴\]</sup>  
 1. 【[卦辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cz.md#卦辞)】`gua5 cz2` <sup>[东台]</sup> 说明《周易》六十四卦每卦要义的文辞。  
 1. 【[挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#挂)】`gua5` <small>/kua5/<sup>兴化</sup></small> ① 书画轴子叫“挂”<sup>\[东台\]</sup>：宁写千张“化”（化缘单子），不写一张“挂”。（要经得起品鉴）<sup>\[东台\]</sup> ② 赊欠<sup>\[兴化\]</sup>：这笔账～啊年把，请你结下子吧！也作“挂账”。<sup>\[兴化\]</sup> ③ 量词，用于车辆、飞机<sup>\[泰州\]</sup>：天上有三～飞机在下飞。<sup>\[泰州\]</sup>｜迎亲的车子来啊十几～。<sup>\[泰州\]</sup>  
 1. 【[挂不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_beh_chv.md#挂不住)】`gua5 beh7 chv6` <small>/kua5 pəʔ7 t͡sʰu6/<sup>兴化</sup>, /kua5 pəʔ7 t͡sʰu1/<sup>如皋</sup></small> ① 见“袒”。<sup>\[如皋\]</sup> ② 因被羞辱而感到难堪<sup>\[兴化\]</sup>：他捱人家一顿挖苦，脸上有些～。<sup>\[兴化\]</sup> ③ 因受到羞辱而难堪，脸挂不住，即丢脸<sup>\[泰州\]</sup>：你当吖人的面说他，他脸上当然～唻。<sup>\[泰州\]</sup>  
