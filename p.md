@@ -766,9 +766,9 @@
 1. 【[瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_r_jy.md#瓢<sub>儿</sub>嘴)】`pio2 r jy3` <small>/pʰiɔ˞2 t͡ɕy3/<sup>如皋</sup></small> ① 嘴大、嘴唇常扭动的样子。<sup>\[如皋\]</sup> ② 嘴大，嘴唇前伸。<sup>\[如东\]</sup>  
 1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zuei.md#瓢嘴)】`pio2 zuei3` <sup>[兴化]</sup> ① 撅着嘴并微微颤动的样子：……宜荣夫妇瓢着嘴儿唠叨地走了。（马春阳《月朗和她的娘舅们》） ② 两唇颤动，将要啼哭的样子：他被骂得直～，又不敢哭出声来。  
 1. 【[□孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_suen_r.md#□孙<sub>儿</sub>)】`pio3 suen1 r` <sup>[如皋]</sup> 长房长孙，刚生时称。  
-1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_vah.md#□□)】`pio3 vah` <small>/pʰiɔ3 uɑʔ/<sup>泰兴</sup></small> 谓猛吃猛喝，不顾别人，形象差。蒋华镇西江边有一庄名～镇。<sup>\[泰兴\]</sup>  
-1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio3` <small>/pʰiɔ3/<sup>如皋</sup></small> ① 吃相粗鄙。<sup>\[如皋\]</sup> ② 人的牙齿突露唇外<sup>\[泰州\]</sup>：他的门牙有点ㄦ～。<sup>\[泰州\]</sup>｜他是个～牙齿。<sup>\[泰州\]</sup>  
 1. 【[嘌嘴㗘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy_pah.md#嘌嘴㗘)】`pio3 jy3 pah7` <sup>[东台]</sup> 形容喜欢吹牛说大话，办事不牢靠的人：那是个～，不要听他的。  
+1. 【[嘌ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌ʲ)】`pio3` <small>/pʰiɔ3/<sup>如皋</sup></small> ① 吃相粗鄙。<sup>\[如皋\]</sup> ② 人的牙齿突露唇外<sup>\[泰州\]</sup>：他的门牙有点ㄦ～。<sup>\[泰州\]</sup>｜他是个～牙齿。<sup>\[泰州\]</sup>  
+1. 【[嘌ʲ嗀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_vah.md#嘌ʲ嗀)】`pio3 vah` <small>/pʰiɔ3 uɑʔ/<sup>泰兴</sup></small> 谓猛吃猛喝，不顾别人，形象差。蒋华镇西江边有一庄名～镇。<sup>\[泰兴\]</sup>  
 1. 【[漂亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_lian.md#漂亮)】`pio5 lian` <small>/pʰiɔ5 liã/<sup>如皋</sup></small> ① 识相、知趣<sup>\[如皋\]</sup>：你放吖～吖点儿，少吃点儿苦！<sup>\[如皋\]</sup> ② 利索<sup>\[如皋\]</sup>：手段～，做得～。<sup>\[如皋\]</sup> ③ 美观，出色。<sup>\[如东\]</sup>  
 1. 【[票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#票)】`pio5` <small>/pʰiɔ5/<sup>兴化</sup></small> 量词，计量批次<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：一～生意<sup>\[兴化\]</sup>｜一～买卖。<sup>\[兴化\]</sup>｜他俫是一～货——一样的货色。<sup>\[兴化\]</sup>｜一～空调生意<sup>\[泰州\]</sup>  
 1. 【[票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zz.md#票子)】`pio5 zz` <small>/pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> 纸币、钞票。<sup>\[泰兴\]</sup>  
