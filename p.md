@@ -749,10 +749,11 @@
 1. 【[飘球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_qieu.md#飘球)】`pio1 qieu2` <sup>[如皋]</sup> 打乒乓球、排球的一种技法，飘忽前进。  
 1. 【[飘扇骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_shin_gueh.md#飘扇骨)】`pio1 shin gueh7` <small>/pʰiɔ1 ɕĩ kuəʔ7/<sup>泰兴</sup></small> 肩胛骨。或与肩胛骨一起售卖的猪肉。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#□)】`pio2` <small>/pʰiɔ2/<sup>泰县</sup></small> 牙齿外露<sup>\[泰县\]</sup>：牙齿～啊外头。<sup>\[泰县\]</sup>  
-1. 【[嫖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嫖)】`pio2` ① 旧社会男子到妓院玩弄妓女。<sup>\[如东\]</sup>：～妓。<sup>\[如东\]</sup> ② 男子与非法定婚姻女子发生性关系。<sup>\[如东\]</sup>：他～婆娘。<sup>\[如东\]</sup> ③ 欺骗，俚语。<sup>\[如东\]</sup> ④ 多指男子与妓女发生性关系。本地通常对男子在外找女人都叫～婆娘。<sup>\[东台\]</sup>  
+1. 【[嫖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嫖)】`pio2` <small>/pʰiɔ2/<sup>泰兴</sup></small> ① 旧社会男子到妓院玩弄妓女。<sup>\[如东\]</sup>：～妓。<sup>\[如东\]</sup> ② 男子与非法定婚姻女子发生性关系。<sup>\[如东\]</sup>：他～婆娘。<sup>\[如东\]</sup> ③ 欺骗，俚语。<sup>\[如东\]</sup> ④ 多指男子与妓女发生性关系。本地通常对男子在外找女人都叫～婆娘。<sup>\[东台\]</sup> ⑤ 玩弄女性的行为。<sup>\[泰兴\]</sup>  
 1. 【[嫖婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_bio_zz.md#嫖婊子)】`pio2 bio3 zz` <sup>[如皋]</sup> 花钱嫖妓女。  
 1. 【[嫖脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jiah.md#嫖脚)】`pio2 jiah7` <sup>[如皋]</sup> 好嫖而且有本事嫖的人。  
-1. 【[嫖客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_keh.md#嫖客)】`pio2 keh7` <sup>[如东]</sup> 与非法定婚姻女子发生性关系的男子。  
+1. 【[嫖客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_keh.md#嫖客)】`pio2 keh7` <small>/pʰiɔ2 kʰəʔ7/<sup>泰兴</sup></small> ① 与非法定婚姻女子发生性关系的男子。<sup>\[如东\]</sup> ② 玩弄妓女的男子。<sup>\[泰兴\]</sup>  
+1. 【[嫖嫲嫲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_ma_ma.md#嫖嫲嫲)】`pio2 ma3 ma` <small>/pʰiɔ2 mɑ3 mɑ/<sup>泰兴</sup></small> 玩弄女人。<sup>\[泰兴\]</sup>  
 1. 【[嫖嫲嫲<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_ma_ma_r.md#嫖嫲嫲<sub>儿</sub>)】`pio2 ma3 ma3 r` <sup>[如皋]</sup> 男性婚外恋情。  
 1. 【[嫖嫲嫲<sub>儿</sub>精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_ma_ma_r.md#嫖嫲嫲<sub>儿</sub>精)】`pio2 ma3 ma3 r jien1` <sup>[如皋]</sup> 好嫖而且有本事嫖的人。  
 1. 【[嫖婆娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_pu_nian.md#嫖婆娘)】`pio2 pu2 nian` <sup>[兴化]</sup> ① 嫖妓：余二虎有两个坏脾气，一是迷恋麻将，二是到处～。 ② 男人搞婚外两性关系。  

@@ -1636,13 +1636,16 @@
 1. 【[嗲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dia.md#嗲)】`dia3` <small>/tia3/<sup>如皋</sup>, /tia3/<sup>泰县</sup></small> ① 娇声、娇态<sup>\[如皋\]</sup>：发～。<sup>\[如皋\]</sup> ② 形容撒娇的声音或姿态。<sup>\[东台\]</sup> ③ 好<sup>\[泰县\]</sup>：这东西～。<sup>\[泰县\]</sup>  
 1. 【[嗲声嗲气的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dia_shen_dia_qi.md#嗲声嗲气的)】`dia3 shen1 dia3 qi5 dii` <sup>[如皋]</sup> 娇声娇气的。  
 1. 【[䊞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#䊞)】`dieh7` <sup>[如皋]</sup> 粘住、粘合：用牛皮胶～扯吆儿（空竹）；用树胶～姐䗜（知了）。  
-1. 【[嫡亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien.md#嫡亲)】`dieh7 qien1` <sup>[东台]</sup> 血统最为接近的：他俫是～弟兄，同一父母所生。  
+1. 【[嫡嫡剥剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_dieh_bah_bah.md#嫡嫡剥剥)】`dieh7 dieh7 bah7 bah7` <small>/tiʔ7 tiʔ7 pɑʔ7 pɑʔ7/<sup>泰兴</sup></small> 真正的至亲骨肉。<sup>\[泰兴\]</sup>  
+1. 【[嫡亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien.md#嫡亲)】`dieh7 qien1` <small>/tiʔ7 t͡ɕʰiŋ1/<sup>泰兴</sup></small> ① 血统最为接近的<sup>\[东台\]</sup>：他俫是～弟兄，同一父母所生。<sup>\[东台\]</sup> ② 谓血统最为亲近者；最亲近的家属；至亲。<sup>\[泰兴\]</sup>  
 1. 【[嫡亲哥哥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien_gu_gu.md#嫡亲哥哥)】`dieh7 qien1 gu1 gu` <sup>[如东]</sup> 同父同母或同父异母所生的年龄比自己大的男子。  
 1. 【[嫡亲姐姐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien_jia_jia.md#嫡亲姐姐)】`dieh7 qien1 jia3 jia` <sup>[如东]</sup> 同父同母或同父异母所生的年龄比自己大的女子。  
 1. 【[嫡亲妹妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien_mei_mei.md#嫡亲妹妹)】`dieh7 qien1 mei6 mei` <sup>[如东]</sup> 同父同母或同父异母所生的年龄比自己小的女子。  
 1. 【[嫡亲弟弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_qien_ti_ti.md#嫡亲弟弟)】`dieh7 qien1 ti6 ti` <sup>[如东]</sup> 同父同母或同父异母所生的年龄比自己小的男子。  
 1. 【[嫡叔伯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_shoh_boh.md#嫡叔伯)】`dieh7 shoh7 boh7` <sup>[东台]</sup> 第二代血亲关系。  
 1. 【[嫡堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_tan.md#嫡堂)】`dieh7 tan2` <sup>[如皋]</sup> 见“紧房”。  
+1. 【[嫡兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_xion_ti.md#嫡兄弟)】`dieh7 xion1 ti6` <small>/tiʔ7 ɕiɔŋ1 t͡ɕʰʝ1/<sup>泰兴</sup></small> 同胞兄弟。<sup>\[泰兴\]</sup>  
+1. 【[嫡姊妹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_zz_mei.md#嫡姊妹)】`dieh7 zz3 mei6` <small>/tiʔ7 t͡sɿ3 məɪ1/<sup>泰兴</sup></small> 同胞兄弟姐妹。<sup>\[泰兴\]</sup>  
 1. 【[扚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh.md#扚)】`dieh7` <small>/tiɪʔ7/<sup>兴化</sup>, /tiəʔ7/<sup>如皋</sup></small> ① 摘取 ② 摘、拔、扯<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup>\[泰州：拔出丝状物或者细杆状物\]：～除、～猪毛、走线板儿上～根线、把衣裳上的线头～掉。<sup>\[如皋\]</sup>｜～毛针。<sup>\[东台\]</sup>｜～鸡毛。<sup>\[东台\]</sup>｜～鸡毛；～线头；～胡子。<sup>\[兴化\]</sup>｜蹄爪儿以后不要买唻，高头的毛不晓得多难～。<sup>\[泰州\]</sup>｜他没得事就对住镜子～胡子。<sup>\[泰州\]</sup> ③ （借）把人从群体中拽出<sup>\[兴化\]</sup>：我把他从队伍中～出来说咖几句话。<sup>\[兴化\]</sup> ④ 拽，拉<sup>\[泰州\]</sup>：你把西装的下摆～咖子，弄吖平吖。<sup>\[泰州\]</sup>｜你把牌儿反过来，让我～张牌。<sup>\[泰州\]</sup>  
 1. 【[扚边心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_bin_xien.md#扚边心)】`dieh7 bin1 xien1` <sup>[如东]</sup> 棉花生长到一定阶段，把多余的边心摘除，以促进棉桃的生长。这种方法叫做扚边心。  
 1. 【[扚毛酸醋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/dieh_mo_sun_cv.md#扚毛酸醋的)】`dieh7 mo2 sun1 cv5 dii` <sup>[如皋]</sup> 表害怕、畏惧的样子：王先生太厉害，学生看见他，个个～｜老鼠看见猫儿，～。  

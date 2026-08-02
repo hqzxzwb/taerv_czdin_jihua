@@ -3035,8 +3035,7 @@
 1. 【[缩气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qi.md#缩气)】`soh7 qi5` <sup>[如皋]</sup> 吸气。见“伸缩气”。  
 1. 【[缩钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_qin.md#缩钱)】`soh7 qin2` <sup>[如皋]</sup> 暗中收藏钱财。  
 1. 【[缩身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shen.md#缩身)】`soh7 shen1` <sup>[如东]</sup> 物体体积缩小。  
-1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei` <sup>[如皋]</sup> 织物浸水后缩小。  
-1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei3` ① 纺织品浸泡后纤维收缩，现也比喻资产贬值。<sup>\[东台\]</sup> ② 布料浸水后的收缩现象。<sup>\[如东\]</sup>  
+1. 【[缩水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_shuei.md#缩水)】`soh7 shuei3` <small>/sɔʔ7 suei3/<sup>如皋</sup>, /sɔʔ7 suəɪ3/<sup>泰兴</sup></small> ① 织物浸水后缩小。<sup>\[如皋\]</sup> ② 纺织品浸泡后纤维收缩，现也比喻资产贬值。<sup>\[东台\]</sup> ③ 布料浸水后的收缩现象。<sup>\[如东\]</sup> ④ 指织物或衣被等浸水之后的收缩状态。<sup>\[泰兴\]</sup>  
 1. 【[缩缩魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_soh_huen.md#缩缩魂)】`soh7 soh7 huen2` <sup>[东台]</sup> 警告某人收敛些，不要张狂：现在反腐力度大，你～！  
 1. 【[缩头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu.md#缩头)】`soh7 teu` <sup>[如皋]</sup> 缩水率：这种布下水～大，那种布～小。  
 1. 【[缩头夹颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/soh_teu_gaeh_jien.md#缩头夹颈)】`soh7 teu2 gaeh7 jien3` <sup>[兴化]</sup> 两肩高耸，头颈下缩：他捱冷风一吹，冻得～的。  

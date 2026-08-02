@@ -433,7 +433,7 @@
 1. 【[慢犜牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_den_ngeu.md#慢犜牛)】`maen6 den1 ngeu2` <sup>[如东]</sup> 比喻动作缓慢：走起路来像个～。  
 1. 【[慢驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_den_ngeu.md#慢驐牛)】`maen6 den1 ngeu2` <sup>[如皋]</sup> 喻人的个性慢，行动迟缓，或指人。  
 1. 【[慢而稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_er_ven.md#慢而稳)】`maen6 er2 ven3` <sup>[如东]</sup> 虽然做事慢了点儿，但是十分稳妥，不容易出纰漏。  
-1. 【[慢工出细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_gon_chueh_xi.md#慢工出细货)】`maen6 gon1 chueh7 xi5 hu5` <small>/mɛ̃6 koŋ1 t͡sʰuəʔ7 ɕi5 xo5/<sup>兴化</sup>, /mɛ̃1 kɔŋ1 t͡sʰuəʔ7 ɕʝ5 xɤɯ5/<sup>泰兴</sup></small> ① 要舍得花时间和精力才能办好事情，或做出好东西来。<sup>\[兴化\]</sup>：“……常言说得好，～，你费了几日功夫，才撰就一副好对联来……”（《广陵潮》八四）<sup>\[兴化\]</sup> ② 精细操作会做出精巧的产品。<sup>\[泰兴\]</sup>  
+1. 【[慢工出细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_gon_chueh_xi.md#慢工出细货)】`maen6 gon1 chueh7 xi5 hu5` <small>/mɛ̃6 koŋ1 t͡sʰuəʔ7 ɕi5 xo5/<sup>兴化</sup>, /mɛ̃1 kɔŋ1 t͡sʰuəʔ7 ɕʝ5 xɤɯ5/<sup>泰兴</sup></small> ① 要舍得花时间和精力才能办好事情，或做出好东西来。<sup>\[兴化\]</sup>：“……常言说得好，～，你费了几日功夫，才撰就一副好对联来……”（《广陵潮》八四）<sup>\[兴化\]</sup> ② 精细操作会做出精巧的产品。引申为做事不急于求成，会产生良好的效果。<sup>\[泰兴\]</sup>  
 1. 【[慢火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_hu.md#慢火)】`maen6 hu3` <sup>[东台]</sup> 文火；微火。  
 1. 【[慢言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_in_qio_y.md#慢言悄语)】`maen6 in2 qio3 y3` <sup>[如皋]</sup> 状态度和蔼，说话缓慢委婉，有耐心而又语意透彻。  
 1. 【[慢经逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io.md#慢经逍遥)】`maen6 jien1 xio1 io2` <sup>[如皋]</sup> 缓慢、随意、闲适的样子。参见“懈怠”。  
@@ -445,7 +445,7 @@
 1. 【[慢慢较](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_jio.md#慢慢较)】`maen6 maen6 jio5` <sup>[泰县]</sup> 慢一点。  
 1. 【[慢慢慢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_maen_r.md#慢慢慢<sub>儿</sub>)】`maen6 maen6-2 maen6-3 r` <sup>[如皋]</sup> 极慢地。  
 1. 【[慢慢暇暇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_maen_xia_xia.md#慢慢暇暇)】`maen6 maen6 xia2 xia2` <sup>[东台]</sup> 像闲暇无事般不慌不忙。  
-1. 【[慢忙ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙ʲ)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup>, /mɛ̃1 mɑŋ2/<sup>泰兴</sup></small> 不忙，不要着急，等一等再<sup>\[泰州\]</sup>\[如皋：参见“慢慢叫”\]\[泰兴：又音maen6 van2\]：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
+1. 【[慢忙ʲ](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_man.md#慢忙ʲ)】`maen6 man2` <small>/mẽ1 mã2/<sup>如皋</sup>, /mɛ̃1 mɑŋ2/<sup>泰兴</sup></small> 不忙，不要着急，等一等再<sup>\[泰州\]</sup>\[如皋：参见“慢慢叫”\]\[泰兴：又音maen6 uan2\]：上南京这件事你～同他说。<sup>\[泰州\]</sup>  
 1. 【[慢吖你](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_nga_nii.md#慢吖你)】`maen6 nga nii3` <sup>[如皋]</sup> 礼貌用语。慢待了，对不起。  
 1. 【[慢噋噋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_ten_ten_dii.md#慢噋噋的)】`maen6 ten1 ten1 dii` <sup>[如皋]</sup> 慢吞吞的。见“噋吖噋的”。  
 1. 【[慢条斯理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_tio_sz_li.md#慢条斯理)】`maen6 tio2 sz1 li3` <sup>[如东]</sup> 从容不迫，不慌不忙。  
