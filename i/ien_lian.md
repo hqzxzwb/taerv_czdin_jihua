@@ -5,6 +5,7 @@ ien5 lian2
 
 # 阴凉
 ien1 lian2
+txe:ien1 lian
 + 遮住阳光而凉爽。
   * 如皋方言词典
 + 凉快。
