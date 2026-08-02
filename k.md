@@ -1,7 +1,7 @@
 # 音序检索
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## K
-1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰa1/<sup>泰县</sup></small> ① 揣、塞、放进<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup>｜把馒头朝嘴里～。<sup>\[如东\]</sup>｜把钱～啊袋里。<sup>\[东台\]</sup>｜吃不下去硬～。<sup>\[兴化\]</sup>｜街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup>｜他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ② 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ③ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ④ 抓（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup>：把药～住阿。<sup>\[泰县\]</sup> ⑤ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑥ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  
+1. 【[抲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka.md#抲)】`ka1` <small>/kʰa1/<sup>兴化</sup>, /kʰa1/<sup>如皋</sup>, /kʰɑ1/<sup>泰兴</sup>, /kʰa1/<sup>泰县</sup></small> ① 揣、塞、放进<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：把钱～啊袋儿里。<sup>\[如皋\]</sup>｜把馒头朝嘴里～。<sup>\[如东\]</sup>｜把钱～啊袋里。<sup>\[东台\]</sup>｜吃不下去硬～。<sup>\[兴化\]</sup>｜街上卖的鸡子食都～得满满的。<sup>\[泰县\]</sup>｜他吃不下去就不要硬～他唻。<sup>\[泰州\]</sup>｜你多～点ㄦ馅心，包子才好吃。<sup>\[泰州\]</sup> ② 做事偷偷摸摸的<sup>\[东台\]</sup>：鬼～鬼～的。<sup>\[东台\]</sup> ③ 嵌<sup>\[兴化\]</sup>：桌子缝里～灰。<sup>\[兴化\]</sup> ④ 抓（《集韵》平声麻韵丘加切：“扼也，或作揢㧎”。）<sup>\[泰县\]</sup>：把药～住阿。<sup>\[泰县\]</sup> ⑤ 把钱物强行塞给别人<sup>\[泰州\]</sup>：临走的时候，老李又～啊两包烟把他。<sup>\[泰州\]</sup> ⑥ 强行安插人员<sup>\[泰州\]</sup>：编制已经满吖，上头又～啊两个人进来啊。<sup>\[泰州\]</sup>  
 1. 【[揩油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ieu.md#揩油)】`ka1 ieu2` <small>/kʰa1 iɤ2/<sup>兴化</sup></small> ① ［喻］占公家或别人的便宜。另见kae1 ieu2。念ka1为吴语影响。<sup>\[东台\]</sup> ② （借）调戏妇女<sup>\[兴化\]</sup>：覅看他跑出来人模人样的，一见漂亮女将就想～。<sup>\[兴化\]</sup>  
 1. 【[□□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_ka.md#□□)】`ka2 ka2` <sup>[泰州]</sup> 笑声：你望她噢，笑得～的，不晓得为的甚的事？  
 1. 【[喀籽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ka_zz.md#喀籽)】`ka2 zz3` <sup>[如皋]</sup> 新母鸡性成熟的鸣声，表示将会生蛋。  
@@ -229,6 +229,7 @@
 1. 【[壳壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r.md#壳壳<sub>儿</sub>)】`kah7 kah r` <small>/kʰaʔ7 kʰa˞/<sup>如皋</sup></small> ① 质差<sup>\[如皋\]</sup>：这张橱是坏～。<sup>\[如皋\]</sup> ② 无价值<sup>\[如皋\]</sup>：还做甚的唻，做他个～！<sup>\[如皋\]</sup>  
 1. 【[壳壳<sub>儿</sub>梦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah_r_mon.md#壳壳<sub>儿</sub>梦)】`kah7 kah r mon6` <sup>[如皋]</sup> 见“壳壳儿”。  
 1. 【[壳螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_lu_lu.md#壳螺螺)】`kah7 lu1 lu1` <small>/kʰɑʔ7 lɤɯ1 lɤɯ1/<sup>泰兴</sup></small> 蜗牛<sup>\[泰兴\]</sup>  
+1. 【[壳枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_qian.md#壳枪)】`kah7 qian1` <small>/kʰaʔ7 t͡ɕʰiã1/<sup>如皋</sup></small> 儿时自制的玩具手枪。\[如皋：《如皋方言词典》作“搉枪”\]  
 1. 【[壳<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_r.md#壳<sub>儿</sub>)】`kah7 r` <sup>[如东]</sup> ① 甲壳动物的外甲，如蟹壳、虾壳、螺壳等。 ② 人的躯体的外表：他的年龄虽大，～还蛮好。  
 1. 【[壳树](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shv.md#壳树)】`kah7 shv6` <small>/kʰaʔ7 su6/<sup>兴化</sup>, /kʰaʔ7 su1/<sup>如皋</sup></small> 楮树、构树。<sup>\[如皋\]</sup><sup>\[兴化\]</sup>\[泰州：落叶乔木，树皮可为造纸原料。\]  
 1. 【[壳铎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_tah.md#壳铎)】`kah7 tah` <sup>[兴化]</sup> 象声词：折枝或重物落地声｜（他）正在凝神，只听～一声，觉得腿裆里一软，身子一摇，竟滚下山涧去了。（《老残游记》八）  
@@ -240,7 +241,6 @@
 1. 【[搉骨头烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_gueh_teu_sho.md#搉骨头烧)】`kah7 gueh7 teu sho1` <sup>[泰州]</sup> 詈语，焚化尸首后剩下的骨头用锤、斧砸碎以后再烧，詈骂仇恨之人：你这个～，坏事做啊尽吖，将来不得好死。  
 1. 【[搉搉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_kah.md#搉搉)】`kah7 kah` <sup>[兴化]</sup> （儿童语）休想、办不到：你想赢我啊？～！  
 1. 【[搉牌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pae_zz.md#搉牌子)】`kah7 pae2 zz` <sup>[如东]</sup> ① 把店铺的门牌砸坏了。 ② 商品的质量和信誉遭到损坏。  
-1. 【[搉枪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_qian.md#搉枪)】`kah7 qian1` <sup>[如皋]</sup> 儿时自制的玩具手枪。  
 1. 【[确备](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_pei.md#确备)】`kah7 pei` <small>/kʰaʔ7 pʰei/<sup>如皋</sup>, /kʰɑʔ7 pʰəɪ/<sup>泰兴</sup></small> ① 下决心，准备付出代价<sup>\[如皋\]</sup>：我～一夜不睡，单要看住他！<sup>\[如皋\]</sup> ② 谓有了充分准备；反正是这样。<sup>\[泰兴\]</sup>  
 1. 【[确生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kah_shen.md#确生)】`kah7 shen` <sup>[如皋]</sup> 见“确备”。  
 1. 【[康管](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/kan_gun.md#康管)】`kan1 gun3` <sup>[泰县]</sup> 装有墨粉的安瓿。  

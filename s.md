@@ -155,10 +155,12 @@
 1. 【[三节桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jih_qio.md#三节桥)】`saen1 jih7 qio2` <sup>[如皋]</sup> 见“三搭桥”。  
 1. 【[三绞三放](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jio_saen_fan.md#三绞三放)】`saen1 jio3 saen1 fan5` <sup>[东台]</sup> 反复折磨，毫不放过。  
 1. 【[三教九流](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_jio_jieu_lieu.md#三教九流)】`saen1 jio5 jieu3 lieu2` <small>/ɕiɛ̃1 t͡ɕiɔ5 t͡ɕiɤɯ3 ləɪ2/<sup>泰兴</sup></small> ① 三教指儒教、佛教、道教；九流指儒家、道家、阴阳家、法家、名家、墨家、纵横家、杂家农家。泛指宗教、学术中各种流派或社会上各种行业。旧社会也用来泛称江湖上各种各样的人。也说九流三派。<sup>\[如东\]</sup> ② 泛指宗教、学术界中的各种流派或社会上各种行业，也泛指江湖上各种各样的人。<sup>\[东台\]</sup> ③ 三教：儒、佛、道。九流：儒家、道家、阴阳家、法家、名家、墨家、纵横家、杂家、农家。多用于宗教和学术的各种流派。乡人则指各色人物或各种行当。含贬义。<sup>\[泰兴\]</sup>  
+1. 【[三卡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ka.md#三卡)】`saen1 ka3` <small>/ɕiɛ̃1 kʰɑ3/<sup>泰兴</sup></small> 三轮摩托车<sup>\[泰兴\]</sup>  
 1. 【[三考六练](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_ko_loh_lin.md#三考六练)】`saen1 ko3 loh8 lin6` <sup>[东台]</sup> 经常性练习、考评：他经过～，拳越打越好。  
 1. 【[三浪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_lan_zz.md#三浪子)】`saen1 lan6 zz` <sup>[如东]</sup> 鲻鱼科动物沙丁鱼，体形比沙丁鱼长一些，约10-15厘米  
 1. 【[三棱不角的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_len_beh_gah.md#三棱不角的)】`saen1 len2 beh7 gah7 dii` <small>/ɕiɛ̃1 ləŋ2 pəʔ7 kɑʔ7 təɪ/<sup>泰兴</sup></small> 本指极不规则的物体，借指极难相处，经常与人意见相左，容易吵架的人。<sup>\[泰兴\]</sup>  
 1. 【[三轮车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_len_cha.md#三轮车)】`saen1 len2 cha1` <sup>[东台]</sup> 有三个轮子，靠人力骑行的车子。  
+1. 【[三轮卡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_len_ka_r.md#三轮卡<sub>儿</sub>)】`saen1 len2 ka3 r` <small>/sẽ1 ləŋ2 kʰa˞3/<sup>如皋</sup></small> 三轮摩托车<sup>\[如皋\]</sup>  
 1. 【[三离不角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_beh_gah.md#三离不角)】`saen1 li2 beh7 gah7` <sup>[如东]</sup> 形状不规则而多棱。比喻怪里怪气，不通情理：这个人～的，不好相处。  
 1. 【[三里丢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_dieu.md#三里丢)】`saen1 li3 dieu1` <sup>[泰县]</sup> 草鞋。  
 1. 【[三里路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/saen_li_lv.md#三里路)】`saen1 li3 lv6` <sup>[东台]</sup> 特指从西溪犁木街东端到海道桥（旧称“海大口子”）的一段路，全长1600多米。较狭窄，像马脊梁一样。始建于西汉，是东台最古老的运盐送草通道。清代加青砖铺就。  
