@@ -299,11 +299,12 @@
 1. 【[瘌皮<sub>儿</sub>疮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_pi_r_chuan.md#瘌皮<sub>儿</sub>疮)】`laeh8 pi2 r chuan1` <sup>[如皋]</sup> 见“瘌疮”。  
 1. 【[瘌骚猪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_so_zhv.md#瘌骚猪)】`laeh8 so zhv1` <sup>[兴化]</sup> （喻）形容人极其肮脏：他作咖像个～。  
 1. 【[瘌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_teu.md#瘌头)】`laeh8 teu2` <sup>[如皋]</sup> 癞痢头。  
-1. 【[瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz.md#瘌子)】`laeh8 zz` <small>/læʔ8 t͡sɿ/<sup>兴化</sup>, /leʔ8 t͡sɿ/<sup>如皋</sup></small> ① 头发稀疏。<sup>\[如东\]</sup> ② 喻指长籽不匀的玉米棒头儿。<sup>\[如皋\]</sup> ③ 指头上长黄癣的人。<sup>\[东台\]</sup> ④ 长黄癣的人。<sup>\[兴化\]</sup> ⑤ 因生黄癣而导致秃顶的人。<sup>\[泰州\]</sup>  
+1. 【[瘌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz.md#瘌子)】`laeh8 zz` <small>/læʔ8 t͡sɿ/<sup>兴化</sup>, /leʔ8 t͡sɿ/<sup>如皋</sup>, /læʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 头发稀疏。<sup>\[如东\]</sup> ② 喻指长籽不匀的玉米棒头儿。<sup>\[如皋\]</sup> ③ 指头上长黄癣的人。<sup>\[东台\]</sup> ④ 长黄癣的人。<sup>\[兴化\]</sup> ⑤ 因生黄癣而导致秃顶的人。<sup>\[泰州\]</sup> ⑥ 黄癣；因黄癣而秃头。<sup>\[泰兴\]</sup>  
 1. 【[瘌子打伞，无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_da_saen.md#瘌子打伞，无发（法）无天)】`laeh8 zz da3 saen3 v2 faeh7 v2 tin1` <sup>[如皋]</sup>   
 1. 【[瘌子打伞——无发（法）无天](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_da_saen.md#瘌子打伞——无发（法）无天)】`laeh8 zz da3 saen3 v2 faeh7 v2 tin1` <sup>[东台]</sup>   
 1. 【[瘌子披麻——绕账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_pi_ma.md#瘌子披麻——绕账)】`laeh8 zz pi1 ma2 ro6 zhan5` <sup>[东台]</sup> 敷衍了事  
 1. 【[瘌子头上的虱子——明摆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_teu_shan.md#瘌子头上的虱子——明摆)】`laeh8 zz teu2 shan dii sheh7 zz mien2 bae3` <sup>[东台]</sup>   
+1. 【[瘌子做和尚，现成的头脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_zz_zu_hu.md#瘌子做和尚，现成的头脑)】`laeh8 zz zu5 hu2 shan xin6 chen2 dii teu2 no3` <small>/læʔ8 t͡sɿ t͡sɤɯ5 xɤɯ2 t͡sʰɑŋ ɕĩ1 t͡sʰəŋ2 təɪ tʰəɪ2 nɔ3/<sup>泰兴</sup></small> 歇后语。喻无须做准备即可办理事情。<sup>\[泰兴\]</sup>  
 1. 【[腊八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh.md#腊八)】`laeh8 baeh7` <small>/læʔ8 pæʔ7/<sup>泰兴</sup></small> 农历腊月初八。民间称为腊八节，有食腊八粥之俗。<sup>\[泰兴\]</sup>：《玉如意》第14回：“打了半年盏饭来，只够一顿腊八酸粥斋了僧。”<sup>\[泰兴\]</sup>  
 1. 【[腊八节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_jih.md#腊八节)】`laeh8 baeh7 jih7` <sup>[如东]</sup> 佛教节日。相传阴历十二月初八日是佛祖释迦牟尼的成道日，佛寺诵经，并供腊八粥。民间有吃“腊八粥”的习俗。  
 1. 【[腊八粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_baeh_zhoh.md#腊八粥)】`laeh8 baeh7 zhoh7` ① 仿效佛祖释迦牟尼成道前牧女献乳糜的传说故事，取香谷及果实等造粥供佛，名腊八粥。后流行于民间。据《燕京岁时记》载：“腊八粥者，用黄米、白米、江米、小米、菱角米、粟子、红豇豆、去皮枣泥等，合水煮粥，外用染红桃仁、杏仁、瓜子、花生、榛瓤、松子及白糖、红糖、葡萄以作点染。”如今的八宝粥，就是参照腊八粥的配料制作的。<sup>\[如东\]</sup> ② 农历十二月初八日用米，豆等谷物和枣、栗、莲子等八种干果煮成的粥。起源于佛教。<sup>\[东台\]</sup> ③ 亦称佛粥，据说释迦牟尼经过六年苦修，方于腊月八日在菩提树下悟道成佛，此日遂为佛教节日；每年十二月初八日，各大寺院均用果子杂拌煮粥，分食僧众，乃有此称，后来民间相沿成俗。民俗，腊八粥必用青菜，加红枣、黄豆、蚕豆、红豆、花生米、山芋、芋头等为之，泰州光孝寺恢复重建后，每逢腊八，亦以大锅煮粥馈赠百姓。<sup>\[泰州\]</sup>  
@@ -897,14 +898,18 @@
 1. 【[漏单](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_daen.md#漏单)】`leu6 daen1` <small>/lɤ6 tɛ̃1/<sup>兴化</sup></small> ① 落单，一人独处或单人行路<sup>\[兴化\]</sup>：你覅凶，等你哪天子～狠狠𢪎你一顿。<sup>\[兴化\]</sup> ② 个人离开群体。<sup>\[兴化\]</sup>  
 1. 【[漏斗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_deu.md#漏斗)】`leu6 deu3` <sup>[如东]</sup> 由一个锥形的斗和一根管子构成，能够把液体或颗粒、粉末灌进小口容器里。  
 1. 【[漏缝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_fon.md#漏缝)】`leu6 fon6` <sup>[兴化]</sup> 缝隙：板壁上有几处～，透过光来。  
+1. 【[漏红漏白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_hon_leu_poh.md#漏红漏白)】`leu6 hon2 leu6 poh8` <small>/ləɪ1 xɔŋ2 ləɪ1 pʰɔʔ8/<sup>泰兴</sup></small> 谓皮肤白皙细嫩。<sup>\[泰兴\]</sup>：《玉如意》第9回：“漏红漏白瓜子脸，不肥不胖苗条身。”<sup>\[泰兴\]</sup>  
 1. 【[漏嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_jy.md#漏嘴)】`leu6 jy3` <sup>[东台]</sup> 不留神透露了秘密。  
 1. 【[漏口风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_keu_fon.md#漏口风)】`leu6 keu3 fon1` <sup>[兴化]</sup> 出言不慎，走漏了消息：有人～，说我俫单位不久要撤并。  
+1. 【[漏落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_lah.md#漏落)】`leu6 lah` <small>/ləɪ1 lɑʔ/<sup>泰兴</sup></small> 遗漏<sup>\[泰兴\]</sup>：再点一遍数，防备有～<sup>\[泰兴\]</sup>｜各事人我总想到啊，就把他～掉啊/别的人我都考虑到了，只把他遗漏了<sup>\[泰兴\]</sup>  
+1. 【[漏笿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_lah.md#漏笿)】`leu6 lah8` <small>/ləɪ1 lɑʔ8/<sup>泰兴</sup></small> 农具之一。打场后筛粮去杂的竹编圆形有眼用具。<sup>\[泰兴\]</sup>  
 1. 【[漏眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ngaen.md#漏眼)】`leu6 ngaen3` <sup>[兴化]</sup> 避人的事情或珍藏的钱物被别人发现：你的钱漏啊小偷的眼，不捱偷才怪唻！  
 1. 【[漏筛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_shae.md#漏筛)】`leu6 shae1` <sup>[如皋]</sup> 一种农用大眼筛。  
 1. 【[漏尿疤<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_xy_ba_r.md#漏尿疤<sub>儿</sub>)】`leu6 xy1 ba1 r` 藤壶（学名Balanus），是一种附着于海边岩石上的有着石灰质外壳的节肢动物，常形成密集的群落。  
-1. 【[漏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_zz.md#漏子)】`leu6 zz` <sup>[东台]</sup> ［喻］漏洞、存在问题。  
+1. 【[漏子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_zz.md#漏子)】`leu6 zz` <small>/ləɪ1 t͡sɿ/<sup>泰兴</sup></small> ① ［喻］漏洞、存在问题。<sup>\[东台\]</sup> ② 毛病，事故；破绽，漏洞。<sup>\[泰兴\]</sup>：出～。<sup>\[泰兴\]</sup>  
 1. 【[露鸡巴的兄弟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_ji_ba_dii.md#露鸡巴的兄弟)】`leu6 ji1 ba dii xion1 ti` <sup>[如皋]</sup> 从小一块长大，亲密无间的男人们。  
 1. 【[露筋露骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_jien_leu_gueh.md#露筋露骨)】`leu6 jien1 leu6 gueh7` <small>/lei1 t͡ɕiəŋ1 lei1 kuəʔ7/<sup>如皋</sup></small> ① 见“露筋露骨（lv6 jien1 lv6 gueh7）”。<sup>\[如皋\]</sup> ② 赤裸裸的、毫不掩饰的。<sup>\[如皋\]</sup>  
+1. 【[露肩风](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_jin_fon.md#露肩风)】`leu6 jin1 fon1` <small>/ləɪ1 t͡ɕĩ1 fɔŋ1/<sup>泰兴</sup></small> 肩周炎。<sup>\[泰兴\]</sup>  
 1. 【[露面穿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_min_chun.md#露面穿)】`leu6 min6 chun1` <small>/lei1 mĩ1 t͡sʰʊ̃1/<sup>如皋</sup></small> 衣服外面不加护脏的褂裤等<sup>\[如皋\]</sup>：棉袍子不能～，弄吖脏吖难洗。<sup>\[如皋\]</sup>  
 1. 【[鳓鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/leu_y.md#鳓鱼)】`leu6 y2` <sup>[东台]</sup> 一种海鱼（东台人将鳓读若漏）。体呈椭圆形，侧扁，鱼肉鲜美，鱼骨细而密。  
 1. 【[哩哩拉拉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/li_li_la_la.md#哩哩拉拉)】`li1 li1 la1 la` <small>/lʝ1 lʝ1 la1 la/<sup>如皋</sup>, /lʝ1 lʝ1 lɑ1 lɑ/<sup>泰兴</sup></small> ① 天阴雨湿<sup>\[如皋\]</sup>：～的半个月不曾好天<sup>\[如皋\]</sup> ② 拖拖拉拉<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>：这本书～拖啊八九年才出版的。<sup>\[如皋\]</sup> ③ 形容零零落落，分散不集中的样子。<sup>\[泰兴\]</sup>  

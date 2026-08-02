@@ -455,6 +455,7 @@
 1. 【[扣瓦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_va.md#扣瓦)】`keu5 va3` <sup>[如东]</sup> 瓦屋上瓦面朝上的瓦。  
 1. 【[筘箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/keu_xian.md#筘箱)】`keu5 xian1` <sup>[如皋]</sup> 织机上梭子穿行的床。  
 1. 【[敲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#敲)】`ko1` <small>/kʰɔ1/<sup>如皋</sup>, /kʰɔ1/<sup>泰兴</sup></small> ① 击、打。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>\[如皋：用工具打击\]：～门。<sup>\[如东\]</sup>｜你再调皮，我要～你啦。<sup>\[如东\]</sup>｜～门<sup>\[东台\]</sup>｜～锣<sup>\[东台\]</sup>｜～白铁。<sup>\[东台\]</sup>｜～碗<sup>\[泰州\]</sup>｜不好好念书，当心你家老子～你。<sup>\[泰州\]</sup>｜～木鱼儿、拿棒儿～头、～锣、～鼓。<sup>\[如皋\]</sup>｜再调皮～他两下子<sup>\[泰兴\]</sup> ② 敲榨<sup>\[如皋\]</sup>：就凭这句话，～他一顿早茶是准的。<sup>\[如皋\]</sup> ③ 买<sup>\[泰州\]</sup><sup>\[如皋\]</sup>：到街上～点ㄦ老酒。<sup>\[泰州\]</sup>｜～酱油。<sup>\[泰州\]</sup>｜～老酒<sup>\[如皋\]</sup>  
+1. 【[敲背](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bei.md#敲背)】`ko1 bei5` <small>/kʰɔ1 pəɪ5/<sup>泰兴</sup></small> 敲击背部。浴室内一种服务项目。<sup>\[泰兴\]</sup>  
 1. 【[敲边鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_bin_gv.md#敲边鼓)】`ko1 bin1 gv3` ① ［喻］旁敲侧击的意思<sup>\[东台\]</sup>：我早就给他～，他听不进去。<sup>\[东台\]</sup> ② 比喻从旁帮人说话或者助势<sup>\[泰州\]</sup>：这件事由他去同局长说，你就在旁边～。<sup>\[泰州\]</sup>  
 1. 【[敲打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da.md#敲打)】`ko1 da3` <sup>[兴化]</sup> ① 肉刑：县官又把李三重加～，李三当不过，只得屈招道……（《二刻》三八） ② 要挟或刁难：男家要带亲，因为女家～，日子迟迟定不下来。 ③ 批评或刺激：比如有的教员为一点不顺心的事而牢骚……高先生都以为这是～他……（汪曾祺《徙》）  
 1. 【[敲大锣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_da_lu.md#敲大锣)】`ko1 da6 lu2` <sup>[东台]</sup> ［喻］到处大肆宣扬：他有点儿沉不住气，得咖奖就像～样的，生怕人家不晓得。  
@@ -473,7 +474,7 @@
 1. 【[敲定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_tien.md#敲定)】`ko1 tien6` <sup>[泰州]</sup> 双方协商确定以后不再更改：他同老李～，饭店4月8号开张。  
 1. 【[敲天鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_tin_gv.md#敲天鼓)】`ko1 tin1 gv3` <sup>[如皋]</sup> 闷雷声三响，并且“落将星”。传为某伟人“归天”了。  
 1. 【[敲斫糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zhah_tan.md#敲斫糖)】`ko1 zhah7 tan2` <small>/kʰɔ1 t͡saʔ7 tʰã2/<sup>如皋</sup></small> ① 一种带有韧性的麦芽糖饼，出卖时需要用刀一条一条的敲下来。<sup>\[如东\]</sup> ② 比喻一点一点地索取。<sup>\[如东\]</sup>：我的这点儿钱，全捱他～敲掉啊。<sup>\[如东\]</sup> ③ 比喻一点一点在消耗，如斫糖一点点被敲出。<sup>\[如皋\]</sup> ④ ［喻］本指过去一些走街串巷的小贩，叫卖麦芽糖。喻指办事零打碎敲。<sup>\[东台\]</sup>  
-1. 【[敲竹杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zhoh_gan.md#敲竹杠)】`ko1 zhoh7 gan5` ① 借故讹诈钱财。<sup>\[如东\]</sup> ② ［喻］抓住别人的口实或弱点，抬高价格、索取钱财或勒索对方。<sup>\[东台\]</sup> ③ 抓住他人把柄或者利用别人难处讹诈钱财。<sup>\[泰州\]</sup>  
+1. 【[敲竹杠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_zhoh_gan.md#敲竹杠)】`ko1 zhoh7 gan5` <small>/kʰɔ1 t͡sɔʔ7 kɑŋ5/<sup>泰兴</sup></small> 讹诈，勒索\[如东：借故讹诈钱财。\]\[泰兴：利用别人的弱点或某种把柄索取财物，或抬高价格。\]\[泰州：抓住他人把柄或者利用别人难处讹诈钱财。\]\[东台：［喻］抓住别人的口实或弱点，抬高价格、索取钱财或勒索对方。\]  
 1. 【[烤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko.md#烤)】`ko3` 靠近火使干或使熟\[如东：一种烹调方法。把饼、肉等食物放在锅、炉中或火头上，用文火烘烤。\]\[东台：靠近烈火烧烤食物或取暖。也指太阳暴晒。\]  
 1. 【[烤太阳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_tae_ian.md#烤太阳)】`ko3 tae5 ian` <sup>[如皋]</sup> 被暴晒。  
 1. 【[考点子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/k/ko_din_zz.md#考点子)】`ko3 din3 zz` <sup>[东台]</sup> 夏天考试挥汗如雨的样子。  

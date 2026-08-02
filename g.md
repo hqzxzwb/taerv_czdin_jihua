@@ -1169,12 +1169,17 @@
 1. 【[果子店](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz_din.md#果子店)】`gu3 zz din5` <sup>[兴化]</sup> 出售糕点的商店，产品多在自设的作坊加工。也称“茶食店”“油面店”。  
 1. 【[果子话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zz_hua.md#果子话)】`gu3 zz hua6` ① 好听的、叫人感动的话<sup>\[东台\]</sup>：没钱买果子，说两句～不行吖？<sup>\[东台\]</sup> ② 虽无实质好处，但是令人心情舒畅的话<sup>\[泰州\]</sup>：大家帮你忙吖这半天，你没得饭把人吃酒不谈唻，连两句～都不曾说，你说你这格局能同人处事？<sup>\[泰州\]</sup>  
 1. 【[裹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu.md#裹)】`gu3` <small>/ko3/<sup>兴化</sup>, /ko3/<sup>泰县</sup></small> ① 家禽把其他人家饲养的同类带到自己的窝中或趙中<sup>\[兴化\]</sup>：～鸽子<sup>\[兴化\]</sup>｜“是哪家养的老鸭教你～来了！”（汪曾祺《鸡鸭名家》）<sup>\[兴化\]</sup> ② 制作包点水饺粽子等<sup>\[泰县\]</sup><sup>\[泰州\]</sup>：～饺儿。<sup>\[泰县\]</sup>｜你这个饺ㄦ～得不好看。<sup>\[泰州\]</sup>｜粽子年年都是妈妈～的。<sup>\[泰州\]</sup>  
+1. 【[裹扁食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_bin_sheh.md#裹扁食)】`gu3 bin3 sheh` <small>/kɤɯ3 pəɪ3 səʔ/<sup>泰兴</sup></small> 包扁食<sup>\[泰兴\]</sup>  
 1. 【[裹耗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ho.md#裹耗)】`gu3 ho5` <sup>[如皋]</sup> 在其中耗费：说在家里吃饭贴伙食费，实际上是～上人的退休金。  
+1. 【[裹脚布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jiah_bv.md#裹脚布)】`gu3 jiah bv5` <small>/kɤɯ3 t͡ɕiɑʔ pu5/<sup>泰兴</sup></small> 旧时女子缠足的长布条。<sup>\[泰兴\]</sup>  
+1. 【[裹脚袜子靴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jiah_vaeh_zz.md#裹脚袜子靴)】`gu3 jiah vaeh8 zz xya1` <small>/kɤɯ3 t͡ɕiɑʔ ʋæʔ8 t͡sɿ ɕyɑ1/<sup>泰兴</sup></small> 比喻同类人；同党；一家人，相交甚密的人。贬义。<sup>\[泰兴\]</sup>  
+1. 【[裹脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jiah.md#裹脚)】`gu3 jiah7` <small>/kɤɯ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 指旧时女子缠足。<sup>\[泰兴\]</sup>：《儒林外史》第26回：“当下揭开门帘进房，只见王太太坐在床沿上裹脚。”<sup>\[泰兴\]</sup>  
 1. 【[裹饺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jio_r.md#裹饺<sub>儿</sub>)】`gu3 jio3 r` <small>/ko3 t͡ɕiɔ3 ɚ/<sup>兴化</sup>, /kʊ3 t͡ɕiɔ˞3/<sup>如皋</sup></small> ① 全部裹挟而去。<sup>\[如皋\]</sup> ② （戏）谓盖棉絮（被胎）过夜<sup>\[兴化\]</sup>：洗被单逢到落雨，里子、面不得干，晚上只好～。<sup>\[兴化\]</sup> ③ 包饺子<sup>\[泰州\]</sup>：乖伢儿不哭，中上～把你吃。<sup>\[泰州\]</sup>  
 1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jy.md#裹嘴)】`gu3 jy3` <small>/kʊ3 t͡ɕy3/<sup>如皋</sup></small> ① 使保证人不失体面<sup>\[如皋\]</sup>：伢儿啊你要帮你家老子～，不能做坏事。<sup>\[如皋\]</sup> ② 形容说的话得以兑现（原文作“管嘴 gu3 jy3”。另见“管嘴 gun3 jy3”。）<sup>\[东台\]</sup>：这小伙考得好，帮父亲～！<sup>\[东台\]</sup> ③ 包住自己的嘴所说的话，即说过的话没有漏洞，指努力按照赏识或推荐自己的人的要求做出成绩，不让别人指责赏识、推荐自己的人举人不当<sup>\[泰州\]</sup>：当初王总不顾打击大家反对，坚持要派他到销售公司当一把手，哪晓得他一点儿都不～，去啊以后的销售业绩还不如从前。<sup>\[泰州\]</sup>  
 1. 【[裹奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_nae.md#裹奶)】`gu3 nae3` <sup>[兴化]</sup> 婴儿用嘴唇紧含着乳头吮吸乳汁。  
 1. 【[裹鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ngaeh_zz.md#裹鸭子)】`gu3 ngaeh7 zz` <sup>[如皋]</sup> 见“裹饺儿”。  
-1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zuei.md#裹嘴)】`gu3 zuei3` <sup>[兴化]</sup> 争气，不负尊长所望：这个小伙真不～，进货的两千块捱他一夜头输得精光。  
+1. 【[裹粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zon_zz.md#裹粽子)】`gu3 zon5 zz` <small>/kɤɯ3 t͡sɔŋ5 t͡sɿ/<sup>泰兴</sup></small> 制作粽子。<sup>\[泰兴\]</sup>  
+1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zuei.md#裹嘴)】`gu3 zuei3` <small>/ko3 t͡suəi3/<sup>兴化</sup>, /kɤɯ3 t͡suəɪ3/<sup>泰兴</sup></small> ① 争气，不负尊长所望<sup>\[兴化\]</sup>：这个小伙真不～，进货的两千块捱他一夜头输得精光。<sup>\[兴化\]</sup> ② 争气，不负众望<sup>\[泰兴\]</sup>  
 1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <small>/ko5 pa/<sup>兴化</sup>, /kɤɯ5 pɑ/<sup>泰兴</sup></small> 约数，很少，一个左右<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今吖来的人不多，只有～两个。<sup>\[兴化\]</sup>｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）<sup>\[兴化\]</sup>｜今朝只有～两个人。<sup>\[泰兴\]</sup>  
 1. 【[个把两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_laen_gu.md#个把两个)】`gu5 ba laen3 gu5` <sup>[东台]</sup> 一两个：菜叶上有～斑点。  
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
@@ -1325,6 +1330,7 @@
 1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren` <small>/kua3 lən/<sup>兴化</sup>, /kuɑ3 ɻəŋ/<sup>泰兴</sup></small> ① 吃了某食品，引起胃子像刀刮一样难受。<sup>\[东台\]</sup> ② （借）多吃了萝卜之类的东西以后，胃中极端饥饿而又泛酸的那种感觉。<sup>\[兴化\]</sup> ③ 胃受某些药物强烈刺激后的不适感。<sup>\[兴化\]</sup> ④ 胃中难受；饥饿之感。<sup>\[泰兴\]</sup>  
 1. 【[剐人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren.md#剐人)】`gua3 ren2` <sup>[泰州]</sup> 吃了过量生萝卜、生山芋之类的食物之后胃中产生的刀割似的难受感觉：肚肚里～吖不得命。  
 1. 【[寡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#寡)】`gua3` <small>/kua3/<sup>如皋</sup>, /kua3/<sup>泰县</sup></small> ① 形容饮食不好，没有油水。 ② 缺少<sup>\[如皋\]</sup>：抱伢儿不脱～，不是尿就是㞎。<sup>\[如皋\]</sup> ③ 量少；<sup>\[东台\]</sup> ④ 淡而无味<sup>\[东台\]</sup>：清汤～水。<sup>\[东台\]</sup> ⑤ 尽是，老是<sup>\[泰县\]</sup>：你怎吖～朝她家跑？<sup>\[泰县\]</sup>  
+1. 【[寡叭嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ba_zuei.md#寡叭嘴)】`gua3 ba zuei3` <small>/kuɑ3 pɑ t͡suəɪ3/<sup>泰兴</sup></small> 经常说一些不负责任的话。<sup>\[泰兴\]</sup>  
 1. 【[寡而无故的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_er_v_gv.md#寡而无故的)】`gua3 er v2 gv5 dii` <sup>[如皋]</sup> 平白无故的。  
 1. 【[寡妇养儿——没添手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_fv_ian_er.md#寡妇养儿——没添手)】`gua3 fv ian3 er2 meh8 tin1 sheu3` <sup>[东台]</sup>   
 1. 【[寡妇脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_fv_lin.md#寡妇脸)】`gua3 fv lin3` <sup>[泰州]</sup> 整天板着一副阴郁面孔的妇女，贬义：这个老女将成天板着一张～，望见人不作兴油回笑脸，就像个个欠她黄豆不曾还似的。  
@@ -1332,9 +1338,10 @@
 1. 【[寡妇失业](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_fv_sheh_ih.md#寡妇失业)】`gua3 fv sheh7 ih8` <sup>[兴化]</sup> 指偏居的妇人无依无靠，没有收入来源：她～的，带着两个孩子，过着苦日子。｜“我～几十年哪，你咋个要偷鸡呀！……”（汪曾祺《鸡毛》）  
 1. 【[寡寡的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gua_dii.md#寡寡的)】`gua3 gua3 dii` <sup>[如皋]</sup> 见“寡捞捞的”。  
 1. 【[寡骨脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_gueh_lin.md#寡骨脸)】`gua3 gueh7 lin3` <sup>[兴化]</sup> 形容面长颧突，肌肉不丰满的那种脸型。  
+1. 【[寡话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_hua.md#寡话)】`gua3 hua6` <small>/kuɑ3 xuɑ1/<sup>泰兴</sup></small> 无用的话；淡话。<sup>\[泰兴\]</sup>  
 1. 【[寡话卵子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_hua_lun_zz.md#寡话卵子)】`gua3 hua6 lun3 zz` <sup>[兴化]</sup> 嘲骂多言的人，九指青少年饶舌者：细～。  
 1. 【[寡话嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_hua_zuei.md#寡话嘴)】`gua3 hua6 zuei3` <sup>[兴化]</sup> 见“寡嘴”。  
-1. 【[寡酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jieu.md#寡酒)】`gua3 jieu3` <small>/kua3 t͡ɕiɤ3/<sup>兴化</sup>, /kua3 t͡ɕyʊ3/<sup>如皋</sup></small> ① 饮酒时没有或很少下酒菜<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup>：谚云：～无肴，一吃就跑。<sup>\[如皋\]</sup>｜～无肴。<sup>\[兴化\]</sup>｜老先生弄吖点儿花生在家里吃～。<sup>\[泰州\]</sup> ② 无人相陪，一人独酌<sup>\[兴化\]</sup>：吃～。<sup>\[兴化\]</sup>  
+1. 【[寡酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jieu.md#寡酒)】`gua3 jieu3` <small>/kua3 t͡ɕiɤ3/<sup>兴化</sup>, /kua3 t͡ɕyʊ3/<sup>如皋</sup>, /kuɑ3 t͡ɕiɤɯ3/<sup>泰兴</sup></small> ① 饮酒时没有或很少下酒菜<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：谚云：～无肴，一吃就跑。<sup>\[如皋\]</sup>｜～无肴。<sup>\[兴化\]</sup>｜老先生弄吖点儿花生在家里吃～。<sup>\[泰州\]</sup> ② 无人相陪，一人独酌<sup>\[兴化\]</sup>：吃～。<sup>\[兴化\]</sup>  
 1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jy.md#寡嘴)】`gua3 jy3` <small>/kua3 t͡ɕy3/<sup>如皋</sup></small> ① 责语，责多话、乱说。（原文作“呱嘴”，写法罕见）<sup>\[如皋\]</sup> ② 饶舌，取其“仅剩下一张嘴”的含义<sup>\[泰州\]</sup>：这个马马儿的这张～说起来就有得说吤。<sup>\[泰州\]</sup>  
 1. 【[寡嘴劳神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jy_lo_shen.md#寡嘴劳神)】`gua3 jy3 lo2 shen2` 喋喋不休，不怕费神<sup>\[东台\]</sup><sup>\[泰州\]</sup>：你刚去，情况不清楚，要多听少说，不要～的。<sup>\[东台\]</sup>｜老李家事老早就弄吖一当吖唻，欲不着你再到人家～的去说。<sup>\[泰州\]</sup>  
 1. 【[寡嘴劳神的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_jy_lo_shen.md#寡嘴劳神的)】`gua3 jy3 lo2 shen2 dii` <sup>[如皋]</sup> 责话多而不当。同“寡嘴”。  
@@ -1350,6 +1357,7 @@
 1. 【[寡人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_ren_zz.md#寡人子)】`gua3 ren zz` <sup>[如皋]</sup> 见“寡人”。  
 1. 【[寡水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_shuei.md#寡水)】`gua3 shuei3` <sup>[兴化]</sup> 汤汁中营养成分少：清汤～。  
 1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <sup>[兴化]</sup> 饶舌的人‖也说“寡话嘴”：他是个～，见吖人说个不停。｜田尔耕本是个～夸诈之人……（《梼杌闲评》十一）  
+1. 【[寡嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_zuei.md#寡嘴)】`gua3 zuei3` <small>/kuɑ3 t͡suəɪ3/<sup>泰兴</sup></small> 卖弄唇舌。<sup>\[泰兴\]</sup>  
 1. 【[卦辞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_cz.md#卦辞)】`gua5 cz2` <sup>[东台]</sup> 说明《周易》六十四卦每卦要义的文辞。  
 1. 【[挂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua.md#挂)】`gua5` <small>/kua5/<sup>兴化</sup></small> ① 书画轴子叫“挂”<sup>\[东台\]</sup>：宁写千张“化”（化缘单子），不写一张“挂”。（要经得起品鉴）<sup>\[东台\]</sup> ② 赊欠<sup>\[兴化\]</sup>：这笔账～啊年把，请你结下子吧！也作“挂账”。<sup>\[兴化\]</sup> ③ 量词，用于车辆、飞机<sup>\[泰州\]</sup>：天上有三～飞机在下飞。<sup>\[泰州\]</sup>｜迎亲的车子来啊十几～。<sup>\[泰州\]</sup>  
 1. 【[挂不住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gua_beh_chv.md#挂不住)】`gua5 beh7 chv6` <small>/kua5 pəʔ7 t͡sʰu6/<sup>兴化</sup>, /kua5 pəʔ7 t͡sʰu1/<sup>如皋</sup></small> ① 见“袒”。<sup>\[如皋\]</sup> ② 因被羞辱而感到难堪<sup>\[兴化\]</sup>：他捱人家一顿挖苦，脸上有些～。<sup>\[兴化\]</sup> ③ 因受到羞辱而难堪，脸挂不住，即丢脸<sup>\[泰州\]</sup>：你当吖人的面说他，他脸上当然～唻。<sup>\[泰州\]</sup>  

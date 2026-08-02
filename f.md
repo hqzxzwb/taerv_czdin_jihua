@@ -981,6 +981,7 @@
 1. 【[烰炭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_taen.md#烰炭)】`fv3 taen5` <sup>[如皋]</sup> 家制木炭。  
 1. 【[腐化](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_hua.md#腐化)】`fv3 hua5` ① 木头等材料受潮变质腐烂。<sup>\[如东\]</sup> ② 思想行为变坏。<sup>\[如东\]</sup>：你这个人～啊。<sup>\[如东\]</sup> ③ 不正当的男女关系。<sup>\[如东\]</sup> ④ 指人的思想行为变坏，多指干部生活作风方面，与别的女人发生性关系。<sup>\[东台\]</sup>  
 1. 【[腐烂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_laen.md#腐烂)】`fv3 laen6` <small>/fu3 lẽ1/<sup>如皋</sup>, /fu3 nɛ̃1/<sup>泰县</sup></small> ① 熟透，很烂<sup>\[如皋\]</sup><sup>\[泰州\]</sup>：肉煮得～。<sup>\[如皋\]</sup>｜萝卜煨得～的。<sup>\[泰州\]</sup> ② 腐败如泥。<sup>\[如皋\]</sup> ③ 很烂<sup>\[泰县\]</sup>：这东西～的。<sup>\[泰县\]</sup>  
+1. 【[腐竹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_zhoh.md#腐竹)】`fv3 zhoh` <small>/fʋ3 t͡sɔʔ/<sup>泰兴</sup></small> 豆制品。以浆皮作成的素食。<sup>\[泰兴\]</sup>  
 1. 【[釜㔶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun.md#釜㔶)】`fv3 gun` <small>/fu3 kʊ5/<sup>如皋</sup>, /fʋ1 kʊ̃/<sup>泰兴</sup>, /fu3 ko1/<sup>泰县</sup></small> 锅盖<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰县\]</sup><sup>\[如皋\]</sup>：又“镬㔶”<sup>\[如皋\]</sup>  
 1. 【[釜㔶鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_gun_y.md#釜㔶鱼)】`fv3 gun y2` <sup>[如皋]</sup> 鮟鱇。  
 1. 【[付款](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/fv_kun.md#付款)】`fv5 kun3` <sup>[如东]</sup> 支出资金：要按规定～。  

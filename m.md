@@ -433,7 +433,7 @@
 1. 【[慢犜牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_den_ngeu.md#慢犜牛)】`maen6 den1 ngeu2` <sup>[如东]</sup> 比喻动作缓慢：走起路来像个～。  
 1. 【[慢驐牛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_den_ngeu.md#慢驐牛)】`maen6 den1 ngeu2` <sup>[如皋]</sup> 喻人的个性慢，行动迟缓，或指人。  
 1. 【[慢而稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_er_ven.md#慢而稳)】`maen6 er2 ven3` <sup>[如东]</sup> 虽然做事慢了点儿，但是十分稳妥，不容易出纰漏。  
-1. 【[慢工出细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_gon_chueh_xi.md#慢工出细货)】`maen6 gon1 chueh7 xi5 hu5` <sup>[兴化]</sup> 要舍得花时间和精力才能办好事情，或做出好东西来：“……常言说得好，～，你费了几日功夫，才撰就一副好对联来……”（《广陵潮》八四）  
+1. 【[慢工出细货](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_gon_chueh_xi.md#慢工出细货)】`maen6 gon1 chueh7 xi5 hu5` <small>/mɛ̃6 koŋ1 t͡sʰuəʔ7 ɕi5 xo5/<sup>兴化</sup>, /mɛ̃1 kɔŋ1 t͡sʰuəʔ7 ɕʝ5 xɤɯ5/<sup>泰兴</sup></small> ① 要舍得花时间和精力才能办好事情，或做出好东西来。<sup>\[兴化\]</sup>：“……常言说得好，～，你费了几日功夫，才撰就一副好对联来……”（《广陵潮》八四）<sup>\[兴化\]</sup> ② 精细操作会做出精巧的产品。<sup>\[泰兴\]</sup>  
 1. 【[慢火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_hu.md#慢火)】`maen6 hu3` <sup>[东台]</sup> 文火；微火。  
 1. 【[慢言悄语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_in_qio_y.md#慢言悄语)】`maen6 in2 qio3 y3` <sup>[如皋]</sup> 状态度和蔼，说话缓慢委婉，有耐心而又语意透彻。  
 1. 【[慢经逍遥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/maen_jien_xio_io.md#慢经逍遥)】`maen6 jien1 xio1 io2` <sup>[如皋]</sup> 缓慢、随意、闲适的样子。参见“懈怠”。  
@@ -1142,10 +1142,12 @@
 1. 【[蜜蜂毒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_fon_toh.md#蜜蜂毒)】`mieh8 fon1 toh8` <sup>[如东]</sup> 蜜蜂科昆虫中华蜜蜂之工蜂蜂尾刺螯时放出的毒液。  
 1. 【[蜜蜂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_fon_zz.md#蜜蜂子)】`mieh8 fon1 zz3` <sup>[如东]</sup> 蜜蜂科昆虫中华蜜蜂的幼虫。  
 1. 【[蜜咖浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_ga_jian.md#蜜咖浆)】`mieh8 ga jian1` <sup>[如东]</sup> 迷了心窍：他爱梅梅爱啊～。  
+1. 【[蜜甘<sub>儿</sub>鲜甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_gun_r_xin.md#蜜甘<sub>儿</sub>鲜甜)】`mieh8 gun1 r xin1 tin2` <small>/miʔ8 kʊ˞1 ɕĩ1 tʰĩ2/<sup>泰兴</sup></small> 很甜，非常甜。<sup>\[泰兴\]</sup>  
 1. 【[蜜甘鲜甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_gun_xin_tin.md#蜜甘鲜甜)】`mieh8 gun1 xin1 tin2` <sup>[东台]</sup> 形容十分甜蜜：这橘子～的，弄个尝尝。  
 1. 【[蜜酒酿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_jieu_nian.md#蜜酒酿)】`mieh8 jieu3 nian6` <sup>[泰州]</sup> 带糟的糯米酒或者带酒的糯米糟。  
 1. 【[蜜骗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_pin.md#蜜骗)】`mieh8 pin5` <small>/miɪʔ8 pʰiɪ̃5/<sup>泰县</sup></small> ① 用好言好语欺骗对方。<sup>\[东台\]</sup> ② 用花言巧语骗人的人<sup>\[泰县\]</sup>  
 1. 【[蜜糖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_tan.md#蜜糖)】`mieh8 tan2` <sup>[兴化]</sup> 蜂蜜。  
+1. 【[蜜甜的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_tin_dii.md#蜜甜的)】`mieh8 tin2 dii` <small>/miʔ8 tʰĩ2 təɪ/<sup>泰兴</sup></small> 非常甜，甜得很。<sup>\[泰兴\]</sup>  
 1. 【[蜜渣<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mieh_zha_r.md#蜜渣<sub>儿</sub>)】`mieh8 zha1 r` <sup>[兴化]</sup> 形容像蜜一样鲜甜：他种的西瓜……红瓤白籽，～甜。（刘仁前《香河风情·黑菜瓜》）  
 1. 【[冥票](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_pio.md#冥票)】`mien2 pio5` <small>/miəŋ2 pʰiɔ5/<sup>如皋</sup></small> ① 迷信人给祖宗灼烧的纸票。<sup>\[如东\]</sup> ② 烧化给死者的纸钱币。<sup>\[如皋\]</sup>  
 1. 【[冥寿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/m/mien_sheu.md#冥寿)】`mien2 sheu6` <small>/miəŋ2 sei1/<sup>如皋</sup></small> 人死后继续计算的年龄和生日。<sup>\[如皋\]</sup>\[如东：死后的诞辰纪念日。纪年与生年相连续。\]\[泰州：死者的逢十生日，以一百岁为限\]：明朝子老太100～，要同她放场焰口。<sup>\[泰州\]</sup>  

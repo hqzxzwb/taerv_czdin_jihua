@@ -372,6 +372,7 @@
 1. 【[虘话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_hua.md#虘话)】`zha1 hua6` <small>/t͡sa1 xua1/<sup>如皋</sup></small> ① 强词夺理加恫吓的话。<sup>\[如皋\]</sup> ② 威胁、恫吓的言语。<sup>\[如东\]</sup>：王二说的都是～，你不要怕。<sup>\[如东\]</sup>  
 1. 【[虘钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_qin.md#虘钱)】`zha1 qin2` <sup>[如皋]</sup> 用强制或讹诈手段逼取钱财。  
 1. 【[虘子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_zz.md#虘子)】`zha1 zz` <sup>[如皋]</sup> 刚暴狡诈泼皮的人。  
+1. 【[遮风挡雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_fon_dan_y.md#遮风挡雨)】`zha1 fon1 dan3 y3` <small>/t͡sɑ1 fɔŋ1 tɑŋ3 y3/<sup>泰兴</sup></small> 避风雨。比喻帮助别人免受侵犯、侵害。<sup>\[泰兴\]</sup>  
 1. 【[遮阳脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ian_jiah.md#遮阳脚)】`zha1 ian jiah7` <sup>[如东]</sup> 帆船上竖在箍帮下边的木板，叫做遮阳脚。  
 1. 【[遮瞒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_mun.md#遮瞒)】`zha1 mun2` <sup>[如皋]</sup> 掩饰、隐瞒：领导面前请帮吖～点儿，拜托拜托！  
 1. 【[遮头不盖屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_teu_beh_gae.md#遮头不盖屁股)】`zha1 teu2 beh7 gae5 pi5 gu` <sup>[兴化]</sup> 形容衣服或遮盖物过于短小，不符应用：一卷塑料布想盖大棚，～的，还有一半怎吖说唃？  

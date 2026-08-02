@@ -637,6 +637,7 @@
 1. 【[煞劲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_jien.md#煞劲)】`shaeh7 jien5` <small>/sæʔ7 t͡ɕiŋ5/<sup>泰县</sup></small> ① 要用很大的力气。<sup>\[如东\]</sup>：这趟车子～！<sup>\[如东\]</sup> ② 用力。<sup>\[泰县\]</sup>  
 1. 【[煞气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_qi.md#煞气)】`shaeh7 qi5` 凶狠<sup>\[如东\]</sup>：～腾腾<sup>\[如东\]</sup>  
 1. 【[煞如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_rv.md#煞如)】`shaeh7 rv` <sup>[如皋]</sup> 好像：不睬你～搳你，不答你～杀你！  
+1. 【[煞如](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_rv.md#煞如)】`shaeh7 rv2, shaeh7 rv0` <small>/ɕiæʔ7 ɻu2/<sup>泰兴</sup></small> 好比；好像。<sup>\[泰兴\]</sup>  
 1. 【[煞着](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_zhah.md#煞着)】`shaeh7 zhah7` <sup>[兴化]</sup> 弈棋术语，指厉害的招数：倘或旁观的口嘴不紧，遇～处溜出半句话来，赢者反输，输者反赢……（《醒世恒言》九）也作“杀作”。  
 1. 【[霎霎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh.md#霎霎)】`shaeh7 shaeh7` <sup>[兴化]</sup> 索性：反正在假期里，～多玩几天再走。  
 1. 【[霎霎的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/shaeh_shaeh_dii.md#霎霎的)】`shaeh7 shaeh7 dii` <sup>[泰州]</sup> 雨丝落个不停的样子：外头的雨还不曾停，这一刻儿有点儿毛雨～。  
@@ -1716,6 +1717,7 @@
 1. 【[瘦一壳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ieh_kah.md#瘦一壳)】`sheu5 ieh7 kah7` <sup>[兴化]</sup> 形容人因病或过劳，身体急速消瘦：成梅叔只身赴任……吃尽千辛万苦……人也瘦了一壳。（兴文《成梅叔化盗为良》）  
 1. 【[瘦肌巴骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_ji_ba_gueh.md#瘦肌巴骨)】`sheu5 ji1 ba1 gueh7` <sup>[如东]</sup> 形容身体非常瘦弱。  
 1. 【[瘦僵螂<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jian_lan_r.md#瘦僵螂<sub>儿</sub>)】`sheu5 jian1 lan2 r` <sup>[东台]</sup> 瘦得像冻僵的螳螂似的。  
+1. 【[瘦筋斫螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien_zhah_lan.md#瘦筋斫螂)】`sheu5 jien1 zhah7 lan` <small>/sɤɯ5 t͡ɕiŋ1 t͡sɑʔ7 lɑŋ/<sup>泰兴</sup></small> 喻人很瘦，身体不强健。<sup>\[泰兴\]</sup>  
 1. 【[瘦精精的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_jien_jien_dii.md#瘦精精的)】`sheu5 jien1 jien1 dii` <sup>[如皋]</sup> ① 苗条。 ② 肌肉正常而脂肪少的体型。  
 1. 【[瘦困](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_kuen.md#瘦困)】`sheu5 kuen5` <sup>[兴化]</sup> 见“守困”。  
 1. 【[瘦里巴叽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sheu_lii_ba_ji.md#瘦里巴叽)】`sheu5 lii ba1 ji1` <sup>[泰县]</sup> 非常瘦。  
@@ -1945,7 +1947,7 @@
 1. 【[绍兴调<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_dio_r.md#绍兴调<sub>儿</sub>)】`sho2 xien1 dio5 r` <sup>[如皋]</sup> 越剧唱腔。  
 1. 【[绍兴戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_xien_xi.md#绍兴戏)】`sho2 xien1 xi5` <sup>[如皋]</sup> 越剧。  
 1. 【[绍语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_y.md#绍语)】`sho2 y` <small>/sɔ2 y/<sup>兴化</sup>, /sɔ2 y/<sup>如皋</sup></small> 暗语<sup>\[如东\]</sup><sup>\[兴化\]</sup>\[如皋：哑语、肢体语言，表情语言。\]：他在下打～。<sup>\[如东\]</sup>｜“……我向他竖了两个指头……他见我跟他打～，以为我出二两银子……”（《皮五辣子》一）<sup>\[兴化\]</sup>  
-1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do` <sup>[如东]</sup> 说话语无伦次：这个人有些～。  
+1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do` <small>/sɔ2 tɔ/<sup>泰兴</sup></small> ① 说话语无伦次。<sup>\[如东\]</sup>：这个人有些～。<sup>\[如东\]</sup> ② 没有作用的语言。废话。麻烦的事情。<sup>\[泰兴\]</sup>  
 1. 【[韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_do.md#韶叨)】`sho2 do1` <small>/sɔ2 tɔ1/<sup>兴化</sup>, /sɔ2 tɔ1/<sup>如皋</sup>, /sɔ2 tɔ1/<sup>泰县</sup></small> ① 杂事、麻烦事。<sup>\[如皋\]</sup> ② 麻烦<sup>\[兴化\]</sup>：他又在下惹～。<sup>\[兴化\]</sup> ③ 啰唆<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：（陈木南）因怕董老太～，便说道：“……还是我自己去”。（《儒林外史》五四）<sup>\[兴化\]</sup>  
 1. 【[韶里不叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_beh_do.md#韶里不叨)】`sho2 lii beh7 do1` <sup>[泰县]</sup> 啰唆。  
 1. 【[韶里韶叨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sho_lii_sho_do.md#韶里韶叨)】`sho2 lii sho2 do1` <small>/sɔ2 nɿ sɔ2 tɔ1/<sup>泰县</sup></small> 啰唆<sup>\[泰县\]</sup>：她一天到晚～的。<sup>\[泰县\]</sup>  
@@ -3209,7 +3211,7 @@
 1. 【[酸粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh.md#酸粥)】`sun1 zhoh7` <small>/sʊ̃1 t͡sɔʔ7/<sup>如皋</sup>, /sõ1 t͡sɔʔ7/<sup>泰县</sup></small> ① 掺了菜的糊糊儿面。<sup>\[如皋\]</sup> ② 菜粥。<sup>\[泰县\]</sup>  
 1. 【[酸粥嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zhoh_jy.md#酸粥嘴)】`sun1 zhoh7 jy3` <sup>[泰县]</sup> 啰唆的人。  
 1. 【[酸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_zz.md#酸子)】`sun1 zz` <sup>[如东]</sup> 挑拨是非的人。  
-1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <small>/sʊ̃3/<sup>如皋</sup>, /sʊ̃3/<sup>泰兴</sup>, /sõ3/<sup>泰县</sup></small> 细洒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰县：《泰县方言志》记音su3\]：你替他把伤口上～些药<sup>\[泰县\]</sup>  
+1. 【[糁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun.md#糁)】`sun3` <small>/sʊ̃3/<sup>如皋</sup>, /sʊ̃3/<sup>泰兴</sup>, /sõ3/<sup>泰县</sup></small> 细洒<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰县：《泰县方言志》记音su3\]：你替他把伤口上～些药<sup>\[泰县\]</sup>｜～菜种<sup>\[泰兴\]</sup>  
 1. 【[糁䜺<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chae_r.md#糁䜺<sub>儿</sub>)】`sun3 chae3 r` <sup>[如皋]</sup> 将䜺儿糁到锅里煮䜺儿粥。  
 1. 【[算憃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_chon.md#算憃)】`sun5 chon5` <sup>[如皋]</sup> 见“算掼”。  
 1. 【[算倒账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/s/sun_do_zhan.md#算倒账)】`sun5 do5 zhan5` <sup>[如皋]</sup> 重新算账，以索回应得的部分。  

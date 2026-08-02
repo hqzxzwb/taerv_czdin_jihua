@@ -1211,6 +1211,7 @@
 1. 【[阴而不魆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_er_beh_xyeh.md#阴而不魆)】`ien1 er beh7 xyeh7` <small>/iŋ1 ɚ pəʔ7 ɕyəʔ7/<sup>泰县</sup></small> 态度不明朗<sup>\[泰县\]</sup>：他有点儿～的。<sup>\[泰县\]</sup>  
 1. 【[阴风飕飕的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_fon_seu_seu.md#阴风飕飕的)】`ien1 fon1 seu1 seu1 dii` <sup>[如皋]</sup> 阴冷之气阵阵袭来，常状环境阴气重。  
 1. 【[阴沟洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_ton.md#阴沟洞)】`ien1 geu ton6` <sup>[兴化]</sup> 地下排水沟的出入口：从～里跳出一只蝦蟆。  
+1. 【[阴沟洞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_ton.md#阴沟洞)】`ien1 geu ton6` <small>/iŋ1 kəɪ tʰɔŋ1/<sup>泰兴</sup></small> 窨井<sup>\[泰兴\]</sup>  
 1. 【[阴沟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu.md#阴沟)】`ien1 geu1` ① 设在地下的水沟。<sup>\[如东\]</sup> ② 地面下的排水沟。<sup>\[东台\]</sup> ③ 建在住宅天井中用来容纳生活污水的深洞，多在天井偏僻角落处，上有石板遮盖，污水从石板缝隙中倒入。<sup>\[泰州\]</sup>  
 1. 【[阴沟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_geu_teu.md#阴沟头)】`ien1 geu1 teu2` <sup>[泰州]</sup> 阴沟顶部，即倒污水之处。  
 1. 【[阴国票子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_goh_pio_zz.md#阴国票子)】`ien1 goh pio5 zz` <small>/iŋ1 kɔʔ pʰiɔ5 t͡sɿ/<sup>泰兴</sup></small> 冥币，冥钞。纸钱。（当是戏语，谐音“英国票子”）<sup>\[泰兴\]</sup>  
