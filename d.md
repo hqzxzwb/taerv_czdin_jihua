@@ -478,7 +478,6 @@
 1. 【[大娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian.md#大娘)】`da5 nian` <small>/ta5 niã/<sup>如皋</sup></small> ① 指称已婚青壮年女人。<sup>\[如皋\]</sup> ② 相对“姑娘”，特指已婚青年女子，少妇<sup>\[泰州\]</sup>：她结咖婚是～吖。<sup>\[泰州\]</sup>  
 1. 【[大娘家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nian_ga.md#大娘家)】`da5 nian6 ga` <sup>[兴化]</sup> 已婚妇女。区别于“姑娘”。  
 1. 【[大派](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pae.md#大派)】`da5 pae5` <sup>[泰州]</sup> “大派头”的简称，为显派头在用钱上做大方状：大家都是工薪阶层，没得必要耍～。  
-1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da5 qi, tae3 qi` 大方，不吝啬  
 1. 【[大人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ren.md#大人)】`da5 ren2` <sup>[泰州]</sup> ① 对父母叔伯等长辈的敬称：父亲～｜母亲～ ② 封建时代在官场中下属对上司的称呼，今多用作调侃、讥讽：院长～已经发咖话，你再说也没得用。  
 1. 【[大嫂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_so_zz.md#大嫂子)】`da5 so3 zz` <sup>[如皋]</sup> ① 大哥的妻子。 ② 对已婚妇女的尊称。  
 1. 【[这](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da.md#这)】`da5` <sup>[东台]</sup> 指示代词，近指。“这（zha5）”的口语音。  
@@ -765,8 +764,7 @@
 1. 【[大朋友](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pon_ieu.md#大朋友)】`da6 pon2 ieu` <sup>[泰州]</sup> 讲义气、轻钱财，不论相互之间交情深浅，只要是熟悉的就会竭尽全力帮助他人的人：老陈这个人是～，特别肯帮人的忙。  
 1. 【[大碰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_pon.md#大碰)】`da6 pon5` <sup>[如东]</sup> 比喻没有多大能力或作为的人：他是个～。  
 1. 【[大泼小用](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_puh_xio_ion.md#大泼小用)】`da6 puh7 xio3 ion6` <sup>[兴化]</sup> 铺张浪费，乱花钱：我有个钱才剥个粽子，从来不曾～的瞎花钱。  
-1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi` <small>/ta1 t͡ɕʰʝ/<sup>如皋</sup>, /tɑ1 t͡ɕʰʝ/<sup>泰兴</sup>, /ta1 t͡sʰɿ/<sup>泰县</sup></small> ① 落落大方。<sup>\[如皋\]</sup> ② 气度雍容、举止不凡。<sup>\[如皋\]</sup> ③ 大方。<sup>\[泰县\]</sup> ④ 有气派，有度量<sup>\[泰兴\]</sup> ⑤ 出手慷慨大方，不小气<sup>\[泰兴\]</sup>：张三慷慨～，是能办事的。<sup>\[泰兴\]</sup>  
-1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi5` <small>/ta6 t͡ɕʰi5/<sup>兴化</sup></small> ① 包围在地球外面的一层气体，叫大气。<sup>\[如东\]</sup> ② 大方。<sup>\[如东\]</sup> ③ 家具等的式样不俗，好看。<sup>\[如东\]</sup> ④ 慷慨、不吝啬。<sup>\[兴化\]</sup> ⑤ 大方、不俗气<sup>\[兴化\]</sup>：这件衣裳款式～，不难看。<sup>\[兴化\]</sup>  
+1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qi.md#大气)】`da6 qi` <small>/ta6 t͡ɕʰi/<sup>兴化</sup>, /ta1 t͡ɕʰʝ/<sup>如皋</sup>, /tɑ1 t͡ɕʰʝ/<sup>泰兴</sup>, /ta1 t͡sʰɿ/<sup>泰县</sup></small> ① 大方。<sup>\[如东\]</sup><sup>\[泰县\]</sup> ② 家具等的式样不俗，好看。<sup>\[如东\]</sup> ③ 慷慨、不吝啬。<sup>\[兴化\]</sup> ④ 大方、不俗气<sup>\[兴化\]</sup>：这件衣裳款式～，不难看。<sup>\[兴化\]</sup> ⑤ 落落大方。<sup>\[如皋\]</sup> ⑥ 气度雍容、举止不凡。<sup>\[如皋\]</sup> ⑦ 有气派，有度量<sup>\[泰兴\]</sup> ⑧ 出手慷慨大方，不小气<sup>\[泰兴\]</sup>：张三慷慨～，是能办事的。<sup>\[泰兴\]</sup>  
 1. 【[大樯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian.md#大樯)】`da6 qian2` <sup>[如东]</sup> 帆船上最高的桅樯，竖在桅门舱中，固定在舱面梁上。也称主桅。  
 1. 【[大樯篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qian_pon.md#大樯篷)】`da6 qian2 pon2` <sup>[如东]</sup> 大樯上的风帆。  
 1. 【[大吃大用天来送，省吃俭用鬼弄𪨊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_qieh_da_ion.md#大吃大用天来送，省吃俭用鬼弄𪨊)】`da6 qieh7 da6 ion6 tin1 lae2 son5 shen3 qieh7 jin3 ion6 guei3 lon6 son2` <small>/tɑ1 t͡ɕʰiəʔ7 tɑ1 iɔŋ1 tʰĩ1 lɛ2 sɔŋ5 səŋ3 t͡ɕʰiəʔ7 t͡ɕĩ3 iɔŋ1 kuəɪ3 lɔŋ1 sɔŋ2/<sup>泰兴</sup></small> 及时行乐、不考虑未来的观点，有迷信味道。<sup>\[泰兴\]</sup>  

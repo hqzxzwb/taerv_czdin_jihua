@@ -67,7 +67,7 @@
 1. 【[大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#大)】`tae3` <small>/tʰɛ3/<sup>如皋</sup>, /tʰɛ3/<sup>泰兴</sup></small> 大，不小<sup>\[如皋\]</sup><sup>\[东台\]</sup>\[泰兴：东乡靠如皋、海安一带\]：这个瓜多～！吃不下。<sup>\[东台\]</sup>｜箇杲子多～啊<sup>\[泰兴\]</sup>  
 1. 【[大哥<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gu_r.md#大哥<sub>儿</sub>)】`tae3 gu1 r, tae3 gu2 r` <sup>[如皋]</sup> 行一，老大。  
 1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi` <sup>[如东]</sup> 大方：不～。  
-1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi5` 为人处事爽快不斤斤计较<sup>\[泰州\]</sup>：他这个人做事不～。<sup>\[泰州\]</sup>  
+1. 【[大气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#大气)】`tae3 qi5` <small>/tʰɛ3 t͡ɕʰʝ/<sup>泰兴</sup></small> ① 为人处事爽快不斤斤计较<sup>\[泰州\]</sup>：他这个人做事不～。<sup>\[泰州\]</sup> ② 大方<sup>\[泰兴\]</sup>  
 1. 【[大大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_tae.md#大大)】`tae3 tae3` <sup>[泰县]</sup> 愉快满意  
 1. 【[奤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#奤)】`tae3` <small>/tʰɛ3/<sup>兴化</sup></small> ① 肢体张开坐或倚<sup>\[兴化\]</sup>：身子～下来啊。<sup>\[兴化\]</sup> ② 肥胖的人脸部粗大样子<sup>\[泰州\]</sup>：他家新妇坐啊个月子，脸上养吖～开来啊。<sup>\[泰州\]</sup>  
 1. 【[太公](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_gon.md#太公)】`tae5 gon1` <small>/tʰɛ5 koŋ1/<sup>兴化</sup>, /tʰɛ5 kɔŋ1/<sup>如皋</sup></small> ① 指称丈夫的祖父。<sup>\[如皋\]</sup> ② 曾祖父。<sup>\[兴化\]</sup>：谚曰：有理打得～。通常称“太爷”。<sup>\[兴化\]</sup>  
