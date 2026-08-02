@@ -1589,7 +1589,7 @@
 1. 【[菠萝盖<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu_gae_r.md#菠萝盖<sub>儿</sub>)】`bu1 lu gae5 r` <sup>[泰州]</sup> 膝盖：跌咖个跟头，把～上的皮都磕掉啊。  
 1. 【[簸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu.md#簸)】`bu3` <sup>[如皋]</sup> 双脚并列，跳踢毽子的动作。  
 1. 【[簸罗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_lu.md#簸罗)】`bu3 lu2` <sup>[如东]</sup> 左右前后不平整：几块木板拼接得不好，～的。  
-1. 【[簸箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_ji.md#簸箕)】`bu5 ji1` <sup>[东台]</sup> 用竹篾或柳条编成的器具，用来筛簸粮食等。  
+1. 【[簸箕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bu_ji.md#簸箕)】`bu5 ji1` 用竹篾或柳条编成的器具，用来筛簸粮食等。<sup>\[东台\]</sup>  
 1. 【[半<sub>个</sub>上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_shan.md#半<sub>个</sub>上)】`buh7 shan` <small>/pʊʔ7 sã/<sup>如皋</sup></small> ① 旁边<sup>\[如皋\]</sup>：放吖～。到～去。促化音。<sup>\[如皋\]</sup> ② 安排在旁边（此处“半”发音促化）<sup>\[东台\]</sup>：他把房子给啊儿子，自己蹾吖～。<sup>\[东台\]</sup>  
 1. 【[拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh.md#拨)】`buh7` <small>/puʔ7/<sup>兴化</sup>, /pʊʔ7/<sup>如皋</sup></small> ① 农用水车的水（跨）轴上的两只木齿轮（旱～、水～），桑树根作盘，桑木作齿，坚固耐磨，水漫不变形。<sup>\[如皋\]</sup> ② 用手或棍棒等推动或挑动<sup>\[东台\]</sup>：～动琴弦；～算盘珠儿。<sup>\[东台\]</sup> ③ 发配，调配<sup>\[东台\]</sup>：～款；调～物资。<sup>\[东台\]</sup> ④ 水车部件，在木制圆盘的周围栽有小木桩。中间的车轴旋转时，木桩拨动槽桶中拂、榷，将河水源源不断抽至田间。<sup>\[兴化\]</sup>  
 1. 【[拨齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/buh_chr.md#拨齿)】`buh7 chr3` <sup>[如皋]</sup> 旱拨，槽筒上端的动齿轮。与“拨水”相对  

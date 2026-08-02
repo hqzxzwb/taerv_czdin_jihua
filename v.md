@@ -1062,8 +1062,8 @@
 1. 【[稳住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_chuh_ga.md#稳住咖)】`ven3 chuh7 ga` <sup>[如皋]</sup> 使平稳。  
 1. 【[稳住咖点<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_chuh_ga_din.md#稳住咖点<sub>儿</sub>)】`ven3 chuh7 ga din3 r` <sup>[如皋]</sup>   
 1. 【[稳船盒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_chun_huh_zz.md#稳船盒子)】`ven3 chun2 huh8 zz` <sup>[兴化]</sup> 渔家婚俗：在约定婚期后，男家送女家四色礼品，谓～。女方即告知吉期停船地点，以便接亲。（见《兴化市志·民俗》）  
+1. 【[稳打稳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_da_ven_dii.md#稳打稳的)】`ven3 da ven3 dii` <small>/ʋəŋ3 ta ʋəŋ3 tei/<sup>如皋</sup>, /ʋəŋ3 tɑ ʋəŋ3 təɪ/<sup>泰兴</sup></small> ① 见“稳的”。<sup>\[如皋\]</sup> ② 形容很有把握。<sup>\[泰兴\]</sup>  
 1. 【[稳打稳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_da_ven.md#稳打稳)】`ven3 da3 ven3` 很有把握  
-1. 【[稳打稳的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_da_ven_dii.md#稳打稳的)】`ven3 da3 ven3 dii` <sup>[如皋]</sup> 见“稳的”。  
 1. 【[稳打稳夯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_da_ven_han.md#稳打稳夯)】`ven3 da3 ven3 han1` <sup>[如东]</sup> 十分有把握：这吖做，～。  
 1. 【[稳当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_dan.md#稳当)】`ven3 dan` <sup>[如东]</sup> 稳重妥当：这吖做～。  
 1. 【[稳当人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_dan_ren.md#稳当人)】`ven3 dan ren2` <sup>[如皋]</sup> 稳妥守信的人。  
@@ -1077,7 +1077,7 @@
 1. 【[稳实](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_sheh.md#稳实)】`ven3 sheh` <sup>[兴化]</sup> 稳当，稳固，牢靠。  
 1. 【[稳妥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_tu.md#稳妥)】`ven3 tu3` ① 稳当可靠。<sup>\[如东\]</sup>：这吖处理～。<sup>\[如东\]</sup> ② 稳实，妥当，可靠，有分寸；不轻浮<sup>\[东台\]</sup>：办事～。<sup>\[东台\]</sup>  
 1. 【[稳站](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zhaen.md#稳站)】`ven3 zhaen` <small>/uən3 t͡sɛ̃/<sup>兴化</sup></small> ① 稳固。<sup>\[如东\]</sup>：这吖放～。<sup>\[如东\]</sup> ② 稳当<sup>\[兴化\]</sup>：还是把钱买成国债～。<sup>\[兴化\]</sup> ③ 稳固牢靠<sup>\[兴化\]</sup>：把梯子放～。也作“稳实”。<sup>\[兴化\]</sup>  
-1. 【[稳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zz.md#稳子)】`ven3 zz` <small>/uən3 t͡sɿ/<sup>兴化</sup></small> ① 稻麦壳子及秸秆碎屑。<sup>\[东台\]</sup> ② 小麦等禾本科植物子实带芒的外壳<sup>\[兴化\]</sup>：麦～。<sup>\[兴化\]</sup> ③ 稻芒、麦芒及其秕稃<sup>\[泰州\]</sup>：弄点儿～唻和烂泥，马上粉墙要用。<sup>\[泰州\]</sup>  
+1. 【[稳子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_zz.md#稳子)】`ven3 zz` <small>/uən3 t͡sɿ/<sup>兴化</sup>, /ʋəŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 稻麦壳子及秸秆碎屑。<sup>\[东台\]</sup> ② 小麦等禾本科植物子实带芒的外壳<sup>\[兴化\]</sup>：麦～。<sup>\[兴化\]</sup> ③ 稻芒、麦芒及其秕稃<sup>\[泰州\]</sup>：弄点儿～唻和烂泥，马上粉墙要用。<sup>\[泰州\]</sup> ④ 指稻麦芒屑<sup>\[泰兴\]</sup>  
 1. 【[□色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_seh.md#□色)】`ven5 seh7` <sup>[兴化]</sup> 形容颜色晦暗：他最近身体不好，一脸的～。兴化词典作“晕色”。  
 1. 【[问](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven.md#问)】`ven6` ① 除一般释义外，东台方言中作介词，有“向”义<sup>\[东台\]</sup>：这个学期的生活费你～你家老子要。<sup>\[东台\]</sup> ② 介词，向，引出对象<sup>\[泰州\]</sup>：我借把你的钱，不～你要，～哪个要？<sup>\[泰州\]</sup>  
 1. 【[问话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/ven_hua.md#问话)】`ven6 hua6` <sup>[如东]</sup> 向人提出问题。  

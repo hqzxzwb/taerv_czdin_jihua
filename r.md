@@ -52,7 +52,7 @@
 1. 【[弱似](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_sz.md#弱似)】`rah8 sz` <sup>[如皋]</sup> 差似。弱，又音ra2。  
 1. 【[弱微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_vei.md#弱微)】`rah8 vei2` <small>/ɻaʔ8 ʋei2/<sup>如皋</sup></small> 表数量少或差距小<sup>\[如皋\]</sup>：价钱来去～（小）；交易淡，赚钱～（少）。<sup>\[如皋\]</sup>  
 1. 【[弱症](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zhen.md#弱症)】`rah8 zhen5` <sup>[如皋]</sup> 慢性重症。  
-1. 【[箬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zz.md#箬子)】`rah8 zz` <small>/ɻaʔ8 t͡sɿ/<sup>如皋</sup>, /ɻɑʔ8 t͡se/<sup>泰县</sup></small> ① 芦柴叶，可裹粽子、衬斗笠。<sup>\[如皋\]</sup> ② 芦苇或竹子的叶子。<sup>\[如东\]</sup> ③ 芦柴叶子。<sup>\[泰县\]</sup>  
+1. 【[箬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_zz.md#箬子)】`rah8 zz` <small>/ɻaʔ8 t͡sɿ/<sup>如皋</sup>, /ɻɑʔ8 t͡sɿ/<sup>泰兴</sup>, /ɻɑʔ8 t͡se/<sup>泰县</sup></small> ① 芦柴叶，可裹粽子、衬斗笠。<sup>\[如皋\]</sup> ② 芦苇或竹子的叶子。<sup>\[如东\]</sup> ③ 芦柴叶子。<sup>\[泰县\]</sup> ④ 竹笋外壳；芦苇叶片。可供包裹、编结的箬叶片。<sup>\[泰兴\]</sup>  
 1. 【[若烧饼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_sho_bien.md#若烧饼)】`rah8 sho1 bien` <sup>[如皋]</sup> 油酥馅的烧饼。  
 1. 【[若微](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/rah_vei.md#若微)】`rah8 vei2` <sup>[如东]</sup> 数量少或距离小：～移动下子。  
 1. 【[瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/r/ran_zz.md#瓤子)】`ran2 zz` ① 植物果实内的与籽相连，如絮而又多汁的部分<sup>\[泰州\]</sup>：西瓜～<sup>\[泰州\]</sup>｜香瓜～。<sup>\[泰州\]</sup> ② 报在信封里面的信<sup>\[泰州\]</sup>：信～。<sup>\[泰州\]</sup>  

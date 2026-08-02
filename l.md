@@ -468,6 +468,7 @@
 1. 【[缆渡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tv.md#缆渡)】`laen3 tv6` <sup>[兴化]</sup> 设在人流较少的河流上的渡船，不用艄公，而在船两头用绳索连接两岸的小木桩，过渡者登舟后抽拉绳索，即将船曳向对岸。  
 1. 【[罱篙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_go.md#罱篙)】`laen3 go1` <sup>[兴化]</sup> 罱子上的两根长竹手柄：赵峰心里明白……便不由分说，伸手拿过罱篙子，自动地干起来。（马春阳：《老孙收徒》）  
 1. 【[罱河泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hu_ni.md#罱河泥)】`laen3 hu2 ni2` <sup>[如东]</sup> 捞取河泥的一种方法。用罱子将河泥夹到船上，再用锨将河泥攉到岸上去，作农田肥料。  
+1. 【[罱泥匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_qian.md#罱泥匠)】`laen3 ni qian` <small>/lɛ̃3 nʝ t͡ɕʰiɑŋ/<sup>泰兴</sup></small> 罱泥的人。乡人云：“一碗先生两碗匠，吃不死的罱泥匠。”<sup>\[泰兴\]</sup>  
 1. 【[罱泥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni.md#罱泥)】`laen3 ni2` <small>/lɛ̃3 ləi2/<sup>兴化</sup></small> ① 用罱子从河底把泥捞上来，用于沤制有机肥料。<sup>\[兴化\]</sup> ② 用罱取泥。20世纪80年代前，里下河一带农民的一种主要积肥方法，用罱在河道深水中捞取河泥，一般是在冬季进行。<sup>\[泰州\]</sup>  
 1. 【[罱泥船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_chun.md#罱泥船)】`laen3 ni2 chun2` <sup>[如东]</sup> 一种小船，木制，长3米，宽1米，3个舱，中舱最大为装泥舱。  
 1. 【[罱泥划砟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_ni_hua_zha.md#罱泥划砟)】`laen3 ni2 hua2 zha3` <sup>[东台]</sup> 撑船到河沟里罱河泥，这是积有机肥的方法之一。  
@@ -2261,7 +2262,7 @@
 1. 【[螺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zz.md#螺子)】`lu1 zz` <small>/lɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 螺蛳<sup>\[泰兴\]</sup>  
 1. 【[啰啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#啰啰)】`lu2 lu2` <sup>[如皋]</sup> 唤猪声。  
 1. 【[啰唣](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zo.md#啰唣)】`lu2 zo5` ① 吵闹骚扰<sup>\[泰州\]</sup>：妈妈岁数大啊，吃不消你俫～唻。<sup>\[泰州\]</sup> ② 内心烦躁不安的状态<sup>\[泰州\]</sup>：他这两天心里～得很，做事𠫓头落尾的。<sup>\[泰州\]</sup>  
-1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <sup>[如东]</sup> 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。  
+1. 【[箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu.md#箩)】`lu2` <small>/lɤɯ2/<sup>泰兴</sup></small> ① 容器。竹篾或柳条编成，圆口方底，无盖，无环。体积较大。可盛谷物或其他物资。<sup>\[如东\]</sup> ② 竹器。大多方底圆口，常用来装米谷之类。<sup>\[泰兴\]</sup>  
 1. 【[箩座](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_cu.md#箩座)】`lu2 cu6` <sup>[如东]</sup> 一种筛小麦屑的工具。木制，长方形，似柜。柜中搁置一张长方形的箩筛，将磨过的小麦放在里面，通过人工踩动踏板，拍打木桩，将小麦糏筛下来。  
 1. 【[箩底砖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_di_zhun.md#箩底砖)】`lu2 di3 zhun1` <small>/lo2 təi3 t͡sũ1/<sup>兴化</sup>, /lʊ2 tʝ3 t͡sʊ̃1/<sup>如皋</sup>, /lɤɯ2 t͡ɕʝ3 t͡sʊ̃1/<sup>泰兴</sup></small> ① 正方形的黏土砖。<sup>\[兴化\]</sup> ② 铺地大方砖，形如箩底。<sup>\[如皋\]</sup> ③ 一种专门用于铺地的正方形砖头，边长30厘米左右，厚度小于墙砖，类似今日地面砖，大小似箩底，故名。<sup>\[泰州\]</sup> ④ 一种正方形的大砖块，多用于铺地，等同于今地面砖。<sup>\[泰兴\]</sup>  
 1. 【[箩方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_fan.md#箩方)】`lu2 fan1` <sup>[如东]</sup> 一种方砖，形似箩底，一般用于铺设地面。  

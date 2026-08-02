@@ -2276,7 +2276,7 @@
 1. 【[龇牙巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_ba_r.md#龇牙巴<sub>儿</sub>)】`zz1 nga2 ba r` <sup>[如东]</sup> 牙齿露出来。  
 1. 【[龇牙鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_guei.md#龇牙鬼)】`zz1 nga2 guei3` <sup>[兴化]</sup> 骂人的话，表示轻蔑：他这个～，也来充人物。又称“龇牙”。  
 1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lae_jy.md#龇牙咧嘴)】`zz1 nga2 lae3 jy3` <sup>[东台]</sup> ① 形容凶狠的样子。 ② 形容疼痛难忍的样子。 ③ 形容某物破裂的样子。  
-1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lae_zuei.md#龇牙咧嘴)】`zz1 nga2 lae3 zuei3` <sup>[兴化]</sup> ① 形容痛苦难忍的样子：他捱开水一烫，疼得～的。 ② 形容嘻皮笑险的样子：放严肃点儿，别～的。 ③ 形容凶狠的样子：那怪转过眼来，看见行者～……慌得他手麻脚软……（《西游记》十八）  
+1. 【[龇牙咧嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lae_zuei.md#龇牙咧嘴)】`zz1 nga2 lae3 zuei3` <small>/t͡sɿ1 a2 lɛ3 t͡suəi3/<sup>兴化</sup></small> ① 形容痛苦难忍的样子<sup>\[兴化\]</sup>：他捱开水一烫，疼得～的。<sup>\[兴化\]</sup> ② 形容嘻皮笑险的样子<sup>\[兴化\]</sup>：放严肃点儿，别～的。<sup>\[兴化\]</sup> ③ 形容凶狠的样子<sup>\[兴化\]</sup>：那怪转过眼来，看见行者～……慌得他手麻脚软……（《西游记》十八）<sup>\[兴化\]</sup>  
 1. 【[龇牙郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lan.md#龇牙郎)】`zz1 nga2 lan2` <sup>[东台]</sup> （贬）形容一个人牙齿不全，嘴张开就很难看的样子。  
 1. 【[龇牙裂嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lih_jy.md#龇牙裂嘴)】`zz1 nga2 lih8 jy3` <sup>[如东]</sup> ① 凶狠的样子。 ② 痛苦的样子。 ③ 比喻物体破损厉害：这条船～的，怎吖能下水？  
 1. 【[龇牙露齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_lv_chr.md#龇牙露齿)】`zz1 nga2 lv6 chr3` <sup>[如东]</sup> 凶狠的样子。  
