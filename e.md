@@ -135,10 +135,9 @@
 1. 【[二交糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_go_xih.md#二交糏)】`er6 go5 xih7` <sup>[如皋]</sup> 旧时用石磨磨小麦，第一次磨出的面粉为“头交糏”；筛后再磨，磨出的面粉为～。  
 1. 【[二国槐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_goh_huae.md#二国槐)】`er6 goh7 huae2` <sup>[东台]</sup> 刺槐，又叫洋槐。羽状复叶，椭圆形，类似本国槐树故名。  
 1. 【[二杆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gun_zz.md#二杆子)】`er6 gun3 zz` <sup>[如东]</sup> 脾气倔强的人。  
-1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian` <small>/ɚ1 ku1 niã/<sup>如皋</sup></small> ① 娘娘腔的人。 ② 行二的女性。<sup>\[如皋\]</sup> ③ 两性人。<sup>\[如皋\]</sup> ④ 追男人的女人。<sup>\[如皋\]</sup>：俚云：“～倒贴”。<sup>\[如皋\]</sup>  
+1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian` <small>/ɚ1 ku1 niã/<sup>如皋</sup></small> ① 排行第二的姑娘。<sup>\[如东\]</sup> ② 两性人。<sup>\[如东\]</sup><sup>\[如皋\]</sup> ③ 娘娘腔的人。<sup>\[如皋\]</sup>\[如东：性情温柔的男性。\]：这个伢儿像个～<sup>\[如东\]</sup> ④ 行二的女性。<sup>\[如皋\]</sup> ⑤ 追男人的女人。<sup>\[如皋\]</sup>：俚云：“～倒贴”。<sup>\[如皋\]</sup>  
 1. 【[二姑娘倒贴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_do.md#二姑娘倒贴)】`er6 gv1 nian do5 tih7` <small>/ɚ6 ku1 liaŋ tɔ5 tʰiɪʔ7/<sup>兴化</sup>, /ɚ1 ku1 niɑŋ tɔ5 tʰiʔ7/<sup>泰兴</sup></small> ① （喻）本应得到，反而付出<sup>\[兴化\]</sup>：小胡对男朋友是～。<sup>\[兴化\]</sup>｜坏了！今儿还要～哩！（扬说《闯昭关》）<sup>\[兴化\]</sup> ② 喻指得不到收入，反而要贴本。源于明末秦淮八艳的故事。排行第二的名艳吴湘兰，人称“二姑娘”，遇上自己可心的郎君，不但不索嫖资，反而拿出体己的银两相赠，一时传为美谈。<sup>\[泰兴\]</sup>：箇笔生意不能做，肯定是～。<sup>\[泰兴\]</sup>  
 1. 【[二姑娘腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_qian.md#二姑娘腔)】`er6 gv1 nian qian1` <sup>[如皋]</sup> 见“奶奶腔”。  
-1. 【[二姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian.md#二姑娘)】`er6 gv1 nian2` <sup>[如东]</sup> ① 排行第二的姑娘。 ② 两性人。 ③ 性情温柔的男性：这个伢儿像个～。  
 1. 【[二姑娘穿背心——里外蓝（难）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_chun.md#二姑娘穿背心——里外蓝（难）)】`er6 gv1 nian2 chun1 bei5 xien1 li vae6 laen2 （naen2）` <sup>[东台]</sup>   
 1. 【[二姑娘𢮎水——浇花（焦话）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_gv_nian_hv.md#二姑娘𢮎水——浇花（焦话）)】`er6 gv1 nian2 hv3 shuei3 jio1 hua1 （jio1 hua6）` <sup>[东台]</sup>   
 1. 【[二下来啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_ha_lae_a.md#二下来啊)】`er6 ha lae2 a` <sup>[如皋]</sup> ① 状破裂，矛盾扩大了，难收拾了。 ② 绷裂了。  
