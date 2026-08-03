@@ -736,8 +736,7 @@
 1. 【[复行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_xien.md#复行)】`foh7 xien2` <small>/fɔʔ7 ɕin2/<sup>兴化</sup>, /fɔʔ7 ɕiəŋ2/<sup>如皋</sup></small> ① 回过头重来。<sup>\[如皋\]</sup> ② 重新<sup>\[兴化\]</sup>：送走远客，大家～坐下。<sup>\[兴化\]</sup>  
 1. 【[复中](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_zhon.md#复中)】`foh7 zhon5` <sup>[如皋]</sup> 中风症复发。病情不乐观。  
 1. 【[福宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_bo_r.md#福宝<sub>儿</sub>)】`foh7 bo3 r` <sup>[泰州]</sup> 即“腹宝儿”，图吉利的说法，遗腹子，怀孕妇女在丈夫死后生的孩子。  
-1. 【[福分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_fen.md#福分)】`foh7 fen` <small>/fɔʔ7 fəŋ/<sup>泰兴</sup></small> 福气。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
-1. 【[福分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_fen.md#福分)】`foh7 fen6` 福气。<sup>\[如东\]</sup>  
+1. 【[福分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_fen.md#福分)】`foh7 fen` <small>/fɔʔ7 fəŋ/<sup>泰兴</sup></small> 福气。<sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[福里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_lii.md#福里)】`foh7 lii` <sup>[兴化]</sup> 夫死时妻正怀孕，所生遗腹子谓～丢下来的。  
 1. 【[福佬<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_lo_r.md#福佬<sub>儿</sub>)】`foh7 lo3 r` <sup>[如皋]</sup> 娶亲、出殡等特邀的有福嘉宾，一般指家庭人口齐全、和谐、富裕、健康的一对中、老年人。  
 1. 【[福奶奶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/foh_nae_nae.md#福奶奶)】`foh7 nae3 nae` <sup>[兴化]</sup> 应聘帮助操持婚礼的老年妇女。条件是夫妇齐眉，有儿有孙。  
