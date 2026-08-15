@@ -566,9 +566,8 @@
 1. 【[今朝子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_do_zz.md#今朝子)】`gen1 do zz` <sup>[如皋]</sup> ① 今天。 ② 现在。  
 1. 【[今吖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga.md#今吖)】`gen1 nga` 今天。  
 1. 【[今吖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nga_zz.md#今吖子)】`gen1 nga zz` <sup>[东台]</sup> 今天。又作“今朝”。  
-1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin zz` <sup>[如皋]</sup> 今年。  
 1. 【[今年](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin.md#今年)】`gen1 nin2, gen1 nin0` <small>/kəŋ1 nĩ2/<sup>泰兴</sup></small> 今年。<sup>\[泰兴\]</sup>  
-1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin2 zz` <sup>[东台]</sup> 今年。  
+1. 【[今年子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_nin_zz.md#今年子)】`gen1 nin2 zz` <small>/kəŋ1 nĩ t͡sɿ/<sup>如皋</sup></small> 今年。<sup>\[如皋\]</sup><sup>\[东台\]</sup>  
 1. 【[今<sub>儿</sub>个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_gu.md#今<sub>儿</sub>个)】`gen1 r gu` <sup>[兴化]</sup> 今天，兴化西北部说法。同“今儿子”。  
 1. 【[今<sub>儿</sub>子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_r_zz.md#今<sub>儿</sub>子)】`gen1 r zz` <sup>[兴化]</sup> 今天：～我值班。西北少数村镇也说“今儿个”。  
 1. 【[今朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gen_zho.md#今朝)】`gen1 zho` <small>/kən1 t͡sɔ/<sup>兴化</sup>, /kəŋ1 t͡sɔ/<sup>泰兴</sup>, /kəŋ1 t͡sɔ/<sup>泰县</sup></small> 今天\[泰兴：也说gen1 do\]\[泰县：也说gen1 do\]\[兴化：说话的这一天\]：～是个好日子。<sup>\[兴化\]</sup>｜我～不去。<sup>\[泰县\]</sup>  
@@ -999,9 +998,8 @@
 1. 【[公平秤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_chen.md#公平秤)】`gon1 pien2 chen5` <sup>[如皋]</sup> 称量合格，或指这种秤。  
 1. 【[公平两到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_laen_do.md#公平两到)】`gon1 pien2 laen3 do5` <sup>[如东]</sup> 几个方面都一样，合情合理：这吖分配～。  
 1. 【[公平正道](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pien_zhen_to.md#公平正道)】`gon1 pien2 zhen5 to` <sup>[如皋]</sup> 公平合理。  
-1. 【[公婆家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu_ga.md#公婆家)】`gon1 pu ga1` <sup>[如皋]</sup> 夫家。  
 1. 【[公婆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu.md#公婆)】`gon1 pu2` ① 丈夫的父母亲。<sup>\[如东\]</sup> ② 丈夫的父母。<sup>\[东台\]</sup>  
-1. 【[公婆家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu_ga.md#公婆家)】`gon1 pu2 ga` <sup>[如东]</sup> 夫家。  
+1. 【[公婆家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu_ga.md#公婆家)】`gon1 pu2 ga` <small>/kɔŋ1 pʰʊ ka1/<sup>如皋</sup></small> 夫家。<sup>\[如东\]</sup><sup>\[如皋\]</sup>  
 1. 【[公婆礼酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_pu_li_jieu.md#公婆礼酒)】`gon1 pu2 li3 jieu3` <sup>[如东]</sup> 姑娘出嫁时，公婆带来一坛酒赠送给亲家公亲家母，表示对抚育自己儿媳的感谢。这坛酒叫公婆礼酒。  
 1. 【[公气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qi.md#公气)】`gon1 qi5` <sup>[如东]</sup> 公平，公开：这家公司的价格～。  
 1. 【[公吃公算](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gon_qieh_gon_sun.md#公吃公算)】`gon1 qieh7 gon1 sun5` <small>/koŋ1 t͡ɕʰiəʔ7 koŋ1 sũ5/<sup>兴化</sup>, /kɔŋ1 t͡ɕʰiəʔ7 kɔŋ1 sʊ̃5/<sup>如皋</sup></small> ① 一齐吃喝，平摊结算。<sup>\[如皋\]</sup> ② 吃喝开支由参与者平摊<sup>\[兴化\]</sup>：今晚的酒饭钱～，来个AA制。<sup>\[兴化\]</sup>  
@@ -1236,8 +1234,8 @@
 1. 【[过言](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_in.md#过言)】`gu5 in2` <small>/kʊ5 ĩ2/<sup>如皋</sup></small> ① 传话。<sup>\[如东\]</sup>：请不要～。<sup>\[如东\]</sup> ② 传话、传扬开来<sup>\[如皋\]</sup>：我哪许说哪许消，大家总不～。<sup>\[如皋\]</sup>  
 1. 【[过继](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ji.md#过继)】`gu5 ji5` <small>/kɤɯ5 t͡ɕʝ5/<sup>泰兴</sup></small> ① 宗法制度下，自己的儿子送给亲兄弟、堂兄弟做儿子，或者把亲兄弟、堂兄弟的儿子收养为自己的儿子，称过继。<sup>\[如东\]</sup> ② 承嗣。<sup>\[泰兴\]</sup>  
 1. 【[过酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jieu.md#过酒)】`gu5 jieu3` <small>/kʊ5 t͡ɕyʊ3/<sup>如皋</sup></small> ① 用菜喝酒。<sup>\[如东\]</sup>：烧点儿菜～。<sup>\[如东\]</sup> ② 吃菜肴以下酒。<sup>\[如皋\]</sup>  
-1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih` <sup>[兴化]</sup> ① 待人接物应有的礼数和手续：这位局长最讲究下属这些小的～。 ② 嫌隙：他俫过去有点儿～。  
-1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih7` <small>/kɤɯ5 t͡ɕiʔ7/<sup>泰兴</sup></small> ① 嫌隙<sup>\[泰兴\]</sup> ② 称度过一年中的四时八节<sup>\[泰兴\]</sup>  
+1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih` <small>/ko5 t͡ɕiɪʔ/<sup>兴化</sup>, /kɤɯ5 t͡ɕiʔ/<sup>泰兴</sup></small> ① 待人接物应有的礼数和手续<sup>\[兴化\]</sup>：这位局长最讲究下属这些小的～。<sup>\[兴化\]</sup> ② 嫌隙<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：他俫过去有点儿～。<sup>\[泰兴\]</sup>  
+1. 【[过节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_jih.md#过节)】`gu5 jih7` <small>/kɤɯ5 t͡ɕiʔ7/<sup>泰兴</sup></small> 称度过一年中的四时八节<sup>\[泰兴\]</sup>  
 1. 【[过槛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_kaen.md#过槛)】`gu5 kaen3` <sup>[如皋]</sup> ① 合格通过。 ② 上人死在外，遗体进家时，孝子伏槛，使从背上过。据说死者可免过槛之苦。  
 1. 【[过刻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keh_r.md#过刻<sub>儿</sub>)】`gu5 keh9 r` <small>/kʊ5 kʰə˞9/<sup>如皋</sup></small> 过一会儿。<sup>\[如东\]</sup><sup>\[如皋\]</sup>：～就来。<sup>\[如东\]</sup>  
 1. 【[过口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_keu.md#过口)】`gu5 keu3` <small>/ko5 kʰɤ3/<sup>兴化</sup>, /kʊ5 kʰei3/<sup>如皋</sup>, /kɤɯ5 kʰəɪ3/<sup>泰兴</sup></small> ① 用以润口或冲淡因吃食物等口中留下的异味<sup>\[如皋\]</sup>：吃丸药用黄酒～；吃点心用茶～。<sup>\[如皋\]</sup> ② 吃过药喝一点开水冲淡口中苦味。<sup>\[兴化\]</sup> ③ 以食物下酒<sup>\[兴化\]</sup>：“大娘子，我从来吃不得寡酒，你再切些肉来与我～。”（《水浒传》二七）<sup>\[兴化\]</sup> ④ 食物经过口中，即进食。<sup>\[泰州\]</sup> ⑤ 通过进食清淡食物弱化口中因喝酒或吃辛辣食物所产生的麻人感觉<sup>\[泰州\]</sup>：他不曾喝过白酒，快点儿搛块肥肉把他～。<sup>\[泰州\]</sup> ⑥ 通过吃咸小菜弱化口中因进食白饭白粥所产生的无味感觉<sup>\[泰州\]</sup>：他这两天发热，嘴里没味，光吃白粥不行，你弄点儿榨菜把他～。<sup>\[泰州\]</sup> ⑦ 通过吃糖或者甜食弱化口中因吃药产生的苦涩感觉<sup>\[泰州\]</sup>：这个中药太苦啊唻，难喝煞咖唻，你弄点儿白糖把他～。<sup>\[泰州\]</sup> ⑧ 饭后饮茶汤曰过口。泛指食用。<sup>\[泰兴\]</sup>  
@@ -1486,8 +1484,7 @@
 1. 【[关公卖豆腐——人硬货不硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gon_mae_teu.md#关公卖豆腐——人硬货不硬)】`guaen1 gon1 mae6 teu6 fv ren2 ngen6 hu5 beh7 ngen6` <sup>[东台]</sup>   
 1. 【[关公面前耍大刀——不自量力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gon_min_qin.md#关公面前耍大刀——不自量力)】`guaen1 gon1 min6 qin2 shua3 da6 do1 beh7 cz6 lian6 lieh8` <sup>[东台]</sup>   
 1. 【[关顾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_gv.md#关顾)】`guaen1 gv5` <small>/kuɛ̃1 ku5/<sup>兴化</sup>, /kuɛ̃1 ku5/<sup>泰兴</sup></small> ① 关心、照顾<sup>\[兴化\]</sup>：伢儿在你班上读书，请你～点儿。<sup>\[兴化\]</sup> ② 关心照顾。<sup>\[泰兴\]</sup>  
-1. 【[关会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_huei.md#关会)】`guaen1 huei` <small>/kuɛ̃1 xuəi/<sup>兴化</sup></small> ① 嘱咐，关照<sup>\[东台\]</sup>：我～你，出门在外要处处小心。<sup>\[东台\]</sup> ② 嘱咐<sup>\[兴化\]</sup>：他临出门，我一再～他注意饮食、冷暖。<sup>\[兴化\]</sup>｜“……不日也要差人去贺他，那时再～他也可。”（《梼杌闲评》九）<sup>\[兴化\]</sup>  
-1. 【[关会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_huei.md#关会)】`guaen1 huei6` <small>/kuẽ1 xuei1/<sup>如皋</sup>, /kuɛ̃1 xuəɪ1/<sup>泰兴</sup>, /kuɛ̃1 xuəɪ1/<sup>泰县</sup></small> ① 交代、吩咐、叫、关照<sup>\[如皋\]</sup>：注意点我总～啊到啊<sup>\[如皋\]</sup>｜你安心蹾吖这许，所有的事我总～过啊，你不要担心。<sup>\[如皋\]</sup> ② 嘱咐<sup>\[泰县\]</sup>：伢儿出门要～他在路上不能卖呆。<sup>\[泰县\]</sup> ③ 泛指口头通知<sup>\[泰州\]</sup>：你～他一句，晚上在人家要少吃点儿酒。<sup>\[泰州\]</sup> ④ 照会；嘱咐。<sup>\[泰兴\]</sup>  
+1. 【[关会](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_huei.md#关会)】`guaen1 huei6` <small>/kuɛ̃1 xuəi/<sup>兴化</sup>, /kuɛ1 xuei1/<sup>如皋</sup>, /kuɛ̃1 xuəɪ1/<sup>泰兴</sup>, /kuɛ̃1 xuəɪ1/<sup>泰县</sup></small> ① 交代、吩咐、叫、关照<sup>\[如皋\]</sup>：注意点我总～啊到啊<sup>\[如皋\]</sup>｜你安心蹾吖这许，所有的事我总～过啊，你不要担心。<sup>\[如皋\]</sup> ② 嘱咐<sup>\[泰县\]</sup><sup>\[兴化\]</sup>：伢儿出门要～他在路上不能卖呆。<sup>\[兴化\]</sup>｜他临出门，我一再～他注意饮食、冷暖。<sup>\[兴化\]</sup>｜“……不日也要差人去贺他，那时再～他也可。”（《梼杌闲评》九）<sup>\[兴化\]</sup> ③ 泛指口头通知<sup>\[泰州\]</sup>：你～他一句，晚上在人家要少吃点儿酒。<sup>\[泰州\]</sup> ④ 照会；嘱咐。<sup>\[泰兴\]</sup> ⑤ 嘱咐，关照<sup>\[东台\]</sup>：我～你，出门在外要处处小心。<sup>\[东台\]</sup>  
 1. 【[关秧门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ian_men.md#关秧门)】`guaen1 ian1 men2` <sup>[兴化]</sup> 指水稻栽秧结束。是时主家以面条招待参与栽秧的人。（见《兴化市志·民俗》）  
 1. 【[关己](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_ji.md#关己)】`guaen1 ji3` <sup>[如皋]</sup> ① 出自内心的，真切的关心、照顾：他对我交关～。 ② （事情）涉及自己：事不～，高高挂起。  
 1. 【[关节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guaen_jih.md#关节)】`guaen1 jih7` <sup>[如东]</sup> ① 骨头相互连接的地方。 ② 比喻起关键作用的环节：要抓住主要～不放。  
@@ -1643,8 +1640,7 @@
 1. 【[骨里巧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_lii_qio.md#骨里巧)】`gueh7 lii qio3` <small>/kuəʔ7 ləɪ t͡ɕʰiɔ3/<sup>泰兴</sup></small> 比喻聪明，无师自通，一学就会。<sup>\[泰兴\]</sup>  
 1. 【[骨碌骨碌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_loh_gueh_loh.md#骨碌骨碌)】`gueh7 loh gueh7 loh` <sup>[如皋]</sup> ① 翻滚状、闪滚状：他的眼睛～只翻。 ② 象声词：他肚里～的响。  
 1. 【[骨牌杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pae_veh_zz.md#骨牌杌子)】`gueh7 pae2 veh8 zz` <small>/kuəʔ7 pʰɛ2 ʋəʔ8 t͡sɿ/<sup>泰兴</sup></small> 面呈长方形似骨牌的杌子。<sup>\[泰兴\]</sup>  
-1. 【[骨髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pan.md#骨髈)】`gueh7 pan` <small>/kuəʔ7 pʰaŋ/<sup>兴化</sup>, /kuəʔ7 pʰã/<sup>如皋</sup></small> ① 骨架、身块<sup>\[如皋\]</sup>：他的～大。<sup>\[如皋\]</sup> ② 骨架<sup>\[兴化\]</sup>：老周～大，虽瘦不难看。<sup>\[兴化\]</sup>  
-1. 【[骨髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pan.md#骨髈)】`gueh7 pan3` <sup>[泰州]</sup> 骨架：你望他像蛮胖的，其实他并不胖，他是～大。  
+1. 【[骨髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pan.md#骨髈)】`gueh7 pan` <small>/kuəʔ7 pʰaŋ/<sup>兴化</sup>, /kuəʔ7 pʰã/<sup>如皋</sup></small> ① 骨架、身块<sup>\[如皋\]</sup>：他的～大。<sup>\[如皋\]</sup> ② 骨架<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老周～大，虽瘦不难看。<sup>\[兴化\]</sup>｜你望他像蛮胖的，其实他并不胖，他是～大。<sup>\[泰州\]</sup>  
 1. 【[骨盆肩角](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_pen_jin_gah.md#骨盆肩角)】`gueh7 pen2 jin1 gah` <sup>[如皋]</sup> 下腰部的骨角。  
 1. 【[骨桥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨桥)】`gueh7 qio2` <sup>[东台]</sup> ［喻］指未协调好的环节：婆媳两个不愉快，恐怕里面有～。  
 1. 【[骨窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gueh_qio.md#骨窍)】`gueh7 qio5` <sup>[泰县]</sup> 诀窍：开汽车有甚的～？  

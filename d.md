@@ -263,12 +263,12 @@
 1. 【[打锣卖糖——各干一行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lu_mae_tan.md#打锣卖糖——各干一行)】`da3 lu2 mae6 tan2 gah7 gun5 ieh7 han2` <sup>[东台]</sup>   
 1. 【[打乱钟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lun_zhon.md#打乱钟)】`da3 lun6 zhon1` <sup>[如皋]</sup> 原如皋县政府中山钟楼顶上装有大钟，如遇火警、匪警等则打乱钟报警事，钟点乱、快、急。  
 1. 【[打芦䉬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_lv_fei.md#打芦䉬)】`da3 lv2 fei5` <sup>[如皋]</sup> 用芦柴篾编织成板块。作建材。  
+1. 【[打马讽车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_fon_jy.md#打马讽车)】`da3 ma fon5 jy1` <sup>[兴化]</sup> 不指名骂街：小胡动不动～的，不晓得对哪一个！  
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma` <small>/ta3 ma/<sup>兴化</sup></small> ① 含沙射影地讽刺、讥笑<sup>\[东台\]</sup>：才将他说的故事，是在下～你呢，你听不出来？（“骂”轻读）<sup>\[东台\]</sup> ② 表面骂这个人，实际上骂另一个人，犹“指桑骂槐”<sup>\[兴化\]</sup>：有意见你直说，不要～人。<sup>\[兴化\]</sup>  
 1. 【[打麻绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_shen.md#打麻绳)】`da3 ma2 shen2` <sup>[如皋]</sup> 用手摇动简单机械，把三股麻丝同时加捻度，然后反转合成一根麻绳。  
 1. 【[打麻线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_xin.md#打麻线)】`da3 ma2 xin5` <sup>[如皋]</sup> 同打麻绳，径小。  
 1. 【[打码米<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_mi_r.md#打码米<sub>儿</sub>)】`da3 ma3 mi3 r` <sup>[如东]</sup> 暗地里叽咕，估计。  
 1. 【[打码人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_ren.md#打码人)】`da3 ma3 ren2` <sup>[如东]</sup> 用比喻的方法讽刺挖苦人。  
-1. 【[打马讽车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_fon_cha.md#打马讽车)】`da3 ma3 fon5 cha1` <sup>[兴化]</sup> 不指名骂街：小胡动不动～的，不晓得对哪一个！  
 1. 【[打马虎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_hv.md#打马虎)】`da3 ma3 hv` <sup>[如东]</sup> 装作不知道。  
 1. 【[打马虎眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma_hv_ngaen.md#打马虎眼)】`da3 ma3 hv ngaen3` <sup>[泰州]</sup> 故意装糊涂蒙骗人：这件事你明明晓得，不要～。  
 1. 【[打骂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ma.md#打骂)】`da3 ma6` <sup>[泰州]</sup> 责骂：你不曾听得出来，他这些话是～你的。  
@@ -291,7 +291,7 @@
 1. 【[打伢<sub>儿</sub>黄人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_r_huan.md#打伢<sub>儿</sub>黄人)】`da3 nga2 r huan2 ren2` <sup>[如皋]</sup> 见“打憋气棒”。  
 1. 【[打伢<sub>儿</sub>骂邻舍家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_r_ma.md#打伢<sub>儿</sub>骂邻舍家)】`da3 nga2 r ma6 lien2 sha5 ga` <sup>[如皋]</sup> 以打自家孩子为手段，用意在骂邻人。  
 1. 【[打哑语](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_y.md#打哑语)】`da3 nga3 y` <sup>[如皋]</sup> 因某种情况不能说话而用肢体比划来表示。  
-1. 【[打讶声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_shen.md#打讶声)】`da3 nga6 shen1` <small>/ta3 a6 sən1/<sup>兴化</sup>, /tɑ3 ŋɑ1 səŋ1/<sup>泰兴</sup></small> ① 表示惊讶和反感。讶，《广韵·祃韵》吾驾切，嗟～。<sup>\[兴化\]</sup>：听说要价这吖高，他不住～<sup>\[兴化\]</sup> ② 对对方的要求表示异议而不及时作答。\[泰兴：（泰兴方言辞典作“打哑声”）\]：他刚才～，像吖是不同意这个价钱。<sup>\[泰兴\]</sup>  
+1. 【[打讶声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_nga_shen.md#打讶声)】`da3 nga5 shen` <small>/ta3 a5 sən/<sup>兴化</sup>, /tɑ3 ŋɑ5 səŋ/<sup>泰兴</sup></small> ① 表示惊讶和反感<sup>\[兴化\]</sup>：听说要价这吖高，他不住～<sup>\[兴化\]</sup> ② 对对方的要求表示异议而不及时作答。\[泰兴：（泰兴方言辞典作“打哑声”）\]：他刚才～，像吖是不同意这个价钱。<sup>\[泰兴\]</sup>  
 1. 【[打眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen.md#打眼)】`da3 ngaen3` <sup>[兴化]</sup> 小偷在行窃前窥探作案环境。  
 1. 【[打眼色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngaen_seh.md#打眼色)】`da3 ngaen3 seh` <sup>[兴化]</sup> 用眼示意：他跟我～，要我覅多事。  
 1. 【[打呃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ngeh.md#打呃)】`da3 ngeh7` <sup>[兴化]</sup> 气逆出声。兴化词典作“打䬵”，《广韵·德韵》爱黑切，噎声。  
@@ -429,7 +429,7 @@
 1. 【[打下马威](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xia_ma_vei.md#打下马威)】`da3 xia6 ma3 vei1` <sup>[如皋]</sup> ① 一见面就给以打出，给以震慑。 ② 疲乏：他发咖高热的，浑身发软。～。  
 1. 【[打下手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xia_sheu.md#打下手)】`da3 xia6 sheu3` <small>/ta3 ɕia6 sɤ3/<sup>兴化</sup>, /tɑ3 ɕiɑ1 ɕiɤɯ3/<sup>泰兴</sup></small> ① 做帮手或做辅助性工作<sup>\[兴化\]</sup>：你掌作，我跟你～。<sup>\[兴化\]</sup> ② 担任助手做些辅助性工作<sup>\[泰州\]</sup>：他出个小忙还可以，教他来帮你～吧。<sup>\[泰州\]</sup> ③ 做助手，协助工作。<sup>\[泰兴\]</sup>：我跟吖他后头～，帮吖做点事。<sup>\[泰兴\]</sup>  
 1. 【[打下手把子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xia_sheu_ba.md#打下手把子)】`da3 xia6 sheu3 ba3 zz` <sup>[如皋]</sup> 做助手。  
-1. 【[打响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xian.md#打响)】`da3 xian3` <sup>[兴化]</sup> 用咳嗽、说话等方式惊走来者或提醒对方：众僧们听说认亲……一个个出头露面，咳嗽～，巴不得要认出去。（《西游记》四四）  
+1. 【[打响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xian.md#打响)】`da3 xian3` <small>/ta3 ɕiaŋ3/<sup>兴化</sup></small> 用咳嗽、说话等方式惊走来者或提醒对方\[兴化：《兴化方言词典》记音da3 xia3，存疑\]：众僧们听说认亲……一个个出头露面，咳嗽～，巴不得要认出去。（《西游记》四四）<sup>\[兴化\]</sup>  
 1. 【[打响<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xian_r.md#打响<sub>儿</sub>)】`da3 xian3 r` <small>/ta3 ɕia˞3/<sup>如皋</sup></small> ① 游戏名。以瓦片、铜钱、玻璃球之一置于地，互相抛打，打中为胜。也是“趖抛抛儿”“弹球”等游戏的组成部份。<sup>\[如皋\]</sup> ② 见“趖抛抛儿”。<sup>\[如皋\]</sup>  
 1. 【[打响声](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xian_shen.md#打响声)】`da3 xian3 shen1` <sup>[兴化]</sup> 见“打响”。用咳嗽、说话等方式惊走来者或提醒对方。  
 1. 【[打心上来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_xien_shan_lae.md#打心上来)】`da3 xien1 shan6 lae2` 喜欢，喜爱  
