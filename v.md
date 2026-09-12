@@ -571,7 +571,7 @@
 1. 【[玩意腔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_qian.md#玩意腔)】`vaen2 i5 qian1` <sup>[东台]</sup> 闹着玩，不认真的态度：他是～，开玩笑的，不要当真！  
 1. 【[玩意<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r.md#玩意<sub>儿</sub>)】`vaen2 i5 r` <small>/ʋɛ̃2 ɿ5 ɚ/<sup>泰县</sup></small> ① 东西。<sup>\[如东\]</sup>：那是甚的～？比喻无足轻重的人。<sup>\[如东\]</sup> ② 无足轻重的人或事。<sup>\[泰县\]</sup>  
 1. 【[玩意<sub>儿</sub>头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_teu.md#玩意<sub>儿</sub>头)】`vaen2 i5 r teu2` <sup>[如东]</sup> 比喻品格低下的人：他算个甚的～！  
-1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <small>/ʋẽ2 ʝ˞5 t͡sã5/<sup>如皋</sup></small> ① 毫不在乎<sup>\[如皋\]</sup>：他花起钱来如敌（vaeh8）水，千吖八百的～。<sup>\[如皋\]</sup> ② 不是正规的门路，碰碰机会。<sup>\[如东\]</sup>：这是～，也许会成功。<sup>\[如东\]</sup>  
+1. 【[玩意<sub>儿</sub>账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_r_zhan.md#玩意<sub>儿</sub>账)】`vaen2 i5 r zhan5` <small>/ʋẽ2 ʝ˞5 t͡sã5/<sup>如皋</sup></small> ① 毫不在乎<sup>\[如皋\]</sup>：他花起钱来如𢼤（vaeh8）水，千吖八百的～。<sup>\[如皋\]</sup> ② 不是正规的门路，碰碰机会。<sup>\[如东\]</sup>：这是～，也许会成功。<sup>\[如东\]</sup>  
 1. 【[玩意头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_teu.md#玩意头)】`vaen2 i5 teu2` <sup>[泰县]</sup> ① 玩具。 ② 脾气随和的人。  
 1. 【[玩意账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_i_zhan.md#玩意账)】`vaen2 i5 zhan5` ① 同“玩意腔”。<sup>\[东台\]</sup> ② 不当回事，无须认真对待<sup>\[泰州\]</sup>：小宫的酒量大，斤把酒对他来说是～。<sup>\[泰州\]</sup>  
 1. 【[玩阴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_ien.md#玩阴)】`vaen2 ien1` <sup>[如皋]</sup> 当面不明说，或是说讽刺挖苦的话、反话，而暗中设计谋对付、看笑话。  
