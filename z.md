@@ -2202,6 +2202,7 @@
 1. 【[最好不过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ho_beh_gu.md#最好不过)】`zuei5 ho3 beh7 gu5` <small>/t͡suei5 xɔ3 pəʔ7 kʊ5/<sup>如皋</sup></small> ① 副词（叠用表示强调）<sup>\[如皋\]</sup>：派他去是～；～派他去。<sup>\[如皋\]</sup> ② 表示最理想的选择，没有比这更好<sup>\[泰州\]</sup>：领导肯来讲话当然是～的唻。<sup>\[泰州\]</sup>  
 1. 【[最上心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_shan_xien.md#最上心)】`zuei5 shan6 xien1` <sup>[泰州]</sup> 最看重的，最放在心上的：老李～的是他家孙子。｜这小伙在吃上～，一顿都不能马虎。｜他～的是他的钱，少啊他的奖金他就急咖唻。｜你不要碰他的书，这是他～的东西。  
 1. 【[醉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei.md#醉)】`zuei5` <sup>[如东]</sup> ① 也说jy5。 ② 饮酒过量，神志不清。 ③ 一种腌制方法。把蟹、虾、贝等洗净，加盐酒、生姜，放人坛中，加盖腌制，经过较短时间取出，生吃，肉嫩而味鲜。  
+1. 【[醉而麻乎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_er_ma_hv.md#醉而麻乎)】`zuei5 er ma2 hv` <small>/t͡suəɪ5 ɚ mɑ2 fʋ/<sup>泰兴</sup></small> 饮酒过量，醉醺醺的样子。<sup>\[泰兴\]</sup>  
 1. 【[醉虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ha.md#醉虾)】`zuei5 ha1` 佐酒佳肴之一，淡水活虾洗净浸在酒中，待其“醉”透，加入作料拌之生食。<sup>\[泰州\]</sup>  
 1. 【[醉蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_hae.md#醉蟹)】`zuei5 hae3` <small>/t͡suəi5 xɛ3/<sup>兴化</sup></small> ① 将新鲜梭子蟹，去壳后，放入烧酒及盐进行腌制，2小时后，加作料即可食用，肉嫩而味鲜。<sup>\[如东\]</sup> ② 将螃蟹洗净后，用米酒加葱姜汁等多种调料腌制而成。<sup>\[兴化\]</sup> ③ 佐酒佳肴之一。清水加盐、糖、花椒烧开，冷却后加黄酒、白酒调匀制成醉卤。活蟹洗净，沥干水分。取大小适中的干净容器1只，底部先放葱结、生姜和陈皮，放入活蟹，上面再放上葱、姜、陈皮，压上重物加入醉卤封口，放冷藏室4天后即可食用。泰州辖下兴化市中堡镇醉蟹最为著名。<sup>\[泰州\]</sup>  
 1. 【[醉虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xia.md#醉虾)】`zuei5 xia1` <sup>[如东]</sup> 将新鲜海虾洗净后，放入烧酒及盐，进行腌制，1小时后，加作料即可食用，肉嫩而味鲜。  

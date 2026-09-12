@@ -462,7 +462,7 @@
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 1. 【[横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_baen.md#横板)】`on2 baen3` <sup>[如东]</sup> 帆船船头上的一块横板。  
-1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` ① 意外得来的巨额钱财。<sup>\[东台\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
+1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` <small>/ɔŋ2 t͡ɕʰiɛ2/<sup>泰兴</sup></small> ① 意外得来的巨额钱财。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～不发命穷人。<sup>\[泰兴\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
 1. 【[横叉舞棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cha_v_guen.md#横叉舞棍)】`on2 cha1 v3 guen5` <sup>[东台]</sup> 指搬放运或放置东西时比较毛糙，到处碰碰打打。也作“横枪舞棍”。  
 1. 【[横长竖大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chan_shv_da.md#横长竖大)】`on2 chan2 shv6 da6` <sup>[兴化]</sup> ① 形容物体体积大，隔占地方：这张柜子～的，没处放。 ② 形容人身材高大：儿子～的朝面前一站，多威武啊！  
 1. 【[横档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_dan.md#横档)】`on2 dan5` <sup>[如东]</sup> 门两头的横条木。  

@@ -30,7 +30,7 @@
 1. 【[翁柿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shr.md#翁柿)】`on1 shr6` <sup>[如皋]</sup> 一种大柿子。  
 1. 【[翁媳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_xieh.md#翁媳)】`on1 xieh7` <sup>[如皋]</sup> 见“公媳”。  
 1. 【[横板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_baen.md#横板)】`on2 baen3` <sup>[如东]</sup> 帆船船头上的一块横板。  
-1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` ① 意外得来的巨额钱财。<sup>\[东台\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
+1. 【[横财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cae.md#横财)】`on2 cae2` <small>/ɔŋ2 t͡ɕʰiɛ2/<sup>泰兴</sup></small> ① 意外得来的巨额钱财。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：～不发命穷人。<sup>\[泰兴\]</sup> ② 非法或者侥幸获得的钱财<sup>\[泰州\]</sup>：他这次拆迁拿啊几百万，发咖笔～。<sup>\[泰州\]</sup>  
 1. 【[横叉舞棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cha_v_guen.md#横叉舞棍)】`on2 cha1 v3 guen5` <sup>[东台]</sup> 指搬放运或放置东西时比较毛糙，到处碰碰打打。也作“横枪舞棍”。  
 1. 【[横长竖大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chan_shv_da.md#横长竖大)】`on2 chan2 shv6 da6` <sup>[兴化]</sup> ① 形容物体体积大，隔占地方：这张柜子～的，没处放。 ② 形容人身材高大：儿子～的朝面前一站，多威武啊！  
 1. 【[横档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_dan.md#横档)】`on2 dan5` <sup>[如东]</sup> 门两头的横条木。  
@@ -42,10 +42,10 @@
 1. 【[横吖膀子㨟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_ban_zz.md#横吖膀子㨟)】`on2 nga ban3 zz gae1` <sup>[泰县]</sup> 随心所欲：这个人在单位上～。  
 1. 【[横吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_nga_xien.md#横吖心)】`on2 nga xien1` <sup>[如东]</sup> 下了狠心：他～，一定要这吖做。  
 1. 【[横横毌毌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_on_kuaeh_kuaeh.md#横横毌毌)】`on2 on2 kuaeh8 kuaeh8` <sup>[如皋]</sup> 勾连阻碍：扛毛竹走路～的。  
-1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 杂乱无章。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他家天井里满地都是～的竹子。<sup>\[泰州\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
+1. 【[横七竖八](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_shv_baeh.md#横七竖八)】`on2 qieh7 shv6 baeh7` <small>/ɔŋ2 t͡ɕʰiəʔ7 su1 pæʔ7/<sup>泰兴</sup></small> ① 次序混乱。<sup>\[如东\]</sup>：竹竿～的摆啊下，不好看。<sup>\[如东\]</sup> ② 杂乱无章。<sup>\[泰兴\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：他家天井里满地都是～的竹子。<sup>\[泰州\]</sup> ③ ［引］态度蛮横，不上规矩<sup>\[东台\]</sup>：那人再～的，哪个睬他？<sup>\[东台\]</sup>  
 1. 【[横吃萝卜竖吃姜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_qieh_lu_poh.md#横吃萝卜竖吃姜)】`on2 qieh7 lu2 poh shv6 qieh7 jian1` <sup>[东台]</sup> 形容依疯作邪，不上规矩。  
 1. 【[横肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_roh.md#横肉)】`on2 roh8` <sup>[东台]</sup> 脸上的给人感觉十分凶恶的肌肉：胡传魁一脸～。  
-1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <sup>[泰县]</sup> （禁忌语）不能生育：这个人家～，是个绝后代。  
+1. 【[横生倒养](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shen_do_ian.md#横生倒养)】`on2 shen1 do5 ian3` <small>/ɔŋ2 səŋ1 tɔ5 iɑŋ3/<sup>泰兴</sup>, /oŋ2 səŋ1 tɔ5 iɑŋ3/<sup>泰县</sup></small> ① （禁忌语）不能生育<sup>\[泰县\]</sup>：这个人家～，是个绝后代。<sup>\[泰县\]</sup> ② 女人难产。骂人语。<sup>\[泰兴\]</sup>  
 1. 【[横说横答，武说武答](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shuh_on_daeh.md#横说横答，武说武答)】`on2 shuh7 on2 daeh7 v3 shuh7 v3 daeh7` <sup>[东台]</sup> 形容某人厉害，敢于较量，从不让步示弱。  
 1. 【[横竖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv.md#横竖)】`on2 shv6` <small>/ɔŋ2 su1/<sup>如皋</sup></small> 反正，无论如何都<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：～不行。<sup>\[如东\]</sup>｜这个项目一二名都是中国人，金牌～是中国的。<sup>\[东台\]</sup>｜你去不去都行，～是这回事。<sup>\[泰州\]</sup>  
 1. 【[横竖横](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_shv_on.md#横竖横)】`on2 shv6 on2` <small>/oŋ2 su6 oŋ2/<sup>兴化</sup></small> ① 无论如何。<sup>\[如东\]</sup>：～，我要拼到底。<sup>\[如东\]</sup> ② 反正如此，索性横下心来<sup>\[兴化\]</sup>：他把心一横，来个～，看大家怎吖对付自己。<sup>\[兴化\]</sup>  

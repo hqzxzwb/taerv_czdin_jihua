@@ -2015,8 +2015,8 @@
 1. 【[擀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun.md#擀)】`gun3` <sup>[泰州]</sup> 用棒碾压面团：老太～的面又细又长。｜家里～的面吃起来香。  
 1. 【[擀板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_baen.md#擀板)】`gun3 baen3` <sup>[如皋]</sup> 擀棉花条儿时用的垫板。  
 1. 【[擀面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min.md#擀面)】`gun3 min6` <sup>[如东]</sup> 用擀面杖把面团擀成面皮，再切成面条。  
-1. 【[擀面杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min_chan.md#擀面杖)】`gun3 min6 chan6` <sup>[如东]</sup> 工具。木制，圆杆形，用以擀压面条、面皮等。  
-1. 【[擀面棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min_pan.md#擀面棒)】`gun3 min6 pan6` <small>/kʊ̃3 mĩ1 pʰã1/<sup>如皋</sup></small> 擀面杖。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup>：～吹火，一窍不通。<sup>\[东台\]</sup>  
+1. 【[擀面杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min_chan.md#擀面杖)】`gun3 min6 chan6` <small>/kʊ̃3 mĩ t͡sʰɑŋ1/<sup>泰兴</sup></small> 擀面用的小木棒<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：～吹火，一窍不通。<sup>\[泰兴\]</sup>  
+1. 【[擀面棒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min_pan.md#擀面棒)】`gun3 min6 pan6` <small>/kʊ̃3 mĩ1 pʰã1/<sup>如皋</sup>, /kʊ̃3 mĩ1 pʰɑŋ1/<sup>泰兴</sup></small> 擀面杖。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～吹火，一窍不通。<sup>\[东台\]</sup>  
 1. 【[擀面棒吹火——一窍不通](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_min_pan_chuei.md#擀面棒吹火——一窍不通)】`gun3 min6 pan6 chuei1 hu3 ieh7 qio5 beh7 ton1` <sup>[东台]</sup>   
 1. 【[擀趴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_pa.md#擀趴)】`gun3 pa1` <sup>[如皋]</sup> ① 大场上用的推集器，像闸板，一人扶，二人牵。 ② 见“石硺”。（牛拉动，在水田中压碎土块的瘦长多棱的麻石磙子。）  
 1. 【[擀剂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gun_qi_zz.md#擀剂子)】`gun3 qi6 zz` <sup>[如皋]</sup> 把做一只烧饼的面团“擦酥”擀展，卷成团，待用。  

@@ -408,7 +408,7 @@
 1. 【[办后事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_heu_shr.md#办后事)】`baen5 heu6 shr6` <sup>[如皋]</sup> 贬指调离或离职后他人代办遗留之事。往往有怨恨之意。  
 1. 【[扮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#扮)】`baen5` <small>/pɛ̃5/<sup>泰兴</sup></small> 打扮，化妆。<sup>\[泰兴\]</sup>  
 1. 【[爿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#爿)】`baen5` <small>/pẽ5/<sup>如皋</sup></small> ① 量词<sup>\[如皋\]</sup>：一～店。<sup>\[如皋\]</sup> ② 量词，相当于段、截、片，用于整体的一部分<sup>\[泰州\]</sup>：你把西瓜切成两半～，他俫个人吃一～。<sup>\[泰州\]</sup>  
-1. 【[𢴬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#𢴬)】`baen5` <small>/pɛ̃5/<sup>兴化</sup></small> ① 绊<sup>\[兴化\]</sup>：一不小心，～吖一个跟头。《集韵·裥韵》博幻切：“～，绊也，引击也。”<sup>\[兴化\]</sup> ② 行走时别的东西挡住或缠住<sup>\[泰州\]</sup>：不要弄吖～吖唻。<sup>\[泰州\]</sup>  
+1. 【[𢴬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen.md#𢴬)】`baen5` <small>/pɛ̃5/<sup>兴化</sup>, /pɛ̃5/<sup>泰兴</sup></small> 绊<sup>\[泰兴\]</sup><sup>\[兴化\]</sup>\[泰州：行走时别的东西挡住或缠住\]：一不小心，～吖一个跟头。《集韵·裥韵》博幻切：“～，绊也，引击也。”<sup>\[兴化\]</sup>｜不要弄吖～吖唻。<sup>\[泰州\]</sup>  
 1. 【[𢴬住咖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_chuh_ga.md#𢴬住咖)】`baen5 chuh ga` <small>/pẽ5 t͡sʰʊʔ ka/<sup>如皋</sup></small> 被粘着、被牵制<sup>\[如皋\]</sup>：本想外来耍耍，捱伢儿～，不得出头影。<sup>\[如皋\]</sup>  
 1. 【[𢴬脚石](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_sheh.md#𢴬脚石)】`baen5 jiah7 sheh8` <sup>[如东]</sup> 比喻阻碍前进的人或事：不要做～。  
 1. 【[𢴬脚绳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/baen_jiah_shen.md#𢴬脚绳)】`baen5 jiah7 shen2` <sup>[如皋]</sup> 喻指不能丢开的人或物的负担。  

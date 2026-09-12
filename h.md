@@ -134,8 +134,9 @@
 1. 【[鞋口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_keu.md#鞋口)】`hae2 keu3` <sup>[如皋]</sup> 鞋帮的上口。  
 1. 【[鞋面布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_min_bv.md#鞋面布)】`hae2 min6 bv5` <sup>[如皋]</sup> 布鞋的面料。旧时男鞋尚“粉底乌靴”，用黑色的“二呢”“尺工呢”（记音字）。女鞋则多绸绣花。  
 1. 【[鞋拔<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_paeh_r.md#鞋拔<sub>儿</sub>)】`hae2 paeh8 r` <sup>[如东]</sup> 工具。铜或牛角制，长六寸，宽一寸半，扇面呈弧形。穿新布鞋时，因为鞋口紧，脚穿不进去，用它插在鞋帮后边，使脚能够穿进去。  
-1. 【[鞋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_qian.md#鞋匠)】`hae2 qian` <sup>[东台]</sup> 以做鞋或修鞋为业的小手工业者，也叫皮匠。  
-1. 【[鞋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_qian.md#鞋匠)】`hae2 qian6` <sup>[如东]</sup> 从事鞋子制作的小手工业者。  
+1. 【[鞋拔子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_paeh_zz.md#鞋拔子)】`hae2 paeh8 zz` <small>/xɛ2 pʰæʔ8 t͡sɿ/<sup>泰兴</sup></small> 穿鞋工具，形如大匙。穿较紧的鞋时，插入鞋后跟里往上拔，使鞋上脚。<sup>\[泰兴\]</sup>  
+1. 【[鞋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_qian.md#鞋匠)】`hae2 qian` <sup>[如东]</sup> 从事鞋子制作的小手工业者。  
+1. 【[鞋匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_qian.md#鞋匠)】`hae2 qian` <small>/xɛ2 t͡ɕʰiɑŋ/<sup>泰兴</sup></small> 以做鞋或修鞋为业的小手工业者，也叫皮匠。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鞋头鞋脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_teu_hae_no.md#鞋头鞋脑)】`hae2 teu2 hae2 no3` <sup>[泰县]</sup> ① 妇女泛指一切家务：你去工作，家里～的事我来做。 ② 衣着、鞋袜的统称。  
 1. 【[鞋头脚脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_teu_jiah_no.md#鞋头脚脑)】`hae2 teu2 jiah7 no3` <sup>[兴化]</sup> 有关鞋、袜之类的针线活：一切～的生活，齐打伙儿忙。（《广陵潮》七）  
 1. 【[鞋楦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hae_xiun_zz.md#鞋楦子)】`hae2 xiun5 zz` <sup>[如皋]</sup> 给鞋子出样的塞模具。分为掌楦、跟楦和大小厚薄不等的楔。  

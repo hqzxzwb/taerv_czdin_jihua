@@ -1509,12 +1509,12 @@
 1. 【[㞠礓<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jian_r.md#㞠礓<sub>儿</sub>)】`lio2 jian3 r` <sup>[兴化]</sup> 小便的贬义说法：射～。  
 1. 【[僚气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_qi.md#僚气)】`lio2 qi5` <sup>[兴化]</sup> （戏）官僚作风、官气：别看他官不大，～十足。  
 1. 【[嫽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#嫽)】`lio2` <sup>[泰州]</sup> 相互戏弄嬉闹：几个细小伙一蹾做块ㄦ，不是你～他，就是他～你，～得不好就哭，中觉都捱他俫吵掉啊。  
-1. 【[嫽拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_buh.md#嫽拨)】`lio2 buh7` <sup>[如皋]</sup> 撩拨。  
 1. 【[嫽嫽搭搭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_lio_daeh_daeh.md#嫽嫽搭搭)】`lio2 lio2 daeh7 daeh7` <sup>[泰州]</sup> 儿童之间相互戏弄嬉闹而斗殴的行为：你俫这些伢儿要玩就在做块儿好好的玩，不要～的，弄吖哭起来！  
 1. 【[嫽人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren.md#嫽人)】`lio2 ren2` <sup>[如皋]</sup> 见“嫽骚”。  
 1. 【[嫽人眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_ren_ngaen.md#嫽人眼)】`lio2 ren2 ngaen3` <sup>[如皋]</sup> 能挑逗的眼睛。  
 1. 【[嫽骚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_so.md#嫽骚)】`lio2 so1` <sup>[如皋]</sup> 卖弄风情、挑逗异性。  
 1. 【[撩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio.md#撩)】`lio2` <small>/liɔ2/<sup>兴化</sup>, /niɔ2/<sup>泰县</sup></small> ① 挑逗、戏弄<sup>\[兴化\]</sup>：他容易当真，覅～他。兴化词典作“嫽”，《广韵·萧韵》落萧切“～，相～戏也”。<sup>\[兴化\]</sup> ② 勾引。<sup>\[泰县\]</sup> ③ 通过言行挑逗以引发对方愤怒<sup>\[泰州\]</sup>：他这一刻ㄦ才稍微消啊点气，你不要再去～他发火。<sup>\[泰州\]</sup> ④ 挑逗以引发对方欲望<sup>\[泰州\]</sup>：他说戒烟就戒烟，几个吃烟的人天天～他，他也不睬。<sup>\[泰州\]</sup> ⑤ 通过暧昧言行勾引人<sup>\[泰州\]</sup>：外头谣言讲吖翻掉啊，说这个马马儿不一当，老是～你家先生。<sup>\[泰州\]</sup>  
+1. 【[撩拨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_buh.md#撩拨)】`lio2 buh7` <small>/liɔ2 pʊʔ7/<sup>如皋</sup>, /liɔ2 pʊʔ7/<sup>泰兴</sup></small> 撩拨。<sup>\[如皋\]</sup>\[泰兴：引逗，挑动；招惹；挑唆。\]：“老和尚还皮着脸～她几句，杜氏一句话也不来招揽。”（《初刻拍案惊奇》卷26）<sup>\[泰兴\]</sup>  
 1. 【[撩的搏狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_dii_bah_geu.md#撩的搏狗)】`lio2 dii bah7 geu3` <small>/niɔ2 tiɪʔ pɑʔ7 kɤɯ3/<sup>泰县</sup></small> 勾引、引诱<sup>\[泰县\]</sup>：你又～的，把伢儿弄哭起来啊。<sup>\[泰县\]</sup>  
 1. 【[撩金（筋）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金（筋）)】`lio2 jien1` <sup>[如皋]</sup> 猪舌。  
 1. 【[撩金](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lio_jien.md#撩金)】`lio2 jien1` <small>/liɔ2 t͡ɕin1/<sup>兴化</sup>, /liɔ2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 猪舌。本作“筋”，改为“金”吉语。<sup>\[如皋\]</sup> ② 猪舌。也称“口条”。<sup>\[兴化\]</sup>  
