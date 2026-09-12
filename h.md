@@ -2406,9 +2406,9 @@
 1. 【[呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv.md#呼)】`hv1` <sup>[如东]</sup> 小睡：我在椅子上～刻儿。  
 1. 【[……呼啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_a.md#……呼啊)】`hv1 a` <sup>[东台]</sup> （作补语）指到了极点：这莱难吃咖～｜这段路难跑啊～｜他的歌儿好听吖～  
 1. 【[呼剥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_bah.md#呼剥)】`hv1 bah7` <sup>[泰县]</sup> 急忽忽：你倒～。  
-1. 【[呼嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chi.md#呼嗤)】`hv1 chi1` <sup>[兴化]</sup> 象声词，喘气的声音：新女婿上门，把老两口忙得～～的。  
+1. 【[呼嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chr.md#呼嗤)】`hv1 chr1` <small>/xu1 t͡sʰɿ1/<sup>兴化</sup></small> 象声词，喘气的声音<sup>\[兴化\]</sup>：新女婿上门，把老两口忙得～～的。<sup>\[兴化\]</sup>  
 1. 【[呼打流星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_da_lieu_xien.md#呼打流星)】`hv1 da3 lieu2 xien1` <sup>[如皋]</sup> 形容熟睡打呼噜。常作补语：他睡得～的。  
-1. 【[呼而塌嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_taeh_chi.md#呼而塌嗤)】`hv1 er taeh7 chi1` <sup>[兴化]</sup> 形容酣睡的样子：他一上床就～的睏着咖。  
+1. 【[呼而塌嗤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_taeh_chr.md#呼而塌嗤)】`hv1 er taeh7 chr1` <small>/xu1 ɚ tʰæʔ7 t͡sʰɿ1/<sup>兴化</sup></small> 形容酣睡的样子<sup>\[兴化\]</sup>：他一上床就～的睏着咖。<sup>\[兴化\]</sup>  
 1. 【[呼家庄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ga_zhuan.md#呼家庄)】`hv1 ga1 zhuan1` <sup>[如东]</sup> 比喻睡觉：王二已经上吖～。  
 1. 【[呼吆喝六](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_io_huh_loh.md#呼吆喝六)】`hv1 io1 huh7 loh8` <sup>[兴化]</sup> ① 掷骰时的喊声（么、六是骰子的点子），泛指赌博时的喧闹声。 ② 形容盛气凌人的样子：（倪善继）见老子病势沉重，料是不起，便～，打童骂仆，预先装出家主公的架子来。（《古今小说》十）  
 1. 【[呼啦呼啦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_la_hv_la.md#呼啦呼啦)】`hv1 la1 hv1 la1` <small>/fʋ1 lɑ1 fʋ1 lɑ1/<sup>泰兴</sup></small> 象声词。形容风声、熟睡的呼吸声等声音。<sup>\[泰兴\]</sup>：睡得～的<sup>\[泰兴\]</sup>  
@@ -2504,7 +2504,6 @@
 1. 【[餬嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_zuei.md#餬嘴)】`hv2 zuei3` <sup>[兴化]</sup> 勉强维持生活：我踏三轮车为的是～。也作“餬口”。  
 1. 【[虎杖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chan.md#虎杖)】`hv3 chan6` <sup>[如东]</sup> 蓼科植物虎杖，多年生草本。  
 1. 【[虎朝屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cho_oh.md#虎朝屋)】`hv3 cho2 oh7` <sup>[如东]</sup> 大门开在山墙上的房屋，前顶尖形，后顶圆形。也称虎头屋、虎山头。  
-1. 【[虎齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_chr.md#虎齿)】`hv3 chr3` <sup>[如皋]</sup> 犬齿。  
 1. 【[虎刺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_cz.md#虎刺)】`hv3 cz5` <sup>[如东]</sup> 茜草科植物虎刺，常绿小灌木。  
 1. 【[虎耳草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_er_co.md#虎耳草)】`hv3 er3 co3` <sup>[如东]</sup> 虎耳草科植物虎耳草，多年生草本。  
 1. 【[虎也似的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/hv_ia_shr_dii.md#虎也似的)】`hv3 ia3 shr6 dii` <sup>[泰州]</sup> 像老虎一样气势汹汹的样子：他～奔上来就要动手。  
