@@ -973,7 +973,7 @@
 1. 【[清归清，楚归楚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_guei_qien_chv.md#清归清，楚归楚)】`qien1 guei1 qien1 chv3 guei1 chv3` <small>/t͡ɕʰiŋ1 kuəɪ1 t͡ɕʰiŋ1 t͡sʰu3 kuəɪ1 t͡sʰu3/<sup>泰兴</sup></small> 谓两部分分开，互不牵扯。清清楚楚，明明白白。<sup>\[泰兴\]</sup>  
 1. 【[清官难断家务事](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_gun_naen_dun.md#清官难断家务事)】`qien1 gun1 naen2 dun5 jia1 v shr6` <small>/t͡ɕʰiŋ1 kʊ̃1 nɛ̃2 tʊ̃5 t͡ɕiɑ1 ʋ sɿ1/<sup>泰兴</sup></small> ① 家庭的矛盾很难说谁是谁非，最好和为贵。<sup>\[东台\]</sup> ② 谓家务事错综复杂，虽廉洁公正的官吏亦难论断其是非。<sup>\[泰兴\]</sup>  
 1. 【[清火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu.md#清火)】`qien1 hu3` <small>/t͡ɕʰin1 xo3/<sup>兴化</sup></small> ① 某些食品性凉，食之可去除体内火气<sup>\[兴化\]</sup>：煮熟的荸荠是～的。也作“去火”。<sup>\[兴化\]</sup> ② 中医术语，去除体内火气。<sup>\[泰州\]</sup>  
-1. 【[清火汏凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_tae_lian.md#清火汏凉)】`qien1 hu3 tae6 lian2` <sup>[兴化]</sup> 去除火气，降低体温：开一剂～的方子，让病人吃下去睡一觉。  
+1. 【[清火待凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_tae_lian.md#清火待凉)】`qien1 hu3 tae6 lian2` <sup>[兴化]</sup> 去除火气，降低体温：开一剂～的方子，让病人吃下去睡一觉。  
 1. 【[清火淡凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_hu_taen_lian.md#清火淡凉)】`qien1 hu3 taen6 lian2` <small>/t͡ɕʰiŋ1 xɤɯ3 tʰɛ̃1 liɑŋ2/<sup>泰兴</sup></small> 消除热闷之气、炎症，恢复正常，舒畅愉快。<sup>\[泰兴\]</sup>  
 1. 【[清雅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ia.md#清雅)】`qien1 ia3` <sup>[兴化]</sup> 形容清秀雅致：新房布置得蛮～的。｜那马胜胜虽不比得马琼琼标致，却也毫无俗韵，～过人。（《二湖二集》十一）  
 1. 【[清一色](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qien_ieh_seh.md#清一色)】`qien1 ieh7 seh7` <sup>[泰州]</sup> ① 麻将属于，指由一种花色组成的一副牌。 ② 全部是同一个类型：我俫单位20多个人没得一个男的，～的女同胞。  
