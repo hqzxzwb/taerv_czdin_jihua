@@ -622,7 +622,6 @@
 1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
 1. 【[胎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#胎气)】`tae1 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 孕妇气血运行的情况。<sup>\[泰兴\]</sup>  
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
-1. 【[苔啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#苔啊凉)】`tae1 a lian2` <sup>[如皋]</sup> 见“苔凉”。  
 1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
 1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂，松垂的样子<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup><sup>\[如东\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup>｜绳索从树上～下来。<sup>\[如东\]</sup> ④ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
@@ -636,6 +635,9 @@
 1. 【[台容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ion.md#台容)】`tae2 ion2` <sup>[兴化]</sup> （借）指人的模样：她这副～晚上出来还把人吓咖唻！  
 1. 【[台基](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ji.md#台基)】`tae2 ji1` <sup>[兴化]</sup> 旧时供婚外男女幽会或私娼卖淫的场所，上～｜（她）有时也出外卖淫，所有城外许多～，大约没有个不见姚氏踪迹。（《广陵潮》六九）  
 1. 【[台面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_min.md#台面)】`tae2 min6` <small>/tʰɛ2 miɪ̃6/<sup>兴化</sup>, /tʰɛ2 mĩ1/<sup>如皋</sup>, /tʰɛ2 mĩ1/<sup>泰兴</sup></small> ① 正式的、严肃的场合。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：搬不上～<sup>\[泰兴\]</sup> ② 桌面。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup> ③ 公开的或交际应酬的场合<sup>\[兴化\]</sup>：说话要捧得上～。<sup>\[兴化\]</sup>｜你也买件把新衣壮壮～。<sup>\[兴化\]</sup> ④ 筵席间<sup>\[兴化\]</sup>：见面之后，留吃夜饭；～上只有他郎舅、叔侄三个人说的话……（《官场现形记》二）<sup>\[兴化\]</sup>  
+1. 【[台面上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_min_shan.md#台面上)】`tae2 min6 shan` <sup>[泰州]</sup> 桌面上，比喻公开场合：你俫有话摆到～说。  
+1. 【[台鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ngaeh.md#台鸭)】`tae2 ngaeh7` <small>/tʰɛ2 æʔ7/<sup>兴化</sup>, /tʰɛ2 ŋeʔ7/<sup>如皋</sup>, /tʰe2 æʔ7/<sup>泰县</sup></small> 一种体型肥大的鸭子。有时用于比喻肥胖者。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：养得像个～。<sup>\[如皋\]</sup>｜她胖吖像个～。<sup>\[东台\]</sup>｜她胖得像个～。<sup>\[兴化\]</sup>  
+1. 【[台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#台盘)】`tae2 pun2` <small>/tʰɛ2 pʰũ2/<sup>兴化</sup>, /tʰɛ2 pʰʊ̃2/<sup>如皋</sup></small> ① 比喻正式场合<sup>\[如皋\]</sup><sup>\[东台\]</sup>：他说的话句句搬得上～。<sup>\[如皋\]</sup>｜捧不上～。<sup>\[东台\]</sup> ② 应酬交际的场合<sup>\[兴化\]</sup>：妻兄上不得～，就在房里吃吧！<sup>\[兴化\]</sup>｜“……况且既没有好衣服穿，自然上不了～……”（《老残游记》二四）<sup>\[兴化\]</sup>  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  
