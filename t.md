@@ -23,7 +23,6 @@
 1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
 1. 【[胎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#胎气)】`tae1 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 孕妇气血运行的情况。<sup>\[泰兴\]</sup>  
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
-1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
 1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂，松垂的样子<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup><sup>\[如东\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup>｜绳索从树上～下来。<sup>\[如东\]</sup> ④ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
@@ -141,6 +140,7 @@
 1. 【[大气形](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi_xien.md#大气形)】`tae6 qi5 xien2` <sup>[如皋]</sup> 落落大方、待人宽厚的样子。  
 1. 【[大蒜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_sun.md#大蒜)】`tae6 sun5` <small>/tʰɛ1 sʊ̃/<sup>泰兴</sup>, /tʰe1 sõ5/<sup>泰县</sup></small> 大蒜。<sup>\[泰县\]</sup><sup>\[泰兴\]</sup>  
 1. 【[待啊凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_a_lian.md#待啊凉)】`tae6 a lian2` <sup>[如皋]</sup> 见“待凉”。  
+1. 【[待凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#待凉)】`tae6 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
 1. 【[待慢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_maen.md#待慢)】`tae6 maen6` <sup>[泰州]</sup> 待慢，接待人不周到。  
 1. 【[待媒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_mei.md#待媒)】`tae6 mei2` <small>/tʰɛ6 məi2/<sup>兴化</sup>, /tʰɛ1 məɪ2/<sup>泰兴</sup></small> ① 宴请媒人，表示谢意<sup>\[兴化\]</sup>：媒人在婚前及喜日是受人尊重的。无论贫富，请家要请吃三顿酒，请媒酒、～酒和谢媒酒。（马春阳《扬州水乡婚俗散记》）<sup>\[兴化\]</sup> ② 民俗。招待媒人。多指新婚前的主要的一次。<sup>\[泰兴\]</sup>  
 1. 【[待女](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ny.md#待女)】`tae6 ny3` <sup>[东台]</sup> 姑娘出嫁前一天的酒席。这一天男方称“暖轿”。  

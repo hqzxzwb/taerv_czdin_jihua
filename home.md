@@ -622,7 +622,6 @@
 1. 【[胎盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#胎盘)】`tae1 pun2` <sup>[如东]</sup> 健康人的胎盘，又名紫河车。  
 1. 【[胎气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qi.md#胎气)】`tae1 qi5` <small>/tʰɛ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> 孕妇气血运行的情况。<sup>\[泰兴\]</sup>  
 1. 【[胎生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_shen.md#胎生)】`tae1 shen1` <sup>[如东]</sup> ① 先天：～如此。 ② 比喻根本：这个人～不好。  
-1. 【[苔凉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_lian.md#苔凉)】`tae1 lian2` <sup>[如皋]</sup> 回归正常体温：以手试额，额凉如苔，不发热咖，～吖。  
 1. 【[𢪯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae.md#𢪯)】`tae1` <small>/tʰɛ1/<sup>如皋</sup>, /tʰɛ1/<sup>泰兴</sup></small> ① 拖着，垂着，趿拉着 ② 松垂，松垂的样子<sup>\[如皋\]</sup>：绳子有点儿～。<sup>\[如皋\]</sup> ③ 下垂<sup>\[如皋\]</sup><sup>\[如东\]</sup>：狐狸精～尾巴；带子～到地。<sup>\[如皋\]</sup>｜绳索从树上～下来。<sup>\[如东\]</sup> ④ 向下垂。<sup>\[泰兴\]</sup>  
 1. 【[𢪯板<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_baen_r.md#𢪯板<sub>儿</sub>)】`tae1 baen3 r` ① 拖鞋 ② 一种木板儿拖鞋，前头有一个环套。通称𢪯板儿。<sup>\[如东\]</sup>  
 1. 【[𢪯裆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_dan.md#𢪯裆)】`tae1 dan1` <sup>[如皋]</sup> 裤裆大而下垂。  
@@ -638,6 +637,7 @@
 1. 【[台面上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_min_shan.md#台面上)】`tae2 min6 shan` <sup>[泰州]</sup> 桌面上，比喻公开场合：你俫有话摆到～说。  
 1. 【[台鸭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_ngaeh.md#台鸭)】`tae2 ngaeh7` <small>/tʰɛ2 æʔ7/<sup>兴化</sup>, /tʰɛ2 ŋeʔ7/<sup>如皋</sup>, /tʰe2 æʔ7/<sup>泰县</sup></small> 一种体型肥大的鸭子。有时用于比喻肥胖者。<sup>\[如皋\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup>：养得像个～。<sup>\[如皋\]</sup>｜她胖吖像个～。<sup>\[东台\]</sup>｜她胖得像个～。<sup>\[兴化\]</sup>  
 1. 【[台盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_pun.md#台盘)】`tae2 pun2` <small>/tʰɛ2 pʰũ2/<sup>兴化</sup>, /tʰɛ2 pʰʊ̃2/<sup>如皋</sup></small> ① 比喻正式场合<sup>\[如皋\]</sup><sup>\[东台\]</sup>：他说的话句句搬得上～。<sup>\[如皋\]</sup>｜捧不上～。<sup>\[东台\]</sup> ② 应酬交际的场合<sup>\[兴化\]</sup>：妻兄上不得～，就在房里吃吧！<sup>\[兴化\]</sup>｜“……况且既没有好衣服穿，自然上不了～……”（《老残游记》二四）<sup>\[兴化\]</sup>  
+1. 【[台球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tae_qieu.md#台球)】`tae2 qieu2` <sup>[如皋]</sup> 乒乓球的老派称法。  
 [更多...](./t.md)
 ## U
 1. 【[唩啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/u_lu.md#唩啰)】`u lu` <sup>[如东]</sup> 呼狗声。  
