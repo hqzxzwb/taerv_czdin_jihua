@@ -7,6 +7,8 @@ description: Use when editing or adding dictionary entries in the taerv_czdin_ji
 
 Use this skill when modifying this repository's dictionary entry files.
 
+For identifying characters in scanned sources through OCR, doubtful-character lookup, or candidate glyph comparison, use [taerv-character-identification](../taerv-character-identification/SKILL.md).
+
 ## Editing principle
 
 Check the surrounding file and entry before editing. This project currently has two marker styles, and both are valid in existing files:
