@@ -313,6 +313,11 @@ def 兴化(cz, pien_ien):
   elif shen in ['j', 'q', 'x'] and gae == 'y' and yen == 'en':
     shen = shih_jin_hua[shen]
     gae = 'u'
+  elif shen == 'r' and gae == 'u' and yen == 'en':
+    shen = ''
+    gae = 'y'
+    if tio == '6':
+      tio = '5'
 
   if gae == 'i' and yen in ['un', 'uh']:
     gae = 'y'
