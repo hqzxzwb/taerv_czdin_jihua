@@ -1271,7 +1271,7 @@
 1. 【[充好汉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ho_hun.md#充好汉)】`chon1 ho3 hun5` <sup>[如皋]</sup> 勉力装场面，摆阔气。  
 1. 【[充好佬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ho_lo.md#充好佬)】`chon1 ho3 lo3` <sup>[如皋]</sup> 充好汉。  
 1. 【[充饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_ji.md#充饥)】`chon1 ji1` <sup>[如东]</sup> 不加选择的吃一点儿食物对付饥饿。  
-1. 【[充军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jyen.md#充军)】`chon1 jyen1` <small>/t͡sʰoŋ1 t͡ɕyn1/<sup>兴化</sup>, /t͡sʰɔŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① （借）骂人的话，谓跑远路或跑错了路<sup>\[兴化\]</sup>：为找个秘方，今朝～到荡朱荒草田里转吖半天。<sup>\[兴化\]</sup> ② 骂人到处乱走，詈语<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：这两天望不见他人，不晓得在哪块～。<sup>\[泰州\]</sup>  
+1. 【[充军](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_jyen.md#充军)】`chon1 jyen1` <small>/t͡sʰoŋ1 t͡suən1/<sup>兴化</sup>, /t͡sʰɔŋ1 t͡ɕyəŋ1/<sup>泰兴</sup></small> ① （借）骂人的话，谓跑远路或跑错了路<sup>\[兴化\]</sup>：为找个秘方，今朝～到荡朱荒草田里转吖半天。<sup>\[兴化\]</sup> ② 骂人到处乱走，詈语<sup>\[泰州\]</sup><sup>\[泰兴\]</sup><sup>\[东台\]</sup>：这两天望不见他人，不晓得在哪块～。<sup>\[泰州\]</sup>  
 1. 【[充量](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_lian.md#充量)】`chon1 lian6` <small>/t͡sʰɔŋ1 liɑŋ1/<sup>泰兴</sup></small> 犹言过量。谓超出实际的限度。<sup>\[泰兴\]</sup>：今朝喝酒喝咖充吖量<sup>\[泰兴\]</sup>  
 1. 【[充老相](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_lo_xian.md#充老相)】`chon1 lo3 xian5` <sup>[如皋]</sup> 见“充能”。  
 1. 【[充能](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/c/chon_nen.md#充能)】`chon1 nen2` <small>/t͡sʰɔŋ1 nəŋ2/<sup>如皋</sup></small> 责备出头做某种难事者的用语<sup>\[如皋\]</sup>：你去～有甚的好处哇？<sup>\[如皋\]</sup>  

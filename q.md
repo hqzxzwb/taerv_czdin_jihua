@@ -18,7 +18,7 @@
 1. 【[期朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zho.md#期朝)】`qi1 zho1` <small>/t͡ɕʰʝ1 t͡sɔ1/<sup>泰兴</sup></small> 以后，将来<sup>\[泰兴\]</sup>  
 1. 【[欺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#欺)】`qi1` <small>/t͡ɕʰʝ1/<sup>泰兴</sup></small> 常指高秆植物影响低秆或无秆植物的生长<sup>\[泰兴\]</sup>  
 1. 【[欺不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_tio.md#欺不掉)】`qi1 beh7 tio6` <sup>[东台]</sup> 一般人比不上：忙菜～烹调学校毕业生。  
-1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <small>/t͡ɕʰi1 ko pʰaʔ8 ko/<sup>兴化</sup></small> 待人不公平<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：搞评比要公平合理，不能～。<sup>\[兴化\]</sup>｜当领导的办事要公道，不能这样子～的。<sup>\[泰州\]</sup>  
+1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <small>/t͡ɕʰi1 kɤ pʰaʔ8 kɤ/<sup>兴化</sup></small> 待人不公平<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：搞评比要公平合理，不能～。<sup>\[兴化\]</sup>｜当领导的办事要公道，不能这样子～的。<sup>\[泰州\]</sup>  
 1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺软怕硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run_pa_ngen.md#欺软怕硬)】`qi1 run3 pa5 ngen6` <small>/t͡ɕʰʝ1 ɻʊ̃3 pʰɑ5 ŋəŋ1/<sup>泰兴</sup></small> 欺负软弱的；惧怕强硬的。<sup>\[泰兴\]</sup>  
@@ -584,7 +584,7 @@
 1. 【[七个八个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_gu.md#七个八个)】`qieh7 gu baeh7 gu` <sup>[兴化]</sup> 牵缠、拉扯：你覅听他～的乱说一气。｜“……他一个堂客家，我怎好同他～的？”（《儒林外史》五四）  
 1. 【[七个八杂的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_zaeh.md#七个八杂的)】`qieh7 gu baeh7 zaeh dii` <sup>[如皋]</sup> 见“七七八八的”。  
 1. 【[七个厨子八个客，忙煞厨子饿煞客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_chv_zz.md#七个厨子八个客，忙煞厨子饿煞客)】`qieh7 gu chv2 zz baeh7 gu keh7 man2 shaeh7 chv2 zz ngu6 shaeh7 keh7` <sup>[东台]</sup> 形容服务人员多，效率低。  
-1. 【[七个三，八个四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh.md#七个三，八个四)】`qieh7 gu saen1 baeh7 gu sz5` <small>/t͡ɕʰiəʔ7 ko sɛ̃1 pæʔ7 ko sɿ5/<sup>兴化</sup>, /t͡ɕʰiəʔ7 kɤɯ ɕiɛ̃1 pæʔ7 kɤɯ sɿ5/<sup>泰兴</sup></small> 谓语言啰里啰唆、乱七八糟的<sup>\[泰兴\]</sup><sup>\[东台\]</sup>\[兴化：参见“七十三，八十四”\]：～的<sup>\[东台\]</sup>  
+1. 【[七个三，八个四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_saen_baeh.md#七个三，八个四)】`qieh7 gu saen1 baeh7 gu sz5` <small>/t͡ɕʰiəʔ7 kɤ sɛ̃1 pæʔ7 kɤ sɿ5/<sup>兴化</sup>, /t͡ɕʰiəʔ7 kɤɯ ɕiɛ̃1 pæʔ7 kɤɯ sɿ5/<sup>泰兴</sup></small> 谓语言啰里啰唆、乱七八糟的<sup>\[泰兴\]</sup><sup>\[东台\]</sup>\[兴化：参见“七十三，八十四”\]：～的<sup>\[东台\]</sup>  
 1. 【[七个铜钞平半分——不三不四](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_ton_cho.md#七个铜钞平半分——不三不四)】`qieh7 gu ton2 cho5 pien2 bun5 fen1 beh7 saen1 beh7 sz5` <sup>[东台]</sup>   
 1. 【[七股八杂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_zaeh.md#七股八杂)】`qieh7 gu baeh7 zaeh7` <sup>[如东]</sup> 许多东西，乱七八糟：～的一大堆。  
 1. 【[七个八个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieh_gu_baeh_gu.md#七个八个)】`qieh7 gu5 baeh7 gu5` <sup>[泰州]</sup> ① 七个八个之间。 ② 男女之间暧昧：你不要同她～的，当心她家男将晓得咯！ ③ 泛指纠缠争论不休：你同我～的不得用，你有本事找老板去！ ④ 说话之时夹杂不洁字眼：请你放吖规矩点儿，嘴里不要～的！  

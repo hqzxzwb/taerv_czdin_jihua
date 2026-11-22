@@ -1732,7 +1732,7 @@
 1. 【[𢵮屁股](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyeh_pi_gu.md#𢵮屁股)】`jyeh7 pi5 gu` <sup>[如皋]</sup> 指屁股向上翘起。  
 1. 【[军师](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_shr.md#军师)】`jyen1 shr1` <sup>[东台]</sup> 旧时指在军中担任谋划的要职，现泛指给人出主意的人：他身旁需要一个～。  
 1. 【[君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_zz.md#君子)】`jyen1 zz3` <sup>[东台]</sup> ① （名词）指人格高尚的人：不要以小人之心度～之腹。 ② （形容词）老实、正派：他交关～｜交友要交～人。  
-1. 【[君子人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_zz_ren.md#君子人)】`jyen1 zz3 ren2` <small>/t͡ɕyn1 t͡sɿ3 lən2/<sup>兴化</sup></small> 品格端方，讲究信用的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老胡是个～，从来不失信于人。语出《论语·泰伯》<sup>\[兴化\]</sup>｜“～与？～也。”这里是套用。<sup>\[兴化\]</sup>｜他是～，借你的钱会按时还的。<sup>\[泰州\]</sup>  
+1. 【[君子人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_zz_ren.md#君子人)】`jyen1 zz3 ren2` <small>/t͡suən1 t͡sɿ3 lən2/<sup>兴化</sup></small> 品格端方，讲究信用的人<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：老胡是个～，从来不失信于人。语出《论语·泰伯》<sup>\[兴化\]</sup>｜“～与？～也。”这里是套用。<sup>\[兴化\]</sup>｜他是～，借你的钱会按时还的。<sup>\[泰州\]</sup>  
 1. 【[君子动口不动手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_zz_ton_keu.md#君子动口不动手)】`jyen1 zz3 ton6 keu3 beh7 ton6 sheu3` <sup>[东台]</sup> 有素质的人不会轻易粗暴动手。  
 1. 【[均等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_den.md#均等)】`jyen1 den3` <sup>[东台]</sup> 平均；相等：机会～。  
 1. 【[均摊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jyen_taen.md#均摊)】`jyen1 taen1` <sup>[东台]</sup> 平均分摊：费用按户～。  

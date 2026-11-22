@@ -401,7 +401,7 @@
 1. 【[炸炒米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_cho_mi.md#炸炒米)】`zha5 cho3 mi3` <small>/t͡sa5 t͡sʰɔ3 mi3/<sup>兴化</sup>, /t͡sa5 t͡sʰɔ3 mɿ3/<sup>泰县</sup></small> ① 用炒米机膨化大米。<sup>\[东台\]</sup> ② 爆米花。<sup>\[兴化\]</sup><sup>\[泰县\]</sup>  
 1. 【[炸箍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_gv.md#炸箍)】`zha5 gv1` <sup>[兴化]</sup> ① 木桶的箍因过紧而开裂：谚曰：箍紧必炸。 ② 箍成木桶的板块因干燥收缩而脱落。  
 1. 【[炸金花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_jien_hua.md#炸金花)】`zha5 jien1 hua1` <small>/t͡sɑ5 t͡ɕiŋ1 xuɑ1/<sup>泰兴</sup></small> 扑克娱乐形式之一。有时用于赌博。<sup>\[泰兴\]</sup>  
-1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_luei.md#炸雷)】`zha5 luei2` <small>/t͡sa5 luəi2/<sup>兴化</sup></small> ① 雷声就像爆竹一样在附近炸响，清脆而响亮。<sup>\[如东\]</sup> ② 近处发生闪电而产生的巨响。<sup>\[兴化\]</sup>  
+1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_luei.md#炸雷)】`zha5 luei2` <small>/t͡sa5 ləi2/<sup>兴化</sup></small> ① 雷声就像爆竹一样在附近炸响，清脆而响亮。<sup>\[如东\]</sup> ② 近处发生闪电而产生的巨响。<sup>\[兴化\]</sup>  
 1. 【[炸雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ly.md#炸雷)】`zha5 ly2` <sup>[如皋]</sup> 雷声极响，惊天动地。  
 1. 【[炸麻串](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ma_chun.md#炸麻串)】`zha5 ma2 chun5` <sup>[东台]</sup> （堤东口音中串若团，去声）正月半民俗，用柴草扎成把子点燃后沿着田埂河边舞动。既是呼应普天同庆的元宵灯火，也是祈求新年丰收红火。童谣：“正月半，～，拾个穗头称斤半，爹爹称，奶奶看。”  
 1. 【[炸麻花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zha_ma_hua.md#炸麻花)】`zha5 ma2 hua1` <sup>[兴化]</sup> 爆玉米花。  

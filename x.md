@@ -675,7 +675,7 @@
 1. 【[响钉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_dien.md#响钉)】`xian3 dien1` <small>/ɕiɑŋ3 tiŋ1/<sup>泰兴</sup></small> 丧俗之一。死者装殓加盖后以长钉将棺封死。加钉的过程曰“响钉”，子女亲属跪哭号丧。<sup>\[泰兴\]</sup>  
 1. 【[响活](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_huh.md#响活)】`xian3 huh` <small>/ɕiã3 xʊʔ/<sup>如皋</sup></small> 夜间或白天幽静中意外出现的细微响声或动静<sup>\[如皋\]</sup>：我一个人在家里，夜里一有啊～就没法对付咯。<sup>\[如皋\]</sup>  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2, xian3 ly2` 打雷  
-1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <small>/ɕiaŋ3 luəi2/<sup>兴化</sup>, /ɕiɑŋ3 ləɪ2/<sup>泰兴</sup></small> 打雷<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：刚过春节就～。<sup>\[如东\]</sup>｜外头～啊，快点儿进来。<sup>\[兴化\]</sup>  
+1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_luei.md#响雷)】`xian3 luei2` <small>/ɕiaŋ3 ləi2/<sup>兴化</sup>, /ɕiɑŋ3 ləɪ2/<sup>泰兴</sup></small> 打雷<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：刚过春节就～。<sup>\[如东\]</sup>｜外头～啊，快点儿进来。<sup>\[兴化\]</sup>  
 1. 【[响雷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly.md#响雷)】`xian3 ly2` <small>/ɕiã3 ly2/<sup>如皋</sup></small> 打雷。<sup>\[如皋\]</sup><sup>\[泰州\]</sup>  
 1. 【[响雷辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_chen.md#响雷辰)】`xian3 ly2 chen2` <sup>[如皋]</sup> 打雷。  
 1. 【[响雷打头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xian_ly_da_teu.md#响雷打头)】`xian3 ly2 da3 teu2` ① 指做了不道德的事，要遭老天惩罚。这是古人对道德、法律必须敬畏的意识<sup>\[东台\]</sup>：不孝父母会～<sup>\[东台\]</sup>｜糟蹋粮食要～。<sup>\[东台\]</sup> ② 雷击脑袋，亦即被雷劈死，旧时家长用来教育儿童不可糟蹋、浪费粮食之词，意谓如果糟蹋、浪费粮食，雨天响雷之时就会被雷劈死<sup>\[泰州\]</sup>：饭吃不掉，下顿热咖子哉再吃，你把它倒掉，就不怕～！<sup>\[泰州\]</sup>  
@@ -2018,7 +2018,7 @@
 1. 【[魆头经](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh_teu_jien.md#魆头经)】`xyeh7 teu jien1` <sup>[东台]</sup> 鬼花样；鬼花招。  
 1. 【[𢬮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyeh.md#𢬮)】`xyeh7` <small>/ɕyəʔ7/<sup>兴化</sup>, /ɕyəʔ7/<sup>如皋</sup></small> ① 衣料磨损、将要坏<sup>\[如皋\]</sup>：布边子～咖；裤子的屁股后头同膝头最容易～。<sup>\[如皋\]</sup> ② 编织成布或者绞成线、绳的纱，丝、线散开来。<sup>\[东台\]</sup>：裤脚绿边就不会～<sup>\[东台\]</sup>｜绳头要打个结，防止～掉。<sup>\[东台\]</sup> ③ 物体边缘腐朽变脆或起毛<sup>\[兴化\]</sup>：这副木头窗子～动吖。<sup>\[兴化\]</sup>｜这件大衣边子～掉啊。<sup>\[兴化\]</sup>  
 1. 【[熏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen.md#熏)】`xyen1` <sup>[如东]</sup> 一种烹调方法。把鱼、肉之类荤菜放在油中煎熟或放在火上烤熟。  
-1. 【[熏烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_sho.md#熏烧)】`xyen1 sho1` <small>/ɕyn1 sɔ1/<sup>兴化</sup></small> ① 用各种作料腌炸熏烤制成的食品的总称。<sup>\[东台\]</sup> ② 由精、牛肉，鸡、鸭、鹅及其内脏加调料熏煮而成的卤菜<sup>\[兴化\]</sup>：……他就在保全堂药店廊檐下摆一个～摊子。～就是卤味。（汪曾祺《异秉》）也称“烧腊”。<sup>\[兴化\]</sup> ③ 烟熏火烧。<sup>\[泰州\]</sup> ④ 经过熏烧加工过的肉类食品。<sup>\[泰州\]</sup>  
+1. 【[熏烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_sho.md#熏烧)】`xyen1 sho1` <small>/suən1 sɔ1/<sup>兴化</sup></small> ① 用各种作料腌炸熏烤制成的食品的总称。<sup>\[东台\]</sup> ② 由精、牛肉，鸡、鸭、鹅及其内脏加调料熏煮而成的卤菜<sup>\[兴化\]</sup>：……他就在保全堂药店廊檐下摆一个～摊子。～就是卤味。（汪曾祺《异秉》）也称“烧腊”。<sup>\[兴化\]</sup> ③ 烟熏火烧。<sup>\[泰州\]</sup> ④ 经过熏烧加工过的肉类食品。<sup>\[泰州\]</sup>  
 1. 【[巡访](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_fan.md#巡访)】`xyen2 fan3` <sup>[东台]</sup> 巡查访问。  
 1. 【[循家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_ga.md#循家)】`xyen2 ga1` <sup>[如东]</sup> 玩耷子和，三人打牌，一人休息，休息之人称循家。  
 1. 【[驯和](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xyen_hu.md#驯和)】`xyen2 hu2` <sup>[如皋]</sup> 驯服柔和，柔顺，用于状下级、晚辈。  

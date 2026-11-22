@@ -1178,7 +1178,7 @@
 1. 【[裹鸭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ngaeh_zz.md#裹鸭子)】`gu3 ngaeh7 zz` <sup>[如皋]</sup> 见“裹饺儿”。  
 1. 【[裹粽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zon_zz.md#裹粽子)】`gu3 zon5 zz` <small>/kɤɯ3 t͡sɔŋ5 t͡sɿ/<sup>泰兴</sup></small> 制作粽子。<sup>\[泰兴\]</sup>  
 1. 【[裹嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_zuei.md#裹嘴)】`gu3 zuei3` <small>/ko3 t͡suəi3/<sup>兴化</sup>, /kɤɯ3 t͡suəɪ3/<sup>泰兴</sup></small> ① 争气，不负尊长所望<sup>\[兴化\]</sup>：这个小伙真不～，进货的两千块捱他一夜头输得精光。<sup>\[兴化\]</sup> ② 争气，不负众望<sup>\[泰兴\]</sup>  
-1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <small>/ko5 pa/<sup>兴化</sup>, /kɤɯ5 pɑ/<sup>泰兴</sup></small> 约数，很少，一个左右<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今吖来的人不多，只有～两个。<sup>\[兴化\]</sup>｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）<sup>\[兴化\]</sup>｜今朝只有～两个人。<sup>\[泰兴\]</sup>  
+1. 【[个把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba.md#个把)】`gu5 ba` <small>/kɤ5 pa/<sup>兴化</sup>, /kɤɯ5 pɑ/<sup>泰兴</sup></small> 约数，很少，一个左右<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：今吖来的人不多，只有～两个。<sup>\[兴化\]</sup>｜便叫船家把船撑往西溪。不上～时辰到了，泊船在岸。（《初刻》三四）<sup>\[兴化\]</sup>｜今朝只有～两个人。<sup>\[泰兴\]</sup>  
 1. 【[个把两个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_ba_laen_gu.md#个把两个)】`gu5 ba laen3 gu5` <sup>[东台]</sup> 一两个：菜叶上有～斑点。  
 1. 【[个等<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_den_r.md#个等<sub>儿</sub>)】`gu5 den3 r` <sup>[兴化]</sup> 一会儿：过了～，彩云仙女回来禀报……（兴文《兴化城的传说》）  
 1. 【[个个时辰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/gu_gu_shr_shen.md#个个时辰)】`gu5 gu5 shr2 shen2` <small>/kɤɯ5 kɤɯ5 sɿ2 səŋ2/<sup>泰兴</sup></small> 每时每刻<sup>\[泰兴\]</sup>  

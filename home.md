@@ -517,7 +517,7 @@
 1. 【[期朝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_zho.md#期朝)】`qi1 zho1` <small>/t͡ɕʰʝ1 t͡sɔ1/<sup>泰兴</sup></small> 以后，将来<sup>\[泰兴\]</sup>  
 1. 【[欺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi.md#欺)】`qi1` <small>/t͡ɕʰʝ1/<sup>泰兴</sup></small> 常指高秆植物影响低秆或无秆植物的生长<sup>\[泰兴\]</sup>  
 1. 【[欺不掉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_beh_tio.md#欺不掉)】`qi1 beh7 tio6` <sup>[东台]</sup> 一般人比不上：忙菜～烹调学校毕业生。  
-1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <small>/t͡ɕʰi1 ko pʰaʔ8 ko/<sup>兴化</sup></small> 待人不公平<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：搞评比要公平合理，不能～。<sup>\[兴化\]</sup>｜当领导的办事要公道，不能这样子～的。<sup>\[泰州\]</sup>  
+1. 【[欺个薄个](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gu_pah_gu.md#欺个薄个)】`qi1 gu pah8 gu` <small>/t͡ɕʰi1 kɤ pʰaʔ8 kɤ/<sup>兴化</sup></small> 待人不公平<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：搞评比要公平合理，不能～。<sup>\[兴化\]</sup>｜当领导的办事要公道，不能这样子～的。<sup>\[泰州\]</sup>  
 1. 【[欺客](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_keh.md#欺客)】`qi1 keh7` <sup>[兴化]</sup> 怠慢或欺蒙顾客：“你这店主人好～，见我是个犯人，便不来采着……”（《水浒传》九）。｜谚曰：行大～，客大欺行。  
 1. 【[欺弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_rah.md#欺弱)】`qi1 rah8` <sup>[如东]</sup> 欺负软弱。  
 1. 【[欺软怕硬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_run_pa_ngen.md#欺软怕硬)】`qi1 run3 pa5 ngen6` <small>/t͡ɕʰʝ1 ɻʊ̃3 pʰɑ5 ŋəŋ1/<sup>泰兴</sup></small> 欺负软弱的；惧怕强硬的。<sup>\[泰兴\]</sup>  

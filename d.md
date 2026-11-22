@@ -2457,7 +2457,7 @@
 1. 【[堆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#堆头)】`duei1 teu` <sup>[兴化]</sup> 体积：这东西～不小。  
 1. 【[堆头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#堆头)】`duei1 teu2` <sup>[如东]</sup> 数量：～不小。  
 1. 【[堆捉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhuah.md#堆捉)】`duei1 zhuah7` <sup>[如东]</sup> 数量：这批货有～吤！  
-1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <small>/tuəi1 t͡sɿ/<sup>兴化</sup>, /təɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 积聚成小山的东西<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：土～。<sup>\[如东\]</sup>｜土～；砖头～。<sup>\[兴化\]</sup>｜泥～；草～<sup>\[泰兴\]</sup> ② 垛子。<sup>\[如东\]</sup> ③ 量词<sup>\[兴化\]</sup>：一～山芋；两～慈姑。<sup>\[兴化\]</sup>  
+1. 【[堆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zz.md#堆子)】`duei1 zz` <small>/təi1 t͡sɿ/<sup>兴化</sup>, /təɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 积聚成小山的东西<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>：土～。<sup>\[如东\]</sup>｜土～；砖头～。<sup>\[兴化\]</sup>｜泥～；草～<sup>\[泰兴\]</sup> ② 垛子。<sup>\[如东\]</sup> ③ 量词<sup>\[兴化\]</sup>：一～山芋；两～慈姑。<sup>\[兴化\]</sup>  
 1. 【[对](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei.md#对)】`duei5` <sup>[东台]</sup> 正确，相当，相配。  
 1. 【[对扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_ba.md#对扒)】`duei5 ba1` <sup>[兴化]</sup> 从中间掰开，平分。也说“对半扒”。  
 1. 【[对扳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_baen.md#对扳)】`duei5 baen1` <sup>[兴化]</sup> 二人对饮：老两口晚上没事，弄两个菜在家里～。  
@@ -2469,7 +2469,7 @@
 1. 【[对半扒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_bun_ba.md#对半扒)】`duei5 bun5 ba1` <sup>[兴化]</sup> 见“对扒”。  
 1. 【[对半分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_bun_fen.md#对半分)】`duei5 bun5 fen1` <small>/təɪ5 pʊ̃5 fəŋ1/<sup>泰兴</sup></small> 分成两半，各二分之一。<sup>\[泰兴\]</sup>  
 1. 【[对掺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chaen.md#对掺)】`duei5 chaen1` <sup>[兴化]</sup> 两种份量相等的东西搀和在一起：磨焦糏粳米和精米～。｜“我们白酒……若再不好，就是～。”（《八窍珠》二四）  
-1. 【[对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_cheh.md#对直)】`duei5 cheh8` <small>/tuəi5 t͡sʰəʔ8/<sup>兴化</sup>, /təɪ5 t͡sʰəʔ8/<sup>泰兴</sup></small> ① 正对面<sup>\[兴化\]</sup>：我家～就是一所学校。<sup>\[兴化\]</sup> ② 延直路向前<sup>\[兴化\]</sup>：从长安路～向南，过桥不远就是新车站。<sup>\[兴化\]</sup> ③ 在一条直线上。<sup>\[泰兴\]</sup>  
+1. 【[对直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_cheh.md#对直)】`duei5 cheh8` <small>/təi5 t͡sʰəʔ8/<sup>兴化</sup>, /təɪ5 t͡sʰəʔ8/<sup>泰兴</sup></small> ① 正对面<sup>\[兴化\]</sup>：我家～就是一所学校。<sup>\[兴化\]</sup> ② 延直路向前<sup>\[兴化\]</sup>：从长安路～向南，过桥不远就是新车站。<sup>\[兴化\]</sup> ③ 在一条直线上。<sup>\[泰兴\]</sup>  
 1. 【[对打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_da.md#对打)】`duei5 da3` <sup>[兴化]</sup> 互相斗殴：两个人为一件小事～。｜颜家的家人回护家主，就与高家从人～。（《醒世恒言》七）  
 1. 【[对得住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_deh_chv.md#对得住)】`duei5 deh7 chv6` <small>/təɪ5 təʔ7 t͡sʰu1/<sup>泰兴</sup></small> 对得起；对人不愧，不辜负。<sup>\[泰兴\]</sup>  
 1. 【[对刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_do.md#对刀)】`duei5 do1` <sup>[兴化]</sup> 约一斤两条的刀子鱼（鲫鱼）。  
@@ -2478,7 +2478,7 @@
 1. 【[对分](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fen.md#对分)】`duei5 fen1` <sup>[兴化]</sup> 大家平分：“我们衣食被你夺去，若不拿出来～，你也去不得！”（《说唐》十九）  
 1. 【[对衭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fv.md#对衭)】`duei5 fv1` <sup>[如东]</sup> 左右衣襟一样大，称对衭。  
 1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu1` 对面  
-1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu5` <small>/tuəi5 ko5/<sup>兴化</sup>, /təɪ5 kɤɯ5/<sup>泰兴</sup></small> ① 对方<sup>\[兴化\]</sup>：这吖重大的事情，～派哪个来联络？<sup>\[兴化\]</sup> ② 对门；那一边。<sup>\[泰兴\]</sup>  
+1. 【[对过](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_gu.md#对过)】`duei5 gu5` <small>/təi5 ko5/<sup>兴化</sup>, /təɪ5 kɤɯ5/<sup>泰兴</sup></small> ① 对方<sup>\[兴化\]</sup>：这吖重大的事情，～派哪个来联络？<sup>\[兴化\]</sup> ② 对门；那一边。<sup>\[泰兴\]</sup>  
 1. 【[对拐子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_guae_zz.md#对拐子)】`duei5 guae3 zz` <sup>[兴化]</sup> ① 合得来：他俫两个人正好～。 ② 相匹配：夫妻两个一个好吃，一个好扮，半斤八两，真的是～。  
 1. 【[对火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_hu.md#对火)】`duei5 hu3` <small>/təɪ5 xɤɯ3/<sup>泰兴</sup></small> 碰火；双方都发火，吵架。<sup>\[泰兴\]</sup>  
 1. 【[对合](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_huh.md#对合)】`duei5 huh8` <sup>[兴化]</sup> 利润或利息跟本金相当：这批服装足足赚～有余。  
@@ -2494,8 +2494,8 @@
 1. 【[对说对回](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_shuh_duei_huei.md#对说对回)】`duei5 shuh7 duei5 huei2` <sup>[兴化]</sup> 回答对方的言辞：他见儿子跟他～，气不打一处来。  
 1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu` <small>/təɪ5 tʰəɪ/<sup>泰兴</sup></small> ① 矛盾很深的人。<sup>\[如东\]</sup>：他俫是～。<sup>\[如东\]</sup> ② 相符合。<sup>\[如东\]</sup>：这吖摆，～。<sup>\[如东\]</sup> ③ 冤家，仇人；敌对的方面<sup>\[泰兴\]</sup>  
 1. 【[对头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu.md#对头)】`duei5 teu2` <small>/təɪ5 tʰəɪ2/<sup>泰兴</sup></small> 正确<sup>\[泰兴\]</sup>  
-1. 【[对头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu_xien.md#对头星)】`duei5 teu2 xien1` <small>/tuəi5 tʰɤ2 ɕin1/<sup>兴化</sup>, /təɪ5 tʰəɪ2 ɕiŋ1/<sup>泰兴</sup></small> ① 对立双方<sup>\[兴化\]</sup>：两个～碰到一起，互相拆台。<sup>\[兴化\]</sup> ② 对头，有仇隙的双方。<sup>\[泰兴\]</sup>  
-1. 【[对味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_vei.md#对味)】`duei5 vei6` <small>/tuəi5 uəi6/<sup>兴化</sup>, /təɪ5 ʋəɪ1/<sup>泰兴</sup></small> ① 合口味<sup>\[兴化\]</sup>：这道菜蛮～的。<sup>\[兴化\]</sup>｜《二泉映月》听起来真的是～。<sup>\[兴化\]</sup> ② 对胃口，合乎口味。<sup>\[泰兴\]</sup>  
+1. 【[对头星](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_teu_xien.md#对头星)】`duei5 teu2 xien1` <small>/təi5 tʰɤ2 ɕin1/<sup>兴化</sup>, /təɪ5 tʰəɪ2 ɕiŋ1/<sup>泰兴</sup></small> ① 对立双方<sup>\[兴化\]</sup>：两个～碰到一起，互相拆台。<sup>\[兴化\]</sup> ② 对头，有仇隙的双方。<sup>\[泰兴\]</sup>  
+1. 【[对味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_vei.md#对味)】`duei5 vei6` <small>/təi5 uəi6/<sup>兴化</sup>, /təɪ5 ʋəɪ1/<sup>泰兴</sup></small> ① 合口味<sup>\[兴化\]</sup>：这道菜蛮～的。<sup>\[兴化\]</sup>｜《二泉映月》听起来真的是～。<sup>\[兴化\]</sup> ② 对胃口，合乎口味。<sup>\[泰兴\]</sup>  
 1. 【[对虾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_xia.md#对虾)】`duei5 xia1` <sup>[如东]</sup> 对虾科动物对虾，体长约24厘米。  
 1. 【[对象](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_xian.md#对象)】`duei5 xian5` <sup>[如东]</sup> 恋爱中的男子和女子。  
 1. 【[对账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhan.md#对账)】`duei5 zhan5` <sup>[如东]</sup> 核对账目  
@@ -2506,7 +2506,7 @@
 1. 【[碓撑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chen.md#碓撑)】`duei5 chen1` <sup>[如东]</sup> 支撑碓头的木叉。  
 1. 【[碓齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_chr.md#碓齿)】`duei5 chr3` <sup>[如东]</sup> 碓嘴上用以磕脱谷物皮壳的牙齿。  
 1. 【[碓扶手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_fv_sheu.md#碓扶手)】`duei5 fv2 sheu3` <sup>[如东]</sup> 悬在梁上下垂的两根绳子，下端系着扁木，用于踏碓人扶手。  
-1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_qieu.md#碓臼)】`duei5 qieu6` <small>/tuəi5 t͡ɕʰiɤ6/<sup>兴化</sup>, /təɪ5 t͡ɕʰiɤɯ/<sup>泰兴</sup></small> ① 石制，圆柱形，中间有锥体形的凹塘，用以磕脱谷物皮壳或磕碎谷物。<sup>\[如东\]</sup> ② 舂米的用具，上碓下臼，木、石制成。<sup>\[兴化\]</sup> ③ 舂米用具。石质，内呈圆锥形，埋于地下，口与地面相平。<sup>\[泰兴\]</sup>  
+1. 【[碓臼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_qieu.md#碓臼)】`duei5 qieu6` <small>/təi5 t͡ɕʰiɤ6/<sup>兴化</sup>, /təɪ5 t͡ɕʰiɤɯ/<sup>泰兴</sup></small> ① 石制，圆柱形，中间有锥体形的凹塘，用以磕脱谷物皮壳或磕碎谷物。<sup>\[如东\]</sup> ② 舂米的用具，上碓下臼，木、石制成。<sup>\[兴化\]</sup> ③ 舂米用具。石质，内呈圆锥形，埋于地下，口与地面相平。<sup>\[泰兴\]</sup>  
 1. 【[碓身](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_shen.md#碓身)】`duei5 shen1` <sup>[如东]</sup> 安装碓嘴儿的一根木杠，长约1.5米，直径约0.3米。  
 1. 【[碓桩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zhuan.md#碓桩)】`duei5 zhuan1` <sup>[如东]</sup> 支撑碓身的两根木柱。  
 1. 【[碓嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/duei_zuei.md#碓嘴)】`duei5 zuei3` <sup>[如东]</sup> 安装在碓身上的一根木柱，底端安装着碓齿。  

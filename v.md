@@ -553,7 +553,7 @@
 1. 【[弯吖个心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_nga_gu_xien.md#弯吖个心)】`vaen1 nga gu xien1` <sup>[如皋]</sup> 见“环吖指头”。  
 1. 【[弯头六曲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_teu_loh_qioh.md#弯头六曲)】`vaen1 teu loh8 qioh7` <small>/ʋɛ̃1 tʰəɪ lɔʔ8 t͡ɕʰiɔʔ7/<sup>泰兴</sup></small> 弯弯曲曲，不直。<sup>\[泰兴\]</sup>  
 1. 【[弯头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_teu.md#弯头)】`vaen1 teu2` <small>/ʋɛ̃1 tʰəɪ2/<sup>泰兴</sup></small> 管道拐弯处所用部件的俗称。<sup>\[泰兴\]</sup>  
-1. 【[弯腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_tuei.md#弯腿)】`vaen1 tuei3` <small>/uɛ̃1 tʰuəi3/<sup>兴化</sup></small> 坐下小憩<sup>\[兴化\]</sup>：搬一张凳把你～歇气。<sup>\[兴化\]</sup>  
+1. 【[弯腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_tuei.md#弯腿)】`vaen1 tuei3` <small>/uɛ̃1 tʰəi3/<sup>兴化</sup></small> 坐下小憩<sup>\[兴化\]</sup>：搬一张凳把你～歇气。<sup>\[兴化\]</sup>  
 1. 【[弯肚肠子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_tv_chan_zz.md#弯肚肠子)】`vaen1 tv6 chan2 zz` <sup>[如皋]</sup> 喻有谋变的人。与“直肚肠子”相对。  
 1. 【[弯弯筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_vaen_jien.md#弯弯筋)】`vaen1 vaen1 jien1` <sup>[东台]</sup> 大腿和小腿相连的韧带：你再乱跑，我就打你个～。  
 1. 【[弯弯顺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/v/vaen_vaen_shuen.md#弯弯顺)】`vaen1 vaen1 shuen6` <small>/uɛ̃1 uɛ̃1 suən6/<sup>兴化</sup></small> 形容帆船行驶途中一路遇到顺风<sup>\[兴化\]</sup>：今朝进城转弯抹角总遇顺风，真是歪嘴子吃毛鱼——～。<sup>\[兴化\]</sup>  

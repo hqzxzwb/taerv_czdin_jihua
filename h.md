@@ -1908,7 +1908,7 @@
 1. 【[灰船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_chun.md#灰船)】`huei1 chun2` <sup>[如皋]</sup> 运灰肥的木船。  
 1. 【[灰大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_da.md#灰大)】`huei1 da6` <sup>[兴化]</sup> 形容尘土较多，较厚：外头～，把鞋子都弄脏吖。｜一则脚小难行，二则京中～，一脚下去连鞋帮都陷下去了……。（《梼杌闲评》七）  
 1. 【[灰虴蛨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_deh_moh.md#灰虴蛨)】`huei1 deh7 moh` <sup>[如皋]</sup> 齿脊疣蝗。草丛中常见。  
-1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei.md#灰堆)】`huei1 duei1` <small>/xuəi1 tuəi1/<sup>兴化</sup>, /xuei1 tuei1/<sup>如皋</sup></small> 垃圾堆，存放垃圾的场所。<sup>\[如东\]</sup>\[兴化：倾倒草木灰和垃圾的地方\]\[如皋：旧时城镇家家有，可卖钱。\]：过去家家门口有～，非常不卫生。<sup>\[兴化\]</sup>  
+1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei.md#灰堆)】`huei1 duei1` <small>/xuəi1 təi1/<sup>兴化</sup>, /xuei1 tuei1/<sup>如皋</sup></small> 垃圾堆，存放垃圾的场所。<sup>\[如东\]</sup>\[兴化：倾倒草木灰和垃圾的地方\]\[如皋：旧时城镇家家有，可卖钱。\]：过去家家门口有～，非常不卫生。<sup>\[兴化\]</sup>  
 1. 【[灰堆姑娘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_duei_gv_nian.md#灰堆姑娘)】`huei1 duei1 gv1 nian2` <sup>[如东]</sup> 一种民俗。南朝时期已经广泛流传，称请紫姑。紫姑为蚕神、谷神、厕神、生育神、占卜神。阴历正月十五日，选择一只新畚箕，后帮插两只筷子，由童男童女搀着畚箕放在灰堆上，经过一番祷告，就把灰堆姑娘请回来了，放在八仙桌上。桌面上铺一层米。人们询问各种问题，灰堆姑娘用写字或叩头等方法来回答。  
 1. 【[灰堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_dy.md#灰堆)】`huei1 dy1` <sup>[泰州]</sup> 垃圾堆，旧时居民做饭，燃料以草为主，灶膛灰满以后，将灰倒至一处成堆，居民常将生活垃圾倒在灰堆上，灰堆后来遂也指垃圾堆。  
 1. 【[灰肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huei_fei.md#灰肥)】`huei1 fei2` <small>/xuəi1 fəi2/<sup>兴化</sup>, /xuei1 fei2/<sup>如皋</sup></small> ① 草木灰、生活垃圾等堆成的肥料。<sup>\[如皋\]</sup> ② 以草木灰为主的自然肥料，含钾。<sup>\[兴化\]</sup>  
