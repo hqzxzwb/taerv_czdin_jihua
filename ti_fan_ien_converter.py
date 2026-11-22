@@ -306,6 +306,14 @@ def boh_tae_base(cz, pien_ien, qieh_survivor='吃七', i_as_z=False, zin_as_jin 
 def 兴化(cz, pien_ien):
   shen, gae, yen, tio = parse_pien_ien(pien_ien)
 
+  if shen in ['b', 'p', 'm', 'f'] and gae == '' and yen == 'eu':
+    yen = 'u'
+  elif shen in ['d', 't', 'n', 'l'] and gae == 'u' and yen == 'ei':
+    gae = ''
+  elif shen in ['j', 'q', 'x'] and gae == 'y' and yen == 'en':
+    shen = shih_jin_hua[shen]
+    gae = 'u'
+
   if gae == 'i' and yen in ['un', 'uh']:
     gae = 'y'
 
@@ -346,6 +354,8 @@ def 兴化(cz, pien_ien):
   # 特字
   if cz == '柴' and shen + gae + yen == 'sae':
     shen = 'c'
+  elif cz == '个' and shen + gae + yen == 'gu':
+    yen = 'eu'
 
   if gae == 'i' and yen == 'en':
     result = tae_rv_ipa.tae_rv_ipa_shen[shen] + 'in'
