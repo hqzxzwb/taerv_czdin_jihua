@@ -2,7 +2,7 @@
 **[A](./a.md) | [B](./b.md) | [C](./c.md) | [D](./d.md) | [E](./e.md) | [F](./f.md) | [G](./g.md) | [H](./h.md) | [I](./i.md) | [J](./j.md) | [K](./k.md) | [L](./l.md) | [M](./m.md) | [N](./n.md) | [O](./o.md) | [P](./p.md) | [Q](./q.md) | [R](./r.md) | [S](./s.md) | [T](./t.md) | [U](./u.md) | [V](./v.md) | [X](./x.md) | [Y](./y.md) | [Z](./z.md)**  
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <small>/ɔ/<sup>泰兴</sup></small> 助词。表示催促。读音因前字韵尾而不同。<sup>\[泰兴\]</sup>：快点走～（o）。<sup>\[泰兴\]</sup>  
-1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <small>/ɔ/<sup>泰兴</sup></small> ① 叹词，表示恍然大悟<sup>\[泰州\]</sup>：～原来是这回事啊。<sup>\[泰州\]</sup> ② 句末语气词，表示责备语气<sup>\[泰州\]</sup>：你望你～，这点儿事都弄不好。<sup>\[泰州\]</sup> ③ 叹词，表示应答之声。<sup>\[泰兴\]</sup>  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
 1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` <small>/ɔʔ7/<sup>如皋</sup></small> ① 与“房”同义，但用法有所不同。<sup>\[如皋\]</sup>：只用“屋”：砌～、堂～、磨～家的<sup>\[如皋\]</sup>｜“房、屋”通用：～脊、～檐、草～<sup>\[如皋\]</sup>｜只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
@@ -59,7 +59,7 @@
 1. 【[齆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on.md#齆)】`on5` <small>/oŋ5/<sup>兴化</sup>, /oŋ5/<sup>泰县</sup></small> ① 鼻子不通气声音嗡嗡 ② 因鼻塞而发音不清晰。《广韵·送韵》乌贡切：“～，鼻塞曰～”。<sup>\[兴化\]</sup>：他这几天感冒，说话～声～气的<sup>\[兴化\]</sup> ③ 鼻子不通气<sup>\[泰县\]</sup>：鼻孔都发咖～。（《广韵》去声送韵乌贡切：“鼻塞曰～”。）<sup>\[泰县\]</sup> ④ 鼻塞语音不清<sup>\[泰县\]</sup>：这个人鼻子发咖～。<sup>\[泰县\]</sup> ⑤ 鼻子不通气，发音不畅<sup>\[泰州\]</sup>：这两天感吖冒，说话声音有点～。<sup>\[泰州\]</sup>  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r` <sup>[东台]</sup> 因鼻孔堵塞而发音不清。  
 1. 【[齆鼻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_r.md#齆鼻<sub>儿</sub>)】`on5 pieh8 r, ngon5 pieh8 r` <sup>[如皋]</sup> 软腭缺损者。  
-1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <small>/ɔŋ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 因鼻腔阻塞而发音不清。因鼻腔阻塞而嗅觉不灵敏。<sup>\[如东\]</sup> ② 指发音时鼻音浓重。<sup>\[泰兴\]</sup>  
+1. 【[齆鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz.md#齆鼻子)】`on5 pieh8 zz` <small>/ɔŋ5 pʰiʔ8 t͡sɿ/<sup>泰兴</sup></small> ① 鼻塞引起的发音不清、鼻音浓重。<sup>\[如东\]</sup>\[泰兴：《泰兴方言辞典》第199页释“指发音时鼻音浓重。”；第215页释“鼻孔堵塞而发音不清。”，首字作“⿰囊邕”（左“囊”右“邕”）；引《广韵》：“⿰囊邕，鼻塞曰⿰囊邕。”\] ② 鼻塞引起的嗅觉不灵。<sup>\[如东\]</sup>  
 1. 【[齆鼻子菩萨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_pv.md#齆鼻子菩萨)】`on5 pieh8 zz pv2 saeh7` <sup>[如东]</sup> 鼻腔阻塞嗅觉不灵敏，香臭不分。比喻分不清好坏：～进茅坑，香臭不分。  
 1. 【[齆鼻子遇到臭猪头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_pieh_zz_y.md#齆鼻子遇到臭猪头)】`on5 pieh8 zz y6 do cheu5 zhv1 teu2` <small>/ɔŋ5 pʰiʔ8 t͡sɿ y1 tɔ t͡ɕʰiɤɯ5 t͡su1 tʰəɪ2/<sup>泰兴</sup></small> 喻相差不多；不能识别好歹。<sup>\[泰兴\]</sup>：《玉如意》第3回：“真正不怕猪头臭，一样撞着䐥鼻子神。”<sup>\[泰兴\]</sup>  
 1. 【[齆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_zz.md#齆子)】`on5 zz, ngon5 zz` <sup>[如皋]</sup> 软腭缺损者。  

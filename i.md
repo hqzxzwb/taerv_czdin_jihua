@@ -117,7 +117,7 @@
 1. 【[饐拐拐的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_guae_dii.md#饐拐拐的)】`i3 guae guae dii` <sup>[如皋]</sup> 腐烂状：天太热，隔宿的百页～，不能吃。  
 1. 【[㱲妞<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ni_r.md#㱲妞<sub>儿</sub>)】`i5 ni3 r` <sup>[如皋]</sup> ① 幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
 1. 【[㱲掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_tio_a.md#㱲掉啊)】`i5 tio a` <sup>[如皋]</sup> ① 见“㱲妞儿”。幼嫩的瓜果枯萎了。 ② 比喻早产。 ③ 比喻事情刚开始就停止了。  
-1. 【[意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen.md#意㽹)】`i5 faen5` <small>/i5 fɛ̃5/<sup>兴化</sup>, /ʝ5 fẽ5/<sup>如皋</sup></small> ① 过分<sup>\[如皋\]</sup>：惯伢儿惯得～。<sup>\[如皋\]</sup> ② 难耐<sup>\[如皋\]</sup>：吃饭的刻儿谈屙屎，哿嫌～吖？<sup>\[如皋\]</sup> ③ 讨厌。<sup>\[如东\]</sup>：重三倒四的说这些话，叫人～。<sup>\[如东\]</sup> ④ 恶心，要吐的感觉<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup>：想起饭馆里用的地沟油，就叫人～。又作臆㽹。<sup>\[东台\]</sup>｜喉咙里～的。<sup>\[兴化\]</sup>  
+1. 【[意㽹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen.md#意㽹)】`i5 faen5` <small>/i5 fɛ̃5/<sup>兴化</sup>, /ʝ5 fẽ5/<sup>如皋</sup>, /ʝ5 fɛ̃5/<sup>泰兴</sup></small> ① 过分<sup>\[如皋\]</sup>：惯伢儿惯得～。<sup>\[如皋\]</sup> ② 难耐<sup>\[如皋\]</sup>：吃饭的刻儿谈屙屎，哿嫌～吖？<sup>\[如皋\]</sup> ③ 讨厌。<sup>\[如东\]</sup>：重三倒四的说这些话，叫人～。<sup>\[如东\]</sup> ④ 恶心，要吐的感觉<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup>：想起饭馆里用的地沟油，就叫人～。又作臆㽹。<sup>\[东台\]</sup>｜喉咙里～的。<sup>\[兴化\]</sup> ⑤ 令人作呕。\[泰兴：《泰兴方言辞典》作“臆疺”。\]  
 1. 【[意㽹人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_faen_ren_zz.md#意㽹人子)】`i5 faen5 ren zz` <sup>[如皋]</sup> 见“意㽹”。  
 1. 【[意怪/臆怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae.md#意怪/臆怪)】`i5 guae5` <small>/i5 kuɛ5/<sup>兴化</sup>, /ʝ5 kuɛ5/<sup>如皋</sup>, /ʝ5 kuɛ5/<sup>泰兴</sup>, /ɿ5 kue5/<sup>泰县</sup></small> ① 脏<sup>\[如皋\]</sup>：他家满地的鸡屎，～死啊。<sup>\[如皋\]</sup> ② 可恶、厌恶<sup>\[如皋\]</sup>：～形、～人子。<sup>\[如皋\]</sup> ③ 过分<sup>\[如皋\]</sup>：他俫两个好得～。<sup>\[如皋\]</sup> ④ 感觉恶心。<sup>\[如东\]</sup>：看见这种肉，我有些～。<sup>\[如东\]</sup> ⑤ 怪模怪样，常人看不惯<sup>\[东台\]</sup>：她眉毛描得像拖把，～煞咖啦。<sup>\[东台\]</sup> ⑥ 脏兮兮，叫人难受。<sup>\[东台\]</sup> ⑦ 瘆人<sup>\[兴化\]</sup>：看他满脸流血的样子真～。也说“意里不怪”。<sup>\[兴化\]</sup> ⑧ 脏得使人讨厌，或打扮得使人讨厌。<sup>\[泰县\]</sup> ⑨ 某种状态令人难以接受，令人感到恶心<sup>\[泰州\]</sup>：身上全是些脓血，望吖～煞咖。<sup>\[泰州\]</sup>｜这吖大的岁数，脸上搽啊像吊死鬼，望吖都～。<sup>\[泰州\]</sup>｜这些话不要再说咖，听吖～煞咖唻。<sup>\[泰州\]</sup> ⑩ 令人见了作呕反胃。谓极为肮脏难看。<sup>\[泰兴\]</sup>  
 1. 【[意怪不辣的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_guae_beh_laeh.md#意怪不辣的)】`i5 guae5 beh7 laeh8 dii` <sup>[如皋]</sup> 脏、龌龊：他家～，你不要去。  
@@ -136,8 +136,8 @@
 1. 【[意味<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_vei_r.md#意味<sub>儿</sub>)】`i5 vei6 r` <sup>[如皋]</sup> 待人接物中所显出的品德修养：他的～好。  
 1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i5` <small>/ɿ5/<sup>泰县</sup></small> ① 植物果实萎缩脱落。如皋词典作“㱲”。<sup>\[如东\]</sup>：许多桃儿～掉啊。<sup>\[如东\]</sup> ② 花木水果蔬菜等因失去所含水分而枯萎、下垂。如皋词典作“㱲”。<sup>\[东台\]</sup>：这菜有点～，恐怕不新鲜<sup>\[东台\]</sup>｜刚栽的小树，三天不曾浇水，叶子都～啊。<sup>\[东台\]</sup> ③ 部分枯萎、物不新鲜<sup>\[泰县\]</sup>：花芯儿～掉啊。<sup>\[泰县\]</sup>  
 1. 【[澺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#澺)】`i5` <sup>[如皋]</sup> 纸上墨迹渲润。  
+1. 【[瞖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#瞖)】`i5` <small>/ʝ5/<sup>如皋</sup>, /ʝ5/<sup>泰兴</sup></small> ① 眼角膜上因受伤而留下的疤痕。<sup>\[如皋\]</sup> ② 眼疾；瞖状胬肉。<sup>\[泰兴\]</sup> ③ 眼睛角膜病变后留下的白瘢。<sup>\[东台\]</sup>：他眼睛有个～，看不清东西。<sup>\[东台\]</sup>  
 1. 【[缢蛏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_chen.md#缢蛏)】`i5 chen1` <sup>[如东]</sup> 竹蛏科动物缢蛏，壳中央稍偏前方有一条自壳顶至腹缘的斜沟，状如缢痕故名。壳长4～8厘米。壳长方形。背腹缘近于平行，前缘稍圆，后缘略呈截形。壳面平滑，生长纹显著。壳薄而脆。壳面被有一层黄绿色的壳皮。生长纹清晰。壳内面乳白色。足部肌肉发达，足孔周围具有很多触手。水管2条长而分开。生活在浅海河口泥沙中。主要以硅藻为食。  
-1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i5` <small>/ʝ5/<sup>如皋</sup></small> ① 眼角膜上因受伤而留下的疤痕。<sup>\[如皋\]</sup> ② 眼睛角膜病变后留下的白瘢。<sup>\[东台\]</sup>：他眼睛有个～，看不清东西。<sup>\[东台\]</sup>  
 1. 【[肄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#肄)】`i5` <sup>[如皋]</sup> ① 照样描画。 ② 修补笔画。  
 1. 【[薏苡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_i.md#薏苡)】`i5 i3` <sup>[如东]</sup> 禾本科植物薏苡，一年或多年生草本。秆直立，高约1.5米。叶片线状披针形。总状花序腋生成束。颖果外包坚硬的总苞，卵形。栽培。种仁，也称薏米。  
 1. 【[裔纸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_zhr.md#裔纸)】`i5 zhr` <small>/ʝ5 t͡sɿ/<sup>如皋</sup></small> ① 和尚放焰口时宣诵的死者生平及简易家谱。<sup>\[东台\]</sup> ② 丧户张挂的孝牌和放焰口由和尚唱读的文书。上面记有死者后裔的名字（外姓则写姓氏）。\[如皋：参见“孝牌”。\]  
@@ -149,7 +149,7 @@
 1. 【[异奇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_qi.md#异奇)】`i6 qi2` <sup>[兴化]</sup> “奇异”的逆序词，见到这个奇装异服的人，大家都觉猜～。  
 1. 【[易容](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ion.md#易容)】`i6 ion2` <sup>[如皋]</sup> 容易。容易的反序词。  
 1. 【[曳车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_cha.md#曳车)】`i6 cha1` <sup>[如东]</sup> 赶车，主要指赶牛车：这些天我在下～。  
-1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i6` <small>/i6/<sup>兴化</sup></small> ① 因未受粉而菱缩、干枯的小瓜<sup>\[兴化\]</sup>：～纽。<sup>\[兴化\]</sup> ② 小瓜因故干死。《说文·歹部》“～，死也。於计切。”<sup>\[兴化\]</sup> ③ 瓜类植物雌花因未受粉致使瓜纽枯萎<sup>\[泰州\]</sup>：连续落咖一个星期的雨，架子上才冒出来的黄瓜纽儿全部弄吖～掉啊唻。<sup>\[泰州\]</sup>  
+1. 【[殪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#殪)】`i6` <small>/i6/<sup>兴化</sup>, /ʝ1/<sup>泰兴</sup></small> ① 瓜果未成熟而掉落。<sup>\[泰兴\]</sup> ② 因未受粉而菱缩、干枯的小瓜<sup>\[兴化\]</sup>：～纽。<sup>\[兴化\]</sup> ③ 小瓜因故干死。《说文·歹部》“～，死也。於计切。”<sup>\[兴化\]</sup> ④ 瓜类植物雌花因未受粉致使瓜纽枯萎<sup>\[泰州\]</sup>：连续落咖一个星期的雨，架子上才冒出来的黄瓜纽儿全部弄吖～掉啊唻。<sup>\[泰州\]</sup>  
 1. 【[洩动](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i_ton.md#洩动)】`i6 ton` <sup>[如东]</sup> 形容涌动的情形：人群～。  
 1. 【[翳](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#翳)】`i6` <sup>[泰州]</sup> 眼睛角膜所生的造成视力障碍的白斑：他左边眼睛里生吖～，望不见东西唻。  
 1. 【[饐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/i.md#饐)】`i6` <sup>[泰州]</sup> 饭食发热腐烂变质：这个饭～啊唻，不能吃吤，倒掉吧。  
@@ -1293,7 +1293,7 @@
 1. 【[营生](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_shen.md#营生)】`ien2 shen1` <sup>[兴化]</sup> 职业：以前他家打铁～，十分穷苦。  
 1. 【[蟫虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon.md#蟫虫)】`ien2 chon2` <sup>[兴化]</sup> 蠹虫，多藏于暗处蛀食衣服、书籍等，也称“蠹鱼”。  
 1. 【[蟫虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chon_r.md#蟫虫<sub>儿</sub>)】`ien2 chon2 r` <sup>[如皋]</sup> 蠹鱼。  
-1. 【[赢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jia.md#赢家)】`ien2 jia1` <sup>[如东]</sup> 获胜的一方：王二是～。  
+1. 【[赢家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jia.md#赢家)】`ien2 jia1` <small>/iŋ2 t͡ɕiɑ1/<sup>泰兴</sup></small> 获胜的一方。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>：王二是～。<sup>\[如东\]</sup>  
 1. 【[赢钱三只眼，输钱一沰痴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_qin_saen_zheh.md#赢钱三只眼，输钱一沰痴)】`ien2 qin2 saen1 zheh7 ngaen3 shv1 qin2 ieh7 dah7 chr1` <sup>[东台]</sup> 形容做事成功神气活现，反之萎靡不振。  
 1. 【[赢人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_ren.md#赢人)】`ien2 ren2` <small>/in2 lən2/<sup>兴化</sup>, /iəŋ2 ɻəŋ2/<sup>如皋</sup></small> ① 比别人强或超过别人。<sup>\[如皋\]</sup> ② 吸引人，取得人的好感<sup>\[兴化\]</sup>：“二侉子”为人和善，加之铺子里花样齐全，挺～的。（刘仁前《香河纪事，三停子》）<sup>\[兴化\]</sup> ③ 胜过别人的地方<sup>\[兴化\]</sup>：“……（胡理）还有一件～处，十月天气，两头见日，能行四百里路程……”（《绿牡丹》四三）<sup>\[兴化\]</sup> ④ 高于或者优于他人<sup>\[泰州\]</sup>：他旁的本事没得，就是两个字～。<sup>\[泰州\]</sup>  
 1. 【[迎春花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_chuen_hua.md#迎春花)】`ien2 chuen1 hua1` ① 木犀科植物迎春花，落叶灌木。高约5米。枝细长，直立或成拱形。复叶对生，小叶3片，卵形。花淡黄色，先叶开花，萼钟形。庭园栽培。<sup>\[如东\]</sup> ② 落叶灌木，花单生，早春开黄花，供观赏。<sup>\[东台\]</sup>  
@@ -1362,6 +1362,7 @@
 1. 【[影无踪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_v_zon.md#影无踪)】`ien3 v2 zon1` <sup>[兴化]</sup> 踪影全无：他为公司外出讨账，不想竟然拐款潜逃，一去～。  
 1. 【[影戏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xi.md#影戏)】`ien3 xi5` <sup>[兴化]</sup> 电影。  
 1. 【[影信](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_xien.md#影信)】`ien3 xien5` <small>/in3 ɕin5/<sup>兴化</sup>, /iəŋ3 ɕiəŋ5/<sup>如皋</sup></small> ① 音信，信息<sup>\[如皋\]</sup>：他出去之后就没得～吖！<sup>\[如皋\]</sup> ② 音信、信息<sup>\[兴化\]</sup>：他去年秋天出走，至今没得～。<sup>\[兴化\]</sup>  
+1. 【[影子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_zz.md#影子)】`ien3 zz` <small>/iŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 镜面、水面照出的人、物的影像。<sup>\[泰兴\]</sup> ② 人或物遮住光线投下的暗影。<sup>\[泰兴\]</sup>  
 1. 【[瘾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#瘾)】`ien3` <sup>[东台]</sup> 由于神经中枢经常接受某种外界刺激而形成的一种固定的癖好：烟～｜酒～。  
 1. 【[瘾君子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien_jyen_zz.md#瘾君子)】`ien3 jyen1 zz` <sup>[如东]</sup> 特指吸鸦片上瘾的人。泛指对某种食品有嗜好的人：王二是个～，就是喜欢喝老酒。  
 1. 【[隐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ien.md#隐)】`ien3` <small>/iəŋ3/<sup>如皋</sup></small> ① 完全没有印象<sup>\[如皋\]</sup>：这件事我忘吖～吖。<sup>\[如皋\]</sup> ② 藏。<sup>\[如皋\]</sup>  
@@ -1811,7 +1812,7 @@
 1. 【[檐口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_keu.md#檐口)】`in2 keu3` <sup>[东台]</sup> 房檐边滴水的地方。  
 1. 【[檐口条<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_keu_tio_r.md#檐口条<sub>儿</sub>)】`in2 keu3 tio2 r` <sup>[如东]</sup> 横在屋檐下面的一根木条。  
 1. 【[檐墙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_qian.md#檐墙)】`in2 qian2` <sup>[兴化]</sup> 房屋的后墙。  
-1. 【[檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#檐头)】`in2 teu` <small>/ĩ2 tʰei/<sup>如皋</sup></small> 屋檐。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
+1. 【[檐头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu.md#檐头)】`in2 teu` <small>/ĩ2 tʰei/<sup>如皋</sup>, /ĩ2 tʰəɪ/<sup>泰兴</sup></small> 屋檐。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[檐头高三尺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu_go_saen.md#檐头高三尺)】`in2 teu2 go1 saen1 cheh7` <sup>[如皋]</sup> 旧时重男轻女，生男，则祝曰～。即将来做官发财，住房高大。  
 1. 【[檐头水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_teu_shuei.md#檐头水)】`in2 teu2 shuei3` <sup>[如皋]</sup> 雨水顺檐落下。  
 1. 【[沿壁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_bieh.md#沿壁)】`in2 bieh7` <sup>[如东]</sup> 小儿用手摸着墙壁学习走路。  
@@ -1907,12 +1908,12 @@
 1. 【[掩密](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_mieh.md#掩密)】`in3 mieh8` <sup>[兴化]</sup> 隐蔽不外露：你囥钱的地方不～，露啊白。｜“你们做事也该放～一些，怎么就都睡着了，使老爹看见……”（《梼杌闲评》十五）  
 1. 【[掩人耳目](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_ren_er_moh.md#掩人耳目)】`in3 ren2 er3 moh8` <sup>[东台]</sup> ［喻］以假象蒙骗别人  
 1. 【[掩细](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_xi.md#掩细)】`in3 xi5` <sup>[兴化]</sup> 仔细、缜密：在外头做事要处处～，不要让家里人挂念。  
-1. 【[躽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#躽)】`in3` <sup>[兴化]</sup> 俏俏地行进：他～进来，一家子都不曾注意。《广韵·铣韵》於殄切“～，身向前也。”  
+1. 【[躽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#躽)】`in3` <small>/iɪ̃3/<sup>兴化</sup>, /ĩ3/<sup>泰兴</sup></small> ① 悄悄地行进<sup>\[兴化\]</sup>：他～进来，一家子都不曾注意。《广韵·铣韵》於殄切“～，身向前也。”<sup>\[兴化\]</sup> ② 悄悄地潜入。<sup>\[泰兴\]</sup>：箇个白日撞乘人不注意～进来。<sup>\[泰兴\]</sup>  
 1. 【[魇](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#魇)】`in3` <sup>[东台]</sup> 睡眠中做的一种感到压抑而呼吸困难的梦：睡吖～住啊。（《广韵》於琰切，“睡中魇也。”）  
 1. 【[魇魇<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_in_r.md#魇魇<sub>儿</sub>)】`in3 in3 r` <sup>[兴化]</sup> 梦中惊叫或自言自语。又谓“做响梦”。魇，《广韵·琰韵》於琰切：睡中魇也。  
 1. 【[䞁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#䞁)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup>, /ĩ5/<sup>泰兴</sup>, /iɪ̃5/<sup>泰县</sup></small> ① 比较长短<sup>\[通用\]</sup>：来～～裤子哿嫌长。/来比一下看看裤子是不是太长。<sup>\[通用\]</sup> ② 比较<sup>\[如皋\]</sup>：两人～个子、两棒～长短。<sup>\[如皋\]</sup> ③ 比较长短高低<sup>\[东台\]</sup>：你俫两个来～下子，看哪个高些。《通俗编》“以两物较其长短曰䞁。”<sup>\[东台\]</sup> ④ 比量长短<sup>\[兴化\]</sup>：～～看，哪个高？《广韵》於建切“～，物相当也。”《通俗篇》“今以两物较其长短曰～。”<sup>\[兴化\]</sup> ⑤ 比较大小、长短、高低、远近<sup>\[泰州\]</sup>：你弄跟绳子～下子，望望这根木头长度够不够。<sup>\[泰州\]</sup> ⑥ 持械击打劈砍之前，先在想要击打劈砍的地方轻轻试一下<sup>\[泰州\]</sup>：你剁骨头～都不要～，剁下来的大小都差不多。<sup>\[泰州\]</sup> ⑦ 以两物比较长短。<sup>\[泰兴\]</sup>  
 1. 【[䞁当](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_dan.md#䞁当)】`in5 dan` <sup>[如东]</sup> 以一物为标准，进行比较：你～下子，哿是一样长？  
-1. 【[厌/宴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#厌/宴)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup>, /ĩ5/<sup>泰兴</sup></small> ① 贪玩，玩闹，顽皮，调皮 ② 小孩玩耍，顽皮。<sup>\[如皋\]</sup> ③ 玩耍、嬉闹、玩恶作剧<sup>\[如皋\]</sup>：作～、伢儿欢喜～。<sup>\[如皋\]</sup> ④ 指小孩好动，玩弄不停<sup>\[东台\]</sup>：这宝宝作～，～得没魂，拿宝小把球～坏啊。<sup>\[东台\]</sup> ⑤ 顽皮<sup>\[兴化\]</sup>：“……我嘛，弄上五个讨债鬼，又皮又～，我就烦死了……”（《武松》六）<sup>\[兴化\]</sup> ⑥ 儿童调皮<sup>\[泰州\]</sup>：你家这细小伙～吖不得命，把金鱼缸里的鱼摝出来撂啊一地。<sup>\[泰州\]</sup> ⑦ 小孩调皮、惹嫌。<sup>\[泰兴\]</sup>  
+1. 【[厌/宴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in.md#厌/宴)】`in5` <small>/iɪ̃5/<sup>兴化</sup>, /ĩ5/<sup>如皋</sup>, /ĩ5/<sup>泰兴</sup></small> ① 贪玩，玩闹，顽皮，调皮 ② 小孩玩耍，顽皮。<sup>\[如皋\]</sup> ③ 玩耍、嬉闹、玩恶作剧<sup>\[如皋\]</sup>：作～、伢儿欢喜～。<sup>\[如皋\]</sup> ④ 指小孩好动，玩弄不停<sup>\[东台\]</sup>：这宝宝作～，～得没魂，拿宝小把球～坏啊。<sup>\[东台\]</sup> ⑤ 顽皮<sup>\[兴化\]</sup>：“……我嘛，弄上五个讨债鬼，又皮又～，我就烦死了……”（《武松》六）<sup>\[兴化\]</sup> ⑥ 儿童调皮<sup>\[泰州\]</sup>：你家这细小伙～吖不得命，把金鱼缸里的鱼摝出来撂啊一地。<sup>\[泰州\]</sup> ⑦ 小孩调皮、惹嫌。\[泰兴：调皮，惹人厌烦。《泰兴方言辞典》第211页作“䁙”。\]：“目相戏也。”（《说文》）<sup>\[泰兴\]</sup>｜“吴中谓小儿骫骳曰～。”（《吴下方言考》）<sup>\[泰兴\]</sup>  
 1. 【[厌不够](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_beh_geu.md#厌不够)】`in5 beh7 geu5` <sup>[如东]</sup> 经常的不停的调皮：这个伢儿～。  
 1. 【[厌话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_hua.md#厌话)】`in5 hua6` <sup>[兴化]</sup> 俏皮的、尖刻的话：你行就行，不行就不行，少说～。  
 1. 【[厌脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/in_jiah.md#厌脚)】`in5 jiah7` 特别调皮的小孩，皮大王  
@@ -2069,7 +2070,7 @@
 1. 【[要债](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zhae.md#要债)】`io5 zhae5` <small>/iɔ5 t͡sɛ5/<sup>如皋</sup></small> 讨取债务。<sup>\[如皋\]</sup><sup>\[如东\]</sup>  
 1. 【[要账](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zhan.md#要账)】`io5 zhan5` <sup>[如东]</sup> 索取欠账资金。  
 1. 【[鹞鹰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_ien.md#鹞鹰)】`io6 ien1` <sup>[如东]</sup> 鹰科动物鸢，又名老鹰，体长约60厘米。嘴黑色，蜡膜和下嘴基部淡黄沾绿。虹膜暗灰色。额白色；上体包括双翅表面几纯淡灰色，头顶和后颈各羽具有黑褐色羽干，两侧杂以棕白色。初级飞翼黑褐色，基部具一大形白斑。胸、上腹和两胁黑褐色，羽千黑色。尾呈叉状。脚灰黄色，爪黑。1960年前，此鸢生活在如东沿海草荡地区，常在高空飞翔。主食啮齿动物。沿海围垦后，生存环境发生改变，数量逐渐稀少。  
-1. 【[鹞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#鹞子)】`io6 zz` <small>/iɔ1 t͡sɿ/<sup>如皋</sup></small> ① 风筝 ② 纸鸢，风筝。<sup>\[如皋\]</sup> ③ 用竹篾或芦苇扎成一定形状的框架，糊上纸或绢，上面不安装哨子或葫芦等响器，用线系着随着风势飞上天空，这种玩具叫鹞子。<sup>\[如东\]</sup> ④ 风筝。<sup>\[泰州\]</sup>  
+1. 【[鹞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/io_zz.md#鹞子)】`io6 zz` <small>/iɔ1 t͡sɿ/<sup>如皋</sup>, /iɔ1 t͡sɿ/<sup>泰兴</sup></small> 纸鸢，风筝。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup><sup>\[泰州\]</sup>\[如东：用竹篾或芦苇扎成一定形状的框架，糊上纸或绢，上面不安装哨子或葫芦等响器，用线系着随着风势飞上天空，这种玩具叫鹞子。\]  
 1. 【[拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh.md#拗)】`ioh7` <small>/iɔʔ7/<sup>如皋</sup></small> ① 屈曲<sup>\[如皋\]</sup>：鞋后跟捱～咖倒啊<sup>\[如皋\]</sup>｜坐啊～咖下。<sup>\[如皋\]</sup> ② 卷曲。<sup>\[如东\]</sup>：不要把纸弄～咖。<sup>\[如东\]</sup> ③ 物体用火烧热，使之弯曲或调直。<sup>\[如东\]</sup>：把毛竹～弯。<sup>\[如东\]</sup>  
 1. 【[欲紧欲松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_jien_ioh_son.md#欲紧欲松)】`ioh7 jien3 ioh7 son1` <sup>[泰县]</sup> 时紧时松。  
 1. 【[焴豆腐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ioh_teu_fv.md#焴豆腐)】`ioh7 teu6 fv` <sup>[泰县]</sup> 煮豆腐。  
@@ -2119,7 +2120,7 @@
 1. 【[涌市](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_shr.md#涌市)】`ion3 shr6` <small>/iɔŋ3 sɿ1/<sup>如皋</sup></small> ① 营业繁忙。<sup>\[如皋\]</sup> ② 人气很旺，买卖活跃的市场<sup>\[东台\]</sup>：早晨七点钟菜场进入～。<sup>\[东台\]</sup>  
 1. 【[甬堂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_tan.md#甬堂)】`ion3 tan2` <sup>[如东]</sup> 两屋之间的通道。  
 1. 【[蛹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_zz.md#蛹子)】`ion3 zz` <small>/iɔŋ3 t͡sɿ/<sup>泰兴</sup></small> 昆虫从幼虫到成虫的过渡状态，在此期间幼虫不动不食，外皮变厚，体形缩短，其状如死，称为蛹虫。<sup>\[泰兴\]</sup>：蚕～。<sup>\[泰兴\]</sup>｜蛆～。<sup>\[泰兴\]</sup>  
-1. 【[壅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#壅)】`ion5` <sup>[东台]</sup> 堆，塞，遮蔽：把被子～好，防止受凉｜给棉花根～土。  
+1. 【[壅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion.md#壅)】`ion5` <small>/iɔŋ5/<sup>泰兴</sup></small> ① 堆，塞，遮蔽<sup>\[东台\]</sup>：把被子～好，防止受凉<sup>\[东台\]</sup>｜给棉花根～土。<sup>\[东台\]</sup> ② 培土壅根。<sup>\[泰兴\]</sup>  
 1. 【[壅痕<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_hen_r.md#壅痕<sub>儿</sub>)】`ion5 hen2 r` <sup>[东台]</sup> 人皮肤上出现的较深的皱纹：他脸上～越来越多啊。  
 1. 【[壅后跟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_heu_gen.md#壅后跟)】`ion5 heu6 gen1` <sup>[如皋]</sup> 鞋后跟有折痕而下塌。～的鞋子不跟脚，走路拖啊拖的。  
 1. 【[壅窠<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/i/ion_ku_r.md#壅窠<sub>儿</sub>)】`ion5 ku1 r` <sup>[如皋]</sup> 将婴儿放在摇篮中用被子包裹好。  

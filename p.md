@@ -135,9 +135,10 @@
 1. 【[攀阴亲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ien_qien.md#攀阴亲)】`paen1 ien1 qien1` <sup>[如皋]</sup> 旧时残存的一种风俗，为死人办“结婚”仪式。  
 1. 【[𤖭穰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ran_zz.md#𤖭穰子)】`paen2 ran2 zz` <small>/pʰɛ̃2 laŋ2 t͡sɿ/<sup>兴化</sup></small> 骂女孩的话<sup>\[兴化\]</sup>：细～，一点点大就学咖怪。<sup>\[兴化\]</sup>  
 1. 【[𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_zz.md#𤖭子)】`paen2 zz` <small>/pʰɛ̃2 t͡sɿ/<sup>兴化</sup></small> ① 劈成片的竹篾或剖开的芦苇<sup>\[兴化\]</sup>：篾～<sup>\[兴化\]</sup>｜芦柴～。<sup>\[兴化\]</sup> ② 碎瓦片、瓷片<sup>\[兴化\]</sup>：瓦～。<sup>\[兴化\]</sup>  
-1. 【[𨂝/湴/踫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝/湴/踫)】`paen2` <small>/pʰɛ̃2/<sup>兴化</sup>, /pʰẽ2/<sup>如皋</sup>, /pʰɛ̃2/<sup>泰县</sup></small> 徒步涉水<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：下河～水，～到齐颈项。<sup>\[如皋\]</sup>｜～河；～水<sup>\[兴化\]</sup>｜老头儿在下～水。<sup>\[泰县\]</sup>｜这条河的水不深，一～就～过啊唻。<sup>\[泰州\]</sup>  
+1. 【[𨂝/湴/踫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen.md#𨂝/湴/踫)】`paen2` <small>/pʰɛ̃2/<sup>兴化</sup>, /pʰẽ2/<sup>如皋</sup>, /pʰɛ̃2/<sup>泰兴</sup>, /pʰɛ̃2/<sup>泰县</sup></small> 徒步涉水<sup>\[如皋\]</sup><sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：下河～水，～到齐颈项。<sup>\[如皋\]</sup>｜～河；～水<sup>\[兴化\]</sup>｜老头儿在下～水。<sup>\[泰县\]</sup>｜这条河的水不深，一～就～过啊唻。<sup>\[泰州\]</sup>｜“～，徒步涉水。”（《广韵》）<sup>\[泰兴\]</sup>｜“赤脚渡水曰～水。”（《土风录》）<sup>\[泰兴\]</sup>｜乡人云：“矮子～河，越～越深。”<sup>\[泰兴\]</sup>  
 1. 【[𨂝本](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_ben.md#𨂝本)】`paen2 ben3` <small>/pʰɛ̃2 pən3/<sup>兴化</sup>, /pʰẽ2 pəŋ3/<sup>如皋</sup>, /pʰɛ̃2 pəŋ3/<sup>泰兴</sup></small> ① 扳回本钱，赢回已经输掉的本钱<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[兴化\]</sup><sup>\[如东\]</sup>\[泰兴：喻把输了的理再扳回来\]：哪个输钱的人不想～。<sup>\[泰州\]</sup>｜他还想～。<sup>\[如东\]</sup> ② 引指报复<sup>\[如皋\]</sup>：他前首吃咖张家的亏，今朝带人来～的。<sup>\[如皋\]</sup> ③ 通过努力把原来已经损失了的财富夺回来。<sup>\[东台\]</sup>  
 1. 【[𨂝河](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_hu.md#𨂝河)】`paen2 hu2` <sup>[如东]</sup> 从河水中走过去：河水不深，我俫～吧。  
+1. 【[𨂝河漉港](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_hu_loh_gan.md#𨂝河漉港)】`paen2 hu2 loh8 gan3` <small>/pʰɛ̃2 xɤɯ2 lɔʔ8 kɑŋ3/<sup>泰兴</sup></small> 谓经常与水打交道的人或职业。<sup>\[泰兴\]</sup>  
 1. 【[𨂝水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shuei.md#𨂝水)】`paen2 shuei3` ① 从水中走过去。<sup>\[如东\]</sup>：没得桥，我俫～过河吧。<sup>\[如东\]</sup> ② 蹚水过河，或在烂泥中行走。<sup>\[东台\]</sup>  
 1. 【[盼头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_teu.md#盼头)】`paen5 teu` <sup>[东台]</sup> 指可能实现的良好愿望。  
 1. 【[襻舌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/paen_shih_r.md#襻舌<sub>儿</sub>)】`paen5 shih8 r` <sup>[兴化]</sup> 舌系带的俗称。  
@@ -183,12 +184,13 @@
 1. 【[薄溜溜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_lieu_lieu.md#薄溜溜)】`pah8 lieu1 lieu1` <sup>[如东]</sup> 比较稀薄的粥：今朝的粥～的。  
 1. 【[薄薄<sub>儿</sub>的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pah_r_dii.md#薄薄<sub>儿</sub>的)】`pah8 pah8 r dii` <small>/pʰaʔ8 pʰa˞8 tei/<sup>如皋</sup></small> ① 状很薄<sup>\[如皋\]</sup>：扁食皮子擀得～。<sup>\[如皋\]</sup> ② 状很稀薄<sup>\[如皋\]</sup>：绿豆儿粥煮得～。<sup>\[如皋\]</sup>  
 1. 【[薄薄戏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pah_xi_r.md#薄薄戏<sub>儿</sub>)】`pah8 pah8 xi5 r` <sup>[东台]</sup> （贬）一系列鬼花招。  
-1. 【[薄皮材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_cae.md#薄皮材)】`pah8 pi2 cae2` <sup>[兴化]</sup> 一种板薄、质次的棺材：就这样东拜西求……凑合了一口～，总算了却金老三的丧事。（马春阳《姐妹姻缘船迷传》）  
+1. 【[薄皮材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_cae.md#薄皮材)】`pah8 pi2 cae2` <small>/pʰaʔ8 pʰi2 t͡sʰɛ2/<sup>兴化</sup>, /pʰɑʔ8 pʰʝ2 t͡ɕʰiɛ2/<sup>泰兴</sup></small> ① 一种板薄、质次的棺材<sup>\[兴化\]</sup>：就这样东拜西求……凑合了一口～，总算了却金老三的丧事。（马春阳《姐妹姻缘船迷传》）<sup>\[兴化\]</sup> ② 谓木头很薄的棺材。<sup>\[泰兴\]</sup>  
 1. 【[薄皮材<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_cae_r.md#薄皮材<sub>儿</sub>)】`pah8 pi2 cae2 r` <sup>[如皋]</sup> 简易棺材，边、皮等料所做  
 1. 【[薄皮<sub>儿</sub>材](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_r_cae.md#薄皮<sub>儿</sub>材)】`pah8 pi2 r cae2` <sup>[如皋]</sup> 边皮料做成的很小很薄的棺材。  
 1. 【[薄皮<sub>儿</sub>冻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_pi_r_don.md#薄皮<sub>儿</sub>冻)】`pah8 pi2 r don5` <sup>[如皋]</sup> 薄冰。  
 1. 【[薄脆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_qy.md#薄脆)】`pah8 qy5` <sup>[东台]</sup> ① 一种又甜又脆的点心。 ② 戏指一记耳光：他老子给啊他一个～。  
 1. 【[薄汤拐稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tan_guae_xi.md#薄汤拐稀)】`pah8 tan1 guae3 xi1` <sup>[兴化]</sup> 形容粥或其他汤汁过于稀薄：这粥～的，几泡尿一散就没有啊。  
+1. 【[薄汤薄水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tan_pah_shuei.md#薄汤薄水)】`pah8 tan1 pah8 shuei3` <small>/pʰɑʔ8 tʰɑŋ1 pʰɑʔ8 suəɪ3/<sup>泰兴</sup></small> 多指饮食很差，质量很低。<sup>\[泰兴\]</sup>  
 1. 【[薄汤稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tan_xi.md#薄汤稀)】`pah8 tan1 xi1` <sup>[如东]</sup> 很稀的粥。  
 1. 【[薄田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_tin.md#薄田)】`pah8 tin2` <sup>[如东]</sup> 不肥沃的田。  
 1. 【[薄粥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pah_zhoh.md#薄粥)】`pah8 zhoh7` <small>/pʰaʔ8 t͡sɔʔ7/<sup>如皋</sup>, /pʰɑʔ8 t͡sɔʔ7/<sup>泰县</sup></small> ① 稀粥 ② 指含水多的粥。<sup>\[如皋\]</sup> ③ 很稀的粥。<sup>\[如东\]</sup> ④ 米或䜺用得较少，煮得很稀的粥。<sup>\[东台\]</sup> ⑤ 稀饭<sup>\[泰县\]</sup>：早上只喝咖一碗～。<sup>\[泰县\]</sup> ⑥ 水分很多的粥，稀薄的粥。<sup>\[泰州\]</sup>  
@@ -542,13 +544,15 @@
 1. 【[劈陡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_deu.md#劈陡)】`pieh7 deu3` <sup>[东台]</sup> 像刀劈的那样非常陡峭。  
 1. 【[劈刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_do.md#劈刀)】`pieh7 do1` <small>/pʰiɪʔ7 tɔ1/<sup>泰县</sup></small> 砍刀<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这个～好用。<sup>\[泰县\]</sup>  
 1. 【[劈口](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_keu.md#劈口)】`pieh7 keu3` <small>/pʰiɪʔ7 kʰɤ3/<sup>兴化</sup></small> ① 随口<sup>\[兴化\]</sup>：老徐不曾等他把话说完，～就顶家去啊。<sup>\[兴化\]</sup>｜嵇氏听雨生～便说出这句不大兴会的话，十分不自在……（《广陵潮》五四）<sup>\[兴化\]</sup> ② 不假思索开口直奔主题<sup>\[泰州\]</sup>：他～就问，你同她到底出咖甚的问题？<sup>\[泰州\]</sup>  
+1. 【[劈里噗落](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_lii_pah_lah.md#劈里噗落)】`pieh7 lii pah7 lah` <small>/pʰiʔ7 ləɪ pʰɑʔ7 lɑʔ/<sup>泰兴</sup></small> 象声词。表示很干脆的响声。<sup>\[泰兴\]</sup>  
+1. 【[劈劈啪啪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_pieh_poh_poh.md#劈劈啪啪)】`pieh7 pieh7 poh7 poh7` <small>/pʰiʔ7 pʰiʔ7 pʰɔʔ7 pʰɔʔ7/<sup>泰兴</sup></small> 象声词。表示鞭炮声或连续不断的响声。<sup>\[泰兴\]</sup>  
 1. 【[劈头盖脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_teu_gae_lin.md#劈头盖脸)】`pieh7 teu2 gae5 lin3` <sup>[东台]</sup> 来势凶猛，无法躲避。  
 1. 【[劈头劈脑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_teu_pieh_no.md#劈头劈脑)】`pieh7 teu2 pieh7 no3` <small>/pʰiəʔ7 tʰei2 pʰiəʔ7 nɔ3/<sup>如皋</sup></small> 喻不问情由地责怪<sup>\[如皋\]</sup>：他一到家就～的乱骂人。<sup>\[如皋\]</sup>  
-1. 【[劈斫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zhah.md#劈斫)】`pieh7 zhah7` <small>/pʰiɪʔ7 t͡saʔ7/<sup>兴化</sup>, /pʰiəʔ7 t͡saʔ7/<sup>如皋</sup>, /pʰiɪʔ7 t͡sɑʔ7/<sup>泰县</sup></small> ① 仲裁、裁决：祖产～为三份，每个子女一份。<sup>\[如皋\]</sup> ② 在评估、会商、协调的基础上裁决<sup>\[东台\]</sup>：这套房子买方提出值30万，卖方要50万，经他出面协调～，以38万成交。<sup>\[东台\]</sup> ③ 裁判、了断<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：请你～下子，这张方桌值几文？<sup>\[兴化\]</sup>｜“……（这袈裟）若众人扯破分之，其实可惜。若独归一人，众人无利。幸老爹来，凭老爹做个～。”（《西游记》九七）<sup>\[兴化\]</sup>｜这件你～下子。<sup>\[泰县\]</sup>｜我俫这件事请老李做个～，该怎吖说就怎吖说。<sup>\[泰州\]</sup> ④ 经过思考以后做出决断<sup>\[泰州\]</sup>：他这个糊涂蛋能有甚的～，还是你同他拿个主意吧。<sup>\[泰州\]</sup>  
+1. 【[劈斫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zhah.md#劈斫)】`pieh7 zhah7` <small>/pʰiɪʔ7 t͡saʔ7/<sup>兴化</sup>, /pʰiəʔ7 t͡saʔ7/<sup>如皋</sup>, /pʰiʔ7 t͡sɑʔ7/<sup>泰兴</sup>, /pʰiɪʔ7 t͡sɑʔ7/<sup>泰县</sup></small> ① 仲裁、裁决<sup>\[如皋\]</sup>\[泰兴：《泰兴方言辞典》作“劈作”。\]：祖产～为三份，每个子女一份。<sup>\[如皋\]</sup> ② 在评估、会商、协调的基础上裁决<sup>\[东台\]</sup>：这套房子买方提出值30万，卖方要50万，经他出面协调～，以38万成交。<sup>\[东台\]</sup> ③ 裁判、了断<sup>\[兴化\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>：请你～下子，这张方桌值几文？<sup>\[兴化\]</sup>｜“……（这袈裟）若众人扯破分之，其实可惜。若独归一人，众人无利。幸老爹来，凭老爹做个～。”（《西游记》九七）<sup>\[兴化\]</sup>｜这件你～下子。<sup>\[泰县\]</sup>｜我俫这件事请老李做个～，该怎吖说就怎吖说。<sup>\[泰州\]</sup> ④ 经过思考以后做出决断<sup>\[泰州\]</sup>：他这个糊涂蛋能有甚的～，还是你同他拿个主意吧。<sup>\[泰州\]</sup>  
 1. 【[劈招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_zho.md#劈招)】`pieh7 zho1` <sup>[兴化]</sup> ① 原指破解对方武功招数。（引）回嘴：他自家晓得理亏，骂他一顿也不曾敢～。 ② 还价：我俫要求赔偿，对方不曾～。  
 1. 【[枇杷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_pah.md#枇杷)】`pieh7 pah7` <sup>[如东]</sup> 蔷薇科植物枇杷，常绿乔木。  
 1. 【[枇杷梗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh_pah_gen_r.md#枇杷梗<sub>儿</sub>)】`pieh7 pah7 gen3 r` <sup>[如皋]</sup> 一种像枇杷果柄的用荤油炸的糯米粉条甜茶食。  
-1. 【[癖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh.md#癖)】`pieh7` <sup>[如东]</sup> 性情古怪：她有这个～。  
+1. 【[癖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh.md#癖)】`pieh7` <small>/pʰiʔ7/<sup>泰兴</sup></small> ① 性情古怪。<sup>\[如东\]</sup>：她有这个～。<sup>\[如东\]</sup> ② 嗜好；上瘾。<sup>\[泰兴\]</sup>  
 1. 【[𤐙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh.md#𤐙)】`pieh7` <small>/pʰiɪʔ7/<sup>泰县</sup></small> 烤焦<sup>\[泰县\]</sup>：我昨咖在厨房里把衣裳～掉啊。<sup>\[泰县\]</sup>  
 1. 【[柲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh.md#柲)】`pieh8` <sup>[如东]</sup> 门板后面的横条，叫做柲。  
 1. 【[鼻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pieh.md#鼻)】`pieh8` <sup>[如皋]</sup> 与木板缝正相交的加固木料，有的兼作提扭：釜㔶～。  
@@ -732,7 +736,7 @@
 1. 【[便钱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_qin.md#便钱)】`pin6 qin2` <small>/pʰĩ1 t͡ɕʰĩ2/<sup>泰兴</sup></small> 以大面额的钱换小面额的钱<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[便斢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_tio.md#便斢)】`pin6 tio3` <small>/pʰĩ1 tʰiɔ3/<sup>如皋</sup></small> 调换<sup>\[如皋\]</sup>：我的值班时间他～下子<sup>\[如皋\]</sup>｜你同他把座位～下子。<sup>\[如皋\]</sup>  
 1. 【[缏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin.md#缏)】`pin6` <small>/pʰĩ1/<sup>如皋</sup></small> 动词<sup>\[如皋\]</sup>：～百索儿。～草帽鞭儿。<sup>\[如皋\]</sup>  
-1. 【[辩白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_poh.md#辩白)】`pin6 poh8` <sup>[如东]</sup> 说明真相，解释清楚：我要当面～。  
+1. 【[辩白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_poh.md#辩白)】`pin6 poh8` <small>/pʰĩ1 pʰɔʔ8/<sup>泰兴</sup></small> ① 说明真相，解释清楚。<sup>\[如东\]</sup>：我要当面～。<sup>\[如东\]</sup> ② 辩析明白，分辩清楚。<sup>\[泰兴\]</sup>  
 1. 【[辫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pin_zz.md#辫子)】`pin6 zz` <sup>[如东]</sup> 把头发分股编成柳花条儿。比喻把柄：捱人抓住啊～。  
 1. 【[剽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#剽)】`pio1` <small>/pʰiɔ1/<sup>如皋</sup></small> 用刀薄削<sup>\[如皋\]</sup>：～火腿边儿。<sup>\[如皋\]</sup>  
 1. 【[嘌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嘌)】`pio1` <small>/pʰiɔ1/<sup>如皋</sup></small> ① 信口乱说<sup>\[如皋\]</sup>：他说话信口～。<sup>\[如皋\]</sup> ② 话不可信<sup>\[如皋\]</sup>：他说话是～的，能信的没得二成账。<sup>\[如皋\]</sup>  
@@ -748,6 +752,7 @@
 1. 【[飘飘<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_pio_r.md#飘飘<sub>儿</sub>)】`pio1 pio1 r` <small>/pʰiɔ1 pʰiɔ˞1/<sup>如皋</sup>, /pʰiɔ1 pʰiɔ˞1/<sup>泰兴</sup></small> 做事不稳重的人<sup>\[泰兴\]</sup><sup>\[如皋\]</sup>  
 1. 【[飘球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_qieu.md#飘球)】`pio1 qieu2` <sup>[如皋]</sup> 打乒乓球、排球的一种技法，飘忽前进。  
 1. 【[飘扇骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_shin_gueh.md#飘扇骨)】`pio1 shin gueh7` <small>/pʰiɔ1 ɕĩ kuəʔ7/<sup>泰兴</sup></small> 肩胛骨。或与肩胛骨一起售卖的猪肉。<sup>\[泰兴\]</sup>  
+1. 【[飘锨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_xin.md#飘锨)】`pio1 xin1` <small>/pʰiɔ1 ɕĩ1/<sup>泰兴</sup></small> 铲面宽大的铁锨。铲面小的叫铁铲，铲头尖而圆的叫洋锹。<sup>\[泰兴\]</sup>  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#□)】`pio2` <small>/pʰiɔ2/<sup>泰县</sup></small> 牙齿外露<sup>\[泰县\]</sup>：牙齿～啊外头。<sup>\[泰县\]</sup>  
 1. 【[嫖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#嫖)】`pio2` <small>/pʰiɔ2/<sup>泰兴</sup></small> ① 旧社会男子到妓院玩弄妓女。<sup>\[如东\]</sup>：～妓。<sup>\[如东\]</sup> ② 男子与非法定婚姻女子发生性关系。<sup>\[如东\]</sup>：他～婆娘。<sup>\[如东\]</sup> ③ 欺骗，俚语。<sup>\[如东\]</sup> ④ 多指男子与妓女发生性关系。本地通常对男子在外找女人都叫～婆娘。<sup>\[东台\]</sup> ⑤ 玩弄女性的行为。<sup>\[泰兴\]</sup>  
 1. 【[嫖婊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_bio_zz.md#嫖婊子)】`pio2 bio3 zz` <sup>[如皋]</sup> 花钱嫖妓女。  
@@ -760,9 +765,9 @@
 1. 【[瓢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio.md#瓢)】`pio2` <sup>[如皋]</sup> 见“瓢嘴”。  
 1. 【[瓢不动，水不响](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_beh_ton_shuei.md#瓢不动，水不响)】`pio2 beh7 ton6 shuei3 beh7 xian3` <sup>[兴化]</sup> 形容毫无动静：（米大爹）走到大门口一看，大门关着，窗户门着，屋子里～。（马春阳《访亲》）  
 1. 【[瓢粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_fen.md#瓢粉)】`pio2 fen3` <sup>[兴化]</sup> 扁粉条，制成后泡在水中。  
-1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy.md#瓢嘴)】`pio2 jy3` <small>/pʰiɔ2 t͡ɕy3/<sup>如皋</sup>, /pʰiɔ2 t͡ɕy3/<sup>泰县</sup></small> ① 欲哭貌<sup>\[如皋\]</sup>：伢儿捱骂啊，只将～。<sup>\[如皋\]</sup> ② 小儿将要哭泣之前嘴唇的状态。<sup>\[如东\]</sup> ③ 嘴撅起，嘴角抽搐，露出要哭的样子<sup>\[东台\]</sup>：这个小伢子，才说他两句，他就～。<sup>\[东台\]</sup> ④ 婴儿要哭前的姿态<sup>\[泰县\]</sup>：这伢儿要～。<sup>\[泰县\]</sup> ⑤ 不愿意<sup>\[泰县\]</sup>：这个事她有点儿～。<sup>\[泰县\]</sup>  
+1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_jy.md#瓢嘴)】`pio2 jy3` <small>/pʰiɔ2 t͡ɕy3/<sup>如皋</sup>, /pʰiɔ2 t͡ɕy3/<sup>泰兴</sup>, /pʰiɔ2 t͡ɕy3/<sup>泰县</sup></small> ① 欲哭貌<sup>\[如皋\]</sup>：伢儿捱骂啊，只将～。<sup>\[如皋\]</sup> ② 小儿将要哭泣之前嘴唇的状态。<sup>\[如东\]</sup> ③ 双唇紧闭向上翘起；鼓唇。多指孩童不满的表情或欲哭状。<sup>\[泰兴\]</sup> ④ 嘴撅起，嘴角抽搐，露出要哭的样子<sup>\[东台\]</sup>：这个小伢子，才说他两句，他就～。<sup>\[东台\]</sup> ⑤ 婴儿要哭前的姿态<sup>\[泰县\]</sup>：这伢儿要～。<sup>\[泰县\]</sup> ⑥ 不愿意<sup>\[泰县\]</sup>：这个事她有点儿～。<sup>\[泰县\]</sup>  
 1. 【[瓢泼大雨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_puh_da_y.md#瓢泼大雨)】`pio2 puh7 da6 y3` <sup>[如皋]</sup> 雨特别大。  
-1. 【[瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_r.md#瓢<sub>儿</sub>)】`pio2 r` <sup>[如东]</sup> 容器。葫芦剖开制成椭圆形，可以盛物，也可以舀水。  
+1. 【[瓢<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_r.md#瓢<sub>儿</sub>)】`pio2 r` <small>/pʰiɔ˞2/<sup>泰兴</sup></small> 葫芦剖半制成的盛物、舀水器具。\[泰兴：以老熟的葫芦对半剖开制成的舀水器具。\]\[如东：容器。葫芦剖开制成椭圆形，可以盛物，也可以舀水。\]  
 1. 【[瓢<sub>儿</sub>嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_r_jy.md#瓢<sub>儿</sub>嘴)】`pio2 r jy3` <small>/pʰiɔ˞2 t͡ɕy3/<sup>如皋</sup></small> ① 嘴大、嘴唇常扭动的样子。<sup>\[如皋\]</sup> ② 嘴大，嘴唇前伸。<sup>\[如东\]</sup>  
 1. 【[瓢嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_zuei.md#瓢嘴)】`pio2 zuei3` <sup>[兴化]</sup> ① 撅着嘴并微微颤动的样子：……宜荣夫妇瓢着嘴儿唠叨地走了。（马春阳《月朗和她的娘舅们》） ② 两唇颤动，将要啼哭的样子：他被骂得直～，又不敢哭出声来。  
 1. 【[□孙<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pio_suen_r.md#□孙<sub>儿</sub>)】`pio3 suen1 r` <sup>[如皋]</sup> 长房长孙，刚生时称。  
@@ -909,9 +914,11 @@
 1. 【[抱小腰<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_xio_io_r.md#抱小腰<sub>儿</sub>)】`po6 xio3 io1 r` <sup>[如皋]</sup> 从背后抱住下腰部。比喻支持者、拥护者、保护者。  
 1. 【[抱整](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhen.md#抱整)】`po6 zhen3` <sup>[兴化]</sup> 固执已见，认死理：他这个人就是～，不肯听人劝。也说“抱死理”。  
 1. 【[抱奘腿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_zhuan_ty.md#抱奘腿)】`po6 zhuan3 ty3` <sup>[东台]</sup> ［喻］找靠山，拍马屁。  
+1. 【[暴打暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_da_po_dii.md#暴打暴的)】`po6 da po6 dii` <small>/pʰɔ1 tɑ pʰɔ1 təɪ/<sup>泰兴</sup></small> 突然的；间或的；以前没有做过的或接触过的。<sup>\[泰兴\]</sup>  
 1. 【[暴腌咸菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_in_haen_cae.md#暴腌咸菜)】`po6 in1 haen2 cae5` <sup>[泰州]</sup> 一种腌制小菜，将青菜的披叶（青菜外圈的叶）用刀切碎，用盐揉匀，待其出卤以后，用手挤干盐卤，放置容器之中，一宿以后即可食用，可加麻油、酱油、辣椒拌后生食，亦可炒食。“以其醃制时间约在一宿”而名：择咖来的青菜披叶不要撂掉，留啊～。  
 1. 【[暴暴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_po_dii.md#暴暴的)】`po6 po6 dii` <sup>[如皋]</sup> 忽然地：他～一走，我觉察𨃯啊一大空｜人～来啊，家里一点儿菜总没得，要赶紧准备。  
 1. 【[爆灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei.md#爆灰)】`po6 huei1` <small>/pʰɔ6 xuəi1/<sup>兴化</sup>, /pʰɔ1 xuei1/<sup>如皋</sup>, /pʰɔ1 xuəɪ1/<sup>泰兴</sup></small> ① 柴薪灰烬 ② 灶下出的草木灰<sup>\[如皋\]</sup> ③ 灶膛里的草灰。<sup>\[如东\]</sup> ④ 锅膛里柴草的灰烬。<sup>\[东台\]</sup> ⑤ 草木灰。<sup>\[泰兴\]</sup> ⑥ 草灰。<sup>\[兴化\]</sup>：谚曰：～也有发热之时。<sup>\[兴化\]</sup>  
+1. 【[爆灰焐脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/po_huei_v_jiah.md#爆灰焐脚)】`po6 huei1 v5 jiah7` <small>/pʰɔ1 xuəɪ1 ʋ5 t͡ɕiɑʔ7/<sup>泰兴</sup></small> 詈语。谓不肯出门说话做事，不见世面。<sup>\[泰兴\]</sup>  
 1. 【[啪录啪录](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_loh_poh_loh.md#啪录啪录)】`poh7 loh poh7 loh` <sup>[如皋]</sup> 状说话快而连续不止，像放连珠炮。  
 1. 【[扑板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_baen.md#扑板)】`poh7 baen3` <sup>[如东]</sup> 工具。木质，长方形，有柄。扑匠用来平整扑屋屋面。也叫木蟹。  
 1. 【[扑粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/poh_fen.md#扑粉)】`poh7 fen3` <sup>[东台]</sup> ① 化妆用的香粉。 ② 爽身粉。  
@@ -1097,8 +1104,10 @@
 1. 【[棚糏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_xih.md#棚糏)】`pon2 xih7` <sup>[如皋]</sup> 磨小麦、杂粮时，未飞扬的粒度极小的面粉。飞扬后刷下的称“飞面”。  
 1. 【[棚子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz.md#棚子)】`pon2 zz` <small>/pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 用竹木一类东西搭成的蓬架、简易小屋。<sup>\[泰兴\]</sup>  
 1. 【[篷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#篷)】`pon2` <sup>[如东]</sup> 船帆。长方形。规格有大有小。是帆船利用风力推动前进的主要工具。  
+1. 【[篷布](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_bv.md#篷布)】`pon2 bv5` <small>/pʰɔŋ2 pu5/<sup>泰兴</sup></small> 张篷用的布。<sup>\[泰兴\]</sup>  
 1. 【[篷篷车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_pon_cha_r.md#篷篷车<sub>儿</sub>)】`pon2 pon2 cha1 r` <sup>[如皋]</sup> 手推式独轮车的一种，大轮，轮上有篷。又名“连篷车儿”。  
 1. 【[篷头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_teu_r.md#篷头<sub>儿</sub>)】`pon2 teu2 r` <sup>[泰县]</sup> 露天粮囤的顶篷。  
+1. 【[篷子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz.md#篷子)】`pon2 zz` <small>/pʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 张盖在上面，遮蔽阳光、风、雨的设施。<sup>\[泰兴\]</sup>  
 1. 【[篷子船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_zz_chun.md#篷子船)】`pon2 zz chun2` <small>/pʰoŋ2 t͡sɿ t͡sʰũ2/<sup>兴化</sup>, /pʰɔŋ2 t͡sɿ t͡sʰʊ̃2/<sup>如皋</sup></small> ① 帆船。船家忌“翻”，改称“篷子”。<sup>\[如皋\]</sup> ② 舱面圈着芦席或竹席的船。<sup>\[兴化\]</sup>  
 1. 【[蓬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon.md#蓬)】`pon2` <sup>[泰州]</sup> （头发）松乱（*髼）：～头  
 1. 【[蓬情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pon_qien.md#蓬情)】`pon2 qien2` <sup>[如东]</sup> 热情：这个姑娘～。  
@@ -1351,7 +1360,7 @@
 1. 【[拌食](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_sheh.md#拌食)】`pun6 sheh8` <sup>[东台]</sup> 给牲畜调和好饲料。  
 1. 【[拌种](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pun_zhon.md#拌种)】`pun6 zhon3` <sup>[如东]</sup> 把杀虫剂或激素等加在种子中搅拌，杀死病菌害虫，以提高产量。  
 1. 【[哹来喝去](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_lae_huh_qy.md#哹来喝去)】`pv1 lae2 huh7 qy5` <sup>[如皋]</sup> 粗暴的对别人说话，盘使别人。  
-1. 【[潽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#潽)】`pv1` <small>/pʰu1/<sup>兴化</sup>, /pʰu1/<sup>如皋</sup>, /pʰu1/<sup>泰县</sup></small> ① 溢出 ② 沸腾至液体溢出。<sup>\[如皋\]</sup> ③ 液体受热后从锅中往外流淌，叫做潽。<sup>\[如东\]</sup> ④ 液体因沸腾而溢出<sup>\[东台\]</sup>：快！粥锅～起来啊，快点儿把锅盖𫽐开。<sup>\[东台\]</sup> ⑤ 液体沸腾从锅中溢出<sup>\[兴化\]</sup>：豆浆～出来啊。<sup>\[兴化\]</sup> ⑥ 因发酵而膨胀<sup>\[兴化\]</sup>：面酵～出来啊。<sup>\[兴化\]</sup> ⑦ 向外喷<sup>\[兴化\]</sup>：他搬吖一气砖头，嘴里直～气。老七捱摩托车撞倒，嘴里血～～的。<sup>\[兴化\]</sup> ⑧ 形容伸展开<sup>\[兴化\]</sup>：老吴的脸胖吖～开来啦！<sup>\[兴化\]</sup> ⑨ 水开了后往外淌。<sup>\[泰县\]</sup> ⑩ 沸腾的液体溢出。<sup>\[泰州\]</sup>  
+1. 【[潽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#潽)】`pv1` <small>/pʰu1/<sup>兴化</sup>, /pʰu1/<sup>如皋</sup>, /pʰu1/<sup>泰兴</sup>, /pʰu1/<sup>泰县</sup></small> ① 溢出 ② 沸腾至液体溢出。<sup>\[如皋\]</sup> ③ 液体受热后从锅中往外流淌，叫做潽。<sup>\[如东\]</sup> ④ 液体因沸腾而溢出<sup>\[东台\]</sup>：快！粥锅～起来啊，快点儿把锅盖𫽐开。<sup>\[东台\]</sup> ⑤ 液体沸腾从锅中溢出<sup>\[兴化\]</sup>：豆浆～出来啊。<sup>\[兴化\]</sup> ⑥ 因发酵而膨胀<sup>\[兴化\]</sup>：面酵～出来啊。<sup>\[兴化\]</sup> ⑦ 向外喷<sup>\[兴化\]</sup>：他搬吖一气砖头，嘴里直～气。老七捱摩托车撞倒，嘴里血～～的。<sup>\[兴化\]</sup> ⑧ 形容伸展开<sup>\[兴化\]</sup>：老吴的脸胖吖～开来啦！<sup>\[兴化\]</sup> ⑨ 水开了后往外淌。<sup>\[泰县\]</sup> ⑩ 沸腾的液体溢出。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：锅里～lo<sup>\[泰兴\]</sup>  
 1. 【[潽𣳠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_mu.md#潽𣳠)】`pv1 mu3` 人在昏厥、抽搐时从嘴角渗出白色唾液，口吐白沫<sup>\[泰州\]</sup>：不得命唻，年纪大的嘴里～唻。<sup>\[泰州\]</sup>  
 1. 【[潽蛋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv_taen.md#潽蛋)】`pv1 taen6` <sup>[如皋]</sup> 加水多炖得嫩的蛋。  
 1. 【[豧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pv.md#豧)】`pv1` <sup>[东台]</sup> 猪的喘息声，引申为人的喘息：～气。（《说文·豕部》“豧，豕息也。从豕，甫声。”）  

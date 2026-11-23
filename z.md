@@ -83,14 +83,14 @@
 1. 【[砸锅卖铁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_gu_mae_tih.md#砸锅卖铁)】`zaeh7 gu1 mae6 tih7` <sup>[东台]</sup> ［喻］尽其所有：我哪怕～，也要把你这个病治好。  
 1. 【[咂味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaeh_vei.md#咂味)】`zaeh8 vei6` <sup>[兴化]</sup> 寻开心：你没事又拿我～。  
 1. 【[□](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#□)】`zaen1` <small>/t͡sɛ̃1/<sup>兴化</sup></small> 旧时卖油商家用平底勺或端子底在油表面蘸一点饶给顾客<sup>\[兴化\]</sup>：～麻油。<sup>\[兴化\]</sup>  
-1. 【[劗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#劗)】`zaen1` <small>/t͡sɛ̃1/<sup>兴化</sup>, /t͡sẽ1/<sup>如皋</sup></small> ① 剁，斩 ② 剁、剁碎<sup>\[如皋\]</sup>：～肉、～鱼、～猪草。<sup>\[如皋\]</sup> ③ 剁。<sup>\[如东\]</sup><sup>\[东台\]</sup>：～肉。<sup>\[如东\]</sup>｜～肉。<sup>\[东台\]</sup> ④ 用刀斧自上而下连续地剁<sup>\[兴化\]</sup>：～肉坨子<sup>\[兴化\]</sup>｜恨不得拿刀～吖这个坏家伙。<sup>\[兴化\]</sup> ⑤ 连续不断地切肉或蔬菜使之成糜<sup>\[泰州\]</sup>：你把肉～吖子。<sup>\[泰州\]</sup>｜你把菜～吖细啊点儿。<sup>\[泰州\]</sup>  
+1. 【[劗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#劗)】`zaen1` <small>/t͡sɛ̃1/<sup>兴化</sup>, /t͡sẽ1/<sup>如皋</sup>, /t͡ɕiɛ̃1/<sup>泰兴</sup></small> ① 剁，斩 ② 剁、剁碎<sup>\[如皋\]</sup>：～肉、～鱼、～猪草。<sup>\[如皋\]</sup> ③ 剁。<sup>\[如东\]</sup><sup>\[东台\]</sup>：～肉。<sup>\[如东\]</sup>｜～肉。<sup>\[东台\]</sup> ④ 切碎；用刀剁。<sup>\[泰兴\]</sup>：～肉。<sup>\[泰兴\]</sup>｜～猪草。<sup>\[泰兴\]</sup> ⑤ 用刀斧自上而下连续地剁<sup>\[兴化\]</sup>：～肉坨子<sup>\[兴化\]</sup>｜恨不得拿刀～吖这个坏家伙。<sup>\[兴化\]</sup> ⑥ 连续不断地切肉或蔬菜使之成糜<sup>\[泰州\]</sup>：你把肉～吖子。<sup>\[泰州\]</sup>｜你把菜～吖细啊点儿。<sup>\[泰州\]</sup>  
 1. 【[劗草龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_co_lon.md#劗草龙)】`zaen1 co3 lon2` <sup>[如皋]</sup> 农具，长约1.5m，木轴上有很多很密的扁木齿，牛在待𦔔的水田中牵滚以压草入土。  
 1. 【[劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_roh.md#劗肉)】`zaen1 roh8` <small>/t͡sɛ̃1 lɤ5/<sup>兴化</sup>, /t͡sẽ1 ɻɔʔ/<sup>如皋</sup>, /t͡ɕiɛ̃1 ɻɔʔ/<sup>泰兴</sup></small> 肉圆<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>\[泰州：百姓家常菜肴之一，五花猪肉去皮与生姜、葱一起切碎，放入盆中，加进适量料酒、香油、糖、盐、酱油、蛋清、味精等调料，搅拌以后做成大圆球状，或放入油锅中炸熟以后另行红烧，或直接放在青菜上煮熟。\]：武大也不客气，坐下来望望桌上几样菜：汆鸟鱼，葵花大～。（《武松》二）<sup>\[兴化\]</sup>  
 1. 【[劗肉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_roh.md#劗肉)】`zaen1 roh8` <small>/t͡sɛ̃1 lɤ5/<sup>兴化</sup>, /t͡sẽ1 ɻɔʔ8/<sup>如皋</sup>, /t͡ɕiɛ̃1 ɻɔʔ8/<sup>泰兴</sup></small> 将肉剁碎。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[如皋：将猪精肉剁碎，用以做饼、饺儿的包馅或掺肥肉丁儿做大、小肉圆。\]  
 1. 【[劗肉圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_roh_iun_zz.md#劗肉圆子)】`zaen1 roh8 iun2 zz` <sup>[如东]</sup> 将剁碎的肉做成圆子，放在油锅里煎熟，即为劗肉圆子。  
 1. 【[劗鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_y.md#劗鱼)】`zaen1 y2` <sup>[如皋]</sup> ① 劗成糜的鱼肉，须体大肉厚的品种，常用青鯶、花鯶、黑鱼、花鱼，最考究的用刀鱼、鲥鱼、鳜鱼。 ② 劗鱼糜的过程。  
 1. 【[劗猪草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_zhv_co.md#劗猪草)】`zaen1 zhv1 co3` <sup>[如皋]</sup> 猪草挑回来，洗净劗碎，杂以精料，煮熟喂猪。  
-1. 【[㜺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#㜺)】`zaen3` <small>/t͡sɛ̃3/<sup>兴化</sup>, /t͡sɛ̃3/<sup>泰县</sup></small> ① 好。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这支笔～！<sup>\[如东\]</sup>｜这幅画儿画得～。<sup>\[泰县\]</sup> ② 好，棒的意思。<sup>\[东台\]</sup> ③ 好。（《广韵》组赞切）<sup>\[东台\]</sup> ④ 形容好、优异<sup>\[兴化\]</sup>：喝来喝去还是洋河大曲的味道～。<sup>\[兴化\]</sup>｜海尔冰箱保鲜又省电，果然是～货。<sup>\[兴化\]</sup> ⑤ 泛指事物美好<sup>\[泰州\]</sup>：老李写的字～。<sup>\[泰州\]</sup>｜这件衣裳穿吖她身上确实～。<sup>\[泰州\]</sup>  
+1. 【[㜺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen.md#㜺)】`zaen3` <small>/t͡sɛ̃3/<sup>兴化</sup>, /t͡ɕiɛ̃3/<sup>泰兴</sup>, /t͡sɛ̃3/<sup>泰县</sup></small> ① 好。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：这支笔～！<sup>\[如东\]</sup>｜这幅画儿画得～。<sup>\[泰县\]</sup> ② 好，棒的意思。<sup>\[东台\]</sup> ③ 好。（《广韵》组赞切）<sup>\[东台\]</sup> ④ 形容好、优异<sup>\[兴化\]</sup>：喝来喝去还是洋河大曲的味道～。<sup>\[兴化\]</sup>｜海尔冰箱保鲜又省电，果然是～货。<sup>\[兴化\]</sup> ⑤ 泛指事物美好<sup>\[泰州\]</sup>：老李写的字～。<sup>\[泰州\]</sup>｜这件衣裳穿吖她身上确实～。<sup>\[泰州\]</sup> ⑥ 美好；优异。<sup>\[泰兴\]</sup>  
 1. 【[㜺刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_gan.md#㜺刚)】`zaen3 gan1` <sup>[东台]</sup> 同“㜺”。  
 1. 【[怎<sub>吖</sub>弄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_lon.md#怎<sub>吖</sub>弄)】`zaen3 lon6` <sup>[泰县]</sup> 怎么办：这事你看～好。  
 1. 【[昝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zaen_r.md#昝<sub>儿</sub>)】`zaen3 r` <sup>[如皋]</sup> 一会儿。  
@@ -249,7 +249,7 @@
 1. 【[怎说怎好](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_shuh_zen_ho.md#怎说怎好)】`zen3 shuh7 zen3 ho3` <sup>[兴化]</sup> 言听计从或随对方心意办事：“……叔公～，只请叔公吩附就是了……”（《二十年目睹之怪现状》九九）  
 1. 【[甑𠖫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_gun.md#甑𠖫)】`zen5 gun5` <sup>[如皋]</sup> 甑子上的盖子。因为过大，分为两个半圆，各有“工”字鼻，供把握。  
 1. 【[甑䌁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_io.md#甑䌁)】`zen5 io5` <sup>[东台]</sup> 锅盖与锅之间的圆圈形草䌁子。起密封和保护锅盖作用。  
-1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` 木制桶状厨具，蒸饭用\[东台：加在锅子上面，蒸饭用的木制桶状物。\]\[如东：木制，圆桶形，下面有孔。用以蒸糕、蒸饭等。\]\[泰州：蒸饭用的有屉有盖无底木制桶装器具。\]  
+1. 【[甑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zen_zz.md#甑子)】`zen5 zz` <small>/t͡səŋ5 t͡sɿ/<sup>泰兴</sup></small> 木制桶状厨具，蒸饭用\[东台：加在锅子上面，蒸饭用的木制桶状物。\]\[泰兴：木制圆筒状的用于蒸饭的锅上器物。\]\[如东：木制，圆桶形，下面有孔。用以蒸糕、蒸饭等。\]\[泰州：蒸饭用的有屉有盖无底木制桶装器具。\]  
 1. 【[走](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu.md#走)】`zeu3` <small>/t͡sɤ3/<sup>兴化</sup>, /t͡sei3/<sup>如皋</sup>, /t͡sɤɯ3/<sup>泰兴</sup>, /t͡sɤɯ3/<sup>泰县</sup></small> ① 经过某地去某处<sup>\[通用\]</sup>：～上海去北京。/经过上海去北京。<sup>\[通用\]</sup> ② 从（表示空间的起点）<sup>\[通用\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：～哪许开始？/从哪里开始？<sup>\[通用\]</sup>｜他～泰州开到南京顶多两个钟头。<sup>\[泰州\]</sup>｜你走老李开始，个人发一张票。<sup>\[泰州\]</sup>｜上黄桥你～箇许一脚向东<sup>\[泰兴\]</sup> ③ 人或鸟兽的脚交互向前移动。<sup>\[如东\]</sup> ④ 一种烹调方法，把菜肴放在沸油中稍煮即捞起来，叫走。<sup>\[如东\]</sup> ⑤ 一种缝纫方法，用针线在布的边沿缝一条线，称走。<sup>\[如东\]</sup> ⑥ 死的讳称。<sup>\[如东\]</sup>：他已经～啊。<sup>\[如东\]</sup> ⑦ 物体移动、倾斜，偏离了原来的部位<sup>\[兴化\]</sup>：元来那一垛墙～了，一向床遮着不觉得，此时偶然坍将下米……（《二刻》十五）<sup>\[兴化\]</sup> ⑧ 生的菜肴放在油锅中汆一下就捞起来，临吃时再加佐料烩<sup>\[兴化\]</sup>：先拿油～啊子。<sup>\[兴化\]</sup> ⑨ 食品放到锅里后很快捞起来<sup>\[泰县\]</sup>：地瓜切成片以后只要放锅去～下子就能吃。<sup>\[泰县\]</sup> ⑩ 物体偏离原位<sup>\[泰州\]</sup>：他家这扇大门有点儿走啊向西，要请木匠来弄吖子。<sup>\[泰州\]</sup>｜他的线画得笔直的，不作兴～点点儿。<sup>\[泰州\]</sup> ⑪ 动词后缀，表示离开趋势<sup>\[泰州\]</sup>：你把船撑走。<sup>\[泰州\]</sup>｜把车子开走。<sup>\[泰州\]</sup> ⑫ 委婉指人死<sup>\[泰州\]</sup>：他家老的去年～的。<sup>\[泰州\]</sup> ⑬ 打牌下棋时出牌，移动棋子<sup>\[泰州\]</sup>：轮到你～唻，你想吖一当吖再走，不许赖贼。<sup>\[泰州\]</sup>｜你想吖半天唻，你哿能快点儿～牌？<sup>\[泰州\]</sup> ⑭ 一种烹饪方法，将食品在锅中略翻一下起锅<sup>\[泰州\]</sup>：菜冷吖唻，你在锅里～啊子再吃。<sup>\[泰州\]</sup>｜韭菜炒的时间不能太长，在锅里～啊子就行吖唻。<sup>\[泰州\]</sup>  
 1. 【[走啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a.md#走啊)】`zeu3 a` <sup>[如东]</sup> ① 已经离开：他～。 ② 比喻人已死了：王二上午～。  
 1. 【[走啊荤（溷）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zeu_a_huen.md#走啊荤（溷）)】`zeu3 a huen5` <sup>[如皋]</sup> 鱼肉类开始变质有臭味。  
@@ -613,6 +613,7 @@
 1. 【[蟑百虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_boh_chon.md#蟑百虫)】`zhan1 boh7 chon2` <sup>[东台]</sup> 蟑螂的别称。  
 1. 【[蟑百虫遇灶鸡——穷鬼杀叫鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_boh_chon_y.md#蟑百虫遇灶鸡——穷鬼杀叫鬼)】`zhan1 boh7 chon2 y6 zo5 ji1 qion2 guei3 shaeh7 jio5 guei3` <sup>[东台]</sup>   
 1. 【[蟑螂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_lan.md#蟑螂)】`zhan1 lan` <sup>[如东]</sup> 蜚蠊科昆虫东方蠊，又名蟑壁虫儿。体长约2.5厘米，椭圆形，背腹扁形，深褐色，有油状光泽。头小。腹眼1对，单眼2个。口器咀嚼式。触角甚长，丝状。雄虫有短翅2对，雌虫的翅退化。足3对，多毛。附节具2爪。多栖于灶间内，昼隐夜出，食菜、饭及液体食物。  
+1. 【[蟑目虫说灶虮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_moh_chon_shuh.md#蟑目虫说灶虮子)】`zhan1 moh chon2 shuh7 zo5 ji zz` <small>/t͡sɑŋ1 mɔʔ t͡sʰɔŋ2 sʊʔ7 t͡sɔ5 t͡ɕʝ t͡sɿ/<sup>泰兴</sup></small> 喻相互差不多，彼此一样。<sup>\[泰兴\]</sup>  
 1. 【[蟑木虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_moh_chon.md#蟑木虫)】`zhan1 moh8 chon2` <sup>[泰州]</sup> 蟑螂。  
 1. 【[蟑目虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_moh_chon.md#蟑目虫)】`zhan1 moh8 chon2` <small>/t͡saŋ1 mɔʔ8 t͡sʰoŋ2/<sup>兴化</sup>, /t͡sɑŋ1 mɔʔ8 t͡sʰoŋ2/<sup>泰县</sup></small> ① 即蟑螂<sup>\[兴化\]</sup>：～跟灶鸡子，一类的。<sup>\[兴化\]</sup> ② 螳螂。<sup>\[泰县\]</sup>  
 1. 【[鱆鳖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhan_bih.md#鱆鳖)】`zhan1 bih7` <sup>[如皋]</sup> 鲳鳊鱼。海产鱼之一，形似淡水鳊鱼。  
@@ -868,8 +869,7 @@
 1. 【[整裤腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_kv_io.md#整裤腰)】`zhen3 kv5 io1` <sup>[如皋]</sup> 老式大腰裤的腰。  
 1. 【[整理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#整理)】`zhen3 li3` <sup>[兴化]</sup> 充分的、正确的理由：你俫随便进屋搜查，人家告你俫“侵犯住宅”是个～。  
 1. 【[整礼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_li.md#整礼)】`zhen3 li3` <sup>[如皋]</sup> ① 讲究礼仪。 ② 计较别人的礼仪。  
-1. 【[整生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen_rih.md#整生日)】`zhen3 shen1 rih` <sup>[东台]</sup> 逢十岁的生日。  
-1. 【[整生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen_rih.md#整生日)】`zhen3 shen1 rih8` <small>/t͡sən3 sən1 liɪʔ8/<sup>兴化</sup>, /t͡səŋ3 səŋ1 ɻiʔ8/<sup>如皋</sup></small> ① 岁数逢十的生日，与“闲生日”相对。俗计虚岁。<sup>\[如皋\]</sup> ② 虚岁逢十的生日。一般要吃面祝寿。<sup>\[如东\]</sup> ③ 年岁逢十进那年的生日<sup>\[兴化\]</sup>：这年是叶三五十岁～，一家子商量怎么给老爷子做寿。（汪曾祺《鉴赏家》）<sup>\[兴化\]</sup>  
+1. 【[整生日](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_shen_rih.md#整生日)】`zhen3 shen1 rih` <small>/t͡sən3 sən1 liɪʔ/<sup>兴化</sup>, /t͡səŋ3 səŋ1 ɻiʔ/<sup>如皋</sup>, /t͡səŋ3 səŋ1 iʔ/<sup>泰兴</sup></small> ① 逢十岁的生日。<sup>\[东台\]</sup> ② 岁数逢十的生日，与“闲生日”相对。俗计虚岁。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup>：“听说薛大妹妹今年十五岁，虽不算是～，也算得将笄的年分儿了。”（《红楼梦》第22回）<sup>\[泰兴\]</sup> ③ 虚岁逢十的生日。一般要吃面祝寿。<sup>\[如东\]</sup> ④ 年岁逢十进那年的生日<sup>\[兴化\]</sup>：这年是叶三五十岁～，一家子商量怎么给老爷子做寿。（汪曾祺《鉴赏家》）<sup>\[兴化\]</sup>  
 1. 【[整田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_tin.md#整田)】`zhen3 tin2` <sup>[如东]</sup> 一种耕作方法，用农具将田块松土、治平，以便种植，叫做整田。  
 1. 【[整心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_xien.md#整心)】`zhen3 xien1` <sup>[如皋]</sup> 见“心整”。  
 1. 【[整枝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zhen_zhr.md#整枝)】`zhen3 zhr1` <sup>[如东]</sup> 剪除棉花、果树等植物的无用枝条，叫做整枝。  
@@ -1024,7 +1024,7 @@
 1. 【[招](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho.md#招)】`zho1` <small>/t͡sɔ1/<sup>兴化</sup>, /t͡sɔ1/<sup>如皋</sup>, /t͡sɔ1/<sup>泰兴</sup></small> ① 招认、供认。<sup>\[如皋\]</sup><sup>\[泰兴\]</sup> ② 掖，把被子或衣服的下部往里折叠<sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：把脚头被子～好。<sup>\[兴化\]</sup>｜把裤脚子～起一边来。<sup>\[兴化\]</sup>｜晚上睏觉前，同伢儿把被单～～好。<sup>\[泰州\]</sup>｜你穿衣裳怎吖这吖马虎，连个衬衫都不曾～得好。<sup>\[泰州\]</sup>  
 1. 【[招啊家里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_a_ga_lii.md#招啊家里)】`zho1 a ga1 lii` <small>/t͡sɔ1 a ka1 tei/<sup>如皋</sup>, /t͡sɔ1 a kɑ1 ləɪ/<sup>泰兴</sup></small> 招婿而不出嫁<sup>\[泰兴\]</sup>\[如皋：见“招女婿”。\]：她是～的<sup>\[泰兴\]</sup>  
 1. 【[招边](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bin.md#招边)】`zho1 bin1` <sup>[兴化]</sup> 缝纫方法，把衣物的毛边折叠并缝起来。  
-1. 【[招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bo.md#招报)】`zho1 bo5` <small>/t͡sɔ1 pɔ5/<sup>兴化</sup>, /t͡sɔ1 pɔ5/<sup>如皋</sup>, /t͡sɔ1 pɔ/<sup>泰兴</sup>, /t͡sɔ1 pɔ5/<sup>泰县</sup></small> ① 指说无根据的话<sup>\[如皋\]</sup>：活～。<sup>\[如皋\]</sup> ② 对说话的贬义说法<sup>\[兴化\]</sup>：活～<sup>\[兴化\]</sup>｜别听他瞎～。<sup>\[兴化\]</sup> ③ 坦白、说出真情。<sup>\[泰县\]</sup> ④ 报应。<sup>\[泰县\]</sup> ⑤ 胡说，瞎说。<sup>\[泰兴\]</sup>：他是活～的<sup>\[泰兴\]</sup> ⑥ 混账话、不得体的话，得罪人的昏话、废话，或作嚼～<sup>\[东台\]</sup>：他嚼～的话你也听？<sup>\[东台\]</sup>  
+1. 【[招报](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_bo.md#招报)】`zho1 bo5` <small>/t͡sɔ1 pɔ5/<sup>兴化</sup>, /t͡sɔ1 pɔ5/<sup>如皋</sup>, /t͡sɔ1 pɔ/<sup>泰兴</sup>, /t͡sɔ1 pɔ5/<sup>泰县</sup></small> ① 指说无根据的话<sup>\[如皋\]</sup>：活～。<sup>\[如皋\]</sup> ② 对说话的贬义说法<sup>\[兴化\]</sup>：活～<sup>\[兴化\]</sup>｜别听他瞎～。<sup>\[兴化\]</sup> ③ 坦白、说出真情。<sup>\[泰县\]</sup> ④ 报应。<sup>\[泰县\]</sup> ⑤ 胡说，瞎说。\[泰兴：《泰兴方言辞典》第217页作“糟报”，也作“遭报”。\]：他是活～的<sup>\[泰兴\]</sup> ⑥ 混账话、不得体的话，得罪人的昏话、废话，或作嚼～<sup>\[东台\]</sup>：他嚼～的话你也听？<sup>\[东台\]</sup>  
 1. 【[招财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae.md#招财)】`zho1 cae` 舌头  
 1. 【[招财](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae.md#招财)】`zho1 cae2` <small>/t͡sɔ1 t͡sʰɛ2/<sup>如皋</sup></small> ① 猪舌。避折（与“舌”谐音）讳，改为吉语。<sup>\[如皋\]</sup> ② 舌头。<sup>\[如东\]</sup> ③ 用猪舌或牛舌加工的食物，也叫“口条”<sup>\[东台\]</sup>：上街去买点～，作为下酒菜。<sup>\[东台\]</sup>  
 1. 【[招财进宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zho_cae_jien_bo.md#招财进宝)】`zho1 cae2 jien5 bo3` <sup>[东台]</sup> 一种祈求发财的仪式。  
@@ -2172,29 +2172,43 @@
 1. 【[卒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zueh.md#卒)】`zueh7` <sup>[东台]</sup> 兵：马前～｜小～子过河胜似车。  
 1. 【[嘴巴<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_r.md#嘴巴<sub>儿</sub>)】`zuei3 ba1 r` <sup>[泰县]</sup> 嘴巴。  
 1. 【[嘴巴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ba_zz.md#嘴巴子)】`zuei3 ba1 zz` 耳光  
+1. 【[嘴不饶人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_beh_ro_ren.md#嘴不饶人)】`zuei3 beh7 ro2 ren2` <small>/t͡suəɪ3 pəʔ7 ɻɔ2 ɻəŋ2/<sup>泰兴</sup></small> 谓在口头上总要占人面子，不肯示弱。<sup>\[泰兴\]</sup>  
 1. 【[嘴边子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_bin_zz.md#嘴边子)】`zuei3 bin1 zz` <small>/t͡suəi3 piɪ̃1 t͡sɿ/<sup>兴化</sup>, /t͡suəɪ3 pĩ1 t͡sɿ/<sup>泰兴</sup></small> 嘴唇<sup>\[泰兴\]</sup>\[兴化：也称“嘴𤖭子”。\]：上～；下～。<sup>\[兴化\]</sup>  
 1. 【[嘴敞](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_chan.md#嘴敞)】`zuei3 chan3` <sup>[兴化]</sup> 有话放不住，急于说出来：这个人～，机密事不能让他晓得。｜（武松）晓得兄弟～，你跟他一谈，他能够大意在哪块露出来……（《武松》六）  
+1. 【[嘴直](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_cheh.md#嘴直)】`zuei3 cheh8` <small>/t͡suəɪ3 t͡sʰəʔ8/<sup>泰兴</sup></small> 说话直爽。<sup>\[泰兴\]</sup>：有～的，都劝他不要阻挡箇桩婚事。<sup>\[泰兴\]</sup>  
 1. 【[嘴臭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_cheu.md#嘴臭)】`zuei3 cheu5` <sup>[兴化]</sup> 出言不逊者：老黄～，弄句把话教你下不去覅怪人。  
 1. 【[嘴打锣，舌打鼓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da_lu_shih.md#嘴打锣，舌打鼓)】`zuei3 da3 lu2 shih8 da3 gv3` <sup>[兴化]</sup> 形容人饶舌：这个小子到哪许总是～的说个不停。  
 1. 【[嘴大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_da.md#嘴大)】`zuei3 da6` <sup>[兴化]</sup> （喻）权势者说出话来有份量：你的～，我说不过你！  
+1. 【[嘴刁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_dio.md#嘴刁)】`zuei3 dio1` <small>/t͡suəɪ3 tiɔ1/<sup>泰兴</sup></small> 谓挑食。<sup>\[泰兴\]</sup>：箇个伢儿～唻，吃杲子拣精拣肥的。<sup>\[泰兴\]</sup>  
 1. 【[嘴福](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_foh.md#嘴福)】`zuei3 foh` <small>/t͡suəɪ3 fɔʔ/<sup>泰兴</sup></small> 同“口福”。<sup>\[泰兴\]</sup>  
 1. 【[嘴功](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gon.md#嘴功)】`zuei3 gon1` <sup>[兴化]</sup> 巧言善辩的本领：我今吖不跟你赌～，我就跟你讲实际的。  
 1. 【[嘴呱呱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gua_gua.md#嘴呱呱)】`zuei3 gua1 gua1` <sup>[兴化]</sup> 指人喜欢夸夸其谈：谚曰：～，屎拉拉。  
+1. 【[嘴乖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_guae.md#嘴乖)】`zuei3 guae1` <small>/t͡suəɪ3 kuɛ1/<sup>泰兴</sup></small> 说话乖巧，动听。<sup>\[泰兴\]</sup>：“凤儿～，怎么怨得人疼他。”（《红楼梦》第35回）<sup>\[泰兴\]</sup>  
+1. 【[嘴颌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_guh_zz.md#嘴颌子)】`zuei3 guh7 zz` <small>/t͡suəɪ3 kʊʔ7 t͡sɿ/<sup>泰兴</sup></small> 嘴唇，嘴周围的部分。<sup>\[泰兴\]</sup>  
 1. 【[嘴干](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_gun.md#嘴干)】`zuei3 gun1, jy3 gun1` 口渴  
 1. 【[嘴坏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_huae.md#嘴坏)】`zuei3 huae6` <sup>[兴化]</sup> ① 会说脏话、爱骂人：她～，动不动就骂人。 ② 爱传播别人隐私或议论他人长短。  
-1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <small>/t͡suəɪ3 t͡ɕiŋ3/<sup>泰兴</sup></small> 同“口紧”。<sup>\[泰兴\]</sup>  
+1. 【[嘴紧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jien.md#嘴紧)】`zuei3 jien3` <small>/t͡suəɪ3 t͡ɕiŋ3/<sup>泰兴</sup></small> 谓对不必要告诉人的事缄口不言。\[泰兴：同“口紧”。\]  
+1. 【[嘴尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin.md#嘴尖)】`zuei3 jin1` <small>/t͡suəɪ3 t͡ɕĩ1/<sup>泰兴</sup></small> 说话尖酸刻薄。<sup>\[泰兴\]</sup>：“这小狗入的，忒也～！”（《古今小说·沈小官一鸟害七命》）<sup>\[泰兴\]</sup>  
 1. 【[嘴尖挂淘箩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_gua_to.md#嘴尖挂淘箩)】`zuei3 jin1 gua5 to2 lu1` 形容人不开心不满意的样子，多用于小孩。  
 1. 【[嘴尖鼻子翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_jin_pieh_zz.md#嘴尖鼻子翘)】`zuei3 jin1 pieh8 zz3 qio5` 形容人不开心不满意的样子，多用于小孩。  
+1. 【[嘴快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_kuae.md#嘴快)】`zuei3 kuae5` <small>/t͡suəɪ3 kʰuɛ5/<sup>泰兴</sup></small> 谓有话藏不住，很快说出来。<sup>\[泰兴\]</sup>：“这都是我的～，告诉了姑奶奶，求姑奶奶快别去说罢！”（《红楼梦》第10回）<sup>\[泰兴\]</sup>  
 1. 【[嘴里没得味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_lii_meh_deh.md#嘴里没得味)】`zuei3 lii meh8 deh vei6` <small>/t͡suəɪ3 ləɪ məʔ8 təʔ ʋəɪ1/<sup>泰兴</sup></small> 嘴里觉不出滋味，常因生病或忧心等原因<sup>\[泰兴\]</sup>  
+1. 【[嘴里念佛，心里做贼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_lii_nin_feh.md#嘴里念佛，心里做贼)】`zuei3 lii nin6 feh8 xien1 lii zu5 ceh8` <small>/t͡suəɪ3 ləɪ nĩ1 fəʔ8 ɕiŋ1 ləɪ t͡sɤɯ5 t͡sʰəʔ8/<sup>泰兴</sup></small> 谓嘴上说得好听，心里谋划着干坏事。<sup>\[泰兴\]</sup>  
 1. 【[嘴码子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_ma_zz.md#嘴码子)】`zuei3 ma3 zz` <sup>[兴化]</sup> 嘴（指说话时的）：他～来得，能说会道的。  
+1. 【[嘴面上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_min_shan.md#嘴面上)】`zuei3 min shan` <small>/t͡suəɪ3 mĩ sɑŋ/<sup>泰兴</sup></small> 口头上。指只是嘴上说说，并不付诸实施。<sup>\[泰兴\]</sup>  
 1. 【[嘴𤖭子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_paen_zz.md#嘴𤖭子)】`zuei3 paen2 zz` <sup>[兴化]</sup> 嘴唇。  
-1. 【[嘴皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_pi_zz.md#嘴皮子)】`zuei3 pi2 zz` <sup>[泰县]</sup> 嘴唇。  
-1. 【[嘴泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_puh.md#嘴泼)】`zuei3 puh7` <sup>[兴化]</sup> 谓不挑食，粗的、差的饭食都能吃。  
+1. 【[嘴皮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_pi_zz.md#嘴皮子)】`zuei3 pi2 zz` <small>/t͡suəɪ3 pʰʝ2 t͡sɿ/<sup>泰兴</sup>, /t͡ɕyəɪ3 pʰɿ2 t͡se/<sup>泰县</sup></small> ① 嘴唇。<sup>\[泰县\]</sup> ② 借指说话的技巧；口头表达能力。<sup>\[泰兴\]</sup>  
+1. 【[嘴泼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_puh.md#嘴泼)】`zuei3 puh7` <small>/t͡suəi3 pʰuʔ7/<sup>兴化</sup>, /t͡suəɪ3 pʰʊʔ7/<sup>泰兴</sup></small> 不挑食。\[泰兴：不拣嘴挑食。\]\[兴化：谓不挑食，粗的、差的饭食都能吃。\]  
+1. 【[嘴泼身肥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_puh_shen_fei.md#嘴泼身肥)】`zuei3 puh7 shen1 fei2` <small>/t͡suəɪ3 pʰʊʔ7 səŋ1 fəɪ2/<sup>泰兴</sup></small> 谓吃得多，长得胖。<sup>\[泰兴\]</sup>  
+1. 【[嘴勤身子懒，伙计用老板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_qien_shen_zz.md#嘴勤身子懒，伙计用老板)】`zuei3 qien2 shen1 zz laen3 hu3 ji ion6 lo3 baen3` <small>/t͡suəɪ3 t͡ɕʰiŋ2 səŋ1 t͡sɿ lɛ̃3 xɤɯ3 t͡ɕʝ iɔŋ1 lɔ3 pɛ̃3/<sup>泰兴</sup></small> 乡谚。谓人说得多，做得少。<sup>\[泰兴\]</sup>  
 1. 【[嘴局](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_qioh.md#嘴局)】`zuei3 qioh8` <sup>[兴化]</sup> 有口福：你的～真好！今天来正好碰上会餐。也说“嘴运”。  
+1. 【[嘴穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_qion.md#嘴穷)】`zuei3 qion2` <small>/t͡suəɪ3 t͡ɕʰiɔŋ2/<sup>泰兴</sup></small> 穷嘴，啰嗦。<sup>\[泰兴\]</sup>  
+1. 【[嘴是两耷皮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_shr_laen_dah.md#嘴是两耷皮)】`zuei3 shr6 laen3 dah7 pi2` <small>/t͡suəɪ3 sɿ1 lɛ̃3 tɑʔ7 pʰʝ2/<sup>泰兴</sup></small> 谓人说话不算数，说空话。乡谚。\[泰兴：《泰兴方言辞典》作“嘴是两㿯皮”，下句为“说话有改移”。\]  
 1. 【[嘴说](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_shuh.md#嘴说)】`zuei3 shuh7` <sup>[兴化]</sup> ① 连词，相当“虽然”：他～十六岁，实骨子还不曾满十五唻！ ② 形容速度之快：～之间，几样下酒菜就端上吖桌子。  
 1. 【[嘴松](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_son.md#嘴松)】`zuei3 son1` <small>/t͡suəɪ3 sɔŋ1/<sup>泰兴</sup></small> 同“口松”<sup>\[泰兴\]</sup>  
 1. 【[嘴损](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_suen.md#嘴损)】`zuei3 suen3` <sup>[兴化]</sup> 指喜欢挖苦人或揭人隐私：这个人～，喜欢揭人家疮疤。  
 1. 【[嘴头子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_teu_zz.md#嘴头子)】`zuei3 teu2 zz` <sup>[兴化]</sup> 嘴：我这两个钱是～上省下来的。｜“我家老妻是不贤惠之人……～又极暴躁，终日……骂大骂小……”（《西湖二集》十）  
+1. 【[嘴甜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_tin.md#嘴甜)】`zuei3 tin2` <small>/t͡suəɪ3 tʰĩ2/<sup>泰兴</sup></small> 话说得亲切，使人听了舒服。<sup>\[泰兴\]</sup>  
 1. 【[嘴凶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_xion.md#嘴凶)】`zuei3 xion1` <sup>[兴化]</sup> 能言善辩，嘴不饶人：（姑娘）手巧不巧，～不凶……（马春阳《扬州水乡婚俗散记》）｜你覅～，当心你的腿！  
 1. 【[嘴运](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_yen.md#嘴运)】`zuei3 yen6` <sup>[兴化]</sup> 有口福。  
 1. 【[嘴子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zuei_zz.md#嘴子)】`zuei3 zz` <sup>[兴化]</sup> ① 物体突出部分：山～｜茶壶～｜慈姑～。 ② （借）喜爱出头揽事的人：他是出了名的～，没事还要找事。  
@@ -2370,6 +2384,7 @@
 1. 【[啧牙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_nga_zz.md#啧牙子)】`zz5 nga2 zz` <sup>[如皋]</sup> 见“啧嘴”。  
 1. 【[渍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#渍)】`zz5` <small>/t͡sɿ5/<sup>兴化</sup>, /t͡sɿ5/<sup>如皋</sup></small> ① 积（垢）<sup>\[如皋\]</sup>：烟台儿上～啊多少油硍。<sup>\[如皋\]</sup> ② 嵌填（原文作“窒”，音不合）<sup>\[如皋\]</sup>：～牙缝儿、～船。<sup>\[如皋\]</sup> ③ 地面积水<sup>\[兴化\]</sup>：防涝防～。<sup>\[兴化\]</sup> ④ 物体由于内部薄湿面有水渗出<sup>\[兴化\]</sup>：～水。<sup>\[兴化\]</sup> ⑤ 物体表面的污迹<sup>\[兴化\]</sup>：油～，杂～。<sup>\[兴化\]</sup>  
 1. 【[渍菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_cae.md#渍菜)】`zz5 cae5` <sup>[泰县]</sup> 胡萝卜腌制成的一种菜。  
+1. 【[𧂐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz.md#𧂐)】`zz5` <small>/t͡sɿ5/<sup>泰兴</sup></small> 草堆。<sup>\[泰兴\]</sup>：“～，草积。”（《类篇·艸部》）<sup>\[泰兴\]</sup>  
 1. 【[𧂐船匠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_chun_qian.md#𧂐船匠)】`zz5 chun2 qian6` <sup>[如皋]</sup> 修、造术船专司用桐油石灰填塞缝口止漏的工匠。  
 1. 【[𧂐草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zz_co.md#𧂐草)】`zz5 co3` <sup>[如东]</sup> 把草堆成垛。𧂐，积的异体。  
 **[▲](#音序检索)**  

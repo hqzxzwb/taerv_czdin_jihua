@@ -11,7 +11,7 @@
 1. 【[攲里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae.md#攲里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲里攲跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio.md#攲里攲跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` <small>/t͡ɕʰi1 t͡ɕʰiɔ pæʔ7 kuɛ5/<sup>兴化</sup></small> ① 反常；特别；奇怪<sup>\[东台\]</sup>：这吖热的天他还穿棉𧘸子，真是～的。<sup>\[东台\]</sup> ② 形容令人奇怪的事物<sup>\[兴化\]</sup>：江西来的动物展览，有好些～的动物。<sup>\[兴化\]</sup>  
-1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <small>/t͡ɕʰʝ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup>  
+1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <small>/t͡ɕʰʝ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup> ③ 奇怪，可疑。\[泰兴：《泰兴方言辞典》第119页作“奇巧”，第215页作“蹊跷”。\]  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio1 baeh7 guae5` <sup>[泰州]</sup> ① 非常可疑：单位上最近发生些～的事情，把大家弄得五点六点的。 ② 非常奇异：他从国外带啊些～的水果家来啊。  
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
@@ -404,9 +404,9 @@
 1. 【[嚼蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_qy.md#嚼蛆)】`qiah8 qy1` <small>/t͡ɕʰiaʔ8 t͡ɕʰy1/<sup>兴化</sup>, /t͡ɕʰiaʔ8 t͡ɕʰy1/<sup>如皋</sup>, /t͡ɕʰiɑʔ8 t͡ɕʰy1/<sup>泰县</sup></small> ① 闲聊，说闲话；胡说 ② 贬指说话。<sup>\[如皋\]</sup> ③ 詈语，责胡说。瞎嚼、嚼蛆都是常用口语。<sup>\[如皋\]</sup> ④ 瞎说。<sup>\[如东\]</sup><sup>\[泰县\]</sup>：不要～<sup>\[如东\]</sup>｜你还在下～啊，哪个惹你的啊？<sup>\[泰县\]</sup>｜口里一似～的，不知说的什么。（金瓶梅·71回）<sup>\[泰县\]</sup> ⑤ 啰唆。<sup>\[如东\]</sup>：他在下～。<sup>\[如东\]</sup> ⑥ 没有根据，瞎说一气。<sup>\[东台\]</sup> ⑦ 骂人胡说<sup>\[兴化\]</sup>：“倒不是白～，我倒是一片真心为姑娘……”（《红楼梦》五七）<sup>\[兴化\]</sup>｜“……好在他没有认识我，由着他～。再图报复……”（《四杰传》三七）<sup>\[兴化\]</sup> ⑧ （禁忌语）胡说。<sup>\[泰县\]</sup> ⑨ 骂人说话不负责任，不合情理<sup>\[泰州\]</sup>：你不要蹾吖这块瞎～，当心人家收拾你。<sup>\[泰州\]</sup>  
 1. 【[嚼蛆捣怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_qy_do_guae.md#嚼蛆捣怪)】`qiah8 qy1 do3 guae5` 胡说八道  
 1. 【[嚼蛆鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_qy_guei.md#嚼蛆鬼)】`qiah8 qy1 guei3` <small>/t͡ɕʰiaʔ8 t͡ɕʰy1 kuei3/<sup>如皋</sup></small> ① 詈、昵指爱说的人。<sup>\[如皋\]</sup> ② 说话啰唆的人。<sup>\[如东\]</sup>：王三是个～。<sup>\[如东\]</sup> ③ 戏指说话太多的人。<sup>\[东台\]</sup>  
-1. 【[嚼蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_qy_zz.md#嚼蛆子)】`qiah8 qy1 zz` <sup>[如皋]</sup> 贬指说话。  
+1. 【[嚼蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_qy_zz.md#嚼蛆子)】`qiah8 qy1 zz` <small>/t͡ɕʰiaʔ8 t͡ɕʰy1 t͡sɿ/<sup>如皋</sup>, /t͡ɕʰiɑʔ8 t͡sʰuəɪ1 t͡sɿ/<sup>泰兴</sup></small> ① 贬指说话。<sup>\[如皋\]</sup> ② 胡说，瞎说。\[泰兴：《泰兴方言辞典》词头作“嚼蛆”。\]  
 1. 【[嚼腮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_sae.md#嚼腮)】`qiah8 sae1` <sup>[如皋]</sup> 吃东西时嚼伤腮部。  
-1. 【[嚼舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_shih_teu.md#嚼舌头)】`qiah8 shih8 teu` <small>/t͡ɕʰiɑʔ8 ɕiɪʔ8 tʰɤɯ/<sup>泰县</sup></small> ① 说闲话。胡说八道。<sup>\[如东\]</sup>：他在下～。搬弄是非。<sup>\[如东\]</sup> ② 信口胡说。也作“嚼舌根”。<sup>\[东台\]</sup> ③ （禁忌语）胡说。<sup>\[泰县\]</sup> ④ 没有事实根据乱发议论，詈词<sup>\[泰州\]</sup>：你不要听她～，根本不是这回事。<sup>\[泰州\]</sup>  
+1. 【[嚼舌头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_shih_teu.md#嚼舌头)】`qiah8 shih8 teu` <small>/t͡ɕʰiɑʔ8 ɕiʔ8 tʰəɪ1/<sup>泰兴</sup>, /t͡ɕʰiɑʔ8 ɕiɪʔ8 tʰɤɯ3/<sup>泰县</sup></small> ① 说闲话。胡说八道。<sup>\[如东\]</sup>：他在下～。搬弄是非。<sup>\[如东\]</sup> ② 信口胡说。也作“嚼舌根”。<sup>\[东台\]</sup> ③ （禁忌语）胡说。<sup>\[泰县\]</sup> ④ 没有事实根据乱发议论，詈词<sup>\[泰州\]</sup>：你不要听她～，根本不是这回事。<sup>\[泰州\]</sup> ⑤ 骂人胡说。<sup>\[泰兴\]</sup>  
 1. 【[嚼屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_shr.md#嚼屎)】`qiah8 shr3` <small>/t͡ɕʰiɑʔ8 sɿ3/<sup>泰县</sup></small> ① 愤怒地骂对方满嘴秽言。<sup>\[东台\]</sup> ② （禁忌语）乱说、胡说。<sup>\[泰县\]</sup>  
 1. 【[嚼屎礓子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_shr_jian_zz.md#嚼屎礓子)】`qiah8 shr3 jian3 zz` <sup>[东台]</sup> 胡说八道，满嘴秽言。  
 1. 【[嚼瘟蛆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiah_ven_qy.md#嚼瘟蛆)】`qiah8 ven1 qy1` ① 胡说八道，胡扯 ② 胡说八道。<sup>\[如东\]</sup>：又在下～。<sup>\[如东\]</sup> ③ 同“嚼糟报”，骂得更厉害。<sup>\[东台\]</sup>  
@@ -1233,6 +1233,7 @@
 1. 【[邱场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_chan.md#邱场)】`qieu1 chan2` <sup>[如皋]</sup> 本名西场，因邱陞将军战死于此而改名。  
 1. 【[邱公祠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_gon_cz.md#邱公祠)】`qieu1 gon1 cz2` <sup>[如皋]</sup> 原在如城老体育场东侧，祀明·嘉靖年间扬州副将邱陞。因其在如皋杀倭寇而牺牲。受皇封，立庙祭祀。  
 1. 【[鳅宝<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_bo_r.md#鳅宝<sub>儿</sub>)】`qieu1 bo3 r` <sup>[如皋]</sup> 见“鳅鱼”。  
+1. 【[鳅滑子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_vaeh_zz.md#鳅滑子)】`qieu1 vaeh zz` <small>/t͡ɕʰiɤɯ1 ʋæʔ t͡sɿ/<sup>泰兴</sup></small> 泥鳅。<sup>\[泰兴\]</sup>  
 1. 【[鳅鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y.md#鳅鱼)】`qieu1 y2` <small>/t͡ɕʰyʊ1 y2/<sup>如皋</sup></small> ① 鳅。陪葬时，称地龙。<sup>\[如皋\]</sup> ② 常见的为泥鳅，体长而侧扁，口小，有3-5对须，鳞细小，侧线不完全。<sup>\[东台\]</sup>  
 1. 【[鳅鱼屌<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu_y_dio_r.md#鳅鱼屌<sub>儿</sub>)】`qieu1 y2 dio3 r` <sup>[如皋]</sup> 见“鳅鱼”。  
 1. 【[㥢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qieu.md#㥢)】`qieu2` <small>/t͡ɕʰiɤ2/<sup>兴化</sup></small> ① 因事物不称心而失去理智，胡闹；用于形容这样的人。 ② 脾气固执。<sup>\[如东\]</sup> ③ 发㤘脾气<sup>\[兴化\]</sup>：他平常蛮好的，不晓得哪个把他弄吖～起来啊。<sup>\[兴化\]</sup>  
@@ -1644,7 +1645,7 @@
 1. 【[撬子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_zz.md#撬子)】`qio5 zz` <sup>[如东]</sup> 一种农具。木制，条形，长一尺，一头尖，一头平，尖的一头钻一个孔，用一尺多长的麻绳穿连起来，夹住稻秸摔打脱粒。  
 1. 【[窍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#窍)】`qio5` <sup>[如皋]</sup> 肛门（*躈）：你不要没～，做绝事要促阳寿的。  
 1. 【[窍门](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_men.md#窍门)】`qio5 men2` <small>/t͡ɕʰiɔ5 məŋ2/<sup>泰兴</sup></small> 比喻解决问题的好办法。<sup>\[泰兴\]</sup>：想办法，找～<sup>\[泰兴\]</sup>  
-1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio5` <sup>[泰州]</sup> ① （泰州词典作敽） ② 一种缝纫方法，先将布料毛边向内卷进，然后藏着针脚缝制：～边  
+1. 【[缲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#缲)】`qio5` 一种缝纫方法，先将布料毛边向内卷进，然后藏着针脚缝制\[泰州：《泰州方言词典》作“敽”。\]：～边<sup>\[泰州\]</sup>  
 1. 【[翘/趬](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio.md#翘/趬)】`qio5` <small>/t͡ɕʰiɔ5/<sup>如皋</sup></small> ① 贬指死<sup>\[如皋\]</sup>：他～掉啊。<sup>\[如皋\]</sup> ② 杆或板一头高起来了。<sup>\[如东\]</sup>：木板那头～起来啊。近代白话作“趬”。<sup>\[如东\]</sup>  
 1. 【[翘顶搭<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_dien_daeh_r.md#翘顶搭<sub>儿</sub>)】`qio5 dien3 daeh7 r` <sup>[如东]</sup> 人躺着，顶搭儿直直地竖着，说明人已死了  
 1. 【[翘角<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qio_gah_r.md#翘角<sub>儿</sub>)】`qio5 gah7 r` <sup>[如皋]</sup> 贬指死。  
@@ -1813,7 +1814,7 @@
 1. 【[拳头墩<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_teu_den_r.md#拳头墩<sub>儿</sub>)】`qiun2 teu2 den1 r` ① 拳头棱儿。<sup>\[如东\]</sup> ② 拳头<sup>\[东台\]</sup>：打啊他几～。<sup>\[东台\]</sup>  
 1. 【[拳头上跑马](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_teu_shan_po.md#拳头上跑马)】`qiun2 teu2 shan6 po2 ma3` <sup>[东台]</sup> 形容非常神气的人（贬）：他是个～的人，交关难对付，要当心。  
 1. 【[挦毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_mo.md#挦毛)】`qiun2 mo2` <sup>[如东]</sup> 禽畜宰杀后，泡在沸水中，把它们身上的毛撕下来。  
-1. 【[颧骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_gueh.md#颧骨)】`qiun2 gueh7` <sup>[东台]</sup> 眼睛下边两腮上面突出的颜面骨。  
+1. 【[颧骨](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_gueh.md#颧骨)】`qiun2 gueh7` <small>/t͡ɕʰyʊ̃2 kuəʔ7/<sup>泰兴</sup></small> 眼睛下边两腮上面突出的颜面骨。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[鬈毛](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_mo.md#鬈毛)】`qiun2 mo` 卷发，卷毛  
 1. 【[犬齿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun_chr.md#犬齿)】`qiun3 chr3` <sup>[东台]</sup> 齿的一种，上下颌各有两枚，在门齿的两侧，较锋利。  
 1. 【[券](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qiun.md#券)】`qiun5` <small>/t͡ɕʰyʊ̃5/<sup>如皋</sup></small> ① 门、窗等顶部的拱<sup>\[如皋\]</sup>：棚～（给门窗上方制作拱）。<sup>\[如皋\]</sup> ② 票据或作为证据的纸片<sup>\[东台\]</sup>：菜～<sup>\[东台\]</sup>｜入场～<sup>\[东台\]</sup>｜购物～。<sup>\[东台\]</sup>  
@@ -1840,7 +1841,7 @@
 1. 【[催生婆摸屁眼——大外教](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_shen_pu_mah.md#催生婆摸屁眼——大外教)】`qy1 shen1 pu2 mah8 pi5 ngaen3 da6 vae6 jio5` <sup>[东台]</sup>   
 1. 【[蛆卵<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_lun_r.md#蛆卵<sub>儿</sub>)】`qy1 lun3 r` <sup>[东台]</sup> 也叫蛆子，苍蝇幼虫。  
 1. 【[蛆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_zz.md#蛆子)】`qy1 zz` <sup>[如东]</sup> 苍蝇的幼虫。体长圆形，前端尖，尾端圆形，或有长尾。柔弱，白色。生长在糞便、死尸或肮脏的地方。  
-1. 【[𥋖𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#𥋖𥋖眼)】`qy1 qy1 ngaen3` 近视眼。<sup>\[东台\]</sup><sup>\[泰州\]</sup>  
+1. 【[𥋖𥋖眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen.md#𥋖𥋖眼)】`qy1 qy1 ngaen3` <small>/t͡ɕʰy1 t͡ɕʰy1 ŋɛ̃3/<sup>泰兴</sup></small> 近视眼。<sup>\[东台\]</sup><sup>\[泰州\]</sup>\[泰兴：《泰兴方言辞典》作“觑觑眼”。\]  
 1. 【[𥋖𥋖眼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_qy_ngaen_r.md#𥋖𥋖眼<sub>儿</sub>)】`qy1 qy1 ngaen3 r` <small>/t͡ɕʰy1 t͡ɕʰy1 ɛ̃3 ɚ/<sup>泰县</sup></small> 近视眼<sup>\[泰县\]</sup>：这个人是个～。<sup>\[泰县\]</sup>  
 1. 【[瞿麦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_moh.md#瞿麦)】`qy2 moh8` <sup>[如东]</sup> 石竹科植物瞿麦，多年生草本。  
 1. 【[随便](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qy_pin.md#随便)】`qy2 pin6` <small>/t͡ɕʰy2 pʰiɪ̃1/<sup>泰县</sup></small> 随便<sup>\[泰县\]</sup>：这件事～那个去都行。<sup>\[泰县\]</sup>  
@@ -1903,13 +1904,13 @@
 1. 【[瘸和尚说法——能说不能行](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_hu_shan_shuh.md#瘸和尚说法——能说不能行)】`qya2 hu2 shan shuh7 faeh7 nen2 shuh7 beh7 nen2 xien2` <small>/t͡ɕʰyɑ2 xɤɯ2 sɑŋ sʊʔ7 fæʔ7 nəŋ2 sʊʔ7 pəʔ7 nəŋ2 ɕiŋ2/<sup>泰兴</sup></small> 说起来可以，做起来不行<sup>\[东台\]</sup><sup>\[泰兴\]</sup>  
 1. 【[瘸郎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_lan.md#瘸郎)】`qya2 lan2` <sup>[兴化]</sup> ① 腿瘸的人。 ② （借）折了一只后爪的蟋蟀。相对于“全腿”。  
 1. 【[瘸里麻里洋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_lii_ma_lii.md#瘸里麻里洋)】`qya2 lii ma2 lii ian2` <sup>[兴化]</sup> 马马虎虎，不依规矩：我这个师傅～，混饭吃的。也说“瘸”。  
-1. 【[瘸手跛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_bu_jiah.md#瘸手跛脚)】`qya2 sheu3 bu3 jiah7` <sup>[东台]</sup> 手脚有伤残疾，或喻指做事不利索、不熟练。  
+1. 【[瘸手跛脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_bu_jiah.md#瘸手跛脚)】`qya2 sheu3 bu3 jiah7` <small>/t͡ɕʰyɑ2 ɕiɤɯ3 pɤɯ3 t͡ɕiɑʔ7/<sup>泰兴</sup></small> ① 手脚有伤残疾，或喻指做事不利索、不熟练。<sup>\[东台\]</sup> ② 谓手脚不灵便的样子。<sup>\[泰兴\]</sup>  
 1. 【[瘸手跛脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_bu_jiah.md#瘸手跛脚的)】`qya2 sheu3 bu3 jiah7 dii` <sup>[如皋]</sup> 见“瘸手癶脚的”。  
 1. 【[瘸手癶脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_buh_jiah.md#瘸手癶脚的)】`qya2 sheu3 buh7 jiah7 dii` <sup>[如皋]</sup> 肢残，肢残者；行动艰难者。  
 1. 【[瘸手折脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_sheu_shih_jiah.md#瘸手折脚)】`qya2 sheu3 shih8 jiah7` <sup>[兴化]</sup> 因摔跌或外来打击以致手足伤残：打得～的。  
 1. 【[瘸腿子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_tuei_zz.md#瘸腿子)】`qya2 tuei3 zz` <sup>[兴化]</sup> ① （喻）打牌时三人缺一。 ② 器物残缺不全。  
 1. 【[瘸仙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_xin.md#瘸仙)】`qya2 xin1` <sup>[如皋]</sup> 缘八仙之一的铁拐李跛足，因以趣指跛者。  
-1. 【[瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_zz.md#瘸子)】`qya2 zz` ① 腿瘸的人 ② 一只脚残废，走路时身体不平衡的人，叫瘸子。<sup>\[如东\]</sup> ③ 足有残疾者。<sup>\[东台\]</sup>  
+1. 【[瘸子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_zz.md#瘸子)】`qya2 zz` <small>/t͡ɕʰyɑ2 t͡sɿ/<sup>泰兴</sup></small> ① 腿瘸的人 ② 一只脚残废，走路时身体不平衡的人，叫瘸子。<sup>\[如东\]</sup> ③ 瘸腿的人；跛子。<sup>\[泰兴\]</sup> ④ 足有残疾者。<sup>\[东台\]</sup>  
 1. 【[瘸子上医院——治脚（自觉）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qya_zz_shan_i.md#瘸子上医院——治脚（自觉）)】`qya2 zz shan6 i1 iun6 chr6 jiah7 （cz6 jiah7）` <sup>[东台]</sup>   
 1. 【[屈屈<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_qyeh_r.md#屈屈<sub>儿</sub>)】`qyeh7 qyeh7 r` <small>/t͡ɕʰyəʔ7 t͡ɕʰyəʔ7 ɚ/<sup>泰县</sup></small> 小<sup>\[泰县\]</sup>：这豆～，太小啊。<sup>\[泰县\]</sup>  
 1. 【[屈死鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qyeh_sz_guei.md#屈死鬼)】`qyeh7 sz3 guei3` <sup>[如东]</sup> 冤枉死亡的人：王二是个～。  

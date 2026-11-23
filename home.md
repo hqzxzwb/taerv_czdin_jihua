@@ -434,7 +434,7 @@
 [更多...](./n.md)
 ## O
 1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o, ngo, go` <small>/ɔ/<sup>泰兴</sup></small> 助词。表示催促。读音因前字韵尾而不同。<sup>\[泰兴\]</sup>：快点走～（o）。<sup>\[泰兴\]</sup>  
-1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <sup>[泰州]</sup> ① 叹词，表示恍然大悟：～原来是这回事啊。 ② 句末语气词，表示责备语气：你望你～，这点儿事都弄不好。  
+1. 【[噢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o.md#噢)】`o` <small>/ɔ/<sup>泰兴</sup></small> ① 叹词，表示恍然大悟<sup>\[泰州\]</sup>：～原来是这回事啊。<sup>\[泰州\]</sup> ② 句末语气词，表示责备语气<sup>\[泰州\]</sup>：你望你～，这点儿事都弄不好。<sup>\[泰州\]</sup> ③ 叹词，表示应答之声。<sup>\[泰兴\]</sup>  
 1. 【[噢唉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/o_ae.md#噢唉)】`o3 ae` <sup>[如皋]</sup> 旧时沿街巷叫买大粪的声音。  
 1. 【[喔吆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh_io.md#喔吆)】`oh7 io1` <sup>[东台]</sup> ［语气助词］表示惊讶：～！天气突然变丑啊。  
 1. 【[屋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/oh.md#屋)】`oh7` <small>/ɔʔ7/<sup>如皋</sup></small> ① 与“房”同义，但用法有所不同。<sup>\[如皋\]</sup>：只用“屋”：砌～、堂～、磨～家的<sup>\[如皋\]</sup>｜“房、屋”通用：～脊、～檐、草～<sup>\[如皋\]</sup>｜只用“房”：新房、书房、房间。<sup>\[如皋\]</sup> ② 房屋。<sup>\[如东\]</sup>  
@@ -466,6 +466,7 @@
 1. 【[横叉舞棍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_cha_v_guen.md#横叉舞棍)】`on2 cha1 v3 guen5` <sup>[东台]</sup> 指搬放运或放置东西时比较毛糙，到处碰碰打打。也作“横枪舞棍”。  
 1. 【[横长竖大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_chan_shv_da.md#横长竖大)】`on2 chan2 shv6 da6` <sup>[兴化]</sup> ① 形容物体体积大，隔占地方：这张柜子～的，没处放。 ② 形容人身材高大：儿子～的朝面前一站，多威武啊！  
 1. 【[横档](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_dan.md#横档)】`on2 dan5` <sup>[如东]</sup> 门两头的横条木。  
+1. 【[横得起来](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/o/on_deh_qi_lae.md#横得起来)】`on2 deh qi3 lae2` <sup>[如皋]</sup> 有蛮横、顶撞的资格。  
 [更多...](./o.md)
 ## P
 1. 【[派司](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/p/pa_sz.md#派司)】`pa1 sz` <sup>[东台]</sup> ① 英文pass音译。 ② 指出入证、通行证等。 ③ 指通过；准予通过（检查、关卡、考试等）。 ④ 结束：这个事看来要～啊。  
@@ -510,7 +511,7 @@
 1. 【[攲里八怪的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_baeh_guae.md#攲里八怪的)】`qi1 lii baeh7 guae5 dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲里攲跷的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_lii_qi_qio.md#攲里攲跷的)】`qi1 lii qi1 qio dii` <sup>[如皋]</sup> 蹊跷。  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio baeh7 guae5` <small>/t͡ɕʰi1 t͡ɕʰiɔ pæʔ7 kuɛ5/<sup>兴化</sup></small> ① 反常；特别；奇怪<sup>\[东台\]</sup>：这吖热的天他还穿棉𧘸子，真是～的。<sup>\[东台\]</sup> ② 形容令人奇怪的事物<sup>\[兴化\]</sup>：江西来的动物展览，有好些～的动物。<sup>\[兴化\]</sup>  
-1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <small>/t͡ɕʰʝ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup>  
+1. 【[攲跷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio.md#攲跷)】`qi1 qio1` <small>/t͡ɕʰʝ1 t͡ɕʰiɔ1/<sup>泰兴</sup></small> ① 奇怪，费解。<sup>\[如东\]</sup>：这样处理让人感觉～。<sup>\[如东\]</sup> ② 可疑，怪异而违背常情<sup>\[泰州\]</sup>：你俫都不曾说，她怎吖晓得的，有点儿～。<sup>\[泰州\]</sup> ③ 奇怪，可疑。\[泰兴：《泰兴方言辞典》第119页作“奇巧”，第215页作“蹊跷”。\]  
 1. 【[攲跷八怪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_qio_baeh_guae.md#攲跷八怪)】`qi1 qio1 baeh7 guae5` <sup>[泰州]</sup> ① 非常可疑：单位上最近发生些～的事情，把大家弄得五点六点的。 ② 非常奇异：他从国外带啊些～的水果家来啊。  
 1. 【[期间<sub>儿</sub>窄料](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_gaen_r_zheh.md#期间<sub>儿</sub>窄料)】`qi1 gaen1 r zheh7 lio6` <sup>[东台]</sup> 为做某事准备的材料只在预算之间，没有一点余地，紧巴巴的：明天来客多，菜要多买些，不能弄得～的。  
 1. 【[期境](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/q/qi_jien.md#期境)】`qi1 jien` <sup>[兴化]</sup> ① 局势：等外头～平定下来再出去吧！ ② 境况：你的～也不好，覅管我俫吧！  
@@ -714,6 +715,8 @@
 1. 【[嘻嘻哈哈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_xi_ha_ha.md#嘻嘻哈哈)】`xi1 xi1 ha1 ha1` <sup>[东台]</sup> 说话做事不认真、不严肃。  
 1. 【[嬉打六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉打六缸)】`xi1 da3 loh8 gan1` <sup>[泰州]</sup> 指以不受处世规则约束的游戏态度对待严肃话题、正经事情：跟你谈正经事，你不好～的，哿好！｜你这小伙今后做事要认点儿真，不能再～的唻。  
 1. 【[嬉大六缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_da_loh_gan.md#嬉大六缸)】`xi1 da6 loh8 gan1` <small>/sɿ1 ta1 nɔʔ8 kɑŋ1/<sup>泰县</sup></small> 轻浮，办事不专心<sup>\[泰县\]</sup>：你不要～的，到底哿去？<sup>\[泰县\]</sup>  
+1. 【[嬉里入刚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_lii_reh_gan.md#嬉里入刚)】`xi1 lii reh8 gan1` <small>/ɕʝ1 ləɪ ɻəʔ8 kɑŋ1/<sup>泰兴</sup></small> 嬉笑无度，极不认真严肃。<sup>\[泰兴\]</sup>  
+1. 【[嬉皮笑脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_pi_xio_lin.md#嬉皮笑脸)】`xi1 pi2 xio5 lin3` <small>/ɕʝ1 pʰʝ2 ɕiɔ5 lĩ3/<sup>泰兴</sup></small> 嘻嘻哈哈，极不严肃的样子。<sup>\[泰兴\]</sup>  
 1. 【[曦光曦亮](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_guan_xi_lian.md#曦光曦亮)】`xi1 guan1 xi1 lian6` <sup>[如东]</sup> 非常明亮：这把刀磨啊～。  
 1. 【[稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi.md#稀)】`xi1` <small>/ɕi1/<sup>兴化</sup>, /ɕʝ1/<sup>如皋</sup></small> ① 糖～，麦芽糖<sup>\[如皋\]</sup>：做炒米糖要用～。<sup>\[如皋\]</sup> ② 形容用钱多<sup>\[如皋\]</sup>：钱不够～、钱～得快。<sup>\[如皋\]</sup> ③ 各个物体之间空隙大。<sup>\[东台\]</sup> ④ 程度副词，相当于“很”，往往含贬义，表说话人的不满情绪<sup>\[兴化\]</sup>：～脏的；～冷的；……执刑的把个板子摆在腿上，来回光啊光的，光的～痒的……（《武松》五）<sup>\[兴化\]</sup> ⑤ 程度副词，很，极其<sup>\[泰州\]</sup>：这个咸菜～咸的，你要多泡个盹ㄦ。<sup>\[泰州\]</sup>｜～醉<sup>\[泰州\]</sup>｜～苦<sup>\[泰州\]</sup>｜～软<sup>\[泰州\]</sup>｜～嫩<sup>\[泰州\]</sup>  
 1. 【[稀啊稀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/x/xi_a_xi.md#稀啊稀)】`xi1 a xi1` <sup>[泰县]</sup> 人群渐渐稀少：今朝会开啊不久，人都～的走掉啊。  

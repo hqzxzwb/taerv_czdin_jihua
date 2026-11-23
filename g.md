@@ -785,7 +785,7 @@
 1. 【[教书](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_shv.md#教书)】`go1 shv1` <sup>[如东]</sup> 教学生学习文化：明朝开始～。  
 1. 【[教他写难字](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_ta_xia_naen.md#教他写难字)】`go1 ta1 xia3 naen2 cz6` <sup>[如皋]</sup> 找难题给他处理。  
 1. 【[篙转](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zhun.md#篙转)】`go1 zhun3` <sup>[兴化]</sup> 竹篙下端安装的铁锥。  
-1. 【[篙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#篙子)】`go1 zz` <small>/kɔ1 t͡sɿ/<sup>兴化</sup>, /kɔ1 t͡sɿ/<sup>如皋</sup></small> ① 竹杆。主要用于撑船或者挂渔网。<sup>\[如东\]</sup> ② 一般指撑船用的竹篙，篙头镶铁。也有指普通竹杆。还有人戏称筷子。<sup>\[如皋\]</sup> ③ 见“茅篙”条<sup>\[东台\]</sup> ④ 竹篙。<sup>\[兴化\]</sup> ⑤ 特指撑船用的竹篙。<sup>\[兴化\]</sup> ⑥ 用较粗的竹竿做成的撑船工具<sup>\[泰州\]</sup>：这条河里的水太深，一～下去掸不到底。<sup>\[泰州\]</sup>  
+1. 【[篙子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_zz.md#篙子)】`go1 zz` <small>/kɔ1 t͡sɿ/<sup>兴化</sup>, /kɔ1 t͡sɿ/<sup>如皋</sup>, /kɔ1 t͡sɿ/<sup>泰兴</sup></small> ① 竹杆。主要用于撑船或者挂渔网。<sup>\[如东\]</sup> ② 一般指撑船用的竹篙，篙头镶铁。也有指普通竹杆。还有人戏称筷子。<sup>\[如皋\]</sup> ③ 见“茅篙”条<sup>\[东台\]</sup> ④ 竹篙。<sup>\[兴化\]</sup> ⑤ 特指撑船用的竹篙。<sup>\[兴化\]</sup> ⑥ 撑船的长竹杆。<sup>\[泰兴\]</sup> ⑦ 用较粗的竹竿做成的撑船工具<sup>\[泰州\]</sup>：这条河里的水太深，一～下去掸不到底。<sup>\[泰州\]</sup>  
 1. 【[糕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go.md#糕)】`go1` <sup>[如东]</sup> 食品。用米粉、面粉加工而成，一般块状。品种很多，如年糕、蛋糕、粉糖糕、重阳糕、桂片糕等。  
 1. 【[糕箱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian.md#糕箱)】`go1 xian1` <sup>[如东]</sup> 蒸糕的笼具，木制，方形，比蒸笼小，有格子，有字模板，用笼布。  
 1. 【[糕箱<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/go_xian_r.md#糕箱<sub>儿</sub>)】`go1 xian1 r` <sup>[如皋]</sup> 蒸米粉糕的木制方形笼具。与普通蒸笼不同处是：有画糕的格子；有字、画模板；笼子较细密；用笼布，不用笼垫儿。  

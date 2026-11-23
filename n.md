@@ -190,7 +190,7 @@
 1. 【[瓤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#瓤)】`nan2` <sup>[兴化]</sup> 不好、软弱：他的手艺不～，刮刮叫。｜你的身体太～，要注意保养。  
 1. 【[瓤子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz.md#瓤子)】`nan2 zz` <small>/nã2 t͡sɿ/<sup>如皋</sup></small> ① 瓜心有籽的部分<sup>\[如皋\]</sup>：瓜～。<sup>\[如皋\]</sup> ② 瓜瓤状<sup>\[如皋\]</sup>：血～。<sup>\[如皋\]</sup> ③ 瓜果皮里的肉或瓣儿<sup>\[东台\]</sup>：西瓜～<sup>\[东台\]</sup>｜蜜桔～。<sup>\[东台\]</sup>  
 1. 【[攮管尖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_gun_jin_zz.md#攮管尖子)】`nan3 gun3 jin1 zz` <sup>[如皋]</sup> 在攮管后下方的小桩，套车辫扣儿用。  
-1. 【[攮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz.md#攮子)】`nan3 zz` <sup>[东台]</sup> 匕首。  
+1. 【[攮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz.md#攮子)】`nan3 zz` <small>/nɑŋ3 t͡sɿ/<sup>泰兴</sup></small> ① 匕首。<sup>\[东台\]</sup> ② 小尖刀的隐语。<sup>\[泰兴\]</sup>  
 1. 【[攮子刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_zz_do.md#攮子刀)】`nan3 zz do1` <sup>[如东]</sup> 工具。铁制，头尖，口锋利，有短柄，似匕首。主要用于宰杀猪羊等牲口。也称攮子。  
 1. 【[儾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan.md#儾)】`nan5` <small>/laŋ5/<sup>兴化</sup>, /nã5/<sup>如皋</sup></small> ① 松重；下垂。<sup>\[如皋\]</sup> ② 肥盛貌<sup>\[如皋\]</sup>：这块肉肥～～的。如皋词典写“腩”。<sup>\[如皋\]</sup> ③ 松抛、下垂<sup>\[兴化\]</sup>：王胖子下巴跟肚子上的皮都～下来啊<sup>\[兴化\]</sup>｜棕绷的膛心～下来，不好睏吖<sup>\[兴化\]</sup>  
 1. 【[儾腰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nan_io.md#儾腰)】`nan5 io1` <sup>[如东]</sup> 中间向下微弯：绳索～。  
@@ -607,10 +607,11 @@
 1. 【[轧淡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_taen.md#轧淡)】`ngaeh8 taen6` <small>/æʔ8 tʰɛ̃6/<sup>兴化</sup>, /æʔ8 tʰɛ̃1/<sup>泰县</sup></small> ① 搬淡话，搬弄是非<sup>\[东台\]</sup>：有空就多看点书，不要寻人～。<sup>\[东台\]</sup> ② 没话寻出话来说<sup>\[兴化\]</sup>：你无理寡故的～做甚的？<sup>\[兴化\]</sup> ③ 搬弄是非<sup>\[兴化\]</sup>：这个婆娘喜欢～。<sup>\[兴化\]</sup> ④ 说闲话<sup>\[泰县\]</sup>：你覅～。<sup>\[泰县\]</sup>  
 1. 【[轧尾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_vei_zz.md#轧尾子)】`ngaeh8 vei3 zz` <sup>[如皋]</sup> ① 买货给钱时不给尾数款。 ② 詈语。冬天，人走后不随手关门，给别人以冷风，使别人受冷。因畜牲才有尾子，不关门是怕～。  
 1. 【[轧闲](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_xiaen.md#轧闲)】`ngaeh8 xiaen2` <sup>[如皋]</sup> 詈语，责说了不妥当或不负责任的话。  
-1. 【[𫜰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#𫜰)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup></small> ① 器物上的缺口<sup>\[兴化\]</sup>：碗上碰个～子。<sup>\[兴化\]</sup>｜缸边上有～口子。<sup>\[兴化\]</sup>｜刀上有～子。<sup>\[兴化\]</sup> ② 牙上的小缺口。<sup>\[泰州\]</sup> ③ 器物上的齿形缺口。<sup>\[泰州\]</sup> ④ 陶瓷器口边上的缺口。<sup>\[泰州\]</sup>  
+1. 【[𫜰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh.md#𫜰)】`ngaeh8` <small>/æʔ8/<sup>兴化</sup>, /ŋæʔ8/<sup>泰兴</sup></small> ① 器物上的缺口<sup>\[兴化\]</sup>：碗上碰个～子。<sup>\[兴化\]</sup>｜缸边上有～口子。<sup>\[兴化\]</sup>｜刀上有～子。<sup>\[兴化\]</sup> ② 牙上的小缺口。<sup>\[泰州\]</sup> ③ 器物上的齿形缺口。<sup>\[泰州\]</sup> ④ 陶瓷器口边上的缺口。<sup>\[泰州\]</sup> ⑤ 残缺、挫损<sup>\[泰兴\]</sup>  
+1. 【[𫜰瓪碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_baen_un.md#𫜰瓪碗)】`ngaeh8 baen3 un3` <small>/ŋæʔ8 pɛ̃3 ʊ̃3/<sup>泰兴</sup></small> 有𫜰子的碗。<sup>\[泰兴\]</sup>  
 1. 【[𫜰当<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_dan_r.md#𫜰当<sub>儿</sub>)】`ngaeh8 dan1 r` <sup>[东台]</sup> 形容很小的空隙：车厢里交关挤，我寻到个～坐下来。  
 1. 【[𫜰咚𫜰咚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_don_ngaeh_don.md#𫜰咚𫜰咚的)】`ngaeh8 don3 ngaeh8 don3 dii` <sup>[东台]</sup> 不停地走路的样子，多用于嗔词：你歇歇神，哿好，不要老是～，走啊不歇。  
-1. 【[𫜰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#𫜰子)】`ngaeh8 zz` <small>/ŋeʔ8 t͡sɿ/<sup>如皋</sup>, /æʔ8 t͡se/<sup>泰县</sup></small> ① （器皿上的）缺口，又称𫜰口。 ② 器皿口部的小缺子<sup>\[如皋\]</sup>：剪子口有啊～；碗边子碰吖个～。<sup>\[如皋\]</sup> ③ 器皿上的缺损。<sup>\[如东\]</sup>：大碗上有个～。<sup>\[如东\]</sup> ④ 陶器，瓷器边缘磨损后出现的小缺口<sup>\[东台\]</sup>：青花瓷碗上有个～<sup>\[东台\]</sup> ⑤ 缺口，裂缝<sup>\[泰县\]</sup>：这个锅盖有个～<sup>\[泰县\]</sup>  
+1. 【[𫜰子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaeh_zz.md#𫜰子)】`ngaeh8 zz` <small>/ŋeʔ8 t͡sɿ/<sup>如皋</sup>, /ŋæʔ8 t͡sɿ/<sup>泰兴</sup>, /æʔ8 t͡se/<sup>泰县</sup></small> ① （器皿上的）缺口，又称𫜰口。 ② 器皿口部的小缺子<sup>\[如皋\]</sup>：剪子口有啊～；碗边子碰吖个～。<sup>\[如皋\]</sup> ③ 多指器皿、刀口上的缺口。<sup>\[泰兴\]</sup> ④ 器皿上的缺损。<sup>\[如东\]</sup>：大碗上有个～。<sup>\[如东\]</sup> ⑤ 陶器，瓷器边缘磨损后出现的小缺口<sup>\[东台\]</sup>：青花瓷碗上有个～<sup>\[东台\]</sup> ⑥ 缺口，裂缝<sup>\[泰县\]</sup>：这个锅盖有个～<sup>\[泰县\]</sup>  
 1. 【[淹吖心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_nga_xien.md#淹吖心)】`ngaen1 nga xien1` <sup>[如皋]</sup> 十分苦：他捱敌人捉咖去，吃的苦～。  
 1. 【[淹杀鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_shaeh_guei.md#淹杀鬼)】`ngaen1 shaeh guei3` <sup>[如皋]</sup> 见“河落鬼”。  
 1. 【[淹死海里](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngaen_sz_hae_lii.md#淹死海里)】`ngaen1 sz3 hae3 lii` <sup>[如东]</sup> 淹死在海洋里。渔民淹死海里后，往往连尸体都捞不回来，是非常悲惨的。这是咒骂渔民的话。  
@@ -1056,10 +1057,11 @@
 1. 【[呕屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr.md#呕屎)】`ngeu3 shr3` <small>/ɤ3 sɿ3/<sup>兴化</sup></small> ① 骂人胡说<sup>\[兴化\]</sup>：“你～！军婚，现役嘛！高压线嘛！要法办的！”（毕飞宇《玉米》）<sup>\[兴化\]</sup> ② 詈词，骂人说与性相关的话<sup>\[泰州\]</sup>：老家伙在这块～，你不要把人家伢儿教啊坏啊。<sup>\[泰州\]</sup>｜你不要再～哦，当心人家攉你嘴巴子。<sup>\[泰州\]</sup>  
 1. 【[呕屎礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_shr_jian.md#呕屎礓)】`ngeu3 shr3 jian3` <sup>[东台]</sup> （詈语）指胡说八道。  
 1. 【[呕𪨊礓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_son_jian.md#呕𪨊礓)】`ngeu3 son2 jian3` <sup>[东台]</sup> 与“呕屎礓”近义。  
+1. 【[藕](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu.md#藕)】`ngeu3` <small>/ŋəɪ3/<sup>泰兴</sup></small> 荷根。可食。<sup>\[泰兴\]</sup>  
 1. 【[藕饼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r.md#藕饼<sub>儿</sub>)】`ngeu3 bien3 r` <small>/ŋei3 piə˞3/<sup>如皋</sup></small> ① 用藕片夹馅蘸面浆，油炸或油焖成的饼，为中秋节食品。<sup>\[如皋\]</sup> ② 藕切成饼儿，中间嵌肉末、姜末，外面沾上面粉糊，放在锅中炸熟，呈淡黄色，肥、脆、香，营养丰富。<sup>\[如东\]</sup>  
 1. 【[藕饼<sub>儿</sub>鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_bien_r_pieh.md#藕饼<sub>儿</sub>鼻子)】`ngeu3 bien3 r pieh8 zz` <sup>[如皋]</sup> 趣指猪鼻孔区。  
 1. 【[藕擦子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_caeh_zz.md#藕擦子)】`ngeu3 caeh7 zz` <small>/ɤ3 t͡sʰæʔ7 t͡sɿ/<sup>兴化</sup>, /ɤɯ3 t͡sʰæʔ7 t͡se/<sup>泰县</sup></small> ① 小型厨具，在铁皮上凿成密集小孔，可把藕擦成碎屑，也可把萝卜擦成细丝。<sup>\[兴化\]</sup> ② 擦藕用的工具。<sup>\[泰县\]</sup>  
-1. 【[藕粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_fen.md#藕粉)】`ngeu3 fen3` <sup>[如东]</sup> 睡莲科植物莲的肥厚根茎加工制成的淀粉。  
+1. 【[藕粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_fen.md#藕粉)】`ngeu3 fen3` <small>/ŋəɪ3 fəŋ3/<sup>泰兴</sup></small> ① 睡莲科植物莲的肥厚根茎加工制成的淀粉。<sup>\[如东\]</sup> ② 食品。用藕制成的粉。<sup>\[泰兴\]</sup>  
 1. 【[藕粉圆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_fen_iun_zz.md#藕粉圆子)】`ngeu3 fen3 iun2 zz` <sup>[兴化]</sup> 一种甜食，用藕粉、糖加芡做成。  
 1. 【[藕夹子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_gaeh_zz.md#藕夹子)】`ngeu3 gaeh7 zz` <small>/ɤ3 kæʔ7 t͡sɿ/<sup>兴化</sup></small> ① 把肉糜夹在藕片中，加上面粉浆液，用油煎熟的菜肴。<sup>\[东台\]</sup> ② 一种小吃<sup>\[兴化\]</sup>：两块藕片之间夹肉糜，加芡后油炸。<sup>\[兴化\]</sup> ③ 藕盒，两个藕片质检夹进肉糜，蘸上面糊以后油炸而成的食品。<sup>\[泰州\]</sup>  
 1. 【[藕芽钻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngeu_nga_zun_r.md#藕芽钻<sub>儿</sub>)】`ngeu3 nga2 zun1 r` <sup>[如东]</sup> ① 藕刚出土或水的嫩芽，淡红色。 ② 比喻女子的手指头嫩白而尖：她的手像～一样。  
@@ -1088,7 +1090,7 @@
 1. 【[爊不烂，煮不熟的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_beh_laen_zhv.md#爊不烂，煮不熟的)】`ngo1 beh7 laen6 zhv3 beh7 shoh8 dii` <sup>[如皋]</sup> 指某些猪肉煮、煨不得烂，比喻某些怮跷话很刺人、很伤人，非常难受  
 1. 【[爊糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zo.md#爊糟)】`ngo1 zo1` <sup>[如东]</sup> ① 天气闷热：天气热， ～。 ② 心情烦躁：她心里非常～。  
 1. 【[窅窅<sub>儿</sub>脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_ngo_r_lin.md#窅窅<sub>儿</sub>脸)】`ngo1 ngo1 r lin3` <sup>[如皋]</sup> 鼻眼部内凹的脸型。  
-1. 【[鏖糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zo.md#鏖糟)】`ngo1 zo1` <sup>[兴化]</sup> ① 龌龊、不洁：今日这浴，就如脱皮退壳，身上～，足足洗了半缸。（《醒世恒言》十七） ② 产妇恶露：才生养十几朝，身上～就干净吖。 ③ 心中郁闷、生气：有理的宫司打不赢，心里真～。｜明·陶宗仪《南村辍耕录》“俗语以不洁为～。”｜《吴下方言考》“吴中谓执拗生气曰～。”  
+1. 【[鏖糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zo.md#鏖糟)】`ngo1 zo1` <small>/ɔ1 t͡sɔ1/<sup>兴化</sup>, /ŋɔ1 t͡sɔ1/<sup>泰兴</sup></small> ① 龌龊、不洁<sup>\[兴化\]</sup>：今日这浴，就如脱皮退壳，身上～，足足洗了半缸。（《醒世恒言》十七）<sup>\[兴化\]</sup> ② 污秽，不干净，使人感到难受，烦躁。<sup>\[泰兴\]</sup> ③ 产妇恶露<sup>\[兴化\]</sup>：才生养十几朝，身上～就干净吖。<sup>\[兴化\]</sup> ④ 心中郁闷、生气<sup>\[兴化\]</sup>：有理的宫司打不赢，心里真～。<sup>\[兴化\]</sup>｜明·陶宗仪《南村辍耕录》“俗语以不洁为～。”<sup>\[兴化\]</sup>｜《吴下方言考》“吴中谓执拗生气曰～。”<sup>\[兴化\]</sup>  
 1. 【[鏖糟味](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_zo_vei.md#鏖糟味)】`ngo1 zo1 vei6` <sup>[如皋]</sup> 污秽难闻的怪气味。也说ngo1 do1 vei6。  
 1. 【[拗撟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qio.md#拗撟)】`ngo2 qio` <sup>[兴化]</sup> 有意闹别扭：小两口要结婚，丈母娘从中～。  
 1. 【[敖翘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/ngo_qio.md#敖翘)】`ngo2 qio` <sup>[如皋]</sup> 谈判中气势逼人，毫不让步。  
@@ -1383,6 +1385,7 @@
 1. 【[逆毛羽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_mo_y.md#逆毛羽)】`nieh8 mo2 y3` <sup>[如东]</sup> 向着羽毛相反的方向捋，会把羽毛捋猖起来。比喻逆着某人的脾气或意见说话办事。例如你不能～。  
 1. 【[逆性子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_xien_zz.md#逆性子)】`nieh8 xien zz` <sup>[如皋]</sup> 脾气倔强。  
 1. 【[逆子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieh_zz.md#逆子)】`nieh8 zz` ① 不孝顺的子女。<sup>\[如东\]</sup> ② 指忤逆不孝的儿子。<sup>\[东台\]</sup>  
+1. 【[凝神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nien_shen.md#凝神)】`nien2 shen2` <small>/niŋ2 səŋ2/<sup>泰兴</sup></small> 集中精力；注意力非常集中。<sup>\[泰兴\]</sup>  
 1. 【[牛屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_bi.md#牛屄)】`nieu2 bi1` ① 粗话，狂妄，了不起<sup>\[泰州\]</sup>：这个小伙～得很，不是重点中学他不上。<sup>\[泰州\]</sup>｜你～甚的东西？<sup>\[泰州\]</sup> ② 大排场，大气派<sup>\[泰州\]</sup>：他家小伙结婚～唻，光酒席就订吖100多桌，小汽车来啊有三十多挂。<sup>\[泰州\]</sup>  
 1. 【[牛屄筒子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_bi_ton_zz.md#牛屄筒子)】`nieu2 bi1 ton3 zz` <sup>[泰州]</sup> 粗语，指喜欢吹牛的人：小孙说他炒股赚吖几百万？这个～的话，你就能信嘘？  
 1. 【[牛角瓜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nieu_gah_gua.md#牛角瓜)】`nieu2 gah7 gua1` <sup>[泰州]</sup> 下河地区产的，一种夏季上市，表皮光华无棱，布满绿斑，较腌瓜瘦而长的瓜，可以生吃，也可以腌着吃，炒着吃。  
@@ -1539,8 +1542,9 @@
 1. 【[碾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#碾)】`nin3` <small>/nĩ3/<sup>如皋</sup></small> 用脚搓<sup>\[如皋\]</sup>：药工用双脚踏住碾盘的轴，在碾槽里～药<sup>\[如皋\]</sup>｜把烟头～熄。<sup>\[如皋\]</sup>  
 1. 【[碾场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_chan.md#碾场)】`nin3 chan2` <sup>[如皋]</sup> ① 在大场上用滚子碾压脱粒。 ② 做场时压实土层。  
 1. 【[碾槽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_co.md#碾槽)】`nin3 co2` <small>/liɪ̃3 t͡sʰɔ2/<sup>兴化</sup></small> ① 一种船形的碾药材工具，生铁铸成。<sup>\[兴化\]</sup> ② 一种黏物工具，有碾槽、碾盘两部分组成，碾槽铁铸，船形，两头上翘，口阔底窄，碾盘两侧中心各有一个圆柄伸出，将芝麻等物置于船形之中，用手或者脚按柄推动碾盘在凹槽中来回滚动，从而碾碎槽中之物。<sup>\[泰州\]</sup>  
+1. 【[碾坊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_fan.md#碾坊)】`nin3 fan` <small>/nĩ3 fɑŋ/<sup>泰兴</sup></small> 碾谷磨面的作坊。<sup>\[泰兴\]</sup>：黄桥北有一村落名“～头”。<sup>\[泰兴\]</sup>  
 1. 【[碾饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji.md#碾饥)】`nin3 ji1` 热量大的食物吃饱以后，可以保持较长时间不觉得饥饿<sup>\[泰州\]</sup>：早上吃的实心圆子～，倒现在我的肚子都不饿。<sup>\[泰州\]</sup>  
-1. 【[碾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#碾子)】`nin3 zz` <sup>[如皋]</sup> ① 碾场用的石滚子。 ② 碾中药用的铁滚子。  
+1. 【[碾子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_zz.md#碾子)】`nin3 zz` <small>/nĩ3 t͡sɿ/<sup>如皋</sup>, /nĩ3 t͡sɿ/<sup>泰兴</sup></small> ① 碾场用的石滚子。<sup>\[如皋\]</sup>\[泰兴：大石滚，碾压东西的器具。\] ② 碾中药用的铁滚子。<sup>\[如皋\]</sup>  
 1. 【[趼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin.md#趼)】`nin5` <sup>[如皋]</sup> 提踵即提起脚跟。又作踮。  
 1. 【[黏𪐏𪐏的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_deh_deh_dii.md#黏𪐏𪐏的)】`nin5 deh7 deh7 dii` <sup>[东台]</sup> 形容黏度很大。  
 1. 【[黏叽哇沙的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nin_ji_va_sha.md#黏叽哇沙的)】`nin5 ji1 va1 sha1 dii` <sup>[东台]</sup> 黏糊糊的，叫人讨厌而又不容易甩开。  
@@ -1665,7 +1669,7 @@
 1. 【[懦褦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_nae.md#懦褦)】`nu5 nae6` <sup>[如东]</sup> 胆小软弱：这个姑娘比较～。  
 1. 【[懦货<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_hu_r.md#懦货<sub>儿</sub>)】`nu6 hu5 r` <sup>[如东]</sup> 软弱无能的人：王二是个～。  
 1. 【[懦弱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_rah.md#懦弱)】`nu6 rah8` <sup>[东台]</sup> 胆小怕事，软弱无能。  
-1. 【[懦善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_shin.md#懦善)】`nu6 shin6` <small>/nɤɯ1 ɕĩ1/<sup>泰兴</sup></small> 懦弱、不活泼<sup>\[泰兴\]</sup>  
+1. 【[懦善](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_shin.md#懦善)】`nu6 shin6` <small>/nɤɯ1 ɕĩ1/<sup>泰兴</sup></small> 善弱；忠厚笃实。<sup>\[泰兴\]</sup>  
 1. 【[糯米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi.md#糯米)】`nu6 mi3` <sup>[如东]</sup> 禾本科植物糯稻的种仁，也称茶米。黏性大，可以做糕酿酒。  
 1. 【[糯米陈酒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_chen_jieu.md#糯米陈酒)】`nu6 mi3 chen2 jieu3` <sup>[如皋]</sup> 以糯米为主酿制的一种低度酒，浸以茵陈且库藏较久，故称“陈”。  
 1. 【[糯米泔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/n/nu_mi_gun.md#糯米泔)】`nu6 mi3 gun1` <sup>[如东]</sup> 糯米淘洗时第二次滤出的泔水。  

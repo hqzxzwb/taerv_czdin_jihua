@@ -200,11 +200,11 @@
 1. 【[榻头船](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_teu_chun.md#榻头船)】`taeh7 teu chun2` <sup>[兴化]</sup> 一种低棚的小船：家里有田半顷，备一条～，由长工金老三使用……（马春阳《姐妹姻缘船迷传》）也作“榻子船”。  
 1. 【[溻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#溻)】`taeh7` <sup>[兴化]</sup> 冷米饭洒水后加热：～饭。《集韵·盍韵》托盍切｜“～，湿也”。  
 1. 【[澾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#澾)】`taeh7` <sup>[如皋]</sup> 下滑：他走坎子上朝下～。  
-1. 【[獭猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_mo.md#獭猫)】`taeh7 mo2` <sup>[如皋]</sup> 水獭。哺乳纲，食肉目。  
+1. 【[獭猫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_mo.md#獭猫)】`taeh7 mo2` <small>/tʰeʔ7 mɔ2/<sup>如皋</sup>, /tʰæʔ7 mɔ2/<sup>泰兴</sup></small> 水獭。哺乳纲，食肉目。<sup>\[如皋\]</sup>\[泰兴：一种生活在水边的野兽，能游泳，捕鱼为食，皮毛棕色，可做衣领、帽子等。另有一种旱獭，生活在陆地上。\]  
 1. 【[𤄥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#𤄥)】`taeh7` <sup>[如皋]</sup> 涂、揸：～雪花儿膏。  
 1. 【[𤄥𤄥鼻子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_taeh_pieh_zz.md#𤄥𤄥鼻子)】`taeh7 taeh7 pieh8 zz` <sup>[如皋]</sup> 应付应付，使关系不致尴尬：大家总分到啊，也弄半份儿把他～。  
 1. 【[踏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh.md#踏)】`taeh8` 踏  
-1. 【[踏板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen.md#踏板)】`taeh8 baen3` <small>/tʰeʔ8 pẽ3/<sup>如皋</sup></small> ① 旧式床前的踏脚板，与床同长，约三尺宽，六寸高，八只脚，有框架。<sup>\[如皋\]</sup> ② 上床踏脚的台板，长方形。<sup>\[如东\]</sup> ③ 旧式床前放置的一块下面有矮脚的木板<sup>\[东台\]</sup>：婆娘教他跪～。<sup>\[东台\]</sup> ④ 旧时一种置于床前，用于垫脚上床、放鞋、放便器用的大型矮几，长度同床，宽约一米，高约二十厘米<sup>\[泰州\]</sup>：你不要嘴凶，当心你家老婆教你跪～嗷。<sup>\[泰州\]</sup>  
+1. 【[踏板](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen.md#踏板)】`taeh8 baen3` <small>/tʰeʔ8 pẽ3/<sup>如皋</sup>, /tʰæʔ8 pɛ̃3/<sup>泰兴</sup></small> 旧式床前供踏脚上下床的矮台。\[如东：上床踏脚的台板，长方形。\]\[泰兴：多指床前的便于上下的台阶式配件。\]\[东台：旧式床前放置的一块下面有矮脚的木板\]\[如皋：旧式床前的踏脚板，与床同长，约三尺宽，六寸高，八只脚，有框架。\]\[泰州：旧时一种置于床前，用于垫脚上床、放鞋、放便器用的大型矮几，长度同床，宽约一米，高约二十厘米\]：婆娘教他跪～。<sup>\[东台\]</sup>｜你不要嘴凶，当心你家老婆教你跪～嗷。<sup>\[泰州\]</sup>  
 1. 【[踏板底下吊吊灰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_baen_di_xia.md#踏板底下吊吊灰)】`taeh8 baen3 di3 xia6 dio5 dio5 huei1` <sup>[东台]</sup> 喻指社会最下层的人物。  
 1. 【[踏车](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha.md#踏车)】`taeh8 cha1` <small>/tʰæʔ8 t͡sʰa1/<sup>兴化</sup>, /tʰeʔ8 t͡sʰa1/<sup>如皋</sup></small> ① 名。指人力踏车。<sup>\[如皋\]</sup> ② 用人力踏动戽水灌田的水车。<sup>\[如皋\]</sup> ③ 农活之一，脚踏龙骨水车提水<sup>\[兴化\]</sup>：这几天抗旱，天天下田～。<sup>\[兴化\]</sup>  
 1. 【[踏车轴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_cha_choh.md#踏车轴)】`taeh8 cha1 choh8` <sup>[如皋]</sup> 脚踏式水车的动力轴，分二人轴、四人轴、六人轴、八人轴四种，与从短到长的槽筒相配。  
@@ -219,9 +219,10 @@
 1. 【[踏疆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jian.md#踏疆)】`taeh8 jian1` <sup>[如皋]</sup> 游戏用语，指踏到疆线上，应受罚。  
 1. 【[踏肩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_jin.md#踏肩)】`taeh8 jin1` <sup>[兴化]</sup> 挨肩儿，指小孩一个挨着一个来到世上：大儿九岁，二儿八岁，～生下来的。  
 1. 【[踏脶](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_lu.md#踏脶)】`taeh8 lu2` <sup>[如东]</sup> 脚掌上的脶，叫踏脶。  
-1. 【[踏埠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv.md#踏埠)】`taeh8 pv6` <sup>[如东]</sup> 河沿或岸沿上的梯形小道。  
-1. 【[踏步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv.md#踏步)】`taeh8 pv6` <small>/tʰæʔ8 pʰu6/<sup>兴化</sup>, /tʰeʔ8 pʰu1/<sup>如皋</sup></small> ① 台阶 ② 台阶。<sup>\[如皋\]</sup> ③ 站在原地两脚上下起落。<sup>\[如东\]</sup> ④ 台阶，楼梯<sup>\[兴化\]</sup>：楼～。<sup>\[兴化\]</sup>  
-1. 【[踏步床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv_chuan.md#踏步床)】`taeh8 pv6 chuan2` <small>/tʰeʔ8 pʰu1 t͡sʰuã2/<sup>如皋</sup></small> ① 床前有隔架和踏板的床。“滴水檐床”实即“一进”式～；以“三进”式为多见，称“三踏步床”。<sup>\[如皋\]</sup> ② 床的一种。床体宽大，结构复杂，镂花飞金，装饰豪华。床前有踏板上有项道。项道的一头供陪伴小姐的丫环睡觉，一头放置恭桶。主要有三种：有一张踏板一条项道的，称一堂踏步床；有两张踏板两条项道的，称两堂踏步床；有三张踏板三条项道的，称三堂踏步床。<sup>\[如东\]</sup>  
+1. 【[踏步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv.md#踏步)】`taeh8 pv6` <small>/tʰæʔ8 pʰu6/<sup>兴化</sup>, /tʰeʔ8 pʰu1/<sup>如皋</sup>, /tʰæʔ8 pʰu/<sup>泰兴</sup></small> ① 台阶 ② 台阶。<sup>\[如皋\]</sup>\[泰兴：台阶；梯档。\]\[如东：河沿或岸沿上的梯形小道。《如东方言词典》作“踏埠”。\] ③ 台阶，楼梯<sup>\[兴化\]</sup>：楼～。<sup>\[兴化\]</sup>  
+1. 【[踏步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv.md#踏步)】`taeh8 pv6` 站在原地两脚上下起落。<sup>\[如东\]</sup>  
+1. 【[踏步床](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_pv_chuan.md#踏步床)】`taeh8 pv6 chuan2` <small>/tʰeʔ8 pʰu t͡sʰuã2/<sup>如皋</sup>, /tʰæʔ8 pʰu t͡sʰuɑŋ2/<sup>泰兴</sup></small> ① 床前有隔架和踏板的床。“滴水檐床”实即“一进”式～；以“三进”式为多见，称“三踏步床”。<sup>\[如皋\]</sup>\[泰兴：一种床前有宽大踏脚板的旧式大花床。又称“八步床”、“拔步床”。\]：“手里有一分好钱。南京拔步床也有两张……。”（《金瓶梅词话》第7回）<sup>\[泰兴\]</sup> ② 床的一种。床体宽大，结构复杂，镂花飞金，装饰豪华。床前有踏板上有项道。项道的一头供陪伴小姐的丫环睡觉，一头放置恭桶。主要有三种：有一张踏板一条项道的，称一堂踏步床；有两张踏板两条项道的，称两堂踏步床；有三张踏板三条项道的，称三堂踏步床。<sup>\[如东\]</sup>  
+1. 【[踏青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_qien.md#踏青)】`taeh8 qien1` <small>/tʰæʔ8 t͡ɕʰiŋ1/<sup>泰兴</sup></small> 清明节前后郊野游览的习俗。<sup>\[泰兴\]</sup>  
 1. 【[踏青节](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_qien_jih.md#踏青节)】`taeh8 qien1 jih7` <sup>[如东]</sup> 阴历2月初2日，为踏青节。此时，气温升高，百草吐绿。少男少女纷纷出门嬉游赏青。据费著《岁华纪丽普》：“二月二日，踏青节，初郡人游赏，散在四郊。”  
 1. 【[踏纤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_qin.md#踏纤)】`taeh8 qin5` <sup>[如东]</sup> 用黄麻绞成粗锚缆，供帆船使用，这种劳动叫做踏纤。  
 1. 【[踏轿米](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taeh_qio_mi.md#踏轿米)】`taeh8 qio6 mi3` <sup>[如东]</sup> 一种民俗。姑娘出嫁时，新郎送给丈人、丈母一袋米，表示感谢老人对妻子的抚育之恩。这袋米叫做踏轿米。  
@@ -259,7 +260,7 @@
 1. 【[瘫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen.md#瘫)】`taen1` <sup>[泰州]</sup> ① 因受强烈刺激，导致身体无力而客观上无法站立、挪动而只能躺着：人捱他的车子撞吖多远，地下全是血，他当场就吓咖～吖。 ② 瘫痪：他从脚手架上跌下来以后，～吖家里好些年。  
 1. 【[瘫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz.md#瘫子)】`taen1 zz` <small>/tʰɛ̃1 t͡sɿ/<sup>泰兴</sup></small> 瘫痪的人<sup>\[如东\]</sup><sup>\[泰兴\]</sup>  
 1. 【[瘫子带亲——坐啊家里等](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_dae_qien.md#瘫子带亲——坐啊家里等)】`taen1 zz dae5 qien1 cu6 a ga1 lii den3` <sup>[东台]</sup>   
-1. 【[瘫子𠫓咖井里——捞起来也是坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_teh_ga.md#瘫子𠫓咖井里——捞起来也是坐)】`taen1 zz teh7 ga jien3 lii lo2 qi3 lae2 ia3 shr6 cu6` <sup>[东台]</sup>   
+1. 【[瘫子𠫓咖井里——捞起来也是坐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zz_teh_ga.md#瘫子𠫓咖井里——捞起来也是坐)】`taen1 zz teh7 ga jien3 lii lo2 qi3 lae2 ia3 shr6 cu6` <small>/tʰɛ̃1 t͡sɿ tʰəʔ7 ka t͡ɕiŋ3 ləɪ lɔ2 t͡ɕʰʝ3 lɛ2 iɑ3 sɿ1 t͡sʰɤɯ1/<sup>泰兴</sup></small> 乡谚，谓反正是一回事。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>：“周进听了这话，自己想：‘瘫子掉在井里，捞上来也是坐。’”（《儒林外史》第二回）<sup>\[泰兴\]</sup>  
 1. 【[坛场](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_chan.md#坛场)】`taen2 chan2` <small>/tʰɛ̃2 t͡sʰaŋ2/<sup>兴化</sup>, /tʰɛ̃2 t͡sʰɑŋ2/<sup>泰兴</sup></small> ① 旧时道士打醮设的神坛。借指因事占用的地方和摆设的东西<sup>\[兴化\]</sup>：砌房子～大唻！<sup>\[兴化\]</sup>｜在家里办菜请客要好大的～哎！<sup>\[兴化\]</sup> ② 举办重大家庭活动所用的地方<sup>\[泰州\]</sup>：他俫吃过啊都走啊，我俫老两口儿收拾～。<sup>\[泰州\]</sup> ③ 场地，办事的场面。<sup>\[泰兴\]</sup>：今朝他家娶亲，摆的～大唻。<sup>\[泰兴\]</sup>  
 1. 【[弹球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qieu.md#弹球)】`taen2 qieu2` <sup>[如皋]</sup> ① 一种供游戏用的玻璃球。 ② 游戏名，用玻璃球在地面上弹击，击中为赢。  
 1. 【[弹线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_xin.md#弹线)】`taen2 xin5` <small>/tʰɛ̃2 ɕiɪ̃5/<sup>兴化</sup>, /tʰẽ2 ɕĩ5/<sup>如皋</sup></small> ① 木匠用木斗弹线迹。<sup>\[如皋\]</sup> ② 裁缝用粉线袋弹线迹。<sup>\[如皋\]</sup> ③ 用墨线或粉线在木料或布料上打线条。<sup>\[如东\]</sup> ④ 将墨线或粉线拉直绷紧，拈起一弹，在平面上留下直线。<sup>\[兴化\]</sup>  
@@ -397,10 +398,10 @@
 1. 【[喥喥的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah_dii.md#喥喥的)】`tah8 tah8 dii` <small>/tʰaʔ8 tʰaʔ8 təi/<sup>兴化</sup>, /tʰaʔ8 tʰaʔ8 tei/<sup>如皋</sup></small> ① 足足的<sup>\[如皋\]</sup>：我带的钱多，袋儿里～。<sup>\[如皋\]</sup> ② 满满的<sup>\[兴化\]</sup>：～的一碗鸡汤<sup>\[兴化\]</sup>｜会场上坐得～人。<sup>\[兴化\]</sup>  
 1. 【[度度](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#度度)】`tah8 tah8` <sup>[泰县]</sup> 丰满到极限。  
 1. 【[踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah.md#踱)】`tah8` <small>/tʰɑʔ8/<sup>泰县</sup></small> ① 缓慢行走。<sup>\[如东\]</sup> ② 缓步前行<sup>\[泰县\]</sup>：走步，～咖～的。<sup>\[泰县\]</sup> ③ 泛指走开<sup>\[泰州\]</sup>：领导的报告还不错做得好，他人就～咖走啊。<sup>\[泰州\]</sup>｜他人刚才还在这块的，这一刻ㄦ不晓得他又～咖哪块去啊唻。<sup>\[泰州\]</sup>  
-1. 【[踱方步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_fan_pv.md#踱方步)】`tah8 fan1 pv6` <sup>[如皋]</sup> 慢步，走官步。  
+1. 【[踱方步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_fan_pv.md#踱方步)】`tah8 fan1 pv6` <small>/tʰaʔ8 fã1 pʰu1/<sup>如皋</sup>, /tʰɑʔ8 fɑŋ1 pʰu1/<sup>泰兴</sup></small> ① 慢步，走官步。<sup>\[如皋\]</sup> ② 慢走；拿架子的样子。<sup>\[泰兴\]</sup>  
 1. 【[踱月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_iuh.md#踱月)】`tah8 iuh8` <sup>[如皋]</sup> 明月当空的时候。散步赏月。  
 1. 【[踱步](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_pv.md#踱步)】`tah8 pv6` <sup>[如东]</sup> 慢慢走动：我在外头～。  
-1. 【[踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#踱踱)】`tah8 tah8` <small>/tʰaʔ8 tʰaʔ8/<sup>如皋</sup></small> ① 走走，散步。<sup>\[如皋\]</sup> ② 也称“摇踱下子”，吃饱了慢步行走<sup>\[东台\]</sup>：饭后我俫一起外去～。<sup>\[东台\]</sup>  
+1. 【[踱踱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tah.md#踱踱)】`tah8 tah8` <small>/tʰaʔ8 tʰaʔ8/<sup>如皋</sup>, /tʰɑʔ8 tʰɑʔ8/<sup>泰兴</sup></small> ① 走走，散步。<sup>\[如皋\]</sup>\[泰兴：慢慢地悠闲地走。\] ② 也称“摇踱下子”，吃饱了慢步行走<sup>\[东台\]</sup>：饭后我俫一起外去～。<sup>\[东台\]</sup>  
 1. 【[踱掉啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_tio_a.md#踱掉啊)】`tah8 tio a` <sup>[东台]</sup> 悄悄地离开了：不晓得甚的时候，他一个人单独～。  
 1. 【[踱午](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tah_v.md#踱午)】`tah8 v3` <sup>[如皋]</sup> 端午节的午后出游。  
 1. 【[汤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tan.md#汤)】`tan1` <small>/tʰaŋ1/<sup>兴化</sup></small> ① 菜汤，汤 ② 种比较浓厚的液体，加调料，味佳。<sup>\[如东\]</sup> ③ 热水<sup>\[兴化\]</sup>：一个人在外，～吖水的也不顺便。<sup>\[兴化\]</sup>  
@@ -637,6 +638,7 @@
 1. 【[臀板尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_baen_jin.md#臀板尖)】`ten2 baen3 jin1` <sup>[泰县]</sup> 猪屁股部分的肉。  
 1. 【[臀宫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_gon.md#臀宫)】`ten2 gon1` <sup>[兴化]</sup> 肛门：大便干结，～倒𠠹吖脱位啊。‖也作“胴宫”。  
 1. 【[臀尖](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_jin.md#臀尖)】`ten2 jin1` <small>/tʰən2 t͡ɕiɪ̃1/<sup>兴化</sup></small> ① 人体股骨头外侧臀部肌肉隆起处。<sup>\[兴化\]</sup>：谚曰：屁股上害～，“快活”似神仙（坐不得）。<sup>\[兴化\]</sup> ② 屁股上的疖子<sup>\[泰州\]</sup>：他屁股害啊个～，只好站吖不好坐。<sup>\[泰州\]</sup>  
+1. 【[藤椅](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_i.md#藤椅)】`ten2 i3` <small>/tʰəŋ2 ʝ3/<sup>泰兴</sup></small> 用藤条编的椅子、躺椅。<sup>\[泰兴\]</sup>  
 1. 【[藤面<sub>儿</sub>杌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_min_r_veh.md#藤面<sub>儿</sub>杌子)】`ten2 min6 r veh8 zz` <sup>[如皋]</sup> 藤皮网面的杌子。  
 1. 【[藤榻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_taeh.md#藤榻)】`ten2 taeh7` <small>/tʰəŋ2 tʰæʔ7/<sup>泰县</sup></small> ① 藤制的躺椅。<sup>\[泰县\]</sup> ② 一种以竹为骨架，用藤皮编的坐卧具，可供一人身体半躺倚卧<sup>\[泰州\]</sup>：你萎（vei1，累）啊，就在～上躺个盹儿。<sup>\[泰州\]</sup>  
 1. 【[藤榻<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ten_taeh_r.md#藤榻<sub>儿</sub>)】`ten2 taeh7 r` <sup>[如皋]</sup> 藤躺椅。  
@@ -925,9 +927,9 @@
 1. 【[提戏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xi_r.md#提戏<sub>儿</sub>)】`ti2 xi5 r` <sup>[如皋]</sup> 用线提动表演的小型木偶戏。  
 1. 【[提醒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_xien.md#提醒)】`ti2 xien3` <sup>[如东]</sup> 采用某种方式引起对方关注。  
 1. 【[提鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_y.md#提鱼)】`ti2 y2` <sup>[如皋]</sup> 将鱼分类的过程。  
+1. 【[蹄筋](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_jien.md#蹄筋)】`ti2 jien1` <small>/t͡ɕʰʝ2 t͡ɕiŋ1/<sup>泰兴</sup></small> 食品。猪腿中的筋，以油、水煮发后的食品。<sup>\[泰兴\]</sup>  
 1. 【[蹄面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_min.md#蹄面)】`ti2 min6` <sup>[如皋]</sup> 代指祝寿礼品。  
-1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan` <sup>[如东]</sup> 猪前脚的上半部。  
-1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan3` <small>/tʰəi2 pʰaŋ3/<sup>兴化</sup>, /tʰʝ2 pʰã3/<sup>如皋</sup></small> 猪前腿上段。<sup>\[如皋\]</sup>\[泰州：猪的大腿，肘子。\]\[兴化：肘子，用作食品的猪腿\]\[东台：蹄即爪，髈即大腿，也叫猪腿板、猪屁股。民间常做定亲或逢年过节的礼品。\]：蛮女捧出两个～，一只熟鹅……（《水浒后传》三六）<sup>\[兴化\]</sup>  
+1. 【[蹄髈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_pan.md#蹄髈)】`ti2 pan3` <small>/tʰəi2 pʰaŋ3/<sup>兴化</sup>, /tʰʝ2 pʰã3/<sup>如皋</sup>, /t͡ɕʰʝ2 pʰɑŋ/<sup>泰兴</sup></small> 猪前腿上段。<sup>\[如皋\]</sup>\[如东：猪前脚的上半部。\]\[泰州：猪的大腿，肘子。\]\[泰兴：猪脚膀，食品。《泰兴方言辞典》作“蹄膀”。\]\[兴化：肘子，用作食品的猪腿\]\[东台：蹄即爪，髈即大腿，也叫猪腿板、猪屁股。民间常做定亲或逢年过节的礼品。\]：蛮女捧出两个～，一只熟鹅……（《水浒后传》三六）<sup>\[兴化\]</sup>  
 1. 【[蹄筒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_ton.md#蹄筒)】`ti2 ton3` <small>/tʰəi2 tʰoŋ3/<sup>兴化</sup></small> ① 通常指猪的蹄子肉。<sup>\[东台\]</sup> ② 去骨后的猪蹄髈。<sup>\[兴化\]</sup>  
 1. 【[蹄爪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zho.md#蹄爪)】`ti2 zho3` <sup>[泰州]</sup> 猪腿踝骨以下部分。  
 1. 【[蹄爪子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/ti_zho_zz.md#蹄爪子)】`ti2 zho3 zz` <sup>[兴化]</sup> ① 用作食品的猪腿最下部分。 ② 脚的贬义说法。  
@@ -1038,8 +1040,9 @@
 1. 【[踢不破的烂席包](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_beh_pu_dii.md#踢不破的烂席包)】`tieh7 beh7 pu5 dii laen6 qieh8 bo1` <sup>[东台]</sup> 拆不散的关系，打不散的朋友。  
 1. 【[踢脚线](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_jiah_xin.md#踢脚线)】`tieh7 jiah7 xin5` <sup>[东台]</sup> 墙角下部稍稍突出的部分，高约20厘米。  
 1. 【[踢毽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_jin_zz.md#踢毽子)】`tieh7 jin5 zz` ① 用脚把毽子踢起来，使全身都在活动。这是一种健身运动。<sup>\[如东\]</sup> ② 一种游戏，基本技法五种<sup>\[泰州\]</sup>：用脚面内侧踢曰“逗”（teu6，泰州词典作𨁋），用膝盖顶曰跳（tio5），用脚面前部踢曰跷（qio1），用脚面外侧踢曰踝（kuaen2），将一条腿伸在另一条腿后以脚面内侧踢曰𨁖（koh7，泰州词典作趹）。踢时将毽踢起再接住为一次，次数多者为胜，女孩儿的技法尤佳。<sup>\[泰州\]</sup>  
-1. 【[踢皮球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_pi_qieu.md#踢皮球)】`tieh7 pi2 qieu2` <small>/tʰiəʔ7 pʰʝ2 t͡ɕʰyʊ2/<sup>如皋</sup></small> ① 推诿。<sup>\[如皋\]</sup> ② ［喻］互相推诿。<sup>\[东台\]</sup>  
+1. 【[踢皮球](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_pi_qieu.md#踢皮球)】`tieh7 pi2 qieu2` <small>/tʰiəʔ7 pʰʝ2 t͡ɕʰyʊ2/<sup>如皋</sup>, /tʰiʔ7 pʰʝ2 t͡ɕʰiɤɯ2/<sup>泰兴</sup></small> 推诿。<sup>\[如皋\]</sup>\[泰兴：比喻工作不负责任，互相扯皮推诿。\]\[东台：［喻］互相推诿。\]  
 1. 【[踢达](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_taeh.md#踢达)】`tieh7 taeh8` <sup>[兴化]</sup> 象声词，模拟走路发出的声音：我刚入睡，被窗外～～的脚步声惊醒。《吴下方言考》｜“……今吴谚谓行路声曰～”。  
+1. 【[踢踢秃秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_tieh_toh_toh.md#踢踢秃秃)】`tieh7 tieh7 toh7 toh7` <small>/tʰiʔ7 tʰiʔ7 tʰɔʔ7 tʰɔʔ7/<sup>泰兴</sup></small> 象声词。脚步声。<sup>\[泰兴\]</sup>  
 1. 【[踢罾<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_zen_r.md#踢罾<sub>儿</sub>)】`tieh7 zen1 r` <sup>[东台]</sup> 一种捕鱼工具。三面和底子用网围起来，一面捕捞。  
 1. 【[敌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh.md#敌)】`tieh8` <sup>[东台]</sup> 抵挡，抗拒：（俗语）一手～不过双拳。  
 1. 【[敌住](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/tieh_chv.md#敌住)】`tieh8 chv` <sup>[东台]</sup> 顶住：旧时抬草屋时，领头人不断地喊｜“腰直起来，～不能松！”｜他俫～啊，问题不得下山，需要人协调。  
@@ -1712,8 +1715,10 @@
 1. 【[稻坂子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_baen_zz.md#稻坂子)】`to6 baen zz` <sup>[兴化]</sup> 收割后没有耕秒的稻田，一般都留有稻的根茬。  
 1. 【[稻板田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_baen_tin.md#稻板田)】`to6 baen3 tin2` <small>/tʰɔ1 pẽ3 tʰĩ2/<sup>如皋</sup></small> ① 收割后闲置未耕的稻田。<sup>\[如皋\]</sup> ② 种植水稻的田。也称稻田。<sup>\[如东\]</sup>  
 1. 【[稻茬田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_cha_tin.md#稻茬田)】`to6 cha2 tin2` <sup>[如皋]</sup> 见“稻板田”。  
+1. 【[稻床子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_chuan_zz.md#稻床子)】`to6 chuan2 zz` <small>/tʰɔ1 t͡sʰuɑŋ2 t͡sɿ/<sup>泰兴</sup></small> 旧时掼稻麦脱粒的形似床铺的一种农具，今已绝。<sup>\[泰兴\]</sup>  
 1. 【[稻草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_co.md#稻草)】`to6 co3` <sup>[如东]</sup> 禾本科植物稻的茎叶。  
 1. 【[稻草铺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_co_pv.md#稻草铺)】`to6 co3 pv5` <sup>[兴化]</sup> 在褥子下堆稻草来取暖的床铺：（权勿用）留宦成在后面一间屋里，开个，晚间拿些牛肉、白酒，与他吃了。（《儒林外史》十二）‖也称“穰草铺”。  
+1. 【[稻草人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_co_ren.md#稻草人)】`to6 co3 ren2` <small>/tʰɔ1 t͡sʰɔ3 ɻəŋ2/<sup>泰兴</sup></small> 为守护田间稻麦以防鸟雀糟蹋，用稻草扎成人形以驱赶飞鸟，曰“稻草人”。<sup>\[泰兴\]</sup>  
 1. 【[稻谷芒](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_goh_man.md#稻谷芒)】`to6 goh7 man2` <sup>[如东]</sup> 禾本科植物稻果实上的细芒刺。  
 1. 【[稻穗穗<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_qy_qy_r.md#稻穗穗<sub>儿</sub>)】`to6 qy6 qy6 r` <sup>[如皋]</sup> 稻穗。  
 1. 【[稻香村](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/to_xian_cuen.md#稻香村)】`to6 xian1 cuen1` <sup>[东台]</sup> 旧东台城著名的淮扬茶食店，在旧彩衣街南轿巷对面。  

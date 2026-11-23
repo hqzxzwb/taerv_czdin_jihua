@@ -217,7 +217,7 @@
 1. 【[擸𢶍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sae.md#擸𢶍)】`lae6 sae` <sup>[如东]</sup> ① 脏：这个地方非常～。 ② 说过的话不算数，不认账，耍赖。  
 1. 【[擸𢶍胡子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_sae_hv_zz.md#擸𢶍胡子)】`lae6 sae hv2 zz` <sup>[如皋]</sup> 络腮胡子。  
 1. 【[癞疤核桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ba_heh_to.md#癞疤核桃)】`lae6 ba heh8 to2` <small>/lɛ6 pa xəʔ8 tʰɔ2/<sup>兴化</sup>, /ne1 pa xəʔ8 tʰɔ2/<sup>泰县</sup></small> ① 形容物体表面不光滑。<sup>\[兴化\]</sup> ② 衣物折皱太多<sup>\[兴化\]</sup>：他把衣裳连吖身上睡觉，弄得～的。<sup>\[兴化\]</sup> ③ 不光滑<sup>\[泰县\]</sup>：地下～的。<sup>\[泰县\]</sup>  
-1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo` <small>/lɛ6 pɔ/<sup>兴化</sup>, /lɛ1 pɔ/<sup>如皋</sup>, /ne1 pɔ/<sup>泰县</sup></small> ① 中华大蟾蜍。<sup>\[如皋\]</sup> ② 蟾蜍的俗称。也叫癞蛤蟆。<sup>\[东台\]</sup> ③ 蟾蜍，俗称“癞蛤蟆”。<sup>\[兴化\]</sup> ④ 称患有黄癣病的人。<sup>\[兴化\]</sup> ⑤ 蛤蟆。<sup>\[泰县\]</sup> ⑥ 蟾蜍。<sup>\[泰州\]</sup>  
+1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo` <small>/lɛ6 pɔ/<sup>兴化</sup>, /lɛ1 pɔ/<sup>如皋</sup>, /lɛ1 pɔ/<sup>泰兴</sup>, /ne1 pɔ/<sup>泰县</sup></small> ① 中华大蟾蜍。<sup>\[如皋\]</sup> ② 蟾蜍的俗称。也叫癞蛤蟆。<sup>\[东台\]</sup> ③ 蟾蜍，俗称“癞蛤蟆”。<sup>\[兴化\]</sup> ④ 称患有黄癣病的人。<sup>\[兴化\]</sup> ⑤ 蛤蟆。<sup>\[泰县\]</sup> ⑥ 蟾蜍。<sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
 1. 【[癞宝菜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_cae.md#癞宝菜)】`lae6 bo cae5` <sup>[如皋]</sup> 冬春的1种大棵青菜，叶面不平。又名“黑菜”。  
 1. 【[癞宝草](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_co.md#癞宝草)】`lae6 bo co3` <sup>[如皋]</sup> 夏枯草。  
 1. 【[癞宝敦敦坐，养得肥拖拖；田鸡跳一丈，管嘴管不上](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_den_den.md#癞宝敦敦坐，养得肥拖拖；田鸡跳一丈，管嘴管不上)】`lae6 bo den1 den1 cu6，ian3 deh fei2 tu1 tu1；tin2 ji1 tio5 ieh7 chan6，gun3 jy3 gun3 beh7 shan6` <sup>[如皋]</sup> 努力的比不上不努力的，此俗语消极。  
@@ -226,15 +226,18 @@
 1. 【[癞宝粉](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_fen.md#癞宝粉)】`lae6 bo fen3` <sup>[如皋]</sup> 将淀粉液在铁锅中摊制的粉皮，厚薄不均。  
 1. 【[癞宝啯咖啯，有雨不过宿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_goh_ga.md#癞宝啯咖啯，有雨不过宿)】`lae6 bo goh7 ga goh7，ieu3 y3 beh7 gu5 soh7` <sup>[如皋]</sup> 感受到要下雨，发出啯声。  
 1. 【[癞宝瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_heu_zz.md#癞宝瘊子)】`lae6 bo heu2 zz` <sup>[如皋]</sup> 千日疮。  
-1. 【[癞宝要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_io_mien.md#癞宝要命蛇要饱)】`lae6 bo io5 mien6 sha2 io5 bo3` <sup>[东台]</sup> ［喻］为了自己的生存，不顾别人，甚至损人利己。  
-1. 【[癞宝浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_jian.md#癞宝浆)】`lae6 bo jian1` <sup>[如皋]</sup> 蟾蜍眼侧腺体的乳白色浆腋，可炼蟾酥，为名贵药材。  
+1. 【[癞宝要命蛇要饱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_io_mien.md#癞宝要命蛇要饱)】`lae6 bo io5 mien6 sha2 io5 bo3` <small>/lɛ1 pɔ iɔ5 miŋ1 sɑ2 iɔ5 pɔ3/<sup>泰兴</sup></small> ① ［喻］为了自己的生存，不顾别人，甚至损人利己。<sup>\[东台\]</sup> ② 喻涉及到双方切身利益的重大问题，都极力相争。<sup>\[泰兴\]</sup>  
+1. 【[癞宝浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_jian.md#癞宝浆)】`lae6 bo jian1` <small>/lɛ1 pɔ t͡ɕiã1/<sup>如皋</sup>, /lɛ1 pɔ t͡ɕiɑŋ1/<sup>泰兴</sup></small> ① 蟾蜍眼侧腺体的乳白色浆腋，可炼蟾酥，为名贵药材。<sup>\[如皋\]</sup> ② 蟾酥。中药。<sup>\[泰兴\]</sup>  
 1. 【[癞宝爬啊戥盘<sub>儿</sub>里——自称自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a.md#癞宝爬啊戥盘<sub>儿</sub>里——自称自)】`lae6 bo pa2 a den3 pun2 r lii——cz6 chen1 cz6` <sup>[如皋]</sup> 自己夸自己。  
+1. 【[癞宝爬坎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_kun.md#癞宝爬坎)】`lae6 bo pa2 kun3` <small>/lɛ1 pɔ pʰɑ2 kʰʊ̃3/<sup>泰兴</sup></small> 喻慢腾腾。<sup>\[泰兴\]</sup>：乡人云：“吃起来刀斫斧砍，做起来～。”<sup>\[泰兴\]</sup>  
+1. 【[癞宝跳啊戥盘里，自称自](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_tio_a.md#癞宝跳啊戥盘里，自称自)】`lae6 bo tio5 a den3 pun2 lii cz6 chen1 cz6` <small>/lɛ1 pɔ tʰiɔ5 a təŋ3 pʰʊ̃2 ləɪ t͡sʰɿ1 t͡sʰəŋ1 t͡sʰɿ1/<sup>泰兴</sup></small> 喻自认为了不起。<sup>\[泰兴\]</sup>  
 1. 【[癞宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo.md#癞宝)】`lae6 bo3` ① 癞虾蟆，蟾蜍 ② 蟾蜍科动物中华大蟾蜍，通称癞蛤蟆。<sup>\[如东\]</sup>  
 1. 【[癞宝蟹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_hae.md#癞宝蟹)】`lae6 bo3 hae3` <sup>[如东]</sup> 蝤蛑科动物蟳，头胸甲长约5厘米。  
 1. 【[癞宝瘊子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_heu_zz.md#癞宝瘊子)】`lae6 bo3 heu2 zz` <sup>[如皋]</sup> 疣的一种。  
 1. 【[癞宝浆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_jian.md#癞宝浆)】`lae6 bo3 jian1` <sup>[如东]</sup> 蟾蜍科动物中华大蟾蜍耳后腺及皮肤腺分泌的白色浆液。  
 1. 【[癞宝爬啊戥盘里——自称自贵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_pa_a.md#癞宝爬啊戥盘里——自称自贵)】`lae6 bo3 pa2 a den3 pun2 lii cz6 chen1 cz6 guei5` <sup>[东台]</sup>   
 1. 【[癞宝桃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_bo_to.md#癞宝桃)】`lae6 bo3 to2` 癞瓜，癞葡萄。外表黄色，内有红色籽，可食用。  
+1. 【[癞鸽子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_guh_zz.md#癞鸽子)】`lae6 guh zz` <small>/lɛ1 kʊʔ t͡sɿ/<sup>泰兴</sup></small> 泽蛙。\[泰兴：《泰兴方言辞典》释义：“一种类似癞宝的体形较小的动物。鸣叫时像鸽子叫，故名。”\]  
 1. 【[癞蝦蟆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ha_ma.md#癞蝦蟆)】`lae6 ha2 ma` <sup>[如皋]</sup> 蟾蜍。  
 1. 【[癞蝦蟆打呵欠——口气大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ha_ma_da.md#癞蝦蟆打呵欠——口气大)】`lae6 ha2 ma2 da3 hu1 qin5 keu3 qi5 da6` <sup>[东台]</sup>   
 1. 【[癞蝦蟆想吃天鹅肉——痴心妄想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_ha_ma_xian.md#癞蝦蟆想吃天鹅肉——痴心妄想)】`lae6 ha2 ma2 xian3 qieh7 tin1 ngu2 roh8 chr1 xien1 van6 xian3` <sup>[东台]</sup>   
@@ -244,7 +247,7 @@
 1. 【[癞里巴锔](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_lii_ba_jioh.md#癞里巴锔)】`lae6 lii ba1 jioh7` <sup>[东台]</sup> 不光滑。又称“癞疤核桃”。  
 1. 【[癞皮狗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_geu.md#癞皮狗)】`lae6 pi2 geu3` <sup>[如东]</sup> ① 狗的皮肤上长了许多癞疮。 ② 比喻非常肮脏的人：他像～。 ③ 比喻蛮不讲理的人：他是一个～。  
 1. 【[癞皮<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pi_r.md#癞皮<sub>儿</sub>)】`lae6 pi2 r` <sup>[如皋]</sup> ① 指银屑病患者的皮屑。 ② 指程度轻的无赖。  
-1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <small>/lɛ6 pʰu2 tʰɔ2/<sup>兴化</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>如皋</sup></small> ① 苦瓜。北方人以壳为菜，味苦。本地人吃籽肉，味甜。<sup>\[如皋\]</sup> ② 即苦瓜，葫芦科。果实纺锤形或长圆筒形，表面有榴状凸起，成熟后色赤黄，瓤和种子鲜红，味甜，可食。<sup>\[兴化\]</sup> ③ 俗称苦瓜，草本植物，黄花，果实长圆而两头尖，可做蔬菜食用，表面布满瘤壮凸起，爬藤，故名。<sup>\[泰州\]</sup>  
+1. 【[癞葡萄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_pv_to.md#癞葡萄)】`lae6 pv2 to2` <small>/lɛ6 pʰu2 tʰɔ2/<sup>兴化</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>如皋</sup>, /lɛ1 pʰu2 tʰɔ2/<sup>泰兴</sup></small> ① 苦瓜。北方人以壳为菜，味苦。本地人吃籽肉，味甜。<sup>\[如皋\]</sup> ② 即苦瓜，葫芦科。果实纺锤形或长圆筒形，表面有榴状凸起，成熟后色赤黄，瓤和种子鲜红，味甜，可食。<sup>\[兴化\]</sup> ③ 俗称苦瓜，草本植物，黄花，果实长圆而两头尖，可做蔬菜食用，表面布满瘤壮凸起，爬藤，故名。<sup>\[泰州\]</sup> ④ 一种叶茎似葡萄，果实外形似柠檬的植物，果实酸甜。<sup>\[泰兴\]</sup>  
 1. 【[癞乌龙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_v_lon.md#癞乌龙)】`lae6 v lon2` <small>/lɛ6 u loŋ2/<sup>兴化</sup>, /lɛ1 ʋ lɔŋ2/<sup>泰兴</sup></small> ① 旧时逢干旱，常有迷信的人用泥巴做成身段，蛤壳作鳞，使成“龙”状，俗称～，用来祈雨。<sup>\[兴化\]</sup> ② （喻）不爱整洁的人<sup>\[兴化\]</sup>：像个～。<sup>\[兴化\]</sup> ③ 不讲卫生，脏；写字不讲究，乱涂乱搨。<sup>\[泰兴\]</sup>  
 1. 【[癞屑<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_xih_r.md#癞屑<sub>儿</sub>)】`lae6 xih7 r` <sup>[如皋]</sup> 见“癞皮儿”。  
 1. 【[癞子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lae_zz.md#癞子)】`lae6 zz` <sup>[东台]</sup> 身上长癣的人。  
@@ -345,9 +348,9 @@
 1. 【[辣人子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_ren_zz.md#辣人子)】`laeh8 ren2 zz` <sup>[如皋]</sup> 螫痛、火辣辣的痛感。如皋词典作“𤷈”：肚里～。杨蝲子～。  
 1. 【[辣手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_sheu.md#辣手)】`laeh8 sheu3` <small>/læʔ8 sɤ3/<sup>兴化</sup></small> ① 辣椒汁液粘在手上，刺激皮肤，很痛，不舒服。比喻事情难办。<sup>\[如东\]</sup>：这个问题～。<sup>\[如东\]</sup> ② 毒辣的手段（注意：不同于“棘手”——难办义）<sup>\[东台\]</sup>：下～。<sup>\[东台\]</sup> ③ 手段厉害或毒辣<sup>\[兴化\]</sup>：下～。<sup>\[兴化\]</sup> ④ 麻烦、棘手<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这件事～，不好办。<sup>\[兴化\]</sup>｜这种事情处理起来～。<sup>\[泰州\]</sup> ⑤ 毒辣手段<sup>\[泰州\]</sup>：你要注意点儿，防止这个家伙暗中暗中对你下～。<sup>\[泰州\]</sup>  
 1. 【[辣心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_xien.md#辣心)】`laeh8 xien1` <sup>[如皋]</sup> ① 心狠：她打伢儿～。 ② 胃辣得难受：这种蒜头实在辣，吃下去～。  
-1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh` <small>/læʔ8 ləi læʔ8 tʰæʔ/<sup>兴化</sup></small> ① 很不清洁。<sup>\[如东\]</sup> ② “邋遢”的生动形式，形容肮脏不洁<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这车子～的怎吖坐人？<sup>\[兴化\]</sup>｜你望你噢，这个～的样子就到人家去，也不怕人家嫌！<sup>\[泰州\]</sup>  
+1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh` <small>/læʔ8 ləi læʔ8 tʰæʔ/<sup>兴化</sup>, /læʔ8 ləɪ læʔ8 tʰæʔ/<sup>泰兴</sup></small> ① 很不清洁。<sup>\[如东\]</sup> ② “邋遢”的生动形式，形容肮脏不洁<sup>\[兴化\]</sup><sup>\[泰州\]</sup>：这车子～的怎吖坐人？<sup>\[兴化\]</sup>｜你望你噢，这个～的样子就到人家去，也不怕人家嫌！<sup>\[泰州\]</sup> ③ 脏乱不堪，不整洁。<sup>\[泰兴\]</sup>  
 1. 【[邋里邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_lii_laeh_taeh.md#邋里邋遢)】`laeh8 lii laeh8 taeh7` <sup>[东台]</sup> 很不整洁的样子。  
-1. 【[邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh.md#邋遢)】`laeh8 taeh` ① 不清洁。<sup>\[如东\]</sup> ② 事情办得糟糕<sup>\[泰州\]</sup>：前任留下来的这些～事，他想不问也不行。<sup>\[泰州\]</sup> ③ 肮脏不干净<sup>\[泰州\]</sup>：他这个人～得没得命。<sup>\[泰州\]</sup>  
+1. 【[邋遢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh.md#邋遢)】`laeh8 taeh` <small>/læʔ8 tʰæʔ/<sup>泰兴</sup></small> ① 不清洁。<sup>\[如东\]</sup> ② 事情办得糟糕<sup>\[泰州\]</sup>：前任留下来的这些～事，他想不问也不行。<sup>\[泰州\]</sup> ③ 肮脏不干净<sup>\[泰州\]</sup>：他这个人～得没得命。<sup>\[泰州\]</sup> ④ 肮脏；不整洁。<sup>\[泰兴\]</sup>  
 1. 【[邋遢财神](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_cae_shen.md#邋遢财神)】`laeh8 taeh cae2 shen2` <sup>[如皋]</sup> 形容小孩很脏。  
 1. 【[邋遢鬼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_guei.md#邋遢鬼)】`laeh8 taeh guei3` <sup>[泰州]</sup> 不注意整洁的人：你同他这个～怎吖过得下来的？  
 1. 【[邋遢快](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laeh_taeh_kuae.md#邋遢快)】`laeh8 taeh kuae5` <sup>[如皋]</sup> 见“邋遢𢜶”。  
@@ -371,7 +374,7 @@
 1. 【[栏栊箍子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_lon_gv_zz.md#栏栊箍子)】`laen2 lon gv1 zz` <sup>[如东]</sup> 帆船船帮上能够脱下来的一根木棍。  
 1. 【[漤](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#漤)】`laen2` <small>/lẽ2/<sup>如皋</sup></small> ① 将猪肉等用沸水烫洗的过程<sup>\[如皋\]</sup>：～肉。<sup>\[如皋\]</sup> ② 把生肉在热水里烫一下。<sup>\[东台\]</sup>  
 1. 【[篮车<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cha_r.md#篮车<sub>儿</sub>)】`laen2 cha1 r` <sup>[如东]</sup> 一种摇篮。竹制、木制或铁制，长方形或方形。有大型与小型两种，多数装有轮子。供婴儿睡或坐。  
-1. 【[篮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_zz.md#篮子)】`laen2 zz` ① 容器。竹篾编成，圆口方底，有孔，有环。盛物用。<sup>\[如东\]</sup> ② 竹篾或藤条编制的器具。<sup>\[东台\]</sup>  
+1. 【[篮子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_zz.md#篮子)】`laen2 zz` <small>/lɛ̃2 t͡sɿ/<sup>泰兴</sup></small> ① 容器。竹篾编成，圆口方底，有孔，有环。盛物用。<sup>\[如东\]</sup> ② 竹篾或藤条编制的器具。<sup>\[东台\]</sup> ③ 用竹、藤、柳条等编成的装物的器具。泰兴多为竹编，上有系绳，可背可挑。<sup>\[泰兴\]</sup>  
 1. 【[蓝花大碗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hua_da_un.md#蓝花大碗)】`laen2 hua1 da6 un3` <sup>[兴化]</sup> 一种素色的粗瓷饭碗。也说“青花大碗”。  
 1. 【[蓝霍霍](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_huah_huah.md#蓝霍霍)】`laen2 huah7 huah7` <sup>[泰县]</sup> 蓝闪闪。  
 1. 【[蓝蝴蝶<sub>儿</sub>花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_hv_tieh_r.md#蓝蝴蝶<sub>儿</sub>花)】`laen2 hv2 tieh8 r hua1` <sup>[如皋]</sup> 鸢尾。  
@@ -453,8 +456,8 @@
 1. 【[懒婆娘花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_pu_nian_hua.md#懒婆娘花)】`laen3 pu2 nian2 hua1` <sup>[如皋]</sup> 紫茉莉。  
 1. 【[懒惰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_tu.md#懒惰)】`laen3 tu6` <sup>[如东]</sup> 不爱劳动或工作：这个伢儿～。  
 1. 【[懒癀病](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_pien.md#懒癀病)】`laen3 van pien6` <sup>[如皋]</sup> 黄病（黄疸肝炎、钩虫病等），肤黄无力。  
-1. 【[懒癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒癀)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒<sup>\[兴化\]</sup>：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人。也说“～精”。<sup>\[兴化\]</sup>：他是有名的大～。<sup>\[兴化\]</sup>  
-1. 【[懒癀精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_jien.md#懒癀精)】`laen3 van2 jien1` <small>/lɛ̃3 uaŋ2 t͡ɕin1/<sup>兴化</sup>, /lẽ3 ʋã2 t͡ɕiəŋ1/<sup>如皋</sup></small> ① 极懒，懒惰成性的人。<sup>\[如皋\]</sup> ② 极端懒惰的人。<sup>\[东台\]</sup> ③ 偷懒的人。<sup>\[兴化\]</sup>  
+1. 【[懒癀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van.md#懒癀)】`laen3 van2` <small>/lɛ̃3 uaŋ2/<sup>兴化</sup>, /lɛ̃3 uɑŋ2/<sup>泰兴</sup></small> ① 比喻懒惰的人。<sup>\[如东\]</sup> ② 偷懒<sup>\[兴化\]</sup>：这个人～得了不得，周身怕动。<sup>\[兴化\]</sup> ③ 指偷懒的人。也说“～精”。<sup>\[兴化\]</sup>：他是有名的大～。<sup>\[兴化\]</sup> ④ 指极为惰懒的人。\[泰兴：《泰兴方言辞典》作“懒王”。\]  
+1. 【[懒癀精](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_van_jien.md#懒癀精)】`laen3 van2 jien1` <small>/lɛ̃3 uaŋ2 t͡ɕin1/<sup>兴化</sup>, /lẽ3 ʋã2 t͡ɕiəŋ1/<sup>如皋</sup>, /lɛ̃3 uɑŋ2 t͡ɕiŋ1/<sup>泰兴</sup></small> ① 极懒，懒惰成性的人。<sup>\[如皋\]</sup> ② 见“懒癀”。<sup>\[泰兴\]</sup> ③ 极端懒惰的人。<sup>\[东台\]</sup> ④ 偷懒的人。<sup>\[兴化\]</sup>  
 1. 【[揽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen.md#揽)】`laen3` <sup>[东台]</sup> 把持，往自己身上拉：～活｜独～大权｜好吃的～媒做。  
 1. 【[揽载](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_cae.md#揽载)】`laen3 cae6` <small>/lẽ3 t͡sʰɛ1/<sup>如皋</sup></small> 增加负载量<sup>\[如皋\]</sup>：破船多～。<sup>\[如皋\]</sup>  
 1. 【[揽生意](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/laen_shen_i.md#揽生意)】`laen3 shen1 i` <sup>[如皋]</sup> 招揽生意。  
@@ -1139,7 +1142,7 @@
 1. 【[谅想](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_xian.md#谅想)】`lian6 xian3` <sup>[兴化]</sup> 估摸：～他不敢动真的。  
 1. 【[量大福大](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_da_foh_da.md#量大福大)】`lian6 da6 foh7 da6` <sup>[泰州]</sup> 肚量大的人其福分也大，多作劝人包容、谅解他人之辞：你老人家～，就原谅他这一回吧。  
 1. 【[量气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_qi.md#量气)】`lian6 qi5` <small>/liɑŋ1 t͡ɕʰʝ5/<sup>泰兴</sup></small> ① 人的气度。<sup>\[如东\]</sup>：这个人的～不小。<sup>\[如东\]</sup> ② 度量；胸怀。<sup>\[泰兴\]</sup>  
-1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup></small> ① 有提梁的木制小水桶 ② 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ③ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ④ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup> ⑤ 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
+1. 【[𪳄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lian_zz.md#𪳄子)】`lian6 zz` <small>/liaŋ6 t͡sɿ/<sup>兴化</sup>, /liã1 t͡sɿ/<sup>如皋</sup>, /liɑŋ1 t͡sɿ/<sup>泰兴</sup></small> ① 有提梁的木制小水桶 ② 木制水桶。\[泰兴：《泰兴方言辞典》作“𣛀子”，也作“椋子”。\] ③ 手提的小水桶。可以有盖。多以毛竹片弯成弓形，用箍紧固在桶壁上作系（提把）。有耳子的称桶。参见“提𪳄儿”。<sup>\[如皋\]</sup> ④ 提水的器具，圆柱体，用木板制成，有提梁。小的～称提𪳄。<sup>\[东台\]</sup> ⑤ 提水的桶子，有柄<sup>\[兴化\]</sup>：大～；小～；铅桶～。<sup>\[兴化\]</sup> ⑥ 从河中提水的小木桶，桶口边上有高而弯曲的梁。<sup>\[泰州\]</sup>  
 1. 【[力不从心](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_beh_con_xien.md#力不从心)】`lieh8 beh7 con2 xien1` <sup>[东台]</sup> 想做某事而力量达不到：我的能力不强，想做好也～。  
 1. 【[力大养一口，智大养千人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_da_ian_ieh.md#力大养一口，智大养千人)】`lieh8 da6 ian3 ieh7 keu3 zhr5 da6 ian3 qin1 ren2` <sup>[东台]</sup> 智慧比力气重要得多，要多动脑。  
 1. 【[力大为王](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lieh_da_vei_van.md#力大为王)】`lieh8 da6 vei2 van2` <sup>[兴化]</sup> 凭力气、本领和后台称霸：你覅以为～，再横也有药搽你的头。  
@@ -1236,7 +1239,7 @@
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon, lien3 lon` <sup>[东台]</sup> ① 形容物体精巧细致； ② 形容人灵活敏捷。（“玲”有时读成上声）：他不太～。  
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon` <sup>[兴化]</sup> 听觉灵敏：爷爷身体蛮好，就是耳朵不～吖。  
 1. 【[玲珑](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_lon.md#玲珑)】`lien2 lon2` <sup>[如东]</sup> 精致，美丽。  
-1. 【[疄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#疄)】`lien2` <small>/liɪ̃2/<sup>兴化</sup></small> ① 田垄<sup>\[兴化\]</sup>：田里长吖三～小麦，两～油菜。<sup>\[兴化\]</sup> ② 量词，两条田埂或者两条墒沟中间的一块地<sup>\[泰州\]</sup>：这块田还有三～田的麦把不曾挑。<sup>\[泰州\]</sup>  
+1. 【[疄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien.md#疄)】`lien2` <small>/liɪ̃2/<sup>兴化</sup>, /liŋ2/<sup>泰兴</sup></small> 田垄，用作量词。<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>\[泰州：量词，两条田埂或者两条墒沟中间的一块地。\]：田里长吖三～小麦，两～油菜。<sup>\[兴化\]</sup>｜这块田还有三～田的麦把不曾挑。<sup>\[泰州\]</sup>｜一～田。<sup>\[泰兴\]</sup>｜两～田。<sup>\[泰兴\]</sup>  
 1. 【[疄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_zz.md#疄子)】`lien2 zz` <sup>[如皋]</sup> 田垄：番芋、芋头～。  
 1. 【[菱米子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_mi_zz.md#菱米子)】`lien2 mi3 zz` <sup>[兴化]</sup> 菱角去皮后的果肉。  
 1. 【[轮到/临到](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lien_do.md#轮到/临到)】`lien2 do5` 这个星期的学习～你发言。<sup>\[泰州\]</sup>  
@@ -1445,6 +1448,7 @@
 1. 【[镰钩刀](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_geu_do.md#镰钩刀)】`lin2 geu1 do1` <sup>[东台]</sup> 即镰刀，也称钩儿刀。收割庄稼、割草用的农具。  
 1. 【[鲢鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_y.md#鲢鱼)】`lin2 y2` <sup>[东台]</sup> 一种常见淡水鱼。因讨“年年有余”的口彩，成为民间过年过节常用菜肴。  
 1. 【[鲢子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz.md#鲢子)】`lin2 zz` <small>/lĩ2 t͡sɿ/<sup>如皋</sup>, /lĩ2 t͡sɿ/<sup>泰兴</sup></small> 鲢鱼<sup>\[如皋\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>  
+1. 【[鲢子头，肉馒头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_teu_roh.md#鲢子头，肉馒头)】`lin2 zz teu2 roh8 mun2 teu2` <small>/lĩ2 t͡sɿ tʰəɪ2 ɻɔʔ8 mʊ̃2 tʰəɪ2/<sup>泰兴</sup></small> 谓鲢子鱼的头是上等的美食。\[泰兴：古人云：“鳙之美者在于头。”鳙者，大头鲢子也。以其头炖汤，鲜美可口，乡人无有不喜者。\]  
 1. 【[鲢子鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_zz_y.md#鲢子鱼)】`lin2 zz y2` <small>/lĩ2 t͡sɿ y2/<sup>如皋</sup>, /lĩ2 t͡sɿ y2/<sup>泰兴</sup></small> 鲢鱼<sup>\[泰州\]</sup><sup>\[如皋\]</sup><sup>\[泰兴\]</sup>  
 1. 【[敛饥](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ji.md#敛饥)】`lin3 ji1` <sup>[如皋]</sup> 略吃点，暂抵饥饿。  
 1. 【[脸摆啊下](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_bae_a_ha.md#脸摆啊下)】`lin3 bae3 a ha` <sup>[如皋]</sup> 见“死脸”。  
@@ -2262,7 +2266,7 @@
 1. 【[啰啰三牵](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu_saen_qin.md#啰啰三牵)】`lu1 lu1 saen1 qin1` <sup>[泰县]</sup> 颠三倒四。  
 1. 【[啰唆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su.md#啰唆)】`lu1 su1` <small>/lɤɯ1 sɤɯ1/<sup>泰兴</sup></small> ① 言语琐碎。<sup>\[如东\]</sup> ② 繁杂。<sup>\[如东\]</sup> ③ 说话重复，不简洁。或说“啰啰唆唆”。<sup>\[泰兴\]</sup>  
 1. 【[啰唆嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_su_jy.md#啰唆嘴)】`lu1 su1 jy3` <sup>[如皋]</sup> 人说话啰唆不停。  
-1. 【[螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#螺螺)】`lu1 lu` <small>/lo1 lo/<sup>兴化</sup>, /lɤɯ1 lɤɯ/<sup>泰兴</sup></small> 螺蛳<sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[螺螺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#螺螺)】`lu1 lu` <small>/lo1 lo/<sup>兴化</sup>, /lɤɯ1 lɤɯ/<sup>泰兴</sup></small> 螺蛳<sup>\[兴化\]</sup>\[泰兴：以田螺最大。\]  
 1. 【[螺<sub>儿</sub>糟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_r_zo.md#螺<sub>儿</sub>糟)】`lu1 r zo1` <sup>[如东]</sup> 食品。海螺或河螺肉加面粉、酒糟混合烹调而成，色淡味鲜，营养丰富。  
 1. 【[螺子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_zz.md#螺子)】`lu1 zz` <small>/lɤɯ1 t͡sɿ/<sup>泰兴</sup></small> 螺蛳<sup>\[泰兴\]</sup>  
 1. 【[啰啰](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lu_lu.md#啰啰)】`lu2 lu2` <sup>[如皋]</sup> 唤猪声。  
@@ -2383,7 +2387,7 @@
 1. 【[雷打](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da.md#雷打)】`luei2 da3` <sup>[如东]</sup> 遭受雷击：老杨树遭～。  
 1. 【[雷打火烧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da_hu_sho.md#雷打火烧)】`luei2 da3 hu3 sho1` <small>/ləi2 ta3 xo3 sɔ1/<sup>兴化</sup>, /ləɪ2 tɑ3 xɤɯ3 sɔ1/<sup>泰兴</sup></small> ① 地面遭受雷电袭击燃烧，灾难特别严重。<sup>\[如东\]</sup>：遭受～。<sup>\[如东\]</sup> ② 形容又急又快。<sup>\[如东\]</sup>：张明下田做活技～的，个个都怕他。<sup>\[如东\]</sup> ③ 比如声势浩大。<sup>\[如东\]</sup> ④ （喻）形容非常急迫的样子<sup>\[兴化\]</sup>：他这次要债就像～的，若不还就怕要动粗。<sup>\[兴化\]</sup> ⑤ 形容非常急迫，火烧眉毛的样子。<sup>\[泰兴\]</sup>  
 1. 【[雷大雨小](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_da_y_xio.md#雷大雨小)】`luei2 da6 y3 xio3` <small>/ləɪ2 tɑ1 y3 ɕiɔ3/<sup>泰兴</sup></small> 比喻话说得很有声势，或计划订得很庞大，而实际行动却很少。<sup>\[泰兴\]</sup>  
-1. 【[雷堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#雷堆)】`luei2 duei1` <small>/ləi2 təi1/<sup>兴化</sup>, /ləɪ2 təɪ1/<sup>泰兴</sup></small> ① 笨重、不利索<sup>\[兴化\]</sup>：他胖得太～。<sup>\[兴化\]</sup>｜“你这嘴脸生得各样，相貌有些～……”（《西游记》三十）也作“累堆”。<sup>\[兴化\]</sup> ② 粗笨，臃肿，累赘。<sup>\[泰兴\]</sup>  
+1. 【[雷堆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_duei.md#雷堆)】`luei2 duei1` <small>/ləi2 təi1/<sup>兴化</sup>, /ləɪ2 təɪ1/<sup>泰兴</sup></small> ① 笨重、不利索<sup>\[兴化\]</sup>：他胖得太～。<sup>\[兴化\]</sup>｜“你这嘴脸生得各样，相貌有些～……”（《西游记》三十）也作“累堆”。<sup>\[兴化\]</sup> ② 粗笨，臃肿，累赘。\[泰兴：《泰兴方言辞典》第198页作“雷堆”，第211页作“䐯膗”，第213页作“磥磪”。\]  
 1. 【[雷轰轰的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_hon_hon_dii.md#雷轰轰的)】`luei2 hon1 hon1 dii` <small>/ləɪ2 xɔŋ1 xɔŋ1 təɪ/<sup>泰兴</sup></small> 雷鸣电闪，大雨将至的样子。<sup>\[泰兴\]</sup>  
 1. 【[雷劈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_pieh.md#雷劈)】`luei2 pieh7` <sup>[如东]</sup> 雷打。  
 1. 【[雷声霍闪](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/luei_shen_huah_shin.md#雷声霍闪)】`luei2 shen1 huah7 shin3` <small>/ləɪ2 səŋ1 xuɑʔ8 ɕĩ3/<sup>泰兴</sup></small> ① 阴云密布，雷电交加。<sup>\[如东\]</sup> ② 比喻脾气急躁，大声说话的气势。<sup>\[如东\]</sup>：这个人说话～的。<sup>\[如东\]</sup> ③ 雷鸣电闪，令人震撼的样子。多指强雷雨。<sup>\[泰兴\]</sup>  
@@ -2548,7 +2552,7 @@
 1. 【[露马脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_ma_jiah.md#露马脚)】`lv6 ma3 jiah7` <sup>[如东]</sup> 暴露行迹：终于露啊马脚。  
 1. 【[露白](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_poh.md#露白)】`lv6 poh8` <small>/lu6 pʰɔʔ8/<sup>兴化</sup>, /lu1 pʰɔʔ8/<sup>如皋</sup></small> ① 春天，特别是“尽九”之后下雪，对农业不利。谚<sup>\[如皋\]</sup>：“春天不～，露啊白，要发毒。”<sup>\[如皋\]</sup> ② 暴露了钱财（银子）。<sup>\[如皋\]</sup> ③ 在外人面前暴露财富<sup>\[兴化\]</sup>：“水旱路一样，你把银子一露，这就算露了白了……”（《小五义》〇七）<sup>\[兴化\]</sup>  
 1. 【[露三](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_saen.md#露三)】`lv6 saen1` <sup>[如东]</sup> 瓦屋屋面上瓦片之间的距离等于三指，称露三。  
-1. 【[露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei.md#露水)】`lv6 shuei3` <sup>[如东]</sup> 凝结在地面或靠近地面物体表面上的水珠。  
+1. 【[露水](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei.md#露水)】`lv6 shuei3` <small>/lu1 suəɪ3/<sup>泰兴</sup></small> ① 凝结在地面或靠近地面物体表面上的水珠。<sup>\[如东\]</sup> ② 夜间气温下降，空气中的水汽凝成的水珠。<sup>\[泰兴\]</sup>  
 1. 【[露水把](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_ba.md#露水把)】`lv6 shuei3 ba3` <sup>[东台]</sup> 指清晨露水未干之前行窃的小偷。  
 1. 【[露水夫妻](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_qi.md#露水夫妻)】`lv6 shuei3 fv1 qi1` ① 未履行结婚手续而以夫妻名义暂时同居的男女。<sup>\[东台\]</sup> ② 指临时非法姘居男女<sup>\[泰州\]</sup>：楼下租房子住的这两个打工的像是露水夫妻。<sup>\[泰州\]</sup>  
 1. 【[露水赴赴的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lv_shuei_fv_fv.md#露水赴赴的)】`lv6 shuei3 fv5 fv5 dii` <sup>[如皋]</sup> 有露水时行进。意指很早或很辛苦。  

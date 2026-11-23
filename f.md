@@ -154,9 +154,10 @@
 1. 【[翻窗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_chuan.md#翻窗)】`faen1 chuan1` <sup>[兴化]</sup> 窗户的轴在两侧，开关时上下翻转。见“摇头窗”。  
 1. 【[翻倒跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_do_gen_teu.md#翻倒跟头)】`faen1 do5 gen1 teu` <sup>[如皋]</sup> 后滚翻。  
 1. 【[翻缸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gan.md#翻缸)】`faen1 gan1` <sup>[如皋]</sup> 制酱或酱菜的一项生产程序。  
-1. 【[翻跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu.md#翻跟头)】`faen1 gen1 teu` <sup>[如皋]</sup> ① 前滚翻。 ② 反复思考：我肚里～不曾歇。  
+1. 【[翻跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu.md#翻跟头)】`faen1 gen1 teu` <small>/fẽ1 kəŋ1 tʰei/<sup>如皋</sup>, /fɛ̃1 kəŋ1 tʰəɪ/<sup>泰兴</sup></small> ① 前滚翻。<sup>\[如皋\]</sup> ② 身体上下旋翻的一种动作。<sup>\[泰兴\]</sup> ③ 反复思考<sup>\[如皋\]</sup>：我肚里～不曾歇。<sup>\[如皋\]</sup>  
 1. 【[翻跟头虫](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu_chon.md#翻跟头虫)】`faen1 gen1 teu chon2` <sup>[兴化]</sup> 孑孓，蚊子的幼虫。  
 1. 【[翻跟头虫<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu_chon.md#翻跟头虫<sub>儿</sub>)】`faen1 gen1 teu chon2 r` <sup>[如皋]</sup> 孑孓。蚊的幼虫。  
+1. 【[翻跟头虫子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gen_teu_chon.md#翻跟头虫子)】`faen1 gen1 teu chon2 zz` <small>/fɛ̃1 kəŋ1 tʰəɪ t͡sʰɔŋ2 t͡sɿ/<sup>泰兴</sup></small> 孑孓。蚊子的幼虫。<sup>\[泰兴\]</sup>  
 1. 【[翻关](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_guaen.md#翻关)】`faen1 guaen1` <small>/fɛ̃1 kuɛ̃1/<sup>兴化</sup>, /fɛ̃1 kuɛ̃1/<sup>泰县</sup></small> 转手渔利<sup>\[兴化\]</sup><sup>\[泰县\]</sup>：这套公房他买啊四万块，一～就是十几万。<sup>\[兴化\]</sup>  
 1. 【[翻骨碌子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_loh_zz.md#翻骨碌子)】`faen1 gueh7 loh zz` <sup>[如皋]</sup> 喻反复思考、权衡利弊。  
 1. 【[翻骨路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_gueh_lv.md#翻骨路)】`faen1 gueh7 lv` <sup>[泰州]</sup> 翻滚的样子：小王力大，轻轻一推，就把老张推啊个～。｜他脚底下一不小心，就走楼上跌咖个～。  
@@ -165,7 +166,7 @@
 1. 【[翻魂](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_huen.md#翻魂)】`faen1 huen2` <sup>[如皋]</sup> 责乱翻乱找。  
 1. 【[翻空跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_kon_gen_teu.md#翻空跟头)】`faen1 kon1 gen1 teu` <sup>[泰州]</sup> ① 双手不着地，在空中完成翻转身体的动作。 ② 比喻没有本钱或者实物做投资的交易：这小伙是靠～起家，弄的银行贷款办吖这个公司。  
 1. 【[翻空心跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_kon_xien_gen.md#翻空心跟头)】`faen1 kon1 xien1 gen1 teu` <small>/fẽ1 kʰɔŋ1 ɕiəŋ1 kəŋ1 tʰei/<sup>如皋</sup></small> ① 见“翻悬空跟头”。<sup>\[如皋\]</sup> ② ［喻］没有基础，不靠谱的生意。（参见“空心跟头”）<sup>\[东台\]</sup>  
-1. 【[翻菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lien.md#翻菱)】`faen1 lien2` <small>/fɛ̃1 liɪ̃2/<sup>兴化</sup>, /fɛ̃1 niŋ2/<sup>泰县</sup></small> ① 乘小船或木桶，在菱塘采菱角。<sup>\[兴化\]</sup> ② 采菱<sup>\[泰县\]</sup>：那些姑娘～的动作蛮巧的。<sup>\[泰县\]</sup>  
+1. 【[翻菱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lien.md#翻菱)】`faen1 lien2` <small>/fɛ̃1 liɪ̃2/<sup>兴化</sup>, /fɛ̃1 liŋ2/<sup>泰兴</sup>, /fɛ̃1 niŋ2/<sup>泰县</sup></small> ① 乘小船或木桶，在菱塘采菱角。<sup>\[兴化\]</sup> ② 收获成熟的菱。因要将菱盘翻过向上，方可摘取，故称翻菱。<sup>\[泰兴\]</sup> ③ 采菱<sup>\[泰县\]</sup>：那些姑娘～的动作蛮巧的。<sup>\[泰县\]</sup>  
 1. 【[翻脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_lin.md#翻脸)】`faen1 lin3` <sup>[泰州]</sup> 对人态度突然由好变坏：这家伙不是个东西，同人说～就～。  
 1. 【[翻眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen.md#翻眼)】`faen1 ngaen3` <sup>[如东]</sup> ① 眼神特别，表示出现矛盾：他俫两个翻吖眼。 ② 比喻不认账：说好的事情，现在他又翻眼。  
 1. 【[翻眼不认人](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_beh_ren.md#翻眼不认人)】`faen1 ngaen3 beh7 ren6 ren2` <sup>[如东]</sup> 眼睛一翻，不承认过去的熟人。  
@@ -174,7 +175,7 @@
 1. 【[翻眼六大颈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_loh_da.md#翻眼六大颈)】`faen1 ngaen3 loh8 da jien3` <sup>[兴化]</sup> 瞪眼，跟人发脾气：他动不动就～的，些伢儿个个怕他。  
 1. 【[翻眼无情](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngaen_v_qien.md#翻眼无情)】`faen1 ngaen3 v2 qien2` <sup>[如东]</sup> 眼睛一翻，不承认过去的情分。  
 1. 【[翻拗](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_ngo.md#翻拗)】`faen1 ngo5` <sup>[兴化]</sup> 翻身挺起：连留孩也上了手，拽住他企图往上～的腿。（汪曾祺：《羊舍一夕》）  
-1. 【[翻筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pa.md#翻筢)】`faen1 pa2` <small>/fɛ̃1 pʰa2/<sup>兴化</sup></small> ① 钉筢的一种。四齿，齿条粗，方而尖。主要用以翻地。<sup>\[如东\]</sup> ② 一种翻场农具，在竹柄前安有一块长方形木板<sup>\[兴化\]</sup>：（她）干起活来，不管日夜，真是丢了～拿扫竹……（马春阳：《告状》）<sup>\[兴化\]</sup>  
+1. 【[翻筢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_pa.md#翻筢)】`faen1 pa2` <small>/fɛ̃1 pʰa2/<sup>兴化</sup>, /fɛ̃1 pʰɑ/<sup>泰兴</sup></small> ① 钉筢的一种。四齿，齿条粗，方而尖。主要用以翻地。<sup>\[如东\]</sup> ② 一种翻场农具，在竹柄前安有一块长方形木板<sup>\[兴化\]</sup>：（她）干起活来，不管日夜，真是丢了～拿扫竹……（马春阳：《告状》）<sup>\[兴化\]</sup> ③ 搨耙。翻晒粮食的工具。\[泰兴：《泰兴方言辞典》作“翻耙”。\]  
 1. 【[翻泡泡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po.md#翻泡泡)】`faen1 po1 po1` <small>/fɛ̃1 pʰɔ1 pʰɔ1/<sup>兴化</sup></small> 液体中泛起的气泡。<sup>\[兴化\]</sup>：儿童语：大街上说话，阴沟塘里～（插话）。<sup>\[兴化\]</sup>  
 1. 【[翻泡泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_po_r.md#翻泡泡<sub>儿</sub>)】`faen1 po1 po1 r` <sup>[如东]</sup> ① 液体里冒气泡儿。 ② 比喻多说没有作用的话：你就欢喜～。  
 1. 【[翻泡<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_po_r.md#翻泡<sub>儿</sub>)】`faen1 po1 r` <sup>[泰州]</sup> 翻起水泡。指对立者出现行动的迹象：这件事就找你俫的意见办，个别人要～也不怕。  
@@ -191,7 +192,7 @@
 1. 【[翻头碌眼的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_loh_ngaen.md#翻头碌眼的)】`faen1 teu loh8 ngaen3 dii` <sup>[如皋]</sup> 头乱动，眼乱看，显出不安分的样子。  
 1. 【[翻头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu.md#翻头)】`faen1 teu2` <small>/fɛ̃1 tʰɤ2/<sup>兴化</sup></small> ① 轮转<sup>\[兴化\]</sup>：十五个人三班倒，每人一班，五天一～。<sup>\[兴化\]</sup> ② 一个过程结束以后，重新从头开始<sup>\[泰州\]</sup>：他英语复习咖一交（go5）之后，又～复习咖一交。<sup>\[泰州\]</sup>  
 1. 【[翻头脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_jiah.md#翻头脚)】`faen1 teu2 jiah7` <sup>[东台]</sup> 把库存物资彻底翻一遍：今吖要把仓库里的存粮翻个头脚。  
-1. 【[翻头碌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_loh_ngaen.md#翻头碌眼)】`faen1 teu2 loh8 ngaen3` <sup>[如东]</sup> 眼神特别，不安分的样子：这个人～的，要注意。  
+1. 【[翻头碌眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_teu_loh_ngaen.md#翻头碌眼)】`faen1 teu2 loh8 ngaen3` <small>/fɛ̃1 tʰəɪ lɔʔ8 ŋɛ̃3/<sup>泰兴</sup></small> ① 眼神特别，不安分的样子。<sup>\[如东\]</sup>：这个人～的，要注意。<sup>\[如东\]</sup> ② 谓眼睛忽闪忽闪，四面睃看，显示出精明狡黠的样子。<sup>\[泰兴\]</sup>  
 1. 【[翻田](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_tin.md#翻田)】`faen1 tin2` <sup>[如东]</sup> 一种耕作方法。用钉筢或铁锹把田里的土壤翻开来，通风透光，杀虫，增肥。  
 1. 【[翻箱倒柜](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_do_kuei.md#翻箱倒柜)】`faen1 xian1 do3 kuei6` 在箱子框子里到处找东西，并且翻的乱七八糟  
 1. 【[翻箱笼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/f/faen_xian_lon.md#翻箱笼)】`faen1 xian1 lon2` <sup>[如东]</sup> ① 到处乱翻，寻找东西口：他在家里～。 ② 比喻兜老底：请你不要～。  

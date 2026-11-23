@@ -167,7 +167,8 @@
 1. 【[济手济脚的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_sheu_ji_jiah.md#济手济脚的)】`ji5 sheu3 ji5 jiah7 dii` <sup>[如皋]</sup> 常人右重。若用左手做事，会觉得动作笨拙、不利索。  
 1. 【[祭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#祭)】`ji5` <sup>[如皋]</sup> 旧时造桥、打井等易出人命事故，谓之祭。如～桥、～井、～塔、～路等。以此警戒闲人莫到。  
 1. 【[祭桌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zhuah.md#祭桌)】`ji5 zhuah7` <sup>[如东]</sup> 人死后，由其娘家亲属赠送的供品。  
-1. 【[穄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#穄子)】`ji5 zz` <sup>[如皋]</sup> 黍。分黏、䵘（shua3）两种。黏性的一种，红稃。  
+1. 【[穄米饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_mi_faen.md#穄米饭)】`ji5 mi faen6` <small>/t͡ɕʝ5 mʝ fɛ̃1/<sup>泰兴</sup></small> 小米饭。用穄米做成的饭。<sup>\[泰兴\]</sup>  
+1. 【[穄子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_zz.md#穄子)】`ji5 zz` <small>/t͡ɕʝ5 t͡sɿ/<sup>如皋</sup>, /t͡ɕʝ5 t͡sɿ/<sup>泰兴</sup></small> ① 黍。分黏、䵘（shua3）两种。黏性的一种，红稃。<sup>\[如皋\]</sup> ② 一种农作物，子实与黍相似，可以作饭。<sup>\[泰兴\]</sup>  
 1. 【[系](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji.md#系)】`ji5` <small>/t͡ɕʝ5/<sup>泰兴</sup></small> ① 打结，系上<sup>\[东台\]</sup>：～鞋带。<sup>\[东台\]</sup> ② 拴束绳、带<sup>\[泰州\]</sup>：你把鞋带子～啊好啊。<sup>\[泰州\]</sup>｜你在腰里～跟绳子再下去。<sup>\[泰州\]</sup> ③ 拴缚；打结，扣上。<sup>\[泰兴\]</sup>：把鞋带子～起来<sup>\[泰兴\]</sup>｜～带子/将带子打结扣紧<sup>\[泰兴\]</sup>  
 1. 【[系马桩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_ma_zhuan_zz.md#系马桩子)】`ji5 ma3 zhuan1 zz` <small>/t͡ɕʝ5 mɑ3 t͡suɑŋ1 t͡sɿ/<sup>泰兴</sup></small> 一种一年生杂草，根须很深，手不能拔起，嫩时可以作猪饲。（牛筋草）<sup>\[泰兴\]</sup>  
 1. 【[继父](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/ji_fv.md#继父)】`ji5 fv6` <sup>[如东]</sup> 母亲后嫁的父亲。  
@@ -593,7 +594,7 @@
 1. 【[犟豆<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_teu_r.md#犟豆<sub>儿</sub>)】`jian5 teu6 r` <sup>[如皋]</sup> 倔强的人。又称“戗豆儿”。  
 1. 【[犟爪<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zho_r_ven.md#犟爪<sub>儿</sub>瘟)】`jian5 zho3 r ven1` <sup>[如皋]</sup> 脾气倔强。  
 1. 【[犟枣<sub>儿</sub>瘟](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zo_r_ven.md#犟枣<sub>儿</sub>瘟)】`jian5 zo3 r ven1` <sup>[如皋]</sup> ① 逆反心理强的脾性，或指人。见“逆性子”。 ② 一种玩具，即陀螺，用鞭子抽，越抽越转得快。  
-1. 【[犟嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zuei.md#犟嘴)】`jian5 zuei3, jian5 jy3, qian6 zuei3, qian6 jy3` 顶嘴，回嘴，嘴硬  
+1. 【[犟嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zuei.md#犟嘴)】`jian5 zuei3, jian5 jy3, qian6 zuei3, qian6 jy3` <small>/t͡ɕiɑŋ5 t͡suəɪ3/<sup>泰兴</sup></small> ① 顶嘴，回嘴，嘴硬 ② 回嘴，答辩。<sup>\[泰兴\]</sup>  
 1. 【[糨糊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_hv.md#糨糊)】`jian5 hv2` <sup>[如东]</sup> 用面粉做成可以粘贴东西的糊状物。  
 1. 【[糨手](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_sheu.md#糨手)】`jian5 sheu3` <sup>[如东]</sup> 因接触粘黏性物质而把手弄脏了：这些东西很脏，不要你～啊。  
 1. 【[糨子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jian_zz.md#糨子)】`jian5 zz` <small>/t͡ɕiã5 t͡sɿ/<sup>如皋</sup>, /t͡ɕiɑŋ5 t͡se/<sup>泰县</sup></small> ① 用糨糊把几层布粘成板块，晒干，这种材料叫做糨子。主要用于做布鞋的鞋底和鞋帮。<sup>\[如东\]</sup> ② 将旧、碎布用薄浆糊糊几层，晒干后的成品，做布鞋用。家中可自制，专糊糨子的人家也有售。<sup>\[如皋\]</sup> ③ 糨糊，用面粉等做成的可以粘贴东西的糊状物。<sup>\[东台\]</sup> ④ 用破布一层一层铺平糊成，专用缝制布鞋底的东西。<sup>\[泰县\]</sup>  
@@ -1027,6 +1028,7 @@
 1. 【[揪扭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_nieu.md#揪扭)】`jieu1 nieu3` <sup>[东台]</sup> 抓住，扭打在一块：他俫～啊上吖派出所。  
 1. 【[赳遛遛<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_lieu_lieu_r.md#赳遛遛<sub>儿</sub>)】`jieu1 lieu1 lieu1 r` <sup>[如东]</sup> 追赶着到处跑。  
 1. 【[鬏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#鬏)】`jieu1` 头发盘成的结。<sup>\[如东\]</sup><sup>\[东台\]</sup>：梳～<sup>\[东台\]</sup>｜头上梳啊一个～儿。<sup>\[东台\]</sup>  
+1. 【[鬏<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_r.md#鬏<sub>儿</sub>)】`jieu1 r` <small>/t͡ɕiɤɯ˞1/<sup>泰兴</sup></small> 旧时妇女发式：将头发梳向脑后盘成圆结，外罩网鬏，称为“鬏儿”。<sup>\[泰兴\]</sup>  
 1. 【[鸠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu.md#鸠)】`jieu1` <sup>[东台]</sup> 鸠鸽鸟的统称，常指斑鸠，形状像野鸽，羽毛灰褐色，有斑纹，嘴短，尾长，不善于筑巢。  
 1. 【[久惯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_guaen.md#久惯)】`jieu3 guaen5` <sup>[兴化]</sup> ① 长期从事的：他～做媒。｜“我们是异乡人，不是～卖艺的……”（《续小五义》十二） ② 积习：他～成癖，一时难改。  
 1. 【[久后](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jieu_heu.md#久后)】`jieu3 heu6` <small>/t͡ɕiɤ3 xɤ6/<sup>兴化</sup>, /t͡ɕyʊ3 xei1/<sup>如皋</sup></small> ① 日后、将来。<sup>\[如皋\]</sup> ② 将来，往后<sup>\[兴化\]</sup>：你目下虽苦一点，～必有福享。<sup>\[兴化\]</sup>｜“（林教头）虽然目下暂时受苦，～必然发迹……。”（《水浒传》九）也说“久日久后”。<sup>\[兴化\]</sup>  
