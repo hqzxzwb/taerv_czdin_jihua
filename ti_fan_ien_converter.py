@@ -72,6 +72,8 @@ def 泰兴(cz, pien_ien):
 
 def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
   shen, gae, yen, tio = ien
+  if cz == '踩' and shen + gae + yen == 'cae': # “踩”qyae，保留声调及轻声
+    return ('q', 'y', yen, tio)
   if tio == '6' or tio == '9': # 6>1，9>1
     tio = '1'
   if cz in '蛆取趣娶趋聚徐咀' and shen in ['j', 'q', 'x'] and yen == 'y': # 遇摄分尖团
@@ -89,6 +91,9 @@ def tae_xien_pien_ien(cz, ien, for_qio_shih = False):
     gae = ''
     yen = 'ih'
   elif cz == '旋' and shen + gae + yen == 'qiun':
+    gae = ''
+    yen = 'in'
+  elif cz == '癣' and shen + gae + yen == 'xiun': # “癣”xiun -> xin
     gae = ''
     yen = 'in'
   elif cz in '煠闸' and shen + gae + yen == 'chaeh':
