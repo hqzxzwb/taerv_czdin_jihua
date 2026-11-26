@@ -1,5 +1,5 @@
 # 四月不老
-sz5 iuh8 beh7 lo3
+sz5 iuh beh7 lo3
 + 青菜品种名
   * 兴化方言词典
     + 晚熟

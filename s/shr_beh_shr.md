@@ -1,5 +1,6 @@
 # 时不时
 shr2 beh7 shr2
+txe,xh:shr2 beh shr2
 + 时常
   * 东台方言词典
     - 他～来逛逛。

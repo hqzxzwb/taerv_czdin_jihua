@@ -6,7 +6,8 @@ cz6/sz6 ga
   - 请你管好～的事情。
 
 # 自家
-cz6 ga1-3
+cz6 ga1
+tz,xh:cz6 ga3
 + 自己
   * 兴化方言词典
     + 也说“cz6 gaen3”。
