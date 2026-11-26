@@ -123,7 +123,7 @@
 1. 【[呃吁㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_y_vae.md#呃吁㗏)】`eh7 y vae1` <sup>[泰州]</sup> 象声词，呼筒声：～～，疼煞咖唻。  
 1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
-1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <small>/ɚ2 t͡sʰaŋ2/<sup>兴化</sup>, /ɚ2 t͡sʰã2/<sup>如皋</sup></small> ① 阴道。<sup>\[如东\]</sup> ② 内生殖器总称。<sup>\[如皋\]</sup> ③ 特指动物输卵管，是阉割的部分。<sup>\[如皋\]</sup> ④ 也有指男性输精管的。<sup>\[如皋\]</sup> ⑤ 女子或雌性哺乳动物的输卵管。‖也称“子肠”。<sup>\[兴化\]</sup>  
+1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <small>/ɚ2 t͡sʰaŋ2/<sup>兴化</sup>, /ɚ2 t͡sʰã2/<sup>如皋</sup></small> ① 阴道。<sup>\[如东\]</sup> ② 内生殖器总称。<sup>\[如皋\]</sup> ③ 特指动物输卵管，是阉割的部分。<sup>\[如皋\]</sup> ④ 也有指男性输精管的。<sup>\[如皋\]</sup> ⑤ 女子或雌性哺乳动物的输卵管。\[兴化：也称“子肠”。\]  
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <small>/ɚ2 tɤɯ1 mɤɯ3 ɕiɤɯ1 kʰu3/<sup>泰兴</sup></small> 谓子女多，做母亲的非常辛苦。<sup>\[泰兴\]</sup>  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  
@@ -772,7 +772,7 @@
 1. 【[咋的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_dii.md#咋的)】`za3 dii` “怎吖”合音为“咋”，“咋的”同“怎吖的”。  
 1. 【[咋呼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/za_hv.md#咋呼)】`za3 hv` <sup>[兴化]</sup> ① 吆喝：你瞎～甚的？ ② 张扬、炫耀：这个人有点门儿就喜欢～。也说“咋咋呼呼”。  
 1. 【[栽](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae.md#栽)】`zae1` <small>/t͡suɛ1/<sup>如皋</sup></small> ① 放置、安置<sup>\[如皋\]</sup>：～啊那许点儿。<sup>\[如皋\]</sup> ② 跌<sup>\[如皋\]</sup>：头上捱～啊个瘤、～跟头。<sup>\[如皋\]</sup>  
-1. 【[栽𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_gan.md#栽𠵹)】`zae1 gan1` <sup>[兴化]</sup> 见“吱风”。  
+1. 【[栽𠵹](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_gan.md#栽𠵹)】`zae1 gan1` <small>/t͡sɛ1 kaŋ1/<sup>兴化</sup></small> 预先露出口风\[兴化：同“吱风”。\]  
 1. 【[栽跟头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_gen_teu.md#栽跟头)】`zae1 gen1 teu` <sup>[泰州]</sup> 比喻遭受失败或者挫折：他这样子瞎搞，早晚要～。  
 1. 【[栽害](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_hae.md#栽害)】`zae1 hae6` <small>/t͡sɛ1 xɛ6/<sup>兴化</sup>, /t͡ɕiɛ1 xɛ1/<sup>泰兴</sup>, /t͡se1 xe/<sup>泰县</sup></small> 诬陷、诬告、陷害<sup>\[泰县\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[兴化\]</sup><sup>\[泰州\]</sup><sup>\[泰兴\]</sup>：“文革”中他捱坏人～，坐啊三年牢。<sup>\[东台\]</sup>｜（高俅）竟然计诬陷，做罪～林冲。（扬说《滕公智断冤案》）<sup>\[兴化\]</sup>｜“……他说我毁了三请，闹了观宇，这又是～我也”。（《西游记》四五）<sup>\[兴化\]</sup>｜这件事肯定是有人～他。<sup>\[泰州\]</sup>  
 1. 【[栽秧](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_ian.md#栽秧)】`zae1 ian1` <small>/t͡sɛ1 iaŋ1/<sup>兴化</sup>, /t͡sɛ1 iã1/<sup>如皋</sup></small> ① 栽插水稻秧苗。<sup>\[如皋\]</sup> ② 把水稻的秧苗从秧田移栽到大田里。又称“插秧”。<sup>\[兴化\]</sup>  
@@ -801,4 +801,5 @@
 1. 【[载定](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_tien.md#载定)】`zae3 tien6` <sup>[如皋]</sup> 贬指坚持要、坚持认为：你没有充足的依据怎吖就～吖是他做的咯？  
 1. 【[傤脚](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_jiah.md#傤脚)】`zae5 jiah7` <sup>[兴化]</sup> 由船上装载物的轻重造成船身入水的深浅：……他应当叫黄盖用些大石头摆在船上押押～……（《火烧赤壁》九）  
 1. 【[再](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae.md#再)】`zae5` <small>/t͡ɕiɛ1/<sup>泰兴</sup></small> 表示让步<sup>\[泰兴\]</sup>：他～怎吖不好，你也不能打他啊/无论他多不好，你也不能打他<sup>\[泰兴\]</sup>｜～高我总不怕/无论多高我都不怕<sup>\[泰兴\]</sup>  
+1. 【[再表](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/z/zae_bio.md#再表)】`zae5 bio3` <sup>[如皋]</sup> 同曾祖（外曾祖）姻亲关系称。  
 [更多...](./z.md)

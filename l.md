@@ -1501,7 +1501,7 @@
 1. 【[恋家](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ga.md#恋家)】`lin6 ga1` <sup>[东台]</sup> 舍不得离开家：这个丫头～，不想出去打工。  
 1. 【[恋老](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_lo.md#恋老)】`lin6 lo3` 考虑到旧友或者旧情、旧事而原谅、宽恕某人所犯的错<sup>\[泰州\]</sup>：要不是～你是老李家儿子，早就同你不客气唻。<sup>\[泰州\]</sup>  
 1. 【[恋爱](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_ngae.md#恋爱)】`lin6 ngae5` <sup>[如东]</sup> 未婚男女之间相爱。  
-1. 【[恋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qien.md#恋青)】`lin6 qien1` <small>/liɪ̃6 t͡ɕʰin1/<sup>兴化</sup></small> ① 见“痴青”。<sup>\[兴化\]</sup> ② 农作物吸收养份过多，茎叶旺长，果实迟难成熟<sup>\[兴化\]</sup>：～旺长。‖也称“痴青”。<sup>\[兴化\]</sup>  
+1. 【[恋青](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_qien.md#恋青)】`lin6 qien1` <small>/liɪ̃6 t͡ɕʰin1/<sup>兴化</sup></small> 农作物吸收养份过多，茎叶旺长，果实迟难成熟\[兴化：同“痴青”。\]：～旺长。<sup>\[兴化\]</sup>  
 1. 【[恋头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_teu_r.md#恋头<sub>儿</sub>)】`lin6 teu r` <sup>[兴化]</sup> 所系念的人或事：他急咖家去，因为家里有他～的。  
 1. 【[恋土难移](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_tv_naen_i.md#恋土难移)】`lin6 tv3 naen2 i2` <sup>[兴化]</sup> 因顾恋乡土，不思外出：我因～，前些年老同学要我上深圳发展也不曾去。｜“……他那里常有书来取我入伙，我只为一，不曾去的……”（《水浒传》三一）‖也作“故土难离”。  
 1. 【[恋玩](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/l/lin_vaen.md#恋玩)】`lin6 vaen2` <sup>[兴化]</sup> 贪玩：这个伢儿～，把功课全荒掉啊。  

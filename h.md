@@ -2077,8 +2077,8 @@
 1. 【[荤饭](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_faen.md#荤饭)】`huen1 faen6` <sup>[如东]</sup> ① 饭的一种。大米饭中加猪肉等荤菜，叫做荤饭。 ② 指鱼肉酒菜全有的饭餐。  
 1. 【[荤夹素](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_gaeh_sv.md#荤夹素)】`huen1 gaeh7 sv5` <sup>[如皋]</sup> ① 有荤有素的菜，即家常菜。 ② 说话中带草字。  
 1. 【[荤话](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_hua.md#荤话)】`huen1 hua6` <small>/xuəŋ1 xuɑ1/<sup>泰兴</sup></small> ① 充满色情的粗话。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：他这个人是没得～不开口。<sup>\[泰州\]</sup>｜这小伙不上路子，说咖说的，～就出来唻。<sup>\[泰州\]</sup> ② 村话；粗俗低级的语言。<sup>\[泰兴\]</sup>  
-1. 【[荤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu.md#荤油)】`huen1 ieu2` <small>/xuən1 iɤ2/<sup>兴化</sup>, /xuəŋ1 iɤɯ2/<sup>泰兴</sup></small> 食用的动物油。多指熬好的猪油。<sup>\[东台\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
-1. 【[荤油丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu_dien_zz.md#荤油丁子)】`huen1 ieu2 dien1 zz` <sup>[兴化]</sup> 见“脂油丁子”。  
+1. 【[荤油](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu.md#荤油)】`huen1 ieu2` <small>/xuən1 iɤ2/<sup>兴化</sup>, /xuəŋ1 iɤɯ2/<sup>泰兴</sup></small> 食用的动物油。多指熬好的猪油。<sup>\[东台\]</sup><sup>\[泰兴\]</sup>\[兴化：猪板油。同“脂油”。\]  
+1. 【[荤油丁子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_ieu_dien_zz.md#荤油丁子)】`huen1 ieu2 dien1 zz` <small>/xuən1 iɤ2 tiɪ̃1 t͡sɿ/<sup>兴化</sup></small> 脂油切成的小块，用糖或盐、葱末等拌和后作包子、圆子等食品的馅心。\[兴化：同“脂油丁子”。\]  
 1. 【[荤盘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_pun.md#荤盘)】`huen1 pun2` <small>/xuəŋ1 pʰʊ̃2/<sup>泰兴</sup></small> 带肋骨的猪肉。多用于敬神鬼菩萨。<sup>\[泰兴\]</sup>  
 1. 【[荤期](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_qi.md#荤期)】`huen1 qi1` <sup>[如皋]</sup> 周期食谱中吃荤菜的日子。  
 1. 【[荤段<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/h/huen_tun_r.md#荤段<sub>儿</sub>)】`huen1 tun6-dun5 r` <sup>[兴化]</sup> 粗俗的故事或笑话：这天，巧儿听一个女人说了一段关于黄瓜的～，笑得前合后仰。（钱国怀《水流千转》）。  

@@ -1601,6 +1601,7 @@
 1. 【[光头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_teu.md#光头)】`guan1 teu2` <small>/kuɑŋ1 tʰəɪ2/<sup>泰兴</sup></small> ① 一丝毛发也不留。<sup>\[东台\]</sup> ② ［喻］什么成绩都没有。<sup>\[东台\]</sup> ③ 谓人头上无发。<sup>\[泰兴\]</sup>  
 1. 【[光秃秃](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_toh.md#光秃秃)】`guan1 toh7 toh7` <sup>[东台]</sup> 什么也没有：这块盐碱地～的，甚的都长不起来。  
 1. 【[光秃子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_toh_zz.md#光秃子)】`guan1 toh7 zz` <sup>[东台]</sup> 头发很少的人（病态）。  
+1. 【[广字头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cz_teu.md#广字头)】`guan3 cz6 teu2` <small>/kuaŋ3 t͡sʰɿ6 tʰɤ2/<sup>兴化</sup></small> 汉字笔划，形状是“广”。\[兴化：同“披纱”。\]  
 1. 【[广字头<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_cz_teu_r.md#广字头<sub>儿</sub>)】`guan3 cz6 teu2 r` <sup>[如皋]</sup> （广）：庄店度。  
 1. 【[广福寺](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_foh_cz.md#广福寺)】`guan3 foh7 cz6` <sup>[如皋]</sup> 在原如城西北边，始建于唐。后称大寺。见“大寺”。  
 1. 【[广该](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/g/guan_gae.md#广该)】`guan3 gae1` <sup>[如皋]</sup> 一共、归总、抓总、总计。  

@@ -9,7 +9,7 @@
 1. 【[呃吁㗏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh_y_vae.md#呃吁㗏)】`eh7 y vae1` <sup>[泰州]</sup> 象声词，呼筒声：～～，疼煞咖唻。  
 1. 【[啊](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/eh.md#啊)】`eh7` <sup>[泰州]</sup> 表示是否，用于疑问：上海你～去？｜你～吃烧饼？  
 1. 【[儿不嫌母丑，狗不嫌家穷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_beh_xin_mu.md#儿不嫌母丑，狗不嫌家穷)】`er2 beh7 xin2 mu3 cheu3 geu3 beh7 xin2 ga1 qion2` <sup>[东台]</sup> 人不能忘本，要爱国、爱家、爱长辈。  
-1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <small>/ɚ2 t͡sʰaŋ2/<sup>兴化</sup>, /ɚ2 t͡sʰã2/<sup>如皋</sup></small> ① 阴道。<sup>\[如东\]</sup> ② 内生殖器总称。<sup>\[如皋\]</sup> ③ 特指动物输卵管，是阉割的部分。<sup>\[如皋\]</sup> ④ 也有指男性输精管的。<sup>\[如皋\]</sup> ⑤ 女子或雌性哺乳动物的输卵管。‖也称“子肠”。<sup>\[兴化\]</sup>  
+1. 【[儿肠](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_chan.md#儿肠)】`er2 chan2` <small>/ɚ2 t͡sʰaŋ2/<sup>兴化</sup>, /ɚ2 t͡sʰã2/<sup>如皋</sup></small> ① 阴道。<sup>\[如东\]</sup> ② 内生殖器总称。<sup>\[如皋\]</sup> ③ 特指动物输卵管，是阉割的部分。<sup>\[如皋\]</sup> ④ 也有指男性输精管的。<sup>\[如皋\]</sup> ⑤ 女子或雌性哺乳动物的输卵管。\[兴化：也称“子肠”。\]  
 1. 【[儿灯](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_den.md#儿灯)】`er2 den1` <sup>[如皋]</sup> ① 人形灯具。 ② 喻出众者：你充甚的～吖！  
 1. 【[儿多母受苦](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_du_mu_sheu.md#儿多母受苦)】`er2 du1 mu3 sheu6 kv3` <small>/ɚ2 tɤɯ1 mɤɯ3 ɕiɤɯ1 kʰu3/<sup>泰兴</sup></small> 谓子女多，做母亲的非常辛苦。<sup>\[泰兴\]</sup>  
 1. 【[儿儿](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/e/er_er.md#儿儿)】`er2 er` <sup>[兴化]</sup> 孩子：这个～太调皮。｜“人生总受业风吹，三岁～，八十～。”（宋·刘辰翁《一剪梅》）  

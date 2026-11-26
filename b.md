@@ -1053,7 +1053,8 @@
 1. 【[笨嘴拙舌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/ben_zuei_zhuh_shih.md#笨嘴拙舌)】`ben5 zuei3 zhuh7 shih8` <small>/pəŋ5 t͡suəɪ3 t͡sʊʔ7 ɕiʔ8/<sup>泰兴</sup></small> 表达能力差，没有口才。<sup>\[泰兴\]</sup>  
 1. 【[屄](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄)】`bi1` <sup>[如东]</sup> 女子的生殖器。  
 1. 【[屄（毴、𣭈）](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#屄（毴、𣭈）)】`bi1` <sup>[泰州]</sup> ① 女性外生殖器：这个老～不是好东西！ ② 泛指部分雌性家畜外生殖器：敢同老王动手动脚的，当真是老鼠肏猫～，活得不耐烦！  
-1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pi1 pi1 tiɔ3 tiɔ3/<sup>兴化</sup>, /pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> ① （贬）男男女女。<sup>\[兴化\]</sup> ② 有关男女风化方面的事<sup>\[兴化\]</sup>：你一开口又是～的事，真无聊。<sup>\[兴化\]</sup> ③ 也说“屄啊屌的”。<sup>\[兴化\]</sup> ④ 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
+1. 【[屄啊屌的](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_a_dio_dii.md#屄啊屌的)】`bi1 a dio3 dii` <small>/pi1 əʔ tiɔ3 təi/<sup>兴化</sup></small> ① （贬）男男女女。<sup>\[兴化\]</sup> ② （贬）有关男女风化方面的事<sup>\[兴化\]</sup>  
+1. 【[屄屄屌屌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bi_dio_dio.md#屄屄屌屌)】`bi1 bi1 dio3 dio3` <small>/pi1 pi1 tiɔ3 tiɔ3/<sup>兴化</sup>, /pʝ1 pʝ1 tiɔ3 tiɔ3/<sup>泰兴</sup></small> ① （贬）男男女女。<sup>\[兴化\]</sup> ② （贬）有关男女风化方面的事<sup>\[兴化\]</sup>：你一开口又是～的事，真无聊。<sup>\[兴化\]</sup> ③ 零零碎碎，不足挂齿的小事。男女之间见不得人的事。<sup>\[泰兴\]</sup>  
 1. 【[屄宝](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_bo.md#屄宝)】`bi1 bo3` <small>/pʝ1 pɔ3/<sup>泰兴</sup></small> ① 是一种戏谑的说法。比喻把一般东西看得十分珍贵。<sup>\[东台\]</sup> ② 宝贝；珍贵的东西。贬义。轻蔑、讽刺味。<sup>\[泰兴\]</sup>  
 1. 【[屄大眼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_da_ngaen.md#屄大眼)】`bi1 da ngaen3` <sup>[兴化]</sup> 骂人眼力不济，视觉模糊：你这个～，小偷站吖面前也看不清。  
 1. 【[屄贩子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_faen_zz.md#屄贩子)】`bi1 faen5 zz` <sup>[如东]</sup> 不正经的女人。  
@@ -1061,11 +1062,11 @@
 1. 【[屄嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_jy.md#屄嘴)】`bi1 jy3` （詈语）痛骂某人嘴里不干净，或者乱说。<sup>\[东台\]</sup><sup>\[泰州\]</sup>：人家是好是丑，要你～在外头先说甚的唦？<sup>\[泰州\]</sup>  
 1. 【[屄力大似山力](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_lieh_da_sz.md#屄力大似山力)】`bi1 lieh8 da6 sz6 shaen1 lieh8` <sup>[东台]</sup> 痛骂不正经的女人对某些好色之徒诱惑力极大。  
 1. 【[屄头屌脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_teu_dio_lin.md#屄头屌脸)】`bi1 teu2 dio3 lin3` <small>/pʝ1 tʰəɪ2 tiɔ3 lĩ3/<sup>泰兴</sup></small> 犹狗血喷头。指被骂得极狼狈的样子。<sup>\[泰兴\]</sup>  
-1. 【[屄心子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_xien_zz.md#屄心子)】`bi1 xien1 zz` <sup>[兴化]</sup> ① 阴户。 ② （贬）细小的物件或小动物，如小猫小狗等：这个～抱家来哪天养得大？  
+1. 【[屄心子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_xien_zz.md#屄心子)】`bi1 xien1 zz` <small>/pi1 ɕin1 t͡sɿ/<sup>兴化</sup></small> ① 阴户。<sup>\[兴化\]</sup> ② （贬）细小的物件或小动物，如小猫小狗等<sup>\[兴化\]</sup>：这个～抱家来哪天养得大？<sup>\[兴化\]</sup>  
 1. 【[比死人多啊口气](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_sz_ren_du.md#比死人多啊口气)】`bi3 sz3 ren2 du1 a keu3 qi5` <sup>[东台]</sup> 对某人的实际作用表示极端失望：你还指望他，他只～！  
 1. 【[比谈](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_taen.md#比谈)】`bi3 taen2` <sup>[如皋]</sup> 打比喻：这是～的句话，不必放吖心里。  
 1. 【[比中比](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zhon_bi.md#比中比)】`bi3 zhon1 bi3` <sup>[如皋]</sup> 反复比较选择。  
-1. 【[比嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zuei.md#比嘴)】`bi3 zuei3` <sup>[兴化]</sup> 自夸：“……做啥？我们跟你～呀……”（扬一《李逵劫法场》）  
+1. 【[比嘴](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zuei.md#比嘴)】`bi3 zuei3` <small>/pi3 t͡suəi3/<sup>兴化</sup></small> 自夸<sup>\[兴化\]</sup>：“……做啥？我们跟你～呀……”（扬一：《李逵劫法场》）<sup>\[兴化\]</sup>  
 1. 【[比子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_zz.md#比子)】`bi3 zz` <small>/pʝ3 t͡sɿ/<sup>泰兴</sup></small> （名词）比方，比喻<sup>\[泰兴\]</sup>：箇是我打的一个～<sup>\[泰兴\]</sup>  
 1. 【[泌](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi.md#泌)】`bi5` ① 挡住渣滓把液体倒出来<sup>\[东台\]</sup>：三斤鲫鱼慢慢熬，～出一大盆鲜汤。<sup>\[东台\]</sup> ② （音闭）倾汁留物，以物挡住容器中的固体而将液体倾倒出来<sup>\[泰州\]</sup>：把碗肚里的汤～掉点儿再吃。<sup>\[泰州\]</sup>  
 1. 【[秘方](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/b/bi_fan.md#秘方)】`bi5 fan1` ① 民间保留的不见医学著作的偏方。<sup>\[如东\]</sup> ② 祖上秘传的药方<sup>\[东台\]</sup>：他用～把牛皮癣治好啊。<sup>\[东台\]</sup>  

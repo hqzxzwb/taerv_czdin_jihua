@@ -233,7 +233,7 @@
 1. 【[碗<sub>儿</sub>鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_r_y.md#碗<sub>儿</sub>鱼)】`un3 r y2` <sup>[如皋]</sup> 席间用的装碗的整鱼，亦为菜名。  
 1. 【[碗头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu.md#碗头)】`un3 teu2` <sup>[兴化]</sup> 碗中食物的表面：他手捧一碗粥，～上放吖一筷子咸菜。｜（主人）把这青菜炒肉夹了许多堆在面～上……（《儒林外史》四五）  
 1. 【[碗头鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_teu_y.md#碗头鱼)】`un3 teu2 y2` <small>/ʊ̃3 tʰəɪ2 y2/<sup>泰兴</sup></small> 谓大小正好煮一碗的鱼。<sup>\[泰兴\]</sup>  
-1. 【[碗瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_va_cz.md#碗瓦瓷)】`un3 va3 cz2` <sup>[兴化]</sup> 见“瓷瓦子”。  
+1. 【[碗瓦瓷](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_va_cz.md#碗瓦瓷)】`un3 va3 cz2` <small>/ũ3 ua3 t͡sʰɿ2/<sup>兴化</sup></small> 碎瓷片\[兴化：同“瓷瓦子”。\]  
 1. 【[碗盏](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhaen.md#碗盏)】`un3 zhaen` <sup>[兴化]</sup> 碗碟等餐具：你把桌上～收拾收拾。｜老太太听了，把细瓷～和银镶的杯盘逐件看了遍……（《儒林外史》三）  
 1. 【[碗盏家伙](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un_zhaen_ga_hu.md#碗盏家伙)】`un3 zhaen ga1 hu` <sup>[兴化]</sup> 泛指与餐饮有关的器具：正说着，只见厨子挑了～进来。（《官场现形记》一）  
 1. 【[缓](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/u/un.md#缓)】`un3` <sup>[如皋]</sup> 令牛停下。  

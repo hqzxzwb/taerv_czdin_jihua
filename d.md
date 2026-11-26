@@ -631,7 +631,7 @@
 1. 【[大烟鬼<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_guei_r.md#大烟鬼<sub>儿</sub>)】`da6 in1 guei3 r` <sup>[如皋]</sup> 吸大烟成瘾的人。  
 1. 【[大烟花](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_hua.md#大烟花)】`da6 in1 hua1` <sup>[如皋]</sup> 罂粟花。  
 1. 【[大烟条子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in_tio_zz.md#大烟条子)】`da6 in1 tio2 zz` <sup>[如东]</sup> 说大话、吹牛皮的人：箇个人是～。  
-1. 【[大盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in.md#大盐)】`da6 in2` <small>/ta6 iɪ̃2/<sup>兴化</sup></small> ① 未经加工的原盐，呈颗粒状。<sup>\[兴化\]</sup> ② 盐<sup>\[兴化\]</sup>：听吖你的话，～还卖馊啊唻。又特指未经加工，颗粒较大的盐。<sup>\[兴化\]</sup>  
+1. 【[大盐](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_in.md#大盐)】`da6 in2` <small>/ta6 iɪ̃2/<sup>兴化</sup></small> ① 未经加工的原盐，呈颗粒状。\[兴化：同“子儿盐”。\] ② 盐\[兴化：又特指未经加工，颗粒较大的盐。\]：听吖你的话，～还卖馊啊唻。<sup>\[兴化\]</sup>  
 1. 【[大月](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_iuh.md#大月)】`da6 iuh8` <sup>[如东]</sup> ① 公历31日的月份。 ② 阴历三十日的月份。  
 1. 【[大远](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_iun.md#大远)】`da6 iun3` <sup>[兴化]</sup> 距离很远：“我们～的走到这里，汗都自干了……”（《广陵潮》四二）  
 1. 【[大鸡伏小鸡](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/da_ji_pv_xio.md#大鸡伏小鸡)】`da6 ji1 pv6 xio3 ji1` <sup>[如皋]</sup> 大菜名，大盆装一只白煨整鸡，镶十只煮熟去壳的鸡蛋。  
@@ -2094,7 +2094,7 @@
 1. 【[刀<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_r.md#刀<sub>儿</sub>)】`do1 r` 小刀  
 1. 【[刀头](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀头)】`do1 teu` <sup>[兴化]</sup> ① 向神还愿用的猪肉块。 ② （喻）答应的条件：这是允下来的～。  
 1. 【[刀头上翻跟头——玩命](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu_shan_faen.md#刀头上翻跟头——玩命)】`do1 teu2 shan faen1 gen1 teu vaen2 mien6` <sup>[东台]</sup>   
-1. 【[刀豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀豆)】`do1 teu6` <small>/tɔ1 tʰɤ6/<sup>兴化</sup>, /tɔ1 tʰəɪ1/<sup>泰兴</sup></small> 刀豆。即四季豆。是豆科一年生草质藤本植物。其嫩荚是家常蔬菜。<sup>\[如东\]</sup><sup>\[兴化\]</sup><sup>\[泰兴\]</sup>  
+1. 【[刀豆](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_teu.md#刀豆)】`do1 teu6` <small>/tɔ1 tʰɤ6/<sup>兴化</sup>, /tɔ1 tʰəɪ1/<sup>泰兴</sup></small> 刀豆。即四季豆。是豆科一年生草质藤本植物。其嫩荚是家常蔬菜。<sup>\[如东\]</sup><sup>\[泰兴\]</sup>\[兴化：同“四季莓”。\]  
 1. 【[刀削面](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_xiah_min.md#刀削面)】`do1 xiah7 min6` <sup>[如东]</sup> 小麦面粉经过反复揉压，面团柔软熟透，然后用刀削成薄片，飘入锅里煮熟，称刀削面。2000年，始有陕西商家至掘港经营。  
 1. 【[刀鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y.md#刀鱼)】`do1 y` <small>/tɔ1 y/<sup>泰兴</sup></small> 一种刀尖状的鱼。味极鲜美，为“长江三鲜”之一。<sup>\[泰兴\]</sup>  
 1. 【[刀鱼](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/d/do_y.md#刀鱼)】`do1 y2` <sup>[泰州]</sup> Coilia nasus。一种鱼类，体形狭长侧薄，呈银白色，似刀，故名。古称鮆鱼。  

@@ -1491,6 +1491,7 @@
 1. 【[绞赖子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lae_zz.md#绞赖子)】`jio3 lae6 zz` <sup>[东台]</sup> 遇到麻烦互相推诿：碰到难事～不是个办法，要群策群力，迎难而上，才能解决问题。  
 1. 【[绞理](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_li.md#绞理)】`jio3 li3` <small>/t͡ɕiɔ3 lʝ3/<sup>泰兴</sup></small> 争辩道理<sup>\[泰兴\]</sup>  
 1. 【[绞脸](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_lin.md#绞脸)】`jio3 lin3` <small>/t͡ɕiɔ3 lĩ3/<sup>泰兴</sup></small> ① 旧时姑娘出嫁前⼀天，娘家⼈⽤绞在⼀起的细线⼀张⼀合为⼥⼉清除脸上汗毛。也叫“开脸”“扯脸”。<sup>\[东台\]</sup> ② 旧时妇女的修容术。用细线交互缠绞除去脸上的汗毛。<sup>\[泰兴\]</sup>  
+1. 【[绞丝旁](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_sz_pan.md#绞丝旁)】`jio3 sz1 pan2` <small>/t͡ɕiɔ3 sɿ1 pʰaŋ2/<sup>兴化</sup></small> 汉字偏旁，形状是“纟”“糹”。\[兴化：同“丝绞绞”。\]  
 1. 【[绞真](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zhen.md#绞真)】`jio3 zhen1` <small>/t͡ɕiɔ3 t͡səŋ1/<sup>泰兴</sup></small> 当真；当正经事。十分认真。<sup>\[泰兴\]</sup>  
 1. 【[绞捘](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_zuen.md#绞捘)】`jio3 zuen5` <sup>[如东]</sup> 绳索旋转上捘。  
 1. 【[缴梢](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/j/jio_sho.md#缴梢)】`jio3 sho1` <sup>[兴化]</sup> 收头、结局：你现在又嫖又赌，将来怎吖～？  

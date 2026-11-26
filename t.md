@@ -312,7 +312,7 @@
 1. 【[叹气湾](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qi_vaen.md#叹气湾)】`taen5 qi5 vaen1` <small>/tʰɛ̃5 t͡ɕʰi5 uɛ̃1/<sup>兴化</sup></small> （戏）到了失望的境界<sup>\[兴化\]</sup>：这次求职的事又上吖～，没得指望吖。<sup>\[兴化\]</sup>  
 1. 【[炭火](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_hu.md#炭火)】`taen5 hu3` <small>/tʰɛ̃5 xo3/<sup>兴化</sup></small> ① 烧煤产生的火焰<sup>\[兴化\]</sup>：～热气高。<sup>\[兴化\]</sup> ② 指燃料开支<sup>\[兴化\]</sup>：每天的～还得好几块钱哎！<sup>\[兴化\]</sup>  
 1. 【[炭球<sub>儿</sub>](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_qieu_r.md#炭球<sub>儿</sub>)】`taen5 qieu2 r` <sup>[兴化]</sup> ① 煤球。 ② 蜂窝煤。  
-1. 【[炭屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr.md#炭屎)】`taen5 shr3` <small>/tʰɛ̃5 sɿ3/<sup>兴化</sup>, /tʰẽ5 sɿ3/<sup>如皋</sup>, /tʰɛ̃5 sɿ3/<sup>泰兴</sup>, /tʰɛ̃5 sɿ3/<sup>泰县</sup></small> 煤渣。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：又叫“死炭”。\]  
+1. 【[炭屎](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr.md#炭屎)】`taen5 shr3` <small>/tʰɛ̃5 sɿ3/<sup>兴化</sup>, /tʰẽ5 sɿ3/<sup>如皋</sup>, /tʰɛ̃5 sɿ3/<sup>泰兴</sup>, /tʰɛ̃5 sɿ3/<sup>泰县</sup></small> 煤渣。<sup>\[如皋\]</sup><sup>\[如东\]</sup><sup>\[东台\]</sup><sup>\[泰兴\]</sup><sup>\[泰县\]</sup><sup>\[泰州\]</sup>\[兴化：同“死炭”。\]  
 1. 【[炭屎路](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr_lv.md#炭屎路)】`taen5 shr3 lv6` <sup>[如皋]</sup> 媒渣铺面的简易道路。  
 1. 【[炭屎砟子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_shr_zha_zz.md#炭屎砟子)】`taen5 shr3 zha3 zz` <small>/tʰɛ̃5 sɿ3 t͡sɑ3 t͡sɿ/<sup>泰兴</sup></small> 烧剩的煤灰。<sup>\[泰兴\]</sup>  
 1. 【[炭渣子](https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/t/taen_zha_zz.md#炭渣子)】`taen5 zha1 zz` <sup>[兴化]</sup> 煤炭燃烧后的余烬。也称“煤渣”“炭屎”“炭灰”。  
