@@ -193,4 +193,15 @@ bin/deploy.sh
 要求：本机能 `docker push` 到所填的镜像仓库；所用的 chart 接受 `image.repository`、`image.tag`、
 `ingress` 和探针这几项配置。容器监听 80 端口，健康检查走 `/ping`。
 
+### 让百度收录
+
+站点已在百度搜索资源平台验证（`public/baidu_verify_*.html` 是验证文件，不能删）。新站每天的主动推送配额很小，
+用下面的脚本每天推一批还没推过的网址，推到配额用完为止：
+
+```sh
+web/bin/baidu_push.sh        # 默认一次 10 条
+```
+
+推送密钥写在 `.deploy.env` 的 `BAIDU_PUSH_TOKEN`，已推过的网址记在 `.baidu_pushed`，两者都不进版本库。
+
 不用 Kubernetes 也可以：`docker build` 出来的镜像直接 `docker run -p 80:80` 就能跑，没有数据库和其他依赖。

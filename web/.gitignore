@@ -6,3 +6,4 @@ data/*.json
 .deploy.lock
 .deploy.env
 helm/values.local.yaml
+.baidu_pushed
