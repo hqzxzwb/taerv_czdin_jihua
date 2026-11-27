@@ -15,6 +15,8 @@ const SOURCES = [
   { t: '维基百科“通泰方言”', u: 'https://zh.wikipedia.org/zh-cn/通泰方言' },
   { t: '维基百科“江淮官话”', u: 'https://zh.wikipedia.org/zh-hans/江淮官话' },
   { t: '维基百科“古越语”', u: 'https://zh.wikipedia.org/zh-hans/古越语' },
+  { t: 'Wikipedia: Tong-Tai Mandarin', u: 'https://en.wikipedia.org/wiki/Tong-Tai_Mandarin' },
+  { t: '百度百科“东台话”', u: 'https://baike.baidu.com/item/%E4%B8%9C%E5%8F%B0%E8%AF%9D/8965743' },
   { t: '新华报业：为啥扬州人不懂泰州话', u: 'https://www.xhby.net/content/s68d0c8dce4b0b65f07c3af57.html' },
   { t: '《江淮官话入声研究》（学位论文摘要）', u: 'https://wap.cnki.net/touch/web/Dissertation/Article/10032-2007162154.nh.html' },
 ];

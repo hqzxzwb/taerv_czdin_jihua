@@ -47,6 +47,25 @@
 **古越语**：学界讨论古越语（百越语）底层，主要针对吴语、闽语、粤语。泰如地区古属吴越，又以吴语为底层，
 推想间接带有古越语成分是说得通的；但目前没有查到专门论证泰如话古越语底层的研究，这一条只能算推测。
 
+**参考资料**（以上各条说法的出处）：
+
+- 鲁国尧《通泰方言研究史脞述》：<https://www.aisixiang.com/data/137953.html>
+- 鲁国尧：通泰方言是古代北方方言的“后裔”而具有吴方言的底层（转录）：<https://nantonghua.net/archives/5548/>
+- 鲁国尧《客、赣、通泰方言源于南朝通语说（二）》：<http://nantonghua.net/archives/2560/>
+- 汪如东《通泰方言的吴语底层及历史层次》：<http://nantonghua.net/archives/7084/>
+- 顾黔《通泰方言声调的历史演变》：<http://rwtz.t56.net/index.php?a=show&c=index&catid=12&id=4125&m=content>
+- 游汝杰《吴语地理在历史上的演变》：<https://www.cuhk.edu.hk/ics/clrc/scl_12/you.pdf>
+- 《江淮官话入声研究》（学位论文摘要）：<https://wap.cnki.net/touch/web/Dissertation/Article/10032-2007162154.nh.html>
+- 维基百科“通泰方言”：<https://zh.wikipedia.org/zh-cn/通泰方言>
+- 维基百科“江淮官话”：<https://zh.wikipedia.org/zh-hans/江淮官话>
+- 维基百科“古越语”：<https://zh.wikipedia.org/zh-hans/古越语>
+- Wikipedia: Tong-Tai Mandarin：<https://en.wikipedia.org/wiki/Tong-Tai_Mandarin>
+- 新华报业《为啥扬州人不懂泰州话，却错把盐城人当“老乡”？》：<https://www.xhby.net/content/s68d0c8dce4b0b65f07c3af57.html>
+- 百度百科“东台话”：<https://baike.baidu.com/item/%E4%B8%9C%E5%8F%B0%E8%AF%9D/8965743>
+
+说明：鲁国尧、汪如东、顾黔的文章读的是转载或摘要，没有核对原书；“约一千一百万人（2004 年）”出自维基百科，该条目缺少引注；
+洪巢片的 ng-、v- 两条是按通行认识做的概括；古越语一条没有直接研究支持。
+
 ## 一、教什么、怎么教
 
 ### 学习路线
