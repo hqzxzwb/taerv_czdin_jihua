@@ -22,6 +22,7 @@ const MAIN = [
 const MORE = [
   { href: '/zi', label: '注音' },
   { href: '/grammar', label: '语法' },
+  { href: '/origin', label: '来历' },
   { href: '/about', label: '关于' },
 ];
 

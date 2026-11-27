@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { ResetButton } from '@/components/ResetButton';
 import { store } from '@/lib/data';
 
@@ -21,6 +22,12 @@ export default function AboutPage() {
           <a href="https://baike.baidu.com/item/%E4%B8%9C%E5%8F%B0%E8%AF%9D/8965743" target="_blank" rel="noreferrer" className="ml-1 text-sm text-muted underline underline-offset-4">
             （据百度百科“东台话”）
           </a>
+        </p>
+        <p>
+          它虽然归在江淮官话里，却和南京、扬州的话差别很大：古浊音一律读送气音、有六到七个声调、入声分阴阳，词汇里还留着不少吴语的底子。
+          <Link href="/origin" className="ml-1 font-bold text-brand-deep underline underline-offset-4">
+            详细的来历看这里
+          </Link>
         </p>
         <p>这个网站想帮从零开始的孩子和大人，用每天几分钟的时间，把家乡话一点点捡回来。</p>
       </section>
