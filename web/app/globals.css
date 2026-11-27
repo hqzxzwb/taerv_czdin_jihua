@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply bg-paper text-ink antialiased;
+}
+
+@layer components {
+  .card {
+    @apply rounded-3xl bg-white shadow-card ring-1 ring-line/70;
+  }
+  .btn {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-2xl px-5 text-base font-bold transition active:translate-y-[2px] disabled:opacity-40;
+  }
+  .btn-primary {
+    @apply btn bg-brand text-white shadow-press active:shadow-none;
+  }
+  .btn-ghost {
+    @apply btn bg-white text-ink ring-1 ring-line hover:bg-paper;
+  }
+  .chip {
+    @apply inline-flex items-center rounded-full bg-paper px-3 py-1 text-sm text-muted ring-1 ring-line;
+  }
+  .h1 {
+    @apply text-2xl font-black tracking-tight sm:text-3xl;
+  }
+  .h2 {
+    @apply text-lg font-black sm:text-xl;
+  }
+}
