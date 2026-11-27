@@ -10,14 +10,19 @@ export const dynamic = 'force-dynamic';
 
 const REPO = 'https://github.com/hqzxzwb/taerv_czdin_jihua/blob/master/';
 
-function get(id: string) {
-  const n = Number(id);
-  return Number.isInteger(n) ? store().entries[n] : undefined;
+function get(raw: string) {
+  let id = raw;
+  try {
+    id = decodeURIComponent(raw);
+  } catch {}
+  return store().byId.get(id);
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const e = get((await params).id);
-  return e ? { title: `${e.w} ${e.p}`, description: firstDef(e, 120) } : { title: '词典' };
+  return e
+    ? { title: `${e.w} ${e.p} 是什么意思、怎么读`, description: `泰如话“${e.w}”读 ${e.p}：${firstDef(e, 110)}`, alternates: { canonical: `/dict/${encodeURIComponent(e.id)}` } }
+    : { title: '词典' };
 }
 
 export default async function EntryPage({ params }: { params: Promise<{ id: string }> }) {
@@ -128,7 +133,7 @@ export default async function EntryPage({ params }: { params: Promise<{ id: stri
               <h2 className="h2">{g.title}</h2>
               <div className="mt-3 grid gap-2 sm:grid-cols-2">
                 {g.list.map((h) => (
-                  <Link key={h.id} href={`/dict/${h.id}`} className="rounded-2xl bg-white px-4 py-3 ring-1 ring-line hover:ring-ink/30">
+                  <Link key={h.id} href={`/dict/${encodeURIComponent(h.id)}`} className="rounded-2xl bg-white px-4 py-3 ring-1 ring-line hover:ring-ink/30">
                     <span className="font-black">{h.w}</span> <Pinyin p={h.p} className="text-sm" />
                     <span className="mt-0.5 block truncate text-sm text-muted">{h.d}</span>
                   </Link>

@@ -14,6 +14,7 @@ interface Store {
   entries: Entry[];
   index: Indexed[];
   byWord: Map<string, Entry[]>;
+  byId: Map<string, Entry>;
   chars: Map<string, CharReading[]>;
   maxWord: number;
 }
@@ -43,7 +44,7 @@ export function store(): Store {
       else chars.set(key, [c]);
     }
   }
-  g.__tairu = { entries, index, byWord, chars, maxWord: 6 };
+  g.__tairu = { entries, index, byWord, byId: new Map(entries.map((e) => [e.id, e])), chars, maxWord: 6 };
   return g.__tairu;
 }
 
@@ -84,7 +85,7 @@ export function search(raw: string, limit = 60): SearchHit[] {
       if (score) scored.push([score - w.length + Math.min(it.e.src.length, 5), it.e]);
     }
   }
-  scored.sort((a, b) => b[0] - a[0] || a[1].id - b[1].id);
+  scored.sort((a, b) => b[0] - a[0]);
   return scored.slice(0, limit).map(([, e]) => hit(e));
 }
 
@@ -92,7 +93,7 @@ export interface Token {
   text: string;
   kind: 'word' | 'char' | 'plain';
   syl: [string, string][];
-  id?: number;
+  id?: string;
   alts?: { p: string; eg: string; n: string }[];
 }
 

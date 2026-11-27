@@ -131,8 +131,13 @@ def build_entries():
                     "f": fname,
                 })
     entries.sort(key=lambda e: (re.sub(r"\d", "", e["p"]), e["p"], e["w"]))
-    for i, e in enumerate(entries):
-        e["id"] = i
+    # 词条网址用“词-拼音”，不用序号：词典增删词条后序号会整体挪位，已被收录的网址就全错了。
+    seen = {}
+    for e in entries:
+        first = e["p"].split(",")[0].strip().replace(" ", "-")
+        key = re.sub(r"[^\w-]+", "", f"{e['w']}-{first}") or "x"
+        seen[key] = seen.get(key, 0) + 1
+        e["id"] = key if seen[key] == 1 else f"{key}-{seen[key]}"
     return entries, failed
 
 

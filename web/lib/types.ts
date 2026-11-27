@@ -1,7 +1,7 @@
 export type Syllable = [string, string];
 
 export interface Entry {
-  id: number;
+  id: string;
   w: string;
   p: string;
   s: Syllable[];
@@ -31,7 +31,7 @@ export interface CourseItem {
   defs: string[];
   ex: { t: string; n: string }[];
   eg?: string;
-  id?: number;
+  id?: string;
 }
 
 export interface Lesson {
@@ -49,7 +49,7 @@ export interface Unit {
 }
 
 export interface SearchHit {
-  id: number;
+  id: string;
   w: string;
   p: string;
   d: string;

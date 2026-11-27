@@ -42,7 +42,7 @@ export default function Home() {
       </section>
 
       <section className="grid gap-4 md:grid-cols-2">
-        <Link href={`/dict/${daily.id}`} className="card block p-6">
+        <Link href={`/dict/${encodeURIComponent(daily.id)}`} className="card block p-6">
           <div className="text-xs font-bold text-muted">每日一词</div>
           <div className="mt-2 flex flex-wrap items-baseline gap-3">
             <span className="text-4xl font-black">{daily.w}</span>

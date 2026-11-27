@@ -2,7 +2,11 @@ import Link from 'next/link';
 import { Syl } from '@/components/Pinyin';
 import { store } from '@/lib/data';
 
-export const metadata = { title: '泰如话的来历', description: '泰如话从哪里来，和江淮官话其他地方的话有什么不一样，和吴语、古越语是什么关系。' };
+export const metadata = {
+  title: '泰如话的来历：和江淮官话的区别、吴语底层、移民史',
+  description: '泰如话（通泰方言）从哪里来？为什么扬州人听不太懂泰州话？古浊音一律送气、六七个声调、入声分阴阳，以及它和吴语、古越语的关系，附鲁国尧、汪如东、顾黔等人的研究出处。',
+  alternates: { canonical: '/origin' },
+};
 export const dynamic = 'force-dynamic';
 
 const SOURCES = [
@@ -55,7 +59,7 @@ function Words({ list }: { list: string[] }) {
         if (!e) return null;
         const d = (e.m[0]?.d || '').replace(/[。；，].*$/, '').slice(0, 8);
         return (
-          <Link key={w} href={`/dict/${e.id}`} className="rounded-xl bg-paper px-3 py-1.5 text-[15px] ring-1 ring-line hover:ring-ink/30">
+          <Link key={w} href={`/dict/${encodeURIComponent(e.id)}`} className="rounded-xl bg-paper px-3 py-1.5 text-[15px] ring-1 ring-line hover:ring-ink/30">
             <b>{w}</b> <span className="text-sm text-muted">{d}</span>
           </Link>
         );
@@ -67,6 +71,21 @@ function Words({ list }: { list: string[] }) {
 export default function OriginPage() {
   return (
     <article className="mx-auto max-w-3xl space-y-6 leading-relaxed">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: '泰如话的来历',
+            inLanguage: 'zh-CN',
+            about: ['泰如话', '通泰方言', '江淮官话', '吴语'],
+            mainEntityOfPage: 'https://tairu.ruilisi.com/origin',
+            publisher: { '@type': 'Organization', name: '泰如话学堂', url: 'https://tairu.ruilisi.com' },
+            citation: SOURCES.map((s) => ({ '@type': 'CreativeWork', name: s.t, url: s.u })),
+          }),
+        }}
+      />
       <header>
         <h1 className="h1">泰如话的来历</h1>
         <p className="mt-2 text-muted">它从哪里来？为什么扬州人听不太懂泰州话？和吴语、古越语又是什么关系？这一页把学者们的研究讲给你听，每个说法后面都注明是谁说的。</p>

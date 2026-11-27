@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 
 function Row({ h }: { h: SearchHit }) {
   return (
-    <Link href={`/dict/${h.id}`} className="block rounded-2xl bg-white px-4 py-3 ring-1 ring-line transition hover:ring-ink/30">
+    <Link href={`/dict/${encodeURIComponent(h.id)}`} className="block rounded-2xl bg-white px-4 py-3 ring-1 ring-line transition hover:ring-ink/30">
       <div className="flex flex-wrap items-baseline gap-x-3">
         <span className="text-xl font-black">{h.w}</span>
         <Pinyin p={h.p} className="text-sm" />

@@ -39,7 +39,7 @@ export function WordCard({ item }: { item: CourseItem }) {
       )}
       {item.eg && !item.ex.length && <div className="mt-4 text-sm text-muted">组词：{item.eg}</div>}
       {item.id !== undefined && (
-        <Link href={`/dict/${item.id}`} className="mt-4 inline-block text-sm font-bold text-muted underline underline-offset-4">
+        <Link href={`/dict/${encodeURIComponent(item.id)}`} className="mt-4 inline-block text-sm font-bold text-muted underline underline-offset-4">
           查看词典里的完整解释
         </Link>
       )}

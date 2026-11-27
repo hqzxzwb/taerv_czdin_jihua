@@ -9,7 +9,7 @@ interface Token {
   text: string;
   kind: 'word' | 'char' | 'plain';
   syl: [string, string][];
-  id?: number;
+  id?: string;
   alts?: { p: string; eg: string; n: string }[];
 }
 
@@ -92,7 +92,7 @@ export function Annotator() {
                 <b className="text-lg">{picked.text}</b>
                 <HumButton syl={picked.syl.map(([, p]) => p)} />
                 {picked.id !== undefined && (
-                  <Link href={`/dict/${picked.id}`} className="font-bold text-brand-deep">
+                  <Link href={`/dict/${encodeURIComponent(picked.id)}`} className="font-bold text-brand-deep">
                     查词典
                   </Link>
                 )}
