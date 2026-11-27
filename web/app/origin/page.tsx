@@ -21,9 +21,26 @@ const SOURCES = [
   { t: '维基百科“古越语”', u: 'https://zh.wikipedia.org/zh-hans/古越语' },
   { t: 'Wikipedia: Tong-Tai Mandarin', u: 'https://en.wikipedia.org/wiki/Tong-Tai_Mandarin' },
   { t: '百度百科“东台话”', u: 'https://baike.baidu.com/item/%E4%B8%9C%E5%8F%B0%E8%AF%9D/8965743' },
+  { t: '南通市第七次全国人口普查公报（第二号）', u: 'http://tjj.nantong.gov.cn/ntstj/tjgb/content/bee00145-67eb-4189-9208-8d1aa20d9e2c.html' },
+  { t: '泰州市及各区市第七次全国人口普查公报（转载）', u: 'https://tjgb.hongheiku.com/11453.html' },
+  { t: '盐城各区县第七次全国人口普查数据（转载）', u: 'https://www.phsb.com/html/680/679432.html' },
   { t: '新华报业：为啥扬州人不懂泰州话', u: 'https://www.xhby.net/content/s68d0c8dce4b0b65f07c3af57.html' },
   { t: '《江淮官话入声研究》（学位论文摘要）', u: 'https://wap.cnki.net/touch/web/Dissertation/Article/10032-2007162154.nh.html' },
 ];
+
+const CENSUS: [string, string, number][] = [
+  ['泰州', '海陵区', 577016],
+  ['泰州', '高港区', 258590],
+  ['泰州', '姜堰区', 668408],
+  ['泰州', '兴化市', 1128204],
+  ['泰州', '泰兴市', 994445],
+  ['南通', '如皋市', 1238448],
+  ['南通', '海安市', 874334],
+  ['南通', '如东县', 880006],
+  ['盐城', '东台市', 888410],
+  ['盐城', '大丰区', 645603],
+];
+const NANTONG_CITY = 1183740 + 1258739;
 
 const DIFFS = [
   { k: '古浊音声母', tr: '不管什么声调，一律读成送气音', other: '平声送气，仄声不送气（和普通话一样）', chars: '地白字病豆坐' },
@@ -97,12 +114,40 @@ export default function OriginPage() {
           <li>在方言分类上，泰如话（学界也叫“通泰方言”）算<b>江淮官话</b>的一支，叫“泰如片”，和南京、扬州、合肥所在的“洪巢片”，以及湖北一带的“黄孝片”并列。</li>
           <li>但它是江淮官话里<b>最特别</b>的一片：声母、声调、词汇上有一批特点，洪巢片没有，反而和江南的吴语、江西的赣语、客家话相通。</li>
           <li>主流的解释是：这片土地上古时候说的是吴语，后来北方移民带来的话盖在上面，吴语沉到了“底层”。所以泰如话是<b>北方话的骨架、吴语的底子</b>。</li>
-          <li>使用人口约一千一百万（2004 年的数字），分布在泰州、兴化、姜堰、泰兴、东台、大丰、海安、如皋、如东、南通等地。</li>
+          <li>说泰如话的人在<b>一千万上下</b>：光是泰州、兴化、姜堰、泰兴、如皋、海安、如东、东台、大丰这十个核心县市区，2020 年常住人口就有 815 万；算上南通市区和在外地的同乡，各家估计在 1100 万到 1300 万之间。详见下面第二节。</li>
         </ul>
       </section>
 
       <section className="card space-y-4 p-6">
-        <h2 className="h2">二、和江淮官话其他地方有什么不一样</h2>
+        <h2 className="h2">二、有多少人说泰如话</h2>
+        <p>没有哪次普查直接数过“说泰如话的人”，只能从通行地区的人口来推算。下面是 2020 年第七次全国人口普查的常住人口：</p>
+        <div className="grid grid-cols-2 gap-2 sm:grid-cols-5">
+          {CENSUS.map(([city, name, n]) => (
+            <div key={name} className="rounded-xl bg-paper px-3 py-2">
+              <div className="text-xs text-muted">{city}</div>
+              <div className="font-black">{name}</div>
+              <div className="text-sm">{(n / 10000).toFixed(1)} 万</div>
+            </div>
+          ))}
+        </div>
+        <ul className="list-disc space-y-2 pl-5">
+          <li>
+            <b>十个核心县市区合计 {(CENSUS.reduce((a, c) => a + c[2], 0) / 10000).toFixed(0)} 万人。</b>
+          </li>
+          <li>
+            南通市区（崇川、通州）的南通话，学界一般也划在泰如片的东区，那里还有约 {(NANTONG_CITY / 10000).toFixed(0)} 万人。加上以后是{' '}
+            {((CENSUS.reduce((a, c) => a + c[2], 0) + NANTONG_CITY) / 10000).toFixed(0)} 万左右。
+          </li>
+          <li>此外，扬中、江都东部等地也有人说；这些地方外出工作的人很多，按户籍算比常住人口还要多（比如东台 2021 年户籍人口 105 万，常住只有 89 万）。</li>
+          <li>百科上常见的总数：维基百科 1137 万（2004 年），百度百科 1200 万或 1300 万。</li>
+        </ul>
+        <p className="text-sm text-muted">
+          这是“通行地区住了多少人”，不等于“多少人会说”：城里的孩子很多已经只说普通话；如东南部、东台东部有说吴语的乡镇，大丰北部靠近盐城话。所以实际会说的人数要打些折扣，但量级是一千万，不是一百万。网上“约 120 万”的数字说的只是东台话一种。
+        </p>
+      </section>
+
+      <section className="card space-y-4 p-6">
+        <h2 className="h2">三、和江淮官话其他地方有什么不一样</h2>
         <p>下面“洪巢片”一栏说的是南京、扬州一带的一般情况。例字的读音直接取自本站的单字音表，你可以自己对一对。</p>
         <div className="space-y-3">
           {DIFFS.map((d) => (
@@ -138,7 +183,7 @@ export default function OriginPage() {
       </section>
 
       <section className="card space-y-3 p-6">
-        <h2 className="h2">三、它是怎么来的</h2>
+        <h2 className="h2">四、它是怎么来的</h2>
         <ol className="space-y-3">
           {[
             ['先秦到汉', '这一带春秋时属吴国，后来归越、归楚。语言学家鲁国尧提出“吴方言本北抵淮河”：那时吴语的北界不在长江，而在淮河，江淮之间说的是吴语一类的话。'],
@@ -159,7 +204,7 @@ export default function OriginPage() {
       </section>
 
       <section className="card space-y-4 p-6">
-        <h2 className="h2">四、吴语留下的痕迹</h2>
+        <h2 className="h2">五、吴语留下的痕迹</h2>
         <p>汪如东拿苏州话和海安话对比，举出了一批两地相同、而一般官话不说的词。下面这些在本站词典里都能查到，点开可以看原始词条：</p>
         <Words list={['推板', '蛮好', '落雨', '眼热', '新妇', '济手', '掇', '壮', '猛', '挜', '吼', '捅', '汏']} />
         <p>词典里还能查到一批吴语区同样常说的词：</p>
@@ -170,7 +215,7 @@ export default function OriginPage() {
       </section>
 
       <section className="card space-y-3 p-6">
-        <h2 className="h2">五、古越语呢？</h2>
+        <h2 className="h2">六、古越语呢？</h2>
         <p>
           古越语是先秦时江南百越人说的话，不是汉语。学者（如郑张尚芳、游汝杰）研究的主要是它在<b>吴语、闽语、粤语</b>里留下的痕迹，比如一些讲不出汉语来历的地名和口语词；游汝杰认为，秦汉时吴语区乡间住的还是百越人，说的是越语。
         </p>
@@ -180,7 +225,7 @@ export default function OriginPage() {
       </section>
 
       <section className="card space-y-3 p-6">
-        <h2 className="h2">六、所以，它算不算江淮官话？</h2>
+        <h2 className="h2">七、所以，它算不算江淮官话？</h2>
         <p>
           算，但要加一句“很不一样的一支”。按《中国语言地图集》的分法它属于江淮官话；可是和扬州话相比，声母、声调、词汇的差别大到互相听起来吃力。把它理解成“站在官话和吴语之间的话”，大概最贴切。
         </p>
