@@ -5,6 +5,7 @@ ENV NODE_ENV=production PORT=80 HOSTNAME=0.0.0.0
 
 COPY .next/standalone ./
 COPY .next/static ./.next/static
+COPY public ./public
 COPY data ./data
 
 RUN test -f server.js && test -f data/entries.json
