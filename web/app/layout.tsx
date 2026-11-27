@@ -22,7 +22,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="zh-CN">
       <body>
         <Nav />
-        <main className="mx-auto max-w-5xl px-4 pb-28 pt-5 md:pb-16 md:pt-8">{children}</main>
+        <main className="mx-auto max-w-5xl px-4 pb-8 pt-5 md:pt-8">{children}</main>
+        <footer className="mx-auto max-w-5xl px-4 pb-28 text-center text-xs text-muted md:pb-10">
+          <a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer" className="hover:underline">
+            苏ICP备19037090号
+          </a>
+        </footer>
       </body>
     </html>
   );
