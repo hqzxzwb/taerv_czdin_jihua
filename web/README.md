@@ -16,7 +16,10 @@
 
 ## 泰如话的来历，和江淮官话的区别
 
-站上有专页 [`/origin`](https://tairu.ruilisi.com/origin)，这里是摘要。每条说法的出处见该页末尾的参考资料。
+站上有专页 [`/origin`](https://tairu.ruilisi.com/origin)，这里是摘要。
+
+**完整的资料整理记录见 [`docs/research.md`](docs/research.md)**：方法、数据表、计算过程、局限、未解决的问题、修订记录和编号参考文献。
+文献登记在 `content/references.ts`，人口数据在 `content/census.ts`，网页和文档都从这两处取数；改完运行 `yarn research` 重新生成文档。
 
 **归属**：按《中国语言地图集》，泰如话（学界也称“通泰方言”）是江淮官话的泰如片，与洪巢片（南京、扬州、合肥）、
 黄孝片并列。

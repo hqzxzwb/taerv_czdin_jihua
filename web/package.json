@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "data": "python3 scripts/build_data.py",
+    "research": "node scripts/research_doc.mts",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
