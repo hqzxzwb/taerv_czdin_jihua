@@ -37,9 +37,9 @@ export function Nav() {
     <>
       <header className="sticky top-0 z-30 border-b border-line bg-paper/90 backdrop-blur">
         <div className="mx-auto flex h-14 max-w-5xl items-center gap-6 px-4">
-          <Link href="/" className="flex items-center gap-2 text-lg font-black">
+          <Link href="/" aria-label="泰如话学堂" className="flex shrink-0 items-center gap-2 text-lg font-black">
             <span className="grid h-8 w-8 place-items-center rounded-xl bg-brand text-base text-white">泰</span>
-            泰如话学堂
+            <span className="max-[420px]:hidden">泰如话学堂</span>
           </Link>
           <nav className="hidden flex-1 items-center gap-1 md:flex">
             {[...MAIN, ...MORE].map((it) => (
