@@ -1,4 +1,4 @@
-// 生成 docs/research.md。数字和文献都取自 content/，不要手改生成的文件。
+// 生成 web/RESEARCH.md。数字和文献都取自 content/，不要手改生成的文件。
 import { writeFileSync } from 'node:fs';
 import { CORE, NANTONG_CITY, sum, wan } from '../content/census.ts';
 import { ACCESSED, REFERENCES, REF_NO, VERIFIED_LABEL } from '../content/references.ts';
@@ -130,5 +130,5 @@ ${NANTONG_CITY.map((r) => `| ${r.name} | ${r.n.toLocaleString('en-US')} | ${c(r.
 ${REFERENCES.map((r, i) => `[${i + 1}] ${r.cite}${r.url ? ` <${r.url}>` : ''}（${r.kind}；${VERIFIED_LABEL[r.verified]}${r.note ? '；' + r.note : ''}）`).join('\n\n')}
 `;
 
-writeFileSync(new URL('../docs/research.md', import.meta.url), doc);
-console.log(`docs/research.md: ${REFERENCES.length} 条文献, A=${a}, B=${b}`);
+writeFileSync(new URL('../RESEARCH.md', import.meta.url), doc);
+console.log(`RESEARCH.md: ${REFERENCES.length} 条文献, A=${a}, B=${b}`);
