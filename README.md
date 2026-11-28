@@ -1,5 +1,7 @@
 收录泰如方言词汇
 
+- [泰如话学堂](https://tairu.ruilisi.com/)：基于本项目词条做的零基础学习站（课程、练习、拼音声调、复习卡片、词典、注音器），源码与部署说明见 [`web/`](web/README.md)。
+
 - [在线辞典](https://hqzxzwb.github.io/taerv_czdin_jihua/) [旧版主页](https://hqzxzwb.github.io/taerv_czdin_jihua/home.html) [SourceForge在线辞典](https://taerv.sourceforge.io/)
 
 - [拼音方案](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUyNjEwMjM0OQ==&action=getalbum&album_id=2505440559352791041)

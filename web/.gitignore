@@ -1,0 +1,9 @@
+node_modules
+.next
+next-env.d.ts
+tsconfig.tsbuildinfo
+data/*.json
+.deploy.lock
+.deploy.env
+helm/values.local.yaml
+.baidu_pushed

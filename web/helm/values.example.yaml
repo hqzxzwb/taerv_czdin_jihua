@@ -1,0 +1,29 @@
+# 复制为 values.local.yaml 后按自己的集群填写（values.local.yaml 不进版本库）。
+replicaCount: 1
+
+image:
+  repository: registry.example.com/your-namespace/tairu-web
+  tag: latest
+  pullPolicy: Always
+
+ingress:
+  enabled: true
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+    kubernetes.io/ingress.class: nginx
+  paths: ['/']
+  tls_all: true
+  hosts:
+    - host: tairu.example.com
+
+livenessProbe:
+  enabled: true
+  httpGet:
+    path: /ping
+    port: http
+
+readinessProbe:
+  enabled: true
+  httpGet:
+    path: /ping
+    port: http

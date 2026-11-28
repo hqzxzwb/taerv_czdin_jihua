@@ -1,0 +1,329 @@
+# 课程源文件。格式：
+#   U 单元id|标题|图标|一句话介绍
+#   L 课标题
+#   词|拼音|普通话意思        ← 取自词典词条（必须存在，否则构建失败）
+#   =字|拼音|普通话意思       ← 取自单字音表 daen_cz.csv
+U people|我、你、他|👋|先学会说“我”和“你”
+L 我你他
+我|ngu3|我
+你|nii3|你
+他|ta1|他
+哪个|la3 gu5|谁；哪一个
+自家|cz6 ga1|自己
+人家|ren2 ga|别人
+L 我们你们
+我俫|ngu3 lae|我们
+你俫|nii3 lae|你们
+他俫|ta1 lae|他们
+伢儿|nga2 r|小孩
+细伢儿|xi5 nga2 r|小孩子
+乖乖|guae1 guae1|宝贝（对小孩的爱称）
+
+U numbers|数数|🔢|从一数到十，再数到一万
+L 一到五
+=一|ieh7|一
+=二|er6|二
+=三|saen1|三
+=四|sz5|四
+=五|vv3|五
+L 六到十
+=六|loh8|六
+=七|qieh7|七
+=八|baeh7|八
+=九|jieu3|九
+=十|sheh8|十
+L 大数和量词
+=百|boh7|百
+=千|qin1|千
+=万|vaen6|万
+=两|lian3|两（斤两）
+=个|gu5|个
+多少|du1 sho3|多少
+
+U family|家里人|👨‍👩‍👧|爹爹奶奶、哥哥姐姐怎么喊
+L 爸爸妈妈
+爸爸|ba5 ba|爸爸
+妈妈|ma1 ma1|妈妈
+老子|lo3 zz|父亲（老派说法）
+娘|nian2|母亲（老派说法）
+哥哥|gu1 gu|哥哥
+姐姐|jia3 jia3|姐姐
+弟弟|ti6 ti6|弟弟
+妹妹|mei6 mei6|妹妹
+L 爹爹奶奶
+爹爹|dia1 dia1|爷爷（祖父）
+奶奶|nae3 nae|奶奶（祖母）
+婆爹爹|pu2 dia1 dia|外公
+婆奶奶|pu2 nae3 nae|外婆
+舅舅|qieu6 qieu|舅舅
+舅母|qieu6 mu|舅妈
+L 男伢儿女伢儿
+男伢儿|nun2 nga2 r|男孩
+女伢儿|ny3 nga2 r|女孩
+丫头|nga1 teu|女儿；女孩
+小伙|xio3 hu|儿子；小伙子
+男将|nun2 jian|丈夫
+女将|ny3 jian|妻子；已婚妇女
+
+U time|今朝明朝|📅|今天、明天、刚才、一会儿
+L 哪一天
+今朝|gen1 do|今天
+明朝|men2 do|明天
+昨朝|cah8 do|昨天
+后朝|heu6 do|后天
+前朝|qin2 zho|前天
+几时|ji3 shr2|什么时候
+L 早上晚上
+早上|zo3 shan|早上
+中上|zhon1 shan|中午
+晚上|vaen3 shan|晚上
+夜头|ia6 teu|夜里；晚上
+日里|rih8 lii|白天
+夜里|ia6 lii|夜里
+L 一会儿和刚才
+刻儿|keh9 r|一会儿
+才刚|cae2 gan1|刚才
+将才|jian1 cae2|刚才
+今年|gen1 nin2|今年
+明年|men2 nin2|明年
+去年|qy5 nin2|去年
+过年|gu5 nin2|过年
+
+U ask|这个那个|❓|指东西、问问题
+L 这和那
+这个|zha5 gu|这个
+那个|lu5 gu5|那个
+这块|zha5 kuae5|这里
+那块|lu5 kuae5|那里
+这些|zha5 xia1|这些
+那些|lu5 xia1|那些
+箇|geh7|这（有的地方说“箇”）
+L 问一问
+甚的|shen2 nii|什么
+哪块|la3 kuae5|哪里
+哪些|la3 xia1|哪些
+怎吖|zen3 nga|怎么；怎么样
+为甚的|vei6 shen2 nii|为什么
+多大|du1 da6|几岁
+做甚的|zu5 shen2 nii|做什么
+L 有没有
+没得|meh8 deh|没有
+不曾|beh7 cen2|还没有；没……过
+嫑|bio5|不要（“不要”合成一个音）
+哿曾|gu3 cen2|有没有……过
+晓得|xio3 deh|知道
+不晓得|beh7 xio3 deh7|不知道
+认得|ren6 deh|认识
+记得|ji5 deh7|记得
+
+U food|吃饭吃茶|🍚|吃的、喝的和味道
+L 三顿饭
+吃饭|qieh7 faen6|吃饭
+早饭|zo3 faen6|早饭
+中饭|zhon1 faen6|午饭
+夜饭|ia6 faen6|晚饭
+吃茶|qieh7 cha2|喝茶；喝水
+吃酒|qieh7 jieu3|喝酒
+L 好吃的
+粥|zhoh7|粥
+烧饼|sho1 bien3|烧饼
+馒头|mun2 teu|包子；馒头
+番芋|faen1 y|红薯
+豆腐|teu6 fv|豆腐
+鸡蛋|ji1 taen6|鸡蛋
+青菜|qien1 cae5|青菜
+茶食|cha2 sheh|糕点零食
+L 味道
+咸|haen2|咸
+淡|taen6|淡
+辣|laeh8|辣
+苦|kv3|苦
+酸|sun1|酸
+烫|tan5|烫
+杀馋|shaeh7 shaen2|解馋
+杀渴|shaeh7 kuh7|解渴；过瘾
+
+U body|头和手脚|🖐️|身上的各个部分
+L 脸上
+头|teu2|头
+眼睛|ngaen3 jien|眼睛
+鼻子|pieh8 zz|鼻子
+耳朵|er3 du|耳朵
+牙齿|nga2 chr3|牙齿
+=嘴|zuei3|嘴
+=脸|lin3|脸
+L 身上
+=手|sheu3|手
+脚|jiah7|脚；腿
+肚子|dv3 zz|肚子
+吃力|qieh7 lieh|累
+发热|faeh7 rih8|发烧
+伤风|shan1 fon1|感冒
+害病|hae6 pien6|生病
+吃药|qieh7 iah8|吃药
+
+U verbs|望望听听|🏃|每天都在做的事
+L 看听说
+望|van6|看
+听|tien5|听
+讲|gan3|说；讲
+喊|haen3|叫；喊
+寻|qien2|找
+晓得|xio3 deh|知道
+L 手上的动作
+搛|jin1|用筷子夹
+撂|lio6|扔
+掼|kuaen6|摔；扔
+拎|lien1|提
+把|ba3|给
+拿|na2|拿
+L 走和跑
+走|zeu3|走
+跑|po2|跑；离开
+站|zhaen5|站
+家去|ga1 qi|回家去
+家来|ga1 lae|回家来
+起来|qi3 lae|起床；站起来
+L 一天的事
+睏觉|kuen5 go5|睡觉
+耍子|shua3 zz|玩
+上学|shan6 xiah8|上学
+念书|nin6 shv1|读书
+写字|xia3 cz6|写字
+放学|fan5 xiah8|放学
+煮饭|zhv3 faen6|做饭
+
+U weather|落雨落雪|🌦️|天气和冷暖
+L 天上
+太阳|tae5 ian|太阳
+月亮|iuh8 lian6|月亮
+风|fon1|风
+云|yen2|云
+雪|xiuh7|雪
+L 天气
+落雨|lah8 y3|下雨
+落雪|lah8 xiuh7|下雪
+天阴|tin1 ien1|阴天
+暖和|nun3 hu|暖和
+风凉|fon1 lian2|凉快
+冷天|len3 tin1|冬天；冷的日子
+热天|rih8 tin1|夏天；热的日子
+L 四季
+春天|chuen1 tin1|春天
+夏天|xia6 tin1|夏天
+秋天|qieu1 tin1|秋天
+冬天|don1 tin1|冬天
+生日|shen1 rih8|生日
+中秋|zhon1 qieu1|中秋
+
+U animals|猫儿狗子|🐱|身边的小动物
+L 家里养的
+狗|geu3|狗
+猫儿|mo2 r|猫
+猪|zhv1|猪
+牛|ngeu2|牛
+鸡子|ji1 zz|鸡
+鸭子|ngaeh7 zz|鸭子
+鹅|ngu2|鹅
+兔子|tv5 zz|兔子
+L 野外的
+鱼|y2|鱼
+老鼠|lo3 chv3|老鼠
+麻雀儿|ma2 jiah7 r|麻雀
+田鸡|tin2 ji1|青蛙
+癞宝|lae6 bo|癞蛤蟆
+蛇|sha2|蛇
+蚊子|ven2 zz|蚊子
+苍蝇|can1 ien|苍蝇
+
+U home|家里东西|🏠|屋里的东西叫什么
+L 屋子
+家|ga1|家
+房子|fan2 zz|房子
+门|men2|门
+窗子|chuan1 zz|窗户
+桌子|zhuah7 zz|桌子
+板凳|baen3 den5|长凳
+床|chuan2|床
+L 用的穿的
+碗|un3|碗
+筷子|kuae5 zz|筷子
+衣裳|i1 shan|衣服
+鞋子|hae2 zz|鞋
+帽子|mo6 zz|帽子
+伞|saen3|伞
+脚踏车|jiah7 taeh cha1|自行车
+L 上下里外
+上头|shan6 teu|上面
+下头|ha6 teu|下面
+里头|li3 teu|里面
+外头|vae6 teu|外面
+前头|qin2 teu|前面
+后头|heu6 teu|后面
+高头|go1 teu|上边
+
+U colors|颜色|🎨|红黄蓝绿白黑
+L 六种颜色
+=红|hon2|红
+=黄|huan2|黄
+=蓝|laen2|蓝
+=绿|loh8|绿
+=白|poh8|白
+=黑|heh7|黑
+
+U adj|好不好|⭐|夸人、形容东西
+L 大小多少
+大|da6|大
+细|xi5|小
+多|du1|多
+少|sho3|少
+长|chan2|长
+短|dun3|短
+L 夸一夸
+好看|ho3 kun5|好看
+标致|bio1 zhr5|漂亮
+蛮好|maen2 ho3|挺好
+刮刮叫|guaeh7 guaeh7 jio5|非常好
+来事|lae2 shr6|行；棒
+聪明|con1 mien2|聪明
+麻利|ma2 li6|动作快
+乖|guae1|乖
+L 心情
+快活|kuae5 huh8|高兴
+欢喜|hu1 xi|喜欢
+适意|sheh7 i5|舒服
+难过|naen2 gu5|不舒服；难受
+害怕|hae6 pa5|害怕
+L 不太好
+难看|naen2 kun5|难看
+推板|ty1 baen|差；不好
+邋遢|laeh8 taeh|脏；不整洁
+皮|pi2|调皮
+呆|dae1|傻
+促狭|coh7 kuaeh|爱捉弄人
+
+U polite|客气话|🙏|谢谢、对不起、再见
+L 常用客气话
+谢谢|qia6 qia6|谢谢
+对不起|duei5 beh7 qi3|对不起
+没事|meh8 shr6|没关系；不用谢
+不要紧|beh7 io5 jien3|不要紧
+不碍事|beh7 ngae6 shr6|不碍事
+再会|zae5 huei6|再见
+L 行不行
+要得|io5 deh|行；可以
+中|zhon1|行；成
+不来事|beh7 lae2 shr6|不行
+拉倒|la1 do3|算了
+不得了|beh7 deh7 lio3|不得了
+没得命|meh8 deh7 mien6|天哪（表示吃惊）
+
+U school|上学堂|🎒|学校里的人和事
+L 学堂里
+学堂|xiah8 tan2|学校
+先生|xin1 shen1|老师（老派说法）
+老师|lo3 shr1|老师
+学生|xiah8 shen|学生
+同学|ton2 xiah8|同学
+朋友|pon2 ieu|朋友
+考试|ko3 shr5|考试
